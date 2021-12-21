@@ -1,0 +1,5 @@
+State,Date,Sex.Group,Number,Percent,Source
+Wisconsin,2020-12-31,Male,18868,NA,https://doc.wi.gov/Pages/DataResearch/PrisonPointInTime.aspx
+Wisconsin,2020-12-31,Female,1253,NA,https://doc.wi.gov/Pages/DataResearch/PrisonPointInTime.aspx
+Wisconsin,2019-12-31,Male,22244,NA,https://doc.wi.gov/Pages/DataResearch/PrisonPointInTime.aspx
+Wisconsin,2019-12-31,Female,1534,NA,https://doc.wi.gov/Pages/DataResearch/PrisonPointInTime.aspx

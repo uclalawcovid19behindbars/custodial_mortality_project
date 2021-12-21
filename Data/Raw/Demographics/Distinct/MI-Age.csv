@@ -1,0 +1,29 @@
+State,Date,Age.Group,Number,Percent,Source
+Michigan,2020-12-31,Under 20,222,NA,https://www.michigan.gov/documents/corrections/2020_Statistical_Report_730065_7.pdf
+Michigan,2020-12-31,20-24,2522,NA,https://www.michigan.gov/documents/corrections/2020_Statistical_Report_730065_7.pdf
+Michigan,2020-12-31,25-29,4963,NA,https://www.michigan.gov/documents/corrections/2020_Statistical_Report_730065_7.pdf
+Michigan,2020-12-31,30-34,5130,NA,https://www.michigan.gov/documents/corrections/2020_Statistical_Report_730065_7.pdf
+Michigan,2020-12-31,35-39,4626,NA,https://www.michigan.gov/documents/corrections/2020_Statistical_Report_730065_7.pdf
+Michigan,2020-12-31,40-44,4147,NA,https://www.michigan.gov/documents/corrections/2020_Statistical_Report_730065_7.pdf
+Michigan,2020-12-31,45-49,3410,NA,https://www.michigan.gov/documents/corrections/2020_Statistical_Report_730065_7.pdf
+Michigan,2020-12-31,50-54,3008,NA,https://www.michigan.gov/documents/corrections/2020_Statistical_Report_730065_7.pdf
+Michigan,2020-12-31,55-59,2336,NA,https://www.michigan.gov/documents/corrections/2020_Statistical_Report_730065_7.pdf
+Michigan,2020-12-31,60-64,1574,NA,https://www.michigan.gov/documents/corrections/2020_Statistical_Report_730065_7.pdf
+Michigan,2020-12-31,65-69,948,NA,https://www.michigan.gov/documents/corrections/2020_Statistical_Report_730065_7.pdf
+Michigan,2020-12-31,70-74,480,NA,https://www.michigan.gov/documents/corrections/2020_Statistical_Report_730065_7.pdf
+Michigan,2020-12-31,75-79,190,NA,https://www.michigan.gov/documents/corrections/2020_Statistical_Report_730065_7.pdf
+Michigan,2020-12-31,80+,70,NA,https://www.michigan.gov/documents/corrections/2020_Statistical_Report_730065_7.pdf
+Michigan,2019-12-31,Under 20,402,NA,https://www.michigan.gov/documents/corrections/MDOC_2019_Statistical_Report_717026_7.pdf
+Michigan,2019-12-31,20-24,3269,NA,https://www.michigan.gov/documents/corrections/MDOC_2019_Statistical_Report_717026_7.pdf
+Michigan,2019-12-31,25-29,5922,NA,https://www.michigan.gov/documents/corrections/MDOC_2019_Statistical_Report_717026_7.pdf
+Michigan,2019-12-31,30-34,5617,NA,https://www.michigan.gov/documents/corrections/MDOC_2019_Statistical_Report_717026_7.pdf
+Michigan,2019-12-31,35-39,5173,NA,https://www.michigan.gov/documents/corrections/MDOC_2019_Statistical_Report_717026_7.pdf
+Michigan,2019-12-31,40-44,4503,NA,https://www.michigan.gov/documents/corrections/MDOC_2019_Statistical_Report_717026_7.pdf
+Michigan,2019-12-31,45-49,3884,NA,https://www.michigan.gov/documents/corrections/MDOC_2019_Statistical_Report_717026_7.pdf
+Michigan,2019-12-31,50-54,3274,NA,https://www.michigan.gov/documents/corrections/MDOC_2019_Statistical_Report_717026_7.pdf
+Michigan,2019-12-31,55-59,2576,NA,https://www.michigan.gov/documents/corrections/MDOC_2019_Statistical_Report_717026_7.pdf
+Michigan,2019-12-31,60-64,1658,NA,https://www.michigan.gov/documents/corrections/MDOC_2019_Statistical_Report_717026_7.pdf
+Michigan,2019-12-31,65-69,991,NA,https://www.michigan.gov/documents/corrections/MDOC_2019_Statistical_Report_717026_7.pdf
+Michigan,2019-12-31,70-74,499,NA,https://www.michigan.gov/documents/corrections/MDOC_2019_Statistical_Report_717026_7.pdf
+Michigan,2019-12-31,75-79,202,NA,https://www.michigan.gov/documents/corrections/MDOC_2019_Statistical_Report_717026_7.pdf
+Michigan,2019-12-31,80+,75,NA,https://www.michigan.gov/documents/corrections/MDOC_2019_Statistical_Report_717026_7.pdf

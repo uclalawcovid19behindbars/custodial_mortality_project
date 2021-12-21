@@ -1,0 +1,61 @@
+State,Date,Sex.Group,Age.Group,Number,Percent,Source
+Missouri,2020-06-30,Male,15 and Under,0,NA,https://doc.mo.gov/media/pdf/offender-profile-fy-20
+Missouri,2020-06-30,Male,16,0,NA,https://doc.mo.gov/media/pdf/offender-profile-fy-20
+Missouri,2020-06-30,Male,17,4,NA,https://doc.mo.gov/media/pdf/offender-profile-fy-20
+Missouri,2020-06-30,Male,18-19,111,NA,https://doc.mo.gov/media/pdf/offender-profile-fy-20
+Missouri,2020-06-30,Male,20-24,1690,NA,https://doc.mo.gov/media/pdf/offender-profile-fy-20
+Missouri,2020-06-30,Male,25-29,3294,NA,https://doc.mo.gov/media/pdf/offender-profile-fy-20
+Missouri,2020-06-30,Male,30-34,3595,NA,https://doc.mo.gov/media/pdf/offender-profile-fy-20
+Missouri,2020-06-30,Male,35-39,3261,NA,https://doc.mo.gov/media/pdf/offender-profile-fy-20
+Missouri,2020-06-30,Male,40-44,2721,NA,https://doc.mo.gov/media/pdf/offender-profile-fy-20
+Missouri,2020-06-30,Male,45-49,2127,NA,https://doc.mo.gov/media/pdf/offender-profile-fy-20
+Missouri,2020-06-30,Male,50-54,1674,NA,https://doc.mo.gov/media/pdf/offender-profile-fy-20
+Missouri,2020-06-30,Male,55-59,1583,NA,https://doc.mo.gov/media/pdf/offender-profile-fy-20
+Missouri,2020-06-30,Male,60-64,1024,NA,https://doc.mo.gov/media/pdf/offender-profile-fy-20
+Missouri,2020-06-30,Male,65-69,501,NA,https://doc.mo.gov/media/pdf/offender-profile-fy-20
+Missouri,2020-06-30,Male,70 and Over,377,NA,https://doc.mo.gov/media/pdf/offender-profile-fy-20
+Missouri,2020-06-30,Female,15 and Under,0,NA,https://doc.mo.gov/media/pdf/offender-profile-fy-20
+Missouri,2020-06-30,Female,16,0,NA,https://doc.mo.gov/media/pdf/offender-profile-fy-20
+Missouri,2020-06-30,Female,17,0,NA,https://doc.mo.gov/media/pdf/offender-profile-fy-20
+Missouri,2020-06-30,Female,18-19,13,NA,https://doc.mo.gov/media/pdf/offender-profile-fy-20
+Missouri,2020-06-30,Female,20-24,133,NA,https://doc.mo.gov/media/pdf/offender-profile-fy-20
+Missouri,2020-06-30,Female,25-29,350,NA,https://doc.mo.gov/media/pdf/offender-profile-fy-20
+Missouri,2020-06-30,Female,30-34,426,NA,https://doc.mo.gov/media/pdf/offender-profile-fy-20
+Missouri,2020-06-30,Female,35-39,397,NA,https://doc.mo.gov/media/pdf/offender-profile-fy-20
+Missouri,2020-06-30,Female,40-44,288,NA,https://doc.mo.gov/media/pdf/offender-profile-fy-20
+Missouri,2020-06-30,Female,45-49,165,NA,https://doc.mo.gov/media/pdf/offender-profile-fy-20
+Missouri,2020-06-30,Female,50-54,121,NA,https://doc.mo.gov/media/pdf/offender-profile-fy-20
+Missouri,2020-06-30,Female,55-59,87,NA,https://doc.mo.gov/media/pdf/offender-profile-fy-20
+Missouri,2020-06-30,Female,60-64,46,NA,https://doc.mo.gov/media/pdf/offender-profile-fy-20
+Missouri,2020-06-30,Female,65-69,11,NA,https://doc.mo.gov/media/pdf/offender-profile-fy-20
+Missouri,2020-06-30,Female,70 and Over,11,NA,https://doc.mo.gov/media/pdf/offender-profile-fy-20
+Missouri,2019-06-30,Male,15 and Under,0,NA,https://doc.mo.gov/sites/doc/files/media/pdf/2020/03/Offender_Profile_2019_1.pdf
+Missouri,2019-06-30,Male,16,0,NA,https://doc.mo.gov/sites/doc/files/media/pdf/2020/03/Offender_Profile_2019_1.pdf
+Missouri,2019-06-30,Male,17,2,NA,https://doc.mo.gov/sites/doc/files/media/pdf/2020/03/Offender_Profile_2019_1.pdf
+Missouri,2019-06-30,Male,18-19,161,NA,https://doc.mo.gov/sites/doc/files/media/pdf/2020/03/Offender_Profile_2019_1.pdf
+Missouri,2019-06-30,Male,20-24,2024,NA,https://doc.mo.gov/sites/doc/files/media/pdf/2020/03/Offender_Profile_2019_1.pdf
+Missouri,2019-06-30,Male,25-29,4036,NA,https://doc.mo.gov/sites/doc/files/media/pdf/2020/03/Offender_Profile_2019_1.pdf
+Missouri,2019-06-30,Male,30-34,4034,NA,https://doc.mo.gov/sites/doc/files/media/pdf/2020/03/Offender_Profile_2019_1.pdf
+Missouri,2019-06-30,Male,35-39,3823,NA,https://doc.mo.gov/sites/doc/files/media/pdf/2020/03/Offender_Profile_2019_1.pdf
+Missouri,2019-06-30,Male,40-44,3101,NA,https://doc.mo.gov/sites/doc/files/media/pdf/2020/03/Offender_Profile_2019_1.pdf
+Missouri,2019-06-30,Male,45-49,2561,NA,https://doc.mo.gov/sites/doc/files/media/pdf/2020/03/Offender_Profile_2019_1.pdf
+Missouri,2019-06-30,Male,50-54,2005,NA,https://doc.mo.gov/sites/doc/files/media/pdf/2020/03/Offender_Profile_2019_1.pdf
+Missouri,2019-06-30,Male,55-59,1817,NA,https://doc.mo.gov/sites/doc/files/media/pdf/2020/03/Offender_Profile_2019_1.pdf
+Missouri,2019-06-30,Male,60-64,1079,NA,https://doc.mo.gov/sites/doc/files/media/pdf/2020/03/Offender_Profile_2019_1.pdf
+Missouri,2019-06-30,Male,65-69,464,NA,https://doc.mo.gov/sites/doc/files/media/pdf/2020/03/Offender_Profile_2019_1.pdf
+Missouri,2019-06-30,Male,70 and Over,376,NA,https://doc.mo.gov/sites/doc/files/media/pdf/2020/03/Offender_Profile_2019_1.pdf
+Missouri,2019-06-30,Female,15 and Under,0,NA,https://doc.mo.gov/sites/doc/files/media/pdf/2020/03/Offender_Profile_2019_1.pdf
+Missouri,2019-06-30,Female,16,0,NA,https://doc.mo.gov/sites/doc/files/media/pdf/2020/03/Offender_Profile_2019_1.pdf
+Missouri,2019-06-30,Female,17,0,NA,https://doc.mo.gov/sites/doc/files/media/pdf/2020/03/Offender_Profile_2019_1.pdf
+Missouri,2019-06-30,Female,18-19,12,NA,https://doc.mo.gov/sites/doc/files/media/pdf/2020/03/Offender_Profile_2019_1.pdf
+Missouri,2019-06-30,Female,20-24,188,NA,https://doc.mo.gov/sites/doc/files/media/pdf/2020/03/Offender_Profile_2019_1.pdf
+Missouri,2019-06-30,Female,25-29,491,NA,https://doc.mo.gov/sites/doc/files/media/pdf/2020/03/Offender_Profile_2019_1.pdf
+Missouri,2019-06-30,Female,30-34,551,NA,https://doc.mo.gov/sites/doc/files/media/pdf/2020/03/Offender_Profile_2019_1.pdf
+Missouri,2019-06-30,Female,35-39,546,NA,https://doc.mo.gov/sites/doc/files/media/pdf/2020/03/Offender_Profile_2019_1.pdf
+Missouri,2019-06-30,Female,40-44,351,NA,https://doc.mo.gov/sites/doc/files/media/pdf/2020/03/Offender_Profile_2019_1.pdf
+Missouri,2019-06-30,Female,45-49,236,NA,https://doc.mo.gov/sites/doc/files/media/pdf/2020/03/Offender_Profile_2019_1.pdf
+Missouri,2019-06-30,Female,50-54,163,NA,https://doc.mo.gov/sites/doc/files/media/pdf/2020/03/Offender_Profile_2019_1.pdf
+Missouri,2019-06-30,Female,55-59,96,NA,https://doc.mo.gov/sites/doc/files/media/pdf/2020/03/Offender_Profile_2019_1.pdf
+Missouri,2019-06-30,Female,60-64,40,NA,https://doc.mo.gov/sites/doc/files/media/pdf/2020/03/Offender_Profile_2019_1.pdf
+Missouri,2019-06-30,Female,65-69,15,NA,https://doc.mo.gov/sites/doc/files/media/pdf/2020/03/Offender_Profile_2019_1.pdf
+Missouri,2019-06-30,Female,70 and Over,11,NA,https://doc.mo.gov/sites/doc/files/media/pdf/2020/03/Offender_Profile_2019_1.pdf

@@ -1,0 +1,13 @@
+State,Date,Age.Group,Number,Percent,Source
+Idaho,2020-06-30,18-24,793,9.2,https://www.idoc.idaho.gov/content/document/fy2020_citizen_centric_report
+Idaho,2020-06-30,25-34,2927,34.1,https://www.idoc.idaho.gov/content/document/fy2020_citizen_centric_report
+Idaho,2020-06-30,35-44,2493,29.1,https://www.idoc.idaho.gov/content/document/fy2020_citizen_centric_report
+Idaho,2020-06-30,45-54,1373,16,https://www.idoc.idaho.gov/content/document/fy2020_citizen_centric_report
+Idaho,2020-06-30,55-64,746,8.7,https://www.idoc.idaho.gov/content/document/fy2020_citizen_centric_report
+Idaho,2020-06-30,65+,65,2.9,https://www.idoc.idaho.gov/content/document/fy2020_citizen_centric_report
+Idaho,2019-06-30,18-24,917,NA,https://www.idoc.idaho.gov/content/document/fy2019_citizen_centric_report
+Idaho,2019-06-30,25-34,3197,NA,https://www.idoc.idaho.gov/content/document/fy2019_citizen_centric_report
+Idaho,2019-06-30,35-44,2489,NA,https://www.idoc.idaho.gov/content/document/fy2019_citizen_centric_report
+Idaho,2019-06-30,45-54,1407,NA,https://www.idoc.idaho.gov/content/document/fy2019_citizen_centric_report
+Idaho,2019-06-30,55-64,771,NA,https://www.idoc.idaho.gov/content/document/fy2019_citizen_centric_report
+Idaho,2019-06-30,65+,246,NA,https://www.idoc.idaho.gov/content/document/fy2019_citizen_centric_report

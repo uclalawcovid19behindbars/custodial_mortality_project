@@ -1,0 +1,5 @@
+State,Date,Sex.Group,Number,Percent,Source
+California,2018-06-30,Male,123511,95.4,https://www.cdcr.ca.gov/research/wp-content/uploads/sites/174/2021/06/201906_DataPoints.pdf
+California,2018-06-30,Female,5906,4.6,https://www.cdcr.ca.gov/research/wp-content/uploads/sites/174/2021/06/201906_DataPoints.pdf
+California,2019-06-30,Male,119781,95.5,https://www.cdcr.ca.gov/research/wp-content/uploads/sites/174/2021/06/201906_DataPoints.pdf
+California,2019-06-30,Female,5691,4.5,https://www.cdcr.ca.gov/research/wp-content/uploads/sites/174/2021/06/201906_DataPoints.pdf

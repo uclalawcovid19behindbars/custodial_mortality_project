@@ -1,0 +1,25 @@
+State,Date,Age.Group,Number,Percent,Source
+Washington,2018-06-30,Under 22,587,NA,https://web.archive.org/web/20200614092713/https://www.doc.wa.gov/corrections/incarceration/prisons/default.htm
+Washington,2018-06-30,22-25,1504,NA,https://web.archive.org/web/20200614092713/https://www.doc.wa.gov/corrections/incarceration/prisons/default.htm
+Washington,2018-06-30,26-30,2983,NA,https://web.archive.org/web/20200614092713/https://www.doc.wa.gov/corrections/incarceration/prisons/default.htm
+Washington,2018-06-30,31-35,3133,NA,https://web.archive.org/web/20200614092713/https://www.doc.wa.gov/corrections/incarceration/prisons/default.htm
+Washington,2018-06-30,36-40,2786,NA,https://web.archive.org/web/20200614092713/https://www.doc.wa.gov/corrections/incarceration/prisons/default.htm
+Washington,2018-06-30,41-45,1890,NA,https://web.archive.org/web/20200614092713/https://www.doc.wa.gov/corrections/incarceration/prisons/default.htm
+Washington,2018-06-30,46-50,1681,NA,https://web.archive.org/web/20200614092713/https://www.doc.wa.gov/corrections/incarceration/prisons/default.htm
+Washington,2018-06-30,51-55,1370,NA,https://web.archive.org/web/20200614092713/https://www.doc.wa.gov/corrections/incarceration/prisons/default.htm
+Washington,2018-06-30,56-60,920,NA,https://web.archive.org/web/20200614092713/https://www.doc.wa.gov/corrections/incarceration/prisons/default.htm
+Washington,2018-06-30,61-65,502,NA,https://web.archive.org/web/20200614092713/https://www.doc.wa.gov/corrections/incarceration/prisons/default.htm
+Washington,2018-06-30,66-70,267,NA,https://web.archive.org/web/20200614092713/https://www.doc.wa.gov/corrections/incarceration/prisons/default.htm
+Washington,2018-06-30,Over 70,222,NA,https://web.archive.org/web/20200614092713/https://www.doc.wa.gov/corrections/incarceration/prisons/default.htm
+Washington,2021-09-30,Under 22,294,NA,https://www.doc.wa.gov/corrections/incarceration/prisons/default.htm#prison-pop-age
+Washington,2021-09-30,22-25,948,NA,https://www.doc.wa.gov/corrections/incarceration/prisons/default.htm#prison-pop-age
+Washington,2021-09-30,26-30,1772,NA,https://www.doc.wa.gov/corrections/incarceration/prisons/default.htm#prison-pop-age
+Washington,2021-09-30,31-35,2270,NA,https://www.doc.wa.gov/corrections/incarceration/prisons/default.htm#prison-pop-age
+Washington,2021-09-30,36-40,2113,NA,https://www.doc.wa.gov/corrections/incarceration/prisons/default.htm#prison-pop-age
+Washington,2021-09-30,41-45,1697,NA,https://www.doc.wa.gov/corrections/incarceration/prisons/default.htm#prison-pop-age
+Washington,2021-09-30,46-50,1210,NA,https://www.doc.wa.gov/corrections/incarceration/prisons/default.htm#prison-pop-age
+Washington,2021-09-30,51-55,1033,NA,https://www.doc.wa.gov/corrections/incarceration/prisons/default.htm#prison-pop-age
+Washington,2021-09-30,56-60,820,NA,https://www.doc.wa.gov/corrections/incarceration/prisons/default.htm#prison-pop-age
+Washington,2021-09-30,61-65,540,NA,https://www.doc.wa.gov/corrections/incarceration/prisons/default.htm#prison-pop-age
+Washington,2021-09-30,66-70,279,NA,https://www.doc.wa.gov/corrections/incarceration/prisons/default.htm#prison-pop-age
+Washington,2021-09-30,Over 70,272,NA,https://www.doc.wa.gov/corrections/incarceration/prisons/default.htm#prison-pop-age

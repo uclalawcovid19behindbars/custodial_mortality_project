@@ -1,0 +1,57 @@
+State,Date,Sex.Group,Age.Group,Number,Percent,Source
+Georgia,2020-12-01,Male,1-19,385,NA,http://www.dcor.state.ga.us/sites/all/themes/gdc/pdf/Profile_all_inmates_2020_11.pdf
+Georgia,2020-12-01,Male,20-29,10894,NA,http://www.dcor.state.ga.us/sites/all/themes/gdc/pdf/Profile_all_inmates_2020_11.pdf
+Georgia,2020-12-01,Male,30-39,13676,NA,http://www.dcor.state.ga.us/sites/all/themes/gdc/pdf/Profile_all_inmates_2020_11.pdf
+Georgia,2020-12-01,Male,40-49,10025,NA,http://www.dcor.state.ga.us/sites/all/themes/gdc/pdf/Profile_all_inmates_2020_11.pdf
+Georgia,2020-12-01,Male,50-59,6324,NA,http://www.dcor.state.ga.us/sites/all/themes/gdc/pdf/Profile_all_inmates_2020_11.pdf
+Georgia,2020-12-01,Male,60-69,2654,NA,http://www.dcor.state.ga.us/sites/all/themes/gdc/pdf/Profile_all_inmates_2020_11.pdf
+Georgia,2020-12-01,Male,70 and above,679,NA,http://www.dcor.state.ga.us/sites/all/themes/gdc/pdf/Profile_all_inmates_2020_11.pdf
+Georgia,2020-12-01,Female,1-19,18,NA,http://www.dcor.state.ga.us/sites/all/themes/gdc/pdf/Profile_all_inmates_2020_11.pdf
+Georgia,2020-12-01,Female,20-29,753,NA,http://www.dcor.state.ga.us/sites/all/themes/gdc/pdf/Profile_all_inmates_2020_11.pdf
+Georgia,2020-12-01,Female,30-39,1125,NA,http://www.dcor.state.ga.us/sites/all/themes/gdc/pdf/Profile_all_inmates_2020_11.pdf
+Georgia,2020-12-01,Female,40-49,749,NA,http://www.dcor.state.ga.us/sites/all/themes/gdc/pdf/Profile_all_inmates_2020_11.pdf
+Georgia,2020-12-01,Female,50-59,384,NA,http://www.dcor.state.ga.us/sites/all/themes/gdc/pdf/Profile_all_inmates_2020_11.pdf
+Georgia,2020-12-01,Female,60-69,118,NA,http://www.dcor.state.ga.us/sites/all/themes/gdc/pdf/Profile_all_inmates_2020_11.pdf
+Georgia,2020-12-01,Female,70 and above,18,NA,http://www.dcor.state.ga.us/sites/all/themes/gdc/pdf/Profile_all_inmates_2020_11.pdf
+Georgia,2020-06-01,Male,1-19,552,NA,http://www.dcor.state.ga.us/sites/all/themes/gdc/pdf/Profile_all_inmates_2020_05.pdf
+Georgia,2020-06-01,Male,20-29,12272,NA,http://www.dcor.state.ga.us/sites/all/themes/gdc/pdf/Profile_all_inmates_2020_05.pdf
+Georgia,2020-06-01,Male,30-39,14717,NA,http://www.dcor.state.ga.us/sites/all/themes/gdc/pdf/Profile_all_inmates_2020_05.pdf
+Georgia,2020-06-01,Male,40-49,10566,NA,http://www.dcor.state.ga.us/sites/all/themes/gdc/pdf/Profile_all_inmates_2020_05.pdf
+Georgia,2020-06-01,Male,50-59,6707,NA,http://www.dcor.state.ga.us/sites/all/themes/gdc/pdf/Profile_all_inmates_2020_05.pdf
+Georgia,2020-06-01,Male,60-69,2682,NA,http://www.dcor.state.ga.us/sites/all/themes/gdc/pdf/Profile_all_inmates_2020_05.pdf
+Georgia,2020-06-01,Male,70 and above,698,NA,http://www.dcor.state.ga.us/sites/all/themes/gdc/pdf/Profile_all_inmates_2020_05.pdf
+Georgia,2020-06-01,Female,1-19,25,NA,http://www.dcor.state.ga.us/sites/all/themes/gdc/pdf/Profile_all_inmates_2020_05.pdf
+Georgia,2020-06-01,Female,20-29,849,NA,http://www.dcor.state.ga.us/sites/all/themes/gdc/pdf/Profile_all_inmates_2020_05.pdf
+Georgia,2020-06-01,Female,30-39,1267,NA,http://www.dcor.state.ga.us/sites/all/themes/gdc/pdf/Profile_all_inmates_2020_05.pdf
+Georgia,2020-06-01,Female,40-49,776,NA,http://www.dcor.state.ga.us/sites/all/themes/gdc/pdf/Profile_all_inmates_2020_05.pdf
+Georgia,2020-06-01,Female,50-59,431,NA,http://www.dcor.state.ga.us/sites/all/themes/gdc/pdf/Profile_all_inmates_2020_05.pdf
+Georgia,2020-06-01,Female,60-69,121,NA,http://www.dcor.state.ga.us/sites/all/themes/gdc/pdf/Profile_all_inmates_2020_05.pdf
+Georgia,2020-06-01,Female,70 and above,20,NA,http://www.dcor.state.ga.us/sites/all/themes/gdc/pdf/Profile_all_inmates_2020_05.pdf
+Georgia,2019-12-01,Male,1-19,682,NA,http://www.dcor.state.ga.us/sites/all/themes/gdc/pdf/Profile_all_inmates_2019_11.pdf
+Georgia,2019-12-01,Male,20-29,13475,NA,http://www.dcor.state.ga.us/sites/all/themes/gdc/pdf/Profile_all_inmates_2019_11.pdf
+Georgia,2019-12-01,Male,30-39,15780,NA,http://www.dcor.state.ga.us/sites/all/themes/gdc/pdf/Profile_all_inmates_2019_11.pdf
+Georgia,2019-12-01,Male,40-49,11092,NA,http://www.dcor.state.ga.us/sites/all/themes/gdc/pdf/Profile_all_inmates_2019_11.pdf
+Georgia,2019-12-01,Male,50-59,7064,NA,http://www.dcor.state.ga.us/sites/all/themes/gdc/pdf/Profile_all_inmates_2019_11.pdf
+Georgia,2019-12-01,Male,60-69,2698,NA,http://www.dcor.state.ga.us/sites/all/themes/gdc/pdf/Profile_all_inmates_2019_11.pdf
+Georgia,2019-12-01,Male,70 and above,688,NA,http://www.dcor.state.ga.us/sites/all/themes/gdc/pdf/Profile_all_inmates_2019_11.pdf
+Georgia,2019-12-01,Female,1-19,36,NA,http://www.dcor.state.ga.us/sites/all/themes/gdc/pdf/Profile_all_inmates_2019_11.pdf
+Georgia,2019-12-01,Female,20-29,1014,NA,http://www.dcor.state.ga.us/sites/all/themes/gdc/pdf/Profile_all_inmates_2019_11.pdf
+Georgia,2019-12-01,Female,30-39,1464,NA,http://www.dcor.state.ga.us/sites/all/themes/gdc/pdf/Profile_all_inmates_2019_11.pdf
+Georgia,2019-12-01,Female,40-49,909,NA,http://www.dcor.state.ga.us/sites/all/themes/gdc/pdf/Profile_all_inmates_2019_11.pdf
+Georgia,2019-12-01,Female,50-59,485,NA,http://www.dcor.state.ga.us/sites/all/themes/gdc/pdf/Profile_all_inmates_2019_11.pdf
+Georgia,2019-12-01,Female,60-69,129,NA,http://www.dcor.state.ga.us/sites/all/themes/gdc/pdf/Profile_all_inmates_2019_11.pdf
+Georgia,2019-12-01,Female,70 and above,23,NA,http://www.dcor.state.ga.us/sites/all/themes/gdc/pdf/Profile_all_inmates_2019_11.pdf
+Georgia,2019-06-01,Male,1-19,663,NA,http://www.dcor.state.ga.us/sites/all/themes/gdc/pdf/Profile_all_inmates_2019_05.pdf
+Georgia,2019-06-01,Male,20-29,13598,NA,http://www.dcor.state.ga.us/sites/all/themes/gdc/pdf/Profile_all_inmates_2019_05.pdf
+Georgia,2019-06-01,Male,30-39,15538,NA,http://www.dcor.state.ga.us/sites/all/themes/gdc/pdf/Profile_all_inmates_2019_05.pdf
+Georgia,2019-06-01,Male,40-49,10807,NA,http://www.dcor.state.ga.us/sites/all/themes/gdc/pdf/Profile_all_inmates_2019_05.pdf
+Georgia,2019-06-01,Male,50-59,7040,NA,http://www.dcor.state.ga.us/sites/all/themes/gdc/pdf/Profile_all_inmates_2019_05.pdf
+Georgia,2019-06-01,Male,60-69,2559,NA,http://www.dcor.state.ga.us/sites/all/themes/gdc/pdf/Profile_all_inmates_2019_05.pdf
+Georgia,2019-06-01,Male,70 and above,647,NA,http://www.dcor.state.ga.us/sites/all/themes/gdc/pdf/Profile_all_inmates_2019_05.pdf
+Georgia,2019-06-01,Female,1-19,40,NA,http://www.dcor.state.ga.us/sites/all/themes/gdc/pdf/Profile_all_inmates_2019_05.pdf
+Georgia,2019-06-01,Female,20-29,1023,NA,http://www.dcor.state.ga.us/sites/all/themes/gdc/pdf/Profile_all_inmates_2019_05.pdf
+Georgia,2019-06-01,Female,30-39,1440,NA,http://www.dcor.state.ga.us/sites/all/themes/gdc/pdf/Profile_all_inmates_2019_05.pdf
+Georgia,2019-06-01,Female,40-49,874,NA,http://www.dcor.state.ga.us/sites/all/themes/gdc/pdf/Profile_all_inmates_2019_05.pdf
+Georgia,2019-06-01,Female,50-59,463,NA,http://www.dcor.state.ga.us/sites/all/themes/gdc/pdf/Profile_all_inmates_2019_05.pdf
+Georgia,2019-06-01,Female,60-69,121,NA,http://www.dcor.state.ga.us/sites/all/themes/gdc/pdf/Profile_all_inmates_2019_05.pdf
+Georgia,2019-06-01,Female,70 and above,21,NA,http://www.dcor.state.ga.us/sites/all/themes/gdc/pdf/Profile_all_inmates_2019_05.pdf

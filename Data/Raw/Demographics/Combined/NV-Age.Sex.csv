@@ -1,0 +1,29 @@
+State,Date,Sex.Group,Age.Group,Number,Percent,Source
+Nevada,2020-06-30,Male,Under 25,1085,NA,https://doc.nv.gov/uploadedFiles/docnvgov/content/About/Statistics/Quarterly_Reports_by_Fiscal_Year/SS.FY20.pdf
+Nevada,2020-06-30,Male,25-34,3397,NA,https://doc.nv.gov/uploadedFiles/docnvgov/content/About/Statistics/Quarterly_Reports_by_Fiscal_Year/SS.FY20.pdf
+Nevada,2020-06-30,Male,35-44,3036,NA,https://doc.nv.gov/uploadedFiles/docnvgov/content/About/Statistics/Quarterly_Reports_by_Fiscal_Year/SS.FY20.pdf
+Nevada,2020-06-30,Male,45-54,1872,NA,https://doc.nv.gov/uploadedFiles/docnvgov/content/About/Statistics/Quarterly_Reports_by_Fiscal_Year/SS.FY20.pdf
+Nevada,2020-06-30,Male,55-64,1252,NA,https://doc.nv.gov/uploadedFiles/docnvgov/content/About/Statistics/Quarterly_Reports_by_Fiscal_Year/SS.FY20.pdf
+Nevada,2020-06-30,Male,65-75,394,NA,https://doc.nv.gov/uploadedFiles/docnvgov/content/About/Statistics/Quarterly_Reports_by_Fiscal_Year/SS.FY20.pdf
+Nevada,2020-06-30,Male,75+,103,NA,https://doc.nv.gov/uploadedFiles/docnvgov/content/About/Statistics/Quarterly_Reports_by_Fiscal_Year/SS.FY20.pdf
+Nevada,2020-06-30,Female,Under 25,67,NA,https://doc.nv.gov/uploadedFiles/docnvgov/content/About/Statistics/Quarterly_Reports_by_Fiscal_Year/SS.FY20.pdf
+Nevada,2020-06-30,Female,25-34,424,NA,https://doc.nv.gov/uploadedFiles/docnvgov/content/About/Statistics/Quarterly_Reports_by_Fiscal_Year/SS.FY20.pdf
+Nevada,2020-06-30,Female,35-44,356,NA,https://doc.nv.gov/uploadedFiles/docnvgov/content/About/Statistics/Quarterly_Reports_by_Fiscal_Year/SS.FY20.pdf
+Nevada,2020-06-30,Female,45-54,169,NA,https://doc.nv.gov/uploadedFiles/docnvgov/content/About/Statistics/Quarterly_Reports_by_Fiscal_Year/SS.FY20.pdf
+Nevada,2020-06-30,Female,55-64,80,NA,https://doc.nv.gov/uploadedFiles/docnvgov/content/About/Statistics/Quarterly_Reports_by_Fiscal_Year/SS.FY20.pdf
+Nevada,2020-06-30,Female,65-75,18,NA,https://doc.nv.gov/uploadedFiles/docnvgov/content/About/Statistics/Quarterly_Reports_by_Fiscal_Year/SS.FY20.pdf
+Nevada,2020-06-30,Female,75+,1,NA,https://doc.nv.gov/uploadedFiles/docnvgov/content/About/Statistics/Quarterly_Reports_by_Fiscal_Year/SS.FY20.pdf
+Nevada,2019-06-30,Male,Under 25,1257,NA,https://doc.nv.gov/uploadedFiles/docnvgov/content/About/Statistics/Quarterly_Reports_by_Fiscal_Year/SS.QIVFY19.pdf
+Nevada,2019-06-30,Male,25-34,3701,NA,https://doc.nv.gov/uploadedFiles/docnvgov/content/About/Statistics/Quarterly_Reports_by_Fiscal_Year/SS.QIVFY19.pdf
+Nevada,2019-06-30,Male,35-44,3185,NA,https://doc.nv.gov/uploadedFiles/docnvgov/content/About/Statistics/Quarterly_Reports_by_Fiscal_Year/SS.QIVFY19.pdf
+Nevada,2019-06-30,Male,45-54,2128,NA,https://doc.nv.gov/uploadedFiles/docnvgov/content/About/Statistics/Quarterly_Reports_by_Fiscal_Year/SS.QIVFY19.pdf
+Nevada,2019-06-30,Male,55-64,1349,NA,https://doc.nv.gov/uploadedFiles/docnvgov/content/About/Statistics/Quarterly_Reports_by_Fiscal_Year/SS.QIVFY19.pdf
+Nevada,2019-06-30,Male,65-75,410,NA,https://doc.nv.gov/uploadedFiles/docnvgov/content/About/Statistics/Quarterly_Reports_by_Fiscal_Year/SS.QIVFY19.pdf
+Nevada,2019-06-30,Male,75+,97,NA,https://doc.nv.gov/uploadedFiles/docnvgov/content/About/Statistics/Quarterly_Reports_by_Fiscal_Year/SS.QIVFY19.pdf
+Nevada,2019-06-30,Female,Under 25,92,NA,https://doc.nv.gov/uploadedFiles/docnvgov/content/About/Statistics/Quarterly_Reports_by_Fiscal_Year/SS.QIVFY19.pdf
+Nevada,2019-06-30,Female,25-34,505,NA,https://doc.nv.gov/uploadedFiles/docnvgov/content/About/Statistics/Quarterly_Reports_by_Fiscal_Year/SS.QIVFY19.pdf
+Nevada,2019-06-30,Female,35-44,405,NA,https://doc.nv.gov/uploadedFiles/docnvgov/content/About/Statistics/Quarterly_Reports_by_Fiscal_Year/SS.QIVFY19.pdf
+Nevada,2019-06-30,Female,45-54,194,NA,https://doc.nv.gov/uploadedFiles/docnvgov/content/About/Statistics/Quarterly_Reports_by_Fiscal_Year/SS.QIVFY19.pdf
+Nevada,2019-06-30,Female,55-64,83,NA,https://doc.nv.gov/uploadedFiles/docnvgov/content/About/Statistics/Quarterly_Reports_by_Fiscal_Year/SS.QIVFY19.pdf
+Nevada,2019-06-30,Female,65-75,15,NA,https://doc.nv.gov/uploadedFiles/docnvgov/content/About/Statistics/Quarterly_Reports_by_Fiscal_Year/SS.QIVFY19.pdf
+Nevada,2019-06-30,Female,75+,3,NA,https://doc.nv.gov/uploadedFiles/docnvgov/content/About/Statistics/Quarterly_Reports_by_Fiscal_Year/SS.QIVFY19.pdf

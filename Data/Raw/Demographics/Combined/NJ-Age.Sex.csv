@@ -1,0 +1,65 @@
+State,Date,Sex.Group,Age.Group,Number,Percent,Source
+New Jersey,2019-12-31,Male,Under 17,0,NA,https://www.state.nj.us/corrections/pdf/offender_statistics/2020/2020_Age.pdf
+New Jersey,2019-12-31,Male,17,0,NA,https://www.state.nj.us/corrections/pdf/offender_statistics/2020/2020_Age.pdf
+New Jersey,2019-12-31,Male,18-20,255,NA,https://www.state.nj.us/corrections/pdf/offender_statistics/2020/2020_Age.pdf
+New Jersey,2019-12-31,Male,21-22,683,NA,https://www.state.nj.us/corrections/pdf/offender_statistics/2020/2020_Age.pdf
+New Jersey,2019-12-31,Male,23-24,889,NA,https://www.state.nj.us/corrections/pdf/offender_statistics/2020/2020_Age.pdf
+New Jersey,2019-12-31,Male,25-27,1642,NA,https://www.state.nj.us/corrections/pdf/offender_statistics/2020/2020_Age.pdf
+New Jersey,2019-12-31,Male,28-30,1687,NA,https://www.state.nj.us/corrections/pdf/offender_statistics/2020/2020_Age.pdf
+New Jersey,2019-12-31,Male,31-33,1549,NA,https://www.state.nj.us/corrections/pdf/offender_statistics/2020/2020_Age.pdf
+New Jersey,2019-12-31,Male,34-36,1411,NA,https://www.state.nj.us/corrections/pdf/offender_statistics/2020/2020_Age.pdf
+New Jersey,2019-12-31,Male,37-39,1246,NA,https://www.state.nj.us/corrections/pdf/offender_statistics/2020/2020_Age.pdf
+New Jersey,2019-12-31,Male,40-44,1731,NA,https://www.state.nj.us/corrections/pdf/offender_statistics/2020/2020_Age.pdf
+New Jersey,2019-12-31,Male,45-49,1429,NA,https://www.state.nj.us/corrections/pdf/offender_statistics/2020/2020_Age.pdf
+New Jersey,2019-12-31,Male,50-54,1145,NA,https://www.state.nj.us/corrections/pdf/offender_statistics/2020/2020_Age.pdf
+New Jersey,2019-12-31,Male,55-59,841,NA,https://www.state.nj.us/corrections/pdf/offender_statistics/2020/2020_Age.pdf
+New Jersey,2019-12-31,Male,60-64,467,NA,https://www.state.nj.us/corrections/pdf/offender_statistics/2020/2020_Age.pdf
+New Jersey,2019-12-31,Male,65+,455,NA,https://www.state.nj.us/corrections/pdf/offender_statistics/2020/2020_Age.pdf
+New Jersey,2019-12-31,Female,Under 17,0,NA,https://www.state.nj.us/corrections/pdf/offender_statistics/2020/2020_Age.pdf
+New Jersey,2019-12-31,Female,17,0,NA,https://www.state.nj.us/corrections/pdf/offender_statistics/2020/2020_Age.pdf
+New Jersey,2019-12-31,Female,18-20,6,NA,https://www.state.nj.us/corrections/pdf/offender_statistics/2020/2020_Age.pdf
+New Jersey,2019-12-31,Female,21-22,21,NA,https://www.state.nj.us/corrections/pdf/offender_statistics/2020/2020_Age.pdf
+New Jersey,2019-12-31,Female,23-24,25,NA,https://www.state.nj.us/corrections/pdf/offender_statistics/2020/2020_Age.pdf
+New Jersey,2019-12-31,Female,25-27,63,NA,https://www.state.nj.us/corrections/pdf/offender_statistics/2020/2020_Age.pdf
+New Jersey,2019-12-31,Female,28-30,79,NA,https://www.state.nj.us/corrections/pdf/offender_statistics/2020/2020_Age.pdf
+New Jersey,2019-12-31,Female,31-33,58,NA,https://www.state.nj.us/corrections/pdf/offender_statistics/2020/2020_Age.pdf
+New Jersey,2019-12-31,Female,34-36,42,NA,https://www.state.nj.us/corrections/pdf/offender_statistics/2020/2020_Age.pdf
+New Jersey,2019-12-31,Female,37-39,43,NA,https://www.state.nj.us/corrections/pdf/offender_statistics/2020/2020_Age.pdf
+New Jersey,2019-12-31,Female,40-44,79,NA,https://www.state.nj.us/corrections/pdf/offender_statistics/2020/2020_Age.pdf
+New Jersey,2019-12-31,Female,45-49,47,NA,https://www.state.nj.us/corrections/pdf/offender_statistics/2020/2020_Age.pdf
+New Jersey,2019-12-31,Female,50-54,37,NA,https://www.state.nj.us/corrections/pdf/offender_statistics/2020/2020_Age.pdf
+New Jersey,2019-12-31,Female,55-59,34,NA,https://www.state.nj.us/corrections/pdf/offender_statistics/2020/2020_Age.pdf
+New Jersey,2019-12-31,Female,60-64,10,NA,https://www.state.nj.us/corrections/pdf/offender_statistics/2020/2020_Age.pdf
+New Jersey,2019-12-31,Female,65+,11,NA,https://www.state.nj.us/corrections/pdf/offender_statistics/2020/2020_Age.pdf
+New Jersey,2020-12-31,Male,Under 17,0,NA,https://www.state.nj.us/corrections/pdf/offender_statistics/2021/By%20Age%202021.pdf
+New Jersey,2020-12-31,Male,17,0,NA,https://www.state.nj.us/corrections/pdf/offender_statistics/2021/By%20Age%202021.pdf
+New Jersey,2020-12-31,Male,18-20,117,NA,https://www.state.nj.us/corrections/pdf/offender_statistics/2021/By%20Age%202021.pdf
+New Jersey,2020-12-31,Male,21-22,398,NA,https://www.state.nj.us/corrections/pdf/offender_statistics/2021/By%20Age%202021.pdf
+New Jersey,2020-12-31,Male,23-24,579,NA,https://www.state.nj.us/corrections/pdf/offender_statistics/2021/By%20Age%202021.pdf
+New Jersey,2020-12-31,Male,25-27,1024,NA,https://www.state.nj.us/corrections/pdf/offender_statistics/2021/By%20Age%202021.pdf
+New Jersey,2020-12-31,Male,28-30,1188,NA,https://www.state.nj.us/corrections/pdf/offender_statistics/2021/By%20Age%202021.pdf
+New Jersey,2020-12-31,Male,31-33,1088,NA,https://www.state.nj.us/corrections/pdf/offender_statistics/2021/By%20Age%202021.pdf
+New Jersey,2020-12-31,Male,34-36,1040,NA,https://www.state.nj.us/corrections/pdf/offender_statistics/2021/By%20Age%202021.pdf
+New Jersey,2020-12-31,Male,37-39,880,NA,https://www.state.nj.us/corrections/pdf/offender_statistics/2021/By%20Age%202021.pdf
+New Jersey,2020-12-31,Male,40-44,1357,NA,https://www.state.nj.us/corrections/pdf/offender_statistics/2021/By%20Age%202021.pdf
+New Jersey,2020-12-31,Male,45-49,1046,NA,https://www.state.nj.us/corrections/pdf/offender_statistics/2021/By%20Age%202021.pdf
+New Jersey,2020-12-31,Male,50-54,889,NA,https://www.state.nj.us/corrections/pdf/offender_statistics/2021/By%20Age%202021.pdf
+New Jersey,2020-12-31,Male,55-59,669,NA,https://www.state.nj.us/corrections/pdf/offender_statistics/2021/By%20Age%202021.pdf
+New Jersey,2020-12-31,Male,60-64,413,NA,https://www.state.nj.us/corrections/pdf/offender_statistics/2021/By%20Age%202021.pdf
+New Jersey,2020-12-31,Male,65+,397,NA,https://www.state.nj.us/corrections/pdf/offender_statistics/2021/By%20Age%202021.pdf
+New Jersey,2020-12-31,Female,Under 17,0,NA,https://www.state.nj.us/corrections/pdf/offender_statistics/2021/By%20Age%202021.pdf
+New Jersey,2020-12-31,Female,17,0,NA,https://www.state.nj.us/corrections/pdf/offender_statistics/2021/By%20Age%202021.pdf
+New Jersey,2020-12-31,Female,18-20,3,NA,https://www.state.nj.us/corrections/pdf/offender_statistics/2021/By%20Age%202021.pdf
+New Jersey,2020-12-31,Female,21-22,13,NA,https://www.state.nj.us/corrections/pdf/offender_statistics/2021/By%20Age%202021.pdf
+New Jersey,2020-12-31,Female,23-24,22,NA,https://www.state.nj.us/corrections/pdf/offender_statistics/2021/By%20Age%202021.pdf
+New Jersey,2020-12-31,Female,25-27,45,NA,https://www.state.nj.us/corrections/pdf/offender_statistics/2021/By%20Age%202021.pdf
+New Jersey,2020-12-31,Female,28-30,53,NA,https://www.state.nj.us/corrections/pdf/offender_statistics/2021/By%20Age%202021.pdf
+New Jersey,2020-12-31,Female,31-33,38,NA,https://www.state.nj.us/corrections/pdf/offender_statistics/2021/By%20Age%202021.pdf
+New Jersey,2020-12-31,Female,34-36,36,NA,https://www.state.nj.us/corrections/pdf/offender_statistics/2021/By%20Age%202021.pdf
+New Jersey,2020-12-31,Female,37-39,36,NA,https://www.state.nj.us/corrections/pdf/offender_statistics/2021/By%20Age%202021.pdf
+New Jersey,2020-12-31,Female,40-44,49,NA,https://www.state.nj.us/corrections/pdf/offender_statistics/2021/By%20Age%202021.pdf
+New Jersey,2020-12-31,Female,45-49,36,NA,https://www.state.nj.us/corrections/pdf/offender_statistics/2021/By%20Age%202021.pdf
+New Jersey,2020-12-31,Female,50-54,26,NA,https://www.state.nj.us/corrections/pdf/offender_statistics/2021/By%20Age%202021.pdf
+New Jersey,2020-12-31,Female,55-59,28,NA,https://www.state.nj.us/corrections/pdf/offender_statistics/2021/By%20Age%202021.pdf
+New Jersey,2020-12-31,Female,60-64,11,NA,https://www.state.nj.us/corrections/pdf/offender_statistics/2021/By%20Age%202021.pdf
+New Jersey,2020-12-31,Female,65+,8,NA,https://www.state.nj.us/corrections/pdf/offender_statistics/2021/By%20Age%202021.pdf

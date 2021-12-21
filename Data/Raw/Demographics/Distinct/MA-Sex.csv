@@ -1,0 +1,5 @@
+State,Date,Sex.Group,Number,Percent,Source
+Massachusetts,2020-12-31,Male,6605,NA,https://www.mass.gov/doc/prison-population-trends-2020/download
+Massachusetts,2020-12-31,Female,169,NA,https://www.mass.gov/doc/prison-population-trends-2020/download
+Massachusetts,2019-12-31,Male,7924,NA,https://www.mass.gov/doc/prison-population-trends-2019/download
+Massachusetts,2019-12-31,Female,259,NA,https://www.mass.gov/doc/prison-population-trends-2019/download
