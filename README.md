@@ -1,10 +1,11 @@
+
 [![logo](logo.svg)](https://uclacovidbehindbars.org/)
 
 ## 2020 Change in State Prison Mortality 
 
 The [UCLA Law COVID Behind Bars Data Project](https://uclacovidbehindbars.org/), launched in March 2020, tracks the spread and impact of COVID in American carceral facilities and advocates for greater transparency and accountability around the pandemic response of the carceral system. 
 
-Alongside our [core data](https://github.com/uclalawcovid19behindbars/data), our project gathers and processes data on deaths and demographics in state prisons. We intend to use this data to estimate the 2020 change in all-cause mortality amongst state prison populations. Currently, we have custodial decedent data available for 35 U.S. state prison systems. 
+Alongside our [core data](https://github.com/uclalawcovid19behindbars/data), our project gathers and processes data on deaths and demographics in state prisons. We intend to use this data to estimate the 2020 change in all-cause mortality amongst state prison populations. Currently, we currently have custodial decedent data available through 2020 for 35 U.S. state prison systems. 
 
 ## Legislative and oversight background
 
@@ -41,7 +42,7 @@ If BJA does not produce public statistical reports on annual changes in U.S. cor
 | `Location`             | Specific/other listed location of death                                                                            |
 | `Total.Deaths`         | For aggregated categories, the total number of deaths                                                              
 
-### Potential Demographics Variables
+### Potential Demographic Variables
 
 | Variable               | Description                                                                                                        |
 |------------------------|--------------------------------------------------------------------------------------------------------------------|
