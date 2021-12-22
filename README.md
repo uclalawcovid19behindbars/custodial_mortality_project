@@ -5,7 +5,7 @@
 
 The [UCLA Law COVID Behind Bars Data Project](https://uclacovidbehindbars.org/), launched in March 2020, tracks the spread and impact of COVID in American carceral facilities and advocates for greater transparency and accountability around the pandemic response of the carceral system. 
 
-Alongside our [core data](https://github.com/uclalawcovid19behindbars/data), our project gathers and processes data on deaths and demographics in state prisons. We intend to use this data to estimate the 2020 change in all-cause mortality amongst state prison populations. Currently, we currently have custodial decedent data available through 2020 for 35 U.S. state prison systems. 
+Alongside our [core data](https://github.com/uclalawcovid19behindbars/data), our project gathers and processes data on deaths and demographics in state prisons. We intend to use this data to estimate the 2020 change in all-cause mortality amongst state prison populations. Currently, we have custodial decedent data available through 2020 for 35 U.S. state prison systems. 
 
 ## Legislative and oversight background
 
@@ -74,7 +74,7 @@ Develop 2020 archive/request guide to spur ongoing public collection of carceral
 
 Develop strategy to estimate changes in jail mortality using public records requests
 
-Integrate Facility.IDs and functions in behindbarstools to analyze all-cause decedent data alongside reported COVID data
+Integrate core data Facility.IDs and functions in behindbarstools to analyze all-cause decedent data alongside reported COVID data
 
 
 
