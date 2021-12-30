@@ -9,6 +9,8 @@ library(lubridate)
 
 ## Functions
 
+# Read in BJS Historical Decedent Data (COMPLETE)
+
 read_bjs <- function(all.agencies, agencies) {
     mci.19 <- 'Data/External/msfp0119stt14.csv' %>%
                read_csv() %>%
@@ -34,6 +36,8 @@ read_bjs <- function(all.agencies, agencies) {
     }
     
 }
+
+# Read in UCLA Historical Decedent Data (WORKING)
 
 read_ucla_deaths <- function(all.agencies, agencies) {
     states <- data.frame(State.Abb = state.abb,
@@ -63,7 +67,7 @@ read_ucla_deaths <- function(all.agencies, agencies) {
     }
     
     if(all.agencies = FALSE) {
-        if(str_detect(''))
+        if(str_detect()) {}
     }
 }
 
@@ -76,11 +80,14 @@ pull_raw_files <- function(path) {
     out
 }
 
-check_death_lists <- function(death.list)
+# Sub function to check variables present in decedent data to determine level of end aggregation (WORKING)
+
+check_death_lists <- function(death.list) {}
+    
+# Compare Annual BJS Numbers with Aggregated UCLA numbers (WORKING)
 
 compare_ucla_bjs <- function(all.agencies) {}
 
-# /Users/michaeleverett/Documents/UCLA/R_PT/state_prison_deaths_2020/Data/Raw/Deaths/Annual
 
 
 
