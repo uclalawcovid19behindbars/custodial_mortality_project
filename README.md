@@ -64,7 +64,7 @@ Future functions will be written to compare these datafiles with existing data o
 
 Estimate 2020 change in all-cause mortality using uneven data. [Research](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002687) using similar methods. 
 
-## Future projects
+## Ongoing projects
 
 Develop functions for loading and comparison with other available carceral mortality statistics
 
@@ -72,7 +72,7 @@ Integrate data from other existing mortality projects on the UCLA team (FL and T
 
 Develop 2020 archive/request guide to spur ongoing public collection of carceral decedent data 
 
-Develop strategy to estimate changes in jail mortality using public records requests
+Integrate Reuters [jail decedent data](https://www.reuters.com/investigates/special-report/usa-jails-graphic/)
 
 Integrate core data Facility.IDs and functions in behindbarstools to analyze all-cause decedent data alongside reported COVID data
 
