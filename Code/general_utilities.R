@@ -36,7 +36,7 @@ read_bjs <- function(all.agencies, agencies) {
     }
     
     if(all.agencies == FALSE) {
-        mci.19 <- base %>%
+        mci.19 <- mci.19 %>%
                   left_join(., states, by = c('State')) 
         mci.19 <- mci.19[mci.19$State.Abb %in% agencies,]
     }
