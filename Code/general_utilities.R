@@ -10,7 +10,7 @@ library(data.table)
 
 #### Functions -----------------------------------------
 
-## (1) Read in BJS Historical Decedent Data ------------
+## Read in BJS Historical Decedent Data ------------
 
 read_bjs <- function(all.agencies, agencies) {
     suppressMessages(suppressWarnings(mci.19 <- 'Data/External/msfp0119stt14.csv' %>%
@@ -46,7 +46,7 @@ read_bjs <- function(all.agencies, agencies) {
     
 }
 
-# (2) Read in UCLA Historical Decedent Data -------------------------
+# Read in UCLA Historical Decedent Data -------------------------
 
 # sub functions for read_ucla_data
 
@@ -61,27 +61,6 @@ pull_raw_files <- function(path) {
     out
 }
 
-# make year aggregate function
-agg.year <- function(x) {
-    read <- x %>%
-        read.csv() 
-    data.cols <- read %>%
-        colnames() %>%
-        as.vector()
-    if(!('Total.Deaths' %in% data.cols)) {
-        out <- read %>%
-            group_by(State, Year) %>%
-            summarise(Total.Deaths = n())
-    }
-    
-    if('Total.Deaths' %in% data.cols) {
-        out <- read %>%
-            group_by(State, Year) %>%
-            summarise(Total.Deaths = sum(Total.Deaths, na.rm = TRUE))
-    }
-    out
-}
-
 # all var sum to year obs
 sum.to.year <- function(x) {
     read <- x %>%
@@ -92,7 +71,10 @@ sum.to.year <- function(x) {
     group.cols <- data.cols %>%
         as.data.frame() %>%
         plyr::rename(c('.' = 'cols')) %>%
-        subset(cols != 'Month' & cols != 'Total.Deaths' & cols != 'Death.Date') 
+        subset(cols != 'Month' & cols != 'Total.Deaths' & cols != 'Death.Date' &
+               cols != 'ID.No' & cols != 'Full.Name' & cols != 'Last.Name' & 
+               cols != 'First.Name' & cols != 'Death.Age' & cols != 'DoB.Year' &
+               cols != 'DoB' & cols != 'Location') 
     group.cols <- group.cols$cols 
     if(!('Total.Deaths' %in% data.cols)) {
         out <- read %>%
@@ -119,7 +101,10 @@ sum.to.month <- function(x) {
     group.cols <- data.cols %>%
         as.data.frame() %>%
         plyr::rename(c('.' = 'cols')) %>%
-        subset(cols != 'Total.Deaths' & cols != 'Death.Date') 
+        subset(cols != 'Total.Deaths' & cols != 'Death.Date' &
+                   cols != 'ID.No' & cols != 'Full.Name' & cols != 'Last.Name' & 
+                   cols != 'First.Name' & cols != 'Death.Age' & cols != 'DoB.Year' &
+                   cols != 'DoB' & cols != 'Location') 
     group.cols <- group.cols$cols 
     if(!('Total.Deaths' %in% data.cols)) {
         out <- read %>%
@@ -136,35 +121,29 @@ sum.to.month <- function(x) {
     out
 }
 
-# all var sum to individual obs
-sum.to.individual <- function(x) {
+# Make default year aggregate function - for default all sum in read_ucla_deaths [read_to_year()]
+only.year <- function(x) {
     read <- x %>%
         read.csv() 
     data.cols <- read %>%
         colnames() %>%
         as.vector()
-    group.cols <- data.cols %>%
-        as.data.frame() %>%
-        plyr::rename(c('.' = 'cols')) %>%
-        subset(cols != 'Total.Deaths') 
-    group.cols <- group.cols$cols 
     if(!('Total.Deaths' %in% data.cols)) {
         out <- read %>%
-            group_by(across(all_of(group.cols))) %>%
+            group_by(State, Year) %>%
             summarise(Total.Deaths = n())
     }
     
     if('Total.Deaths' %in% data.cols) {
         out <- read %>%
-            group_by(across(all_of(group.cols))) %>%
+            group_by(State, Year) %>%
             summarise(Total.Deaths = sum(Total.Deaths, na.rm = TRUE))
-        
     }
     out
 }
 
-# Make month to year function
-month.to.year <- function(x) {
+# Make default month aggregate function - for default all sum in read_ucla_deaths [read_to_year()]
+only.year.month <- function(x) {
     read <- x %>%
         read.csv() 
     data.cols <- read %>%
@@ -184,8 +163,8 @@ month.to.year <- function(x) {
     out
 }
 
-# Make individual to year function
-individual.to.year <- function(x) {
+# Make defaults individual aggregate function - for default all sum in read_ucla_deaths [read_to_year()]
+only.year.individual <- function(x) {
     read <- x %>%
         read.csv() %>%
         group_by(State, Year) %>%
@@ -195,25 +174,25 @@ individual.to.year <- function(x) {
 # Read to Year aggregate function (default operation)
 read_to_year <- function(file.base) {
     file.list <- file.base %>%
-                 select(Files, Data.Type) %>%
-                 mutate(Files = str_c('Data/Raw/Deaths/', Data.Type, '/', Files)) %>%
-                 subset(!str_detect(Files, 'UT-Monthly')) # remove more detailed UT data for yearly based aggregate
+                 subset(Files != 'UT-Monthly') %>% # remove more detailed UT data for yearly based aggregate
+                 mutate(Files = str_c('Data/Raw/Deaths/', Data.Type, '/', Files)) 
+                 
     # Prepare Annual Data
     year.data <- file.list %>%
         subset(Data.Type == 'Annual')
     # end year aggregate function
-    year.list <- lapply(year.data$Files, agg.year)
+    year.list <- lapply(year.data$Files, only.year)
     year.out <- rbindlist(year.list, fill = TRUE)
     # Prepare Monthly Data
     month.data <- file.list %>%
         subset(Data.Type == 'Monthly')
 
-    month.list <- lapply(month.data$Files, month.to.year)
+    month.list <- lapply(month.data$Files, only.year.month)
     month.out <- rbindlist(month.list, fill = TRUE)
     # Prepare Individual Data
     individual.data <- file.list %>%
         subset(Data.Type == 'Individual')
-    individual.list <- lapply(individual.data$Files, individual.to.year)
+    individual.list <- lapply(individual.data$Files, only.year.individual)
     individual.out <- rbindlist(individual.list, fill = TRUE)
     
     all.deaths <- year.out %>%
@@ -254,7 +233,7 @@ read_ucla_deaths <- function(all.agencies, agencies) {
     # If user wants states of different data levels (i.e. Annual, Monthly, Individual)
     if(all.agencies == FALSE) {
         # function testing
-        #agencies <- c('MN', 'AR', 'GA', 'NV', 'NC')
+        agencies <- c('UT', 'MN', 'AR', 'GA', 'NV', 'NC')
         # set selected states from user
         input <- agencies
         # create file frame of selected states
@@ -264,7 +243,8 @@ read_ucla_deaths <- function(all.agencies, agencies) {
                    State = str_replace_all(Files, '-.*', ''),
                    State = str_replace_all(State, 'Data\\/Raw\\/Deaths\\/', ''),
                    State = str_replace_all(State, '.*\\/', '')) %>%
-            subset(State %in% input)
+            subset(State %in% input) %>%
+            subset(!str_detect(Files, 'UT-Yearly')) # remove less detailed UT data for alternative aggregates
         ## Check for levels in data to aggregate to same level
         # For all three levels
         suppressMessages(
@@ -324,7 +304,7 @@ read_ucla_deaths <- function(all.agencies, agencies) {
     output.deaths
 }
     
-# Compare Annual BJS Numbers with Aggregated UCLA numbers (WORKING)
+## Compare Annual BJS Numbers with Aggregated UCLA numbers -----------------
 
 compare_ucla_bjs <- function() {
     bjs.data <- read_bjs(all.agencies = TRUE) 
