@@ -1,5 +1,4 @@
 
-[![logo](logo.svg)](https://uclacovidbehindbars.org/)
 
 ## 2020 Change in State Prison Mortality 
 
@@ -16,6 +15,29 @@ In 2019, the Attorney General shifted responsibility for data collection and pro
 ## About the data
 
 If BJA does not produce public statistical reports on annual changes in U.S. correctional mortality like prior [publications](https://bjs.ojp.gov/data-collection/mortality-correctional-institutions-mci-formerly-deaths-custody-reporting-program) (or does not collect and transfer sufficient data to BJS to do so), the federal government will not produce a report on the 2020 change in standardized all-cause mortality in correctional facilities in the near future. Understanding the change in all-cause mortality in state prisons from 2019 to 2020 is essential to understanding the impact of COVID-19 in U.S. carceral facilities. Here, we centralize and analyze data collected by our project on deaths in state prisons (typically from 2018-2020) and demographics of state prison populations (typically from 2019-2020) to estimate these changes in mortality. Raw data in this repository is broken into `Deaths` and `Demographics`. 
+
+### Accessing Data
+
+Functions to load and analyze the data can be found in the `general_utilities.R` file in the Code folder.
+
+``` r
+# Load all UCLA decedent data
+ucla.data <- read_ucla_deaths(all.agencies = TRUE)
+
+# Load specific UCLA decedent data (function aggregates to least detailed level for time interval)
+ucla.data <- read_ucla_deaths(all.agencies = FALSE, agencies = c('CA', 'NC', 'NV', 'AR'))
+
+# Load all BJS decedent data
+bjs.data <- read_bjs(all.agencies = TRUE)
+
+# Load specific BJS decedent data
+bjs.data <- read_bjs(all.agencies = FALSE, agencies = c('CA', 'NC', 'NV', 'AR'))
+
+# Compare UCLA and BJS decedent data
+compare_ucla_bjs()
+
+
+```
 
 ### Potential Death Variables
 
@@ -65,8 +87,6 @@ Future functions will be written to compare these datafiles with existing data o
 Estimate 2020 change in all-cause mortality using uneven data. [Research](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002687) using similar methods. 
 
 ## Ongoing projects
-
-Develop functions for loading and comparison with other available carceral mortality statistics
 
 Integrate data from other existing mortality projects on the UCLA team (FL and TX)
 
