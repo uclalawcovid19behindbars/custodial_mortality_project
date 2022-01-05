@@ -25,28 +25,30 @@ read_bjs <- function(all.agencies, agencies) {
               melt() %>%
               mutate(Jurisdiction = str_replace_all(Jurisdiction, '\\/.*', '')) %>%
               subset(!str_detect(Jurisdiction, 'Jurisdiction') & !str_detect(Jurisdiction, 'State')) %>%
-              set_colnames(c('Jurisdiction', 'Year', 'Total.Deaths'))
+              set_colnames(c('State', 'Year', 'Total.Deaths'))
     ))
+    
+    states <- data.frame(State.Abb = state.abb,
+                         State = state.name)
     
     if(all.agencies == TRUE) {
         print('Pulling all annual agency data from BJS')
     }
     
     if(all.agencies == FALSE) {
-        mci.19 <- mci.19 %>%
-            subset(Jurisdiction %in% agencies)
-        print('Pulling specific agency data from BJS for:')
+        mci.19 <- base %>%
+                  left_join(., states, by = c('State')) 
+        mci.19 <- mci.19[mci.19$State.Abb %in% agencies,]
     }
     
     mci.19 <- mci.19 %>%
-              plyr::rename(c('Jurisdiction' = 'State')) %>%
               as.data.frame()
     mci.19$Year <- as.numeric(as.character(mci.19$Year))
     mci.19
     
 }
 
-# Read in UCLA Historical Decedent Data -------------------------
+## Read in UCLA Historical Decedent Data -------------------------
 
 # sub functions for read_ucla_data
 
@@ -233,7 +235,7 @@ read_ucla_deaths <- function(all.agencies, agencies) {
     # If user wants states of different data levels (i.e. Annual, Monthly, Individual)
     if(all.agencies == FALSE) {
         # function testing
-        agencies <- c('UT', 'MN', 'AR', 'GA', 'NV', 'NC')
+        # agencies <- c('UT', 'MN', 'AR', 'GA', 'NV', 'NC')
         # set selected states from user
         input <- agencies
         # create file frame of selected states
@@ -329,6 +331,31 @@ compare_ucla_bjs <- function() {
 
 
 
+
+
+
+
+
+## Read in UCLA Historical Demograpahic Data
+
+read_ucla_dem <- function(all.agencies, agencies) {
+    ## Pull all possible files in repo and set up state dataframe
+    states <- data.frame(State.Abb = state.abb,
+                         State.Name = state.name)
+    combined.files <- 'Demographics/Combined' %>%
+        pull_raw_files()
+    distinct.files <- 'Demographics/Distinct' %>%
+        pull_raw_files()
+    
+    all.files <- combined.files %>%
+                 plyr::rbind.fill(distinct.files) %>%
+        mutate(State.Abb = str_replace_all(Files, '-.*', ''),
+               Data.Type = str_replace_all(Files, '.*-', ''),
+               Data.Type = str_replace_all(Data.Type, '\\.csv', ''),
+               Data.Category = ifelse(str_detect(Data.Type, 'Age.Sex'), 'Combined', 'Distinct')) %>%
+        left_join(., states, by = c('State.Abb')) 
+    
+}
 
 
 
