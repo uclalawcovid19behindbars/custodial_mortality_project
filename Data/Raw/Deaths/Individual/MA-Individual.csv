@@ -1,6 +1,6 @@
 State,Year,Month,Death.Date,Facility,ID.No,Full.Name,DoB.Year,Cause.Specific,Location
 Massachusetts,2015,February,2015-02-05,MCIN,W38503,"Currie, John",1953,Cardio pulminary arrest,LSH
-Massachusetts,2015,February,2015-02-10,MTC,M90303,"Parrish, Brad",1961,Lung Cancer,"NA"
+Massachusetts,2015,February,2015-02-10,MTC,M90303,"Parrish, Brad",1961,Lung Cancer,NA
 Massachusetts,2015,February,2015-02-11,MCIS,W65617,"Walker, Roland",1927,Pancreatic cancer,LSH
 Massachusetts,2015,February,2015-02-23,MCIS,W44874,"Feijoo, Humberto",1954,Renal Failure,Leom. Hosp
 Massachusetts,2015,March,2015-03-09,MCIN,W38537,"Lindsay, Eugene",1947,Cardio pulminary arrest,LSH
@@ -138,7 +138,7 @@ Massachusetts,2018,October,2018-10-15,MCIC,W33862,Julius Bowles,1956,Metastatic 
 Massachusetts,2018,October,2018-10-19,MCIN,W50116,Robert Herbert,1970,Angiosarcoma of Liver/Metastic to Bone Marrow,LSH
 Massachusetts,2018,October,2018-10-20,NCCI,W37822,Clint Tefts,1958,Hemorrhagic Shock due to Liver Cancer,UMA Leominster
 Massachusetts,2018,October,2018-10-21,OCCC,W97724,Guillermo Hernandez,1957,Cardiovascular Disease,Morton Hospital
-Massachusetts,2018,November,2018-11-16,MCIF,F25420,Lucille Reid,1957,Hypertensive Cardiovascular Disease,"NA"
+Massachusetts,2018,November,2018-11-16,MCIF,F25420,Lucille Reid,1957,Hypertensive Cardiovascular Disease,NA
 Massachusetts,2018,November,2018-11-29,MCIS,W65369,John Poe,1948,Non-Cell Adenocarcinoma of the Lung,LSH
 Massachusetts,2018,November,2018-11-30,SBCC,W111209,Jean Pluviose,1988,Hypertensive Cardiovascular Disease,UMA Leominster
 Massachusetts,2018,November,2018-11-30,SBCC,W96705,Mwangi Wambuku,1979,Hanging,SBCC
@@ -158,13 +158,13 @@ Massachusetts,2019,May,2019-05-14,OCCC,W100719,Frank Nolet,1958,Hypertensive/Ath
 Massachusetts,2019,May,2019-05-17,MTC,M94387,Donat Choinere,1963,Hypertensive/Atherosclerotic Cardiovascular Disease,Morton
 Massachusetts,2019,June,2019-06-21,MCICJ,W112712,Jonathan Rivera,1984,Suicide (Hanged Himself),Norwood
 Massachusetts,2019,June,2019-06-22,MCIS,W41965,Robert Bond,1936,Bowel perforation due to Colon Tumor,Leominster
-Massachusetts,2019,June,2019-06-22,MCIF,A128361,Devonrick Schouten,1988,"NA",Metrowest
+Massachusetts,2019,June,2019-06-22,MCIF,A128361,Devonrick Schouten,1988,NA,Metrowest
 Massachusetts,2019,July,2019-07-16,MCICJ,A137791,Reginald Boyd,1989,Arrhythmogenic Cardiomyopathy Biventricular,Norwood
 Massachusetts,2019,July,2019-07-19,MCIS,W43504,Emil Petrla,1943,Ruptured Myocardial Infarction with Hemopericardium,Leominster
 Massachusetts,2019,July,2019-07-27,MCIN,W53271,Augustine Charido,1934,Hypertensive/Atherosclerotic Cardiovascular Disease,LSH
 Massachusetts,2019,August,2019-08-11,MCIS,W37900,Osborne Sheppard,1923,Hypertensive/Atherosclerotic Cardiovascular Disease,Leominster
 Massachusetts,2019,August,2019-08-27,MCIN,W42334,Paul Ramos,1945,Hypertensive/Atherosclerotic Cardiovascular Disease,Norwood
-Massachusetts,2019,August,2019-08-30,MCIN,W107251,Thomas Buttimer,1960,"Hypoxic-ischemic encephalopathy following Cardiopulmonary arrest, Asphyxia by Hanging","NA"
+Massachusetts,2019,August,2019-08-30,MCIN,W107251,Thomas Buttimer,1960,"Hypoxic-ischemic encephalopathy following Cardiopulmonary arrest, Asphyxia by Hanging",NA
 Massachusetts,2019,September,2019-09-07,MCIS,W82415,Strickler Brown,1961,Pancreatic Cancer,LSH
 Massachusetts,2019,September,2019-09-09,MCIS,W69698,Peter Cruz,1957,Atherosclerotic & Hypertensive Cardiovascular Disease/Diabetes Mellitus,Leominster
 Massachusetts,2019,September,2019-09-19,BSH,M129977,Jeffrey Link,1968,Acute Fentanyl and Cocaine Intoxication,Morton
@@ -177,8 +177,8 @@ Massachusetts,2019,October,2019-10-29,MCIS,W89691,Fernando Ribeiro,1960,Suicide 
 Massachusetts,2019,November,2019-11-11,MCIS,W35602,Albert Moore,1931,Hypertensive/Atherosclerotic Cardiovascular Disease,LSH
 Massachusetts,2019,November,2019-11-15,MCIS,W106465,Sebastiao Dasilva,1963,Complications of Choking,Leominster
 Massachusetts,2019,November,2019-11-17,MCIS,W36083,Roger Anyon,1946,Hypertensive/Atherosclerotic Cardiovascular Disease,Leominster
-Massachusetts,2019,November,2019-11-27,BSH,M132017,Malcolm Maker,1958,Congestive Heart Failure,"NA"
-Massachusetts,2019,November,2019-11-27,MCICJ,W34781,Nathaniel Williams,1951,Hypertensive/Atherosclerotic Cardiovascular Disease,"NA"
+Massachusetts,2019,November,2019-11-27,BSH,M132017,Malcolm Maker,1958,Congestive Heart Failure,NA
+Massachusetts,2019,November,2019-11-27,MCICJ,W34781,Nathaniel Williams,1951,Hypertensive/Atherosclerotic Cardiovascular Disease,NA
 Massachusetts,2019,December,2019-12-22,SBCC,W98840,Brian Racine,1963,End State Systolic Heart Failure/Atherosclerotic Cardiovascular Disease,Leominster
 Massachusetts,2020,January,2020-01-24,MCIS,W54642,Stephen Blaney,1942,"Faiure to Thrive (Dementia, Pulmonary Disease, Pneumonia)",LSH
 Massachusetts,2020,January,2020-01-30,MCIN,W31634,James Gordon,1945,Prostrate Cancer,LSH
@@ -187,7 +187,7 @@ Massachusetts,2020,February,2020-02-24,MCIS,W103142,Atencio Trinidad,1957,Hepati
 Massachusetts,2020,April,2020-04-02,MTC,W55513,Lawrence Reopel,1960,"Acute Respiratory Syndrome, Pneumonia, COVID 19 Infection",Morton
 Massachusetts,2020,April,2020-04-03,MTC,W105551,Richard McCormick,1941,"Brain Death, Uncal Herniation, Covid 19 Infection",Tufts
 Massachusetts,2020,April,2020-04-04,MTC,W112395,Anthony McCaffrey,1959,"Pneumonia, Covid 19, Pulmonary Disease",Morton
-Massachusetts,2010,April,2010-04-09,MCIN,W 58415,Thomas Carlino,1933,Chronic Obstructive Pulmonary Disease,MCI Norfolk
+Massachusetts,2020,April,2020-04-09,MCIN,W 58415,Thomas Carlino,1933,Chronic Obstructive Pulmonary Disease,MCI Norfolk
 Massachusetts,2020,April,2020-04-09,SBCC,W89872,Steven Bougeios,1963,Hanging,Leominster
 Massachusetts,2020,April,2020-04-12,MTC,M129908,John Raynard,1942,"Hypoxic Respiratory Failure, COVID 19, Pneumonia",Morton
 Massachusetts,2020,April,2020-04-15,OCCC,W47221,Robert Dadja,1942,Aucte/Chronic Congestive Heart Failure,St. Anns (Fall River)
@@ -207,18 +207,18 @@ Massachusetts,2020,June,2020-06-23,MCICJ,W99344,Carlos Colon,1984,Hanging,Norwoo
 Massachusetts,2020,July,2020-07-17,BSH,M132061,Christopher Chase,1987,Foreign Bodies in Abdomen,St. Elizabeths
 Massachusetts,2020,August,2020-08-20,LSH,M133468,Paul Smith,1932,Osteomyelitis due to Decubitus Ulcers,LSH
 Massachusetts,2020,September,2020-09-12,LSH,W50505,John Kenniston,1954,Complications from Rectal Cancer,LSH
-Massachusetts,2020,October,2020-10-01,MCIN,W105948,Carlos Rivera,1971,"NA",Leominster
-Massachusetts,2020,October,2020-10-10,MCIN,W103923,Steven Palladino,1957,"NA",Milford Hospital
-Massachusetts,2020,October,2020-10-15,MCIS,W91439,Hussain Harris,1972,"NA",Leominster
-Massachusetts,2020,October,2020-10-28,MCIS,M133321,David Newcomb,1964,"NA",Leominster
-Massachusetts,2020,November,2020-11-04,NCCI,W40280,Benjamin Laguer,1953,"NA",LSH
-Massachusetts,2020,November,2020-11-04,MCIN,W32142,George Goodwin,1950,"NA",St. Elizabeths
-Massachusetts,2020,December,2020-12-02,OCCC,W50935,Imani Hakeem,1948,"NA",BMC
-Massachusetts,2020,December,2020-12-04,MCIN,W35561,James White,1933,"NA",Milford Hospital
-Massachusetts,2020,December,2020-12-07,BSH,M1288653,Jeffrey Keller,1961,"NA",BSH
+Massachusetts,2020,October,2020-10-01,MCIN,W105948,Carlos Rivera,1971,NA,Leominster
+Massachusetts,2020,October,2020-10-10,MCIN,W103923,Steven Palladino,1957,NA,Milford Hospital
+Massachusetts,2020,October,2020-10-15,MCIS,W91439,Hussain Harris,1972,NA,Leominster
+Massachusetts,2020,October,2020-10-28,MCIS,M133321,David Newcomb,1964,NA,Leominster
+Massachusetts,2020,November,2020-11-04,NCCI,W40280,Benjamin Laguer,1953,NA,LSH
+Massachusetts,2020,November,2020-11-04,MCIN,W32142,George Goodwin,1950,NA,St. Elizabeths
+Massachusetts,2020,December,2020-12-02,OCCC,W50935,Imani Hakeem,1948,NA,BMC
+Massachusetts,2020,December,2020-12-04,MCIN,W35561,James White,1933,NA,Milford Hospital
+Massachusetts,2020,December,2020-12-07,BSH,M1288653,Jeffrey Keller,1961,NA,BSH
 Massachusetts,2020,December,2020-12-09,MTC,W36062,Edward Cunningham,1947,Obstructive Bacterial Pneumonia/Metastatic Non - Small Cell Lung Cancer,LSH
-Massachusetts,2020,December,2020-12-13,MCIS,W113829,Rafael Navedo-Maldonado,1972,"NA",Leominster
-Massachusetts,2020,December,2020-12-14,MCICJ,W32104,James Kelly,1945,"NA",BMC
+Massachusetts,2020,December,2020-12-13,MCIS,W113829,Rafael Navedo-Maldonado,1972,NA,Leominster
+Massachusetts,2020,December,2020-12-14,MCICJ,W32104,James Kelly,1945,NA,BMC
 Massachusetts,2020,December,2020-12-24,PCC,W108501,Joshua Pittochelli,1982,Leukemia,MGH
-Massachusetts,2020,December,2020-12-28,NCCI,W34867,Leo Farland,1951,"NA",HHH
-Massachusetts,2020,December,2020-12-31,MCIN,W38304,Joseph Messere,1952,"NA",Milford Hospital
+Massachusetts,2020,December,2020-12-28,NCCI,W34867,Leo Farland,1951,NA,HHH
+Massachusetts,2020,December,2020-12-31,MCIN,W38304,Joseph Messere,1952,NA,Milford Hospital
