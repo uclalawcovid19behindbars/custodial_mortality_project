@@ -36,6 +36,12 @@ bjs.data <- read_bjs(all.agencies = FALSE, agencies = c('CA', 'NC', 'NV', 'AR'))
 # Compare UCLA and BJS decedent data
 compare_ucla_bjs()
 
+# Load all UCLA demographic data
+ucla.dem <- read_ucla_dem(all.agencies = TRUE)
+
+# Load specific UCLA demographic data
+ucla.dem <- read_ucla_dem(all.agencies = FALSE, agencies = c('CA', 'NC', 'NV', 'AR'))
+
 
 ```
 
