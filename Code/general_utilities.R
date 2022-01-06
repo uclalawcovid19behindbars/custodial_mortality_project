@@ -245,8 +245,8 @@ read_ucla_deaths <- function(all.agencies, agencies) {
                    State = str_replace_all(Files, '-.*', ''),
                    State = str_replace_all(State, 'Data\\/Raw\\/Deaths\\/', ''),
                    State = str_replace_all(State, '.*\\/', '')) %>%
-            subset(State %in% input) %>%
             subset(!str_detect(Files, 'UT-Yearly')) # remove less detailed UT data for alternative aggregates
+        file.list <- file.list[file.list$State %in% input,]
         ## Check for levels in data to aggregate to same level
         # For all three levels
         suppressMessages(
@@ -336,12 +336,13 @@ compare_ucla_bjs <- function() {
 
 
 
+
 ## Read in UCLA Historical Demograpahic Data
 
 read_ucla_dem <- function(all.agencies, agencies) {
     ## Pull all possible files in repo and set up state dataframe
     states <- data.frame(State.Abb = state.abb,
-                         State.Name = state.name)
+                         State = state.name)
     combined.files <- 'Demographics/Combined' %>%
         pull_raw_files()
     distinct.files <- 'Demographics/Distinct' %>%
@@ -353,7 +354,71 @@ read_ucla_dem <- function(all.agencies, agencies) {
                Data.Type = str_replace_all(Files, '.*-', ''),
                Data.Type = str_replace_all(Data.Type, '\\.csv', ''),
                Data.Category = ifelse(str_detect(Data.Type, 'Age.Sex'), 'Combined', 'Distinct')) %>%
-        left_join(., states, by = c('State.Abb')) 
+        left_join(., states, by = c('State.Abb')) %>%
+        mutate(Files = str_c('Data/Raw/Demographics/', Data.Category, '/', Files)) 
+    
+    dem.pull <- all.files %>%
+                pull_dem() %>%
+                left_join(states, by = c('State')) %>%
+                select(State, State.Abb, Date, Sex.Group, Age.Group, Number, Origin.Type)
+    
+    if(all.agencies == TRUE){
+        print('Pulling UCLA demographic data for all agencies')
+    }
+    
+    if(all.agencies == FALSE){
+        input <- agencies
+        dem.pull <- dem.pull[dem.pull$State.Abb %in% input,]
+        print('Pulling UCLA demographic data for specific agencies')
+    }
+    
+    dem.pull
+    
+}
+
+# Pull all demographic files
+
+pull_dem <- function(file.base) {
+    combined <- file.base %>%
+                subset(Data.Category == 'Combined')
+    combined.list <- lapply(combined$Files, read.csv)
+    combined.out <- rbindlist(combined.list, fill = TRUE)
+    combined.out <- combined.out %>%
+                    mutate(Origin.Type = 'Combined')
+    distinct <- file.base %>%
+                subset(Data.Category == 'Distinct' & State.Abb != 'WV' & State.Abb != 'WA') 
+    # Currently excluding WV and WA for lack of explanatory value with non-demographic decedent data and differing dates for 
+    # demographic data sources
+    distinct.list <- lapply(distinct$Files, read.csv)
+    distinct.out <- rbindlist(distinct.list, fill = TRUE)
+    
+    sex.totals <- distinct.out %>%
+              subset(is.na(Age.Group) | is.na(Sex.Group)) %>%
+              mutate(Marker = ifelse(is.na(Age.Group), 'Sex', 'Age')) %>%
+              subset(Marker == 'Sex') %>%
+              group_by(Date, State) %>%
+              summarise(Total = sum(Number))
+    new.percent <- distinct.out %>%
+        subset(is.na(Age.Group) | is.na(Sex.Group)) %>%
+        mutate(Marker = ifelse(is.na(Age.Group), 'Sex', 'Age')) %>%
+        subset(Marker == 'Sex') %>%
+        left_join(sex.totals, by = c('State', 'Date')) %>%
+        ungroup() %>%
+        mutate(New.Percent = Number/Total) %>%
+        select(State, Date, Sex.Group, New.Percent)
+    distinct.clean <- distinct.out %>%
+        subset(is.na(Age.Group) | is.na(Sex.Group)) %>%
+        mutate(Marker = ifelse(is.na(Age.Group), 'Sex', 'Age')) %>%
+        subset(Marker == 'Age') %>%
+        select(-c(Sex.Group)) %>%
+        left_join(., new.percent, by = c('State', 'Date')) %>%
+        mutate(Number = as.integer(Number*New.Percent),
+               Origin.Type = 'Distinct') %>%
+        select(State, Date, Age.Group, Sex.Group, Number, Percent, Origin.Type, Source)
+    
+    demographics.combined <- combined.out %>%
+                             plyr::rbind.fill(distinct.clean)
+    
     
 }
 
