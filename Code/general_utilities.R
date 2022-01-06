@@ -418,6 +418,7 @@ pull_dem <- function(file.base) {
     
     demographics.combined <- combined.out %>%
                              plyr::rbind.fill(distinct.clean)
+    demographics.combined
     
     
 }
