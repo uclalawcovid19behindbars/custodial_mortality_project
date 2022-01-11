@@ -416,8 +416,8 @@ pull_dem <- function(file.base) {
 
 harmonize_ucla_deaths <- function(agencies) {
     # function testing
-    input <- c('AZ', 'GA', 'IL', 'MA', 'MI', 'MT', 'NC', 'NV')
-    # input <- agencies
+    # input <- c('AZ', 'GA', 'IL', 'MA', 'MI', 'MT', 'NC', 'NV')
+    input <- agencies
     ucla.deaths <- read_ucla_deaths(all.agencies = FALSE, agencies = input)
     ucla.dem <- read_ucla_dem(all.agencies = FALSE, agencies = input)
     
