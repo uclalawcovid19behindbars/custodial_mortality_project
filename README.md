@@ -42,6 +42,12 @@ ucla.dem <- read_ucla_dem(all.agencies = TRUE)
 # Load specific UCLA demographic data
 ucla.dem <- read_ucla_dem(all.agencies = FALSE, agencies = c('CA', 'NC', 'NV', 'AR'))
 
+# Harmonize UCLA demographic data (for analysis)
+ucla.dem.h <- harmonize_ucla_dem(agencies = c('GA', 'IL', 'MA', 'MI', 'MT', 'NC', 'NV'))
+
+# Harmonize UCLA decedent data to demographic data (for analysis)
+ucla.data.h <- harmonize_ucla_deaths(agencies = c('GA', 'IL', 'MA', 'MI', 'MT', 'NC', 'NV'))
+
 
 ```
 
