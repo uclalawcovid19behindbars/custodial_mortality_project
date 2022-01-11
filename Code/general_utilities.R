@@ -324,20 +324,7 @@ compare_ucla_bjs <- function() {
     
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Read in UCLA Historical Demograpahic Data
+## Read in UCLA Historical Demograpahic Data -------------------
 
 read_ucla_dem <- function(all.agencies, agencies) {
     ## Pull all possible files in repo and set up state dataframe
@@ -421,6 +408,97 @@ pull_dem <- function(file.base) {
     demographics.combined
     
     
+}
+
+## Harmonize a Deaths and Demographics dataset from UCLA ----------------------------
+# Current datasets of interest to Harmonize for standardized analysis: 
+# AZ, GA, IL, MA (needs sex), MI, MS (needs DoB), MT, NC, NV, NY (needs demographics), OK, PA (missing DoB), WV
+
+harmonize_ucla_deaths <- function(agencies) {
+    # function testing
+    input <- c('AZ', 'GA', 'IL', 'MA', 'MI', 'MT', 'NC', 'NV')
+    # input <- agencies
+    ucla.deaths <- read_ucla_deaths(all.agencies = FALSE, agencies = input)
+    ucla.dem <- read_ucla_dem(all.agencies = FALSE, agencies = input)
+    
+    ucla.deaths.h <- ucla.deaths %>%
+                    mutate(Sex = ifelse(str_detect(Sex, 'F'), 'Female', Sex),
+                           Sex = ifelse((Sex != 'Female' & !is.na(Sex)), 'Male', Sex)) %>% # Harmonize sex
+                    mutate(DoB.Year = str_c(str_c(DoB.Year, '-01', '-01')),
+                           DoB.Combined = coalesce(DoB, DoB.Year)) %>%
+                    mutate(Death.Age = ifelse((is.na(Death.Age) & !is.na(DoB.Combined)), (as.Date(Death.Date, format = '%Y-%m-%d') - as.Date(DoB.Combined, format = '%Y-%m-%d'))/365, Death.Age))
+    
+    ucla.dem.h <- ucla.dem %>%
+                  plyr::rename(c('Sex.Group' = 'Sex')) %>%
+                  mutate(Sex = ifelse(str_detect(Sex, 'F'), 'Female', Sex),
+                         Sex = ifelse((Sex != 'Female' & Sex != 'B'), 'Male', Sex),
+                         Sex = ifelse(Sex == 'B', NA, Sex)) %>% # Harmonize sex
+                  plyr::rename(c('Age.Group' = 'Age')) %>%
+                  mutate(Start.Age = case_when(str_detect(Age, 'nder') ~ '0',
+                                               str_detect(Age, '-') ~ str_replace_all(Age, '-.*', ''),
+                                               str_detect(Age, 'bove') ~ str_replace_all(Age, '[^0-9.-]', ''),
+                                               str_detect(Age, 'ver') ~ str_replace_all(Age, '[^0-9.-]', ''),
+                                               str_detect(Age, '\\+') ~ str_replace_all(Age, '[^0-9.-]', ''),
+                                               (str_length(Age) == 2) ~ Age
+                                               ),
+                         Start.Age = as.numeric(Start.Age),
+                         End.Age = case_when(str_detect(Age, 'bove') ~ '120',
+                                             str_detect(Age, 'ver') ~ '120',
+                                             str_detect(Age, '\\+') ~'120',
+                                             str_detect(Age, 'Under') ~ str_replace_all(Age, '[^0-9.-]', ''),
+                                             str_detect(Age, 'under') ~ str_replace_all(Age, '[^0-9.-]', ''),
+                                             str_detect(Age, '-') ~ str_replace_all(Age, '.*-', ''),
+                                             (str_length(Age) == 2) ~ Age
+                                             ),
+                         End.Age = as.numeric(End.Age),
+                         Standard.Groups = str_c(as.character(Start.Age), '-', as.character(End.Age)))
+    
+    dem.group.frame <- ucla.dem.h %>%
+        select(State, Start.Age, End.Age, Standard.Groups) %>%
+        unique()
+    
+    ucla.death.groups <- ucla.deaths.h %>%
+                         left_join(., dem.group.frame, by = c('State')) %>%
+                         mutate(Standard.Age.Group = ifelse((Death.Age <= End.Age & Death.Age >= Start.Age), Standard.Groups, 'Remove')) %>%
+                         subset(Standard.Age.Group != 'Remove') %>%
+                         select(-c(Start.Age, End.Age, Standard.Groups))
+    
+   ucla.death.groups
+    
+}
+
+harmonize_ucla_dem <- function(agencies) {
+    # function testing
+    # input <- c('AZ', 'GA', 'IL', 'MA', 'MI', 'MT', 'NC', 'NV', 'NY')
+    input <- agencies
+    ucla.dem <- read_ucla_dem(all.agencies = FALSE, agencies = input)
+    
+    ucla.dem.h <- ucla.dem %>%
+        plyr::rename(c('Sex.Group' = 'Sex')) %>%
+        mutate(Sex = ifelse(str_detect(Sex, 'F'), 'Female', Sex),
+               Sex = ifelse((Sex != 'Female' & Sex != 'B'), 'Male', Sex),
+               Sex = ifelse(Sex == 'B', NA, Sex)) %>% # Harmonize sex
+        plyr::rename(c('Age.Group' = 'Age')) %>%
+        mutate(Start.Age = case_when(str_detect(Age, 'nder') ~ '0',
+                                     str_detect(Age, '-') ~ str_replace_all(Age, '-.*', ''),
+                                     str_detect(Age, 'bove') ~ str_replace_all(Age, '[^0-9.-]', ''),
+                                     str_detect(Age, 'ver') ~ str_replace_all(Age, '[^0-9.-]', ''),
+                                     str_detect(Age, '\\+') ~ str_replace_all(Age, '[^0-9.-]', ''),
+                                     (str_length(Age) == 2) ~ Age
+        ),
+        Start.Age = as.numeric(Start.Age),
+        End.Age = case_when(str_detect(Age, 'bove') ~ '120',
+                            str_detect(Age, 'ver') ~ '120',
+                            str_detect(Age, '\\+') ~'120',
+                            str_detect(Age, 'Under') ~ str_replace_all(Age, '[^0-9.-]', ''),
+                            str_detect(Age, 'under') ~ str_replace_all(Age, '[^0-9.-]', ''),
+                            str_detect(Age, '-') ~ str_replace_all(Age, '.*-', ''),
+                            (str_length(Age) == 2) ~ Age
+        ),
+        End.Age = as.numeric(End.Age),
+        Standard.Groups = str_c(as.character(Start.Age), '-', as.character(End.Age)))
+    
+    ucla.dem.h
 }
 
 
