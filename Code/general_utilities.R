@@ -12,39 +12,95 @@ library(data.table)
 
 ## Read in BJS Historical Decedent Data ------------
 
-read_bjs <- function(all.agencies, agencies) {
+read_mci_19 <- function() {
+    ## Load Last MCI
     suppressMessages(suppressWarnings(mci.19 <- 'Data/External/msfp0119stt14.csv' %>%
-               read_csv() %>%
-               subset(!is.na(X3)) %>%
-               mutate(Jurisdiction = coalesce(`Bureau of Justice Statistics`, X2)) %>%
-               select(-c(`Bureau of Justice Statistics`, X2))
+                                          read_csv() %>%
+                                          subset(!is.na(X3)) %>%
+                                          mutate(Jurisdiction = coalesce(`Bureau of Justice Statistics`, X2)) %>%
+                                          select(-c(`Bureau of Justice Statistics`, X2))
     ))
+    ## Clean Last MCI
     mci.cols <- mci.19[1,]
     suppressMessages(suppressWarnings(mci.19 <- mci.19 %>%
-              set_colnames(mci.cols) %>%
-              melt() %>%
-              mutate(Jurisdiction = str_replace_all(Jurisdiction, '\\/.*', '')) %>%
-              subset(!str_detect(Jurisdiction, 'Jurisdiction') & !str_detect(Jurisdiction, 'State')) %>%
-              set_colnames(c('State', 'Year', 'Total.Deaths'))
+                                          set_colnames(mci.cols) %>%
+                                          melt() %>%
+                                          mutate(Jurisdiction = str_replace_all(Jurisdiction, '\\/.*', '')) %>%
+                                          subset(!str_detect(Jurisdiction, 'Jurisdiction') & !str_detect(Jurisdiction, 'State')) %>%
+                                          set_colnames(c('State', 'Year', 'Total.Deaths'))
     ))
     
+    mci.19 <- mci.19 %>%
+        as.data.frame()
+    mci.19$Year <- as.numeric(as.character(mci.19$Year))
+    mci.19
+}
+
+read_nps_20 <- function() {
+    nps.cols <- c('Label', 'State', 'Pop.2019', 'Pop.2020', 'Change.2020', 'Pct.Change.2020',
+                  'Drop', 'Unc.Releases.2019', 'Unc.Releases.2020', 'Con.Releases.2019', 'Con.Releases.2020',
+                  'Deaths.2019', 'Deaths.2020')
+    nps.clean <- c('Pop.2019', 'Pop.2020', 'Unc.Releases.2019', 'Unc.Releases.2020', 'Con.Releases.2019', 'Con.Releases.2020')
+    
+    suppressMessages(suppressWarnings(
+        nps.20 <- 'Data/External/p20stt09.csv' %>%
+        read_csv() %>%
+        set_colnames(nps.cols) %>%
+        subset(!is.na(State)) %>%
+        select(-c(Drop, Label, Change.2020, Pct.Change.2020)) %>%
+        mutate(Deaths.2019 = as.numeric(Deaths.2019),
+               Deaths.2020 = as.numeric(Deaths.2020),
+               State = str_replace_all(State, '\\/.*', '')) %>%
+        mutate_at(nps.clean, ~as.numeric(str_replace_all(., ',', ''))) %>%
+        subset(!is.na(Deaths.2019))
+    ))
+    
+    nps.20
+    
+}
+
+read_bjs <- function(all.agencies, agencies) {
+    ## Load Last MCI
+    mci.19 <- read_mci_19()
+    
+    ## Load Last NPS
+    nps.20 <- read_nps_20()
+    
+    ## Prep MCI Data
+    mci.clean <- mci.19 %>%
+                 subset(Year != 2019)
+    
+    ## Prep NPS Data
+    suppressMessages(suppressWarnings(
+    nps.clean <- nps.20 %>%
+                 select(State, Deaths.2019, Deaths.2020) %>%
+                 melt(id.vars = 'State', measure.vars = c('Deaths.2019', 'Deaths.2020')) %>%
+                 mutate(Year = as.numeric(str_replace_all(variable, '.*\\.', '')),
+                        Total.Deaths = value) %>%
+                 select(c(State, Year, Total.Deaths)) 
+    ))  
+    
+    ## Combine Data
+    bjs.data <- mci.clean %>%
+                rbind(nps.clean)
+
+    ## Make State Dataframe
     states <- data.frame(State.Abb = state.abb,
                          State = state.name)
     
+    ## 
     if(all.agencies == TRUE) {
         print('Pulling all annual agency data from BJS')
+        bjs.out <- bjs.data
     }
     
     if(all.agencies == FALSE) {
-        mci.19 <- mci.19 %>%
-                  left_join(., states, by = c('State')) 
-        mci.19 <- mci.19[mci.19$State.Abb %in% agencies,]
+        bjs.out <- bjs.data %>%
+                   left_join(., states, by = c('State')) 
+        bjs.out <- bjs.out[bjs.out$State.Abb %in% agencies,]
     }
     
-    mci.19 <- mci.19 %>%
-              as.data.frame()
-    mci.19$Year <- as.numeric(as.character(mci.19$Year))
-    mci.19
+    bjs.out
     
 }
 
