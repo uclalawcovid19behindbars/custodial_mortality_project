@@ -1,0 +1,82 @@
+Bureau of Justice Statistics,,,,,,,,,,,,
+Filename: p20stt09.csv,,,,,,,,,,,,
+"Table 9. Releases of sentenced prisoners under the jurisdiction of state or federal correctional authorities, 2019 and 2020",,,,,,,,,,,,
+Report title: Prisoners in 2020 – Statistical Tables NCJ 302776,,,,,,,,,,,,
+"Data source: Bureau of Justice Statistics, National Prisoner Statistics, 2019 and 2020",,,,,,,,,,,,
+"Author: E. Ann Carson, Ph.D., BJS Statistician",,,,,,,,,,,,
+Refer questions to: askbjs@usdoj.gov 202-307-0765,,,,,,,,,,,,
+Date of version: 12/14/2021,,,,,,,,,,,,
+,,,,,,,,,,,,
+"Table 9. Releases of sentenced prisoners under the jurisdiction of state or federal correctional authorities, 2019 and 2020",,,,,,,,,,,,
+Jurisdiction,,2019 total,2020 total,"Change, 2019–2020","Percent change, 2019–2020",,2019 unconditional/a,2020 unconditional/a,2019 conditional/b,2020 conditional/b,2019 deaths/c,2020 deaths/c
+,U.S. total/d,"608,026","549,622","-58,404",-9.6,%,"154,876","140,450","433,683","391,019","4,182","6,112"
+Federal/e,,"50,717","46,899","-3,818",-7.5,%,"47,223","43,516",261,253,366,526
+State/d,,"557,309","502,723","-54,586",-9.8,%,"107,653","96,934","433,422","390,766","3,816","5,586"
+,Alabama/f,"12,251","11,178","-1,073",-8.8,,"3,222","3,356","7,255","5,126",145,211
+,Alaska/g,"1,717","1,626",-91,-5.3,,685,472,"1,029","1,149",3,5
+,Arizona,"13,034","13,938",904,6.9,,"1,917","2,081","11,006","11,692",111,163
+,Arkansas,"9,768","9,760",-8,-0.1,,763,717,"8,923","8,917",82,126
+,California,"37,863","39,673","1,810",4.8,,136,135,"37,176","38,961",402,505
+,Colorado,"9,891","9,568",-323,-3.3,,"1,246","1,037","8,510","8,355",51,74
+,Connecticut/g,"4,371","4,387",16,0.4,,"2,070","2,031","2,287","2,251",7,6
+,"Delaware/g,h","2,076","1,738",-338,-16.3,,175,127,"1,801","1,523",8,20
+,Florida,"30,140","28,720","-1,420",-4.7,,"18,360","17,640","11,365","10,478",403,592
+,Georgia,"15,876","16,460",584,3.7,,"8,197","7,872","7,524","8,315",155,273
+,Hawaii/g,"1,623","1,126",-497,-30.6,,366,314,680,797,13,14
+,Idaho,"4,443","4,001",-442,-9.9,,429,569,"3,958","3,007",27,36
+,Illinois/i,"23,834","20,589","-3,245",-13.6,,"3,807","2,942","19,765","17,471",102,171
+,Indiana,"11,045","9,893","-1,152",-10.4,,"1,248","1,165","9,700","8,588",97,140
+,Iowa,"6,266","4,767","-1,499",-23.9,,"1,276","1,015","4,445","3,709",21,35
+,Kansas,"6,018","4,693","-1,325",-22,,"1,255",422,"4,728","4,232",35,39
+,Kentucky,"19,545","16,531","-3,014",-15.4,,"5,116","4,475","14,078","11,768",67,98
+,Louisiana,"16,868","14,019","-2,849",-16.9,,"1,360","1,053","15,396","12,794",112,158
+,"Maine/j,k ",744,974,230,30.9,,353,490,391,477,0,7
+,Maryland/l,"7,443","5,933","-1,510",-20.3,,"2,303","1,216","5,076","4,652",60,62
+,Massachusetts,"2,312","2,212",-100,-4.3,,"1,649","1,258",633,917,30,37
+,Michigan,"11,470","10,478",-992,-8.6,,465,410,"8,654","8,630",36,36
+,Minnesota,"7,032","5,876","-1,156",-16.4,,748,426,"6,216","5,350",68,100
+,Mississippi,"7,047","6,655",-392,-5.6,,405,406,"6,566","6,123",76,106
+,Missouri,"18,617","14,643","-3,974",-21.3,,"1,098",839,"17,393","13,647",88,129
+,Montana,"2,487","2,517",30,1.2,,252,206,"2,223","2,277",12,33
+,Nebraska,"2,317","2,453",136,5.9,,486,528,"1,774","1,885",17,29
+,Nevada,"6,689","5,753",-936,-14,,"2,181","1,610","4,465","4,061",43,82
+,New Hampshire,"1,339","1,246",-93,-6.9,,130,159,"1,199","1,087",10,0
+,New Jersey,"8,115","9,711","1,596",19.7,,"4,577","6,439","3,413","3,141",46,90
+,New Mexico/k,"3,508","3,090",-418,-11.9,,945,767,"2,337","2,271",18,50
+,New York,"20,637","16,249","-4,388",-21.3,,"1,945","1,216","18,182","14,665",112,120
+,North Carolina,"17,215","15,960","-1,255",-7.3,,"2,325","1,848","14,781","13,980",109,132
+,North Dakota,"1,318","1,220",-98,-7.4,,110,94,"1,200","1,119",1,7
+,Ohio/k,"20,409","20,052",-357,-1.7,,"7,167","6,394","13,106","13,408",135,250
+,Oklahoma,"9,332","8,100","-1,232",-13.2,,"2,496","1,814","6,758","6,175",78,111
+,Oregon/j,"5,885","5,139",:,:,,37,15,"5,623","5,074",30,50
+,Pennsylvania,"17,838","15,591","-2,247",-12.6,,"3,006","2,827","14,653","12,522",159,220
+,Rhode Island/g,699,660,-39,-5.6,,460,412,235,236,0,3
+,South Carolina,"6,276","5,659",-617,-9.8,,"1,939","1,662","4,262","3,877",71,119
+,South Dakota,"4,549","3,873",-676,-14.9,,300,190,"2,303","2,264",17,7
+,Tennessee,"14,165","13,484",-681,-4.8,,"5,523","4,834","8,543","8,532",99,118
+,Texas,"78,532","66,726","-11,806",-15,,"9,651","8,552","65,054","56,028",413,674
+,Utah,"4,038","4,156",118,2.9,,629,627,"3,388","3,492",21,37
+,"Vermont/g,j,m","2,470","1,182",:,:,,395,/,"2,065",/,9,/
+,Virginia/n,"12,695","12,904",209,1.6,,"1,068","1,007","11,522","11,752",95,140
+,Washington/k,"24,487","17,014","-7,473",-30.5,,"2,031","2,097","22,415","14,853",36,51
+,West Virginia,"4,143","3,429",-714,-17.2,,884,629,"3,029","2,648",28,46
+,Wisconsin,"5,859","6,023",164,2.8,,236,239,"5,569","5,703",44,67
+,Wyoming,"1,013","1,094",81,8,,231,300,768,787,14,7
+"Note: Jurisdiction refers to the legal authority of state or federal correctional officials over a prisoner, regardless of where the prisoner is held. For jurisdiction-level information, see Jurisdiction notes on the BJS website. Counts exclude transfers, escapes, and absences without leave (AWOLs). Counts include deaths, releases to appeal or bond, and other releases. See Methodology. Counts cover January 1 through December 31 for each year and are based on prisoners admitted to or released from state or federal correctional authorities with a sentence of more than 1 year. As of December 31, 2001, sentenced felons from the District of Columbia were the responsibility of the Federal Bureau of Prisons. Multiple states reported large changes in prison populations, admissions, and releases between 2019 and 2020 due to criminal justice reforms enacted to address the COVID-19 pandemic. Because these differences were not the result of changes in reporting methods, BJS made direct comparisons of 2019 and 2020 data, understanding that the criminal justice reforms may be temporary. ",,,,,,,,,,,,
+/Not reported.,,,,,,,,,,,,
+:Not calculated. Counts and rates for 2019 and 2020 are not comparable.,,,,,,,,,,,,
+"a/Includes expirations of sentence, commutations, and other unconditional releases.",,,,,,,,,,,,
+"b/Includes releases to probation, supervised mandatory releases, and other unspecified conditional releases.",,,,,,,,,,,,
+"c/Includes all deaths of prisoners under state and federal jurisdiction with sentences of more than 1 year. Counts of deaths in state and federal prisons may differ from previously published statistics due to differences in definitions. All causes of death are included in this count, including executions.",,,,,,,,,,,,
+"d/U.S. and state total estimates for 2019 include imputed counts for Maine, Oregon, and Vermont, which did not submit 2019 National Prisoner Statistics (NPS) data on releases. See Methodology in this report and in Prisoners in 2019 (NCJ 255115, BJS, October 2020).",,,,,,,,,,,,
+"e/Includes adult prisoners held in nonsecure community corrections facilities and adults and persons age 17 or younger held in privately operated facilities. The 261 conditional releases from federal correctional facilities are persons who were sentenced before the 1984 Sentencing Reform Act, which eliminated federal parole.",,,,,,,,,,,,
+f/May include releases of prisoners with sentences of 1 year or less.,,,,,,,,,,,,
+g/Prisons and jails form one integrated system. Data include total jail and prison populations.,,,,,,,,,,,,
+h/Releases include offenders who received a combined sentence of prison and probation or parole of more than 1 year.,,,,,,,,,,,,
+i/Includes an undetermined number of prisoners with sentences of 1 year.,,,,,,,,,,,,
+j/State did not submit 2019 NPS data on releases. Total and detailed types of releases were imputed. Estimates of releases in 2019 are not comparable to data for previous years or to 2020. See Methodology in this report and Jurisdiction notes on the BJS website.,,,,,,,,,,,,
+"k/Includes all releases from state prison, regardless of sentence length. See Jurisdiction notes on the BJS website.",,,,,,,,,,,,
+l/Counts of releases for 2019 and 2020 are estimates.,,,,,,,,,,,,
+m/State did not provide release breakdown by type in 2020.,,,,,,,,,,,,
+n/Release data are based on calendar year 2020 and include persons sentenced to 1 year or more.,,,,,,,,,,,,
+"Source: Bureau of Justice Statistics, National Prisoner Statistics, 2019 and 2020.",,,,,,,,,,,,
