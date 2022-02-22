@@ -100,11 +100,11 @@ Estimate 2020 change in all-cause mortality using uneven data. [Research](https:
 
 ## Ongoing projects
 
-Integrate data from other existing mortality projects on the UCLA team (FL and TX)
+Integrate data from other existing mortality projects on the UCLA team (FL and TX);
 
-Develop 2020 archive/request guide to spur ongoing public collection of carceral decedent data 
+Develop 2020 archive/request guide to spur ongoing public collection of carceral decedent data; 
 
-Integrate Reuters [jail decedent data](https://www.reuters.com/investigates/special-report/usa-jails-graphic/)
+Integrate Reuters [jail decedent data](https://www.reuters.com/investigates/special-report/usa-jails-graphic/);
 
 Integrate core data Facility.IDs and functions in behindbarstools to analyze all-cause decedent data alongside reported COVID data
 
