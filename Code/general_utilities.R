@@ -403,7 +403,7 @@ read_ucla_dem <- function(all.agencies, agencies) {
     dem.pull <- all.files %>%
                 pull_dem() %>%
                 left_join(states, by = c('State')) %>%
-                select(State, State.Abb, Date, Sex.Group, Age.Group, Number, Origin.Type)
+                select(State, Date, Sex.Group, Age.Group, Number, Origin.Type)
     
     if(all.agencies == TRUE){
         print('Pulling UCLA demographic data for all agencies')
