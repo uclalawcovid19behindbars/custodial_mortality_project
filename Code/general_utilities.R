@@ -478,23 +478,39 @@ harmonize_ucla_deaths <- function(agencies) {
     ucla.deaths <- read_ucla_deaths(all.agencies = FALSE, agencies = input)
     ucla.dem <- read_ucla_dem(all.agencies = FALSE, agencies = input)
     
+    if(!('Sex' %in% colnames(ucla.deaths))) {
+        ucla.deaths <- ucla.deaths %>%
+                       mutate(Sex = NA)
+    }
+    
     ucla.deaths.i <- ucla.deaths %>%
                     mutate(Sex = ifelse(str_detect(Sex, 'F'), 'Female', Sex),
                            Sex = ifelse((Sex != 'Female' & !is.na(Sex)), 'Male', Sex)) # Harmonize sex
     if(!('DoB.Year' %in% colnames(ucla.deaths.i)) & !('Death.Age' %in% colnames(ucla.deaths.i))) {
         ucla.deaths.i <- ucla.deaths.i %>%
                          mutate(DoB.Year = NA)
-    } else {
-        ucla.deaths.i <- ucla.deaths.i
-    }
+    } 
     
     if(!('DoB' %in% colnames(ucla.deaths.i)) & 'Death.Age' %in% colnames(ucla.deaths.i)) {
         ucla.deaths.i <- ucla.deaths.i %>%
             mutate(DoB.Year = year(Death.Date) - Death.Age,
                    DoB = NA) 
-    } else {
-        ucla.deaths.i <- ucla.deaths.i
-    }
+    } 
+    
+    if(!('DoB.Year' %in% colnames(ucla.deaths.i)) & ('DoB' %in% colnames(ucla.deaths.i))) {
+        ucla.deaths.i <- ucla.deaths.i %>%
+            mutate(DoB.Year = NA)
+    } 
+    
+    if(!('DoB' %in% colnames(ucla.deaths.i)) & 'DoB.Year' %in% colnames(ucla.deaths.i)) {
+        ucla.deaths.i <- ucla.deaths.i %>%
+            mutate(DoB = NA) 
+    } 
+    
+    if(!('Death.Age' %in% colnames(ucla.deaths.i))) {
+        ucla.deaths.i <- ucla.deaths.i %>%
+                         mutate(Death.Age = NA) 
+    } 
     
     ucla.deaths.h <- ucla.deaths.i %>%
                     mutate(DoB.Year = str_c(str_c(DoB.Year, '-01', '-01')),
