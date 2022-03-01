@@ -21,6 +21,9 @@ If BJA does not produce public statistical reports on annual changes in U.S. cor
 Functions to load and analyze the data can be found in the `general_utilities.R` file in the Code folder.
 
 ``` r
+# Load all UCLA mortality functions
+source('Code/general_utilities.R')
+
 # Load all UCLA decedent data
 ucla.data <- read_ucla_deaths(all.agencies = TRUE)
 
