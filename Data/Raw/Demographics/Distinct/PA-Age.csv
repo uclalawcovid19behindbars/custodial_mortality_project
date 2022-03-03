@@ -1,7 +1,7 @@
-State,Date,Age.Group,Number,Percent,Source
-Pennsylvania,2018-12-31,Under 25,3879,NA,https://www.cor.pa.gov/About%20Us/Statistics/Documents/Reports/2019%20Annual%20Statistical%20Report.pdf
-Pennsylvania,2018-12-31,25-39,23079,NA,https://www.cor.pa.gov/About%20Us/Statistics/Documents/Reports/2019%20Annual%20Statistical%20Report.pdf
-Pennsylvania,2018-12-31,40 and Over,20412,NA,https://www.cor.pa.gov/About%20Us/Statistics/Documents/Reports/2019%20Annual%20Statistical%20Report.pdf
-Pennsylvania,2019-12-31,Under 25,3297,NA,https://www.cor.pa.gov/About%20Us/Statistics/Documents/Reports/2019%20Annual%20Statistical%20Report.pdf
-Pennsylvania,2019-12-31,25-39,22026,NA,https://www.cor.pa.gov/About%20Us/Statistics/Documents/Reports/2019%20Annual%20Statistical%20Report.pdf
-Pennsylvania,2019-12-31,40 and Over,20552,NA,https://www.cor.pa.gov/About%20Us/Statistics/Documents/Reports/2019%20Annual%20Statistical%20Report.pdf
+"State","Date","Age.Group","Number","Percent","Source"
+"Pennsylvania","2018-12-31","24 and under",3879,NA,"https://www.cor.pa.gov/About%20Us/Statistics/Documents/Reports/2019%20Annual%20Statistical%20Report.pdf"
+"Pennsylvania","2018-12-31","25-39",23079,NA,"https://www.cor.pa.gov/About%20Us/Statistics/Documents/Reports/2019%20Annual%20Statistical%20Report.pdf"
+"Pennsylvania","2018-12-31","40 and Over",20412,NA,"https://www.cor.pa.gov/About%20Us/Statistics/Documents/Reports/2019%20Annual%20Statistical%20Report.pdf"
+"Pennsylvania","2019-12-31","24 and under",3297,NA,"https://www.cor.pa.gov/About%20Us/Statistics/Documents/Reports/2019%20Annual%20Statistical%20Report.pdf"
+"Pennsylvania","2019-12-31","25-39",22026,NA,"https://www.cor.pa.gov/About%20Us/Statistics/Documents/Reports/2019%20Annual%20Statistical%20Report.pdf"
+"Pennsylvania","2019-12-31","40 and Over",20552,NA,"https://www.cor.pa.gov/About%20Us/Statistics/Documents/Reports/2019%20Annual%20Statistical%20Report.pdf"

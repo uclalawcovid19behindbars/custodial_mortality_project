@@ -1,9 +1,17 @@
-State,Date,Age.Group,Number,Percent,Source
-Iowa,2019-12-31,Under 18,11,NA,http://publications.iowa.gov/31465/1/quick%20factsn2019.pdf
-Iowa,2019-12-31,18-30,2877,NA,http://publications.iowa.gov/31465/1/quick%20factsn2019.pdf
-Iowa,2019-12-31,31-50,4054,NA,http://publications.iowa.gov/31465/1/quick%20factsn2019.pdf
-Iowa,2019-12-31,51+,1496,NA,http://publications.iowa.gov/31465/1/quick%20factsn2019.pdf
-Iowa,2021-07-31,Under 18,7,NA,https://doc.iowa.gov/data/quick-facts
-Iowa,2021-07-31,18-30,2443,NA,https://doc.iowa.gov/data/quick-facts
-Iowa,2021-07-31,31-50,3840,NA,https://doc.iowa.gov/data/quick-facts
-Iowa,2021-07-31,51+,1453,NA,https://doc.iowa.gov/data/quick-facts
+"State","Date","Age.Group","Number","Percent","Source"
+"Virginia","2019-12-30","17 and under",0,0,"https://vadoc.virginia.gov/media/1623/vadoc-financial-annual-mis-report-2020.pdf"
+"Virginia","2019-12-30","18-24",1995,7.1,"https://vadoc.virginia.gov/media/1623/vadoc-financial-annual-mis-report-2020.pdf"
+"Virginia","2019-12-30","25-34",8430,30,"https://vadoc.virginia.gov/media/1623/vadoc-financial-annual-mis-report-2020.pdf"
+"Virginia","2019-12-30","35-44",8037,28.6,"https://vadoc.virginia.gov/media/1623/vadoc-financial-annual-mis-report-2020.pdf"
+"Virginia","2019-12-30","45-54",5283,18.8,"https://vadoc.virginia.gov/media/1623/vadoc-financial-annual-mis-report-2020.pdf"
+"Virginia","2019-12-30","55-59",2023,7.2,"https://vadoc.virginia.gov/media/1623/vadoc-financial-annual-mis-report-2020.pdf"
+"Virginia","2019-12-30","60-64",1124,4,"https://vadoc.virginia.gov/media/1623/vadoc-financial-annual-mis-report-2020.pdf"
+"Virginia","2019-12-30","65+",899,3.2,"https://vadoc.virginia.gov/media/1623/vadoc-financial-annual-mis-report-2020.pdf"
+"Virginia","2020-12-30","17 and under",0,0,"https://vadoc.virginia.gov/media/1725/vadoc-financial-annual-mis-report-2021.pdf"
+"Virginia","2020-12-30","18-24",1473,6.3,"https://vadoc.virginia.gov/media/1725/vadoc-financial-annual-mis-report-2021.pdf"
+"Virginia","2020-12-30","25-34",6874,29.4,"https://vadoc.virginia.gov/media/1725/vadoc-financial-annual-mis-report-2021.pdf"
+"Virginia","2020-12-30","35-44",7084,30.3,"https://vadoc.virginia.gov/media/1725/vadoc-financial-annual-mis-report-2021.pdf"
+"Virginia","2020-12-30","45-54",4442,19,"https://vadoc.virginia.gov/media/1725/vadoc-financial-annual-mis-report-2021.pdf"
+"Virginia","2020-12-30","55-59",1660,7.1,"https://vadoc.virginia.gov/media/1725/vadoc-financial-annual-mis-report-2021.pdf"
+"Virginia","2020-12-30","60-64",982,4.2,"https://vadoc.virginia.gov/media/1725/vadoc-financial-annual-mis-report-2021.pdf"
+"Virginia","2020-12-30","65+",818,3.5,"https://vadoc.virginia.gov/media/1725/vadoc-financial-annual-mis-report-2021.pdf"

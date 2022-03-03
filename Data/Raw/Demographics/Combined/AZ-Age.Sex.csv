@@ -1,31 +1,31 @@
-State,Date,Sex.Group,Age.Group,Number,Percent,Source
-Arizona,2019-06-30,Male,Under 18,43,NA,https://corrections.az.gov/sites/default/files/REPORTS/Inmate_Population/inmate_popfacts_sheet_2019.pdf
-Arizona,2019-06-30,Male,18-24,3223,NA,https://corrections.az.gov/sites/default/files/REPORTS/Inmate_Population/inmate_popfacts_sheet_2019.pdf
-Arizona,2019-06-30,Male,25-39,18832,NA,https://corrections.az.gov/sites/default/files/REPORTS/Inmate_Population/inmate_popfacts_sheet_2019.pdf
-Arizona,2019-06-30,Male,40-54,11346,NA,https://corrections.az.gov/sites/default/files/REPORTS/Inmate_Population/inmate_popfacts_sheet_2019.pdf
-Arizona,2019-06-30,Male,55+,4542,NA,https://corrections.az.gov/sites/default/files/REPORTS/Inmate_Population/inmate_popfacts_sheet_2019.pdf
-Arizona,2019-06-30,Female,Under 18,3,NA,https://corrections.az.gov/sites/default/files/REPORTS/Inmate_Population/inmate_popfacts_sheet_2019.pdf
-Arizona,2019-06-30,Female,18-24,317,NA,https://corrections.az.gov/sites/default/files/REPORTS/Inmate_Population/inmate_popfacts_sheet_2019.pdf
-Arizona,2019-06-30,Female,25-39,2472,NA,https://corrections.az.gov/sites/default/files/REPORTS/Inmate_Population/inmate_popfacts_sheet_2019.pdf
-Arizona,2019-06-30,Female,40-54,1237,NA,https://corrections.az.gov/sites/default/files/REPORTS/Inmate_Population/inmate_popfacts_sheet_2019.pdf
-Arizona,2019-06-30,Female,55+,297,NA,https://corrections.az.gov/sites/default/files/REPORTS/Inmate_Population/inmate_popfacts_sheet_2019.pdf
-Arizona,2018-06-30,Male,Under 18,58,NA,https://corrections.az.gov/sites/default/files/REPORTS/Inmate_Population/inmate_popfacts_sheet_2018.pdf
-Arizona,2018-06-30,Male,18-24,3547,NA,https://corrections.az.gov/sites/default/files/REPORTS/Inmate_Population/inmate_popfacts_sheet_2018.pdf
-Arizona,2018-06-30,Male,25-39,18905,NA,https://corrections.az.gov/sites/default/files/REPORTS/Inmate_Population/inmate_popfacts_sheet_2018.pdf
-Arizona,2018-06-30,Male,40-54,11207,NA,https://corrections.az.gov/sites/default/files/REPORTS/Inmate_Population/inmate_popfacts_sheet_2018.pdf
-Arizona,2018-06-30,Male,55+,4306,NA,https://corrections.az.gov/sites/default/files/REPORTS/Inmate_Population/inmate_popfacts_sheet_2018.pdf
-Arizona,2018-06-30,Female,Under 18,4,NA,https://corrections.az.gov/sites/default/files/REPORTS/Inmate_Population/inmate_popfacts_sheet_2018.pdf
-Arizona,2018-06-30,Female,18-24,314,NA,https://corrections.az.gov/sites/default/files/REPORTS/Inmate_Population/inmate_popfacts_sheet_2018.pdf
-Arizona,2018-06-30,Female,25-39,2326,NA,https://corrections.az.gov/sites/default/files/REPORTS/Inmate_Population/inmate_popfacts_sheet_2018.pdf
-Arizona,2018-06-30,Female,40-54,1185,NA,https://corrections.az.gov/sites/default/files/REPORTS/Inmate_Population/inmate_popfacts_sheet_2018.pdf
-Arizona,2018-06-30,Female,55+,261,NA,https://corrections.az.gov/sites/default/files/REPORTS/Inmate_Population/inmate_popfacts_sheet_2018.pdf
-Arizona,2017-06-30,Male,Under 18,59,NA,https://corrections.az.gov/sites/default/files/REPORTS/Inmate_Population/inmate_popfacts_sheet_2017.pdf
-Arizona,2017-06-30,Male,18-24,3822,NA,https://corrections.az.gov/sites/default/files/REPORTS/Inmate_Population/inmate_popfacts_sheet_2017.pdf
-Arizona,2017-06-30,Male,25-39,19052,NA,https://corrections.az.gov/sites/default/files/REPORTS/Inmate_Population/inmate_popfacts_sheet_2017.pdf
-Arizona,2017-06-30,Male,40-54,11179,NA,https://corrections.az.gov/sites/default/files/REPORTS/Inmate_Population/inmate_popfacts_sheet_2017.pdf
-Arizona,2017-06-30,Male,55+,4025,NA,https://corrections.az.gov/sites/default/files/REPORTS/Inmate_Population/inmate_popfacts_sheet_2017.pdf
-Arizona,2017-06-30,Female,Under 18,4,NA,https://corrections.az.gov/sites/default/files/REPORTS/Inmate_Population/inmate_popfacts_sheet_2017.pdf
-Arizona,2017-06-30,Female,18-24,364,NA,https://corrections.az.gov/sites/default/files/REPORTS/Inmate_Population/inmate_popfacts_sheet_2017.pdf
-Arizona,2017-06-30,Female,25-39,2234,NA,https://corrections.az.gov/sites/default/files/REPORTS/Inmate_Population/inmate_popfacts_sheet_2017.pdf
-Arizona,2017-06-30,Female,40-54,1225,NA,https://corrections.az.gov/sites/default/files/REPORTS/Inmate_Population/inmate_popfacts_sheet_2017.pdf
-Arizona,2017-06-30,Female,55+,235,NA,https://corrections.az.gov/sites/default/files/REPORTS/Inmate_Population/inmate_popfacts_sheet_2017.pdf
+"State","Date","Sex.Group","Age.Group","Number","Percent","Source"
+"Arizona","2019-06-30","Male","17 and under",43,NA,"https://corrections.az.gov/sites/default/files/REPORTS/Inmate_Population/inmate_popfacts_sheet_2019.pdf"
+"Arizona","2019-06-30","Male","18-24",3223,NA,"https://corrections.az.gov/sites/default/files/REPORTS/Inmate_Population/inmate_popfacts_sheet_2019.pdf"
+"Arizona","2019-06-30","Male","25-39",18832,NA,"https://corrections.az.gov/sites/default/files/REPORTS/Inmate_Population/inmate_popfacts_sheet_2019.pdf"
+"Arizona","2019-06-30","Male","40-54",11346,NA,"https://corrections.az.gov/sites/default/files/REPORTS/Inmate_Population/inmate_popfacts_sheet_2019.pdf"
+"Arizona","2019-06-30","Male","55+",4542,NA,"https://corrections.az.gov/sites/default/files/REPORTS/Inmate_Population/inmate_popfacts_sheet_2019.pdf"
+"Arizona","2019-06-30","Female","17 and under",3,NA,"https://corrections.az.gov/sites/default/files/REPORTS/Inmate_Population/inmate_popfacts_sheet_2019.pdf"
+"Arizona","2019-06-30","Female","18-24",317,NA,"https://corrections.az.gov/sites/default/files/REPORTS/Inmate_Population/inmate_popfacts_sheet_2019.pdf"
+"Arizona","2019-06-30","Female","25-39",2472,NA,"https://corrections.az.gov/sites/default/files/REPORTS/Inmate_Population/inmate_popfacts_sheet_2019.pdf"
+"Arizona","2019-06-30","Female","40-54",1237,NA,"https://corrections.az.gov/sites/default/files/REPORTS/Inmate_Population/inmate_popfacts_sheet_2019.pdf"
+"Arizona","2019-06-30","Female","55+",297,NA,"https://corrections.az.gov/sites/default/files/REPORTS/Inmate_Population/inmate_popfacts_sheet_2019.pdf"
+"Arizona","2018-06-30","Male","17 and under",58,NA,"https://corrections.az.gov/sites/default/files/REPORTS/Inmate_Population/inmate_popfacts_sheet_2018.pdf"
+"Arizona","2018-06-30","Male","18-24",3547,NA,"https://corrections.az.gov/sites/default/files/REPORTS/Inmate_Population/inmate_popfacts_sheet_2018.pdf"
+"Arizona","2018-06-30","Male","25-39",18905,NA,"https://corrections.az.gov/sites/default/files/REPORTS/Inmate_Population/inmate_popfacts_sheet_2018.pdf"
+"Arizona","2018-06-30","Male","40-54",11207,NA,"https://corrections.az.gov/sites/default/files/REPORTS/Inmate_Population/inmate_popfacts_sheet_2018.pdf"
+"Arizona","2018-06-30","Male","55+",4306,NA,"https://corrections.az.gov/sites/default/files/REPORTS/Inmate_Population/inmate_popfacts_sheet_2018.pdf"
+"Arizona","2018-06-30","Female","17 and under",4,NA,"https://corrections.az.gov/sites/default/files/REPORTS/Inmate_Population/inmate_popfacts_sheet_2018.pdf"
+"Arizona","2018-06-30","Female","18-24",314,NA,"https://corrections.az.gov/sites/default/files/REPORTS/Inmate_Population/inmate_popfacts_sheet_2018.pdf"
+"Arizona","2018-06-30","Female","25-39",2326,NA,"https://corrections.az.gov/sites/default/files/REPORTS/Inmate_Population/inmate_popfacts_sheet_2018.pdf"
+"Arizona","2018-06-30","Female","40-54",1185,NA,"https://corrections.az.gov/sites/default/files/REPORTS/Inmate_Population/inmate_popfacts_sheet_2018.pdf"
+"Arizona","2018-06-30","Female","55+",261,NA,"https://corrections.az.gov/sites/default/files/REPORTS/Inmate_Population/inmate_popfacts_sheet_2018.pdf"
+"Arizona","2017-06-30","Male","17 and under",59,NA,"https://corrections.az.gov/sites/default/files/REPORTS/Inmate_Population/inmate_popfacts_sheet_2017.pdf"
+"Arizona","2017-06-30","Male","18-24",3822,NA,"https://corrections.az.gov/sites/default/files/REPORTS/Inmate_Population/inmate_popfacts_sheet_2017.pdf"
+"Arizona","2017-06-30","Male","25-39",19052,NA,"https://corrections.az.gov/sites/default/files/REPORTS/Inmate_Population/inmate_popfacts_sheet_2017.pdf"
+"Arizona","2017-06-30","Male","40-54",11179,NA,"https://corrections.az.gov/sites/default/files/REPORTS/Inmate_Population/inmate_popfacts_sheet_2017.pdf"
+"Arizona","2017-06-30","Male","55+",4025,NA,"https://corrections.az.gov/sites/default/files/REPORTS/Inmate_Population/inmate_popfacts_sheet_2017.pdf"
+"Arizona","2017-06-30","Female","17 and under",4,NA,"https://corrections.az.gov/sites/default/files/REPORTS/Inmate_Population/inmate_popfacts_sheet_2017.pdf"
+"Arizona","2017-06-30","Female","18-24",364,NA,"https://corrections.az.gov/sites/default/files/REPORTS/Inmate_Population/inmate_popfacts_sheet_2017.pdf"
+"Arizona","2017-06-30","Female","25-39",2234,NA,"https://corrections.az.gov/sites/default/files/REPORTS/Inmate_Population/inmate_popfacts_sheet_2017.pdf"
+"Arizona","2017-06-30","Female","40-54",1225,NA,"https://corrections.az.gov/sites/default/files/REPORTS/Inmate_Population/inmate_popfacts_sheet_2017.pdf"
+"Arizona","2017-06-30","Female","55+",235,NA,"https://corrections.az.gov/sites/default/files/REPORTS/Inmate_Population/inmate_popfacts_sheet_2017.pdf"
