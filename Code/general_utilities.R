@@ -408,33 +408,43 @@ read_ucla_dem <- function(all.agencies, agencies) {
     
     if(all.agencies == TRUE){
         print('Pulling UCLA demographic data for all agencies')
+        dem.out <- dem.pull
     }
     
     if(all.agencies == FALSE){
         input <- agencies
-        dem.pull <- dem.pull[dem.pull$State.Abb %in% input,]
+        dem.out <- dem.pull[dem.pull$State.Abb %in% input,]
         print('Pulling UCLA demographic data for specific agencies')
     }
     
-    dem.pull
+    dem.out
     
 }
 
 # Pull all demographic files
 
 pull_dem <- function(file.base) {
+    states.clean <- data.frame(State = state.name, State.Abb = state.abb) 
     combined <- file.base %>%
                 subset(Data.Category == 'Combined')
     combined.list <- lapply(combined$Files, read.csv)
     combined.out <- rbindlist(combined.list, fill = TRUE)
     combined.out <- combined.out %>%
-                    mutate(Origin.Type = 'Combined')
+                    mutate(Origin.Type = 'Combined') %>%
+                    select(-c(State.Abb)) %>%
+                    left_join(., states.clean, by = c('State'))
+    
     distinct <- file.base %>%
+                select(-c(State.Abb)) %>%
+                left_join(., states.clean, by = c('State')) %>%
                 subset(Data.Category == 'Distinct' & State.Abb != 'WV' & State.Abb != 'WA') 
     # Currently excluding WV and WA for lack of explanatory value with non-demographic decedent data and differing dates for 
     # demographic data sources
     distinct.list <- lapply(distinct$Files, read.csv)
     distinct.out <- rbindlist(distinct.list, fill = TRUE)
+    distinct.out <- distinct.out %>%
+                    #select(-c(State.Abb)) %>%
+                    left_join(., states.clean, by = c('State'))
     
     sex.totals <- distinct.out %>%
               subset(is.na(Age.Group) | is.na(Sex.Group)) %>%
@@ -589,6 +599,291 @@ harmonize_ucla_dem <- function(agencies) {
     
     ucla.dem.h
 }
+
+summarize_ucla_data <- function() {
+    ## Set up state match dataframe
+    states <- data.frame(State.Abb = state.abb,
+                         State.Name = state.name)
+    summary.file <- lapply(states$State.Abb, summarize_ucla_state) %>%
+        rbindlist()
+    
+    return(summary.file)
+}
+
+summarize_ucla_state <- function(state) {
+    
+    ## Set up state match dataframe
+    states <- data.frame(State.Abb = state.abb,
+                         State.Name = state.name)
+    ## Pull death data files
+    # Description: Pull all possible decedent files in repo 
+    annual.files <- 'Deaths/Annual' %>%
+        pull_raw_files()
+    monthly.files <- 'Deaths/Monthly' %>%
+        pull_raw_files()
+    individual.files <- 'Deaths/Individual' %>%
+        pull_raw_files()
+    all.death.files <- annual.files %>%
+        plyr::rbind.fill(monthly.files) %>%
+        plyr::rbind.fill(individual.files) %>%
+        mutate(State.Abb = str_replace_all(Files, '-.*', ''),
+               Data.Type = str_replace_all(Files, '.*-', ''),
+               Data.Type = str_replace_all(Data.Type, '\\..*', ''),
+               Data.Type = ifelse(str_detect(Data.Type, 'Yearly'), 'Annual', Data.Type)) %>%
+        left_join(., states, by = c('State.Abb')) 
+    
+    ## Pull demographic data files
+    # Description: Pull all possible demographic files in repo 
+    combined.files <- 'Demographics/Combined' %>%
+        pull_raw_files()
+    distinct.files <- 'Demographics/Distinct' %>%
+        pull_raw_files()
+    
+    all.dem.files <- combined.files %>%
+        plyr::rbind.fill(distinct.files) %>%
+        mutate(State.Abb = str_replace_all(Files, '-.*', ''),
+               Data.Type = str_replace_all(Files, '.*-', ''),
+               Data.Type = str_replace_all(Data.Type, '\\.csv', ''),
+               Data.Category = ifelse(str_detect(Data.Type, 'Age.Sex'), 'Combined', 'Distinct')) %>%
+        left_join(., states, by = c('State.Abb')) %>%
+        mutate(Files = str_c('Data/Raw/Demographics/', Data.Category, '/', Files)) 
+    
+    ## Pull relevant state file locations
+    death.file.frame <- all.death.files %>%
+        subset(State.Abb == state)
+    dem.file.frame <- all.dem.files %>%
+        subset(State.Abb == state)
+    
+    ## Test state file locations
+    death.file.test <- death.file.frame %>%
+        row.names() %>%
+        length()
+    dem.file.test <- dem.file.frame %>%
+        row.names() %>%
+        length()
+    
+    if(death.file.test > 0) {
+        ## Summarize Decedent Info in Files
+        state.data.type <- death.file.frame %>%
+            .[1,'Data.Type']
+        state.death.file <- death.file.frame %>%
+            .[1, 'Files'] %>%
+            str_c('Data/Raw/Deaths/', state.data.type, '/', .)
+        state.deaths <- state.death.file %>%
+            read.csv()
+        
+        state.variables <- state.deaths %>%
+            colnames()
+        # State Check
+        if('State' %in% state.variables) {
+            State <- 1
+        } else {
+            State <- 0
+        }
+        # Year Check
+        if('Year' %in% state.variables) {
+            Year <- 1
+        } else {
+            Year <- 0
+        }
+        # Month Check
+        if('Month' %in% state.variables) {
+            Month <- 1
+        } else {
+            Month <- 0
+        }
+        # Death.Date Check
+        if('Death.Date' %in% state.variables) {
+            Death.Date <- 1
+        } else {
+            Death.Date <- 0
+        }
+        # Facility Check
+        if('Facility' %in% state.variables) {
+            Facility <- 1
+        } else {
+            Facility <- 0
+        }
+        # Full.Name Check
+        if('Full.Name' %in% state.variables) {
+            Full.Name <- 1
+        } else {
+            Full.Name <- 0
+        }
+        # Last.Name Check
+        if('Last.Name' %in% state.variables) {
+            Last.Name <- 1
+        } else {
+            Last.Name <- 0
+        }
+        # First.Name Check
+        if('First.Name' %in% state.variables) {
+            First.Name <- 1
+        } else {
+            First.Name <- 0
+        }
+        # ID.No Check
+        if('ID.No' %in% state.variables) {
+            ID.No <- 1
+        } else {
+            ID.No <- 0
+        }
+        # Sex Check
+        if('Sex' %in% state.variables) {
+            Sex <- 1
+        } else {
+            Sex <- 0
+        }
+        # Race Check
+        if('Race' %in% state.variables) {
+            Race <- 1
+        } else {
+            Race <- 0
+        }
+        # Ethnicity Check
+        if('Ethnicity' %in% state.variables) {
+            Ethnicity <- 1
+        } else {
+            Ethnicity <- 0
+        }
+        # DoB Check
+        if('DoB' %in% state.variables) {
+            DoB <- 1
+        } else {
+            DoB <- 0
+        }
+        # DoB.Year Check
+        if('DoB.Year' %in% state.variables) {
+            DoB.Year <- 1
+        } else {
+            DoB.Year <- 0
+        }
+        # Death.Age Check
+        if('Death.Age' %in% state.variables) {
+            Death.Age <- 1
+        } else {
+            Death.Age <- 0
+        }
+        # Cause.General Check
+        if('Cause.General' %in% state.variables) {
+            Cause.General <- 1
+        } else {
+            Cause.General <- 0
+        }
+        # Cause.Specific Check
+        if('Cause.Specific' %in% state.variables) {
+            Cause.Specific <- 1
+        } else {
+            Cause.Specific <- 0
+        }
+        # Cause.Other Check
+        if('Cause.Other' %in% state.variables) {
+            Cause.Other <- 1
+        } else {
+            Cause.Other <- 0
+        }
+        # Location Check
+        if('Location' %in% state.variables) {
+            Location <- 1
+        } else {
+            Location <- 0
+        }
+        # Total.Deaths Check
+        if('Total.Deaths' %in% state.variables) {
+            Total.Deaths <- 1
+        } else {
+            Total.Deaths <- 0
+        }
+        
+    } else { # end if for any file present
+        State <- 0
+        Year <- 0
+        Month <- 0
+        Death.Date <- 0
+        Facility <- 0
+        Full.Name <- 0
+        Last.Name <- 0
+        First.Name <- 0
+        ID.No <- 0
+        Sex <- 0
+        Race <- 0
+        Ethnicity <- 0
+        DoB <- 0
+        DoB.Year <- 0
+        Death.Age <- 0
+        Cause.General <- 0
+        Cause.Specific <- 0
+        Cause.Other <- 0
+        Location <- 0
+        Total.Deaths <- 0
+    }
+    State.Abb <- state
+    death.summary <- data.frame(State.Abb, State, Year, Month, Death.Date,
+                                Facility, Full.Name, Last.Name, First.Name,
+                                ID.No, Sex, Race, Ethnicity, DoB, DoB.Year,
+                                Death.Age, Cause.General, Cause.Specific, Cause.Other,
+                                Location, Total.Deaths)
+    
+    if(dem.file.test == 0) {
+        ## Summarize Decedent Info in Absent
+        Demographics <- 0
+        Demographics.Start <- 'No Data'
+        Demographics.End <- 'No Data'
+    }
+    
+    if(dem.file.test == 1) {
+        ## Summarize Decedent Info in Files
+        state.data.category <- dem.file.frame %>%
+            .[1,'Data.Category']
+        state.dem.file <- dem.file.frame %>%
+            .[1, 'Files']
+        state.dem <- state.dem.file %>%
+            read.csv() %>%
+            mutate(Date = as.Date(Date, format = '%Y-%m-%d'))
+        Demographics <- 1
+        Demographics.Start <- state.dem$Date %>%
+            min() %>%
+            as.character()
+        Demographics.End <- state.dem$Date %>%
+            max() %>%
+            as.character()
+        
+    }
+    
+    if(dem.file.test > 1) {
+        ## Summarize Decedent Info in Files
+        state.data.category <- dem.file.frame %>%
+            .[1,'Data.Category']
+        state.age.file <- dem.file.frame %>%
+            subset(Data.Type == 'Age') %>%
+            .[1, 'Files']
+        state.sex.file <- dem.file.frame %>%
+            subset(Data.Type == 'Sex') %>%
+            .[1, 'Files']
+        state.age <- state.age.file %>%
+            read.csv()
+        state.sex <- state.sex.file %>%
+            read.csv()
+        state.dem <- state.age %>%
+            plyr::rbind.fill(., state.sex)
+        Demographics <- 1
+        Demographics.Start <- state.dem$Date %>%
+            min() %>%
+            as.character()
+        Demographics.End <- state.dem$Date %>%
+            max() %>%
+            as.character()
+    }
+    
+    dem.summary <- data.frame(State.Abb, Demographics, Demographics.Start, Demographics.End)
+    
+    out.summary <- death.summary %>%
+        left_join(., dem.summary, by = c('State.Abb'))
+    
+    return(out.summary)
+} # end function
+
+
 
 
 
