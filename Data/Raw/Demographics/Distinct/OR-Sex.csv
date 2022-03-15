@@ -1,5 +1,9 @@
-State,Date,Sex.Group,Number,Percent,Source
-Oregon,2020-06-01,Male,13037,NA,UCLA Records
-Oregon,2020-06-01,Female,1141,NA,UCLA Records
-Oregon,2019-06-01,Male,13544,NA,UCLA Records
-Oregon,2019-06-01,Female,1219,NA,UCLA Records
+"State","Date","Sex.Group","Number","Percent","Source"
+"Oregon",2020-06-01,"Male",13037,NA,"UCLA Records"
+"Oregon",2020-06-01,"Female",1141,NA,"UCLA Records"
+"Oregon",2019-06-01,"Male",13544,NA,"UCLA Records"
+"Oregon",2019-06-01,"Female",1219,NA,"UCLA Records"
+"Oregon",2020-12-01,"Male",12019,NA,"UCLA Records"
+"Oregon",2020-12-01,"Female",970,NA,"UCLA Records"
+"Oregon",2018-06-01,"Male",13649,NA,"UCLA Records"
+"Oregon",2018-06-01,"Female",1290,NA,"UCLA Records"
