@@ -1,13 +1,25 @@
-State,Date,Age.Group,Number,Percent,Source
-Massachusetts,2020-12-31,60 and Over,946,NA,https://www.mass.gov/doc/prison-population-trends-2020/download
-Massachusetts,2020-12-31,50-59,1256,NA,https://www.mass.gov/doc/prison-population-trends-2020/download
-Massachusetts,2020-12-31,40-49,1544,NA,https://www.mass.gov/doc/prison-population-trends-2020/download
-Massachusetts,2020-12-31,30-39,1904,NA,https://www.mass.gov/doc/prison-population-trends-2020/download
-Massachusetts,2020-12-31,20-29,1111,NA,https://www.mass.gov/doc/prison-population-trends-2020/download
-Massachusetts,2020-12-31,19 and under,13,NA,https://www.mass.gov/doc/prison-population-trends-2020/download
-Massachusetts,2019-12-31,60 and Over,1006,NA,https://www.mass.gov/doc/prison-population-trends-2019/download
-Massachusetts,2019-12-31,50-59,1399,NA,https://www.mass.gov/doc/prison-population-trends-2019/download
-Massachusetts,2019-12-31,40-49,1852,NA,https://www.mass.gov/doc/prison-population-trends-2019/download
-Massachusetts,2019-12-31,30-39,2372,NA,https://www.mass.gov/doc/prison-population-trends-2019/download
-Massachusetts,2019-12-31,20-29,1534,NA,https://www.mass.gov/doc/prison-population-trends-2019/download
-Massachusetts,2019-12-31,19 and under,20,NA,https://www.mass.gov/doc/prison-population-trends-2019/download
+"State","Date","Age.Group","Number","Percent","Source"
+"Massachusetts",2020-12-31,"60 and Over",946,NA,"https://www.mass.gov/doc/prison-population-trends-2020/download"
+"Massachusetts",2020-12-31,"50-59",1256,NA,"https://www.mass.gov/doc/prison-population-trends-2020/download"
+"Massachusetts",2020-12-31,"40-49",1544,NA,"https://www.mass.gov/doc/prison-population-trends-2020/download"
+"Massachusetts",2020-12-31,"30-39",1904,NA,"https://www.mass.gov/doc/prison-population-trends-2020/download"
+"Massachusetts",2020-12-31,"20-29",1111,NA,"https://www.mass.gov/doc/prison-population-trends-2020/download"
+"Massachusetts",2020-12-31,"19 and under",13,NA,"https://www.mass.gov/doc/prison-population-trends-2020/download"
+"Massachusetts",2019-12-31,"60 and Over",1006,NA,"https://www.mass.gov/doc/prison-population-trends-2019/download"
+"Massachusetts",2019-12-31,"50-59",1399,NA,"https://www.mass.gov/doc/prison-population-trends-2019/download"
+"Massachusetts",2019-12-31,"40-49",1852,NA,"https://www.mass.gov/doc/prison-population-trends-2019/download"
+"Massachusetts",2019-12-31,"30-39",2372,NA,"https://www.mass.gov/doc/prison-population-trends-2019/download"
+"Massachusetts",2019-12-31,"20-29",1534,NA,"https://www.mass.gov/doc/prison-population-trends-2019/download"
+"Massachusetts",2019-12-31,"19 and under",20,NA,"https://www.mass.gov/doc/prison-population-trends-2019/download"
+"Massachusetts",2018-12-31,"60 and Over",983,NA,"https://www.mass.gov/doc/prison-population-trends-2018/download"
+"Massachusetts",2018-12-31,"50-59",1527,NA,"https://www.mass.gov/doc/prison-population-trends-2018/download"
+"Massachusetts",2018-12-31,"40-49",1977,NA,"https://www.mass.gov/doc/prison-population-trends-2018/download"
+"Massachusetts",2018-12-31,"30-39",2592,NA,"https://www.mass.gov/doc/prison-population-trends-2018/download"
+"Massachusetts",2018-12-31,"20-29",1679,NA,"https://www.mass.gov/doc/prison-population-trends-2018/download"
+"Massachusetts",2018-12-31,"19 and under",26,NA,"https://www.mass.gov/doc/prison-population-trends-2018/download"
+"Massachusetts",2017-12-31,"60 and Over",931,NA,"https://www.mass.gov/doc/prison-population-trends-2017/download"
+"Massachusetts",2017-12-31,"50-59",1545,NA,"https://www.mass.gov/doc/prison-population-trends-2017/download"
+"Massachusetts",2017-12-31,"40-49",2062,NA,"https://www.mass.gov/doc/prison-population-trends-2017/download"
+"Massachusetts",2017-12-31,"30-39",2736,NA,"https://www.mass.gov/doc/prison-population-trends-2017/download"
+"Massachusetts",2017-12-31,"20-29",1913,NA,"https://www.mass.gov/doc/prison-population-trends-2017/download"
+"Massachusetts",2017-12-31,"19 and under",20,NA,"https://www.mass.gov/doc/prison-population-trends-2017/download"
