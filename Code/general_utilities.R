@@ -607,7 +607,22 @@ summarize_ucla_data <- function() {
     summary.file <- lapply(states$State.Abb, summarize_ucla_state) %>%
         rbindlist()
     
-    return(summary.file)
+    out.file <- summary.file %>%
+                left_join(., states, by = 'State.Abb') %>%
+                select(State.Name, everything())
+    
+    return(out.file)
+}
+
+check_variable <- function(variable, columns) {
+    # Variable Check
+    if(variable %in% columns) {
+        mark <- 'Yes'
+        assign(variable, mark, envir = .GlobalEnv)
+    } else {
+        mark <- 'No'
+        assign(variable, mark, envir = .GlobalEnv)
+    }
 }
 
 summarize_ucla_state <- function(state) {
@@ -674,148 +689,36 @@ summarize_ucla_state <- function(state) {
         
         state.variables <- state.deaths %>%
             colnames()
-        # State Check
-        if('State' %in% state.variables) {
-            State <- 1
-        } else {
-            State <- 0
-        }
-        # Year Check
-        if('Year' %in% state.variables) {
-            Year <- 1
-        } else {
-            Year <- 0
-        }
-        # Month Check
-        if('Month' %in% state.variables) {
-            Month <- 1
-        } else {
-            Month <- 0
-        }
-        # Death.Date Check
-        if('Death.Date' %in% state.variables) {
-            Death.Date <- 1
-        } else {
-            Death.Date <- 0
-        }
-        # Facility Check
-        if('Facility' %in% state.variables) {
-            Facility <- 1
-        } else {
-            Facility <- 0
-        }
-        # Full.Name Check
-        if('Full.Name' %in% state.variables) {
-            Full.Name <- 1
-        } else {
-            Full.Name <- 0
-        }
-        # Last.Name Check
-        if('Last.Name' %in% state.variables) {
-            Last.Name <- 1
-        } else {
-            Last.Name <- 0
-        }
-        # First.Name Check
-        if('First.Name' %in% state.variables) {
-            First.Name <- 1
-        } else {
-            First.Name <- 0
-        }
-        # ID.No Check
-        if('ID.No' %in% state.variables) {
-            ID.No <- 1
-        } else {
-            ID.No <- 0
-        }
-        # Sex Check
-        if('Sex' %in% state.variables) {
-            Sex <- 1
-        } else {
-            Sex <- 0
-        }
-        # Race Check
-        if('Race' %in% state.variables) {
-            Race <- 1
-        } else {
-            Race <- 0
-        }
-        # Ethnicity Check
-        if('Ethnicity' %in% state.variables) {
-            Ethnicity <- 1
-        } else {
-            Ethnicity <- 0
-        }
-        # DoB Check
-        if('DoB' %in% state.variables) {
-            DoB <- 1
-        } else {
-            DoB <- 0
-        }
-        # DoB.Year Check
-        if('DoB.Year' %in% state.variables) {
-            DoB.Year <- 1
-        } else {
-            DoB.Year <- 0
-        }
-        # Death.Age Check
-        if('Death.Age' %in% state.variables) {
-            Death.Age <- 1
-        } else {
-            Death.Age <- 0
-        }
-        # Cause.General Check
-        if('Cause.General' %in% state.variables) {
-            Cause.General <- 1
-        } else {
-            Cause.General <- 0
-        }
-        # Cause.Specific Check
-        if('Cause.Specific' %in% state.variables) {
-            Cause.Specific <- 1
-        } else {
-            Cause.Specific <- 0
-        }
-        # Cause.Other Check
-        if('Cause.Other' %in% state.variables) {
-            Cause.Other <- 1
-        } else {
-            Cause.Other <- 0
-        }
-        # Location Check
-        if('Location' %in% state.variables) {
-            Location <- 1
-        } else {
-            Location <- 0
-        }
-        # Total.Deaths Check
-        if('Total.Deaths' %in% state.variables) {
-            Total.Deaths <- 1
-        } else {
-            Total.Deaths <- 0
-        }
+        
+        variables.to.check <- c('State', 'Year', 'Month', 'Death.Date', 
+                                'Facility', 'Full.Name', 'Last.Name', 'First.Name',
+                                'ID.No', 'Sex', 'Race', 'Ethnicity', 'DoB', 'DoB.Year',
+                                'Death.Age', 'Cause.General', 'Cause.Specific', 'Cause.Other',
+                                'Location', 'Total.Deaths')
+        
+        sapply(variables.to.check, check_variable, columns = state.variables)
         
     } else { # end if for any file present
-        State <- 0
-        Year <- 0
-        Month <- 0
-        Death.Date <- 0
-        Facility <- 0
-        Full.Name <- 0
-        Last.Name <- 0
-        First.Name <- 0
-        ID.No <- 0
-        Sex <- 0
-        Race <- 0
-        Ethnicity <- 0
-        DoB <- 0
-        DoB.Year <- 0
-        Death.Age <- 0
-        Cause.General <- 0
-        Cause.Specific <- 0
-        Cause.Other <- 0
-        Location <- 0
-        Total.Deaths <- 0
+        State <- 'No'
+        Year <- 'No'
+        Month <- 'No'
+        Death.Date <- 'No'
+        Facility <- 'No'
+        Full.Name <- 'No'
+        Last.Name <- 'No'
+        First.Name <- 'No'
+        ID.No <- 'No'
+        Sex <- 'No'
+        Race <- 'No'
+        Ethnicity <- 'No'
+        DoB <- 'No'
+        DoB.Year <- 'No'
+        Death.Age <- 'No'
+        Cause.General <- 'No'
+        Cause.Specific <- 'No'
+        Cause.Other <- 'No'
+        Location <- 'No'
+        Total.Deaths <- 'No'
     }
     State.Abb <- state
     death.summary <- data.frame(State.Abb, State, Year, Month, Death.Date,
@@ -826,7 +729,7 @@ summarize_ucla_state <- function(state) {
     
     if(dem.file.test == 0) {
         ## Summarize Decedent Info in Absent
-        Demographics <- 0
+        Demographics <- 'No'
         Demographics.Start <- 'No Data'
         Demographics.End <- 'No Data'
     }
@@ -840,7 +743,7 @@ summarize_ucla_state <- function(state) {
         state.dem <- state.dem.file %>%
             read.csv() %>%
             mutate(Date = as.Date(Date, format = '%Y-%m-%d'))
-        Demographics <- 1
+        Demographics <- 'Yes'
         Demographics.Start <- state.dem$Date %>%
             min() %>%
             as.character()
@@ -866,7 +769,7 @@ summarize_ucla_state <- function(state) {
             read.csv()
         state.dem <- state.age %>%
             plyr::rbind.fill(., state.sex)
-        Demographics <- 1
+        Demographics <- 'Yes'
         Demographics.Start <- state.dem$Date %>%
             min() %>%
             as.character()
@@ -882,6 +785,42 @@ summarize_ucla_state <- function(state) {
     
     return(out.summary)
 } # end function
+
+update_mortality_summary_sheet <- function(mortality_sheet_loc) {
+    ucla.summary <- summarize_ucla_data()
+    
+    range_write(
+        data = ucla.summary, 
+        ss = mortality_sheet_loc, 
+        sheet = "Summary", 
+        reformat = FALSE)
+}
+
+interpolate_ucla_dem <- function(demographics) {
+    
+    demographics <- demographics %>%
+        mutate(Date = as.Date(Date, format = '%Y-%m-%d'))
+    
+    start.date <- min(demographics$Date)
+    end.date <- max(demographics$Date)
+    
+    state <- demographics[1,'State']
+    
+    out <- demographics %>%
+        #mutate(Date = as.Date(Date, format = '%Y-%m-%d')) %>%
+        arrange(Date) %>%
+        complete(Sex, Standard.Groups, Date = seq.Date(start.date, end.date, by = 'day')) %>%
+        arrange(Date) %>%
+        group_by(Sex, Standard.Groups) %>%
+        mutate(Number = na.approx(Number, na.rm = FALSE),
+               Number = as.integer(Number),
+               State = state,
+               Month = month.name[month(Date)],
+               Year = year(Date)) %>%
+        select(State, Year, Month, Date, Sex, Standard.Groups, Number)
+    
+    return(out)
+}
 
 
 
