@@ -1,5 +1,7 @@
-State,Date,Sex.Group,Number,Percent,Source
-Michigan,2020-12-31,Male,31900,NA,https://www.michigan.gov/documents/corrections/2020_Statistical_Report_730065_7.pdf
-Michigan,2020-12-31,Female,1717,NA,https://www.michigan.gov/documents/corrections/2020_Statistical_Report_730065_7.pdf
-Michigan,2019-12-31,Male,38053,NA,https://www.michigan.gov/documents/corrections/MDOC_2019_Statistical_Report_717026_7.pdf
-Michigan,2019-12-31,Female,2030,NA,https://www.michigan.gov/documents/corrections/MDOC_2019_Statistical_Report_717026_7.pdf
+"State","Date","Sex.Group","Number","Percent","Source"
+"Michigan",2020-12-31,"Male",31900,NA,"https://www.michigan.gov/documents/corrections/2020_Statistical_Report_730065_7.pdf"
+"Michigan",2020-12-31,"Female",1717,NA,"https://www.michigan.gov/documents/corrections/2020_Statistical_Report_730065_7.pdf"
+"Michigan",2019-12-31,"Male",38053,NA,"https://www.michigan.gov/documents/corrections/MDOC_2019_Statistical_Report_717026_7.pdf"
+"Michigan",2019-12-31,"Female",2030,NA,"https://www.michigan.gov/documents/corrections/MDOC_2019_Statistical_Report_717026_7.pdf"
+"Michigan",2018-12-31,"Male",36682,NA,"https://www.michigan.gov/documents/corrections/MDOC_2018_Statistical_Report_-_2019.07.18_662129_7.pdf"
+"Michigan",2018-12-31,"Female",2079,NA,"https://www.michigan.gov/documents/corrections/MDOC_2018_Statistical_Report_-_2019.07.18_662129_7.pdf"
