@@ -7,6 +7,9 @@ library(magrittr)
 library(reshape2)
 library(lubridate)
 library(data.table)
+library(dplyr)
+library(tidyr)
+library(zoo)
 
 #### Functions -----------------------------------------
 
