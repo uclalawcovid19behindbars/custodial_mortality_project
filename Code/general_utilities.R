@@ -825,6 +825,41 @@ interpolate_ucla_dem <- function(demographics) {
     return(out)
 }
 
+pull_ucla_age_rate <- function(state) {
+    dem <- harmonize_ucla_dem(agencies = c(state))
+    deaths <- harmonize_ucla_deaths(agencies = c(state))
+    
+    dem.load <- dem %>%
+        interpolate_ucla_dem() %>%
+        group_by(Year, Month, Standard.Groups) %>%
+        filter(row_number()==1) %>%
+        group_by(Date, Standard.Groups) %>%
+        summarise(Number = sum(Number)) %>%
+        rename(Population = Number)
+    
+    death.load <- deaths %>%
+        group_by(Year, Month, Standard.Age.Group) %>%
+        summarise(Deaths = n()) %>%
+        mutate(Date = ymd(str_c(Year, "-", Month, "-1"))) %>%
+        rename(Standard.Groups = Standard.Age.Group) %>%
+        subset(select = -c(Year, Month))
+    
+    
+    join <- dem.load %>%
+        left_join(death.load, by = c('Date', 'Standard.Groups')) %>%
+        mutate(Deaths = ifelse(is.na(Deaths), 0, Deaths)) #%>%
+    #subset(select = -c(State, Year, Month))
+    
+    out <- join %>%
+        group_by(Date, Standard.Groups) %>%
+        summarise_all(sum) %>%
+        mutate(Rate = Deaths/Population*100000) 
+    
+    return(out)
+    
+    
+}
+
 
 
 
