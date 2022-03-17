@@ -883,8 +883,101 @@ pull_ucla_fac_data <- function(death.data) {
     
 }
 
+pull_harmonize_interpolate <- function(state) {
+    #state <- states.w.dem$State.Abb[24]
+    out <- state %>%
+        harmonize_ucla_dem() %>%
+        interpolate_ucla_dem()
+    return(out)
+}
 
+calculate_monthly_rate <- function() {
+    summary <- summarize_ucla_data()
+    states.w.dem <- summary %>%
+        subset(!str_detect('No', Demographics) &
+                   !str_detect('No', Year) &
+                   !str_detect('IA', State.Abb) &
+                   !str_detect('WA', State.Abb) &
+                   !str_detect('WV', State.Abb) &
+                   !str_detect('SC', State.Abb) &
+                   !str_detect('AR', State.Abb) &
+                   !str_detect('VA', State.Abb)) # Iowa has weird dem data 
+    suppressMessages(
+        harmonized.population <- states.w.dem$State.Abb %>%
+            lapply(., pull_harmonize_interpolate) %>%
+            rbindlist() 
+    )
+    suppressMessages(
+    clean.population <- harmonized.population %>%
+        group_by(State, Year, Month, Date) %>%
+        summarise(Population = sum(Number, na.rm = TRUE)) %>%
+        group_by(State, Year, Month) %>%
+        summarise(Population = mean(Population))
+    )
+    
+    suppressMessages(
+        read.deaths <- states.w.dem$State.Abb %>%
+            lapply(., read_ucla_deaths, all.agencies = FALSE) %>%
+            rbindlist(fill = TRUE) 
+    )
+    suppressMessages(
+    clean.deaths <- read.deaths %>%
+        group_by(State, Year, Month) %>%
+        summarise(Deaths = n())
+    )
+    
+    combined <- clean.population %>%
+        left_join(., clean.deaths, by = c('State', 'Year', 'Month')) %>%
+        mutate(Rate = Deaths/Population*10000)  %>%
+        arrange(desc(Rate))
+    
+    return(combined)
+    
+}
 
+calculate_annual_rate <- function() {
+    summary <- summarize_ucla_data()
+    states.w.dem <- summary %>%
+        subset(!str_detect('No', Demographics) &
+                   !str_detect('No', Year) &
+                   !str_detect('IA', State.Abb) &
+                   !str_detect('WA', State.Abb) &
+                   !str_detect('WV', State.Abb) &
+                   !str_detect('SC', State.Abb) &
+                   !str_detect('AR', State.Abb) &
+                   !str_detect('VA', State.Abb)) # Iowa has weird dem data 
+    suppressMessages(
+        harmonized.population <- states.w.dem$State.Abb %>%
+            lapply(., pull_harmonize_interpolate) %>%
+            rbindlist() 
+    )
+    suppressMessages(
+    clean.population <- harmonized.population %>%
+        group_by(State, Year, Month, Date) %>%
+        summarise(Population = sum(Number, na.rm = TRUE)) %>%
+        group_by(State, Year) %>%
+        summarise(Population = mean(Population))
+    )
+    
+    suppressMessages(
+        read.deaths <- states.w.dem$State.Abb %>%
+            lapply(., read_ucla_deaths, all.agencies = FALSE) %>%
+            rbindlist(fill = TRUE) 
+    )
+    suppressMessages(
+        clean.deaths <- read.deaths %>%
+        group_by(State, Year) %>%
+        summarise(Deaths = n())
+    )
+    
+    combined <- clean.population %>%
+        left_join(., clean.deaths, by = c('State', 'Year')) %>%
+        mutate(Rate = Deaths/Population*10000)  %>%
+        arrange(desc(Rate))
+    
+    return(combined)
+    
+}
 
 
 
