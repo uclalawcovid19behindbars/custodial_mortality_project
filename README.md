@@ -66,6 +66,12 @@ ucla.data.h <- harmonize_ucla_deaths(agencies = c('GA', 'IL', 'MA', 'MI', 'MT', 
 # Calculate age group mortality rate
 'CA' %>%
     pull_ucla_age_rate()
+ 
+# Pull all UCLA facility data for decedent data
+'NJ' %>%
+    read_ucla_deaths(all.agencies = FALSE,
+                     agencies = .) %>%
+    pull_ucla_fac_data()
     
 # Pull all UCLA facility data for harmonized decedent data
 'CA' %>%
