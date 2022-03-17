@@ -39,6 +39,9 @@ bjs.data <- read_bjs(all.agencies = FALSE, agencies = c('CA', 'NC', 'NV', 'AR'))
 # Compare UCLA and BJS decedent data
 compare_ucla_bjs()
 
+# Summarize UCLA Mortality Database
+summarize_ucla_data()
+
 # Load all UCLA demographic data
 ucla.dem <- read_ucla_dem(all.agencies = TRUE)
 
@@ -50,6 +53,16 @@ ucla.dem.h <- harmonize_ucla_dem(agencies = c('GA', 'IL', 'MA', 'MI', 'MT', 'NC'
 
 # Harmonize UCLA decedent data to demographic data (for analysis)
 ucla.data.h <- harmonize_ucla_deaths(agencies = c('GA', 'IL', 'MA', 'MI', 'MT', 'NC', 'NV'))
+
+# Interpolate harmonized UCLA demographic data
+'CA' %>%
+    harmonize_ucla_dem() %>%
+    interpolate_ucla_dem()
+    
+# Calculate age group mortality rate
+'CA' %>%
+    pull_ucla_age_rate()
+
 
 
 ```
@@ -63,6 +76,7 @@ ucla.data.h <- harmonize_ucla_deaths(agencies = c('GA', 'IL', 'MA', 'MI', 'MT', 
 | `Month`                | Month of death(s)                                                                                                  |
 | `Death.Date`           | Date of death(s)                                                                                                   |
 | `Facility`             | Facility of death(s)                                                                                               |
+| `UCLA.ID`              | Facility ID in UCLA Law CBBDP [COVID Data](https://github.com/uclalawcovid19behindbars/data)                       |
 | `Full.Name`            | Full name of decedent                                                                                              |
 | `Last.Name`            | Last name of decedent                                                                                              |
 | `First.Name`           | First name of decedent                                                                                             |
@@ -93,7 +107,7 @@ ucla.data.h <- harmonize_ucla_deaths(agencies = c('GA', 'IL', 'MA', 'MI', 'MT', 
 
 ## Notes on data inconsistencies and issues
 
-This dataset is still evolving as we obtain and assess custodial decedent data from carceral/law enforcement agencies. Agencies do not produce custodial death and demographic data in the same format or on the same level. While we are working to obtain the most detailed and publicly-necessary decedent and demographic data through public records requests, this repository contains our most recent available processed raw data. As such, there are known issues we are working to document and harmonize as we analyze the data. Examples of incosistencies include: (1) New Jersey reporting semi-redacted deaths for the New Jersey Department of Correction's 'Special Treatment Unit' only for 2020 and each accompanied by a note reading 'Do Not Report to Federal Government'; (2) Differences in the total number of/specific deaths reported by the North Carolina Department of Corrections in public records responses compared with their online prison database; (3) Georgia including executions in their responses; and (4) missing variables and observations for certain variables across datasets, among other issues.
+This dataset is still evolving as we obtain and assess custodial decedent data from carceral/law enforcement agencies. Agencies do not produce custodial death and demographic data in the same format or on the same level. While we are working to obtain the most detailed and publicly-necessary decedent and demographic data through public records requests, this repository contains our most recent available processed raw data. As such, there are known issues we are working to document and harmonize as we analyze the data. Examples of incosistencies include: (1) New Jersey reporting semi-redacted deaths for the New Jersey Department of Correction's 'Special Treatment Unit' only for 2020 and each accompanied by a note reading 'Do Not Report to Federal Government'; (2) Differences in the total number of/specific deaths reported by the North Carolina Department of Corrections in public records responses compared with their online prison database; and (3) missing variables and observations for certain variables across datasets, among other issues.
 
 Future functions will be written to compare these datafiles with existing data on mortality in state prisons including all prior data reported by BJS while it operated the Mortality in Correctional Institutions (MCI) project. 
 
@@ -103,13 +117,11 @@ Estimate 2020 change in all-cause mortality using uneven data. [Research](https:
 
 ## Ongoing projects
 
-Integrate data from other existing mortality projects on the UCLA team (FL and TX);
-
-Develop 2020 archive/request guide to spur ongoing public collection of carceral decedent data; 
+Integrate data from other existing mortality projects on the UCLA team (TX);
 
 Integrate Reuters [jail decedent data](https://www.reuters.com/investigates/special-report/usa-jails-graphic/);
 
-Integrate core data Facility.IDs and functions in behindbarstools to analyze all-cause decedent data alongside reported COVID data
+Integrate functions in behindbarstools to analyze all-cause decedent data alongside reported COVID data.
 
 
 
