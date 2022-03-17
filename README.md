@@ -102,9 +102,9 @@ ucla.data.h <- harmonize_ucla_deaths(agencies = c('GA', 'IL', 'MA', 'MI', 'MT', 
 | `DoB`                  | Date of birth of decedent                                                                                          |
 | `DoB.Year`             | Year of birth of decedent                                                                                          |
 | `Death.Age`            | Age at death of decedent                                                                                           |
-| `Cause.General`        | General circumstances of death (N.B. not necessarily cause of death)                                               |
-| `Cause.Specific`       | Specific circumstances of death (N.B. not necessarily cause of death)                                              |
-| `Cause.Other`          | Other circumstances of death (N.B. not necessarily cause of death)                                                 |
+| `Circumstance.General` | General circumstances of death (N.B. not necessarily cause of death)                                               |
+| `Circumstance.Specific`| Specific circumstances of death (N.B. not necessarily cause of death)                                              |
+| `Circumstance.Other`   | Other circumstances of death (N.B. not necessarily cause of death)                                                 |
 | `Location`             | Specific/other listed location of death                                                                            |
 | `Total.Deaths`         | For aggregated categories, the total number of deaths                                                              
 
