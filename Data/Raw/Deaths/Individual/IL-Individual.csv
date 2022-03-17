@@ -1,4 +1,4 @@
-"State","Year","Month","Death.Date","Facility","ID.No","Full.Name","Cause.General","Sex","Race","Death.Age","DoB","Cause.Specific","Location","UCLA.ID"
+"State","Year","Month","Death.Date","Facility","ID.No","Full.Name","Circumstance.General","Sex","Race","Death.Age","DoB","Circumstance.Specific","Location","UCLA.ID"
 "Illinois",2015,"January","2015-01-01","Southwestern CC","S15123","Shaw, Jesse","Natural","M","W",59,"1956-10-22","Cardiac Arrest, Myocardial Infraction","St. Elizabeth's Hostpital",487
 "Illinois",2015,"January","2015-01-02","Big Muddy River CC","R43622","Smith, Arlanis","Natural","M","B",44,"1970-02-05","Acute Myocardial Infarction, Congestive Heart Failure","Good Samaritan Hospital",449
 "Illinois",2015,"January","2015-01-03","Stateville CC","M13502","Craig, Shawn","Suicide","M","B",40,"1974-06-15","Hanging","Cell NRC",488

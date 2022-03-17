@@ -1,4 +1,4 @@
-"State","Year","Month","Death.Date","Facility","ID.No","Last.Name","First.Name","DoB","Death.Age","Sex","Cause.General","Cause.Specific","Location","UCLA.ID"
+"State","Year","Month","Death.Date","Facility","ID.No","Last.Name","First.Name","DoB","Death.Age","Sex","Circumstance.General","Circumstance.Specific","Location","UCLA.ID"
 "Montana",2015,"January","2015-01-14","Lewistown Infirmary",3004141,"Whitwell","Harb","1941-10-08",73.3183885083714,"M","Natural Causes","Atherosclerotic heart disease","Lewistown Infirmary",NA
 "Montana",2015,"February","2015-02-11","Deer Lodge Medical Center",3005579,"Weaver","William","1959-07-12",55.6272298325723,"M","Natural Causes","Severe Septis - Pneumonia","Deer Lodge Medical Center",NA
 "Montana",2015,"March","2015-03-01","Crossroads Correctional Center",37397,"Miller","Tyler","1976-07-18",38.6461834094368,"M","Suicide","Suicide suffocation","Crossroads Correctional Center",778

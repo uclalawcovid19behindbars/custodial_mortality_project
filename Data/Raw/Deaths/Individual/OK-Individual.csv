@@ -1,4 +1,4 @@
-"State","Year","Month","Death.Date","Facility","Death.Age","Sex","Race","Cause.General","Cause.Other","Cause.Specific","UCLA.ID"
+"State","Year","Month","Death.Date","Facility","Death.Age","Sex","Race","Circumstance.General","Circumstance.Other","Circumstance.Specific","UCLA.ID"
 "Oklahoma",2013,"January","2013-01-07","Lexington Correctional Center",43,"Male","America n Indian","Illness","Natural","End Stage Rectal Cancer",1119
 "Oklahoma",2013,"January","2013-01-07","Joseph Harp Correctional Center",71,"Male","White","Illness","Natural","Ruptured Abdominal Aortic Aneurysm",1115
 "Oklahoma",2013,"January","2013-01-07","Joseph Harp Correctional Center",70,"Male","White","Illness","Natural","AtheroscleroticCardiovascular Disease",1115

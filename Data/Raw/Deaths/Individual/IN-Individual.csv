@@ -1,4 +1,4 @@
-"State","Year","Month","Death.Date","Facility","Cause.General","UCLA.ID"
+"State","Year","Month","Death.Date","Facility","Circumstance.General","UCLA.ID"
 "Indiana",2015,"December","2015-12-08","WESTVILLE CORRECTIONAL FACILITY","Illness",525
 "Indiana",2015,"September","2015-09-10","Rockville Correctional Facility","Illness",517
 "Indiana",2015,"December","2015-12-13","Rockville Correctional Facility","Illness",517

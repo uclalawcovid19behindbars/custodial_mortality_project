@@ -1,4 +1,4 @@
-"State","Year","Month","Death.Date","Facility","Death.Age","Race","Sex","Location","Cause.General","Cause.Specific","UCLA.ID"
+"State","Year","Month","Death.Date","Facility","Death.Age","Race","Sex","Location","Circumstance.General","Circumstance.Specific","UCLA.ID"
 "California",2005,"January","2005-01-03","Salinas Valley State Prison",35,"Other","Male","CDC/CRC","Suicide","Hanging,Strangulation",152
 "California",2005,"January","2005-01-06","California Medical Facility",51,"White","Male","CDC/CRC","Natural","Not Applicable",94
 "California",2005,"January","2005-01-06","Wasco State Prison",50,"Hispanic","Male","Local Hospital","Natural","Not Applicable",171

@@ -1,4 +1,4 @@
-"State","Year","Month","Death.Date","Facility","Death.Age","Sex","Full.Name","Last.Name","ID.No","Cause.General","UCLA.ID"
+"State","Year","Month","Death.Date","Facility","Death.Age","Sex","Full.Name","Last.Name","ID.No","Circumstance.General","UCLA.ID"
 "Arizona",2021,"October","2021-10-08","ASPC Florence",72,"M","Sergio Beas-Aguilar",NA,320230,NA,53
 "Arizona",2021,"October","2021-10-07","ASPC Tucson",79,"M","John W. Jackson",NA,208870,NA,70
 "Arizona",2021,"October","2021-10-04","Central Arizona Correctional Facility",51,"M","Abel G. Mesquita",NA,208199,NA,47

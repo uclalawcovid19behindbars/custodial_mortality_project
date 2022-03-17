@@ -1,4 +1,4 @@
-"State","Year","Month","Death.Date","Facility","Death.Age","Race","Sex","Cause.Specific","UCLA.ID"
+"State","Year","Month","Death.Date","Facility","Death.Age","Race","Sex","Circumstance.Specific","UCLA.ID"
 "Nevada",2020,"December","2020-12-31","NNCC",65,"AI","M","Complications of metastatic pancreatic cancer, presumed pneumonia due to COVID-19, hypertensive and atherosclerotic cardiovascular disease",817
 "Nevada",2020,"December","2020-12-31","LCC",62,"H","M",NA,816
 "Nevada",2020,"December","2020-12-31","NNCC",76,"B","M","Acute respiratory distress syndrome due to pneumonia due to COVID-19, hypertension, type 2 diabetes mellitus and hepatitis C",817

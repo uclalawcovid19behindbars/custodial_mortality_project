@@ -696,7 +696,7 @@ summarize_ucla_state <- function(state) {
         variables.to.check <- c('State', 'Year', 'Month', 'Death.Date', 
                                 'Facility', 'Full.Name', 'Last.Name', 'First.Name',
                                 'ID.No', 'Sex', 'Race', 'Ethnicity', 'DoB', 'DoB.Year',
-                                'Death.Age', 'Cause.General', 'Cause.Specific', 'Cause.Other',
+                                'Death.Age', 'Circumstance.General', 'Circumstance.Specific', 'Circumstance.Other',
                                 'Location', 'Total.Deaths')
         
         sapply(variables.to.check, check_variable, columns = state.variables)
@@ -717,9 +717,9 @@ summarize_ucla_state <- function(state) {
         DoB <- 'No'
         DoB.Year <- 'No'
         Death.Age <- 'No'
-        Cause.General <- 'No'
-        Cause.Specific <- 'No'
-        Cause.Other <- 'No'
+        Circumstance.General <- 'No'
+        Circumstance.Specific <- 'No'
+        Circumstance.Other <- 'No'
         Location <- 'No'
         Total.Deaths <- 'No'
     }
@@ -727,7 +727,7 @@ summarize_ucla_state <- function(state) {
     death.summary <- data.frame(State.Abb, State, Year, Month, Death.Date,
                                 Facility, Full.Name, Last.Name, First.Name,
                                 ID.No, Sex, Race, Ethnicity, DoB, DoB.Year,
-                                Death.Age, Cause.General, Cause.Specific, Cause.Other,
+                                Death.Age, Circumstance.General, Circumstance.Specific, Circumstance.Other,
                                 Location, Total.Deaths)
     
     if(dem.file.test == 0) {

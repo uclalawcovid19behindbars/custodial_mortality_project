@@ -1,4 +1,4 @@
-"State","Year","Month","Death.Date","Facility","Cause.Specific","UCLA.ID"
+"State","Year","Month","Death.Date","Facility","Circumstance.Specific","UCLA.ID"
 "New Jersey",2015,"January","2015-01-07","SWSP","Acute Miocardial Infarction (Cardiac Arrest)",864
 "New Jersey",2015,"January","2015-01-10","SWSP","Bronchid Pneumonia",864
 "New Jersey",2015,"January","2015-01-16","SWSP","Cardiovascular Disease, Diabetes Mellitus II, End Stage Renal Disease",864

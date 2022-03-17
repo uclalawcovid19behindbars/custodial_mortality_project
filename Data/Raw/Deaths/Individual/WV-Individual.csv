@@ -1,4 +1,4 @@
-"State","Year","Month","Death.Date","Facility","Cause.General","DoB","Cause.Specific","UCLA.ID"
+"State","Year","Month","Death.Date","Facility","Circumstance.General","DoB","Circumstance.Specific","UCLA.ID"
 "West Virginia",2015,"December","2015-12-10","SRJ","Suicide","1930-07-26","Suicide",1655
 "West Virginia",2015,"December","2015-12-08","ERJ","Suicide","1941-07-27","Suicide",1631
 "West Virginia",2015,"October","2015-10-12","WRJ","OD","1945-08-10","Drug/alcohol intoxication",1661

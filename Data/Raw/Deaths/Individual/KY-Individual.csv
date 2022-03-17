@@ -1,4 +1,4 @@
-"State","Year","Month","Death.Date","Facility","Full.Name","Sex","Cause.Specific","UCLA.ID"
+"State","Year","Month","Death.Date","Facility","Full.Name","Sex","Circumstance.Specific","UCLA.ID"
 "Kentucky",2018,"February","2018-02-09",NA,"Mallard, Larry","Male",NA,NA
 "Kentucky",2018,"January","2018-01-25",NA,"Hall, Billy","Male",NA,NA
 "Kentucky",2018,"February","2018-02-13",NA,"Glisson, Michael","Male",NA,NA

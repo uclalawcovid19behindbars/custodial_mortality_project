@@ -1,4 +1,4 @@
-"State","Year","Month","Death.Date","Facility","ID.No","Sex","Cause.General","Location","UCLA.ID"
+"State","Year","Month","Death.Date","Facility","ID.No","Sex","Circumstance.General","Location","UCLA.ID"
 "Mississippi",2015,"January","2015-01-05","MSP","133795","M","Suicide","MSP",731
 "Mississippi",2015,"January","2015-01-24","MSP","94206","M","Natural","Greenwood LeFlore",731
 "Mississippi",2015,"February","2015-02-04","MSP","49110","M","Natural","Greenwood LeFlore",731

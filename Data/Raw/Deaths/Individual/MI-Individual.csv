@@ -1,4 +1,4 @@
-"State","Year","Month","Death.Date","Facility","DoB","Sex","Race","Cause.General","Cause.Specific","Ethnicity","UCLA.ID"
+"State","Year","Month","Death.Date","Facility","DoB","Sex","Race","Circumstance.General","Circumstance.Specific","Ethnicity","UCLA.ID"
 "Michigan",2015,"September","2015-09-03","RGC","1974-08-09","Male","Black or African American","ALS","Amyotrophic lateral sclerosis","Black or African American",656
 "Michigan",2015,"August","2015-08-20","RGC","1980-05-03","Male","White","ANOXIC ENCEPHALOPATHY, DKA","Anoxic encephalopathy, DKA","White",656
 "Michigan",2015,"July","2015-07-16","DRF","1955-03-21","Male","White","ASCITIES, HEPATIC FAILURE, DIFFICULTY BREATHING","Liver failure, cirrhosis","White",653

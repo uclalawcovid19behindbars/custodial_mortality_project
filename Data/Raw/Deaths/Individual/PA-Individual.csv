@@ -1,4 +1,4 @@
-"State","Year","Month","Death.Date","Facility","ID.No","Full.Name","DoB","Cause.General","Cause.Specific","Last.Name","First.Name","UCLA.ID"
+"State","Year","Month","Death.Date","Facility","ID.No","Full.Name","DoB","Circumstance.General","Circumstance.Specific","Last.Name","First.Name","UCLA.ID"
 "Pennsylvania",2015,"January","2015-01-02","LAUREL HIGHLANDS","AP4601","PAUL UPSHER","1945-08-11","N","CA LIVER",NA,NA,1174
 "Pennsylvania",2015,"January","2015-01-02","MUNCY","OO7235","RENEE THOMAS","1958-08-01","N","CA LUNG",NA,NA,1180
 "Pennsylvania",2015,"January","2015-01-04","LAUREL HIGHLANDS","AF7556","PAUL STANLEY","1935-04-16","N","CHOLANGIOCARCINOMA",NA,NA,1174

@@ -1,4 +1,4 @@
-"State","Year","Month","Death.Date","Facility","ID.No","Full.Name","DoB.Year","Cause.Specific","Location","UCLA.ID"
+"State","Year","Month","Death.Date","Facility","ID.No","Full.Name","DoB.Year","Circumstance.Specific","Location","UCLA.ID"
 "Massachusetts",2015,"February","2015-02-05","MCIN","W38503","Currie, John",1953,"Cardio pulminary arrest","LSH",638
 "Massachusetts",2015,"February","2015-02-10","MTC","M90303","Parrish, Brad",1961,"Lung Cancer",NA,641
 "Massachusetts",2015,"February","2015-02-11","MCIS","W65617","Walker, Roland",1927,"Pancreatic cancer","LSH",639

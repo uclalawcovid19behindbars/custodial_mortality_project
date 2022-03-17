@@ -1,4 +1,4 @@
-"State","Year","Month","Death.Date","Facility","First.Name","Last.Name","Death.Age","Sex","Cause.General","UCLA.ID"
+"State","Year","Month","Death.Date","Facility","First.Name","Last.Name","Death.Age","Sex","Circumstance.General","UCLA.ID"
 "Maryland",2015,"January","2015-01-16","JCI","Ellis","Douglas",71,"M","Natural",611
 "Maryland",2015,"January","2015-01-16","MDC","Anthony","Roberts",60,"M","Natural",NA
 "Maryland",2015,"January","2015-01-18","MCTC","Cornell","Harris",48,"M","Natural",615
