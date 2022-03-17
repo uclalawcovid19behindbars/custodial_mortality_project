@@ -1,6 +1,6 @@
 
 
-## 2020 Change in State Prison Mortality 
+## UCLA Law CBBDP Carceral Mortality Data
 
 The [UCLA Law COVID Behind Bars Data Project](https://uclacovidbehindbars.org/), launched in March 2020, tracks the spread and impact of COVID in American carceral facilities and advocates for greater transparency and accountability around the pandemic response of the carceral system. 
 
