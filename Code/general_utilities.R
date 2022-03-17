@@ -861,6 +861,28 @@ pull_ucla_age_rate <- function(state) {
     
 }
 
+pull_ucla_fac_data <- function(death.data) {
+    ucla.fac <- 'https://raw.githubusercontent.com/uclalawcovid19behindbars/facility_data/master/data/fac_data.csv' %>%
+        read_csv() %>%
+        select(-c(State))
+    
+    death.cols <- death.data %>%
+        colnames()
+    
+    if('UCLA.ID' %in% death.cols) {
+        out <- death.data %>%
+            left_join(., ucla.fac, by = c('UCLA.ID' = 'Facility.ID'))
+        
+    } else {
+        print('WARNING: UCLA Facility.IDs have not been integrated into this dataset. Please inspect entered data. Returning original data.')
+        out <- death.data
+    }
+    
+    return(out)
+    
+    
+}
+
 
 
 
