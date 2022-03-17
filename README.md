@@ -77,7 +77,12 @@ ucla.data.h <- harmonize_ucla_deaths(agencies = c('GA', 'IL', 'MA', 'MI', 'MT', 
 'CA' %>%
     harmonize_ucla_deaths() %>%
     pull_ucla_fac_data()
+    
+# Calculate monthly mortality rate from available data
+calculate_monthly_rate()
 
+# Calculate annual mortality rate from available data
+calculate_annual_rate()
 
 
 ```
