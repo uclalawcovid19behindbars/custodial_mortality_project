@@ -79,7 +79,15 @@ ucla.data.h <- harmonize_ucla_deaths(agencies = c('GA', 'IL', 'MA', 'MI', 'MT', 
     pull_ucla_fac_data()
     
 # Calculate monthly mortality rate from available data
-calculate_monthly_rate()
+# Options: set pop.source to 'Vera' or 'UCLA'
+calculate_monthly_rate('UCLA')
+
+monthly.rate <- calculate_monthly_rate(pop.source = 'Vera') %>%
+    mutate(Date = as.Date(str_c(Year, '-', Month, '-01'), format = '%Y-%B-%d'))
+
+ggplot() +
+    geom_line(data = monthly.rate, aes(x = Date, y = Rate)) +
+    facet_wrap(~ State) 
 
 # Calculate annual mortality rate from available data
 calculate_annual_rate()
