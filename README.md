@@ -90,8 +90,13 @@ ggplot() +
     facet_wrap(~ State) 
 
 # Calculate annual mortality rate from available data
-calculate_annual_rate()
+calculate_annual_rate('UCLA')
 
+annual.rate <- calculate_annual_rate(pop.source = 'Vera') 
+
+ggplot() +
+    geom_line(data = annual.rate, aes(x = Year, y = Rate)) +
+    facet_wrap(~ State)
 
 ```
 
