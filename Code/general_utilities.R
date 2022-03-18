@@ -906,7 +906,6 @@ calculate_monthly_rate <- function(pop.source) {
                    !str_detect('IA', State.Abb) &
                    !str_detect('WA', State.Abb) &
                    !str_detect('WV', State.Abb) &
-                   !str_detect('SC', State.Abb) &
                    !str_detect('AR', State.Abb) &
                    !str_detect('VA', State.Abb)) # Iowa has weird dem data 
     
@@ -951,14 +950,15 @@ calculate_monthly_rate <- function(pop.source) {
     
     combined <- clean.population %>%
         left_join(., clean.deaths, by = c('State', 'Year', 'Month')) %>%
-        mutate(Rate = Deaths/Population*10000)  %>%
+        mutate(Rate = Deaths/Population*10000,
+               Deaths = ifelse((Year<=2020)&is.na(Deaths), 0, Deaths))  %>%
         arrange(desc(Rate))
     
     return(combined)
     
 }
 
-calculate_annual_rate <- function() {
+calculate_annual_rate <- function(pop.source) {
     summary <- summarize_ucla_data()
     states.w.dem <- summary %>%
         subset(!str_detect('No', Demographics) &
@@ -966,21 +966,36 @@ calculate_annual_rate <- function() {
                    !str_detect('IA', State.Abb) &
                    !str_detect('WA', State.Abb) &
                    !str_detect('WV', State.Abb) &
-                   !str_detect('SC', State.Abb) &
                    !str_detect('AR', State.Abb) &
                    !str_detect('VA', State.Abb)) # Iowa has weird dem data 
-    suppressMessages(
-        harmonized.population <- states.w.dem$State.Abb %>%
-            lapply(., pull_harmonize_interpolate) %>%
-            rbindlist() 
-    )
-    suppressMessages(
-    clean.population <- harmonized.population %>%
-        group_by(State, Year, Month, Date) %>%
-        summarise(Population = sum(Number, na.rm = TRUE)) %>%
-        group_by(State, Year) %>%
-        summarise(Population = mean(Population))
-    )
+    
+    if(pop.source == 'UCLA') {
+        
+        suppressMessages(
+            harmonized.population <- states.w.dem$State.Abb %>%
+                lapply(., pull_harmonize_interpolate) %>%
+                rbindlist() 
+        )
+        suppressMessages(
+            clean.population <- harmonized.population %>%
+                group_by(State, Year, Month, Date) %>%
+                summarise(Population = sum(Number, na.rm = TRUE)) %>%
+                group_by(State, Year) %>%
+                summarise(Population = mean(Population))
+        )
+        
+    }
+    
+    if(pop.source == 'Vera') {
+        clean.population <- interpolate_vera_dem() %>%
+            group_by(State, Year, Month, Date) %>%
+            summarise(Population = sum(Population, na.rm = TRUE)) %>%
+            group_by(State, Year) %>%
+            summarise(Population = mean(Population)) %>%
+            filter(State %in% states.w.dem$State.Name)
+        
+        
+    }
     
     suppressMessages(
         read.deaths <- states.w.dem$State.Abb %>%
@@ -989,13 +1004,14 @@ calculate_annual_rate <- function() {
     )
     suppressMessages(
         clean.deaths <- read.deaths %>%
-        group_by(State, Year) %>%
-        summarise(Deaths = n())
+            group_by(State, Year) %>%
+            summarise(Deaths = n())
     )
     
     combined <- clean.population %>%
         left_join(., clean.deaths, by = c('State', 'Year')) %>%
-        mutate(Rate = Deaths/Population*10000)  %>%
+        mutate(Rate = Deaths/Population*10000,
+               Deaths = ifelse((Year<=2020)&is.na(Deaths), 0, Deaths))  %>%
         arrange(desc(Rate))
     
     return(combined)
