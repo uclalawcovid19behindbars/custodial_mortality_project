@@ -898,7 +898,7 @@ pull_harmonize_interpolate <- function(state) {
     return(out)
 }
 
-calculate_monthly_rate <- function() {
+calculate_monthly_rate <- function(pop.source) {
     summary <- summarize_ucla_data()
     states.w.dem <- summary %>%
         subset(!str_detect('No', Demographics) &
@@ -909,18 +909,34 @@ calculate_monthly_rate <- function() {
                    !str_detect('SC', State.Abb) &
                    !str_detect('AR', State.Abb) &
                    !str_detect('VA', State.Abb)) # Iowa has weird dem data 
-    suppressMessages(
-        harmonized.population <- states.w.dem$State.Abb %>%
-            lapply(., pull_harmonize_interpolate) %>%
-            rbindlist() 
-    )
-    suppressMessages(
-    clean.population <- harmonized.population %>%
-        group_by(State, Year, Month, Date) %>%
-        summarise(Population = sum(Number, na.rm = TRUE)) %>%
-        group_by(State, Year, Month) %>%
-        summarise(Population = mean(Population))
-    )
+    
+    if(pop.source == 'UCLA') {
+        
+        suppressMessages(
+            harmonized.population <- states.w.dem$State.Abb %>%
+                lapply(., pull_harmonize_interpolate) %>%
+                rbindlist() 
+        )
+        suppressMessages(
+            clean.population <- harmonized.population %>%
+                group_by(State, Year, Month, Date) %>%
+                summarise(Population = sum(Number, na.rm = TRUE)) %>%
+                group_by(State, Year, Month) %>%
+                summarise(Population = mean(Population))
+        )
+        
+    }
+    
+    if(pop.source == 'Vera') {
+        clean.population <- interpolate_vera_dem() %>%
+            group_by(State, Year, Month, Date) %>%
+            summarise(Population = sum(Population, na.rm = TRUE)) %>%
+            group_by(State, Year, Month) %>%
+            summarise(Population = mean(Population)) %>%
+            filter(State %in% states.w.dem$State.Name)
+        
+        
+    }
     
     suppressMessages(
         read.deaths <- states.w.dem$State.Abb %>%
@@ -928,9 +944,9 @@ calculate_monthly_rate <- function() {
             rbindlist(fill = TRUE) 
     )
     suppressMessages(
-    clean.deaths <- read.deaths %>%
-        group_by(State, Year, Month) %>%
-        summarise(Deaths = n())
+        clean.deaths <- read.deaths %>%
+            group_by(State, Year, Month) %>%
+            summarise(Deaths = n())
     )
     
     combined <- clean.population %>%
@@ -986,5 +1002,46 @@ calculate_annual_rate <- function() {
     
 }
 
-
+interpolate_vera_dem <- function() {
+    vera.cols <- c('State.Abb', 'State', 'December.2018', 'December.2019',
+                   'March.2020', 'May.2020', 'July.2020', 'October.2020',
+                   'January.2021', 'April.2021')
+    suppressWarnings(
+        vera.pop <- 'Data/External/vera_pjp_s2021_appendix.csv' %>%
+            read_csv() %>%
+            set_colnames(vera.cols) %>%
+            subset(!is.na(December.2018) &
+                       State.Abb != 'State') %>%
+            melt(id.vars = c('State.Abb', 'State')) %>%
+            mutate(variable = as.character(variable),
+                   Date = case_when(
+                       str_detect('December.2018', variable) ~ '2018-12-31',
+                       str_detect('December.2019', variable) ~ '2019-12-31',
+                       str_detect('March.2020', variable) ~ '2020-03-31',
+                       str_detect('May.2020', variable) ~ '2020-05-01',
+                       str_detect('July.2020', variable) ~ '2020-06-01',
+                       str_detect('October.2020', variable) ~ '2020-10-01',
+                       str_detect('January.2021', variable) ~ '2021-01-01',
+                       str_detect('April.2021', variable) ~ '2021-04-01'
+                   ),
+                   Date = as.Date(Date, format = '%Y-%m-%d'),
+                   Population = value
+            ) %>%
+            select(State.Abb, State, Date, Population) %>%
+            arrange(State, Date) %>%
+            complete(State, Date = seq(as.Date('2018-12-31', format = '%Y-%m-%d'), 
+                                       as.Date('2021-04-01', format = '%Y-%m-%d'),
+                                       by = 'day')) %>%
+            group_by(State) %>%
+            mutate(Population = na.approx(Population, na.rm = FALSE),
+                   Population = as.integer(Population),
+                   Month = month.name[month(Date)],
+                   Year = year(Date)) %>%
+            select(-c(State.Abb))
+    )
+    
+    return(vera.pop)
+    
+    
+}
 
