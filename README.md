@@ -150,7 +150,7 @@ Estimate 2020 change in all-cause mortality using uneven data. [Research](https:
 
 ## Ongoing projects
 
-Integrate data from other existing mortality projects on the UCLA team (TX);
+Integrate data from other existing mortality projects with external collaborators (BoP data w/ NPR);
 
 Integrate Reuters [jail decedent data](https://www.reuters.com/investigates/special-report/usa-jails-graphic/);
 
