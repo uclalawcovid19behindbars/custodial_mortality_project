@@ -86,7 +86,7 @@ monthly.rate <- calculate_monthly_rate(pop.source = 'Vera') %>%
     mutate(Date = as.Date(str_c(Year, '-', Month, '-01'), format = '%Y-%B-%d'))
 
 ggplot() +
-    geom_line(data = monthly.rate, aes(x = Date, y = Rate)) +
+    geom_bar(data = monthly.rate, aes(x = Date, y = Rate), stat = 'identity') +
     facet_wrap(~ State) 
 
 # Calculate annual mortality rate from available data
@@ -95,8 +95,8 @@ calculate_annual_rate('UCLA')
 annual.rate <- calculate_annual_rate(pop.source = 'Vera') 
 
 ggplot() +
-    geom_line(data = annual.rate, aes(x = Year, y = Rate)) +
-    facet_wrap(~ State)
+    geom_bar(data = annual.rate, aes(x = Year, y = Rate), stat = 'identity') +
+    facet_wrap(~ State) 
 
 ```
 
