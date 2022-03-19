@@ -314,7 +314,7 @@ read_ucla_deaths <- function(all.agencies, agencies) {
            ('Individual' %in% file.list$Data.Type)) {
            output.list <- lapply(file.list$Files, sum.to.year)
            output.deaths <- rbindlist(output.list, fill = TRUE)
-           print('Aggregated annually')
+           print(str_c('Aggregated annually: ', paste0(agencies, collapse = ', ')))
         })
         # For yearly only
         suppressMessages(
@@ -323,7 +323,7 @@ read_ucla_deaths <- function(all.agencies, agencies) {
            !('Individual' %in% file.list$Data.Type)) {
             output.list <- lapply(file.list$Files, sum.to.year)
             output.deaths <- rbindlist(output.list, fill = TRUE)
-            print('Aggregated annually')
+            print(str_c('Aggregated annually: ', paste0(agencies, collapse = ', ')))
         })
         # For monthly only
         suppressMessages(
@@ -332,7 +332,7 @@ read_ucla_deaths <- function(all.agencies, agencies) {
            !('Individual' %in% file.list$Data.Type)) {
             output.list <- lapply(file.list$Files, sum.to.month)
             output.deaths <- rbindlist(output.list, fill = TRUE)
-            print('Aggregated monthly')
+            print(str_c('Aggregated monthly: ', paste0(agencies, collapse = ', ')))
         })
         # For individual only
         suppressMessages(
@@ -341,7 +341,7 @@ read_ucla_deaths <- function(all.agencies, agencies) {
            ('Individual' %in% file.list$Data.Type)) {
             output.list <- lapply(file.list$Files, read.csv)
             output.deaths <- rbindlist(output.list, fill = TRUE)
-            print('All individual level, no aggregation')
+            print(str_c('All individual level, no aggregation: ', paste0(agencies, collapse = ', ')))
         })
         # For yearly and monthly
         suppressMessages(
@@ -350,7 +350,7 @@ read_ucla_deaths <- function(all.agencies, agencies) {
            !('Individual' %in% file.list$Data.Type)){
             output.list <- lapply(file.list$Files, sum.to.year)
             output.deaths <- rbindlist(output.list, fill = TRUE)
-            print('Aggregated annually')
+            print(str_c('Aggregated annually: : ', paste0(agencies, collapse = ', ')))
         })
         # For monthly and individual
         suppressMessages(
@@ -359,7 +359,7 @@ read_ucla_deaths <- function(all.agencies, agencies) {
            ('Individual' %in% file.list$Data.Type)) {
             output.list <- lapply(file.list$Files, sum.to.month)
             output.deaths <- rbindlist(output.list, fill = TRUE)
-            print('Aggregated monthly')
+            print(str_c('Aggregated monthly: : ', paste0(agencies, collapse = ', ')))
         })
     }
     output.deaths
@@ -417,7 +417,7 @@ read_ucla_dem <- function(all.agencies, agencies) {
     if(all.agencies == FALSE){
         input <- agencies
         dem.out <- dem.pull[dem.pull$State.Abb %in% input,]
-        print('Pulling UCLA demographic data for specific agencies')
+        print(str_c('Pulling UCLA demographic data for specific agencies: ', paste0(agencies, collapse = ', ')))
     }
     
     dem.out
@@ -968,7 +968,9 @@ calculate_annual_rate <- function(pop.source) {
                    !str_detect('WA', State.Abb) &
                    !str_detect('WV', State.Abb) &
                    !str_detect('AR', State.Abb) &
-                   !str_detect('VA', State.Abb)) # Iowa has weird dem data 
+                   !str_detect('VA', State.Abb) &
+                   !str_detect('SC', State.Abb)
+               ) # Iowa has weird dem data 
     
     if(pop.source == 'UCLA') {
         
