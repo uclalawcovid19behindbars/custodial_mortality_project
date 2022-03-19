@@ -951,7 +951,8 @@ calculate_monthly_rate <- function(pop.source) {
     combined <- clean.population %>%
         left_join(., clean.deaths, by = c('State', 'Year', 'Month')) %>%
         mutate(Rate = Deaths/Population*10000,
-               Deaths = ifelse((Year<=2020)&is.na(Deaths), 0, Deaths))  %>%
+               Deaths = ifelse((Year<=2020)&is.na(Deaths), 0, Deaths),
+               Rate = ifelse((Year<=2020)&is.na(Rate), 0, Rate))  %>%
         arrange(desc(Rate))
     
     return(combined)
