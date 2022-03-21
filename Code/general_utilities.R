@@ -910,7 +910,8 @@ calculate_monthly_rate <- function(pop.source) {
                    !str_detect('VA', State.Abb)) # Iowa has weird dem data 
     
     if(pop.source == 'UCLA') {
-        
+        states.w.dem <- states.w.dem %>%
+            subset(!str_detect('SC', State.Abb)) # bad demographics
         suppressMessages(
             harmonized.population <- states.w.dem$State.Abb %>%
                 lapply(., pull_harmonize_interpolate) %>%
@@ -961,18 +962,28 @@ calculate_monthly_rate <- function(pop.source) {
 
 calculate_annual_rate <- function(pop.source) {
     summary <- summarize_ucla_data()
-    states.w.dem <- summary %>%
-        subset(!str_detect('No', Demographics) &
-                   !str_detect('No', Year) &
-                   !str_detect('IA', State.Abb) &
-                   !str_detect('WA', State.Abb) &
-                   !str_detect('WV', State.Abb) &
-                   !str_detect('AR', State.Abb) &
-                   !str_detect('VA', State.Abb) &
-                   !str_detect('SC', State.Abb)
-               ) # Iowa has weird dem data 
+    #states.w.dem <- summary %>%
+    #    subset(!str_detect('No', Demographics) &
+    #               !str_detect('No', Year) &
+    #               !str_detect('IA', State.Abb) &
+    #               !str_detect('WA', State.Abb) &
+    #               !str_detect('WV', State.Abb) &
+    #               !str_detect('AR', State.Abb) &
+    #               !str_detect('VA', State.Abb) &
+    #               !str_detect('SC', State.Abb)
+    #           ) # Iowa has weird dem data 
     
     if(pop.source == 'UCLA') {
+        states.w.dem <- summary %>%
+            subset(!str_detect('No', Demographics) &
+                       !str_detect('No', Year) &
+                       !str_detect('IA', State.Abb) &
+                       !str_detect('WA', State.Abb) &
+                       !str_detect('WV', State.Abb) &
+                       !str_detect('AR', State.Abb) &
+                       !str_detect('VA', State.Abb) &
+                       !str_detect('SC', State.Abb)
+            ) # Iowa has weird dem data 
         
         suppressMessages(
             harmonized.population <- states.w.dem$State.Abb %>%
@@ -990,6 +1001,9 @@ calculate_annual_rate <- function(pop.source) {
     }
     
     if(pop.source == 'Vera') {
+        states.w.dem <- summary  %>%
+            subset(State != 'No')
+        
         clean.population <- interpolate_vera_dem() %>%
             group_by(State, Year, Month, Date) %>%
             summarise(Population = sum(Population, na.rm = TRUE)) %>%
