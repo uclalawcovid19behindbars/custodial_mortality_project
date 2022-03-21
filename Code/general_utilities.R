@@ -906,7 +906,7 @@ calculate_monthly_rate <- function(pop.source) {
                    !str_detect('IA', State.Abb) &
                    !str_detect('WA', State.Abb) &
                    !str_detect('WV', State.Abb) &
-                   !str_detect('AR', State.Abb) &
+                   #!str_detect('AR', State.Abb) &
                    !str_detect('VA', State.Abb)) # Iowa has weird dem data 
     
     if(pop.source == 'UCLA') {
