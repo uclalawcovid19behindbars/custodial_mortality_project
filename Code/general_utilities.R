@@ -954,6 +954,14 @@ calculate_monthly_rate <- function(pop.source) {
         mutate(Rate = Deaths/Population*10000,
                Deaths = ifelse((Year<=2020)&is.na(Deaths), 0, Deaths),
                Rate = ifelse((Year<=2020)&is.na(Rate), 0, Rate))  %>%
+        #arrange(desc(Rate)) %>%
+        #arrange(State, Year) %>%
+        #group_by(State, Year) %>%
+        #mutate(Percent.Rate.Change = Rate-lag(Rate)/Rate,
+        #       Death.Change = Deaths-lag(Deaths),
+        #       Population.Change = Population-lag(Population),
+        #       Percent.Death.Change = Deaths-lag(Deaths)/Deaths
+        #) %>%
         arrange(desc(Rate))
     
     return(combined)
@@ -1029,6 +1037,13 @@ calculate_annual_rate <- function(pop.source) {
         left_join(., clean.deaths, by = c('State', 'Year')) %>%
         mutate(Rate = Deaths/Population*10000,
                Deaths = ifelse((Year<=2020)&is.na(Deaths), 0, Deaths))  %>%
+        #arrange(desc(Rate)) %>%
+        #arrange(State, Year) %>%
+        #group_by(State, Year) %>%
+        #mutate(Percent.Rate.Change = Rate-lag(Rate)/Rate,
+        #       Death.Change = Deaths-lag(Deaths),
+        #       Population.Change = Population-lag(Population),
+        #       Percent.Death.Change = Deaths-lag(Deaths)/Deaths) %>%
         arrange(desc(Rate))
     
     return(combined)
