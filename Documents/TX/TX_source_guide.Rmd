@@ -60,15 +60,15 @@ Link to report page: https://www.tdcj.texas.gov/kss_inside.html
 Some processing of the files takes place. 
 
 ```{r}
-# Load IL demographic data
+# Load TX demographic data
 tx.demographics <- harmonize_ucla_dem(agencies = 'TX')
 
-# Show IL demographic data to assess origin type
+# Show TX demographic data to assess origin type
 head(tx.demographics)
 
 # The origin type is combined. This means that age and sex groups were aggregated and reported together.  
 
-# Plot IL demographic data 
+# Plot TX demographic data 
 ggplot() +
     geom_bar(data = tx.demographics %>% group_by(Date, Age) %>% summarise(Number = sum(Number, na.rm = TRUE)),
              aes(x = Date, y = Number, fill = Age), stat = 'identity') +
