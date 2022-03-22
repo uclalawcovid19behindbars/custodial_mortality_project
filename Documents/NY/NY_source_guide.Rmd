@@ -1,0 +1,80 @@
+---
+title: "NY_source_guide"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Load Environment
+
+```{r}
+# Load relevent packages and functions
+library(tidyverse)
+source('Code/general_utilities.R') # Note you may have to change your Rmarkdown option for evaluate chunks to project instead of document
+options(scipen=10)
+```
+
+## Decedent Data
+
+UCLA obtains custodial decedent data for New York state prisons from public records requests to the New York Department of Corrections and Community Supervision.
+
+Example files included in corresponding documents folder.
+
+Some processing of the files takes place, including the selection of corresponding variables and linking data 
+to UCLA datasets. 
+
+```{r}
+# Load NY decedent data
+ny.deaths <- harmonize_ucla_deaths(agencies = 'NY')
+
+# Show variables present in IL decedent data
+colnames(ny.deaths)
+
+# UCLA.ID is present - join UCLA facility data
+ny.deaths %>%
+    pull_ucla_fac_data()
+
+# Compare UCLA data with BJS data
+compare_ucla_bjs() %>%
+    subset(State == 'New York') %>%
+    arrange(desc(Year))
+
+# Plot IL decedent data (wrangled to monthly numbers)
+ggplot() +
+    geom_line(data = ny.deaths %>% group_by(Year, Month) %>% summarise(Total.Deaths = n()) %>% 
+                  mutate(Date = as.Date(str_c(Year,Month,'01'), format = '%Y%B%d')),
+              aes(x = Date, y = Total.Deaths)
+              )
+
+```
+
+
+## Demographic Data
+
+UCLA obtains custodial demographic data for New York state prisons from monthly population reports from the New York Department of Corrections and Community Supervision.
+
+Example files in corresponding folder and links to reports in raw data file.
+
+Some processing of the files takes place. 
+
+```{r}
+# Load NY demographic data
+ny.demographics <- harmonize_ucla_dem(agencies = 'NY')
+
+# Show NY demographic data to assess origin type
+head(ny.demographics)
+
+# The origin type is combined. This means that age and sex groups were aggregated and reported together.  
+
+# Plot NY demographic data 
+ggplot() +
+    geom_bar(data = ny.demographics %>% group_by(Date, Age) %>% summarise(Number = sum(Number, na.rm = TRUE)),
+             aes(x = Date, y = Number, fill = Age), stat = 'identity') +
+    theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1)) # To see dates on x axis
+
+
+
+```
+
