@@ -1,0 +1,79 @@
+---
+title: "CA_source_guide"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Load Environment
+
+```{r}
+# Load relevent packages and functions
+library(tidyverse)
+source('Code/general_utilities.R') # Note you may have to change your Rmarkdown option for evaluate chunks to project instead of document
+options(scipen=10)
+```
+
+## Decedent Data
+
+UCLA obtains custodial decedent data for California state prisons from the California Department of Justice OpenJustice Data Portal.
+
+Link to data portal: https://openjustice.doj.ca.gov/data
+
+Some processing of the files takes place, including the selection of CDCR observations and corresponding variables. 
+
+```{r}
+# Load CA decedent data
+ca.deaths <- harmonize_ucla_deaths(agencies = 'CA')
+
+# Show variables present in CA decedent data
+colnames(ca.deaths)
+
+# UCLA.ID is present - join UCLA facility data
+ca.deaths %>%
+    pull_ucla_fac_data()
+
+# Compare UCLA data with BJS data
+compare_ucla_bjs() %>%
+    subset(State == 'California') %>%
+    arrange(desc(Year))
+
+# Plot CA decedent data (wrangled to monthly numbers)
+ggplot() +
+    geom_line(data = ca.deaths %>% group_by(Year, Month) %>% summarise(Total.Deaths = n()) %>% 
+                  mutate(Date = as.Date(str_c(Year,Month,'01'), format = '%Y%B%d')),
+              aes(x = Date, y = Total.Deaths)
+              )
+
+```
+
+
+## Demographic Data
+
+UCLA obtains custodial demographic data for California state prisons from bi-annual population reports from the California Department of Corrections and Rehabilitation (CDCR)
+
+Link to report page: https://www.cdcr.ca.gov/research/offender-outcomes-characteristics/offender-data-points/
+
+Some processing of the files takes place. Example files included in corresponding documents folder. 
+
+```{r}
+# Load CA demographic data
+ca.demographics <- harmonize_ucla_dem(agencies = 'CA')
+
+# Show variables present in CA demographic data
+colnames(ca.demographics)
+
+# Plot CA demographic data 
+ggplot() +
+    geom_bar(data = ca.demographics %>% group_by(Date, Age) %>% summarise(Number = sum(Number, na.rm = TRUE)),
+             aes(x = Date, y = Number, fill = Age), stat = 'identity')
+
+
+
+```
+
+
+
+
