@@ -1,0 +1,80 @@
+---
+title: "FL_source_guide"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Load Environment
+
+```{r}
+# Load relevent packages and functions
+library(tidyverse)
+source('Code/general_utilities.R') # Note you may have to change your Rmarkdown option for evaluate chunks to project instead of document
+options(scipen=10)
+```
+
+## Decedent Data
+
+UCLA obtains custodial decedent data for Florida state prisons from public records posted by the Florida Department of Corrections (FLDOC) on its OBIS search database.
+
+Link to FLDOC OBIS database: http://www.dc.state.fl.us/OffenderSearch/InmateInfoMenu.aspx
+
+Some processing of the files takes place, including the selection of corresponding variables and linking data 
+to UCLA datasets. 
+
+```{r}
+# Load FL decedent data
+fl.deaths <- harmonize_ucla_deaths(agencies = 'FL')
+
+# Show variables present in FL decedent data
+colnames(fl.deaths)
+
+# UCLA.ID is present - join UCLA facility data
+fl.deaths %>%
+    pull_ucla_fac_data()
+
+# Compare UCLA data with BJS data
+compare_ucla_bjs() %>%
+    subset(State == 'Florida') %>%
+    arrange(desc(Year))
+
+# Plot FL decedent data (wrangled to monthly numbers)
+ggplot() +
+    geom_line(data = fl.deaths %>% group_by(Year, Month) %>% summarise(Total.Deaths = n()) %>% 
+                  mutate(Date = as.Date(str_c(Year,Month,'01'), format = '%Y%B%d')),
+              aes(x = Date, y = Total.Deaths)
+              )
+
+```
+
+
+## Demographic Data
+
+UCLA obtains custodial demographic data for Florida state prisons from public records posted by the Florida Department of Corrections on its OBIS search database. Because FLDOC provides population data on an individual level, different age and sex profiles can be constructed at will for dates of available data. One reconstruction, produced by our data team, is available here.
+
+Link to FLDOC OBIS database: http://www.dc.state.fl.us/OffenderSearch/InmateInfoMenu.aspx
+
+Some processing of the files takes place. 
+
+```{r}
+# Load FL demographic data
+fl.demographics <- harmonize_ucla_dem(agencies = 'FL')
+
+# Show FL demographic data to assess origin type
+head(fl.demographics)
+
+# The origin type is combined. This means that age and sex groups were aggregated and reported together.  
+
+# Plot FL demographic data 
+ggplot() +
+    geom_bar(data = fl.demographics %>% group_by(Date, Age) %>% summarise(Number = sum(Number, na.rm = TRUE)),
+             aes(x = Date, y = Number, fill = Age), stat = 'identity') +
+    theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1)) # To see dates on x axis
+
+
+
+```
+
