@@ -22,7 +22,8 @@ UCLA obtains custodial decedent data for California state prisons from the Calif
 
 Link to data portal: https://openjustice.doj.ca.gov/data
 
-Some processing of the files takes place, including the selection of CDCR observations and corresponding variables. 
+Some processing of the files takes place, including the selection of CDCR observations and corresponding variables and linking data 
+to UCLA datasets. 
 
 ```{r}
 # Load CA decedent data
@@ -52,7 +53,7 @@ ggplot() +
 
 ## Demographic Data
 
-UCLA obtains custodial demographic data for California state prisons from bi-annual population reports from the California Department of Corrections and Rehabilitation (CDCR)
+UCLA obtains custodial demographic data for California state prisons from bi-annual population reports from the California Department of Corrections and Rehabilitation (CDCR).
 
 Link to report page: https://www.cdcr.ca.gov/research/offender-outcomes-characteristics/offender-data-points/
 
@@ -62,8 +63,10 @@ Some processing of the files takes place. Example files included in correspondin
 # Load CA demographic data
 ca.demographics <- harmonize_ucla_dem(agencies = 'CA')
 
-# Show variables present in CA demographic data
-colnames(ca.demographics)
+# Show CA demographic data to assess origin type
+head(ca.demographics)
+
+# The origin type is distinct. This means that age groups were reported seperately from sex groups for demographic data. In order to construct age and sex groups for a date from this distinct data, we applied reported sex ratios to each age group. This assumption is likely incorrect.
 
 # Plot CA demographic data 
 ggplot() +
