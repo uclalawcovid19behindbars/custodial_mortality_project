@@ -1,0 +1,80 @@
+---
+title: "TX_source_guide"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Load Environment
+
+```{r}
+# Load relevent packages and functions
+library(tidyverse)
+source('Code/general_utilities.R') # Note you may have to change your Rmarkdown option for evaluate chunks to project instead of document
+options(scipen=10)
+```
+
+## Decedent Data
+
+UCLA obtains custodial decedent data for Texas state prisons from the Texas Justice Intitiative. All credit for data production and maintainence goes to TJI and any use of the Texas decedent data contained in this dataset should follow their and our data license agreements.
+
+Link to TJI custodial death dataset: https://texasjusticeinitiative.org/datasets/custodial-deaths
+
+Some processing of the files takes place, including the selection of corresponding variables and linking data 
+to UCLA datasets. 
+
+```{r}
+# Load TX decedent data
+tx.deaths <- harmonize_ucla_deaths(agencies = 'TX')
+
+# Show variables present in TX decedent data
+colnames(tx.deaths)
+
+# UCLA.ID is present - join UCLA facility data
+tx.deaths %>%
+    pull_ucla_fac_data()
+
+# Compare UCLA data with BJS data
+compare_ucla_bjs() %>%
+    subset(State == 'Texas') %>%
+    arrange(desc(Year))
+
+# Plot TX decedent data (wrangled to monthly numbers)
+ggplot() +
+    geom_line(data = tx.deaths %>% group_by(Year, Month) %>% summarise(Total.Deaths = n()) %>% 
+                  mutate(Date = as.Date(str_c(Year,Month,'01'), format = '%Y%B%d')),
+              aes(x = Date, y = Total.Deaths)
+              )
+
+```
+
+
+## Demographic Data
+
+UCLA obtains custodial demographic data for Texas state prisons from population datasets posted by the Texas Department of Criminal Justice (TDCJ). Because TDCJ provides population data on an individual level, different age and sex profiles can be constructed at will for dates of available data. One reconstruction, produced by our data team, is available here.
+
+Link to report page: https://www.tdcj.texas.gov/kss_inside.html
+
+Some processing of the files takes place. 
+
+```{r}
+# Load IL demographic data
+tx.demographics <- harmonize_ucla_dem(agencies = 'TX')
+
+# Show IL demographic data to assess origin type
+head(tx.demographics)
+
+# The origin type is combined. This means that age and sex groups were aggregated and reported together.  
+
+# Plot IL demographic data 
+ggplot() +
+    geom_bar(data = tx.demographics %>% group_by(Date, Age) %>% summarise(Number = sum(Number, na.rm = TRUE)),
+             aes(x = Date, y = Number, fill = Age), stat = 'identity') +
+    theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1)) # To see dates on x axis
+
+
+
+```
+
