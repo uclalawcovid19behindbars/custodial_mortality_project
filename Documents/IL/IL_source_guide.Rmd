@@ -1,0 +1,80 @@
+---
+title: "IL_source_guide"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Load Environment
+
+```{r}
+# Load relevent packages and functions
+library(tidyverse)
+source('Code/general_utilities.R') # Note you may have to change your Rmarkdown option for evaluate chunks to project instead of document
+options(scipen=10)
+```
+
+## Decedent Data
+
+UCLA obtains custodial decedent data for Illinois state prisons from public records requests to the Illinois Department of Corrections.
+
+Example files included in corresponding documents folder.
+
+Some processing of the files takes place, including the selection of corresponding variables and linking data 
+to UCLA datasets. 
+
+```{r}
+# Load IL decedent data
+il.deaths <- harmonize_ucla_deaths(agencies = 'IL')
+
+# Show variables present in IL decedent data
+colnames(il.deaths)
+
+# UCLA.ID is present - join UCLA facility data
+il.deaths %>%
+    pull_ucla_fac_data()
+
+# Compare UCLA data with BJS data
+compare_ucla_bjs() %>%
+    subset(State == 'Illinois') %>%
+    arrange(desc(Year))
+
+# Plot IL decedent data (wrangled to monthly numbers)
+ggplot() +
+    geom_line(data = il.deaths %>% group_by(Year, Month) %>% summarise(Total.Deaths = n()) %>% 
+                  mutate(Date = as.Date(str_c(Year,Month,'01'), format = '%Y%B%d')),
+              aes(x = Date, y = Total.Deaths)
+              )
+
+```
+
+
+## Demographic Data
+
+UCLA obtains custodial demographic data for Illinois state prisons from population datasets posted by the Illinois Department of Corrections (IDOC). Because IDOC provides population data on an individual level, different age and sex profiles can be constructed at will for dates of available data. One reconstruction, produced by our data team, is available here.
+
+Link to report page: https://www2.illinois.gov/idoc/reportsandstatistics/Pages/Prison-Population-Data-Sets.aspx
+
+Some processing of the files takes place. 
+
+```{r}
+# Load IL demographic data
+il.demographics <- harmonize_ucla_dem(agencies = 'IL')
+
+# Show IL demographic data to assess origin type
+head(il.demographics)
+
+# The origin type is combined. This means that age and sex groups were aggregated and reported together.  
+
+# Plot IL demographic data 
+ggplot() +
+    geom_bar(data = il.demographics %>% group_by(Date, Age) %>% summarise(Number = sum(Number, na.rm = TRUE)),
+             aes(x = Date, y = Number, fill = Age), stat = 'identity') +
+    theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1)) # To see dates on x axis
+
+
+
+```
+
