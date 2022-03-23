@@ -263,7 +263,7 @@ read_to_year <- function(file.base) {
 }
 
 
-read_ucla_deaths <- function(all.agencies, agencies) {
+read_ucla_deaths <- function(all.agencies = FALSE, agencies) {
     
     ## Pull all possible files in repo and set up state dataframe
     states <- data.frame(State.Abb = state.abb,
@@ -981,6 +981,7 @@ calculate_annual_rate <- function(pop.source) {
     #               !str_detect('SC', State.Abb)
     #           ) # Iowa has weird dem data 
     
+    # Process Demographic Data
     if(pop.source == 'UCLA') {
         states.w.dem <- summary %>%
             subset(!str_detect('No', Demographics) &
@@ -1021,17 +1022,41 @@ calculate_annual_rate <- function(pop.source) {
         
         
     }
+    # Process Death Data
     
     suppressMessages(
         read.deaths <- states.w.dem$State.Abb %>%
             lapply(., read_ucla_deaths, all.agencies = FALSE) %>%
             rbindlist(fill = TRUE) 
     )
+    
     suppressMessages(
-        clean.deaths <- read.deaths %>%
+        annual.states <- read.deaths %>%
+            subset(!is.na(Month) & State == 'Wyoming') %>% # one NA obs for WY we are removing for now
+            subset(is.na(Month)) %>%
+            select(State) %>%
+            unique()
+    )
+    
+    annual.states <- annual.states$State
+    
+    suppressMessages( 
+        clean.deaths.non.annual <- read.deaths %>%
+            filter(!(State %in% annual.states)) %>%
             group_by(State, Year) %>%
             summarise(Deaths = n())
     )
+        
+    suppressMessages( 
+        clean.deaths.annual <- read.deaths %>%
+            filter(State %in% annual.states) %>%
+            group_by(State, Year) %>%
+            summarise(Deaths = sum(Total.Deaths, na.rm = TRUE))
+    )
+    
+    clean.deaths <- clean.deaths.non.annual %>%
+        plyr::rbind.fill(clean.deaths.annual)
+    
     
     combined <- clean.population %>%
         left_join(., clean.deaths, by = c('State', 'Year')) %>%
