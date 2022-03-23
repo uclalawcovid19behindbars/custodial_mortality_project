@@ -29,7 +29,7 @@ to UCLA datasets.
 # Load NY decedent data
 ny.deaths <- harmonize_ucla_deaths(agencies = 'NY')
 
-# Show variables present in IL decedent data
+# Show variables present in NY decedent data
 colnames(ny.deaths)
 
 # UCLA.ID is present - join UCLA facility data
@@ -41,7 +41,7 @@ compare_ucla_bjs() %>%
     subset(State == 'New York') %>%
     arrange(desc(Year))
 
-# Plot IL decedent data (wrangled to monthly numbers)
+# Plot NY decedent data (wrangled to monthly numbers)
 ggplot() +
     geom_line(data = ny.deaths %>% group_by(Year, Month) %>% summarise(Total.Deaths = n()) %>% 
                   mutate(Date = as.Date(str_c(Year,Month,'01'), format = '%Y%B%d')),
