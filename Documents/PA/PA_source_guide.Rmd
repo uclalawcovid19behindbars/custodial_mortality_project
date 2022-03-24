@@ -1,0 +1,79 @@
+---
+title: "PA_source_guide"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Load Environment
+
+```{r}
+# Load relevent packages and functions
+library(tidyverse)
+source('Code/general_utilities.R') # Note you may have to change your Rmarkdown option for evaluate chunks to project instead of document
+options(scipen=10)
+```
+
+## Decedent Data
+
+UCLA obtains custodial decedent data for Pennsylvania state prisons from public records requests to the Pennsylvania Department of Corrections.
+
+Example files included in corresponding documents folder.
+
+Some processing of the files takes place, including the selection of corresponding variables and linking data 
+to UCLA datasets. 
+
+```{r}
+# Load PA decedent data
+pa.deaths <- harmonize_ucla_deaths(agencies = 'PA')
+
+# Show variables present in PA decedent data
+colnames(pa.deaths)
+
+# UCLA.ID is present - join UCLA facility data
+pa.deaths %>%
+    pull_ucla_fac_data()
+
+# Compare UCLA data with BJS data
+compare_ucla_bjs() %>%
+    subset(State == 'Pennsylvania') %>%
+    arrange(desc(Year))
+
+# Plot GA decedent data (wrangled to monthly numbers)
+ggplot() +
+    geom_line(data = pa.deaths %>% group_by(Year, Month) %>% summarise(Total.Deaths = n()) %>% 
+                  mutate(Date = as.Date(str_c(Year,Month,'01'), format = '%Y%B%d')),
+              aes(x = Date, y = Total.Deaths)
+              )
+
+```
+
+
+## Demographic Data
+
+UCLA obtains custodial demographic data for Pennsylvania state prisons from monthly population reports from the Pennsylvania Department of Corrections.
+
+Example files in corresponding folder and links to reports in raw data file.
+
+Some processing of the files takes place. 
+
+```{r}
+# Load PA demographic data
+pa.demographics <- harmonize_ucla_dem(agencies = 'PA')
+
+# Show PA demographic data to assess origin type
+head(pa.demographics)
+
+# The origin type is distinct. This means that age groups were reported seperately from sex groups for demographic data. In order to construct age and sex groups for a date from this distinct data, we applied reported sex ratios to each age group. This assumption is likely incorrect.  
+
+# Plot PA demographic data 
+ggplot() +
+    geom_bar(data = pa.demographics %>% group_by(Date, Age) %>% summarise(Number = sum(Number, na.rm = TRUE)),
+             aes(x = Date, y = Number, fill = Age), stat = 'identity') +
+    theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1)) # To see dates on x axis
+
+
+
+```
