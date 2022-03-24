@@ -140,9 +140,21 @@ ggplot() +
 
 ## Dataset Coverage
 
-### States with reported custodial decedent information in dataset
+### State prison agencies with reported custodial decedent information in dataset
 
 ![state present](https://github.com/uclalawcovid19behindbars/carceral_mortality/blob/main/Graphics/state_present.png)
+
+### State prison agencies with 2020 custodial decedent information in dataset
+
+![state 2020](https://github.com/uclalawcovid19behindbars/carceral_mortality/blob/main/Graphics/state_2020.png)
+
+### State prison agencies by interval of reported custodial decedent information
+
+![state interval](https://github.com/uclalawcovid19behindbars/carceral_mortality/blob/main/Graphics/state_death_interval.png)
+
+### State prison agencies with facility information reported in custodial decedent data
+
+![state facility](https://github.com/uclalawcovid19behindbars/carceral_mortality/blob/main/Graphics/state_facility.png)
 
 ## Credits and Data Sources
 
