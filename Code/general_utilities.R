@@ -701,6 +701,47 @@ summarize_ucla_state <- function(state) {
         
         sapply(variables.to.check, check_variable, columns = state.variables)
         
+        if(Death.Date == 'Yes'){
+            
+            if(is.character(state.deaths$Death.Date)){
+                state.deaths <- state.deaths %>%
+                    mutate(Death.Date = as.Date(Death.Date, format = '%Y-%m-%d'))
+                
+            }
+            Deaths.Start <- state.deaths$Death.Date %>%
+                min(na.rm = TRUE) %>%
+                as.character()
+            Deaths.End <- state.deaths$Death.Date %>%
+                max(na.rm = TRUE) %>%
+                as.character()
+            Deaths.Interval <- 'Individual'
+        } else {
+            if(Month == 'Yes') {
+                Deaths.Start <- state.deaths %>%
+                    mutate(Death.Date = as.Date(str_c(Year, '-',Month, '-01'), format = '%Y-%B-%d')) %>%
+                    as.data.frame()
+                Deaths.Start <- Deaths.Start$Death.Date %>%
+                    min() %>%
+                    as.character()
+                Deaths.End <- state.deaths %>%
+                    mutate(Death.Date = as.Date(str_c(Year, '-',Month, '-28'), format = '%Y-%B-%d'))
+                Deaths.End <- Deaths.End$Death.Date %>%
+                    max() %>%
+                    as.character()
+                Deaths.Interval <- 'Monthly'
+            } else {
+                Deaths.Start <- state.deaths$Year %>%
+                    min() %>%
+                    as.character() %>%
+                    str_c(., '-01-01')
+                Deaths.End <- state.deaths$Year %>%
+                    max() %>%
+                    as.character() %>%
+                    str_c(., '-12-31')
+                Deaths.Interval <- 'Annual'
+            }
+        }
+        
     } else { # end if for any file present
         State <- 'No'
         Year <- 'No'
@@ -722,13 +763,16 @@ summarize_ucla_state <- function(state) {
         Circumstance.Other <- 'No'
         Location <- 'No'
         Total.Deaths <- 'No'
+        Deaths.Start <- 'No Data'
+        Deaths.End <- 'No Data'
+        Deaths.Interval <- 'No Data'
     }
     State.Abb <- state
     death.summary <- data.frame(State.Abb, State, Year, Month, Death.Date,
                                 Facility, Full.Name, Last.Name, First.Name,
                                 ID.No, Sex, Race, Ethnicity, DoB, DoB.Year,
                                 Death.Age, Circumstance.General, Circumstance.Specific, Circumstance.Other,
-                                Location, Total.Deaths)
+                                Location, Total.Deaths, Deaths.Start, Deaths.End, Deaths.Interval)
     
     if(dem.file.test == 0) {
         ## Summarize Decedent Info in Absent
