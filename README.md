@@ -14,7 +14,7 @@ In 2019, the Attorney General shifted responsibility for data collection and pro
 
 ## About the data
 
-If BJA does not produce public statistical reports on annual changes in U.S. correctional mortality like prior [publications](https://bjs.ojp.gov/data-collection/mortality-correctional-institutions-mci-formerly-deaths-custody-reporting-program) (or does not collect and transfer sufficient data to BJS to do so), the federal government will not produce a report on the 2020 change in standardized all-cause mortality in correctional facilities in the near future. Understanding the change in all-cause mortality in state prisons from 2019 to 2020 is essential to understanding the impact of COVID-19 in U.S. carceral facilities. Here, we centralize and analyze data collected by our project on deaths in state prisons (typically from 2018-2020) and demographics of state prison populations (typically from 2019-2020) to estimate these changes in mortality. Raw data in this repository is broken into `Deaths` and `Demographics`. 
+If BJA does not produce public statistical reports on annual changes in U.S. correctional mortality like prior [publications](https://bjs.ojp.gov/data-collection/mortality-correctional-institutions-mci-formerly-deaths-custody-reporting-program) (or does not collect and transfer sufficient data to BJS to do so), the federal government will not produce a report on the 2020 change in standardized all-cause mortality in correctional facilities in the near future. Understanding the change in all-cause mortality in state prisons from 2019 to 2020 is essential to understanding the impact of COVID-19 in U.S. carceral facilities. Here, we centralize and analyze data on deaths in state prisons (typically from 2018-2020) and demographics of state prison populations (typically from 2019-2020) to estimate these changes in mortality. Raw data in this repository is broken into `Deaths` and `Demographics`. 
 
 ### Data Summary
 
@@ -143,6 +143,20 @@ ggplot() +
 ### States with reported custodial decedent information in dataset
 
 ![state present](https://github.com/uclalawcovid19behindbars/carceral_mortality/blob/main/Graphics/state_present.png)
+
+## Credits and Data Sources
+
+Our project has linked several datasets compiled by other organizations in this repository. Before using any data from our dataset, please read the `source_guide` for that data source in the `Documents` to understand it's context and attributions.
+
+Current linked datasets:
+
+Vera Institute of Justice |
+People in Jail and Prison in Spring 2021 |
+Link to [source](https://www.vera.org/publications/people-in-jail-and-prison-in-spring-2021).
+
+Texas Justice Intitiative | 
+Deaths in Custody | 
+Link to [source](https://texasjusticeinitiative.org/datasets/custodial-deaths).
 
 ## Notes on data inconsistencies and issues
 
