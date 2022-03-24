@@ -138,6 +138,12 @@ ggplot() +
 | `Percent`              | Percent of group in overall population (this is used for some states to calculate `Number`)                        |
 | `Source`               | Source of demographic information                                                                                  
 
+## Dataset Coverage
+
+### States with reported custodial decedent information in dataset
+
+![state present](https://github.com/uclalawcovid19behindbars/carceral_mortality/blob/main/Graphics/state_present.png)
+
 ## Notes on data inconsistencies and issues
 
 This dataset is still evolving as we obtain and assess custodial decedent data from carceral/law enforcement agencies. Agencies do not produce custodial death and demographic data in the same format or on the same level. While we are working to obtain the most detailed and publicly-necessary decedent and demographic data through public records requests, this repository contains our most recent available processed raw data. As such, there are known issues we are working to document and harmonize as we analyze the data. Examples of incosistencies include: (1) New Jersey reporting semi-redacted deaths for the New Jersey Department of Correction's 'Special Treatment Unit' only for 2020 and each accompanied by a note reading 'Do Not Report to Federal Government'; (2) Differences in the total number of/specific deaths reported by the North Carolina Department of Corrections in public records responses compared with their online prison database; and (3) missing variables and observations for certain variables across datasets, among other issues.
