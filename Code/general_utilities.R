@@ -876,10 +876,10 @@ pull_ucla_age_rate <- function(state) {
     suppressMessages(
     dem.load <- dem %>%
         interpolate_ucla_dem() %>%
-        group_by(Year, Month, Standard.Groups) %>%
+        group_by(Year, Month, Date, Standard.Groups) %>%
+        summarise(Number = sum(Number, na.rm = TRUE)) %>%
+        group_by(Year, Month, Date, Standard.Groups) %>%
         filter(row_number()==1) %>%
-        group_by(Date, Standard.Groups) %>%
-        summarise(Number = sum(Number)) %>%
         rename(Population = Number)
     )
     
@@ -895,8 +895,8 @@ pull_ucla_age_rate <- function(state) {
     
     join <- dem.load %>%
         left_join(death.load, by = c('Date', 'Standard.Groups')) %>%
-        mutate(Deaths = ifelse(is.na(Deaths), 0, Deaths)) #%>%
-    #subset(select = -c(State, Year, Month))
+        mutate(Deaths = ifelse(is.na(Deaths), 0, Deaths)) %>%
+        subset(select = -c(Year, Month))
     suppressMessages(
     out <- join %>%
         group_by(Date, Standard.Groups) %>%
