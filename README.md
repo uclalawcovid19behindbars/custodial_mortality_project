@@ -69,7 +69,8 @@ age.rate <- 'CA' %>%
     subset(!is.nan(Rate) & 
                !is.na(Rate) &
                !is.na(Standard.Groups)) %>%
-    filter(Date > as.Date('2014-12-31', format = '%Y-%m-%d'))
+    filter(Date > as.Date('2014-12-31', format = '%Y-%m-%d') &
+               Date < as.Date('2021-01-01', format = '%Y-%m-%d'))
 
 ggplot() +
     geom_smooth(data = age.rate, aes(x = Date, y = Rate, color = Standard.Groups))
@@ -147,19 +148,19 @@ ggplot() +
 
 ## Dataset Coverage
 
-### State prison agencies with reported custodial decedent information in dataset
+Figure 1 | State prison agencies with reported custodial decedent information in dataset
 
 ![state present](https://github.com/uclalawcovid19behindbars/carceral_mortality/blob/main/Graphics/state_present.png)
 
-### State prison agencies with 2020 custodial decedent information in dataset
+Figure 2 | State prison agencies with 2020 custodial decedent information in dataset
 
 ![state 2020](https://github.com/uclalawcovid19behindbars/carceral_mortality/blob/main/Graphics/state_2020.png)
 
-### State prison agencies by interval of reported custodial decedent information
+Figure 3 | State prison agencies by interval of reported custodial decedent information
 
 ![state interval](https://github.com/uclalawcovid19behindbars/carceral_mortality/blob/main/Graphics/state_death_interval.png)
 
-### State prison agencies with facility information reported in custodial decedent data
+Figure 4 | State prison agencies with facility information reported in custodial decedent data
 
 ![state facility](https://github.com/uclalawcovid19behindbars/carceral_mortality/blob/main/Graphics/state_facility.png)
 
