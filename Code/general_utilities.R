@@ -878,7 +878,8 @@ pull_ucla_age_rate <- function(state) {
         interpolate_ucla_dem() %>%
         group_by(Year, Month, Date, Standard.Groups) %>%
         summarise(Number = sum(Number, na.rm = TRUE)) %>%
-        group_by(Year, Month, Date, Standard.Groups) %>%
+        arrange(Year, Month, Date, Standard.Groups) %>%
+        group_by(Year, Month, Standard.Groups) %>%
         filter(row_number()==1) %>%
         rename(Population = Number)
     )
