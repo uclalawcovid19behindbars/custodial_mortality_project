@@ -63,9 +63,16 @@ ucla.data.h <- harmonize_ucla_deaths(agencies = c('GA', 'IL', 'MA', 'MI', 'MT', 
     harmonize_ucla_dem() %>%
     interpolate_ucla_dem()
     
-# Calculate age group mortality rate
-'CA' %>%
-    pull_ucla_age_rate()
+# Calculate and plot age group mortality rate
+age.rate <- 'CA' %>%
+    pull_ucla_age_rate() %>%
+    subset(!is.nan(Rate) & 
+               !is.na(Rate) &
+               !is.na(Standard.Groups)) %>%
+    filter(Date > as.Date('2014-12-31', format = '%Y-%m-%d'))
+
+ggplot() +
+    geom_smooth(data = age.rate, aes(x = Date, y = Rate, color = Standard.Groups))
  
 # Pull all UCLA facility data for decedent data
 'NJ' %>%
