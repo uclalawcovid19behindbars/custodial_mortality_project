@@ -71,7 +71,8 @@ head(ca.demographics)
 # Plot CA demographic data 
 ggplot() +
     geom_bar(data = ca.demographics %>% group_by(Date, Age) %>% summarise(Number = sum(Number, na.rm = TRUE)),
-             aes(x = Date, y = Number, fill = Age), stat = 'identity')
+             aes(x = Date, y = Number, fill = Age), stat = 'identity')+
+    theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1)) # To see dates on x axis
 
 
 
