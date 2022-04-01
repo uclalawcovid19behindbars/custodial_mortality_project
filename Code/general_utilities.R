@@ -1164,3 +1164,91 @@ interpolate_vera_dem <- function() {
     
 }
 
+calculate_annual_facility_rate <- function() {
+    summary <- summarize_ucla_data()
+    
+    states.w.dem <- summary %>% subset(UCLA.ID == 'Yes')
+    
+    # Process Death Data
+    
+    suppressMessages(
+        read.deaths <- states.w.dem$State.Abb %>%
+            lapply(., read_ucla_deaths, all.agencies = FALSE) %>%
+            rbindlist(fill = TRUE) 
+    )
+    
+    suppressMessages( 
+        clean.deaths.non.annual <- read.deaths %>%
+            #filter(!(State %in% annual.states)) %>%
+            group_by(State, UCLA.ID, Year) %>%
+            summarise(Deaths = n())
+    )
+    
+    
+    clean.deaths <- clean.deaths.non.annual 
+    
+    suppressWarnings(
+        ucla.facility.data <- 'https://raw.githubusercontent.com/uclalawcovid19behindbars/facility_data/master/data/fac_data.csv' %>%
+            read_csv() %>%
+            select(-c(State))
+    )
+    
+    out.deaths <- clean.deaths %>%
+        left_join(., ucla.facility.data, by = c('UCLA.ID' = 'Facility.ID')) %>% 
+        mutate(Capacity.Rate = Population.Feb20/Capacity,
+               Name = ifelse(is.na(Name), 'ALL NON MATCHING FACILITIES TO UCLA', Name),
+               Mortality.Rate.Pop = Deaths/Population.Feb20*10000,
+               Mortality.Rate.Cap = Deaths/Capacity*10000,
+               UCLA.ID = as.character(UCLA.ID)) %>%
+        select(State, Year, UCLA.ID, Name, Deaths, Population.Feb20, Capacity, Capacity.Rate, Mortality.Rate.Pop, Mortality.Rate.Cap, Description, Security, Latitude, Longitude) %>%
+        arrange(desc(Mortality.Rate.Pop))
+    
+    
+    return(out.deaths)
+    
+}
+
+calculate_monthly_facility_rate <- function() {
+    summary <- summarize_ucla_data()
+    
+    states.w.dem <- summary %>% subset(UCLA.ID == 'Yes')
+    
+    # Process Death Data
+    
+    suppressMessages(
+        read.deaths <- states.w.dem$State.Abb %>%
+            lapply(., read_ucla_deaths, all.agencies = FALSE) %>%
+            rbindlist(fill = TRUE) 
+    )
+    
+    suppressMessages( 
+        clean.deaths.non.annual <- read.deaths %>%
+            #filter(!(State %in% annual.states)) %>%
+            group_by(State, UCLA.ID, Year, Month) %>%
+            summarise(Deaths = n())
+    )
+    
+    
+    clean.deaths <- clean.deaths.non.annual 
+    
+    suppressWarnings(
+        ucla.facility.data <- 'https://raw.githubusercontent.com/uclalawcovid19behindbars/facility_data/master/data/fac_data.csv' %>%
+            read_csv() %>%
+            select(-c(State))
+    )
+    
+    out.deaths <- clean.deaths %>%
+        left_join(., ucla.facility.data, by = c('UCLA.ID' = 'Facility.ID')) %>% 
+        mutate(Capacity.Rate = Population.Feb20/Capacity,
+               Name = ifelse(is.na(Name), 'ALL NON MATCHING FACILITIES TO UCLA', Name),
+               Mortality.Rate.Pop = Deaths/Population.Feb20*10000,
+               Mortality.Rate.Cap = Deaths/Capacity*10000,
+               UCLA.ID = as.character(UCLA.ID)) %>%
+        select(State, Year, Month, UCLA.ID, Name, Deaths, Population.Feb20, Capacity, Capacity.Rate, Mortality.Rate.Pop, Mortality.Rate.Cap, Description, Security, Latitude, Longitude) %>%
+        arrange(desc(Mortality.Rate.Pop))
+    
+    
+    return(out.deaths)
+    
+}
+
