@@ -164,6 +164,10 @@ Figure 4 | State prison agencies with facility information reported in custodial
 
 ![state facility](https://github.com/uclalawcovid19behindbars/carceral_mortality/blob/main/Graphics/state_facility.png)
 
+Figure 5 | State prison agencies with decedent data crosswalked to UCLA COVID data
+
+![state ucla](https://github.com/uclalawcovid19behindbars/carceral_mortality/blob/main/Graphics/state_ucla.png)
+
 ## Credits and Data Sources
 
 Our project has linked several datasets compiled by other organizations in this repository. Before using any data from our dataset, please read the `source_guide` for that data source in the `Documents` to understand it's context and attributions.
