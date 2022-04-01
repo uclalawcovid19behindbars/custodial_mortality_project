@@ -697,7 +697,7 @@ summarize_ucla_state <- function(state) {
                                 'Facility', 'Full.Name', 'Last.Name', 'First.Name',
                                 'ID.No', 'Sex', 'Race', 'Ethnicity', 'DoB', 'DoB.Year',
                                 'Death.Age', 'Circumstance.General', 'Circumstance.Specific', 'Circumstance.Other',
-                                'Location', 'Total.Deaths')
+                                'Location', 'Total.Deaths', 'UCLA.ID')
         
         sapply(variables.to.check, check_variable, columns = state.variables)
         
@@ -763,6 +763,7 @@ summarize_ucla_state <- function(state) {
         Circumstance.Other <- 'No'
         Location <- 'No'
         Total.Deaths <- 'No'
+        UCLA.ID <- 'No'
         Deaths.Start <- 'No Data'
         Deaths.End <- 'No Data'
         Deaths.Interval <- 'No Data'
@@ -772,7 +773,7 @@ summarize_ucla_state <- function(state) {
                                 Facility, Full.Name, Last.Name, First.Name,
                                 ID.No, Sex, Race, Ethnicity, DoB, DoB.Year,
                                 Death.Age, Circumstance.General, Circumstance.Specific, Circumstance.Other,
-                                Location, Total.Deaths, Deaths.Start, Deaths.End, Deaths.Interval)
+                                Location, Total.Deaths, UCLA.ID, Deaths.Start, Deaths.End, Deaths.Interval)
     
     if(dem.file.test == 0) {
         ## Summarize Decedent Info in Absent
