@@ -105,6 +105,12 @@ annual.rate <- calculate_annual_rate(pop.source = 'Vera')
 ggplot() +
     geom_bar(data = annual.rate, aes(x = Year, y = Rate), stat = 'identity') +
     facet_wrap(~ State) 
+    
+# Calculate monthly mortality rate for crosswalked facilities
+facilities.monthly <- calculate_monthly_facility_rate()
+
+# Calculate annual mortality rate for crosswalked facilities
+facilities.annual <- calculate_annual_facility_rate()
 
 ```
 
