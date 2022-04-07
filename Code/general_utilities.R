@@ -16,47 +16,19 @@ library(zoo)
 ## Read in BJS Historical Decedent Data ------------
 
 read_mci_19 <- function() {
-    ## Load Last MCI
-    suppressMessages(suppressWarnings(mci.19 <- 'Data/External/msfp0119stt14.csv' %>%
-                                          read_csv() %>%
-                                          subset(!is.na(X3)) %>%
-                                          mutate(Jurisdiction = coalesce(`Bureau of Justice Statistics`, X2)) %>%
-                                          select(-c(`Bureau of Justice Statistics`, X2))
-    ))
-    ## Clean Last MCI
-    mci.cols <- mci.19[1,]
-    suppressMessages(suppressWarnings(mci.19 <- mci.19 %>%
-                                          set_colnames(mci.cols) %>%
-                                          melt() %>%
-                                          mutate(Jurisdiction = str_replace_all(Jurisdiction, '\\/.*', '')) %>%
-                                          subset(!str_detect(Jurisdiction, 'Jurisdiction') & !str_detect(Jurisdiction, 'State')) %>%
-                                          set_colnames(c('State', 'Year', 'Total.Deaths'))
-    ))
     
-    mci.19 <- mci.19 %>%
-        as.data.frame()
-    mci.19$Year <- as.numeric(as.character(mci.19$Year))
+    suppressMessages(
+        mci.19 <- 'Data/External/msfp0119stt14_cleaned.csv' %>%
+        read_csv()
+    )
     mci.19
 }
 
 read_nps_20 <- function() {
-    nps.cols <- c('Label', 'State', 'Pop.2019', 'Pop.2020', 'Change.2020', 'Pct.Change.2020',
-                  'Drop', 'Unc.Releases.2019', 'Unc.Releases.2020', 'Con.Releases.2019', 'Con.Releases.2020',
-                  'Deaths.2019', 'Deaths.2020')
-    nps.clean <- c('Pop.2019', 'Pop.2020', 'Unc.Releases.2019', 'Unc.Releases.2020', 'Con.Releases.2019', 'Con.Releases.2020')
-    
-    suppressMessages(suppressWarnings(
-        nps.20 <- 'Data/External/p20stt09.csv' %>%
-        read_csv() %>%
-        set_colnames(nps.cols) %>%
-        subset(!is.na(State)) %>%
-        select(-c(Drop, Label, Change.2020, Pct.Change.2020)) %>%
-        mutate(Deaths.2019 = as.numeric(Deaths.2019),
-               Deaths.2020 = as.numeric(Deaths.2020),
-               State = str_replace_all(State, '\\/.*', '')) %>%
-        mutate_at(nps.clean, ~as.numeric(str_replace_all(., ',', ''))) %>%
-        subset(!is.na(Deaths.2019))
-    ))
+    suppressMessages(
+    nps.20 <- 'Data/External/p20stt09_cleaned.csv' %>%
+        read_csv()
+    )
     
     nps.20
     
