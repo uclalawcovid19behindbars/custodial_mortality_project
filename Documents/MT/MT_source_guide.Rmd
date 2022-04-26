@@ -1,0 +1,70 @@
+---
+title: "MT_source_guide"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Decedent Data
+
+UCLA obtains custodial decedent data for Montana state prisons from public records requests to the Montana Department of Corrections.
+
+Example files included in corresponding documents folder.
+
+Some processing of the files takes place, including the selection of corresponding variables and linking data to UCLA datasets. 
+
+```{r}
+# Load MT decedent data
+mt.deaths <- harmonize_ucla_deaths(agencies = 'MT')
+
+# Show variables present in MT decedent data
+colnames(mt.deaths)
+
+# UCLA.ID is present - join UCLA facility data
+mt.facility <- mt.deaths %>%
+                pull_ucla_fac_data()
+head(mt.facility)
+
+# Compare UCLA data with BJS data
+compare_ucla_bjs() %>%
+    subset(State == 'Montana') %>%
+    arrange(desc(Year))
+
+# Plot MT decedent data (wrangled to monthly numbers)
+ggplot() +
+    geom_line(data = mt.deaths %>% group_by(Year, Month) %>% summarise(Total.Deaths = n()) %>% 
+                  mutate(Date = as.Date(str_c(Year,Month,'01'), format = '%Y%B%d')),
+              aes(x = Date, y = Total.Deaths)
+              )
+
+```
+
+
+## Demographic Data
+
+UCLA obtains custodial demographic data for Montana state prisons from annual population reports from the Montana Department of Corrections.
+
+Example files in corresponding folder and links to reports in raw data file.
+
+Some processing of the files takes place. 
+
+```{r}
+# Load MT demographic data
+mt.demographics <- harmonize_ucla_dem(agencies = 'MT')
+
+# Show MT demographic data to assess origin type
+head(mt.demographics)
+
+# The origin type is distinct. This means that age groups were reported seperately from sex groups for demographic data. In order to construct age and sex groups for a date from this distinct data, we applied reported sex ratios to each age group. This assumption is likely incorrect.   
+
+# Plot MT demographic data 
+ggplot() +
+    geom_bar(data = mt.demographics %>% group_by(Date, Age) %>% summarise(Number = sum(Number, na.rm = TRUE)),
+             aes(x = Date, y = Number, fill = Age), stat = 'identity') +
+    theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1)) # To see dates on x axis
+
+
+
+```

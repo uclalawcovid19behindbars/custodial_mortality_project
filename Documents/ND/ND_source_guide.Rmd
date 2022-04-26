@@ -1,0 +1,44 @@
+---
+title: "ND_source_guide"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Decedent Data
+
+UCLA obtains custodial decedent data for North Dakota state prisons from public records requests to the North Dakota Department of Corrections.
+
+Example files included in corresponding documents folder.
+
+Some processing of the files takes place, including the selection of corresponding variables and linking data to UCLA datasets. 
+
+```{r}
+# Load ND decedent data
+nd.deaths <- read_ucla_deaths(agencies = 'ND')
+
+# Show variables present in ND decedent data
+colnames(nd.deaths)
+
+# No UCLA.ID is present 
+
+# Compare UCLA data with BJS data
+compare_ucla_bjs() %>%
+    subset(State == 'North Dakota') %>%
+    arrange(desc(Year))
+
+# Plot ND decedent data (wrangled to monthly numbers)
+ggplot() +
+    geom_line(data = nd.deaths %>% group_by(Year, Month) %>% summarise(Total.Deaths = n()) %>% 
+                  mutate(Date = as.Date(str_c(Year,Month,'01'), format = '%Y%B%d')),
+              aes(x = Date, y = Total.Deaths)
+              )
+
+```
+
+
+## Demographic Data
+
+UCLA currently does not have demographic data processed for North Dakota state prisons. Please wait for the next update to this data. 
