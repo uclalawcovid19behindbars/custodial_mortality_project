@@ -1,91 +1,114 @@
-"State","Year","Month","Death.Date","Facility","ID.No","Last.Name","First.Name","DoB","Death.Age","Sex","Circumstance.General","Circumstance.Specific","Location","UCLA.ID"
-"Montana",2015,"January","2015-01-14","Lewistown Infirmary",3004141,"Whitwell","Harb","1941-10-08",73.3183885083714,"M","Natural Causes","Atherosclerotic heart disease","Lewistown Infirmary",NA
-"Montana",2015,"February","2015-02-11","Deer Lodge Medical Center",3005579,"Weaver","William","1959-07-12",55.6272298325723,"M","Natural Causes","Severe Septis - Pneumonia","Deer Lodge Medical Center",NA
-"Montana",2015,"March","2015-03-01","Crossroads Correctional Center",37397,"Miller","Tyler","1976-07-18",38.6461834094368,"M","Suicide","Suicide suffocation","Crossroads Correctional Center",778
-"Montana",2015,"April","2015-04-20","INSTITUTIONAL ESCAPE",14286,"Boe","Vernon","1929-06-06",85.9296803652968,"M","Natural Causes","14286 Boe was in an escape status and in another state when he passed.  We were informed of the date and natural causes but nothing else.","unknown",NA
-"Montana",2015,"August","2015-08-08","Montana State Prison",2104349,"Rogers","Rusty","1975-06-21",40.1599315068493,"M","Natural Causes","Cancer","Montana State Prison",789
-"Montana",2015,"August","2015-08-27","Montana Women's Prison",41262,"Enright","Donna","1934-06-03",81.290095129376,"F","Natural Causes","Atherosclerotic heart disease","St Vincent Healthcare",790
-"Montana",2015,"September","2015-09-18","Great Falls Regional Prison",19740,"Vieira","Frank","1959-12-19",55.7875856164384,"M","Suicide",NA,"Benefis Healthcare System",783
-"Montana",2015,"October","2015-10-09","Montana State Prison",2135506,"Snorsky","Victor","1988-06-25",27.3086054033486,"M","Suicide","Suicide hanging","Montana State Prison",789
-"Montana",2015,"October","2015-10-20","Montana State Prison",11825,"Hammer","Dennis","1946-03-08",69.6680707762557,"M","Natural Causes","End stage liver disease","St Patrick Hospital",789
-"Montana",2015,"November","2015-11-10","Montana State Prison",36740,"Gutierrez","Vincente","1953-05-04",62.563346651446,"M","Natural Causes","Hodgkin lymphoma","Deer Lodge Medical Center",789
-"Montana",2015,"November","2015-11-24","Montana State Prison",2144245,"White","Ronald","1979-06-06",36.4947203196347,"M","Natural Causes","HIV disease resulting in multiple infections","St Patrick Hospital",789
-"Montana",2015,"November","2015-11-25","Montana State Prison",3010444,"Roeder","Donald","1944-10-01",71.1981202435312,"M","Natural Causes","Malignant neoplasm of pancreas","Montana State Prison",789
-"Montana",2015,"November","2015-11-27","Montana State Prison",14134,"Sunday","Andrew","1940-10-28",75.1325532724505,"M","Natural Causes","acute coronary occlusion and end stage lung cancer","Montana State Prison",789
-"Montana",2015,"December","2015-12-02","Lewistown Infirmary",17334,"Moore","Robert","1935-05-10",80.6208866057839,"M","Natural Causes","Congestive heart failure","Lewistown Infirmary",NA
-"Montana",2015,"December","2015-12-13","Lewistown Infirmary",3011108,"McAlpine","Michael","1964-07-11",51.4599067732116,"M","Natural Causes","Motor neuron disease","Lewistown Infirmary",NA
-"Montana",2015,"December","2015-12-29","Washington Interstate Compact Office",21997,"Vandyken","Fred","1958-05-04",57.6953671993912,"M","Investigation Pending","Died in Washington, exact cause of death not received.","unknown",NA
-"Montana",2016,"January","2016-01-31","Montana State Prison",29255,"Gambrel","John","1956-08-08",59.5228881278539,"M","Natural Causes","acute myeloid leukemia and acute renal failure","Montana State Prison",789
-"Montana",2016,"February","2016-02-02","Montana State Prison",28469,"Tregeagle","Zyzmick","1971-02-11",45.0081868340944,"M","Natural Causes","states sepsis, respiratory failure, lactic acidosis, status post surgery for bowel obstruction","St Patrick Hospital",789
-"Montana",2016,"February","2016-02-14","Lewistown Infirmary",11747,"Coleman","Dewey","1948-10-26",67.349648021309,"M","Natural Causes","1)Right-sided heart failure, failure to thrive, abnormal weight loss, renal failure 2) history of pu","Lewistown Infirmary",NA
-"Montana",2016,"March","2016-03-05","Montana State Prison",11691,"Johnston","Ray","1951-08-25",64.5745148401826,"M","Natural Causes","Metastic Pancreatic Carcinoma","Montana State Prison",789
-"Montana",2016,"March","2016-03-06","Montana State Prison",2089123,"Freeman","Andrew","1963-04-11",52.941847412481,"M","Natural Causes","AIDS","St Patrick Hospital",789
-"Montana",2016,"March","2016-03-31","Montana State Prison",2062359,"Schuhrke","Richard","1940-03-14",76.1012652207002,"M","Natural Causes","shock as consequence of sepsis-days, methicillin resistant staphaureus bacteremia.","St Patrick Hospital",789
-"Montana",2016,"April","2016-04-13","Lewistown Infirmary",47036,"Horan","James","1947-05-04",68.9935292998478,"M","Natural Causes","Chronic End Stage Liver Disease","Lewistown Infirmary",NA
-"Montana",2016,"April","2016-04-29","Lewistown Infirmary",37867,"Patton","William","1959-06-13",56.9183789954338,"M","Natural Causes","Chronic End Stage Liver Disease","Lewistown Infirmary",NA
-"Montana",2016,"May","2016-05-04","Montana State Prison",44635,"Dubray","Donald","1962-09-02",53.7069254185693,"M","Natural Causes","significant diabetes and renal failure requiring dialysis","Montana State Prison",789
-"Montana",2016,"July","2016-07-11","Montana State Prison",16134,"Deschon","Joseph","1959-12-05",56.640296803653,"M","Natural Causes","According to provider review, he passed away from chronic hep C with complication, esophageal varice","Montana State Prison",789
-"Montana",2016,"July","2016-07-14","Montana State Prison",30347,"Doney","Martin","1968-07-08",48.0501712328767,"M","Natural Causes","End stage liver disease, hepatitis C","Montana State Prison",789
-"Montana",2016,"July","2016-07-18","Montana State Hospital - Warm Springs",3015109,"Swanson","Jeanette","1956-05-10",60.2312785388128,"M","Natural Causes","Respiratory Failure/Acute Leukemia, Metastatic Breast Cancer.","Montana State Hospital - Warm Springs",NA
-"Montana",2016,"July","2016-07-29","Crossroads",20358,"Johnson","Kenneth","1963-02-14",53.491352739726,"M","Natural Causes","atherosclerotic and hypertensive cardiovascular disease","Benefis Healthcare System",778
-"Montana",2016,"August","2016-08-09","Lewistown Infirmary",3012924,"Jensen","Dennis","1952-04-03",64.3952625570776,"M","Natural Causes","congestive heart failure, cirrhosis (non-hepatitis C), chronic kidney disease, anemia, hypertension,","Lewistown Infirmary",NA
-"Montana",2016,"August","2016-08-27","Montana State Prison",11060,"Stewart","Raymond","1948-08-03",68.1126141552511,"M","Natural Causes","intraparenchymal hemorrhage of left basal ganglia, hypertensive cardiovascular disease","St Patrick Hospital",789
-"Montana",2016,"September","2016-09-06","Crossroads Correctional Center",36829,"Peart","Richard","1975-12-20",40.7435616438356,"M","Suicide","He committed suicide by cutting his antecubital","Crossroads Correctional Center",778
-"Montana",2016,"December","2016-12-19","Montana State Prison",46125,"Edwards","Carey","1962-08-17",54.3792427701674,"M","Natural Causes","diabetic ketoacidosis, possible sepsis, renal failure, and encephalopathy","St Patrick Hospital",789
-"Montana",2017,"January","2017-01-01","Lewistown Infirmary",41794,"Azure","Donald","1937-04-30",79.729699391172,"M","Natural Causes","Old Age/ Bladder Mass/ Hematuria","Lewistown Infirmary",NA
-"Montana",2017,"January","2017-01-23","Montana State Prison",36553,"Ford","Earl","1940-06-07",76.6830955098934,"M","Natural Causes","End Stage Lung Cancer","Montana State Prison",789
-"Montana",2017,"March","2017-03-04","Lewistown Infirmary",2065670,"Bonck","Lucien","1953-07-16",63.6779680365297,"M","Natural Causes","Pancreatic Cancer","Lewistown Infirmary",NA
-"Montana",2017,"March","2017-03-18","Montana State Prison",29666,"Marceau","Merlyn","1952-08-21",64.6188261035008,"M","Natural Causes","Hepatorenal Syndrome/ End Stage Liver Disease","St Patrick Hospital",789
-"Montana",2017,"March","2017-03-25","Montana State Prison",25792,"Misner","Mark","1950-06-28",66.7876598173516,"M","Natural Causes","Stage IV Mestastic Colon Cancer","Montana State Prison",789
-"Montana",2017,"May","2017-05-10","Montana State Prison",3017006,"Ardene","Odyssey","1988-08-22",28.7362062404871,"M","Natural Causes","Sepsis w/Acute respitory distress syndrome/  Influenza B Pneumonitis/ Acute Broncho-pneumonia","St Patrick Hospital",789
-"Montana",2017,"May","2017-05-15","Montana State Prison",29786,"Cameron","William","1950-08-23",66.7745129375951,"M","Natural Causes","Acute Hypoxemic Respiratory Failure/ Pulmonary Embolism/ Cardio Myopathy","St Patrick Hospital",789
-"Montana",2017,"June","2017-06-06","Montana State Prison",2022077,"Williamson","David","1949-09-15",67.7719368340944,"M","Natural Causes","Acute Respiratory Failure/Lung Abcess/MRSA Pneumonia","St Patrick Hospital",789
-"Montana",2017,"June","2017-06-25","Montana State Prison",24302,"Horn","William","1959-07-27",57.9561358447489,"M","Natural Causes","End Stage Cirrhosis/ Hepatocellular Carcinoma","Montana State Prison",789
-"Montana",2017,"July","2017-07-16","Montana State Hospital - Warm Springs",20346,"Benusa","Reynold","1936-01-29",81.5187214611872,"M","Investigation Pending","This information is kept by DPHHS","Montana State Hospital - Warm Springs",NA
-"Montana",2017,"August","2017-08-16","Montana State Prison",24737,"Lamere","Daniel","1956-03-23",61.4422850076104,"M","Natural Causes","End Stage Hepatic Failure w/ Encephal-opathy due to Hepatitis C","Montana State Prison",789
-"Montana",2017,"August","2017-08-18","Montana State Hospital - Warm Springs",3014972,"Haines","Pamela","1958-07-14",59.1380136986301,"F","Investigation Pending","This information is kept by DPHHS","St Patrick Hospital",NA
-"Montana",2017,"August","2017-08-18","Montana State Prison",14337,"Bauer","Robert","1960-01-20",57.6183219178082,"M","Natural Causes","Hemorrahagic Shock/ Esophogeal Varices/ Hepatitis Cirrhosis","Montana State Prison",789
-"Montana",2017,"November","2017-11-06","Lewistown Infirmary",18717,"Dryman","Frank","1931-06-04",86.4863146879756,"M","Natural Causes","End Stage Chronic Pulmonary Disease/ Coronary Artery Disease/ Hypertension & Hypercholesterolemia","Lewistown Infirmary",NA
-"Montana",2017,"December","2017-12-29","Montana Women's Prison",2129928,"Bullard","Joann","1960-07-03",57.5290125570776,"F","Natural Causes","Chronic Liver Disease, Hyperbilirubinemia, Hepatic Encephalopathy, Hepatitis C, COPD, Asthma, GERD,","Billings Clinic",790
-"Montana",2018,"February","2018-02-05","Montana State Prison",11815,"Gordon","Joe","1956-03-31",61.8948820395738,"M","Natural Causes","Primary Brain Glioma","Montana State Prison",789
-"Montana",2018,"April","2018-04-14","Crossroads Correctional Center",26363,"Hoots","John","1958-10-26",59.5085273972603,"M","Natural Causes","Adenocarcinoma lung","Crossroads Correctional Center",778
-"Montana",2018,"May","2018-05-01","Dawson County Correctional Facility",2041912,"Huntsman","Christopher","1981-08-17",36.7312899543379,"M","Suicide","Suicide Hanging","Billings Clinic",779
-"Montana",2018,"July","2018-07-08","Montana State Prison",3006113,"Cooksey","Bobby","1942-04-05",76.3106659056317,"M","Natural Causes","Hypertensive and atherosclerotic heart disease.","Montana State Prison",789
-"Montana",2018,"July","2018-07-15","Montana State Hospital - Warm Springs",3019355,"Carney","William","1954-05-22",64.192694063927,"M","Natural Causes","This information is kept by DPHHS","Montana State Hospital - Warm Springs",NA
-"Montana",2018,"August","2018-08-06","Crossroads Correctional Center",15048,"Powderface","Joshua","1960-12-26",57.6498953576865,"M","Natural Causes","Atherosclerotic cardiovascular disease","Crossroads Correctional Center",778
-"Montana",2019,"January","2019-01-16","Lewistown Infirmary",3014873,"Dunn","Ronald","1942-04-23",76.7863869863014,"M","Natural Causes","Diabetes, COPD,  Congestive heart Failure","Central Montana Medical Center",NA
-"Montana",2019,"March","2019-03-22","Montana State Prison",47014,"Thaut","Gary","1952-06-25",66.78599695586,"M","Suicide","Suicide He died in his cell, with a sheet, hanging from his bunk bed","Montana State Prison",789
-"Montana",2019,"June","2019-06-12","Montana State Prison",38044,"Scollard","Robert","1971-01-20",48.4265886605784,"M","Natural Causes","Unexpected Death Epilepsy","Montana State Prison",789
-"Montana",2019,"September","2019-09-03","Montana State Prison",38817,"Cassell","Walter","1951-09-24",67.9897070015221,"M","Natural Causes","Chronic obstructive Pulmonary Disease","Montana State Prison",789
-"Montana",2019,"October","2019-10-01","Montana State Prison",2076979,"Foley","Joseph","1957-06-03",62.370652587519,"M","Natural Causes","Hypovolemic shock","Community Medical Center",789
-"Montana",2019,"November","2019-11-03","Riverside Special Needs Unit",3001791,"Goodenough","Fred","1943-03-01",76.7309550989345,"M","Natural Causes","Myocardial Infarction","Riverside Special Needs Unit",794
-"Montana",2019,"December","2019-12-10","Montana State Prison",3016416,"Gray","Neal","1959-11-23",60.0884893455099,"M","Natural Causes","cirrhosis Heptocellular carcinoma","Montana State Prison",789
-"Montana",2019,"December","2019-12-18","Montana State Prison",2150345,"Lewis","Robert","1943-09-16",76.3091229071537,"M","Natural Causes","Cardio Pulmonary Arrest","Montana State Prison",789
-"Montana",2020,"February","2020-02-14","Montana State Prison",35396,"Whitlow","Kenneth","1951-10-20",68.3677796803653,"M","Natural Causes","Hepatocelluar Cancer","Montana State Prison",789
-"Montana",2020,"March","2020-03-21","Crossroads Correctional Center",44939,"Stuart","Dennis","1962-05-03",57.9244577625571,"M","Natural Causes","cirrhosis","Marias Medical Center",778
-"Montana",2020,"April","2020-04-08","Montana State Prison",16142,"Forsyth","Jerry","1946-01-20",74.268350456621,"M","Natural Causes","Peritonitis d/t perforated viscus sepis-Acute Illness","Montana State Prison",789
-"Montana",2020,"April","2020-04-10","Montana State Prison",41795,"Mattingly","Presley","1979-03-03",41.1345319634703,"M","Accident","Accidental Alcohol/Drug Intoxication","St Patrick Hospital",789
-"Montana",2020,"April","2020-04-30","Montana State Prison",3011990,"Stewart","Laurence","1987-05-07",33.0076198630137,"M","Suicide","Suicide-Asphyxiation by hanging","Montana State Prison",789
-"Montana",2020,"May","2020-05-05","Riverside Special Needs Unit",32417,"Allen","James","1932-05-13",88.0398782343988,"M","Natural Causes","Hypertensive & Atherosclerotic Cardiovascular Disease","St Peter's Hospital",794
-"Montana",2020,"May","2020-05-07","Virginia Prison",11744,"Close","Robert","1954-02-02",66.3052245053272,"M","Natural Causes","Complications from COVID Infection","Virginia Prison",NA
-"Montana",2020,"May","2020-05-17","Riverside Special Needs Unit",2119891,"Westmark","Michael","1949-02-18",71.2924600456621,"M","Natural Causes","Chronic Illness","Riverside Special Needs Unit",794
-"Montana",2020,"June","2020-06-27","Crossroads Correctional Center",3012613,"Schowengerdt","Dennis","1947-04-07",73.275300608828,"M","Natural Causes","Cachexia","Crossroads Correctional Center",778
-"Montana",2020,"July","2020-07-01","Montana State Prison",3012236,"Bigday","Martin","1993-09-28",26.7755136986301,"M","Suicide",NA,"Montana State Prison",789
-"Montana",2020,"July","2020-07-01","Riverside Special Needs Unit",3006558,"Gaub","Albert","1939-04-27",81.2369901065449,"M","Natural Causes",NA,"Riverside Special Needs Unit",794
-"Montana",2020,"July","2020-07-08","Montana State Prison",3008046,"Holm","Brian","1960-04-27",60.2400342465753,"M","Natural Causes",NA,"Community Medical Center",789
-"Montana",2020,"July","2020-07-27","Riverside Special Needs Unit",16617,"Douglas","Leonard","1943-07-25",77.0619254185693,"M","Natural Causes",NA,"Riverside Special Needs Unit",794
-"Montana",2020,"September","2020-09-09","Riverside Special Needs Unit",2038564,"Sandrock","Richard","1940-07-29",80.1711187214612,"M","Natural Causes",NA,"Riverside Special Needs Unit",794
-"Montana",2020,"September","2020-09-12","Crossroads Correctional Center",45730,"Adams","Larry","1956-07-30",64.1646974885845,"M","Investigation Pending",NA,"Crossroads Correctional Center",778
-"Montana",2020,"October","2020-10-16","Montana State Prison",40298,"Coleman","Ernest","1947-05-06",73,"M","Natural Causes",NA,"Montana State Prison",789
-"Montana",2020,"October","2020-10-17","Montana State Prison",3012304,"Stemple","Donald","1940-03-09",81,"M","Natural Causes",NA,"Montana State Prison",789
-"Montana",2020,"October","2020-10-24","Montana State Prison",3027302,"Gonzalez","Robert","1949-10-28",71,"M","Natural Causes","COVID-19","Montana State Prison",789
-"Montana",2020,"October","2020-10-28","Riverside Special Needs Unit",40514,"Boyles","Thomas","1955-12-12",65,"M","Natural Causes",NA,"Riverside Special Needs Unit",794
-"Montana",2020,"October","2020-10-31","Crossroads Correctional Center",3012799,"Lafield","Jeffory","1962-12-03",57,"M","Natural Causes","COVID-19","Benefis Healthcare System",778
-"Montana",2020,"November","2020-11-18","Montana State Prison",2154612,"Meredith","Gene","1958-03-14",63,"M","Investigation Pending","COVID-19","St Patrick Hospital",789
-"Montana",2020,"November","2020-11-23","Montana State Prison",27177,"Killsontop","Vern","1958-01-26",63,"M","Natural Causes","COVID-19","St James Healthcare",789
-"Montana",2020,"December","2020-12-04","Montana State Prison",41465,"Grimes","Burly","1952-09-13",68,"M","Investigation Pending",NA,"Montana State Prison",789
-"Montana",2020,"December","2020-12-08","Montana State Prison",3007658,"Caswell","Peter","1949-11-09",71,"M","Investigation Pending","COVID-19","Community Medical Center",789
-"Montana",2020,"December","2020-12-11","Montana State Prison",25501,"Lindemulder","Virgil","1960-11-09",60,"M","Natural Causes","COVID-19","St James Healthcare",789
-"Montana",2021,"January","2021-01-01","Montana State Prison",3027678,"Hutzel","Michael","1971-04-06",50,"M","Investigation Pending",NA,"Kalispell Regional Medical Center",789
-"Montana",2021,"January","2021-01-30","Crossroads Correctional Center",3022280,"Clark","Edward","1946-11-16",74,"M","Investigation Pending",NA,"Marias Medical Center",778
-"Montana",2021,"February","2021-02-15","Crossroads Correctional Center",3017376,"Lamb","Dewayne","1959-09-18",61,"M","Investigation Pending",NA,"Crossroads Correctional Center",778
+State,Year,Month,Death.Date,Facility,ID.No,Last.Name,First.Name,Death.Age,Sex,Race,Ethnicity,Circumstance.General,Circumstance.Specific,Location,UCLA.ID
+Montana,2015,January,1/14/15,Lewistown Infirmary,3004141,Whitwell,Harb,73,M,,,Natural Causes,Atherosclerotic heart disease,Lewistown Infirmary,NA
+Montana,2015,February,2/11/15,Deer Lodge Medical Center,3005579,Weaver,William,56,M,,,Natural Causes,Severe Septis - Pneumonia,Deer Lodge Medical Center,NA
+Montana,2015,March,3/1/15,Crossroads Correctional Center,37397,Miller,Tyler,39,M,,,Suicide,Suicide suffocation,Crossroads Correctional Center,778
+Montana,2015,April,4/20/15,INSTITUTIONAL ESCAPE,14286,Boe,Vernon,86,M,,,Natural Causes,14286 Boe was in an escape status and in another state when he passed.  We were informed of the date and natural causes but nothing else.,unknown,NA
+Montana,2015,August,8/8/15,Montana State Prison,2104349,Rogers,Rusty,40,M,,,Natural Causes,Cancer,Montana State Prison,789
+Montana,2015,August,8/27/15,Montana Women's Prison,41262,Enright,Donna,81,F,,,Natural Causes,Atherosclerotic heart disease,St Vincent Healthcare,790
+Montana,2015,September,9/18/15,Great Falls Regional Prison,19740,Vieira,Frank,56,M,,,Suicide,NA,Benefis Healthcare System,783
+Montana,2015,October,10/9/15,Montana State Prison,2135506,Snorsky,Victor,27,M,,,Suicide,Suicide hanging,Montana State Prison,789
+Montana,2015,October,10/20/15,Montana State Prison,11825,Hammer,Dennis,70,M,,,Natural Causes,End stage liver disease,St Patrick Hospital,789
+Montana,2015,November,11/10/15,Montana State Prison,36740,Gutierrez,Vincente,63,M,,,Natural Causes,Hodgkin lymphoma,Deer Lodge Medical Center,789
+Montana,2015,November,11/24/15,Montana State Prison,2144245,White,Ronald,36,M,,,Natural Causes,HIV disease resulting in multiple infections,St Patrick Hospital,789
+Montana,2015,November,11/25/15,Montana State Prison,3010444,Roeder,Donald,71,M,,,Natural Causes,Malignant neoplasm of pancreas,Montana State Prison,789
+Montana,2015,November,11/27/15,Montana State Prison,14134,Sunday,Andrew,75,M,,,Natural Causes,acute coronary occlusion and end stage lung cancer,Montana State Prison,789
+Montana,2015,December,12/2/15,Lewistown Infirmary,17334,Moore,Robert,81,M,,,Natural Causes,Congestive heart failure,Lewistown Infirmary,NA
+Montana,2015,December,12/13/15,Lewistown Infirmary,3011108,McAlpine,Michael,51,M,,,Natural Causes,Motor neuron disease,Lewistown Infirmary,NA
+Montana,2015,December,12/29/15,Washington Interstate Compact Office,21997,Vandyken,Fred,58,M,,,Investigation Pending,"Died in Washington, exact cause of death not received.",unknown,NA
+Montana,2016,January,1/31/16,Montana State Prison,29255,Gambrel,John,60,M,,,Natural Causes,acute myeloid leukemia and acute renal failure,Montana State Prison,789
+Montana,2016,February,2/2/16,Montana State Prison,28469,Tregeagle,Zyzmick,45,M,,,Natural Causes,"states sepsis, respiratory failure, lactic acidosis, status post surgery for bowel obstruction",St Patrick Hospital,789
+Montana,2016,February,2/14/16,Lewistown Infirmary,11747,Coleman,Dewey,67,M,,,Natural Causes,"1)Right-sided heart failure, failure to thrive, abnormal weight loss, renal failure 2) history of pu",Lewistown Infirmary,NA
+Montana,2016,March,3/5/16,Montana State Prison,11691,Johnston,Ray,65,M,,,Natural Causes,Metastic Pancreatic Carcinoma,Montana State Prison,789
+Montana,2016,March,3/6/16,Montana State Prison,2089123,Freeman,Andrew,53,M,,,Natural Causes,AIDS,St Patrick Hospital,789
+Montana,2016,March,3/31/16,Montana State Prison,2062359,Schuhrke,Richard,76,M,,,Natural Causes,"shock as consequence of sepsis-days, methicillin resistant staphaureus bacteremia.",St Patrick Hospital,789
+Montana,2016,April,4/13/16,Lewistown Infirmary,47036,Horan,James,69,M,,,Natural Causes,Chronic End Stage Liver Disease,Lewistown Infirmary,NA
+Montana,2016,April,4/29/16,Lewistown Infirmary,37867,Patton,William,57,M,,,Natural Causes,Chronic End Stage Liver Disease,Lewistown Infirmary,NA
+Montana,2016,May,5/4/16,Montana State Prison,44635,Dubray,Donald,54,M,,,Natural Causes,significant diabetes and renal failure requiring dialysis,Montana State Prison,789
+Montana,2016,July,7/11/16,Montana State Prison,16134,Deschon,Joseph,57,M,,,Natural Causes,"According to provider review, he passed away from chronic hep C with complication, esophageal varice",Montana State Prison,789
+Montana,2016,July,7/14/16,Montana State Prison,30347,Doney,Martin,48,M,,,Natural Causes,"End stage liver disease, hepatitis C",Montana State Prison,789
+Montana,2016,July,7/18/16,Montana State Hospital - Warm Springs,3015109,Swanson,Jeanette,60,M,,,Natural Causes,"Respiratory Failure/Acute Leukemia, Metastatic Breast Cancer.",Montana State Hospital - Warm Springs,NA
+Montana,2016,July,7/29/16,Crossroads,20358,Johnson,Kenneth,53,M,,,Natural Causes,atherosclerotic and hypertensive cardiovascular disease,Benefis Healthcare System,778
+Montana,2016,August,8/9/16,Lewistown Infirmary,3012924,Jensen,Dennis,64,M,,,Natural Causes,"congestive heart failure, cirrhosis (non-hepatitis C), chronic kidney disease, anemia, hypertension,",Lewistown Infirmary,NA
+Montana,2016,August,8/27/16,Montana State Prison,11060,Stewart,Raymond,68,M,,,Natural Causes,"intraparenchymal hemorrhage of left basal ganglia, hypertensive cardiovascular disease",St Patrick Hospital,789
+Montana,2016,September,9/6/16,Crossroads Correctional Center,36829,Peart,Richard,41,M,,,Suicide,He committed suicide by cutting his antecubital,Crossroads Correctional Center,778
+Montana,2016,December,12/19/16,Montana State Prison,46125,Edwards,Carey,54,M,,,Natural Causes,"diabetic ketoacidosis, possible sepsis, renal failure, and encephalopathy",St Patrick Hospital,789
+Montana,2017,January,1/1/17,Lewistown Infirmary,41794,Azure,Donald,80,M,,,Natural Causes,Old Age/ Bladder Mass/ Hematuria,Lewistown Infirmary,NA
+Montana,2017,January,1/23/17,Montana State Prison,36553,Ford,Earl,77,M,,,Natural Causes,End Stage Lung Cancer,Montana State Prison,789
+Montana,2017,March,3/4/17,Lewistown Infirmary,2065670,Bonck,Lucien,64,M,,,Natural Causes,Pancreatic Cancer,Lewistown Infirmary,NA
+Montana,2017,March,3/18/17,Montana State Prison,29666,Marceau,Merlyn,65,M,,,Natural Causes,Hepatorenal Syndrome/ End Stage Liver Disease,St Patrick Hospital,789
+Montana,2017,March,3/25/17,Montana State Prison,25792,Misner,Mark,67,M,,,Natural Causes,Stage IV Mestastic Colon Cancer,Montana State Prison,789
+Montana,2017,May,5/10/17,Montana State Prison,3017006,Ardene,Odyssey,29,M,,,Natural Causes,Sepsis w/Acute respitory distress syndrome/  Influenza B Pneumonitis/ Acute Broncho-pneumonia,St Patrick Hospital,789
+Montana,2017,May,5/15/17,Montana State Prison,29786,Cameron,William,67,M,,,Natural Causes,Acute Hypoxemic Respiratory Failure/ Pulmonary Embolism/ Cardio Myopathy,St Patrick Hospital,789
+Montana,2017,June,6/6/17,Montana State Prison,2022077,Williamson,David,68,M,,,Natural Causes,Acute Respiratory Failure/Lung Abcess/MRSA Pneumonia,St Patrick Hospital,789
+Montana,2017,June,6/25/17,Montana State Prison,24302,Horn,William,58,M,,,Natural Causes,End Stage Cirrhosis/ Hepatocellular Carcinoma,Montana State Prison,789
+Montana,2017,July,7/16/17,Montana State Hospital - Warm Springs,20346,Benusa,Reynold,82,M,,,Investigation Pending,This information is kept by DPHHS,Montana State Hospital - Warm Springs,NA
+Montana,2017,August,8/16/17,Montana State Prison,24737,Lamere,Daniel,61,M,,,Natural Causes,End Stage Hepatic Failure w/ Encephal-opathy due to Hepatitis C,Montana State Prison,789
+Montana,2017,August,8/18/17,Montana State Hospital - Warm Springs,3014972,Haines,Pamela,59,F,,,Investigation Pending,This information is kept by DPHHS,St Patrick Hospital,NA
+Montana,2017,August,8/18/17,Montana State Prison,14337,Bauer,Robert,58,M,,,Natural Causes,Hemorrahagic Shock/ Esophogeal Varices/ Hepatitis Cirrhosis,Montana State Prison,789
+Montana,2017,November,11/6/17,Lewistown Infirmary,18717,Dryman,Frank,86,M,,,Natural Causes,End Stage Chronic Pulmonary Disease/ Coronary Artery Disease/ Hypertension & Hypercholesterolemia,Lewistown Infirmary,NA
+Montana,2017,December,12/29/17,Montana Women's Prison,2129928,Bullard,Joann,58,F,,,Natural Causes,"Chronic Liver Disease, Hyperbilirubinemia, Hepatic Encephalopathy, Hepatitis C, COPD, Asthma, GERD,",Billings Clinic,790
+Montana,2018,February,2/5/18,Montana State Prison,11815,Gordon,Joe,62,M,,,Natural Causes,Primary Brain Glioma,Montana State Prison,789
+Montana,2018,April,4/14/18,Crossroads Correctional Center,26363,Hoots,John,60,M,,,Natural Causes,Adenocarcinoma lung,Crossroads Correctional Center,778
+Montana,2018,May,5/1/18,Dawson County Correctional Facility,2041912,Huntsman,Christopher,37,M,,,Suicide,Suicide Hanging,Billings Clinic,779
+Montana,2018,July,7/8/18,Montana State Prison,3006113,Cooksey,Bobby,76,M,,,Natural Causes,Hypertensive and atherosclerotic heart disease.,Montana State Prison,789
+Montana,2018,July,7/15/18,Montana State Hospital - Warm Springs,3019355,Carney,William,64,M,,,Natural Causes,This information is kept by DPHHS,Montana State Hospital - Warm Springs,NA
+Montana,2018,August,8/6/18,Crossroads Correctional Center,15048,Powderface,Joshua,58,M,,,Natural Causes,Atherosclerotic cardiovascular disease,Crossroads Correctional Center,778
+Montana,2019,January,1/16/19,Lewistown Infirmary,3014873,Dunn,Ronald,77,M,,,Natural Causes,"Diabetes, COPD,  Congestive heart Failure",Central Montana Medical Center,NA
+Montana,2019,March,3/22/19,Montana State Prison,47014,Thaut,Gary,67,M,,,Suicide,"Suicide He died in his cell, with a sheet, hanging from his bunk bed",Montana State Prison,789
+Montana,2019,June,6/12/19,Montana State Prison,38044,Scollard,Robert,48,M,,,Natural Causes,Unexpected Death Epilepsy,Montana State Prison,789
+Montana,2019,September,9/3/19,Montana State Prison,38817,Cassell,Walter,68,M,,,Natural Causes,Chronic obstructive Pulmonary Disease,Montana State Prison,789
+Montana,2019,October,10/1/19,Montana State Prison,2076979,Foley,Joseph,62,M,,,Natural Causes,Hypovolemic shock,Community Medical Center,789
+Montana,2019,November,11/3/19,Riverside Special Needs Unit,3001791,Goodenough,Fred,77,M,,,Natural Causes,Myocardial Infarction,Riverside Special Needs Unit,794
+Montana,2019,December,12/10/19,Montana State Prison,3016416,Gray,Neal,60,M,,,Natural Causes,cirrhosis Heptocellular carcinoma,Montana State Prison,789
+Montana,2019,December,12/18/19,Montana State Prison,2150345,Lewis,Robert,76,M,,,Natural Causes,Cardio Pulmonary Arrest,Montana State Prison,789
+Montana,2020,February,2/14/20,Montana State Prison,35396,Whitlow,Kenneth,68,M,,,Natural Causes,Hepatocelluar Cancer,Montana State Prison,789
+Montana,2020,March,3/21/20,Crossroads Correctional Center,44939,Stuart,Dennis,58,M,,,Natural Causes,cirrhosis,Marias Medical Center,778
+Montana,2020,April,4/8/20,Montana State Prison,16142,Forsyth,Jerry,74,M,,,Natural Causes,Peritonitis d/t perforated viscus sepis-Acute Illness,Montana State Prison,789
+Montana,2020,April,4/10/20,Montana State Prison,41795,Mattingly,Presley,41,M,,,Accident,Accidental Alcohol/Drug Intoxication,St Patrick Hospital,789
+Montana,2020,April,4/30/20,Montana State Prison,3011990,Stewart,Laurence,33,M,,,Suicide,Suicide-Asphyxiation by hanging,Montana State Prison,789
+Montana,2020,May,5/5/20,Riverside Special Needs Unit,32417,Allen,James,88,M,,,Natural Causes,Hypertensive & Atherosclerotic Cardiovascular Disease,St Peter's Hospital,794
+Montana,2020,May,5/7/20,Virginia Prison,11744,Close,Robert,66,M,,,Natural Causes,Complications from COVID Infection,Virginia Prison,NA
+Montana,2020,May,5/17/20,Riverside Special Needs Unit,2119891,Westmark,Michael,71,M,,,Natural Causes,Chronic Illness,Riverside Special Needs Unit,794
+Montana,2020,June,6/27/20,Crossroads Correctional Center,3012613,Schowengerdt,Dennis,73,M,,,Natural Causes,Cachexia,Crossroads Correctional Center,778
+Montana,2020,July,7/1/20,Montana State Prison,3012236,Bigday,Martin,27,M,,,Suicide,NA,Montana State Prison,789
+Montana,2020,July,7/1/20,Riverside Special Needs Unit,3006558,Gaub,Albert,81,M,,,Natural Causes,NA,Riverside Special Needs Unit,794
+Montana,2020,July,7/8/20,Montana State Prison,3008046,Holm,Brian,60,M,,,Natural Causes,NA,Community Medical Center,789
+Montana,2020,July,7/27/20,Riverside Special Needs Unit,16617,Douglas,Leonard,77,M,,,Natural Causes,NA,Riverside Special Needs Unit,794
+Montana,2020,September,9/9/20,Riverside Special Needs Unit,2038564,Sandrock,Richard,80,M,,,Natural Causes,NA,Riverside Special Needs Unit,794
+Montana,2020,September,9/12/20,Crossroads Correctional Center,45730,Adams,Larry,64,M,,,Investigation Pending,NA,Crossroads Correctional Center,778
+Montana,2020,October,10/16/20,Montana State Prison,40298,Coleman,Ernest,73,M,,,Natural Causes,NA,Montana State Prison,789
+Montana,2020,October,10/17/20,Montana State Prison,3012304,Stemple,Donald,81,M,,,Natural Causes,NA,Montana State Prison,789
+Montana,2020,October,10/24/20,Montana State Prison,3027302,Gonzalez,Robert,71,M,,,Natural Causes,COVID-19,Montana State Prison,789
+Montana,2020,October,10/28/20,Riverside Special Needs Unit,40514,Boyles,Thomas,65,M,,,Natural Causes,NA,Riverside Special Needs Unit,794
+Montana,2020,October,10/31/20,Crossroads Correctional Center,3012799,Lafield,Jeffory,57,M,,,Natural Causes,COVID-19,Benefis Healthcare System,778
+Montana,2020,November,11/18/20,Montana State Prison,2154612,Meredith,Gene,63,M,,,Investigation Pending,COVID-19,St Patrick Hospital,789
+Montana,2020,November,11/23/20,Montana State Prison,27177,Killsontop,Vern,63,M,,,Natural Causes,COVID-19,St James Healthcare,789
+Montana,2020,December,12/4/20,Montana State Prison,41465,Grimes,Burly,68,M,,,Investigation Pending,NA,Montana State Prison,789
+Montana,2020,December,12/8/20,Montana State Prison,3007658,Caswell,Peter,71,M,,,Investigation Pending,COVID-19,Community Medical Center,789
+Montana,2020,December,12/11/20,Montana State Prison,25501,Lindemulder,Virgil,60,M,,,Natural Causes,COVID-19,St James Healthcare,789
+Montana,2021,January,1/1/21,Montana State Prison,3027678,Hutzel,Michael,50,M,,,Investigation Pending,NA,Kalispell Regional Medical Center,789
+Montana,2021,January,1/30/21,Crossroads Correctional Center,3022280,Clark,Edward,74,M,,,Investigation Pending,NA,Marias Medical Center,778
+Montana,2021,February,2/15/21,Crossroads Correctional Center,3017376,Lamb,Dewayne,61,M,,,Investigation Pending,NA,Crossroads Correctional Center,778
+Montana,2021,June,6/15/21,Riverside Special Needs Unit,11801,Frodsham,Carl,92,M,White,Not Hispanic,Natural,Hypertensive cardiovascular disease,,
+Montana,2021,December,12/21/21,Riverside Special Needs Unit,13766,Owens,Vernie,80,M,White,Not Hispanic,Investigation Pending,NA,,
+Montana,2021,August,8/6/21,Riverside Special Needs Unit,15094,Worden,Ricky,67,M,White,Not Hispanic,Natural,End-stage chronic obstructive pulmonary disease,,
+Montana,2021,August,8/22/21,Riverside Special Needs Unit,41955,Beloate,Raymond,65,M,American Indian or Alaskan Native,Not Hispanic,Investigation Pending,NA,,
+Montana,2021,August,8/11/21,Riverside Special Needs Unit,42052,Suthers,William,77,M,White,Not Hispanic,Natural,"Hypertensive cardiovascular disease, atherosclerotic cardiovascular disease",,
+Montana,2021,January,1/10/21,Yellowstone County Jail,43531,Johnson,Troy,54,M,White,Not Hispanic,Accidental,NA,,
+Montana,2021,May,5/23/21,Benefis Healthcare System,46941,Morrison,Shaun,39,M,White,Not Hispanic,Accidental,"Self-inflicted open wound of abdominal wall with penetration to intraperitoneal cavity, sepsis",,
+Montana,2021,April,4/24/21,Butte Prerelease Center - Male,2072179,Dunsmore,Donald,63,M,White,Not Hispanic,Investigation Pending,NA,,
+Montana,2021,May,5/14/21,Montana State Prison,2111597,McClure,Michael,73,M,White,Not Hispanic,Natural,"Congestive heart failure, chronic obstructive pulmonary disease, diabetes mellitus type 2",,
+Montana,2021,September,9/20/21,Montana State Prison,2154781,Bailey,Edward,40,M,White,Not Hispanic,Investigation Pending,NA,,
+Montana,2021,August,8/8/21,Riverside Special Needs Unit,3004677,Hendzel,Frank,90,M,White,Not Hispanic,Natural,Atherosclerotic cardiovascular disease,,
+Montana,2021,August,8/11/21,Montana State Prison,3007483,Welborn,Donald,55,M,White,Not Hispanic,Accidental,"Compressional asphyxia, entrapment with cab of excavator. Operator of excavator that rolled over, entrapping him beneath crushed roof of cab",,
+Montana,2021,June,6/8/21,Montana Womens Prison,3011042,Nester,Lisa,50,F,White,Not Hispanic,Suicide,Hanging,,
+Montana,2021,September,9/28/21,Montana State Prison,3013828,Cramer,Jeremy,47,M,White,Not Hispanic,Suicide,Hanging,,
+Montana,2021,February,2/15/21,Crossroads Correctional Center,3017376,Lamb,Dewayne,61,M,White,Not Hispanic,Investigation Pending,NA,,
+Montana,2021,October,10/27/21,Montana Womens Prison,3021704,Bear,Jeri,33,F,American Indian or Alaskan Native,Not Hispanic,Investigation Pending,NA,,
+Montana,2021,January,1/30/21,Marias Medical Center,3022280,Clark,Edward,74,M,American Indian or Alaskan Native,Not Hispanic,Natural,"Cardiopulmonary arrest, hepatorenal syndrome, chronic liver disease",,
+Montana,2021,May,5/19/21,Crossroads Correctional Center,3022899,Koenen,Raymond,62,M,White,Not Hispanic,Natural,"Colon cancer, bilateral pulmanory embolism, hypertension",,
+Montana,2021,November,11/26/21,St James Healthcare,3023456,George,Michael,55,M,White,Not Hispanic,Investigation Pending,NA,,
+Montana,2021,July,7/29/21,Riverside Special Needs Unit,3026390,Jarvey,Jack,67,M,American Indian or Alaskan Native,Not Hispanic,Natural,"Hypertensive cardiovascular disease, atherosclerotic cardiovascular disease",,
+Montana,2021,January,1/1/21,Logan Health - Kalispell,3027678,Hutzel,Michael,49,M,White,Not Hispanic,Natural,Renal Failure & Liver Metastases,,
+Montana,2021,July,7/15/21,Great Falls Transition Center,3029189,Breeden,Edward,36,M,White,Not Hispanic,Suicide,NA,,
+Montana,2021,August,8/11/21,Montana State Prison,3030266,Kimball,Thomas,85,M,White,Not Hispanic,Investigation Pending,NA,,
