@@ -1167,8 +1167,9 @@ calculate_annual_facility_rate <- function() {
     
     out.deaths <- clean.deaths %>%
         left_join(., ucla.facility.data, by = c('UCLA.ID' = 'Facility.ID')) %>% 
+        subset(!is.na(Name)) %>%
         mutate(Capacity.Rate = Population.Feb20/Capacity,
-               Name = ifelse(is.na(Name), 'ALL NON MATCHING FACILITIES TO UCLA', Name),
+               #Name = ifelse(is.na(Name), 'ALL NON MATCHING FACILITIES TO UCLA', Name),
                Mortality.Rate.Pop = Deaths/Population.Feb20*10000,
                Mortality.Rate.Cap = Deaths/Capacity*10000,
                UCLA.ID = as.character(UCLA.ID)) %>%
@@ -1211,8 +1212,9 @@ calculate_monthly_facility_rate <- function() {
     
     out.deaths <- clean.deaths %>%
         left_join(., ucla.facility.data, by = c('UCLA.ID' = 'Facility.ID')) %>% 
+        subset(!is.na(Name)) %>%
         mutate(Capacity.Rate = Population.Feb20/Capacity,
-               Name = ifelse(is.na(Name), 'ALL NON MATCHING FACILITIES TO UCLA', Name),
+               #Name = ifelse(is.na(Name), 'ALL NON MATCHING FACILITIES TO UCLA', Name),
                Mortality.Rate.Pop = Deaths/Population.Feb20*10000,
                Mortality.Rate.Cap = Deaths/Capacity*10000,
                UCLA.ID = as.character(UCLA.ID)) %>%
