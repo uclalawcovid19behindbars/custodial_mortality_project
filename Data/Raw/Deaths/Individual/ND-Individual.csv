@@ -1,41 +1,41 @@
-State,Year,Month,Death.Date,Facility,Circumstance.Specific,ID.No,Last.Name,First.Name,Sex,DoB,Race
-North Dakota,2022,January,1/31/22,North Dakota State Penitentiary,Metastatic rectosigmoid adenocarcinoma,35891,BORGEN,LEO,M,10/19/65,Caucasian
-North Dakota,2021,October,10/28/21,WY - Out-of-state transfer but a ND inmate,Acute respiratory failure due to COVID-19,13756,ALFORD,HARRY,M,5/8/56,Caucasian
-North Dakota,2021,October,10/4/21,North Dakota State Penitentiary,Pneumonia due to COVID-19,18555,WHITEMAN,AMBROSE,M,2/13/63,American Indian/Alaska Native
-North Dakota,2021,September,9/10/21,James River Correctional Center,Saddle pulmonary embolism (natural),37019,IRON HAWK,BRYCE,M,5/29/92,American Indian/Alaska Native
-North Dakota,2021,July,7/6/21,North Dakota State Penitentiary,Suicide,32497,CHARBONNEAU,JOSHUA,M,12/2/83,American Indian/Alaska Native
-North Dakota,2020,December,12/4/20,North Dakota State Penitentiary,Pneumonia due to COVID-19,17486,MILLER,TERRY,M,3/29/59,Caucasian
-North Dakota,2020,October,10/25/20,North Dakota State Penitentiary,Suicide,40417,MIKLAS,ANDREW,M,7/7/88,Caucasian
-North Dakota,2020,September,9/29/20,Community Placement Program,Suicide,47791,JANS,JOSHUA,M,11/3/95,Caucasian
-North Dakota,2020,August,8/13/20,North Dakota State Penitentiary,Hypertensive atherosclerotic cardiovascular disease,19272,KUNZE,DAVID,M,11/26/42,Caucasian
-North Dakota,2020,April,4/9/20,North Dakota State Penitentiary,Respiratory failure - Due to Medical Reasons,12328,OLSON,GARY,M,4/27/44,Caucasian
-North Dakota,2020,February,2/25/20,North Dakota State Penitentiary,HIV,24767,WALKER,TYSON,M,11/12/70,Caucasian
-North Dakota,2020,February,2/14/20,Nevada - Out-of-state transfer but a ND inmate,Cancer,15293,KELLEY,JAMES,M,7/31/47,Caucasian
-North Dakota,2019,March,3/16/19,North Dakota State Penitentiary,Sepsis due to Pneumonia,21841,WILLOUGHBY,ARTHUR,M,6/4/60,Caucasian
-North Dakota,2017,December,12/13/17,James River Correctional Center,Suicide,36507,LEHMAN,DUSTIN,M,4/11/75,Caucasian
-North Dakota,2017,October,10/11/17,Missouri River Correctional Center,Septic shock - HIV and streptococcal infection,33300,MEHRING,DAVID,M,1/18/57,Caucasian
-North Dakota,2016,October,10/10/16,North Dakota State Penitentiary,Cancer,18699,SYVERTSON,CHARLES,M,4/1/61,Caucasian
-North Dakota,2016,September,9/22/16,North Dakota State Penitentiary,Suicide,45153,RACINE,SHANE,M,1/20/91,American Indian/Alaska Native
-North Dakota,2016,July,7/13/16,Dakota Women's Correctional and Rehabilitation Center,Suicide,15858,SCHMIDT,JAYTA,F,10/14/63,Caucasian
-North Dakota,2016,May,5/15/16,North Dakota State Penitentiary,Cancer,40189,STRAIGHT,JOHN,M,3/22/71,Caucasian
-North Dakota,2013,September,9/18/13,North Dakota State Penitentiary,Cancer,12273,WELLS,MARK,M,10/24/54,American Indian/Alaska Native
-North Dakota,2012,November,11/19/12,North Dakota State Penitentiary,Gastrointestinal bleeding and hepatic failure,18614,EAGLE THUNDER,WILLARD,M,11/7/57,American Indian/Alaska Native
-North Dakota,2012,April,4/8/12,North Dakota State Penitentiary,Suicide,24097,WAHUS,MATTHEW,M,9/17/84,Caucasian
-North Dakota,2012,January,1/16/12,North Dakota State Penitentiary,Anemia (natural causes),37556,FOYT,MICHAEL,M,8/24/82,Caucasian
-North Dakota,2011,July,7/1/11,James River Correctional Center,Heart Disease,35052,PALMER,HAROLD,M,7/15/45,Caucasian
-North Dakota,2010,January,1/29/10,North Dakota State Penitentiary,Cancer,17650,SEARLES,EUGENE,M,2/2/59,American Indian/Alaska Native
-North Dakota,2008,September,9/14/08,North Dakota State Penitentiary,Cancer,31695,MURPHY,SHAWN,M,3/20/63,Caucasian
-North Dakota,2008,February,2/29/08,Missouri River Correctional Center,Heart attack,24209,KING,ROBERT,M,6/9/67,Black/African American
-North Dakota,2006,July,7/26/06,North Dakota State Penitentiary,Cancer,21751,WILSON,JESSIE,M,12/10/54,Caucasian
-North Dakota,2005,May,5/6/05,North Dakota State Penitentiary,Liver issues caused by Hep C,23683,COX,DENNIS,M,12/25/51,Caucasian
-North Dakota,2004,December,12/31/04,North Dakota State Penitentiary,Suicide,21391,MONETTE,TODD,M,11/30/68,Caucasian
-North Dakota,2004,May,5/29/04,North Dakota State Penitentiary,Cancer,22480,FOWLER,MELVIN,M,12/17/32,Caucasian
-North Dakota,2003,February,2/1/03,James River Correctional Center,Suicide,21723,GRIFFITH,ERIC,M,12/18/79,Caucasian
-North Dakota,2002,March,3/15/02,North Dakota State Penitentiary,Heart attack,11003,VOGEL,AUGUST,M,6/8/31,Caucasian
-North Dakota,2001,June,6/25/01,North Dakota State Penitentiary,Heart attack,21460,NORGREN,MICHAEL,M,11/9/46,Caucasian
-North Dakota,2001,May,5/31/01,North Dakota State Penitentiary,Hepatitis,17234,ENSMINGER,ROBERT,M,4/9/55,Caucasian
-North Dakota,2001,February,2/12/01,Missouri River Correctional Center,Heart attack,20777,GREGG,ROBERT,M,4/6/59,Caucasian
-North Dakota,2000,November,11/12/00,North Dakota State Penitentiary,Liver disease,20323,DUNWOODIE,TIM,M,7/11/61,Caucasian
-North Dakota,2000,February,2/23/00,James River Correctional Center,Suicide,15970,KUYPERS,DIRK,M,11/29/69,Caucasian
-North Dakota,1998,December,12/7/98,North Dakota State Penitentiary,Cancer,16324,GANGELHOFF,ELMER,M,9/30/31,Caucasian
-North Dakota,1997,October,10/28/97,North Dakota State Penitentiary,Heart Attack,16629,MURI,ELMER,M,5/24/45,Caucasian
+"State","Year","Month","Death.Date","Facility","Circumstance.Specific","ID.No","Last.Name","First.Name","Sex","DoB","Race","UCLA.ID"
+"North Dakota",1997,"October","1997-10-28","North Dakota State Penitentiary","Heart Attack",16629,"MURI","ELMER","M","2045-05-24","Caucasian",NA
+"North Dakota",1998,"December","1998-12-07","North Dakota State Penitentiary","Cancer",16324,"GANGELHOFF","ELMER","M","2031-09-30","Caucasian",NA
+"North Dakota",2000,"February","2000-02-23","James River Correctional Center","Suicide",15970,"KUYPERS","DIRK","M","1969-11-29","Caucasian",NA
+"North Dakota",2000,"November","2000-11-12","North Dakota State Penitentiary","Liver disease",20323,"DUNWOODIE","TIM","M","2061-07-11","Caucasian",NA
+"North Dakota",2001,"February","2001-02-12","Missouri River Correctional Center","Heart attack",20777,"GREGG","ROBERT","M","2059-04-06","Caucasian",NA
+"North Dakota",2001,"May","2001-05-31","North Dakota State Penitentiary","Hepatitis",17234,"ENSMINGER","ROBERT","M","2055-04-09","Caucasian",NA
+"North Dakota",2001,"June","2001-06-25","North Dakota State Penitentiary","Heart attack",21460,"NORGREN","MICHAEL","M","2046-11-09","Caucasian",NA
+"North Dakota",2002,"March","2002-03-15","North Dakota State Penitentiary","Heart attack",11003,"VOGEL","AUGUST","M","2031-06-08","Caucasian",NA
+"North Dakota",2003,"February","2003-02-01","James River Correctional Center","Suicide",21723,"GRIFFITH","ERIC","M","1979-12-18","Caucasian",NA
+"North Dakota",2004,"May","2004-05-29","North Dakota State Penitentiary","Cancer",22480,"FOWLER","MELVIN","M","2032-12-17","Caucasian",NA
+"North Dakota",2004,"December","2004-12-31","North Dakota State Penitentiary","Suicide",21391,"MONETTE","TODD","M","2068-11-30","Caucasian",NA
+"North Dakota",2005,"May","2005-05-06","North Dakota State Penitentiary","Liver issues caused by Hep C",23683,"COX","DENNIS","M","2051-12-25","Caucasian",NA
+"North Dakota",2006,"July","2006-07-26","North Dakota State Penitentiary","Cancer",21751,"WILSON","JESSIE","M","2054-12-10","Caucasian",NA
+"North Dakota",2008,"February","2008-02-29","Missouri River Correctional Center","Heart attack",24209,"KING","ROBERT","M","2067-06-09","Black/African American",NA
+"North Dakota",2008,"September","2008-09-14","North Dakota State Penitentiary","Cancer",31695,"MURPHY","SHAWN","M","2063-03-20","Caucasian",NA
+"North Dakota",2010,"January","2010-01-29","North Dakota State Penitentiary","Cancer",17650,"SEARLES","EUGENE","M","2059-02-02","American Indian/Alaska Native",NA
+"North Dakota",2011,"July","2011-07-01","James River Correctional Center","Heart Disease",35052,"PALMER","HAROLD","M","2045-07-15","Caucasian",NA
+"North Dakota",2012,"January","2012-01-16","North Dakota State Penitentiary","Anemia (natural causes)",37556,"FOYT","MICHAEL","M","1982-08-24","Caucasian",NA
+"North Dakota",2012,"April","2012-04-08","North Dakota State Penitentiary","Suicide",24097,"WAHUS","MATTHEW","M","1984-09-17","Caucasian",NA
+"North Dakota",2012,"November","2012-11-19","North Dakota State Penitentiary","Gastrointestinal bleeding and hepatic failure",18614,"EAGLE THUNDER","WILLARD","M","2057-11-07","American Indian/Alaska Native",NA
+"North Dakota",2013,"September","2013-09-18","North Dakota State Penitentiary","Cancer",12273,"WELLS","MARK","M","2054-10-24","American Indian/Alaska Native",NA
+"North Dakota",2016,"May","2016-05-15","North Dakota State Penitentiary","Cancer",40189,"STRAIGHT","JOHN","M","1971-03-22","Caucasian",NA
+"North Dakota",2016,"July","2016-07-13","Dakota Women's Correctional and Rehabilitation Center","Suicide",15858,"SCHMIDT","JAYTA","F","2063-10-14","Caucasian",NA
+"North Dakota",2016,"September","2016-09-22","North Dakota State Penitentiary","Suicide",45153,"RACINE","SHANE","M","1991-01-20","American Indian/Alaska Native",NA
+"North Dakota",2016,"October","2016-10-10","North Dakota State Penitentiary","Cancer",18699,"SYVERTSON","CHARLES","M","2061-04-01","Caucasian",NA
+"North Dakota",2017,"October","2017-10-11","Missouri River Correctional Center","Septic shock - HIV and streptococcal infection",33300,"MEHRING","DAVID","M","2057-01-18","Caucasian",NA
+"North Dakota",2017,"December","2017-12-13","James River Correctional Center","Suicide",36507,"LEHMAN","DUSTIN","M","1975-04-11","Caucasian",NA
+"North Dakota",2019,"March","2019-03-16","North Dakota State Penitentiary","Sepsis due to Pneumonia",21841,"WILLOUGHBY","ARTHUR","M","2060-06-04","Caucasian",NA
+"North Dakota",2020,"February","2020-02-14","Nevada - Out-of-state transfer but a ND inmate","Cancer",15293,"KELLEY","JAMES","M","2047-07-31","Caucasian",NA
+"North Dakota",2020,"February","2020-02-25","North Dakota State Penitentiary","HIV",24767,"WALKER","TYSON","M","1970-11-12","Caucasian",NA
+"North Dakota",2020,"April","2020-04-09","North Dakota State Penitentiary","Respiratory failure - Due to Medical Reasons",12328,"OLSON","GARY","M","2044-04-27","Caucasian",NA
+"North Dakota",2020,"August","2020-08-13","North Dakota State Penitentiary","Hypertensive atherosclerotic cardiovascular disease",19272,"KUNZE","DAVID","M","2042-11-26","Caucasian",NA
+"North Dakota",2020,"September","2020-09-29","Community Placement Program","Suicide",47791,"JANS","JOSHUA","M","1995-11-03","Caucasian",NA
+"North Dakota",2020,"October","2020-10-25","North Dakota State Penitentiary","Suicide",40417,"MIKLAS","ANDREW","M","1988-07-07","Caucasian",NA
+"North Dakota",2020,"December","2020-12-04","North Dakota State Penitentiary","Pneumonia due to COVID-19",17486,"MILLER","TERRY","M","2059-03-29","Caucasian",NA
+"North Dakota",2021,"July","2021-07-06","North Dakota State Penitentiary","Suicide",32497,"CHARBONNEAU","JOSHUA","M","1983-12-02","American Indian/Alaska Native",NA
+"North Dakota",2021,"September","2021-09-10","James River Correctional Center","Saddle pulmonary embolism (natural)",37019,"IRON HAWK","BRYCE","M","1992-05-29","American Indian/Alaska Native",NA
+"North Dakota",2021,"October","2021-10-04","North Dakota State Penitentiary","Pneumonia due to COVID-19",18555,"WHITEMAN","AMBROSE","M","2063-02-13","American Indian/Alaska Native",NA
+"North Dakota",2021,"October","2021-10-28","WY - Out-of-state transfer but a ND inmate","Acute respiratory failure due to COVID-19",13756,"ALFORD","HARRY","M","2056-05-08","Caucasian",NA
+"North Dakota",2022,"January","2022-01-31","North Dakota State Penitentiary","Metastatic rectosigmoid adenocarcinoma",35891,"BORGEN","LEO","M","2065-10-19","Caucasian",NA
