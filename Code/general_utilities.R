@@ -972,14 +972,6 @@ calculate_monthly_rate <- function(pop.source) {
         mutate(Rate = Deaths/Population*10000,
                Deaths = ifelse((Year<=2020)&is.na(Deaths), 0, Deaths),
                Rate = ifelse((Year<=2020)&is.na(Rate), 0, Rate))  %>%
-        #arrange(desc(Rate)) %>%
-        #arrange(State, Year) %>%
-        #group_by(State, Year) %>%
-        #mutate(Percent.Rate.Change = Rate-lag(Rate)/Rate,
-        #       Death.Change = Deaths-lag(Deaths),
-        #       Population.Change = Population-lag(Population),
-        #       Percent.Death.Change = Deaths-lag(Deaths)/Deaths
-        #) %>%
         arrange(desc(Rate))
     
     return(combined)
@@ -988,16 +980,6 @@ calculate_monthly_rate <- function(pop.source) {
 
 calculate_annual_rate <- function(pop.source) {
     summary <- summarize_ucla_data()
-    #states.w.dem <- summary %>%
-    #    subset(!str_detect('No', Demographics) &
-    #               !str_detect('No', Year) &
-    #               !str_detect('IA', State.Abb) &
-    #               !str_detect('WA', State.Abb) &
-    #               !str_detect('WV', State.Abb) &
-    #               !str_detect('AR', State.Abb) &
-    #               !str_detect('VA', State.Abb) &
-    #               !str_detect('SC', State.Abb)
-    #           ) # Iowa has weird dem data 
     
     # Process Demographic Data
     if(pop.source == 'UCLA') {
@@ -1048,45 +1030,44 @@ calculate_annual_rate <- function(pop.source) {
             rbindlist(fill = TRUE) 
     )
     
-    suppressMessages(
-        annual.states <- read.deaths %>%
-            subset(!is.na(Month) & State == 'Wyoming') %>% # one NA obs for WY we are removing for now
-            subset(is.na(Month)) %>%
-            select(State) %>%
-            unique()
-    )
+    annual.states <- summarize_ucla_data() %>%
+        subset(Month != 'Yes' & Year == 'Yes' & State.Name != 'Wyoming')
     
-    annual.states <- annual.states$State
+    annual.states <- annual.states$State.Name 
+    other.states <- read.deaths %>%
+        select(State) %>%
+        unique()
     
+    annual.to.load <- other.states %>%
+        filter(State %in% annual.states)
+    
+    if(length(annual.to.load) == 0) {
+        clean.deaths <- read.deaths %>%
+            group_by(State, Year) %>%
+            summarise(Deaths = n())
+    } else {
     suppressMessages( 
         clean.deaths.non.annual <- read.deaths %>%
             filter(!(State %in% annual.states)) %>%
             group_by(State, Year) %>%
             summarise(Deaths = n())
     )
-        
     suppressMessages( 
         clean.deaths.annual <- read.deaths %>%
             filter(State %in% annual.states) %>%
             group_by(State, Year) %>%
             summarise(Deaths = sum(Total.Deaths, na.rm = TRUE))
     )
-    
     clean.deaths <- clean.deaths.non.annual %>%
         plyr::rbind.fill(clean.deaths.annual)
+    
+    }
     
     
     combined <- clean.population %>%
         left_join(., clean.deaths, by = c('State', 'Year')) %>%
         mutate(Rate = Deaths/Population*10000,
                Deaths = ifelse((Year<=2020)&is.na(Deaths), 0, Deaths))  %>%
-        #arrange(desc(Rate)) %>%
-        #arrange(State, Year) %>%
-        #group_by(State, Year) %>%
-        #mutate(Percent.Rate.Change = Rate-lag(Rate)/Rate,
-        #       Death.Change = Deaths-lag(Deaths),
-        #       Population.Change = Population-lag(Population),
-        #       Percent.Death.Change = Deaths-lag(Deaths)/Deaths) %>%
         arrange(desc(Rate))
     
     return(combined)
