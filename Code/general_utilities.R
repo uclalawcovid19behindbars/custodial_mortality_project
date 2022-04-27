@@ -1041,14 +1041,14 @@ calculate_annual_rate <- function(pop.source) {
     annual.to.load <- other.states %>%
         filter(State %in% annual.states)
     
-    if(length(annual.to.load) == 0) {
+    if(length(row.names(annual.to.load)) == 0) {
         clean.deaths <- read.deaths %>%
             group_by(State, Year) %>%
             summarise(Deaths = n())
     } else {
     suppressMessages( 
         clean.deaths.non.annual <- read.deaths %>%
-            filter(!(State %in% annual.states)) %>%
+           filter(!(State %in% annual.states)) %>%
             group_by(State, Year) %>%
             summarise(Deaths = n())
     )
