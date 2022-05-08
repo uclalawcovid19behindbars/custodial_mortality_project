@@ -44,6 +44,10 @@ ggplot() +
     geom_line(data = ga.deaths %>% group_by(Year, Month) %>% summarise(Total.Deaths = n()) %>% 
                   mutate(Date = as.Date(str_c(Year,Month,'01'), format = '%Y%B%d')),
               aes(x = Date, y = Total.Deaths)
+              ) +
+    geom_smooth(data = ga.deaths %>% group_by(Year, Month) %>% summarise(Total.Deaths = n()) %>% 
+                  mutate(Date = as.Date(str_c(Year,Month,'01'), format = '%Y%B%d')),
+              aes(x = Date, y = Total.Deaths)
               )
 
 ```
