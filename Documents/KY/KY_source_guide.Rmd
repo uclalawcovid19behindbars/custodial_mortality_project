@@ -1,0 +1,59 @@
+---
+title: "KY_source_guide"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Load Environment
+
+```{r}
+# Load relevent packages and functions
+library(tidyverse)
+source('Code/general_utilities.R') # Note you may have to change your Rmarkdown option for evaluate chunks to project instead of document
+options(scipen=10)
+```
+
+## Decedent Data
+
+UCLA obtains custodial decedent data for Kentucky state prisons from public records requests to the Kentucky Department of Corrections.
+
+Example files included in corresponding documents folder. 
+
+Some processing of the files takes place, including the selection of corresponding variables and linking data to UCLA datasets. 
+
+```{r}
+# Load KY decedent data
+ky.deaths <- read_ucla_deaths(agencies = 'KY')
+
+# Show variables present in KY decedent data
+colnames(ky.deaths)
+
+# UCLA.ID is present - join UCLA facility data
+ky.deaths %>%
+    pull_ucla_fac_data()
+
+# Compare UCLA data with BJS data
+compare_ucla_bjs() %>%
+    subset(State == 'Kentucky') %>%
+    arrange(desc(Year))
+
+# Plot KY decedent data (wrangled to monthly numbers)
+ggplot() +
+    geom_line(data = ky.deaths %>% group_by(Year, Month) %>% summarise(Total.Deaths = n()) %>% 
+                  mutate(Date = as.Date(str_c(Year,Month,'01'), format = '%Y%B%d')),
+              aes(x = Date, y = Total.Deaths)
+              ) +
+    geom_smooth(data = ky.deaths %>% group_by(Year, Month) %>% summarise(Total.Deaths = n()) %>% 
+                  mutate(Date = as.Date(str_c(Year,Month,'01'), format = '%Y%B%d')),
+              aes(x = Date, y = Total.Deaths)
+              )
+
+```
+
+
+## Demographic Data
+
+UCLA currently does not have demographic data processed for Kentucky state prisons. Please wait for the next update to this data. 
