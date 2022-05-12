@@ -1,0 +1,59 @@
+---
+title: "OH_source_guide"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Load Environment
+
+```{r}
+# Load relevent packages and functions
+library(tidyverse)
+source('Code/general_utilities.R') # Note you may have to change your Rmarkdown option for evaluate chunks to project instead of document
+options(scipen=10)
+```
+
+## Decedent Data
+
+UCLA obtains custodial decedent data for Ohio state prisons from public records requests to the Ohio Department of Corrections.
+
+Example files included in corresponding documents folder. 
+
+Some processing of the files takes place, including the selection of corresponding variables and linking data to UCLA datasets. 
+
+```{r}
+# Load OH decedent data
+oh.deaths <- read_ucla_deaths(agencies = 'OH')
+
+# Show variables present in OH decedent data
+colnames(oh.deaths)
+
+# UCLA.ID is present - join UCLA facility data
+oh.deaths %>%
+    pull_ucla_fac_data()
+
+# Compare UCLA data with BJS data
+compare_ucla_bjs() %>%
+    subset(State == 'Ohio') %>%
+    arrange(desc(Year))
+
+# Plot OH decedent data (wrangled to monthly numbers)
+ggplot() +
+    geom_line(data = oh.deaths %>% group_by(Year, Month) %>% summarise(Total.Deaths = n()) %>% 
+                  mutate(Date = as.Date(str_c(Year,Month,'01'), format = '%Y%B%d')),
+              aes(x = Date, y = Total.Deaths)
+              ) +
+    geom_smooth(data = oh.deaths %>% group_by(Year, Month) %>% summarise(Total.Deaths = n()) %>% 
+                  mutate(Date = as.Date(str_c(Year,Month,'01'), format = '%Y%B%d')),
+              aes(x = Date, y = Total.Deaths)
+              )
+
+```
+
+
+## Demographic Data
+
+UCLA currently does not have demographic data processed for Ohio state prisons. Please wait for the next update to this data. 
