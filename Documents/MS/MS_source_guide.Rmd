@@ -1,0 +1,59 @@
+---
+title: "MS_source_guide"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Load Environment
+
+```{r}
+# Load relevent packages and functions
+library(tidyverse)
+source('Code/general_utilities.R') # Note you may have to change your Rmarkdown option for evaluate chunks to project instead of document
+options(scipen=10)
+```
+
+## Decedent Data
+
+UCLA obtains custodial decedent data for Mississippi state prisons from public records requests to the Mississippi Department of Corrections.
+
+Example files included in corresponding documents folder. 
+
+Some processing of the files takes place, including the selection of corresponding variables and linking data to UCLA datasets. 
+
+```{r}
+# Load MS decedent data
+ms.deaths <- read_ucla_deaths(agencies = 'MS')
+
+# Show variables present in MS decedent data
+colnames(ms.deaths)
+
+# UCLA.ID is present - join UCLA facility data
+ms.deaths %>%
+    pull_ucla_fac_data()
+
+# Compare UCLA data with BJS data
+compare_ucla_bjs() %>%
+    subset(State == 'Mississippi') %>%
+    arrange(desc(Year))
+
+# Plot MS decedent data (wrangled to monthly numbers)
+ggplot() +
+    geom_line(data = ms.deaths %>% group_by(Year, Month) %>% summarise(Total.Deaths = n()) %>% 
+                  mutate(Date = as.Date(str_c(Year,Month,'01'), format = '%Y%B%d')),
+              aes(x = Date, y = Total.Deaths)
+              ) +
+    geom_smooth(data = ms.deaths %>% group_by(Year, Month) %>% summarise(Total.Deaths = n()) %>% 
+                  mutate(Date = as.Date(str_c(Year,Month,'01'), format = '%Y%B%d')),
+              aes(x = Date, y = Total.Deaths)
+              )
+
+```
+
+
+## Demographic Data
+
+UCLA currently does not have demographic data processed for Mississippi state prisons. Please wait for the next update to this data. 
