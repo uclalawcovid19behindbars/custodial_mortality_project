@@ -69,7 +69,7 @@ ma.demographics <- harmonize_ucla_dem(agencies = 'MA')
 # Show MA demographic data to assess origin type
 head(ma.demographics)
 
-# The origin type is combined. This means that age and sex groups were aggregated and reported together.  
+# The origin type is distinct. This means that age groups were reported seperately from sex groups for demographic data. In order to construct age and sex groups for a date from this distinct data, we applied reported sex ratios to each age group. This assumption is likely incorrect.
 
 # Plot MA demographic data 
 ggplot() +
