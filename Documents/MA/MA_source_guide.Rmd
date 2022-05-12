@@ -1,0 +1,82 @@
+---
+title: "MA_source_guide"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Load Environment
+
+```{r}
+# Load relevent packages and functions
+library(tidyverse)
+source('Code/general_utilities.R') # Note you may have to change your Rmarkdown option for evaluate chunks to project instead of document
+options(scipen=10)
+```
+
+## Decedent Data
+
+UCLA obtains custodial decedent data for Massachusetts state prisons from public records requests to the Massachusetts Department of Correction.
+
+Example files included in corresponding documents folder.
+
+Some processing of the files takes place, including the selection of corresponding variables and linking data to UCLA datasets. 
+
+```{r}
+# Load MA decedent data
+ma.deaths <- harmonize_ucla_deaths(agencies = 'MA')
+
+# Show variables present in MA decedent data
+colnames(ma.deaths)
+
+# UCLA.ID is present - join UCLA facility data
+ma.deaths %>%
+    pull_ucla_fac_data()
+
+# Compare UCLA data with BJS data
+compare_ucla_bjs() %>%
+    subset(State == 'Massachusetts') %>%
+    arrange(desc(Year))
+
+# Plot MA decedent data (wrangled to monthly numbers)
+ggplot() +
+    geom_line(data = ma.deaths %>% group_by(Year, Month) %>% summarise(Total.Deaths = n()) %>% 
+                  mutate(Date = as.Date(str_c(Year,Month,'01'), format = '%Y%B%d')),
+              aes(x = Date, y = Total.Deaths)
+              ) +
+    geom_smooth(data = ma.deaths %>% group_by(Year, Month) %>% summarise(Total.Deaths = n()) %>% 
+                  mutate(Date = as.Date(str_c(Year,Month,'01'), format = '%Y%B%d')),
+              aes(x = Date, y = Total.Deaths)
+              )
+
+```
+
+
+## Demographic Data
+
+UCLA obtains custodial demographic data for Massachusetts state prisons from annual population reports from the Massachusetts Department of Correction.
+
+Example files in corresponding folder and links to reports in raw data file.
+
+Some processing of the files takes place. 
+
+```{r}
+# Load MA demographic data
+ma.demographics <- harmonize_ucla_dem(agencies = 'MA')
+
+# Show MA demographic data to assess origin type
+head(ma.demographics)
+
+# The origin type is combined. This means that age and sex groups were aggregated and reported together.  
+
+# Plot MA demographic data 
+ggplot() +
+    geom_bar(data = ma.demographics %>% group_by(Date, Age) %>% summarise(Number = sum(Number, na.rm = TRUE)),
+             aes(x = Date, y = Number, fill = Age), stat = 'identity') +
+    theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1)) # To see dates on x axis
+
+
+
+```
