@@ -28,7 +28,7 @@ Some processing of the files takes place, including the selection of correspondi
 # Load HI decedent data
 hi.deaths <- read_ucla_deaths(agencies = 'HI')
 
-# Show variables present in RI decedent data
+# Show variables present in HI decedent data
 colnames(hi.deaths)
 
 # UCLA.ID is not present - please wait for data update to join UCLA facility data
@@ -38,7 +38,7 @@ compare_ucla_bjs() %>%
     subset(State == 'Hawaii') %>%
     arrange(desc(Year))
 
-# Plot HI decedent data (wrangled to monthly numbers)
+# Plot HI decedent data 
 ggplot() +
     geom_line(data = hi.deaths,aes(x = Year, y = Total.Deaths)) +
     geom_smooth(data = hi.deaths, aes(x = Year, y = Total.Deaths))
