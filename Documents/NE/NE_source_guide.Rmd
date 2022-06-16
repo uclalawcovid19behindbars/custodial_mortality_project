@@ -1,0 +1,52 @@
+---
+title: "NE_source_guide"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Load Environment
+
+```{r}
+# Load relevent packages and functions
+library(tidyverse)
+source('Code/general_utilities.R') # Note you may have to change your Rmarkdown option for evaluate chunks to project instead of document
+options(scipen=10)
+```
+
+## Decedent Data
+
+UCLA obtains custodial decedent data for Nebraska state prisons from public records requests to the Nebraska Department of Correctional Services.
+
+Example files included in corresponding documents folder. 
+
+Some processing of the files takes place, including the selection of corresponding variables and linking data to UCLA datasets. 
+
+```{r}
+# Load NE decedent data
+ne.deaths <- read_ucla_deaths(agencies = 'NE')
+
+# Show variables present in NE decedent data
+colnames(ne.deaths)
+
+# UCLA.ID is not present - please wait for data update to join UCLA facility data
+
+# Compare UCLA data with BJS data
+compare_ucla_bjs() %>%
+    subset(State == 'Nebraska') %>%
+    arrange(desc(Year))
+
+# Plot NE decedent data 
+ggplot() +
+    geom_line(data = ne.deaths,aes(x = Year, y = Total.Deaths)) +
+    geom_smooth(data = ne.deaths, aes(x = Year, y = Total.Deaths))
+
+```
+
+
+## Demographic Data
+
+UCLA currently does not have demographic data processed for Nebraska state prisons. Please wait for the next update to this data. 
+
