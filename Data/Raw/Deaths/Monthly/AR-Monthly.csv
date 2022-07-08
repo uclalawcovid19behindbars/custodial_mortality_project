@@ -1,925 +1,925 @@
-State,Year,Month,Facility,Total.Deaths
-Arkansas,2015,January,Cummins,2
-Arkansas,2015,January,Delta,0
-Arkansas,2015,January,EARU,0
-Arkansas,2015,January,Grimes,0
-Arkansas,2015,January,McPherson,0
-Arkansas,2015,January,MSU,0
-Arkansas,2015,January,NCU,0
-Arkansas,2015,January,ORCU,5
-Arkansas,2015,January,ORCU(SNU),0
-Arkansas,2015,January,ORCU/NEW,0
-Arkansas,2015,January,PBU,0
-Arkansas,2015,January,RLW,0
-Arkansas,2015,January,RLWCF,0
-Arkansas,2015,January,Tucker,1
-Arkansas,2015,January,WSU,0
-Arkansas,2015,February,Cummins,0
-Arkansas,2015,February,Delta,1
-Arkansas,2015,February,EARU,1
-Arkansas,2015,February,Grimes,0
-Arkansas,2015,February,McPherson,2
-Arkansas,2015,February,MSU,0
-Arkansas,2015,February,NCU,0
-Arkansas,2015,February,ORCU,3
-Arkansas,2015,February,ORCU(SNU),0
-Arkansas,2015,February,ORCU/NEW,0
-Arkansas,2015,February,PBU,0
-Arkansas,2015,February,RLW,0
-Arkansas,2015,February,RLWCF,0
-Arkansas,2015,February,Tucker,0
-Arkansas,2015,February,WSU,0
-Arkansas,2015,March,Cummins,0
-Arkansas,2015,March,Delta,0
-Arkansas,2015,March,EARU,2
-Arkansas,2015,March,Grimes,0
-Arkansas,2015,March,McPherson,0
-Arkansas,2015,March,MSU,0
-Arkansas,2015,March,NCU,0
-Arkansas,2015,March,ORCU,5
-Arkansas,2015,March,ORCU(SNU),0
-Arkansas,2015,March,ORCU/NEW,0
-Arkansas,2015,March,PBU,0
-Arkansas,2015,March,RLW,0
-Arkansas,2015,March,RLWCF,0
-Arkansas,2015,March,Tucker,0
-Arkansas,2015,March,WSU,0
-Arkansas,2015,April,Cummins,0
-Arkansas,2015,April,Delta,0
-Arkansas,2015,April,EARU,1
-Arkansas,2015,April,Grimes,0
-Arkansas,2015,April,McPherson,0
-Arkansas,2015,April,MSU,0
-Arkansas,2015,April,NCU,0
-Arkansas,2015,April,ORCU,5
-Arkansas,2015,April,ORCU(SNU),0
-Arkansas,2015,April,ORCU/NEW,0
-Arkansas,2015,April,PBU,0
-Arkansas,2015,April,RLW,0
-Arkansas,2015,April,RLWCF,0
-Arkansas,2015,April,Tucker,0
-Arkansas,2015,April,WSU,0
-Arkansas,2015,May,Cummins,0
-Arkansas,2015,May,Delta,0
-Arkansas,2015,May,EARU,0
-Arkansas,2015,May,Grimes,0
-Arkansas,2015,May,McPherson,0
-Arkansas,2015,May,MSU,0
-Arkansas,2015,May,NCU,0
-Arkansas,2015,May,ORCU,1
-Arkansas,2015,May,ORCU(SNU),0
-Arkansas,2015,May,ORCU/NEW,0
-Arkansas,2015,May,PBU,0
-Arkansas,2015,May,RLW,0
-Arkansas,2015,May,RLWCF,0
-Arkansas,2015,May,Tucker,0
-Arkansas,2015,May,WSU,0
-Arkansas,2015,June,Cummins,1
-Arkansas,2015,June,Delta,0
-Arkansas,2015,June,EARU,0
-Arkansas,2015,June,Grimes,1
-Arkansas,2015,June,McPherson,0
-Arkansas,2015,June,MSU,0
-Arkansas,2015,June,NCU,0
-Arkansas,2015,June,ORCU,0
-Arkansas,2015,June,ORCU(SNU),0
-Arkansas,2015,June,ORCU/NEW,1
-Arkansas,2015,June,PBU,0
-Arkansas,2015,June,RLW,1
-Arkansas,2015,June,RLWCF,0
-Arkansas,2015,June,Tucker,0
-Arkansas,2015,June,WSU,1
-Arkansas,2015,July,Cummins,0
-Arkansas,2015,July,Delta,0
-Arkansas,2015,July,EARU,0
-Arkansas,2015,July,Grimes,0
-Arkansas,2015,July,McPherson,0
-Arkansas,2015,July,MSU,0
-Arkansas,2015,July,NCU,1
-Arkansas,2015,July,ORCU,0
-Arkansas,2015,July,ORCU(SNU),1
-Arkansas,2015,July,ORCU/NEW,0
-Arkansas,2015,July,PBU,0
-Arkansas,2015,July,RLW,0
-Arkansas,2015,July,RLWCF,0
-Arkansas,2015,July,Tucker,0
-Arkansas,2015,July,WSU,0
-Arkansas,2015,August,Cummins,0
-Arkansas,2015,August,Delta,0
-Arkansas,2015,August,EARU,1
-Arkansas,2015,August,Grimes,0
-Arkansas,2015,August,McPherson,1
-Arkansas,2015,August,MSU,0
-Arkansas,2015,August,NCU,0
-Arkansas,2015,August,ORCU,0
-Arkansas,2015,August,ORCU(SNU),1
-Arkansas,2015,August,ORCU/NEW,0
-Arkansas,2015,August,PBU,0
-Arkansas,2015,August,RLW,0
-Arkansas,2015,August,RLWCF,0
-Arkansas,2015,August,Tucker,1
-Arkansas,2015,August,WSU,0
-Arkansas,2015,September,Cummins,0
-Arkansas,2015,September,Delta,0
-Arkansas,2015,September,EARU,0
-Arkansas,2015,September,Grimes,0
-Arkansas,2015,September,McPherson,0
-Arkansas,2015,September,MSU,0
-Arkansas,2015,September,NCU,0
-Arkansas,2015,September,ORCU,0
-Arkansas,2015,September,ORCU(SNU),0
-Arkansas,2015,September,ORCU/NEW,0
-Arkansas,2015,September,PBU,0
-Arkansas,2015,September,RLW,0
-Arkansas,2015,September,RLWCF,0
-Arkansas,2015,September,Tucker,0
-Arkansas,2015,September,WSU,0
-Arkansas,2015,October,Cummins,1
-Arkansas,2015,October,Delta,0
-Arkansas,2015,October,EARU,1
-Arkansas,2015,October,Grimes,0
-Arkansas,2015,October,McPherson,0
-Arkansas,2015,October,MSU,0
-Arkansas,2015,October,NCU,0
-Arkansas,2015,October,ORCU,0
-Arkansas,2015,October,ORCU(SNU),2
-Arkansas,2015,October,ORCU/NEW,0
-Arkansas,2015,October,PBU,0
-Arkansas,2015,October,RLW,0
-Arkansas,2015,October,RLWCF,0
-Arkansas,2015,October,Tucker,0
-Arkansas,2015,October,WSU,0
-Arkansas,2015,November,Cummins,0
-Arkansas,2015,November,Delta,0
-Arkansas,2015,November,EARU,1
-Arkansas,2015,November,Grimes,0
-Arkansas,2015,November,McPherson,0
-Arkansas,2015,November,MSU,1
-Arkansas,2015,November,NCU,0
-Arkansas,2015,November,ORCU,0
-Arkansas,2015,November,ORCU(SNU),0
-Arkansas,2015,November,ORCU/NEW,0
-Arkansas,2015,November,PBU,1
-Arkansas,2015,November,RLW,0
-Arkansas,2015,November,RLWCF,1
-Arkansas,2015,November,Tucker,0
-Arkansas,2015,November,WSU,0
-Arkansas,2015,December,Cummins,0
-Arkansas,2015,December,Delta,0
-Arkansas,2015,December,EARU,1
-Arkansas,2015,December,Grimes,0
-Arkansas,2015,December,McPherson,0
-Arkansas,2015,December,MSU,1
-Arkansas,2015,December,NCU,1
-Arkansas,2015,December,ORCU,3
-Arkansas,2015,December,ORCU(SNU),0
-Arkansas,2015,December,ORCU/NEW,0
-Arkansas,2015,December,PBU,0
-Arkansas,2015,December,RLW,0
-Arkansas,2015,December,RLWCF,0
-Arkansas,2015,December,Tucker,0
-Arkansas,2015,December,WSU,0
-Arkansas,2016,January,BCCC,0
-Arkansas,2016,January,Cummins,0
-Arkansas,2016,January,Delta,0
-Arkansas,2016,January,EARU,1
-Arkansas,2016,January,Grimes,0
-Arkansas,2016,January,MCPH,0
-Arkansas,2016,January,NCU,0
-Arkansas,2016,January,ORCU,3
-Arkansas,2016,January,Tucker,0
-Arkansas,2016,January,Varner,0
-Arkansas,2016,January,Writ,0
-Arkansas,2016,February,BCCC,0
-Arkansas,2016,February,Cummins,2
-Arkansas,2016,February,Delta,1
-Arkansas,2016,February,EARU,0
-Arkansas,2016,February,Grimes,0
-Arkansas,2016,February,MCPH,0
-Arkansas,2016,February,NCU,0
-Arkansas,2016,February,ORCU,4
-Arkansas,2016,February,Tucker,0
-Arkansas,2016,February,Varner,0
-Arkansas,2016,February,Writ,0
-Arkansas,2016,March,BCCC,0
-Arkansas,2016,March,Cummins,0
-Arkansas,2016,March,Delta,0
-Arkansas,2016,March,EARU,0
-Arkansas,2016,March,Grimes,0
-Arkansas,2016,March,MCPH,0
-Arkansas,2016,March,NCU,1
-Arkansas,2016,March,ORCU,2
-Arkansas,2016,March,Tucker,1
-Arkansas,2016,March,Varner,1
-Arkansas,2016,March,Writ,0
-Arkansas,2016,April,BCCC,0
-Arkansas,2016,April,Cummins,3
-Arkansas,2016,April,Delta,0
-Arkansas,2016,April,EARU,3
-Arkansas,2016,April,Grimes,0
-Arkansas,2016,April,MCPH,0
-Arkansas,2016,April,NCU,0
-Arkansas,2016,April,ORCU,2
-Arkansas,2016,April,Tucker,0
-Arkansas,2016,April,Varner,1
-Arkansas,2016,April,Writ,1
-Arkansas,2016,May,BCCC,0
-Arkansas,2016,May,Cummins,1
-Arkansas,2016,May,Delta,0
-Arkansas,2016,May,EARU,2
-Arkansas,2016,May,Grimes,0
-Arkansas,2016,May,MCPH,0
-Arkansas,2016,May,NCU,0
-Arkansas,2016,May,ORCU,4
-Arkansas,2016,May,Tucker,0
-Arkansas,2016,May,Varner,0
-Arkansas,2016,May,Writ,0
-Arkansas,2016,June,BCCC,1
-Arkansas,2016,June,Cummins,0
-Arkansas,2016,June,Delta,1
-Arkansas,2016,June,EARU,0
-Arkansas,2016,June,Grimes,0
-Arkansas,2016,June,MCPH,1
-Arkansas,2016,June,NCU,0
-Arkansas,2016,June,ORCU,2
-Arkansas,2016,June,Tucker,0
-Arkansas,2016,June,Varner,0
-Arkansas,2016,June,Writ,0
-Arkansas,2016,July,BCCC,0
-Arkansas,2016,July,Cummins,0
-Arkansas,2016,July,Delta,0
-Arkansas,2016,July,EARU,0
-Arkansas,2016,July,Grimes,0
-Arkansas,2016,July,MCPH,0
-Arkansas,2016,July,NCU,0
-Arkansas,2016,July,ORCU,3
-Arkansas,2016,July,Tucker,0
-Arkansas,2016,July,Varner,1
-Arkansas,2016,July,Writ,0
-Arkansas,2016,August,BCCC,0
-Arkansas,2016,August,Cummins,1
-Arkansas,2016,August,Delta,0
-Arkansas,2016,August,EARU,0
-Arkansas,2016,August,Grimes,1
-Arkansas,2016,August,MCPH,0
-Arkansas,2016,August,NCU,0
-Arkansas,2016,August,ORCU,3
-Arkansas,2016,August,Tucker,1
-Arkansas,2016,August,Varner,2
-Arkansas,2016,August,Writ,0
-Arkansas,2016,September,BCCC,0
-Arkansas,2016,September,Cummins,3
-Arkansas,2016,September,Delta,0
-Arkansas,2016,September,EARU,0
-Arkansas,2016,September,Grimes,0
-Arkansas,2016,September,MCPH,1
-Arkansas,2016,September,NCU,0
-Arkansas,2016,September,ORCU,2
-Arkansas,2016,September,Tucker,0
-Arkansas,2016,September,Varner,2
-Arkansas,2016,September,Writ,0
-Arkansas,2016,October,BCCC,0
-Arkansas,2016,October,Cummins,0
-Arkansas,2016,October,Delta,0
-Arkansas,2016,October,EARU,0
-Arkansas,2016,October,Grimes,0
-Arkansas,2016,October,MCPH,0
-Arkansas,2016,October,NCU,0
-Arkansas,2016,October,ORCU,2
-Arkansas,2016,October,Tucker,0
-Arkansas,2016,October,Varner,1
-Arkansas,2016,October,Writ,0
-Arkansas,2016,November,BCCC,0
-Arkansas,2016,November,Cummins,1
-Arkansas,2016,November,Delta,0
-Arkansas,2016,November,EARU,0
-Arkansas,2016,November,Grimes,0
-Arkansas,2016,November,MCPH,0
-Arkansas,2016,November,NCU,0
-Arkansas,2016,November,ORCU,1
-Arkansas,2016,November,Tucker,0
-Arkansas,2016,November,Varner,1
-Arkansas,2016,November,Writ,0
-Arkansas,2016,December,BCCC,1
-Arkansas,2016,December,Cummins,1
-Arkansas,2016,December,Delta,0
-Arkansas,2016,December,EARU,1
-Arkansas,2016,December,Grimes,0
-Arkansas,2016,December,MCPH,0
-Arkansas,2016,December,NCU,0
-Arkansas,2016,December,ORCU,5
-Arkansas,2016,December,Tucker,0
-Arkansas,2016,December,Varner,0
-Arkansas,2016,December,Writ,0
-Arkansas,2017,January,ACT 309,0
-Arkansas,2017,January,Cummins,0
-Arkansas,2017,January,Delta,0
-Arkansas,2017,January,EARU,0
-Arkansas,2017,January,Grimes,0
-Arkansas,2017,January,MSU,0
-Arkansas,2017,January,NCU,0
-Arkansas,2017,January,ORCU,1
-Arkansas,2017,January,PBU,0
-Arkansas,2017,January,Tucker,1
-Arkansas,2017,January,Varner,0
-Arkansas,2017,January,Wright,0
-Arkansas,2017,February,ACT 309,0
-Arkansas,2017,February,Cummins,0
-Arkansas,2017,February,Delta,0
-Arkansas,2017,February,EARU,1
-Arkansas,2017,February,Grimes,1
-Arkansas,2017,February,MSU,0
-Arkansas,2017,February,NCU,1
-Arkansas,2017,February,ORCU,2
-Arkansas,2017,February,PBU,0
-Arkansas,2017,February,Tucker,0
-Arkansas,2017,February,Varner,0
-Arkansas,2017,February,Wright,1
-Arkansas,2017,March,ACT 309,0
-Arkansas,2017,March,Cummins,1
-Arkansas,2017,March,Delta,2
-Arkansas,2017,March,EARU,0
-Arkansas,2017,March,Grimes,0
-Arkansas,2017,March,MSU,0
-Arkansas,2017,March,NCU,0
-Arkansas,2017,March,ORCU,5
-Arkansas,2017,March,PBU,1
-Arkansas,2017,March,Tucker,1
-Arkansas,2017,March,Varner,0
-Arkansas,2017,March,Wright,0
-Arkansas,2017,April,ACT 309,0
-Arkansas,2017,April,Cummins,2
-Arkansas,2017,April,Delta,0
-Arkansas,2017,April,EARU,1
-Arkansas,2017,April,Grimes,0
-Arkansas,2017,April,MSU,0
-Arkansas,2017,April,NCU,0
-Arkansas,2017,April,ORCU,1
-Arkansas,2017,April,PBU,0
-Arkansas,2017,April,Tucker,1
-Arkansas,2017,April,Varner,5
-Arkansas,2017,April,Wright,0
-Arkansas,2017,May,ACT 309,0
-Arkansas,2017,May,Cummins,1
-Arkansas,2017,May,Delta,0
-Arkansas,2017,May,EARU,1
-Arkansas,2017,May,Grimes,0
-Arkansas,2017,May,MSU,0
-Arkansas,2017,May,NCU,1
-Arkansas,2017,May,ORCU,0
-Arkansas,2017,May,PBU,0
-Arkansas,2017,May,Tucker,1
-Arkansas,2017,May,Varner,1
-Arkansas,2017,May,Wright,0
-Arkansas,2017,June,ACT 309,0
-Arkansas,2017,June,Cummins,3
-Arkansas,2017,June,Delta,0
-Arkansas,2017,June,EARU,2
-Arkansas,2017,June,Grimes,0
-Arkansas,2017,June,MSU,0
-Arkansas,2017,June,NCU,1
-Arkansas,2017,June,ORCU,0
-Arkansas,2017,June,PBU,0
-Arkansas,2017,June,Tucker,1
-Arkansas,2017,June,Varner,2
-Arkansas,2017,June,Wright,0
-Arkansas,2017,July,ACT 309,0
-Arkansas,2017,July,Cummins,0
-Arkansas,2017,July,Delta,0
-Arkansas,2017,July,EARU,1
-Arkansas,2017,July,Grimes,1
-Arkansas,2017,July,MSU,0
-Arkansas,2017,July,NCU,2
-Arkansas,2017,July,ORCU,5
-Arkansas,2017,July,PBU,0
-Arkansas,2017,July,Tucker,1
-Arkansas,2017,July,Varner,0
-Arkansas,2017,July,Wright,0
-Arkansas,2017,August,ACT 309,0
-Arkansas,2017,August,Cummins,1
-Arkansas,2017,August,Delta,0
-Arkansas,2017,August,EARU,2
-Arkansas,2017,August,Grimes,0
-Arkansas,2017,August,MSU,1
-Arkansas,2017,August,NCU,0
-Arkansas,2017,August,ORCU,3
-Arkansas,2017,August,PBU,0
-Arkansas,2017,August,Tucker,1
-Arkansas,2017,August,Varner,1
-Arkansas,2017,August,Wright,0
-Arkansas,2017,September,ACT 309,1
-Arkansas,2017,September,Cummins,4
-Arkansas,2017,September,Delta,0
-Arkansas,2017,September,EARU,1
-Arkansas,2017,September,Grimes,0
-Arkansas,2017,September,MSU,1
-Arkansas,2017,September,NCU,0
-Arkansas,2017,September,ORCU,2
-Arkansas,2017,September,PBU,0
-Arkansas,2017,September,Tucker,0
-Arkansas,2017,September,Varner,0
-Arkansas,2017,September,Wright,0
-Arkansas,2017,October,ACT 309,0
-Arkansas,2017,October,Cummins,0
-Arkansas,2017,October,Delta,0
-Arkansas,2017,October,EARU,1
-Arkansas,2017,October,Grimes,0
-Arkansas,2017,October,MSU,0
-Arkansas,2017,October,NCU,0
-Arkansas,2017,October,ORCU,1
-Arkansas,2017,October,PBU,0
-Arkansas,2017,October,Tucker,1
-Arkansas,2017,October,Varner,0
-Arkansas,2017,October,Wright,0
-Arkansas,2017,November,ACT 309,0
-Arkansas,2017,November,Cummins,1
-Arkansas,2017,November,Delta,0
-Arkansas,2017,November,EARU,0
-Arkansas,2017,November,Grimes,0
-Arkansas,2017,November,MSU,2
-Arkansas,2017,November,NCU,1
-Arkansas,2017,November,ORCU,2
-Arkansas,2017,November,PBU,0
-Arkansas,2017,November,Tucker,0
-Arkansas,2017,November,Varner,1
-Arkansas,2017,November,Wright,1
-Arkansas,2017,December,ACT 309,0
-Arkansas,2017,December,Cummins,1
-Arkansas,2017,December,Delta,0
-Arkansas,2017,December,EARU,0
-Arkansas,2017,December,Grimes,0
-Arkansas,2017,December,MSU,1
-Arkansas,2017,December,NCU,0
-Arkansas,2017,December,ORCU,1
-Arkansas,2017,December,PBU,0
-Arkansas,2017,December,Tucker,0
-Arkansas,2017,December,Varner,1
-Arkansas,2017,December,Wright,0
-Arkansas,2018,January,Cummins,1
-Arkansas,2018,January,EARU,0
-Arkansas,2018,January,EARU Max,0
-Arkansas,2018,January,Ester,1
-Arkansas,2018,January,Grimes,0
-Arkansas,2018,January,Max,0
-Arkansas,2018,January,McPherson,1
-Arkansas,2018,January,NCU,0
-Arkansas,2018,January,NWARWRC,0
-Arkansas,2018,January,ORCU,1
-Arkansas,2018,January,PBU,0
-Arkansas,2018,January,RLW,0
-Arkansas,2018,January,Tucker,0
-Arkansas,2018,January,Varner,0
-Arkansas,2018,January,VSM,1
-Arkansas,2018,January,Wrightsville,0
-Arkansas,2018,February,Cummins,0
-Arkansas,2018,February,EARU,1
-Arkansas,2018,February,EARU Max,0
-Arkansas,2018,February,Ester,0
-Arkansas,2018,February,Grimes,0
-Arkansas,2018,February,Max,0
-Arkansas,2018,February,McPherson,0
-Arkansas,2018,February,NCU,0
-Arkansas,2018,February,NWARWRC,0
-Arkansas,2018,February,ORCU,0
-Arkansas,2018,February,PBU,0
-Arkansas,2018,February,RLW,1
-Arkansas,2018,February,Tucker,1
-Arkansas,2018,February,Varner,0
-Arkansas,2018,February,VSM,0
-Arkansas,2018,February,Wrightsville,0
-Arkansas,2018,March,Cummins,1
-Arkansas,2018,March,EARU,1
-Arkansas,2018,March,EARU Max,0
-Arkansas,2018,March,Ester,0
-Arkansas,2018,March,Grimes,0
-Arkansas,2018,March,Max,0
-Arkansas,2018,March,McPherson,0
-Arkansas,2018,March,NCU,0
-Arkansas,2018,March,NWARWRC,0
-Arkansas,2018,March,ORCU,6
-Arkansas,2018,March,PBU,0
-Arkansas,2018,March,RLW,0
-Arkansas,2018,March,Tucker,0
-Arkansas,2018,March,Varner,0
-Arkansas,2018,March,VSM,0
-Arkansas,2018,March,Wrightsville,0
-Arkansas,2018,April,Cummins,0
-Arkansas,2018,April,EARU,1
-Arkansas,2018,April,EARU Max,2
-Arkansas,2018,April,Ester,1
-Arkansas,2018,April,Grimes,0
-Arkansas,2018,April,Max,1
-Arkansas,2018,April,McPherson,0
-Arkansas,2018,April,NCU,0
-Arkansas,2018,April,NWARWRC,0
-Arkansas,2018,April,ORCU,1
-Arkansas,2018,April,PBU,0
-Arkansas,2018,April,RLW,0
-Arkansas,2018,April,Tucker,1
-Arkansas,2018,April,Varner,0
-Arkansas,2018,April,VSM,0
-Arkansas,2018,April,Wrightsville,0
-Arkansas,2018,May,Cummins,2
-Arkansas,2018,May,EARU,3
-Arkansas,2018,May,EARU Max,0
-Arkansas,2018,May,Ester,0
-Arkansas,2018,May,Grimes,0
-Arkansas,2018,May,Max,0
-Arkansas,2018,May,McPherson,0
-Arkansas,2018,May,NCU,0
-Arkansas,2018,May,NWARWRC,0
-Arkansas,2018,May,ORCU,1
-Arkansas,2018,May,PBU,0
-Arkansas,2018,May,RLW,0
-Arkansas,2018,May,Tucker,0
-Arkansas,2018,May,Varner,0
-Arkansas,2018,May,VSM,1
-Arkansas,2018,May,Wrightsville,0
-Arkansas,2018,June,Cummins,4
-Arkansas,2018,June,EARU,1
-Arkansas,2018,June,EARU Max,0
-Arkansas,2018,June,Ester,0
-Arkansas,2018,June,Grimes,0
-Arkansas,2018,June,Max,0
-Arkansas,2018,June,McPherson,0
-Arkansas,2018,June,NCU,0
-Arkansas,2018,June,NWARWRC,0
-Arkansas,2018,June,ORCU,2
-Arkansas,2018,June,PBU,0
-Arkansas,2018,June,RLW,0
-Arkansas,2018,June,Tucker,1
-Arkansas,2018,June,Varner,0
-Arkansas,2018,June,VSM,0
-Arkansas,2018,June,Wrightsville,0
-Arkansas,2018,July,Cummins,2
-Arkansas,2018,July,EARU,0
-Arkansas,2018,July,EARU Max,0
-Arkansas,2018,July,Ester,1
-Arkansas,2018,July,Grimes,0
-Arkansas,2018,July,Max,0
-Arkansas,2018,July,McPherson,0
-Arkansas,2018,July,NCU,0
-Arkansas,2018,July,NWARWRC,0
-Arkansas,2018,July,ORCU,0
-Arkansas,2018,July,PBU,0
-Arkansas,2018,July,RLW,0
-Arkansas,2018,July,Tucker,0
-Arkansas,2018,July,Varner,0
-Arkansas,2018,July,VSM,0
-Arkansas,2018,July,Wrightsville,1
-Arkansas,2018,August,Cummins,0
-Arkansas,2018,August,EARU,0
-Arkansas,2018,August,EARU Max,0
-Arkansas,2018,August,Ester,1
-Arkansas,2018,August,Grimes,0
-Arkansas,2018,August,Max,0
-Arkansas,2018,August,McPherson,0
-Arkansas,2018,August,NCU,0
-Arkansas,2018,August,NWARWRC,0
-Arkansas,2018,August,ORCU,3
-Arkansas,2018,August,PBU,0
-Arkansas,2018,August,RLW,0
-Arkansas,2018,August,Tucker,0
-Arkansas,2018,August,Varner,1
-Arkansas,2018,August,VSM,4
-Arkansas,2018,August,Wrightsville,0
-Arkansas,2018,September,Cummins,1
-Arkansas,2018,September,EARU,1
-Arkansas,2018,September,EARU Max,0
-Arkansas,2018,September,Ester,0
-Arkansas,2018,September,Grimes,0
-Arkansas,2018,September,Max,0
-Arkansas,2018,September,McPherson,0
-Arkansas,2018,September,NCU,1
-Arkansas,2018,September,NWARWRC,1
-Arkansas,2018,September,ORCU,2
-Arkansas,2018,September,PBU,1
-Arkansas,2018,September,RLW,0
-Arkansas,2018,September,Tucker,0
-Arkansas,2018,September,Varner,0
-Arkansas,2018,September,VSM,0
-Arkansas,2018,September,Wrightsville,0
-Arkansas,2018,October,Cummins,2
-Arkansas,2018,October,EARU,1
-Arkansas,2018,October,EARU Max,0
-Arkansas,2018,October,Ester,0
-Arkansas,2018,October,Grimes,0
-Arkansas,2018,October,Max,4
-Arkansas,2018,October,McPherson,0
-Arkansas,2018,October,NCU,0
-Arkansas,2018,October,NWARWRC,0
-Arkansas,2018,October,ORCU,0
-Arkansas,2018,October,PBU,0
-Arkansas,2018,October,RLW,0
-Arkansas,2018,October,Tucker,2
-Arkansas,2018,October,Varner,0
-Arkansas,2018,October,VSM,0
-Arkansas,2018,October,Wrightsville,0
-Arkansas,2018,November,Cummins,2
-Arkansas,2018,November,EARU,0
-Arkansas,2018,November,EARU Max,0
-Arkansas,2018,November,Ester,0
-Arkansas,2018,November,Grimes,0
-Arkansas,2018,November,Max,1
-Arkansas,2018,November,McPherson,0
-Arkansas,2018,November,NCU,0
-Arkansas,2018,November,NWARWRC,0
-Arkansas,2018,November,ORCU,1
-Arkansas,2018,November,PBU,0
-Arkansas,2018,November,RLW,0
-Arkansas,2018,November,Tucker,0
-Arkansas,2018,November,Varner,0
-Arkansas,2018,November,VSM,0
-Arkansas,2018,November,Wrightsville,0
-Arkansas,2018,December,Cummins,0
-Arkansas,2018,December,EARU,0
-Arkansas,2018,December,EARU Max,0
-Arkansas,2018,December,Ester,0
-Arkansas,2018,December,Grimes,1
-Arkansas,2018,December,Max,0
-Arkansas,2018,December,McPherson,2
-Arkansas,2018,December,NCU,0
-Arkansas,2018,December,NWARWRC,0
-Arkansas,2018,December,ORCU,2
-Arkansas,2018,December,PBU,0
-Arkansas,2018,December,RLW,0
-Arkansas,2018,December,Tucker,0
-Arkansas,2018,December,Varner,0
-Arkansas,2018,December,VSM,0
-Arkansas,2018,December,Wrightsville,0
-Arkansas,2019,January,Cummins,0
-Arkansas,2019,January,EARU,0
-Arkansas,2019,January,Max,1
-Arkansas,2019,January,ORCU Hospital,1
-Arkansas,2019,January,Outside,2
-Arkansas,2019,January,Varner SuperMax,0
-Arkansas,2019,January,Varner Unit,1
-Arkansas,2019,January,Wrightsville,0
-Arkansas,2019,February,Cummins,2
-Arkansas,2019,February,EARU,0
-Arkansas,2019,February,Max,0
-Arkansas,2019,February,ORCU Hospital,1
-Arkansas,2019,February,Outside,1
-Arkansas,2019,February,Varner SuperMax,0
-Arkansas,2019,February,Varner Unit,0
-Arkansas,2019,February,Wrightsville,0
-Arkansas,2019,March,Cummins,2
-Arkansas,2019,March,EARU,1
-Arkansas,2019,March,Max,0
-Arkansas,2019,March,ORCU Hospital,5
-Arkansas,2019,March,Outside,4
-Arkansas,2019,March,Varner SuperMax,0
-Arkansas,2019,March,Varner Unit,2
-Arkansas,2019,March,Wrightsville,0
-Arkansas,2019,April,Cummins,1
-Arkansas,2019,April,EARU,0
-Arkansas,2019,April,Max,0
-Arkansas,2019,April,ORCU Hospital,1
-Arkansas,2019,April,Outside,2
-Arkansas,2019,April,Varner SuperMax,0
-Arkansas,2019,April,Varner Unit,0
-Arkansas,2019,April,Wrightsville,0
-Arkansas,2019,May,Cummins,0
-Arkansas,2019,May,EARU,1
-Arkansas,2019,May,Max,0
-Arkansas,2019,May,ORCU Hospital,2
-Arkansas,2019,May,Outside,6
-Arkansas,2019,May,Varner SuperMax,0
-Arkansas,2019,May,Varner Unit,0
-Arkansas,2019,May,Wrightsville,0
-Arkansas,2019,June,Cummins,0
-Arkansas,2019,June,EARU,0
-Arkansas,2019,June,Max,0
-Arkansas,2019,June,ORCU Hospital,1
-Arkansas,2019,June,Outside,4
-Arkansas,2019,June,Varner SuperMax,0
-Arkansas,2019,June,Varner Unit,0
-Arkansas,2019,June,Wrightsville,0
-Arkansas,2019,July,Cummins,0
-Arkansas,2019,July,EARU,1
-Arkansas,2019,July,Max,0
-Arkansas,2019,July,ORCU Hospital,3
-Arkansas,2019,July,Outside,2
-Arkansas,2019,July,Varner SuperMax,0
-Arkansas,2019,July,Varner Unit,1
-Arkansas,2019,July,Wrightsville,0
-Arkansas,2019,August,Cummins,0
-Arkansas,2019,August,EARU,1
-Arkansas,2019,August,Max,1
-Arkansas,2019,August,ORCU Hospital,3
-Arkansas,2019,August,Outside,3
-Arkansas,2019,August,Varner SuperMax,0
-Arkansas,2019,August,Varner Unit,0
-Arkansas,2019,August,Wrightsville,0
-Arkansas,2019,September,Cummins,0
-Arkansas,2019,September,EARU,1
-Arkansas,2019,September,Max,0
-Arkansas,2019,September,ORCU Hospital,1
-Arkansas,2019,September,Outside,1
-Arkansas,2019,September,Varner SuperMax,1
-Arkansas,2019,September,Varner Unit,0
-Arkansas,2019,September,Wrightsville,0
-Arkansas,2019,October,Cummins,0
-Arkansas,2019,October,EARU,0
-Arkansas,2019,October,Max,0
-Arkansas,2019,October,ORCU Hospital,4
-Arkansas,2019,October,Outside,2
-Arkansas,2019,October,Varner SuperMax,0
-Arkansas,2019,October,Varner Unit,0
-Arkansas,2019,October,Wrightsville,0
-Arkansas,2019,November,Cummins,0
-Arkansas,2019,November,EARU,1
-Arkansas,2019,November,Max,1
-Arkansas,2019,November,ORCU Hospital,0
-Arkansas,2019,November,Outside,1
-Arkansas,2019,November,Varner SuperMax,0
-Arkansas,2019,November,Varner Unit,0
-Arkansas,2019,November,Wrightsville,1
-Arkansas,2019,December,Cummins,0
-Arkansas,2019,December,EARU,1
-Arkansas,2019,December,Max,0
-Arkansas,2019,December,ORCU Hospital,4
-Arkansas,2019,December,Outside,0
-Arkansas,2019,December,Varner SuperMax,1
-Arkansas,2019,December,Varner Unit,0
-Arkansas,2019,December,Wrightsville,0
-Arkansas,2020,January,"Bowie County, TX",0
-Arkansas,2020,January,Cummins,3
-Arkansas,2020,January,Delta,0
-Arkansas,2020,January,EARU,2
-Arkansas,2020,January,Ester,1
-Arkansas,2020,January,Grimes,0
-Arkansas,2020,January,Hawkins - Females,0
-Arkansas,2020,January,MSU,1
-Arkansas,2020,January,NCU,0
-Arkansas,2020,January,ORCU,3
-Arkansas,2020,January,Pine Bluff,0
-Arkansas,2020,January,RLW,1
-Arkansas,2020,January,Tucker,0
-Arkansas,2020,January,Varner,0
-Arkansas,2020,January,Wrightsville,0
-Arkansas,2020,February,"Bowie County, TX",0
-Arkansas,2020,February,Cummins,0
-Arkansas,2020,February,Delta,0
-Arkansas,2020,February,EARU,2
-Arkansas,2020,February,Ester,0
-Arkansas,2020,February,Grimes,0
-Arkansas,2020,February,Hawkins - Females,0
-Arkansas,2020,February,MSU,0
-Arkansas,2020,February,NCU,0
-Arkansas,2020,February,ORCU,1
-Arkansas,2020,February,Pine Bluff,0
-Arkansas,2020,February,RLW,0
-Arkansas,2020,February,Tucker,0
-Arkansas,2020,February,Varner,3
-Arkansas,2020,February,Wrightsville,1
-Arkansas,2020,March,"Bowie County, TX",0
-Arkansas,2020,March,Cummins,0
-Arkansas,2020,March,Delta,0
-Arkansas,2020,March,EARU,0
-Arkansas,2020,March,Ester,1
-Arkansas,2020,March,Grimes,0
-Arkansas,2020,March,Hawkins - Females,0
-Arkansas,2020,March,MSU,1
-Arkansas,2020,March,NCU,0
-Arkansas,2020,March,ORCU,3
-Arkansas,2020,March,Pine Bluff,1
-Arkansas,2020,March,RLW,0
-Arkansas,2020,March,Tucker,0
-Arkansas,2020,March,Varner,0
-Arkansas,2020,March,Wrightsville,0
-Arkansas,2020,April,"Bowie County, TX",0
-Arkansas,2020,April,Cummins,0
-Arkansas,2020,April,Delta,0
-Arkansas,2020,April,EARU,2
-Arkansas,2020,April,Ester,0
-Arkansas,2020,April,Grimes,0
-Arkansas,2020,April,Hawkins - Females,0
-Arkansas,2020,April,MSU,0
-Arkansas,2020,April,NCU,0
-Arkansas,2020,April,ORCU,1
-Arkansas,2020,April,Pine Bluff,1
-Arkansas,2020,April,RLW,0
-Arkansas,2020,April,Tucker,0
-Arkansas,2020,April,Varner,0
-Arkansas,2020,April,Wrightsville,0
-Arkansas,2020,May,"Bowie County, TX",0
-Arkansas,2020,May,Cummins,10
-Arkansas,2020,May,Delta,0
-Arkansas,2020,May,EARU,0
-Arkansas,2020,May,Ester,2
-Arkansas,2020,May,Grimes,0
-Arkansas,2020,May,Hawkins - Females,0
-Arkansas,2020,May,MSU,2
-Arkansas,2020,May,NCU,0
-Arkansas,2020,May,ORCU,0
-Arkansas,2020,May,Pine Bluff,0
-Arkansas,2020,May,RLW,1
-Arkansas,2020,May,Tucker,1
-Arkansas,2020,May,Varner,1
-Arkansas,2020,May,Wrightsville,0
-Arkansas,2020,June,"Bowie County, TX",0
-Arkansas,2020,June,Cummins,2
-Arkansas,2020,June,Delta,0
-Arkansas,2020,June,EARU,1
-Arkansas,2020,June,Ester,0
-Arkansas,2020,June,Grimes,1
-Arkansas,2020,June,Hawkins - Females,0
-Arkansas,2020,June,MSU,0
-Arkansas,2020,June,NCU,0
-Arkansas,2020,June,ORCU,2
-Arkansas,2020,June,Pine Bluff,0
-Arkansas,2020,June,RLW,0
-Arkansas,2020,June,Tucker,0
-Arkansas,2020,June,Varner,1
-Arkansas,2020,June,Wrightsville,0
-Arkansas,2020,July,"Bowie County, TX",0
-Arkansas,2020,July,Cummins,0
-Arkansas,2020,July,Delta,0
-Arkansas,2020,July,EARU,5
-Arkansas,2020,July,Ester,0
-Arkansas,2020,July,Grimes,0
-Arkansas,2020,July,Hawkins - Females,0
-Arkansas,2020,July,MSU,0
-Arkansas,2020,July,NCU,0
-Arkansas,2020,July,ORCU,12
-Arkansas,2020,July,Pine Bluff,0
-Arkansas,2020,July,RLW,0
-Arkansas,2020,July,Tucker,1
-Arkansas,2020,July,Varner,2
-Arkansas,2020,July,Wrightsville,0
-Arkansas,2020,August,"Bowie County, TX",0
-Arkansas,2020,August,Cummins,0
-Arkansas,2020,August,Delta,0
-Arkansas,2020,August,EARU,2
-Arkansas,2020,August,Ester,0
-Arkansas,2020,August,Grimes,0
-Arkansas,2020,August,Hawkins - Females,1
-Arkansas,2020,August,MSU,0
-Arkansas,2020,August,NCU,0
-Arkansas,2020,August,ORCU,8
-Arkansas,2020,August,Pine Bluff,0
-Arkansas,2020,August,RLW,0
-Arkansas,2020,August,Tucker,1
-Arkansas,2020,August,Varner,0
-Arkansas,2020,August,Wrightsville,1
-Arkansas,2020,September,"Bowie County, TX",0
-Arkansas,2020,September,Cummins,0
-Arkansas,2020,September,Delta,0
-Arkansas,2020,September,EARU,0
-Arkansas,2020,September,Ester,0
-Arkansas,2020,September,Grimes,0
-Arkansas,2020,September,Hawkins - Females,0
-Arkansas,2020,September,MSU,1
-Arkansas,2020,September,NCU,0
-Arkansas,2020,September,ORCU,2
-Arkansas,2020,September,Pine Bluff,2
-Arkansas,2020,September,RLW,0
-Arkansas,2020,September,Tucker,1
-Arkansas,2020,September,Varner,0
-Arkansas,2020,September,Wrightsville,1
-Arkansas,2020,October,"Bowie County, TX",2
-Arkansas,2020,October,Cummins,0
-Arkansas,2020,October,Delta,0
-Arkansas,2020,October,EARU,0
-Arkansas,2020,October,Ester,0
-Arkansas,2020,October,Grimes,0
-Arkansas,2020,October,Hawkins - Females,1
-Arkansas,2020,October,MSU,3
-Arkansas,2020,October,NCU,1
-Arkansas,2020,October,ORCU,3
-Arkansas,2020,October,Pine Bluff,0
-Arkansas,2020,October,RLW,0
-Arkansas,2020,October,Tucker,2
-Arkansas,2020,October,Varner,1
-Arkansas,2020,October,Wrightsville,2
-Arkansas,2020,November,"Bowie County, TX",0
-Arkansas,2020,November,Cummins,0
-Arkansas,2020,November,Delta,0
-Arkansas,2020,November,EARU,0
-Arkansas,2020,November,Ester,1
-Arkansas,2020,November,Grimes,1
-Arkansas,2020,November,Hawkins - Females,0
-Arkansas,2020,November,MSU,0
-Arkansas,2020,November,NCU,0
-Arkansas,2020,November,ORCU,3
-Arkansas,2020,November,Pine Bluff,0
-Arkansas,2020,November,RLW,0
-Arkansas,2020,November,Tucker,0
-Arkansas,2020,November,Varner,1
-Arkansas,2020,November,Wrightsville,0
-Arkansas,2020,December,"Bowie County, TX",0
-Arkansas,2020,December,Cummins,0
-Arkansas,2020,December,Delta,1
-Arkansas,2020,December,EARU,2
-Arkansas,2020,December,Ester,0
-Arkansas,2020,December,Grimes,0
-Arkansas,2020,December,Hawkins - Females,0
-Arkansas,2020,December,MSU,0
-Arkansas,2020,December,NCU,0
-Arkansas,2020,December,ORCU,2
-Arkansas,2020,December,Pine Bluff,0
-Arkansas,2020,December,RLW,1
-Arkansas,2020,December,Tucker,1
-Arkansas,2020,December,Varner,1
-Arkansas,2020,December,Wrightsville,1
+"State","Year","Month","Facility","Total.Deaths"
+"Arkansas",2015,"January","CUMMINS",2
+"Arkansas",2015,"January","DELTA",0
+"Arkansas",2015,"January","EARU",0
+"Arkansas",2015,"January","GRIMES",0
+"Arkansas",2015,"January","MCPHERSON",0
+"Arkansas",2015,"January","MSU",0
+"Arkansas",2015,"January","NCU",0
+"Arkansas",2015,"January","ORCU",5
+"Arkansas",2015,"January","ORCU(SNU)",0
+"Arkansas",2015,"January","ORCU/NEW",0
+"Arkansas",2015,"January","PBU",0
+"Arkansas",2015,"January","RLW",0
+"Arkansas",2015,"January","RLWCF",0
+"Arkansas",2015,"January","TUCKER",1
+"Arkansas",2015,"January","WSU",0
+"Arkansas",2015,"February","CUMMINS",0
+"Arkansas",2015,"February","DELTA",1
+"Arkansas",2015,"February","EARU",1
+"Arkansas",2015,"February","GRIMES",0
+"Arkansas",2015,"February","MCPHERSON",2
+"Arkansas",2015,"February","MSU",0
+"Arkansas",2015,"February","NCU",0
+"Arkansas",2015,"February","ORCU",3
+"Arkansas",2015,"February","ORCU(SNU)",0
+"Arkansas",2015,"February","ORCU/NEW",0
+"Arkansas",2015,"February","PBU",0
+"Arkansas",2015,"February","RLW",0
+"Arkansas",2015,"February","RLWCF",0
+"Arkansas",2015,"February","TUCKER",0
+"Arkansas",2015,"February","WSU",0
+"Arkansas",2015,"March","CUMMINS",0
+"Arkansas",2015,"March","DELTA",0
+"Arkansas",2015,"March","EARU",2
+"Arkansas",2015,"March","GRIMES",0
+"Arkansas",2015,"March","MCPHERSON",0
+"Arkansas",2015,"March","MSU",0
+"Arkansas",2015,"March","NCU",0
+"Arkansas",2015,"March","ORCU",5
+"Arkansas",2015,"March","ORCU(SNU)",0
+"Arkansas",2015,"March","ORCU/NEW",0
+"Arkansas",2015,"March","PBU",0
+"Arkansas",2015,"March","RLW",0
+"Arkansas",2015,"March","RLWCF",0
+"Arkansas",2015,"March","TUCKER",0
+"Arkansas",2015,"March","WSU",0
+"Arkansas",2015,"April","CUMMINS",0
+"Arkansas",2015,"April","DELTA",0
+"Arkansas",2015,"April","EARU",1
+"Arkansas",2015,"April","GRIMES",0
+"Arkansas",2015,"April","MCPHERSON",0
+"Arkansas",2015,"April","MSU",0
+"Arkansas",2015,"April","NCU",0
+"Arkansas",2015,"April","ORCU",5
+"Arkansas",2015,"April","ORCU(SNU)",0
+"Arkansas",2015,"April","ORCU/NEW",0
+"Arkansas",2015,"April","PBU",0
+"Arkansas",2015,"April","RLW",0
+"Arkansas",2015,"April","RLWCF",0
+"Arkansas",2015,"April","TUCKER",0
+"Arkansas",2015,"April","WSU",0
+"Arkansas",2015,"May","CUMMINS",0
+"Arkansas",2015,"May","DELTA",0
+"Arkansas",2015,"May","EARU",0
+"Arkansas",2015,"May","GRIMES",0
+"Arkansas",2015,"May","MCPHERSON",0
+"Arkansas",2015,"May","MSU",0
+"Arkansas",2015,"May","NCU",0
+"Arkansas",2015,"May","ORCU",1
+"Arkansas",2015,"May","ORCU(SNU)",0
+"Arkansas",2015,"May","ORCU/NEW",0
+"Arkansas",2015,"May","PBU",0
+"Arkansas",2015,"May","RLW",0
+"Arkansas",2015,"May","RLWCF",0
+"Arkansas",2015,"May","TUCKER",0
+"Arkansas",2015,"May","WSU",0
+"Arkansas",2015,"June","CUMMINS",1
+"Arkansas",2015,"June","DELTA",0
+"Arkansas",2015,"June","EARU",0
+"Arkansas",2015,"June","GRIMES",1
+"Arkansas",2015,"June","MCPHERSON",0
+"Arkansas",2015,"June","MSU",0
+"Arkansas",2015,"June","NCU",0
+"Arkansas",2015,"June","ORCU",0
+"Arkansas",2015,"June","ORCU(SNU)",0
+"Arkansas",2015,"June","ORCU/NEW",1
+"Arkansas",2015,"June","PBU",0
+"Arkansas",2015,"June","RLW",1
+"Arkansas",2015,"June","RLWCF",0
+"Arkansas",2015,"June","TUCKER",0
+"Arkansas",2015,"June","WSU",1
+"Arkansas",2015,"July","CUMMINS",0
+"Arkansas",2015,"July","DELTA",0
+"Arkansas",2015,"July","EARU",0
+"Arkansas",2015,"July","GRIMES",0
+"Arkansas",2015,"July","MCPHERSON",0
+"Arkansas",2015,"July","MSU",0
+"Arkansas",2015,"July","NCU",1
+"Arkansas",2015,"July","ORCU",0
+"Arkansas",2015,"July","ORCU(SNU)",1
+"Arkansas",2015,"July","ORCU/NEW",0
+"Arkansas",2015,"July","PBU",0
+"Arkansas",2015,"July","RLW",0
+"Arkansas",2015,"July","RLWCF",0
+"Arkansas",2015,"July","TUCKER",0
+"Arkansas",2015,"July","WSU",0
+"Arkansas",2015,"August","CUMMINS",0
+"Arkansas",2015,"August","DELTA",0
+"Arkansas",2015,"August","EARU",1
+"Arkansas",2015,"August","GRIMES",0
+"Arkansas",2015,"August","MCPHERSON",1
+"Arkansas",2015,"August","MSU",0
+"Arkansas",2015,"August","NCU",0
+"Arkansas",2015,"August","ORCU",0
+"Arkansas",2015,"August","ORCU(SNU)",1
+"Arkansas",2015,"August","ORCU/NEW",0
+"Arkansas",2015,"August","PBU",0
+"Arkansas",2015,"August","RLW",0
+"Arkansas",2015,"August","RLWCF",0
+"Arkansas",2015,"August","TUCKER",1
+"Arkansas",2015,"August","WSU",0
+"Arkansas",2015,"September","CUMMINS",0
+"Arkansas",2015,"September","DELTA",0
+"Arkansas",2015,"September","EARU",0
+"Arkansas",2015,"September","GRIMES",0
+"Arkansas",2015,"September","MCPHERSON",0
+"Arkansas",2015,"September","MSU",0
+"Arkansas",2015,"September","NCU",0
+"Arkansas",2015,"September","ORCU",0
+"Arkansas",2015,"September","ORCU(SNU)",0
+"Arkansas",2015,"September","ORCU/NEW",0
+"Arkansas",2015,"September","PBU",0
+"Arkansas",2015,"September","RLW",0
+"Arkansas",2015,"September","RLWCF",0
+"Arkansas",2015,"September","TUCKER",0
+"Arkansas",2015,"September","WSU",0
+"Arkansas",2015,"October","CUMMINS",1
+"Arkansas",2015,"October","DELTA",0
+"Arkansas",2015,"October","EARU",1
+"Arkansas",2015,"October","GRIMES",0
+"Arkansas",2015,"October","MCPHERSON",0
+"Arkansas",2015,"October","MSU",0
+"Arkansas",2015,"October","NCU",0
+"Arkansas",2015,"October","ORCU",0
+"Arkansas",2015,"October","ORCU(SNU)",2
+"Arkansas",2015,"October","ORCU/NEW",0
+"Arkansas",2015,"October","PBU",0
+"Arkansas",2015,"October","RLW",0
+"Arkansas",2015,"October","RLWCF",0
+"Arkansas",2015,"October","TUCKER",0
+"Arkansas",2015,"October","WSU",0
+"Arkansas",2015,"November","CUMMINS",0
+"Arkansas",2015,"November","DELTA",0
+"Arkansas",2015,"November","EARU",1
+"Arkansas",2015,"November","GRIMES",0
+"Arkansas",2015,"November","MCPHERSON",0
+"Arkansas",2015,"November","MSU",1
+"Arkansas",2015,"November","NCU",0
+"Arkansas",2015,"November","ORCU",0
+"Arkansas",2015,"November","ORCU(SNU)",0
+"Arkansas",2015,"November","ORCU/NEW",0
+"Arkansas",2015,"November","PBU",1
+"Arkansas",2015,"November","RLW",0
+"Arkansas",2015,"November","RLWCF",1
+"Arkansas",2015,"November","TUCKER",0
+"Arkansas",2015,"November","WSU",0
+"Arkansas",2015,"December","CUMMINS",0
+"Arkansas",2015,"December","DELTA",0
+"Arkansas",2015,"December","EARU",1
+"Arkansas",2015,"December","GRIMES",0
+"Arkansas",2015,"December","MCPHERSON",0
+"Arkansas",2015,"December","MSU",1
+"Arkansas",2015,"December","NCU",1
+"Arkansas",2015,"December","ORCU",3
+"Arkansas",2015,"December","ORCU(SNU)",0
+"Arkansas",2015,"December","ORCU/NEW",0
+"Arkansas",2015,"December","PBU",0
+"Arkansas",2015,"December","RLW",0
+"Arkansas",2015,"December","RLWCF",0
+"Arkansas",2015,"December","TUCKER",0
+"Arkansas",2015,"December","WSU",0
+"Arkansas",2016,"January","BCCC",0
+"Arkansas",2016,"January","CUMMINS",0
+"Arkansas",2016,"January","DELTA",0
+"Arkansas",2016,"January","EARU",1
+"Arkansas",2016,"January","GRIMES",0
+"Arkansas",2016,"January","MCPH",0
+"Arkansas",2016,"January","NCU",0
+"Arkansas",2016,"January","ORCU",3
+"Arkansas",2016,"January","TUCKER",0
+"Arkansas",2016,"January","VARNER",0
+"Arkansas",2016,"January","WRIT",0
+"Arkansas",2016,"February","BCCC",0
+"Arkansas",2016,"February","CUMMINS",2
+"Arkansas",2016,"February","DELTA",1
+"Arkansas",2016,"February","EARU",0
+"Arkansas",2016,"February","GRIMES",0
+"Arkansas",2016,"February","MCPH",0
+"Arkansas",2016,"February","NCU",0
+"Arkansas",2016,"February","ORCU",4
+"Arkansas",2016,"February","TUCKER",0
+"Arkansas",2016,"February","VARNER",0
+"Arkansas",2016,"February","WRIT",0
+"Arkansas",2016,"March","BCCC",0
+"Arkansas",2016,"March","CUMMINS",0
+"Arkansas",2016,"March","DELTA",0
+"Arkansas",2016,"March","EARU",0
+"Arkansas",2016,"March","GRIMES",0
+"Arkansas",2016,"March","MCPH",0
+"Arkansas",2016,"March","NCU",1
+"Arkansas",2016,"March","ORCU",2
+"Arkansas",2016,"March","TUCKER",1
+"Arkansas",2016,"March","VARNER",1
+"Arkansas",2016,"March","WRIT",0
+"Arkansas",2016,"April","BCCC",0
+"Arkansas",2016,"April","CUMMINS",3
+"Arkansas",2016,"April","DELTA",0
+"Arkansas",2016,"April","EARU",3
+"Arkansas",2016,"April","GRIMES",0
+"Arkansas",2016,"April","MCPH",0
+"Arkansas",2016,"April","NCU",0
+"Arkansas",2016,"April","ORCU",2
+"Arkansas",2016,"April","TUCKER",0
+"Arkansas",2016,"April","VARNER",1
+"Arkansas",2016,"April","WRIT",1
+"Arkansas",2016,"May","BCCC",0
+"Arkansas",2016,"May","CUMMINS",1
+"Arkansas",2016,"May","DELTA",0
+"Arkansas",2016,"May","EARU",2
+"Arkansas",2016,"May","GRIMES",0
+"Arkansas",2016,"May","MCPH",0
+"Arkansas",2016,"May","NCU",0
+"Arkansas",2016,"May","ORCU",4
+"Arkansas",2016,"May","TUCKER",0
+"Arkansas",2016,"May","VARNER",0
+"Arkansas",2016,"May","WRIT",0
+"Arkansas",2016,"June","BCCC",1
+"Arkansas",2016,"June","CUMMINS",0
+"Arkansas",2016,"June","DELTA",1
+"Arkansas",2016,"June","EARU",0
+"Arkansas",2016,"June","GRIMES",0
+"Arkansas",2016,"June","MCPH",1
+"Arkansas",2016,"June","NCU",0
+"Arkansas",2016,"June","ORCU",2
+"Arkansas",2016,"June","TUCKER",0
+"Arkansas",2016,"June","VARNER",0
+"Arkansas",2016,"June","WRIT",0
+"Arkansas",2016,"July","BCCC",0
+"Arkansas",2016,"July","CUMMINS",0
+"Arkansas",2016,"July","DELTA",0
+"Arkansas",2016,"July","EARU",0
+"Arkansas",2016,"July","GRIMES",0
+"Arkansas",2016,"July","MCPH",0
+"Arkansas",2016,"July","NCU",0
+"Arkansas",2016,"July","ORCU",3
+"Arkansas",2016,"July","TUCKER",0
+"Arkansas",2016,"July","VARNER",1
+"Arkansas",2016,"July","WRIT",0
+"Arkansas",2016,"August","BCCC",0
+"Arkansas",2016,"August","CUMMINS",1
+"Arkansas",2016,"August","DELTA",0
+"Arkansas",2016,"August","EARU",0
+"Arkansas",2016,"August","GRIMES",1
+"Arkansas",2016,"August","MCPH",0
+"Arkansas",2016,"August","NCU",0
+"Arkansas",2016,"August","ORCU",3
+"Arkansas",2016,"August","TUCKER",1
+"Arkansas",2016,"August","VARNER",2
+"Arkansas",2016,"August","WRIT",0
+"Arkansas",2016,"September","BCCC",0
+"Arkansas",2016,"September","CUMMINS",3
+"Arkansas",2016,"September","DELTA",0
+"Arkansas",2016,"September","EARU",0
+"Arkansas",2016,"September","GRIMES",0
+"Arkansas",2016,"September","MCPH",1
+"Arkansas",2016,"September","NCU",0
+"Arkansas",2016,"September","ORCU",2
+"Arkansas",2016,"September","TUCKER",0
+"Arkansas",2016,"September","VARNER",2
+"Arkansas",2016,"September","WRIT",0
+"Arkansas",2016,"October","BCCC",0
+"Arkansas",2016,"October","CUMMINS",0
+"Arkansas",2016,"October","DELTA",0
+"Arkansas",2016,"October","EARU",0
+"Arkansas",2016,"October","GRIMES",0
+"Arkansas",2016,"October","MCPH",0
+"Arkansas",2016,"October","NCU",0
+"Arkansas",2016,"October","ORCU",2
+"Arkansas",2016,"October","TUCKER",0
+"Arkansas",2016,"October","VARNER",1
+"Arkansas",2016,"October","WRIT",0
+"Arkansas",2016,"November","BCCC",0
+"Arkansas",2016,"November","CUMMINS",1
+"Arkansas",2016,"November","DELTA",0
+"Arkansas",2016,"November","EARU",0
+"Arkansas",2016,"November","GRIMES",0
+"Arkansas",2016,"November","MCPH",0
+"Arkansas",2016,"November","NCU",0
+"Arkansas",2016,"November","ORCU",1
+"Arkansas",2016,"November","TUCKER",0
+"Arkansas",2016,"November","VARNER",1
+"Arkansas",2016,"November","WRIT",0
+"Arkansas",2016,"December","BCCC",1
+"Arkansas",2016,"December","CUMMINS",1
+"Arkansas",2016,"December","DELTA",0
+"Arkansas",2016,"December","EARU",1
+"Arkansas",2016,"December","GRIMES",0
+"Arkansas",2016,"December","MCPH",0
+"Arkansas",2016,"December","NCU",0
+"Arkansas",2016,"December","ORCU",5
+"Arkansas",2016,"December","TUCKER",0
+"Arkansas",2016,"December","VARNER",0
+"Arkansas",2016,"December","WRIT",0
+"Arkansas",2017,"January","ACT 309",0
+"Arkansas",2017,"January","CUMMINS",0
+"Arkansas",2017,"January","DELTA",0
+"Arkansas",2017,"January","EARU",0
+"Arkansas",2017,"January","GRIMES",0
+"Arkansas",2017,"January","MSU",0
+"Arkansas",2017,"January","NCU",0
+"Arkansas",2017,"January","ORCU",1
+"Arkansas",2017,"January","PBU",0
+"Arkansas",2017,"January","TUCKER",1
+"Arkansas",2017,"January","VARNER",0
+"Arkansas",2017,"January","WRIGHT",0
+"Arkansas",2017,"February","ACT 309",0
+"Arkansas",2017,"February","CUMMINS",0
+"Arkansas",2017,"February","DELTA",0
+"Arkansas",2017,"February","EARU",1
+"Arkansas",2017,"February","GRIMES",1
+"Arkansas",2017,"February","MSU",0
+"Arkansas",2017,"February","NCU",1
+"Arkansas",2017,"February","ORCU",2
+"Arkansas",2017,"February","PBU",0
+"Arkansas",2017,"February","TUCKER",0
+"Arkansas",2017,"February","VARNER",0
+"Arkansas",2017,"February","WRIGHT",1
+"Arkansas",2017,"March","ACT 309",0
+"Arkansas",2017,"March","CUMMINS",1
+"Arkansas",2017,"March","DELTA",2
+"Arkansas",2017,"March","EARU",0
+"Arkansas",2017,"March","GRIMES",0
+"Arkansas",2017,"March","MSU",0
+"Arkansas",2017,"March","NCU",0
+"Arkansas",2017,"March","ORCU",5
+"Arkansas",2017,"March","PBU",1
+"Arkansas",2017,"March","TUCKER",1
+"Arkansas",2017,"March","VARNER",0
+"Arkansas",2017,"March","WRIGHT",0
+"Arkansas",2017,"April","ACT 309",0
+"Arkansas",2017,"April","CUMMINS",2
+"Arkansas",2017,"April","DELTA",0
+"Arkansas",2017,"April","EARU",1
+"Arkansas",2017,"April","GRIMES",0
+"Arkansas",2017,"April","MSU",0
+"Arkansas",2017,"April","NCU",0
+"Arkansas",2017,"April","ORCU",1
+"Arkansas",2017,"April","PBU",0
+"Arkansas",2017,"April","TUCKER",1
+"Arkansas",2017,"April","VARNER",5
+"Arkansas",2017,"April","WRIGHT",0
+"Arkansas",2017,"May","ACT 309",0
+"Arkansas",2017,"May","CUMMINS",1
+"Arkansas",2017,"May","DELTA",0
+"Arkansas",2017,"May","EARU",1
+"Arkansas",2017,"May","GRIMES",0
+"Arkansas",2017,"May","MSU",0
+"Arkansas",2017,"May","NCU",1
+"Arkansas",2017,"May","ORCU",0
+"Arkansas",2017,"May","PBU",0
+"Arkansas",2017,"May","TUCKER",1
+"Arkansas",2017,"May","VARNER",1
+"Arkansas",2017,"May","WRIGHT",0
+"Arkansas",2017,"June","ACT 309",0
+"Arkansas",2017,"June","CUMMINS",3
+"Arkansas",2017,"June","DELTA",0
+"Arkansas",2017,"June","EARU",2
+"Arkansas",2017,"June","GRIMES",0
+"Arkansas",2017,"June","MSU",0
+"Arkansas",2017,"June","NCU",1
+"Arkansas",2017,"June","ORCU",0
+"Arkansas",2017,"June","PBU",0
+"Arkansas",2017,"June","TUCKER",1
+"Arkansas",2017,"June","VARNER",2
+"Arkansas",2017,"June","WRIGHT",0
+"Arkansas",2017,"July","ACT 309",0
+"Arkansas",2017,"July","CUMMINS",0
+"Arkansas",2017,"July","DELTA",0
+"Arkansas",2017,"July","EARU",1
+"Arkansas",2017,"July","GRIMES",1
+"Arkansas",2017,"July","MSU",0
+"Arkansas",2017,"July","NCU",2
+"Arkansas",2017,"July","ORCU",5
+"Arkansas",2017,"July","PBU",0
+"Arkansas",2017,"July","TUCKER",1
+"Arkansas",2017,"July","VARNER",0
+"Arkansas",2017,"July","WRIGHT",0
+"Arkansas",2017,"August","ACT 309",0
+"Arkansas",2017,"August","CUMMINS",1
+"Arkansas",2017,"August","DELTA",0
+"Arkansas",2017,"August","EARU",2
+"Arkansas",2017,"August","GRIMES",0
+"Arkansas",2017,"August","MSU",1
+"Arkansas",2017,"August","NCU",0
+"Arkansas",2017,"August","ORCU",3
+"Arkansas",2017,"August","PBU",0
+"Arkansas",2017,"August","TUCKER",1
+"Arkansas",2017,"August","VARNER",1
+"Arkansas",2017,"August","WRIGHT",0
+"Arkansas",2017,"September","ACT 309",1
+"Arkansas",2017,"September","CUMMINS",4
+"Arkansas",2017,"September","DELTA",0
+"Arkansas",2017,"September","EARU",1
+"Arkansas",2017,"September","GRIMES",0
+"Arkansas",2017,"September","MSU",1
+"Arkansas",2017,"September","NCU",0
+"Arkansas",2017,"September","ORCU",2
+"Arkansas",2017,"September","PBU",0
+"Arkansas",2017,"September","TUCKER",0
+"Arkansas",2017,"September","VARNER",0
+"Arkansas",2017,"September","WRIGHT",0
+"Arkansas",2017,"October","ACT 309",0
+"Arkansas",2017,"October","CUMMINS",0
+"Arkansas",2017,"October","DELTA",0
+"Arkansas",2017,"October","EARU",1
+"Arkansas",2017,"October","GRIMES",0
+"Arkansas",2017,"October","MSU",0
+"Arkansas",2017,"October","NCU",0
+"Arkansas",2017,"October","ORCU",1
+"Arkansas",2017,"October","PBU",0
+"Arkansas",2017,"October","TUCKER",1
+"Arkansas",2017,"October","VARNER",0
+"Arkansas",2017,"October","WRIGHT",0
+"Arkansas",2017,"November","ACT 309",0
+"Arkansas",2017,"November","CUMMINS",1
+"Arkansas",2017,"November","DELTA",0
+"Arkansas",2017,"November","EARU",0
+"Arkansas",2017,"November","GRIMES",0
+"Arkansas",2017,"November","MSU",2
+"Arkansas",2017,"November","NCU",1
+"Arkansas",2017,"November","ORCU",2
+"Arkansas",2017,"November","PBU",0
+"Arkansas",2017,"November","TUCKER",0
+"Arkansas",2017,"November","VARNER",1
+"Arkansas",2017,"November","WRIGHT",1
+"Arkansas",2017,"December","ACT 309",0
+"Arkansas",2017,"December","CUMMINS",1
+"Arkansas",2017,"December","DELTA",0
+"Arkansas",2017,"December","EARU",0
+"Arkansas",2017,"December","GRIMES",0
+"Arkansas",2017,"December","MSU",1
+"Arkansas",2017,"December","NCU",0
+"Arkansas",2017,"December","ORCU",1
+"Arkansas",2017,"December","PBU",0
+"Arkansas",2017,"December","TUCKER",0
+"Arkansas",2017,"December","VARNER",1
+"Arkansas",2017,"December","WRIGHT",0
+"Arkansas",2018,"January","CUMMINS",1
+"Arkansas",2018,"January","EARU",0
+"Arkansas",2018,"January","EARU MAX",0
+"Arkansas",2018,"January","ESTER",1
+"Arkansas",2018,"January","GRIMES",0
+"Arkansas",2018,"January","MAX",0
+"Arkansas",2018,"January","MCPHERSON",1
+"Arkansas",2018,"January","NCU",0
+"Arkansas",2018,"January","NWARWRC",0
+"Arkansas",2018,"January","ORCU",1
+"Arkansas",2018,"January","PBU",0
+"Arkansas",2018,"January","RLW",0
+"Arkansas",2018,"January","TUCKER",0
+"Arkansas",2018,"January","VARNER",0
+"Arkansas",2018,"January","VSM",1
+"Arkansas",2018,"January","WRIGHTSVILLE",0
+"Arkansas",2018,"February","CUMMINS",0
+"Arkansas",2018,"February","EARU",1
+"Arkansas",2018,"February","EARU MAX",0
+"Arkansas",2018,"February","ESTER",0
+"Arkansas",2018,"February","GRIMES",0
+"Arkansas",2018,"February","MAX",0
+"Arkansas",2018,"February","MCPHERSON",0
+"Arkansas",2018,"February","NCU",0
+"Arkansas",2018,"February","NWARWRC",0
+"Arkansas",2018,"February","ORCU",0
+"Arkansas",2018,"February","PBU",0
+"Arkansas",2018,"February","RLW",1
+"Arkansas",2018,"February","TUCKER",1
+"Arkansas",2018,"February","VARNER",0
+"Arkansas",2018,"February","VSM",0
+"Arkansas",2018,"February","WRIGHTSVILLE",0
+"Arkansas",2018,"March","CUMMINS",1
+"Arkansas",2018,"March","EARU",1
+"Arkansas",2018,"March","EARU MAX",0
+"Arkansas",2018,"March","ESTER",0
+"Arkansas",2018,"March","GRIMES",0
+"Arkansas",2018,"March","MAX",0
+"Arkansas",2018,"March","MCPHERSON",0
+"Arkansas",2018,"March","NCU",0
+"Arkansas",2018,"March","NWARWRC",0
+"Arkansas",2018,"March","ORCU",6
+"Arkansas",2018,"March","PBU",0
+"Arkansas",2018,"March","RLW",0
+"Arkansas",2018,"March","TUCKER",0
+"Arkansas",2018,"March","VARNER",0
+"Arkansas",2018,"March","VSM",0
+"Arkansas",2018,"March","WRIGHTSVILLE",0
+"Arkansas",2018,"April","CUMMINS",0
+"Arkansas",2018,"April","EARU",1
+"Arkansas",2018,"April","EARU MAX",2
+"Arkansas",2018,"April","ESTER",1
+"Arkansas",2018,"April","GRIMES",0
+"Arkansas",2018,"April","MAX",1
+"Arkansas",2018,"April","MCPHERSON",0
+"Arkansas",2018,"April","NCU",0
+"Arkansas",2018,"April","NWARWRC",0
+"Arkansas",2018,"April","ORCU",1
+"Arkansas",2018,"April","PBU",0
+"Arkansas",2018,"April","RLW",0
+"Arkansas",2018,"April","TUCKER",1
+"Arkansas",2018,"April","VARNER",0
+"Arkansas",2018,"April","VSM",0
+"Arkansas",2018,"April","WRIGHTSVILLE",0
+"Arkansas",2018,"May","CUMMINS",2
+"Arkansas",2018,"May","EARU",3
+"Arkansas",2018,"May","EARU MAX",0
+"Arkansas",2018,"May","ESTER",0
+"Arkansas",2018,"May","GRIMES",0
+"Arkansas",2018,"May","MAX",0
+"Arkansas",2018,"May","MCPHERSON",0
+"Arkansas",2018,"May","NCU",0
+"Arkansas",2018,"May","NWARWRC",0
+"Arkansas",2018,"May","ORCU",1
+"Arkansas",2018,"May","PBU",0
+"Arkansas",2018,"May","RLW",0
+"Arkansas",2018,"May","TUCKER",0
+"Arkansas",2018,"May","VARNER",0
+"Arkansas",2018,"May","VSM",1
+"Arkansas",2018,"May","WRIGHTSVILLE",0
+"Arkansas",2018,"June","CUMMINS",4
+"Arkansas",2018,"June","EARU",1
+"Arkansas",2018,"June","EARU MAX",0
+"Arkansas",2018,"June","ESTER",0
+"Arkansas",2018,"June","GRIMES",0
+"Arkansas",2018,"June","MAX",0
+"Arkansas",2018,"June","MCPHERSON",0
+"Arkansas",2018,"June","NCU",0
+"Arkansas",2018,"June","NWARWRC",0
+"Arkansas",2018,"June","ORCU",2
+"Arkansas",2018,"June","PBU",0
+"Arkansas",2018,"June","RLW",0
+"Arkansas",2018,"June","TUCKER",1
+"Arkansas",2018,"June","VARNER",0
+"Arkansas",2018,"June","VSM",0
+"Arkansas",2018,"June","WRIGHTSVILLE",0
+"Arkansas",2018,"July","CUMMINS",2
+"Arkansas",2018,"July","EARU",0
+"Arkansas",2018,"July","EARU MAX",0
+"Arkansas",2018,"July","ESTER",1
+"Arkansas",2018,"July","GRIMES",0
+"Arkansas",2018,"July","MAX",0
+"Arkansas",2018,"July","MCPHERSON",0
+"Arkansas",2018,"July","NCU",0
+"Arkansas",2018,"July","NWARWRC",0
+"Arkansas",2018,"July","ORCU",0
+"Arkansas",2018,"July","PBU",0
+"Arkansas",2018,"July","RLW",0
+"Arkansas",2018,"July","TUCKER",0
+"Arkansas",2018,"July","VARNER",0
+"Arkansas",2018,"July","VSM",0
+"Arkansas",2018,"July","WRIGHTSVILLE",1
+"Arkansas",2018,"August","CUMMINS",0
+"Arkansas",2018,"August","EARU",0
+"Arkansas",2018,"August","EARU MAX",0
+"Arkansas",2018,"August","ESTER",1
+"Arkansas",2018,"August","GRIMES",0
+"Arkansas",2018,"August","MAX",0
+"Arkansas",2018,"August","MCPHERSON",0
+"Arkansas",2018,"August","NCU",0
+"Arkansas",2018,"August","NWARWRC",0
+"Arkansas",2018,"August","ORCU",3
+"Arkansas",2018,"August","PBU",0
+"Arkansas",2018,"August","RLW",0
+"Arkansas",2018,"August","TUCKER",0
+"Arkansas",2018,"August","VARNER",1
+"Arkansas",2018,"August","VSM",4
+"Arkansas",2018,"August","WRIGHTSVILLE",0
+"Arkansas",2018,"September","CUMMINS",1
+"Arkansas",2018,"September","EARU",1
+"Arkansas",2018,"September","EARU MAX",0
+"Arkansas",2018,"September","ESTER",0
+"Arkansas",2018,"September","GRIMES",0
+"Arkansas",2018,"September","MAX",0
+"Arkansas",2018,"September","MCPHERSON",0
+"Arkansas",2018,"September","NCU",1
+"Arkansas",2018,"September","NWARWRC",1
+"Arkansas",2018,"September","ORCU",2
+"Arkansas",2018,"September","PBU",1
+"Arkansas",2018,"September","RLW",0
+"Arkansas",2018,"September","TUCKER",0
+"Arkansas",2018,"September","VARNER",0
+"Arkansas",2018,"September","VSM",0
+"Arkansas",2018,"September","WRIGHTSVILLE",0
+"Arkansas",2018,"October","CUMMINS",2
+"Arkansas",2018,"October","EARU",1
+"Arkansas",2018,"October","EARU MAX",0
+"Arkansas",2018,"October","ESTER",0
+"Arkansas",2018,"October","GRIMES",0
+"Arkansas",2018,"October","MAX",4
+"Arkansas",2018,"October","MCPHERSON",0
+"Arkansas",2018,"October","NCU",0
+"Arkansas",2018,"October","NWARWRC",0
+"Arkansas",2018,"October","ORCU",0
+"Arkansas",2018,"October","PBU",0
+"Arkansas",2018,"October","RLW",0
+"Arkansas",2018,"October","TUCKER",2
+"Arkansas",2018,"October","VARNER",0
+"Arkansas",2018,"October","VSM",0
+"Arkansas",2018,"October","WRIGHTSVILLE",0
+"Arkansas",2018,"November","CUMMINS",2
+"Arkansas",2018,"November","EARU",0
+"Arkansas",2018,"November","EARU MAX",0
+"Arkansas",2018,"November","ESTER",0
+"Arkansas",2018,"November","GRIMES",0
+"Arkansas",2018,"November","MAX",1
+"Arkansas",2018,"November","MCPHERSON",0
+"Arkansas",2018,"November","NCU",0
+"Arkansas",2018,"November","NWARWRC",0
+"Arkansas",2018,"November","ORCU",1
+"Arkansas",2018,"November","PBU",0
+"Arkansas",2018,"November","RLW",0
+"Arkansas",2018,"November","TUCKER",0
+"Arkansas",2018,"November","VARNER",0
+"Arkansas",2018,"November","VSM",0
+"Arkansas",2018,"November","WRIGHTSVILLE",0
+"Arkansas",2018,"December","CUMMINS",0
+"Arkansas",2018,"December","EARU",0
+"Arkansas",2018,"December","EARU MAX",0
+"Arkansas",2018,"December","ESTER",0
+"Arkansas",2018,"December","GRIMES",1
+"Arkansas",2018,"December","MAX",0
+"Arkansas",2018,"December","MCPHERSON",2
+"Arkansas",2018,"December","NCU",0
+"Arkansas",2018,"December","NWARWRC",0
+"Arkansas",2018,"December","ORCU",2
+"Arkansas",2018,"December","PBU",0
+"Arkansas",2018,"December","RLW",0
+"Arkansas",2018,"December","TUCKER",0
+"Arkansas",2018,"December","VARNER",0
+"Arkansas",2018,"December","VSM",0
+"Arkansas",2018,"December","WRIGHTSVILLE",0
+"Arkansas",2019,"January","CUMMINS",0
+"Arkansas",2019,"January","EARU",0
+"Arkansas",2019,"January","MAX",1
+"Arkansas",2019,"January","ORCU HOSPITAL",1
+"Arkansas",2019,"January","OUTSIDE",2
+"Arkansas",2019,"January","VARNER SUPERMAX",0
+"Arkansas",2019,"January","VARNER UNIT",1
+"Arkansas",2019,"January","WRIGHTSVILLE",0
+"Arkansas",2019,"February","CUMMINS",2
+"Arkansas",2019,"February","EARU",0
+"Arkansas",2019,"February","MAX",0
+"Arkansas",2019,"February","ORCU HOSPITAL",1
+"Arkansas",2019,"February","OUTSIDE",1
+"Arkansas",2019,"February","VARNER SUPERMAX",0
+"Arkansas",2019,"February","VARNER UNIT",0
+"Arkansas",2019,"February","WRIGHTSVILLE",0
+"Arkansas",2019,"March","CUMMINS",2
+"Arkansas",2019,"March","EARU",1
+"Arkansas",2019,"March","MAX",0
+"Arkansas",2019,"March","ORCU HOSPITAL",5
+"Arkansas",2019,"March","OUTSIDE",4
+"Arkansas",2019,"March","VARNER SUPERMAX",0
+"Arkansas",2019,"March","VARNER UNIT",2
+"Arkansas",2019,"March","WRIGHTSVILLE",0
+"Arkansas",2019,"April","CUMMINS",1
+"Arkansas",2019,"April","EARU",0
+"Arkansas",2019,"April","MAX",0
+"Arkansas",2019,"April","ORCU HOSPITAL",1
+"Arkansas",2019,"April","OUTSIDE",2
+"Arkansas",2019,"April","VARNER SUPERMAX",0
+"Arkansas",2019,"April","VARNER UNIT",0
+"Arkansas",2019,"April","WRIGHTSVILLE",0
+"Arkansas",2019,"May","CUMMINS",0
+"Arkansas",2019,"May","EARU",1
+"Arkansas",2019,"May","MAX",0
+"Arkansas",2019,"May","ORCU HOSPITAL",2
+"Arkansas",2019,"May","OUTSIDE",6
+"Arkansas",2019,"May","VARNER SUPERMAX",0
+"Arkansas",2019,"May","VARNER UNIT",0
+"Arkansas",2019,"May","WRIGHTSVILLE",0
+"Arkansas",2019,"June","CUMMINS",0
+"Arkansas",2019,"June","EARU",0
+"Arkansas",2019,"June","MAX",0
+"Arkansas",2019,"June","ORCU HOSPITAL",1
+"Arkansas",2019,"June","OUTSIDE",4
+"Arkansas",2019,"June","VARNER SUPERMAX",0
+"Arkansas",2019,"June","VARNER UNIT",0
+"Arkansas",2019,"June","WRIGHTSVILLE",0
+"Arkansas",2019,"July","CUMMINS",0
+"Arkansas",2019,"July","EARU",1
+"Arkansas",2019,"July","MAX",0
+"Arkansas",2019,"July","ORCU HOSPITAL",3
+"Arkansas",2019,"July","OUTSIDE",2
+"Arkansas",2019,"July","VARNER SUPERMAX",0
+"Arkansas",2019,"July","VARNER UNIT",1
+"Arkansas",2019,"July","WRIGHTSVILLE",0
+"Arkansas",2019,"August","CUMMINS",0
+"Arkansas",2019,"August","EARU",1
+"Arkansas",2019,"August","MAX",1
+"Arkansas",2019,"August","ORCU HOSPITAL",3
+"Arkansas",2019,"August","OUTSIDE",3
+"Arkansas",2019,"August","VARNER SUPERMAX",0
+"Arkansas",2019,"August","VARNER UNIT",0
+"Arkansas",2019,"August","WRIGHTSVILLE",0
+"Arkansas",2019,"September","CUMMINS",0
+"Arkansas",2019,"September","EARU",1
+"Arkansas",2019,"September","MAX",0
+"Arkansas",2019,"September","ORCU HOSPITAL",1
+"Arkansas",2019,"September","OUTSIDE",1
+"Arkansas",2019,"September","VARNER SUPERMAX",1
+"Arkansas",2019,"September","VARNER UNIT",0
+"Arkansas",2019,"September","WRIGHTSVILLE",0
+"Arkansas",2019,"October","CUMMINS",0
+"Arkansas",2019,"October","EARU",0
+"Arkansas",2019,"October","MAX",0
+"Arkansas",2019,"October","ORCU HOSPITAL",4
+"Arkansas",2019,"October","OUTSIDE",2
+"Arkansas",2019,"October","VARNER SUPERMAX",0
+"Arkansas",2019,"October","VARNER UNIT",0
+"Arkansas",2019,"October","WRIGHTSVILLE",0
+"Arkansas",2019,"November","CUMMINS",0
+"Arkansas",2019,"November","EARU",1
+"Arkansas",2019,"November","MAX",1
+"Arkansas",2019,"November","ORCU HOSPITAL",0
+"Arkansas",2019,"November","OUTSIDE",1
+"Arkansas",2019,"November","VARNER SUPERMAX",0
+"Arkansas",2019,"November","VARNER UNIT",0
+"Arkansas",2019,"November","WRIGHTSVILLE",1
+"Arkansas",2019,"December","CUMMINS",0
+"Arkansas",2019,"December","EARU",1
+"Arkansas",2019,"December","MAX",0
+"Arkansas",2019,"December","ORCU HOSPITAL",4
+"Arkansas",2019,"December","OUTSIDE",0
+"Arkansas",2019,"December","VARNER SUPERMAX",1
+"Arkansas",2019,"December","VARNER UNIT",0
+"Arkansas",2019,"December","WRIGHTSVILLE",0
+"Arkansas",2020,"January","BOWIE COUNTY, TX",0
+"Arkansas",2020,"January","CUMMINS",3
+"Arkansas",2020,"January","DELTA",0
+"Arkansas",2020,"January","EARU",2
+"Arkansas",2020,"January","ESTER",1
+"Arkansas",2020,"January","GRIMES",0
+"Arkansas",2020,"January","HAWKINS - FEMALES",0
+"Arkansas",2020,"January","MSU",1
+"Arkansas",2020,"January","NCU",0
+"Arkansas",2020,"January","ORCU",3
+"Arkansas",2020,"January","PINE BLUFF",0
+"Arkansas",2020,"January","RLW",1
+"Arkansas",2020,"January","TUCKER",0
+"Arkansas",2020,"January","VARNER",0
+"Arkansas",2020,"January","WRIGHTSVILLE",0
+"Arkansas",2020,"February","BOWIE COUNTY, TX",0
+"Arkansas",2020,"February","CUMMINS",0
+"Arkansas",2020,"February","DELTA",0
+"Arkansas",2020,"February","EARU",2
+"Arkansas",2020,"February","ESTER",0
+"Arkansas",2020,"February","GRIMES",0
+"Arkansas",2020,"February","HAWKINS - FEMALES",0
+"Arkansas",2020,"February","MSU",0
+"Arkansas",2020,"February","NCU",0
+"Arkansas",2020,"February","ORCU",1
+"Arkansas",2020,"February","PINE BLUFF",0
+"Arkansas",2020,"February","RLW",0
+"Arkansas",2020,"February","TUCKER",0
+"Arkansas",2020,"February","VARNER",3
+"Arkansas",2020,"February","WRIGHTSVILLE",1
+"Arkansas",2020,"March","BOWIE COUNTY, TX",0
+"Arkansas",2020,"March","CUMMINS",0
+"Arkansas",2020,"March","DELTA",0
+"Arkansas",2020,"March","EARU",0
+"Arkansas",2020,"March","ESTER",1
+"Arkansas",2020,"March","GRIMES",0
+"Arkansas",2020,"March","HAWKINS - FEMALES",0
+"Arkansas",2020,"March","MSU",1
+"Arkansas",2020,"March","NCU",0
+"Arkansas",2020,"March","ORCU",3
+"Arkansas",2020,"March","PINE BLUFF",1
+"Arkansas",2020,"March","RLW",0
+"Arkansas",2020,"March","TUCKER",0
+"Arkansas",2020,"March","VARNER",0
+"Arkansas",2020,"March","WRIGHTSVILLE",0
+"Arkansas",2020,"April","BOWIE COUNTY, TX",0
+"Arkansas",2020,"April","CUMMINS",0
+"Arkansas",2020,"April","DELTA",0
+"Arkansas",2020,"April","EARU",2
+"Arkansas",2020,"April","ESTER",0
+"Arkansas",2020,"April","GRIMES",0
+"Arkansas",2020,"April","HAWKINS - FEMALES",0
+"Arkansas",2020,"April","MSU",0
+"Arkansas",2020,"April","NCU",0
+"Arkansas",2020,"April","ORCU",1
+"Arkansas",2020,"April","PINE BLUFF",1
+"Arkansas",2020,"April","RLW",0
+"Arkansas",2020,"April","TUCKER",0
+"Arkansas",2020,"April","VARNER",0
+"Arkansas",2020,"April","WRIGHTSVILLE",0
+"Arkansas",2020,"May","BOWIE COUNTY, TX",0
+"Arkansas",2020,"May","CUMMINS",10
+"Arkansas",2020,"May","DELTA",0
+"Arkansas",2020,"May","EARU",0
+"Arkansas",2020,"May","ESTER",2
+"Arkansas",2020,"May","GRIMES",0
+"Arkansas",2020,"May","HAWKINS - FEMALES",0
+"Arkansas",2020,"May","MSU",2
+"Arkansas",2020,"May","NCU",0
+"Arkansas",2020,"May","ORCU",0
+"Arkansas",2020,"May","PINE BLUFF",0
+"Arkansas",2020,"May","RLW",1
+"Arkansas",2020,"May","TUCKER",1
+"Arkansas",2020,"May","VARNER",1
+"Arkansas",2020,"May","WRIGHTSVILLE",0
+"Arkansas",2020,"June","BOWIE COUNTY, TX",0
+"Arkansas",2020,"June","CUMMINS",2
+"Arkansas",2020,"June","DELTA",0
+"Arkansas",2020,"June","EARU",1
+"Arkansas",2020,"June","ESTER",0
+"Arkansas",2020,"June","GRIMES",1
+"Arkansas",2020,"June","HAWKINS - FEMALES",0
+"Arkansas",2020,"June","MSU",0
+"Arkansas",2020,"June","NCU",0
+"Arkansas",2020,"June","ORCU",2
+"Arkansas",2020,"June","PINE BLUFF",0
+"Arkansas",2020,"June","RLW",0
+"Arkansas",2020,"June","TUCKER",0
+"Arkansas",2020,"June","VARNER",1
+"Arkansas",2020,"June","WRIGHTSVILLE",0
+"Arkansas",2020,"July","BOWIE COUNTY, TX",0
+"Arkansas",2020,"July","CUMMINS",0
+"Arkansas",2020,"July","DELTA",0
+"Arkansas",2020,"July","EARU",5
+"Arkansas",2020,"July","ESTER",0
+"Arkansas",2020,"July","GRIMES",0
+"Arkansas",2020,"July","HAWKINS - FEMALES",0
+"Arkansas",2020,"July","MSU",0
+"Arkansas",2020,"July","NCU",0
+"Arkansas",2020,"July","ORCU",12
+"Arkansas",2020,"July","PINE BLUFF",0
+"Arkansas",2020,"July","RLW",0
+"Arkansas",2020,"July","TUCKER",1
+"Arkansas",2020,"July","VARNER",2
+"Arkansas",2020,"July","WRIGHTSVILLE",0
+"Arkansas",2020,"August","BOWIE COUNTY, TX",0
+"Arkansas",2020,"August","CUMMINS",0
+"Arkansas",2020,"August","DELTA",0
+"Arkansas",2020,"August","EARU",2
+"Arkansas",2020,"August","ESTER",0
+"Arkansas",2020,"August","GRIMES",0
+"Arkansas",2020,"August","HAWKINS - FEMALES",1
+"Arkansas",2020,"August","MSU",0
+"Arkansas",2020,"August","NCU",0
+"Arkansas",2020,"August","ORCU",8
+"Arkansas",2020,"August","PINE BLUFF",0
+"Arkansas",2020,"August","RLW",0
+"Arkansas",2020,"August","TUCKER",1
+"Arkansas",2020,"August","VARNER",0
+"Arkansas",2020,"August","WRIGHTSVILLE",1
+"Arkansas",2020,"September","BOWIE COUNTY, TX",0
+"Arkansas",2020,"September","CUMMINS",0
+"Arkansas",2020,"September","DELTA",0
+"Arkansas",2020,"September","EARU",0
+"Arkansas",2020,"September","ESTER",0
+"Arkansas",2020,"September","GRIMES",0
+"Arkansas",2020,"September","HAWKINS - FEMALES",0
+"Arkansas",2020,"September","MSU",1
+"Arkansas",2020,"September","NCU",0
+"Arkansas",2020,"September","ORCU",2
+"Arkansas",2020,"September","PINE BLUFF",2
+"Arkansas",2020,"September","RLW",0
+"Arkansas",2020,"September","TUCKER",1
+"Arkansas",2020,"September","VARNER",0
+"Arkansas",2020,"September","WRIGHTSVILLE",1
+"Arkansas",2020,"October","BOWIE COUNTY, TX",2
+"Arkansas",2020,"October","CUMMINS",0
+"Arkansas",2020,"October","DELTA",0
+"Arkansas",2020,"October","EARU",0
+"Arkansas",2020,"October","ESTER",0
+"Arkansas",2020,"October","GRIMES",0
+"Arkansas",2020,"October","HAWKINS - FEMALES",1
+"Arkansas",2020,"October","MSU",3
+"Arkansas",2020,"October","NCU",1
+"Arkansas",2020,"October","ORCU",3
+"Arkansas",2020,"October","PINE BLUFF",0
+"Arkansas",2020,"October","RLW",0
+"Arkansas",2020,"October","TUCKER",2
+"Arkansas",2020,"October","VARNER",1
+"Arkansas",2020,"October","WRIGHTSVILLE",2
+"Arkansas",2020,"November","BOWIE COUNTY, TX",0
+"Arkansas",2020,"November","CUMMINS",0
+"Arkansas",2020,"November","DELTA",0
+"Arkansas",2020,"November","EARU",0
+"Arkansas",2020,"November","ESTER",1
+"Arkansas",2020,"November","GRIMES",1
+"Arkansas",2020,"November","HAWKINS - FEMALES",0
+"Arkansas",2020,"November","MSU",0
+"Arkansas",2020,"November","NCU",0
+"Arkansas",2020,"November","ORCU",3
+"Arkansas",2020,"November","PINE BLUFF",0
+"Arkansas",2020,"November","RLW",0
+"Arkansas",2020,"November","TUCKER",0
+"Arkansas",2020,"November","VARNER",1
+"Arkansas",2020,"November","WRIGHTSVILLE",0
+"Arkansas",2020,"December","BOWIE COUNTY, TX",0
+"Arkansas",2020,"December","CUMMINS",0
+"Arkansas",2020,"December","DELTA",1
+"Arkansas",2020,"December","EARU",2
+"Arkansas",2020,"December","ESTER",0
+"Arkansas",2020,"December","GRIMES",0
+"Arkansas",2020,"December","HAWKINS - FEMALES",0
+"Arkansas",2020,"December","MSU",0
+"Arkansas",2020,"December","NCU",0
+"Arkansas",2020,"December","ORCU",2
+"Arkansas",2020,"December","PINE BLUFF",0
+"Arkansas",2020,"December","RLW",1
+"Arkansas",2020,"December","TUCKER",1
+"Arkansas",2020,"December","VARNER",1
+"Arkansas",2020,"December","WRIGHTSVILLE",1

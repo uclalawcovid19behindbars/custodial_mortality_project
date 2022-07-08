@@ -1,117 +1,117 @@
 "State","Year","Month","Death.Date","Facility","Location","Full.Name","Sex","Race","Death.Age","Circumstance.Specific","UCLA.ID"
-"Kentucky",2018,"January","2018-01-04",NA,NA,"Robbins, Mark","Male",NA,NA,NA,NA
-"Kentucky",2018,"January","2018-01-04",NA,NA,"Coontz, Billy","Male",NA,NA,NA,NA
-"Kentucky",2018,"January","2018-01-07",NA,NA,"Parr, Roosevelt","Male",NA,NA,NA,NA
-"Kentucky",2018,"January","2018-01-13",NA,NA,"Luque, Oscar","Male",NA,NA,NA,NA
-"Kentucky",2018,"January","2018-01-14",NA,NA,"Barnett, Allen","Male",NA,NA,NA,NA
-"Kentucky",2018,"January","2018-01-16",NA,NA,"Sauer, Michael","Male",NA,NA,NA,NA
-"Kentucky",2018,"January","2018-01-17",NA,NA,"Carrico, Dwayne","Male",NA,NA,NA,NA
-"Kentucky",2018,"January","2018-01-25",NA,NA,"Hall, Billy","Male",NA,NA,NA,NA
-"Kentucky",2018,"January","2018-01-25",NA,NA,"Durbin, Bernie","Male",NA,NA,NA,NA
-"Kentucky",2018,"February","2018-02-09",NA,NA,"Mallard, Larry","Male",NA,NA,NA,NA
-"Kentucky",2018,"February","2018-02-13",NA,NA,"Glisson, Michael","Male",NA,NA,NA,NA
-"Kentucky",2018,"February","2018-02-24",NA,NA,"Lightfoot, Bobby","Male",NA,NA,NA,NA
-"Kentucky",2018,"March","2018-03-11",NA,NA,"Barker, Stanley","Male",NA,NA,NA,NA
-"Kentucky",2018,"March","2018-03-20",NA,NA,"Emerson, Clifford","Male",NA,NA,NA,NA
-"Kentucky",2018,"March","2018-03-28",NA,NA,"Durbin, Shirley","Male",NA,NA,NA,NA
-"Kentucky",2018,"April","2018-04-10",NA,NA,"Carwile, Felix","Male",NA,NA,NA,NA
-"Kentucky",2018,"April","2018-04-13",NA,NA,"Doolan, John","Male",NA,NA,NA,NA
-"Kentucky",2018,"April","2018-04-20",NA,NA,"Johnson, Forrest","Male",NA,NA,NA,NA
-"Kentucky",2018,"April","2018-04-22",NA,NA,"Garland, John","Male",NA,NA,NA,NA
-"Kentucky",2018,"April","2018-04-23",NA,NA,"Matthews, Ronald","Male",NA,NA,NA,NA
-"Kentucky",2018,"April","2018-04-23",NA,NA,"Helton, John","Male",NA,NA,NA,NA
-"Kentucky",2018,"April","2018-04-28",NA,NA,"Hill, Nathan","Male",NA,NA,NA,NA
-"Kentucky",2018,"May","2018-05-01",NA,NA,"Clark, James","Male",NA,NA,NA,NA
-"Kentucky",2018,"May","2018-05-02",NA,NA,"Rigg, Timothy","Male",NA,NA,NA,NA
-"Kentucky",2018,"May","2018-05-04",NA,NA,"Wells, Steven","Male",NA,NA,NA,NA
-"Kentucky",2018,"June","2018-06-06",NA,NA,"Baker, Timothy","Male",NA,NA,NA,NA
-"Kentucky",2018,"June","2018-06-17",NA,NA,"Pennington, William","Male",NA,NA,NA,NA
-"Kentucky",2018,"July","2018-07-11",NA,NA,"Robinson, Claude","Male",NA,NA,NA,NA
-"Kentucky",2018,"July","2018-07-19",NA,NA,"Castaldani, Erica","Female",NA,NA,NA,NA
-"Kentucky",2018,"July","2018-07-28",NA,NA,"Jones, Justin","Male",NA,NA,NA,NA
-"Kentucky",2018,"August","2018-08-05",NA,NA,"Hurley, Donnie","Male",NA,NA,NA,NA
-"Kentucky",2018,"August","2018-08-16",NA,NA,"Wynn, Kevin","Male",NA,NA,NA,NA
-"Kentucky",2018,"August","2018-08-22",NA,NA,"Mills, Ronald","Male",NA,NA,NA,NA
-"Kentucky",2018,"August","2018-08-22",NA,NA,"Ratliff, Nick","Male",NA,NA,NA,NA
-"Kentucky",2018,"September","2018-09-01",NA,NA,"Meade, Jeff","Male",NA,NA,NA,NA
-"Kentucky",2018,"September","2018-09-24",NA,NA,"Eagle, Jack","Male",NA,NA,NA,NA
-"Kentucky",2018,"October","2018-10-11",NA,NA,"Piskula, Louis","Male",NA,NA,NA,NA
-"Kentucky",2018,"October","2018-10-21",NA,NA,"St. James, David","Male",NA,NA,NA,NA
-"Kentucky",2018,"October","2018-10-25",NA,NA,"Johnson, Eric","Male",NA,NA,NA,NA
-"Kentucky",2018,"October","2018-10-31",NA,NA,"James, Larry","Male",NA,NA,NA,NA
-"Kentucky",2018,"November","2018-11-02",NA,NA,"Lewis, Raymond","Male",NA,NA,NA,NA
-"Kentucky",2018,"November","2018-11-17",NA,NA,"Sinkhorn, Bobby","Male",NA,NA,NA,NA
-"Kentucky",2018,"November","2018-11-17",NA,NA,"Pique, Roger","Male",NA,NA,NA,NA
-"Kentucky",2018,"November","2018-11-19",NA,NA,"Chaffins, Krystal","Female",NA,NA,NA,NA
-"Kentucky",2018,"November","2018-11-23",NA,NA,"White, Kenneth","Male",NA,NA,NA,NA
-"Kentucky",2018,"December","2018-12-03",NA,NA,"Edmonds, Robert","Male",NA,NA,NA,NA
-"Kentucky",2018,"December","2018-12-07",NA,NA,"Lowe, Willie","Male",NA,NA,NA,NA
-"Kentucky",2018,"December","2018-12-17",NA,NA,"Brand, Dewayne","Male",NA,NA,NA,NA
-"Kentucky",2018,"December","2018-12-26",NA,NA,"Cornett, Michael","Male",NA,NA,NA,NA
-"Kentucky",2018,"December","2018-12-30",NA,NA,"Craycraft, Russell","Male",NA,NA,NA,NA
-"Kentucky",2019,"January","2019-01-02",NA,NA,"Hopper, Kenneth","Male",NA,NA,NA,NA
-"Kentucky",2019,"January","2019-01-05",NA,NA,"Tolliver, Lyle","Male",NA,NA,NA,NA
-"Kentucky",2019,"January","2019-01-08",NA,NA,"Peterson, Charles","Male",NA,NA,NA,NA
-"Kentucky",2019,"January","2019-01-14",NA,NA,"Krauth, Donald","Male",NA,NA,NA,NA
-"Kentucky",2019,"January","2019-01-18",NA,NA,"Hamilton, Vondia","Male",NA,NA,NA,NA
-"Kentucky",2019,"January","2019-01-19",NA,NA,"Paris, William","Male",NA,NA,NA,NA
-"Kentucky",2019,"January","2019-01-19",NA,NA,"Pingel, Richard","Male",NA,NA,NA,NA
-"Kentucky",2019,"January","2019-01-22",NA,NA,"Manning, Danny","Male",NA,NA,NA,NA
-"Kentucky",2019,"January","2019-01-26",NA,NA,"Williams, Albert","Male",NA,NA,NA,NA
-"Kentucky",2019,"January","2019-01-31",NA,NA,"Wagoner, Jason","Male",NA,NA,NA,NA
-"Kentucky",2019,"February","2019-02-06",NA,NA,"Hehman, Charles","Male",NA,NA,NA,NA
-"Kentucky",2019,"February","2019-02-08",NA,NA,"Plotkin, Ann","Female",NA,NA,NA,NA
-"Kentucky",2019,"February","2019-02-20",NA,NA,"Richardson, Roy","Male",NA,NA,NA,NA
-"Kentucky",2019,"February","2019-02-26",NA,NA,"Clark, Joseph","Male",NA,NA,NA,NA
-"Kentucky",2019,"March","2019-03-02",NA,NA,"Tackett, Julius","Male",NA,NA,NA,NA
-"Kentucky",2019,"March","2019-03-04",NA,NA,"Cull, Lawrence","Male",NA,NA,NA,NA
-"Kentucky",2019,"March","2019-03-13",NA,NA,"Jones, Charlie","Male",NA,NA,NA,NA
-"Kentucky",2019,"March","2019-03-20",NA,NA,"Cottrell, Lisa","Female",NA,NA,NA,NA
-"Kentucky",2019,"March","2019-03-28",NA,NA,"Rogers, Charles","Male",NA,NA,NA,NA
-"Kentucky",2019,"March","2019-03-29",NA,NA,"Tomlin, Donald","Male",NA,NA,NA,NA
-"Kentucky",2019,"April","2019-04-05",NA,NA,"Owens, Charles","Male",NA,NA,NA,NA
-"Kentucky",2019,"April","2019-04-08",NA,NA,"Mayo, H.","Male",NA,NA,NA,NA
-"Kentucky",2019,"April","2019-04-11",NA,NA,"Ely, Robin","Male",NA,NA,NA,NA
-"Kentucky",2019,"April","2019-04-14",NA,NA,"Maynard, Robert","Male",NA,NA,NA,NA
-"Kentucky",2019,"April","2019-04-22",NA,NA,"Cole, Richard","Male",NA,NA,NA,NA
-"Kentucky",2019,"April","2019-04-27",NA,NA,"Thweatt, Michael","Male",NA,NA,NA,NA
-"Kentucky",2019,"May","2019-05-04",NA,NA,"Austin, Dallas","Male",NA,NA,NA,NA
-"Kentucky",2019,"May","2019-05-04",NA,NA,"Stump, Jessie","Male",NA,NA,NA,NA
-"Kentucky",2019,"May","2019-05-10",NA,NA,"Ison, Arthur","Male",NA,NA,NA,NA
-"Kentucky",2019,"May","2019-05-27",NA,NA,"Daniels, Randolph","Male",NA,NA,NA,NA
-"Kentucky",2019,"May","2019-05-28",NA,NA,"Taylor, Donald","Male",NA,NA,NA,NA
-"Kentucky",2019,"June","2019-06-05",NA,NA,"Davis, James","Male",NA,NA,NA,NA
-"Kentucky",2019,"June","2019-06-10",NA,NA,"Kelly, Virgil","Male",NA,NA,NA,NA
-"Kentucky",2019,"June","2019-06-19",NA,NA,"Upchurch, Larry","Male",NA,NA,NA,NA
-"Kentucky",2019,"June","2019-06-21",NA,NA,"Hudson, J.B.","Male",NA,NA,NA,NA
-"Kentucky",2019,"June","2019-06-22",NA,NA,"Knight, Brian","Male",NA,NA,NA,NA
-"Kentucky",2019,"June","2019-06-27",NA,NA,"Smith, Everett","Male",NA,NA,NA,NA
-"Kentucky",2019,"July","2019-07-07",NA,NA,"Baldwin, Chauncey","Male",NA,NA,NA,NA
-"Kentucky",2019,"July","2019-07-10",NA,NA,"Nall, James","Male",NA,NA,NA,NA
-"Kentucky",2019,"July","2019-07-16",NA,NA,"Bray, Steven","Male",NA,NA,NA,NA
-"Kentucky",2019,"July","2019-07-28",NA,NA,"Mullins, David","Male",NA,NA,NA,NA
-"Kentucky",2019,"August","2019-08-11",NA,NA,"Miller, Christopher","Male",NA,NA,NA,NA
-"Kentucky",2019,"August","2019-08-15",NA,NA,"Murtaugh, Kevin","Male",NA,NA,NA,NA
-"Kentucky",2019,"August","2019-08-24",NA,NA,"Lair, Kenneth","Male",NA,NA,NA,NA
-"Kentucky",2019,"September","2019-09-18",NA,NA,"Pendleton, Fred","Male",NA,NA,NA,NA
-"Kentucky",2019,"September","2019-09-19",NA,NA,"Cline, Carl","Male",NA,NA,NA,NA
-"Kentucky",2019,"October","2019-10-02",NA,NA,"Bryan, Howard","Male",NA,NA,NA,NA
-"Kentucky",2019,"October","2019-10-04",NA,NA,"Conner, Jessie","Male",NA,NA,NA,NA
-"Kentucky",2019,"October","2019-10-05",NA,NA,"Truitt, Roscoe","Male",NA,NA,NA,NA
-"Kentucky",2019,"October","2019-10-07",NA,NA,"Dabney, Billy","Male",NA,NA,NA,NA
-"Kentucky",2019,"October","2019-10-21",NA,NA,"Gilliland, Michael","Male",NA,NA,NA,NA
-"Kentucky",2019,"November","2019-11-01",NA,NA,"Simpson, Charles","Male",NA,NA,NA,NA
-"Kentucky",2019,"November","2019-11-05",NA,NA,"Mills, Paul","Male",NA,NA,NA,NA
-"Kentucky",2019,"November","2019-11-07",NA,NA,"Chandler, Carol","Female",NA,NA,NA,NA
-"Kentucky",2019,"November","2019-11-09",NA,NA,"Payne, Terrance","Male",NA,NA,NA,NA
-"Kentucky",2019,"November","2019-11-14",NA,NA,"Blake, James","Male",NA,NA,NA,NA
-"Kentucky",2019,"November","2019-11-19",NA,NA,"Stewart, Garrette","Male",NA,NA,NA,NA
-"Kentucky",2019,"November","2019-11-29",NA,NA,"Helton, Walter","Male",NA,NA,NA,NA
-"Kentucky",2019,"December","2019-12-05",NA,NA,"Taulbee, Billy","Male",NA,NA,NA,NA
-"Kentucky",2019,"December","2019-12-07",NA,NA,"Roberts, Henry","Male",NA,NA,NA,NA
-"Kentucky",2019,"December","2019-12-22",NA,NA,"Sanders, Billy","Male",NA,NA,NA,NA
-"Kentucky",2019,"December","2019-12-23",NA,NA,"Hudson, Eddie","Male",NA,NA,NA,NA
-"Kentucky",2019,"December","2019-12-31",NA,NA,"Ferguson, Kelly","Male",NA,NA,NA,NA
+"Kentucky",2018,"January","2018-01-04",NA,NA,"Robbins, Mark","M",NA,NA,NA,NA
+"Kentucky",2018,"January","2018-01-04",NA,NA,"Coontz, Billy","M",NA,NA,NA,NA
+"Kentucky",2018,"January","2018-01-07",NA,NA,"Parr, Roosevelt","M",NA,NA,NA,NA
+"Kentucky",2018,"January","2018-01-13",NA,NA,"Luque, Oscar","M",NA,NA,NA,NA
+"Kentucky",2018,"January","2018-01-14",NA,NA,"Barnett, Allen","M",NA,NA,NA,NA
+"Kentucky",2018,"January","2018-01-16",NA,NA,"Sauer, Michael","M",NA,NA,NA,NA
+"Kentucky",2018,"January","2018-01-17",NA,NA,"Carrico, Dwayne","M",NA,NA,NA,NA
+"Kentucky",2018,"January","2018-01-25",NA,NA,"Hall, Billy","M",NA,NA,NA,NA
+"Kentucky",2018,"January","2018-01-25",NA,NA,"Durbin, Bernie","M",NA,NA,NA,NA
+"Kentucky",2018,"February","2018-02-09",NA,NA,"Mallard, Larry","M",NA,NA,NA,NA
+"Kentucky",2018,"February","2018-02-13",NA,NA,"Glisson, Michael","M",NA,NA,NA,NA
+"Kentucky",2018,"February","2018-02-24",NA,NA,"Lightfoot, Bobby","M",NA,NA,NA,NA
+"Kentucky",2018,"March","2018-03-11",NA,NA,"Barker, Stanley","M",NA,NA,NA,NA
+"Kentucky",2018,"March","2018-03-20",NA,NA,"Emerson, Clifford","M",NA,NA,NA,NA
+"Kentucky",2018,"March","2018-03-28",NA,NA,"Durbin, Shirley","M",NA,NA,NA,NA
+"Kentucky",2018,"April","2018-04-10",NA,NA,"Carwile, Felix","M",NA,NA,NA,NA
+"Kentucky",2018,"April","2018-04-13",NA,NA,"Doolan, John","M",NA,NA,NA,NA
+"Kentucky",2018,"April","2018-04-20",NA,NA,"Johnson, Forrest","M",NA,NA,NA,NA
+"Kentucky",2018,"April","2018-04-22",NA,NA,"Garland, John","M",NA,NA,NA,NA
+"Kentucky",2018,"April","2018-04-23",NA,NA,"Matthews, Ronald","M",NA,NA,NA,NA
+"Kentucky",2018,"April","2018-04-23",NA,NA,"Helton, John","M",NA,NA,NA,NA
+"Kentucky",2018,"April","2018-04-28",NA,NA,"Hill, Nathan","M",NA,NA,NA,NA
+"Kentucky",2018,"May","2018-05-01",NA,NA,"Clark, James","M",NA,NA,NA,NA
+"Kentucky",2018,"May","2018-05-02",NA,NA,"Rigg, Timothy","M",NA,NA,NA,NA
+"Kentucky",2018,"May","2018-05-04",NA,NA,"Wells, Steven","M",NA,NA,NA,NA
+"Kentucky",2018,"June","2018-06-06",NA,NA,"Baker, Timothy","M",NA,NA,NA,NA
+"Kentucky",2018,"June","2018-06-17",NA,NA,"Pennington, William","M",NA,NA,NA,NA
+"Kentucky",2018,"July","2018-07-11",NA,NA,"Robinson, Claude","M",NA,NA,NA,NA
+"Kentucky",2018,"July","2018-07-19",NA,NA,"Castaldani, Erica","F",NA,NA,NA,NA
+"Kentucky",2018,"July","2018-07-28",NA,NA,"Jones, Justin","M",NA,NA,NA,NA
+"Kentucky",2018,"August","2018-08-05",NA,NA,"Hurley, Donnie","M",NA,NA,NA,NA
+"Kentucky",2018,"August","2018-08-16",NA,NA,"Wynn, Kevin","M",NA,NA,NA,NA
+"Kentucky",2018,"August","2018-08-22",NA,NA,"Mills, Ronald","M",NA,NA,NA,NA
+"Kentucky",2018,"August","2018-08-22",NA,NA,"Ratliff, Nick","M",NA,NA,NA,NA
+"Kentucky",2018,"September","2018-09-01",NA,NA,"Meade, Jeff","M",NA,NA,NA,NA
+"Kentucky",2018,"September","2018-09-24",NA,NA,"Eagle, Jack","M",NA,NA,NA,NA
+"Kentucky",2018,"October","2018-10-11",NA,NA,"Piskula, Louis","M",NA,NA,NA,NA
+"Kentucky",2018,"October","2018-10-21",NA,NA,"St. James, David","M",NA,NA,NA,NA
+"Kentucky",2018,"October","2018-10-25",NA,NA,"Johnson, Eric","M",NA,NA,NA,NA
+"Kentucky",2018,"October","2018-10-31",NA,NA,"James, Larry","M",NA,NA,NA,NA
+"Kentucky",2018,"November","2018-11-02",NA,NA,"Lewis, Raymond","M",NA,NA,NA,NA
+"Kentucky",2018,"November","2018-11-17",NA,NA,"Sinkhorn, Bobby","M",NA,NA,NA,NA
+"Kentucky",2018,"November","2018-11-17",NA,NA,"Pique, Roger","M",NA,NA,NA,NA
+"Kentucky",2018,"November","2018-11-19",NA,NA,"Chaffins, Krystal","F",NA,NA,NA,NA
+"Kentucky",2018,"November","2018-11-23",NA,NA,"White, Kenneth","M",NA,NA,NA,NA
+"Kentucky",2018,"December","2018-12-03",NA,NA,"Edmonds, Robert","M",NA,NA,NA,NA
+"Kentucky",2018,"December","2018-12-07",NA,NA,"Lowe, Willie","M",NA,NA,NA,NA
+"Kentucky",2018,"December","2018-12-17",NA,NA,"Brand, Dewayne","M",NA,NA,NA,NA
+"Kentucky",2018,"December","2018-12-26",NA,NA,"Cornett, Michael","M",NA,NA,NA,NA
+"Kentucky",2018,"December","2018-12-30",NA,NA,"Craycraft, Russell","M",NA,NA,NA,NA
+"Kentucky",2019,"January","2019-01-02",NA,NA,"Hopper, Kenneth","M",NA,NA,NA,NA
+"Kentucky",2019,"January","2019-01-05",NA,NA,"Tolliver, Lyle","M",NA,NA,NA,NA
+"Kentucky",2019,"January","2019-01-08",NA,NA,"Peterson, Charles","M",NA,NA,NA,NA
+"Kentucky",2019,"January","2019-01-14",NA,NA,"Krauth, Donald","M",NA,NA,NA,NA
+"Kentucky",2019,"January","2019-01-18",NA,NA,"Hamilton, Vondia","M",NA,NA,NA,NA
+"Kentucky",2019,"January","2019-01-19",NA,NA,"Paris, William","M",NA,NA,NA,NA
+"Kentucky",2019,"January","2019-01-19",NA,NA,"Pingel, Richard","M",NA,NA,NA,NA
+"Kentucky",2019,"January","2019-01-22",NA,NA,"Manning, Danny","M",NA,NA,NA,NA
+"Kentucky",2019,"January","2019-01-26",NA,NA,"Williams, Albert","M",NA,NA,NA,NA
+"Kentucky",2019,"January","2019-01-31",NA,NA,"Wagoner, Jason","M",NA,NA,NA,NA
+"Kentucky",2019,"February","2019-02-06",NA,NA,"Hehman, Charles","M",NA,NA,NA,NA
+"Kentucky",2019,"February","2019-02-08",NA,NA,"Plotkin, Ann","F",NA,NA,NA,NA
+"Kentucky",2019,"February","2019-02-20",NA,NA,"Richardson, Roy","M",NA,NA,NA,NA
+"Kentucky",2019,"February","2019-02-26",NA,NA,"Clark, Joseph","M",NA,NA,NA,NA
+"Kentucky",2019,"March","2019-03-02",NA,NA,"Tackett, Julius","M",NA,NA,NA,NA
+"Kentucky",2019,"March","2019-03-04",NA,NA,"Cull, Lawrence","M",NA,NA,NA,NA
+"Kentucky",2019,"March","2019-03-13",NA,NA,"Jones, Charlie","M",NA,NA,NA,NA
+"Kentucky",2019,"March","2019-03-20",NA,NA,"Cottrell, Lisa","F",NA,NA,NA,NA
+"Kentucky",2019,"March","2019-03-28",NA,NA,"Rogers, Charles","M",NA,NA,NA,NA
+"Kentucky",2019,"March","2019-03-29",NA,NA,"Tomlin, Donald","M",NA,NA,NA,NA
+"Kentucky",2019,"April","2019-04-05",NA,NA,"Owens, Charles","M",NA,NA,NA,NA
+"Kentucky",2019,"April","2019-04-08",NA,NA,"Mayo, H.","M",NA,NA,NA,NA
+"Kentucky",2019,"April","2019-04-11",NA,NA,"Ely, Robin","M",NA,NA,NA,NA
+"Kentucky",2019,"April","2019-04-14",NA,NA,"Maynard, Robert","M",NA,NA,NA,NA
+"Kentucky",2019,"April","2019-04-22",NA,NA,"Cole, Richard","M",NA,NA,NA,NA
+"Kentucky",2019,"April","2019-04-27",NA,NA,"Thweatt, Michael","M",NA,NA,NA,NA
+"Kentucky",2019,"May","2019-05-04",NA,NA,"Austin, Dallas","M",NA,NA,NA,NA
+"Kentucky",2019,"May","2019-05-04",NA,NA,"Stump, Jessie","M",NA,NA,NA,NA
+"Kentucky",2019,"May","2019-05-10",NA,NA,"Ison, Arthur","M",NA,NA,NA,NA
+"Kentucky",2019,"May","2019-05-27",NA,NA,"Daniels, Randolph","M",NA,NA,NA,NA
+"Kentucky",2019,"May","2019-05-28",NA,NA,"Taylor, Donald","M",NA,NA,NA,NA
+"Kentucky",2019,"June","2019-06-05",NA,NA,"Davis, James","M",NA,NA,NA,NA
+"Kentucky",2019,"June","2019-06-10",NA,NA,"Kelly, Virgil","M",NA,NA,NA,NA
+"Kentucky",2019,"June","2019-06-19",NA,NA,"Upchurch, Larry","M",NA,NA,NA,NA
+"Kentucky",2019,"June","2019-06-21",NA,NA,"Hudson, J.B.","M",NA,NA,NA,NA
+"Kentucky",2019,"June","2019-06-22",NA,NA,"Knight, Brian","M",NA,NA,NA,NA
+"Kentucky",2019,"June","2019-06-27",NA,NA,"Smith, Everett","M",NA,NA,NA,NA
+"Kentucky",2019,"July","2019-07-07",NA,NA,"Baldwin, Chauncey","M",NA,NA,NA,NA
+"Kentucky",2019,"July","2019-07-10",NA,NA,"Nall, James","M",NA,NA,NA,NA
+"Kentucky",2019,"July","2019-07-16",NA,NA,"Bray, Steven","M",NA,NA,NA,NA
+"Kentucky",2019,"July","2019-07-28",NA,NA,"Mullins, David","M",NA,NA,NA,NA
+"Kentucky",2019,"August","2019-08-11",NA,NA,"Miller, Christopher","M",NA,NA,NA,NA
+"Kentucky",2019,"August","2019-08-15",NA,NA,"Murtaugh, Kevin","M",NA,NA,NA,NA
+"Kentucky",2019,"August","2019-08-24",NA,NA,"Lair, Kenneth","M",NA,NA,NA,NA
+"Kentucky",2019,"September","2019-09-18",NA,NA,"Pendleton, Fred","M",NA,NA,NA,NA
+"Kentucky",2019,"September","2019-09-19",NA,NA,"Cline, Carl","M",NA,NA,NA,NA
+"Kentucky",2019,"October","2019-10-02",NA,NA,"Bryan, Howard","M",NA,NA,NA,NA
+"Kentucky",2019,"October","2019-10-04",NA,NA,"Conner, Jessie","M",NA,NA,NA,NA
+"Kentucky",2019,"October","2019-10-05",NA,NA,"Truitt, Roscoe","M",NA,NA,NA,NA
+"Kentucky",2019,"October","2019-10-07",NA,NA,"Dabney, Billy","M",NA,NA,NA,NA
+"Kentucky",2019,"October","2019-10-21",NA,NA,"Gilliland, Michael","M",NA,NA,NA,NA
+"Kentucky",2019,"November","2019-11-01",NA,NA,"Simpson, Charles","M",NA,NA,NA,NA
+"Kentucky",2019,"November","2019-11-05",NA,NA,"Mills, Paul","M",NA,NA,NA,NA
+"Kentucky",2019,"November","2019-11-07",NA,NA,"Chandler, Carol","F",NA,NA,NA,NA
+"Kentucky",2019,"November","2019-11-09",NA,NA,"Payne, Terrance","M",NA,NA,NA,NA
+"Kentucky",2019,"November","2019-11-14",NA,NA,"Blake, James","M",NA,NA,NA,NA
+"Kentucky",2019,"November","2019-11-19",NA,NA,"Stewart, Garrette","M",NA,NA,NA,NA
+"Kentucky",2019,"November","2019-11-29",NA,NA,"Helton, Walter","M",NA,NA,NA,NA
+"Kentucky",2019,"December","2019-12-05",NA,NA,"Taulbee, Billy","M",NA,NA,NA,NA
+"Kentucky",2019,"December","2019-12-07",NA,NA,"Roberts, Henry","M",NA,NA,NA,NA
+"Kentucky",2019,"December","2019-12-22",NA,NA,"Sanders, Billy","M",NA,NA,NA,NA
+"Kentucky",2019,"December","2019-12-23",NA,NA,"Hudson, Eddie","M",NA,NA,NA,NA
+"Kentucky",2019,"December","2019-12-31",NA,NA,"Ferguson, Kelly","M",NA,NA,NA,NA
 "Kentucky",2020,"January","2020-01-13","KSR",NA,NA,NA,NA,NA,"Cardiopulmonary Arrest secondary to CHF, Hypoxia.  Patient was receiving treatment for liver cancer.",562
 "Kentucky",2020,"January","2020-01-13","KSR",NA,NA,NA,NA,NA,"Acute Respiratory Failure secondary to a stroke.  Patient was DNR.",562
 "Kentucky",2020,"January","2020-01-17","KSR",NA,NA,NA,NA,NA,"End stage esophegeal cancer, DNR and Palliative care.",562
@@ -189,66 +189,66 @@
 "Kentucky",2020,"December","2020-12-15","KSR",NA,NA,NA,NA,NA,"cardiopulmonary arrest secondary to COVID 19 infection",562
 "Kentucky",2020,"December","2020-12-15","KSR",NA,NA,NA,NA,NA,"cardiopulmonary arrest secondary to COVID 19 infection",562
 "Kentucky",2020,"December","2020-12-18","KSR",NA,NA,NA,NA,NA,"cardiopulmonary arrest secondary to COVID‚Äê19 infection",562
-"Kentucky",2021,"January","2021-01-05","Northpoint Training Center","Ephraim McDowell Regional Medical Center",NA,"M","White",63,"Cardiopulmonary Arrest secondary to COVID-19",NA
-"Kentucky",2021,"January","2021-01-06","Eastern Kentucky Correctional Complex","Morgan County ARH Hospital",NA,"M","White",37,"Cardiopulmonary Arrest secondary to Myocardial Infarcton",NA
-"Kentucky",2021,"January","2021-01-06","Kentucky State Reformatory","Hosparus of Louisville",NA,"M","White",70,"Cardiopulmonary Arrest secondary to Lung Cancer",NA
-"Kentucky",2021,"January","2021-01-19","Northpoint Training Center","Central Baptist Hospital",NA,"M","White",56,"Cardiopulmonary Arrest secondary to COVID-19",NA
-"Kentucky",2021,"January","2021-01-20","Northpoint Training Center","Ephraim McDowell Regional Medical Center",NA,"M","White",61,"Cardiopulmonary Arrest secondary to COVID-19",NA
-"Kentucky",2021,"January","2021-01-22","Eastern Kentucky Correctional Complex","UK Medical Center",NA,"M","White",30,"Cardiopulmonary Arrest secondary to COVID-19",NA
-"Kentucky",2021,"February","2021-02-01","Green River Correctional Complex","Owensboro Health Regional Hospital",NA,"M","White",78,"Cardiopulmonary Arrest secondary to Respiratory Failure",NA
-"Kentucky",2021,"February","2021-02-07","Luther Luckett Correctional Complex","Norton Brownsboro Hospital",NA,"M","White",75,"Cardiopulmonary Arrest secondary to COVID-19",NA
-"Kentucky",2021,"February","2021-02-09","Northpoint Training Center","Ephraim McDowell Regional Medical Center",NA,"M","White",51,"Cardiopulmonary Arrest secondary to COVID-19",NA
-"Kentucky",2021,"February","2021-02-12","Roederer Correctional Complex","Norton Downtown Hospital",NA,"M","Black",56,"Cardiopulmonary Arrest secondary to Acute Liver Failure and Sepsis",NA
-"Kentucky",2021,"February","2021-02-13","Eastern Kentucky Correctional Complex","Eastern Kentucky Correctional Complex",NA,"M","Black",30,"Systemic Illness due to COVID-19 with Contributing Factor of Hypertensive Cardiovascular Disease",NA
-"Kentucky",2021,"February","2021-02-14","Kentucky State Reformatory","Kentucky State Reformatory",NA,"M","White",35,"Cardiopulmonary Arrest secondary to End Stage Renal Disease",NA
-"Kentucky",2021,"February","2021-02-28","Luther Luckett Correctional Complex","Norton Downtown Hospital",NA,"M","Black",39,"Cardiopulmonary Arrest secondary to COVID-19",NA
-"Kentucky",2021,"March","2021-03-07","Western KY Correctional Complex","Baptist Health Hospital",NA,"M","White",54,"Cardiopulmonary Arrest secondary to COVID-19",NA
-"Kentucky",2021,"March","2021-03-09","Kentucky State Reformatory","Kentucky State Reformatory",NA,"M","Black",40,"Hypertensive Heart Disease",NA
-"Kentucky",2021,"March","2021-03-10","Western KY Correctional Complex","Baptist Health Hospital",NA,"M","White",48,"Cardiopulmonary Arrest secondary to COVID-19",NA
-"Kentucky",2021,"March","2021-03-10","Little Sandy Correctional Complex","Little Sandy Correctional Complex",NA,"M","Black",38,"Acute Esophageal Necrosis secondary to Hypertensive Cardiovascular Disease, Renal Insufficiency",NA
-"Kentucky",2021,"March","2021-03-18","Western KY Correctional Complex","Baptist Health Hospital",NA,"M","Black",52,"Cardiopulmonary Arrest secondary to COVID-19",NA
-"Kentucky",2021,"March","2021-03-19","Western KY Correctional Complex","Baptist Health Hospital",NA,"M","Black",61,"Cardiopulmonary Arrest secondary to COVID-19",NA
-"Kentucky",2021,"March","2021-03-31","Kentucky State Reformatory","Hosparus of Louisville",NA,"M","White",73,"Cardiopulmonary Arrest secondary to Sepsis, Osteomyelitis",NA
-"Kentucky",2021,"April","2021-04-01","Roederer Correctional Complex","Norton Downtown Hospital",NA,"M","White",61,"Cardiopulmonary Arrest secondary to Liver Failure",NA
-"Kentucky",2021,"April","2021-04-03","Kentucky State Reformatory","Kentucky State Reformatory",NA,"M","Black",59,"Cardiopulmonary Arrest secondary to Diabetes with Hypertension",NA
-"Kentucky",2021,"April","2021-04-06","Kentucky Correctional Institution for Women","Norton Brownsboro Hospital",NA,"F","White",62,"Cardiac Arrest",NA
-"Kentucky",2021,"April","2021-04-30","Kentucky State Reformatory","Norton Brownsboro Hospital",NA,"M","White",62,"Cardiopulmonary Arrest secondary to Cardiogenic Shock",NA
-"Kentucky",2021,"April","2021-04-30","Eastern Kentucky Correctional Complex","Morgan County ARH Hospital",NA,"M","White",43,"Cardiopulmonary Arrest secondary to Pulmonary Thromboembolism",NA
-"Kentucky",2021,"May","2021-05-07","Luther Luckett Correctional Complex","Luther Luckett Correctional Complex",NA,"M","White",53,"Hanging",NA
-"Kentucky",2021,"May","2021-05-09","Eastern Kentucky Correctional Complex","UK Medical Center",NA,"M","White",31,"Cardiopulmonary Arrest secondary to Septic Emboli and Stroke",NA
-"Kentucky",2021,"May","2021-05-14","Kentucky State Reformatory","Hosparus Inpatient Care Center",NA,"M","White",59,"Cardiopulmonary Arrest secondary to Metastatic Colorectal Cancer with Chronic Myeloid Leukemia",NA
-"Kentucky",2021,"May","2021-05-19","Kentucky State Reformatory","Hosparus of Louisville",NA,"M","Black",62,"Cardiopulmonary Arrest secondary to Heptocellular Carcinoma",NA
-"Kentucky",2021,"May","2021-05-28","Kentucky State Reformatory","Norton Downtown Hospital",NA,"M","Black",39,"Cardiopulmonary Arrest secondary to Metastatic Lung Cancer",NA
-"Kentucky",2021,"June","2021-06-02","Northpoint Training Center","Ephraim McDowell Regional Medical Center",NA,"M","White",69,"Cardiopulmonary Arrest secondary to COVID-19",NA
-"Kentucky",2021,"June","2021-06-14","Kentucky State Reformatory","Baptist Health LaGrange",NA,"M","Black",79,"Cardiopulmonary Arrest secondary to Cardiomyopathy",NA
-"Kentucky",2021,"June","2021-06-26","Eastern Kentucky Correctional Complex","University of Kentucky Medical Center",NA,"M","White",52,"Cardiopulmonary Arrest secondary to Necrotizing Pancreatitis, Septic Shock",NA
-"Kentucky",2021,"June","2021-06-29","Luther Luckett Correctional Complex","Hosparus Inpatient Care Center",NA,"M","White",62,"Cardiopulmonary Arrest secondary to Respiratory Failure",NA
-"Kentucky",2021,"June","2021-06-30","Northpoint Training Center","Ephraim McDowell Regional Medical Center",NA,"M","White",66,"Cardiopulmonary Arrest secondary to Atherosclerotic Cardiovascular Disease",NA
-"Kentucky",2021,"July","2021-07-05","Kentucky State Reformatory","Kentucky State Reformatory",NA,"M","White",86,"Cardiopulmonary Arrest secondary to HTN and Hytothyroidism",NA
-"Kentucky",2021,"July","2021-07-23","Kentucky State Reformatory","Norton Downtown Hospital",NA,"M","White",68,"Cardiopulmonary Arrest secondary to COPD and Heart Failure",NA
-"Kentucky",2021,"July","2021-07-23","Roederer Correctional Complex","Norton Hospital, Chestnut Street",NA,"M","Black",62,"Cardiopulmonary Arrest secondary to Respiratory Failure",NA
-"Kentucky",2021,"August","2021-08-03","Eastern Kentucky Correctional Complex","Morgan County ARH Hospital",NA,"M","Black",26,"Pulmonary Thromboembolus",NA
-"Kentucky",2021,"August","2021-08-09","Roederer Correctional Complex","Norton Brownsboro Hospital",NA,"M","White",59,"Cardiopulmonary Arrest secondary to Bilateral Embolism",NA
-"Kentucky",2021,"August","2021-08-20","Northpoint Training Center","Ephraim McDowell Regional Medical Center",NA,"M","Black",39,"Drowning",NA
-"Kentucky",2021,"August","2021-08-27","Eastern Kentucky Correctional Complex","St. Claire Regional Hospital",NA,"M","White",52,"Cardiopulmonary Arrest secondary to Cardiogenic Shock",NA
-"Kentucky",2021,"August","2021-08-28","Kentucky State Reformatory","Norton Pavilion Hospital",NA,"M","White",55,"Cardiopulmonary Arrest secondary to Metastatic Cancer",NA
-"Kentucky",2021,"September","2021-09-02","Eastern Kentucky Correctional Complex","Morgan County ARH Hospital",NA,"M","White",61,"Cardiopulmonary Arrest secondary to Ischemic and Hypertensive Heart Disease",NA
-"Kentucky",2021,"September","2021-09-05","Kentucky State Reformatory","Norton Brownsboro Hospital",NA,"M","White",65,"Cardiopulmonary Arrest secondary to Septic Shcok",NA
-"Kentucky",2021,"September","2021-09-05","Kentucky State Reformatory","Baptist Health LaGrange",NA,"M","White",76,"Cardiopulmonary Arrest secondary to Prostate Cancer Stage IV",NA
-"Kentucky",2021,"September","2021-09-18","Kentucky State Reformatory","Norton Hospital Downtown",NA,"M","White",77,"Cardiopulmonary Arrest secondary to Acute Hypoxic Respiratory Failure",NA
-"Kentucky",2021,"September","2021-09-25","Kentucky State Reformatory","Norton Brownsboro Hospital",NA,"M","White",60,"Cardiopulmonary Arrest secondary to Acute Hypoxic Respiratory Failure",NA
-"Kentucky",2021,"September","2021-09-28","Kentucky State Reformatory","Baptist Jewish Hospital",NA,"M","White",58,"Cardiopulmonary Arrest secondary to Heart Failure",NA
-"Kentucky",2021,"October","2021-10-02","Kentucky State Reformatory","Norton Brownsboro Hospital",NA,"M","Black",50,"Acute Hypoxic Respiratory Failure/Acute Kidney Failure",NA
-"Kentucky",2021,"October","2021-10-04","Kentucky State Reformatory","Norton Pavilion Hospital",NA,"M","White",63,"Cardiopulmonary Arrest secondary to Respiratory Failure with Lung Cancer",NA
-"Kentucky",2021,"October","2021-10-10","Kentucky State Reformatory","Norton Downtown Hospital",NA,"M","White",59,"Respiratory Failure/Laryngeal Cancer",NA
-"Kentucky",2021,"October","2021-10-12","Kentucky State Reformatory","Norton Brownsboro Hospital",NA,"M","Black",52,"Cardiopulmonary Arrest secondary to Chronic Heart Failure",NA
-"Kentucky",2021,"October","2021-10-13","Kentucky State Reformatory","Norton Brownsboro Hospital",NA,"M","White",84,"Cardiopulmonary Arrest secondary to Septic Shock/Heart Failure",NA
-"Kentucky",2021,"October","2021-10-22","Kentucky State Reformatory","Norton Hospital Downtown",NA,"M","Black",52,"Cardiopulmonary Arrest secondary to Metastatic Pancreatic Cancer",NA
-"Kentucky",2021,"October","2021-10-23","Kentucky State Reformatory","Norton Brownsboro Hospital",NA,"M","White",74,"Cardiopulmonary Arrest secondary to Congestive Heart Failure/Sepsis",NA
-"Kentucky",2021,"November","2021-11-01","Kentucky State Reformatory","Baptist Health LaGrange",NA,"M","White",76,"Cardiopulmonary Arrest secondary to Respiratory Failure",NA
-"Kentucky",2021,"November","2021-11-18","Kentucky State Reformatory","Norton Brownsboro Hospital",NA,"M","White",65,"Cardiac Arrest secondary to Acute Hypoxic Respiratory Failure/Gastric Cancer",NA
-"Kentucky",2021,"November","2021-11-25","Kentucky State Reformatory","Norton Pavilion Hospital",NA,"M","White",61,"Cardiopulmonary Arrest secondary to Hepatocellulary Cancer",NA
-"Kentucky",2021,"December","2021-12-03","Kentucky State Reformatory","Baptist Health LaGrange",NA,"M","White",59,"Cardiopulmonary Arrest with Contributing Factors of Coronary Artery Disease and Kidney Failure",NA
-"Kentucky",2021,"December","2021-12-14","Blackburn Correctional Complex","University of Kentucky Hospital, Lexington",NA,"M","White",62,"Cardiac Arrest secondary to Hemorrhagic Shock",NA
-"Kentucky",2021,"December","2021-12-23","Kentucky State Reformatory","Norton Pavilion Hospital",NA,"M","White",75,"Cardiopulmonary Arrest secondary to Hemorrhagic Stroke",NA
-"Kentucky",2021,"December","2021-12-26","Kentucky State Reformatory","Hosparus Inpatient Care Center",NA,"M","White",57,"Cardiopulmonary Arrest with Contributing Factors of Decompensated Cirrhosis and Gastrointestinal Bleed",NA
+"Kentucky",2021,"January","2021-01-05","NORTHPOINT TRAINING CENTER","Ephraim McDowell Regional Medical Center",NA,"M","White",63,"Cardiopulmonary Arrest secondary to COVID-19",NA
+"Kentucky",2021,"January","2021-01-06","EASTERN KENTUCKY CORRECTIONAL COMPLEX","Morgan County ARH Hospital",NA,"M","White",37,"Cardiopulmonary Arrest secondary to Myocardial Infarcton",NA
+"Kentucky",2021,"January","2021-01-06","KENTUCKY STATE REFORMATORY","Hosparus of Louisville",NA,"M","White",70,"Cardiopulmonary Arrest secondary to Lung Cancer",NA
+"Kentucky",2021,"January","2021-01-19","NORTHPOINT TRAINING CENTER","Central Baptist Hospital",NA,"M","White",56,"Cardiopulmonary Arrest secondary to COVID-19",NA
+"Kentucky",2021,"January","2021-01-20","NORTHPOINT TRAINING CENTER","Ephraim McDowell Regional Medical Center",NA,"M","White",61,"Cardiopulmonary Arrest secondary to COVID-19",NA
+"Kentucky",2021,"January","2021-01-22","EASTERN KENTUCKY CORRECTIONAL COMPLEX","UK Medical Center",NA,"M","White",30,"Cardiopulmonary Arrest secondary to COVID-19",NA
+"Kentucky",2021,"February","2021-02-01","GREEN RIVER CORRECTIONAL COMPLEX","Owensboro Health Regional Hospital",NA,"M","White",78,"Cardiopulmonary Arrest secondary to Respiratory Failure",NA
+"Kentucky",2021,"February","2021-02-07","LUTHER LUCKETT CORRECTIONAL COMPLEX","Norton Brownsboro Hospital",NA,"M","White",75,"Cardiopulmonary Arrest secondary to COVID-19",NA
+"Kentucky",2021,"February","2021-02-09","NORTHPOINT TRAINING CENTER","Ephraim McDowell Regional Medical Center",NA,"M","White",51,"Cardiopulmonary Arrest secondary to COVID-19",NA
+"Kentucky",2021,"February","2021-02-12","ROEDERER CORRECTIONAL COMPLEX","Norton Downtown Hospital",NA,"M","Black",56,"Cardiopulmonary Arrest secondary to Acute Liver Failure and Sepsis",NA
+"Kentucky",2021,"February","2021-02-13","EASTERN KENTUCKY CORRECTIONAL COMPLEX","Eastern Kentucky Correctional Complex",NA,"M","Black",30,"Systemic Illness due to COVID-19 with Contributing Factor of Hypertensive Cardiovascular Disease",NA
+"Kentucky",2021,"February","2021-02-14","KENTUCKY STATE REFORMATORY","Kentucky State Reformatory",NA,"M","White",35,"Cardiopulmonary Arrest secondary to End Stage Renal Disease",NA
+"Kentucky",2021,"February","2021-02-28","LUTHER LUCKETT CORRECTIONAL COMPLEX","Norton Downtown Hospital",NA,"M","Black",39,"Cardiopulmonary Arrest secondary to COVID-19",NA
+"Kentucky",2021,"March","2021-03-07","WESTERN KY CORRECTIONAL COMPLEX","Baptist Health Hospital",NA,"M","White",54,"Cardiopulmonary Arrest secondary to COVID-19",NA
+"Kentucky",2021,"March","2021-03-09","KENTUCKY STATE REFORMATORY","Kentucky State Reformatory",NA,"M","Black",40,"Hypertensive Heart Disease",NA
+"Kentucky",2021,"March","2021-03-10","WESTERN KY CORRECTIONAL COMPLEX","Baptist Health Hospital",NA,"M","White",48,"Cardiopulmonary Arrest secondary to COVID-19",NA
+"Kentucky",2021,"March","2021-03-10","LITTLE SANDY CORRECTIONAL COMPLEX","Little Sandy Correctional Complex",NA,"M","Black",38,"Acute Esophageal Necrosis secondary to Hypertensive Cardiovascular Disease, Renal Insufficiency",NA
+"Kentucky",2021,"March","2021-03-18","WESTERN KY CORRECTIONAL COMPLEX","Baptist Health Hospital",NA,"M","Black",52,"Cardiopulmonary Arrest secondary to COVID-19",NA
+"Kentucky",2021,"March","2021-03-19","WESTERN KY CORRECTIONAL COMPLEX","Baptist Health Hospital",NA,"M","Black",61,"Cardiopulmonary Arrest secondary to COVID-19",NA
+"Kentucky",2021,"March","2021-03-31","KENTUCKY STATE REFORMATORY","Hosparus of Louisville",NA,"M","White",73,"Cardiopulmonary Arrest secondary to Sepsis, Osteomyelitis",NA
+"Kentucky",2021,"April","2021-04-01","ROEDERER CORRECTIONAL COMPLEX","Norton Downtown Hospital",NA,"M","White",61,"Cardiopulmonary Arrest secondary to Liver Failure",NA
+"Kentucky",2021,"April","2021-04-03","KENTUCKY STATE REFORMATORY","Kentucky State Reformatory",NA,"M","Black",59,"Cardiopulmonary Arrest secondary to Diabetes with Hypertension",NA
+"Kentucky",2021,"April","2021-04-06","KENTUCKY CORRECTIONAL INSTITUTION FOR WOMEN","Norton Brownsboro Hospital",NA,"F","White",62,"Cardiac Arrest",NA
+"Kentucky",2021,"April","2021-04-30","KENTUCKY STATE REFORMATORY","Norton Brownsboro Hospital",NA,"M","White",62,"Cardiopulmonary Arrest secondary to Cardiogenic Shock",NA
+"Kentucky",2021,"April","2021-04-30","EASTERN KENTUCKY CORRECTIONAL COMPLEX","Morgan County ARH Hospital",NA,"M","White",43,"Cardiopulmonary Arrest secondary to Pulmonary Thromboembolism",NA
+"Kentucky",2021,"May","2021-05-07","LUTHER LUCKETT CORRECTIONAL COMPLEX","Luther Luckett Correctional Complex",NA,"M","White",53,"Hanging",NA
+"Kentucky",2021,"May","2021-05-09","EASTERN KENTUCKY CORRECTIONAL COMPLEX","UK Medical Center",NA,"M","White",31,"Cardiopulmonary Arrest secondary to Septic Emboli and Stroke",NA
+"Kentucky",2021,"May","2021-05-14","KENTUCKY STATE REFORMATORY","Hosparus Inpatient Care Center",NA,"M","White",59,"Cardiopulmonary Arrest secondary to Metastatic Colorectal Cancer with Chronic Myeloid Leukemia",NA
+"Kentucky",2021,"May","2021-05-19","KENTUCKY STATE REFORMATORY","Hosparus of Louisville",NA,"M","Black",62,"Cardiopulmonary Arrest secondary to Heptocellular Carcinoma",NA
+"Kentucky",2021,"May","2021-05-28","KENTUCKY STATE REFORMATORY","Norton Downtown Hospital",NA,"M","Black",39,"Cardiopulmonary Arrest secondary to Metastatic Lung Cancer",NA
+"Kentucky",2021,"June","2021-06-02","NORTHPOINT TRAINING CENTER","Ephraim McDowell Regional Medical Center",NA,"M","White",69,"Cardiopulmonary Arrest secondary to COVID-19",NA
+"Kentucky",2021,"June","2021-06-14","KENTUCKY STATE REFORMATORY","Baptist Health LaGrange",NA,"M","Black",79,"Cardiopulmonary Arrest secondary to Cardiomyopathy",NA
+"Kentucky",2021,"June","2021-06-26","EASTERN KENTUCKY CORRECTIONAL COMPLEX","University of Kentucky Medical Center",NA,"M","White",52,"Cardiopulmonary Arrest secondary to Necrotizing Pancreatitis, Septic Shock",NA
+"Kentucky",2021,"June","2021-06-29","LUTHER LUCKETT CORRECTIONAL COMPLEX","Hosparus Inpatient Care Center",NA,"M","White",62,"Cardiopulmonary Arrest secondary to Respiratory Failure",NA
+"Kentucky",2021,"June","2021-06-30","NORTHPOINT TRAINING CENTER","Ephraim McDowell Regional Medical Center",NA,"M","White",66,"Cardiopulmonary Arrest secondary to Atherosclerotic Cardiovascular Disease",NA
+"Kentucky",2021,"July","2021-07-05","KENTUCKY STATE REFORMATORY","Kentucky State Reformatory",NA,"M","White",86,"Cardiopulmonary Arrest secondary to HTN and Hytothyroidism",NA
+"Kentucky",2021,"July","2021-07-23","KENTUCKY STATE REFORMATORY","Norton Downtown Hospital",NA,"M","White",68,"Cardiopulmonary Arrest secondary to COPD and Heart Failure",NA
+"Kentucky",2021,"July","2021-07-23","ROEDERER CORRECTIONAL COMPLEX","Norton Hospital, Chestnut Street",NA,"M","Black",62,"Cardiopulmonary Arrest secondary to Respiratory Failure",NA
+"Kentucky",2021,"August","2021-08-03","EASTERN KENTUCKY CORRECTIONAL COMPLEX","Morgan County ARH Hospital",NA,"M","Black",26,"Pulmonary Thromboembolus",NA
+"Kentucky",2021,"August","2021-08-09","ROEDERER CORRECTIONAL COMPLEX","Norton Brownsboro Hospital",NA,"M","White",59,"Cardiopulmonary Arrest secondary to Bilateral Embolism",NA
+"Kentucky",2021,"August","2021-08-20","NORTHPOINT TRAINING CENTER","Ephraim McDowell Regional Medical Center",NA,"M","Black",39,"Drowning",NA
+"Kentucky",2021,"August","2021-08-27","EASTERN KENTUCKY CORRECTIONAL COMPLEX","St. Claire Regional Hospital",NA,"M","White",52,"Cardiopulmonary Arrest secondary to Cardiogenic Shock",NA
+"Kentucky",2021,"August","2021-08-28","KENTUCKY STATE REFORMATORY","Norton Pavilion Hospital",NA,"M","White",55,"Cardiopulmonary Arrest secondary to Metastatic Cancer",NA
+"Kentucky",2021,"September","2021-09-02","EASTERN KENTUCKY CORRECTIONAL COMPLEX","Morgan County ARH Hospital",NA,"M","White",61,"Cardiopulmonary Arrest secondary to Ischemic and Hypertensive Heart Disease",NA
+"Kentucky",2021,"September","2021-09-05","KENTUCKY STATE REFORMATORY","Norton Brownsboro Hospital",NA,"M","White",65,"Cardiopulmonary Arrest secondary to Septic Shcok",NA
+"Kentucky",2021,"September","2021-09-05","KENTUCKY STATE REFORMATORY","Baptist Health LaGrange",NA,"M","White",76,"Cardiopulmonary Arrest secondary to Prostate Cancer Stage IV",NA
+"Kentucky",2021,"September","2021-09-18","KENTUCKY STATE REFORMATORY","Norton Hospital Downtown",NA,"M","White",77,"Cardiopulmonary Arrest secondary to Acute Hypoxic Respiratory Failure",NA
+"Kentucky",2021,"September","2021-09-25","KENTUCKY STATE REFORMATORY","Norton Brownsboro Hospital",NA,"M","White",60,"Cardiopulmonary Arrest secondary to Acute Hypoxic Respiratory Failure",NA
+"Kentucky",2021,"September","2021-09-28","KENTUCKY STATE REFORMATORY","Baptist Jewish Hospital",NA,"M","White",58,"Cardiopulmonary Arrest secondary to Heart Failure",NA
+"Kentucky",2021,"October","2021-10-02","KENTUCKY STATE REFORMATORY","Norton Brownsboro Hospital",NA,"M","Black",50,"Acute Hypoxic Respiratory Failure/Acute Kidney Failure",NA
+"Kentucky",2021,"October","2021-10-04","KENTUCKY STATE REFORMATORY","Norton Pavilion Hospital",NA,"M","White",63,"Cardiopulmonary Arrest secondary to Respiratory Failure with Lung Cancer",NA
+"Kentucky",2021,"October","2021-10-10","KENTUCKY STATE REFORMATORY","Norton Downtown Hospital",NA,"M","White",59,"Respiratory Failure/Laryngeal Cancer",NA
+"Kentucky",2021,"October","2021-10-12","KENTUCKY STATE REFORMATORY","Norton Brownsboro Hospital",NA,"M","Black",52,"Cardiopulmonary Arrest secondary to Chronic Heart Failure",NA
+"Kentucky",2021,"October","2021-10-13","KENTUCKY STATE REFORMATORY","Norton Brownsboro Hospital",NA,"M","White",84,"Cardiopulmonary Arrest secondary to Septic Shock/Heart Failure",NA
+"Kentucky",2021,"October","2021-10-22","KENTUCKY STATE REFORMATORY","Norton Hospital Downtown",NA,"M","Black",52,"Cardiopulmonary Arrest secondary to Metastatic Pancreatic Cancer",NA
+"Kentucky",2021,"October","2021-10-23","KENTUCKY STATE REFORMATORY","Norton Brownsboro Hospital",NA,"M","White",74,"Cardiopulmonary Arrest secondary to Congestive Heart Failure/Sepsis",NA
+"Kentucky",2021,"November","2021-11-01","KENTUCKY STATE REFORMATORY","Baptist Health LaGrange",NA,"M","White",76,"Cardiopulmonary Arrest secondary to Respiratory Failure",NA
+"Kentucky",2021,"November","2021-11-18","KENTUCKY STATE REFORMATORY","Norton Brownsboro Hospital",NA,"M","White",65,"Cardiac Arrest secondary to Acute Hypoxic Respiratory Failure/Gastric Cancer",NA
+"Kentucky",2021,"November","2021-11-25","KENTUCKY STATE REFORMATORY","Norton Pavilion Hospital",NA,"M","White",61,"Cardiopulmonary Arrest secondary to Hepatocellulary Cancer",NA
+"Kentucky",2021,"December","2021-12-03","KENTUCKY STATE REFORMATORY","Baptist Health LaGrange",NA,"M","White",59,"Cardiopulmonary Arrest with Contributing Factors of Coronary Artery Disease and Kidney Failure",NA
+"Kentucky",2021,"December","2021-12-14","BLACKBURN CORRECTIONAL COMPLEX","University of Kentucky Hospital, Lexington",NA,"M","White",62,"Cardiac Arrest secondary to Hemorrhagic Shock",NA
+"Kentucky",2021,"December","2021-12-23","KENTUCKY STATE REFORMATORY","Norton Pavilion Hospital",NA,"M","White",75,"Cardiopulmonary Arrest secondary to Hemorrhagic Stroke",NA
+"Kentucky",2021,"December","2021-12-26","KENTUCKY STATE REFORMATORY","Hosparus Inpatient Care Center",NA,"M","White",57,"Cardiopulmonary Arrest with Contributing Factors of Decompensated Cirrhosis and Gastrointestinal Bleed",NA

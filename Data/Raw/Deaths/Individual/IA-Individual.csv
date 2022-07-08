@@ -1,111 +1,111 @@
 "State","Year","Month","Death.Date","Facility","Death.Age","Sex","Full.Name","Location","Circumstance.General","Circumstance.Specific"
-"Iowa",2021,"December",2021-12-26,"Iowa Medical and Classification Center",54,"Male","Kenneth Ray Sharp",NA,"Natural Causes","Chronic Illness"
-"Iowa",2021,"December",2021-12-08,"Iowa State Penitentiary",84,"Male","Warren John Nutter","Hospice Room","Natural Causes","Chronic Illness"
-"Iowa",2021,"October",2021-10-22,NA,46,"Male","Timothy Keith Palmer","University of Iowa Hospitals and Clinics","Not Listed","Prolonged Illness (not COVID-19 related)"
-"Iowa",2021,"October",2021-10-10,"Iowa Correctional Institute for Women",59,"Female","Stephanie Leigh Davis",NA,"Not Listed",NA
-"Iowa",2021,"September",2021-09-28,"Iowa State Penitentiary",60,"Male","Stephen Lee Tryon","Hospice Room",NA,"Cancer"
-"Iowa",2021,"September",2021-09-18,"Anamosa State Penitentiary",69,"Male","Robert David Wilcoxen",NA,"Not Listed",NA
-"Iowa",2021,"September",2021-09-15,"Iowa State Penitentiary",57,"Male","Ray Gene Triplett","University of Iowa Hospitals and Clinics",NA,"COVID-19 and other preexisting medical conditions"
-"Iowa",2021,"September",2021-09-04,"Iowa State Penitentiary",81,"Male","Phillip Benito Cuevas","Hospice Room",NA,"COVID-19 and other preexisting medical conditions"
-"Iowa",2021,"August",2021-08-27,"Iowa State Penitentiary",61,"Male","James Lee Blair","University of Iowa Hospitals and Clinics",NA,"COVID-19 and other preexisting medical conditions"
-"Iowa",2021,"August",2021-08-25,"Iowa Medical and Classification Center",74,"Male","Ronald K Hendricks",NA,NA,"Cancer"
-"Iowa",2021,"August",2021-08-16,"Clarinda Correctional Facility",32,"Male","Joshua Michael Pierce","University of Nebraska Medical Center","Pending Investigation","The cause of death will be determined by the State of Iowa Medical Examiner's Office"
-"Iowa",2021,"August",2021-08-07,"Iowa Medical and Classification Center",28,"Male","Anthony William Geltz",NA,"Suicide",NA
-"Iowa",2021,"August",2021-08-03,NA,47,"Male","Chico Mario Newman","Jones Regional Medical Center","Not Listed","Medical Emergency"
-"Iowa",2021,"July",2021-07-29,"Iowa Medical and Classification Center",70,"Male","Michael John Ryan",NA,"Natural Causes",NA
-"Iowa",2021,"July",2021-07-27,"Iowa Medical and Classification Center",75,"Male","Vincent Duncan",NA,"Natural Causes",NA
-"Iowa",2021,"July",2021-07-19,"Iowa State Penitentiary",66,"Male","Ular Lee Winfun",NA,"Natural Causes",NA
-"Iowa",2021,"July",2021-07-18,"Iowa Medical and Classification Center",75,"Male","Carmon Lyon Lyddon",NA,"Natural Causes",NA
-"Iowa",2021,"May",2021-05-25,"Newton Correctional Facility",59,"Male","Tracy Lee Earles","Mercy One Hospital","Not Listed","Medical Emergency"
-"Iowa",2021,"May",2021-05-28,"Iowa State Penitentiary",87,"Male","Robert Overstreet Sr.",NA,NA,NA
-"Iowa",2021,"May",2021-05-21,"Iowa State Penitentiary",54,"Male","Christopher Michael Phipps Sr","University of Iowa Hospitals and Clinics","Natural Causes",NA
-"Iowa",2021,"May",2021-05-19,"Anamosa State Penitentiary",68,"Male","Michael Cecil Craney",NA,"Natural Causes","Not COVID-19 related"
-"Iowa",2021,"May",2021-05-12,"Clarinda Correctional Facility",80,"Male","Ronald Harris Brown",NA,"Suicide","Suspected Suicide"
-"Iowa",2021,"April",2021-04-02,"Anamosa State Penitentiary",44,"Male","Terry Scott Dudley","University of Iowa Hospitals and Clinics","Suicide","Suspected Suicide"
-"Iowa",2021,"April",2021-04-07,"Iowa Medical and Classification Center",81,"Male","James Dean Blum","University of Iowa Hospitals and Clinics","Natural Causes",NA
-"Iowa",2021,"March",2021-03-05,"Iowa Medical and Classification Center",73,"Male","Harry Edward Pederson",NA,"Natural Causes","Not COVID-19 related"
-"Iowa",2021,"February",2021-02-23,"Newton Correctional Facility",63,"Male","Kevin John McDonnell","University of Iowa Hospitals and Clinics",NA,"COVID-19 and other preexisting medical conditions"
-"Iowa",2021,"February",2021-02-08,"Anamosa State Penitentiary",69,"Male","Bryan Kirby Barrett",NA,NA,"Medical Emergency"
-"Iowa",2021,"February",2021-02-04,"Iowa Medical and Classification Center",63,"Male","Steven James Van Riper","University of Iowa Hospitals and Clinics",NA,"COVID-19 and other preexisting medical conditions"
-"Iowa",2021,"January",2021-01-31,"Iowa Medical and Classification Center",72,"Male","Robert Frank Taylor","University of Iowa Hospitals and Clinics",NA,"COVID-19 and other preexisting medical conditions"
-"Iowa",2021,"January",2021-01-28,"Iowa Medical and Classification Center",79,"Male","James Charles Kleppe",NA,NA,"COVID-19 and other preexisting medical conditions"
-"Iowa",2021,"January",2021-01-26,"Iowa Medical and Classification Center",89,"Male","Harold Arthur Duncan",NA,NA,"COVID-19 and other preexisting medical conditions"
-"Iowa",2021,"January",2021-01-07,"Fort Dodge Correctional Facility",67,"Male","Jessie Joseph Gonzales","University of Iowa Hospitals and Clinics",NA,"COVID-19 and other preexisting medical conditions"
-"Iowa",2021,"January",2021-01-08,"Iowa Medical and Classification Center",70,"Male","William James Gibson",NA,"Natural Causes","Not COVID-19 related"
-"Iowa",2020,"December",2020-12-26,"Newton Correctional Facility",77,"Male","Ronald James Calvert",NA,"Not Listed","Medical Emergency"
-"Iowa",2020,"December",2020-12-20,"Iowa State Penitentiary",58,"Male","Dale Dean Viers","University of Iowa Hospitals and Clinics",NA,"COVID-19 and other preexisting medical conditions"
-"Iowa",2020,"December",2020-12-10,"Iowa State Penitentiary",63,"Male","Mark Steven Bailey","University of Iowa Hospitals and Clinics",NA,"COVID-19 and other preexisting medical conditions"
-"Iowa",2020,"December",2020-12-05,"Anamosa State Penitentiary",64,"Male","Larry Donell Whaley","University of Iowa Hospitals and Clinics",NA,"COVID-19 and other preexisting medical conditions"
-"Iowa",2020,"November",2020-11-23,"Anamosa State Penitentiary",68,"Male","Frederick William Lewis","University of Iowa Hospitals and Clinics",NA,"COVID-19 and other preexisting medical conditions"
-"Iowa",2020,"November",2020-11-22,"Anamosa State Penitentiary",59,"Male","Timothy Christopher Bryant","University of Iowa Hospitals and Clinics",NA,"COVID-19 and other preexisting medical conditions"
-"Iowa",2020,"November",2020-11-17,"Anamosa State Penitentiary",64,"Male","Robert William Sirovy","University of Iowa Hospitals and Clinics",NA,"COVID-19 and other preexisting medical conditions"
-"Iowa",2020,"November",2020-11-16,"Anamosa State Penitentiary",59,"Male","Jonathan William Strain","University of Iowa Hospitals and Clinics",NA,"COVID-19 and other preexisting medical conditions"
-"Iowa",2020,"November",2020-11-14,"Clarinda Correctional Facility",72,"Male","Gene Edward Dryer","University of Iowa Hospitals and Clinics",NA,"COVID-19 and other preexisting medical conditions"
-"Iowa",2020,"November",2020-11-11,"Clarinda Correctional Facility",28,"Male","Christopher James Rios","University of Iowa Hospitals and Clinics","Suicide","Suspected Suicide"
-"Iowa",2020,"November",2020-11-08,"Anamosa State Penitentiary",70,"Male","David Allen Streets","University of Iowa Hospitals and Clinics",NA,"COVID-19 and other preexisting medical conditions"
-"Iowa",2020,"November",2020-11-03,"Iowa Medical and Classification Center",88,"Male","Clarence Christian Miller",NA,"Natural Causes","Not COVID-19 related"
-"Iowa",2020,"November",2020-11-02,NA,85,"Male","Freddie Owen Drinkard","University of Iowa Hospitals and Clinics","Natural Causes","Not COVID-19 related"
-"Iowa",2020,"October",2020-10-22,NA,47,"Male","James Glen Merical","Unity Point Hospital","Not Listed","Medical Emergency"
-"Iowa",2020,"September",2020-09-08,"Iowa Medical and Classification Center",77,"Male","Richard Leroy Peters",NA,NA,"COVID-19 and other preexisting medical conditions"
-"Iowa",2020,"August",2020-08-07,"Iowa Medical and Classification Center",75,"Male","David Michael Powers",NA,"Natural Causes","Not COVID-19 related"
-"Iowa",2020,"July",2020-07-27,NA,48,"Male","Timothy Louis McGhee Jr","University of Iowa Hospital",NA,"COVID-19 and other preexisting medical conditions"
-"Iowa",2020,"July",2020-07-25,"Iowa Medical and Classification Center",70,"Male","Dennis Ray Meyer",NA,"Not Listed","Medical Emergency"
-"Iowa",2020,"July",2020-07-11,"Fort Dodge Correctional Facility",62,"Male","Ronald Eugene Holdsworth","Unity Point Hospital",NA,"COVID-19 and other preexisting medical conditions"
-"Iowa",2020,"July",2020-07-06,"Fort Dodge Correctional Facility",71,"Male","Ray Allen Vanlengen","University of Iowa Hospital",NA,"COVID-19 and other preexisting medical conditions"
-"Iowa",2020,"June",2020-06-04,"Iowa Medical and Classification Center",64,"Male","Dennis Ace Butrick",NA,"Natural Causes","Not COVID-19 related"
-"Iowa",2020,"May",2020-05-17,"Newton Correctional Facility",65,"Male","Roger Paul Brierly","Mercy Hospital","Natural Causes",NA
-"Iowa",2020,"April",2020-04-28,NA,58,"Male","Timothy Leroy Douglas","University of Iowa Hospitals and Clinics","Natural Causes","Not COVID-19 related"
-"Iowa",2020,"April",2020-04-18,"Iowa Medical and Classification Center",61,"Male","Roni Kachanes","Hospice Room","Natural Causes",NA
-"Iowa",2020,"April",2020-04-07,NA,69,"Male","Randal Ray Norgaard","University of Iowa Hospitals and Clinics","Natural Causes",NA
-"Iowa",2020,"March",2020-03-04,NA,71,"Male","Everett Roy Lyon","Great River Medical Center","Natural Causes","Heart Attack"
-"Iowa",2020,"February",2020-02-07,"Iowa Medical and Classification Center",39,"Male","Justin Lee Dewitt",NA,"Pending Investigation",NA
-"Iowa",2019,"December",2019-12-18,"Iowa Correctional Institute for Women",27,"Female","Kimerly Nicole Battle",NA,"Suicide","Suspected Suicide"
-"Iowa",2020,"January",2020-01-03,NA,59,"Male","Delbert Duane Anderson","University of Iowa Hospitals and Clinics","Natural Causes",NA
-"Iowa",2020,"January",2020-01-01,NA,72,"Male","Rick Fay Bird","University of Iowa Hospitals and Clinics","Natural Causes",NA
-"Iowa",2019,"November",2019-11-13,"Iowa Medical and Classification Center",71,"Male","Irvin Eugene Johnson",NA,"Natural Causes",NA
-"Iowa",2019,"October",2019-10-17,"Clarinda Correctional Facility",69,"Male","Thomas Earl Seehan",NA,"Natural Causes","Pending investigation by state medical examiner"
-"Iowa",2019,"August",2019-08-29,NA,67,"Male","George Jochem Hettinga","University of Iowa Hospitals and Clinics",NA,"Chronic Illness"
-"Iowa",2019,"February",2019-02-23,"Iowa Medical and Classification Center",54,"Male","David Gene Lewis Jr","Hospice Room","Natural Causes",NA
-"Iowa",2019,"August",2019-08-04,"Anamosa State Penitentiary",51,"Male","Roger Scott Sellers",NA,NA,"Chronic Illness"
-"Iowa",2019,"July",2019-07-19,NA,70,"Male","Martin Paul Wilkinson","University of Iowa Hospitals and Clinics",NA,"Chronic Illness"
-"Iowa",2019,"July",2019-07-13,"Anamosa State Penitentiary",52,"Male","Wayne Eugene Sinclair",NA,"Suicide","Suspected Suicide"
-"Iowa",2019,"July",2019-07-06,NA,59,"Male","Larry Gene Nugent","University of Iowa Hospitals and Clinics","Natural Causes",NA
-"Iowa",2019,"July",2019-07-09,"Mount Pleasant Correctional Facility",63,"Male","Kevin Todd Bishop","University of Iowa Hospitals and Clinics",NA,NA
-"Iowa",2019,"May",2019-05-22,NA,74,"Male","Albert Lemoine Collins","University of Iowa Hospitals and Clinics","Natural Causes",NA
-"Iowa",2019,"May",2019-05-14,"Anamosa State Penitentiary",52,"Male","Calvin Pearson","Jones Regional Medical Center","Suicide","Suspected Suicide"
-"Iowa",2019,"May",2019-05-02,"Iowa Correctional Institute for Women",63,"Female","Debi Olson",NA,"Natural Causes","Chronic Illness"
-"Iowa",2019,"March",2019-03-25,NA,88,"Male","Richard Edison Johnson","University of Iowa Hospitals and Clinics","Natural Causes",NA
-"Iowa",2019,"March",2019-03-06,"Iowa State Penitentiary",71,"Male","Charles Edward Robinson","Hospice Room","Natural Causes","Terminal Illness"
-"Iowa",2018,"December",2018-12-31,NA,56,"Female","Anna Marie Bunch","Mercy Medical Center","Not Listed","Medical Emergency"
-"Iowa",2018,"December",2018-12-31,"Iowa Medical and Classification Center",64,"Male","Kevin Richard Johnson",NA,"Natural Causes","Chronic Illness"
-"Iowa",2018,"December",2018-12-22,NA,28,"Male","Ryan Nicholas Trowbridge","University of Iowa Hospitals and Clinics","Suicide","Suspected Suicide"
-"Iowa",2018,"December",2018-12-16,NA,61,"Male","Charles Edward Lasage","University of Iowa Hospital",NA,"Chronic Illness"
-"Iowa",2018,"December",2018-12-14,"Iowa Medical and Classification Center",52,"Male","Paul Scott Kissel",NA,"Unknown Causes","Not considered suspicious"
-"Iowa",2018,"November",2018-11-09,"Iowa Medical and Classification Center",69,"Male","Henry Lee Whitfield",NA,"Natural Causes","Chronic Illness"
-"Iowa",2018,"November",2018-11-05,NA,79,"Male","Donald Warner Brammer","University of Iowa Hospital","Natural Causes","Chronic Illness"
-"Iowa",2018,"November",2018-11-03,NA,65,"Male","Russell Kenneth Fidler","University of Iowa Hospitals and Clinics","Natural Causes","Medical Emergency"
-"Iowa",2018,"October",2018-10-15,NA,31,"Male","Matthew Earl Rausch","Unity Point Hospital","Suicide","Suspected Suicide"
-"Iowa",2018,"October",2018-10-08,NA,53,"Male","Michael Allen Kennedy","Unity Point Emergency Room",NA,"Medical Emergency"
-"Iowa",2018,"September",2018-09-30,NA,73,"Male","Robert James Carter","Ft. Madison Community Hospital",NA,"Medical Emergency"
-"Iowa",2018,"August",2018-08-20,"Davenport Work Release Center",63,"Male","James Olyn Shell Jr",NA,NA,"Medical Emergency - not considered suspicious"
-"Iowa",2018,"August",2018-08-12,"Iowa Medical and Classification Center",74,"Male","Robert Charles Richey","Hospice Room","Natural Causes","Chronic Illness"
-"Iowa",2018,"July",2018-07-30,"Iowa Medical and Classification Center",69,"Male","Gary Dean Nixon","University of Iowa Hospitals and Clinics",NA,"Chronic Illness"
-"Iowa",2018,"July",2018-07-26,"Iowa Medical and Classification Center",79,"Male","Ralph Phillip Carlson","Hospice Room",NA,"Chronic Illness"
-"Iowa",2018,"July",2018-07-14,"Iowa Medical and Classification Center",62,"Male","Harold Leroy Page","Hospice Room","Natural Causes","Chronic Illness"
-"Iowa",2018,"June",2018-06-30,NA,58,"Female","Yvonne Myrna Joshua","University of Iowa Hospital",NA,"Acute medical complications"
-"Iowa",2018,"May",2018-05-05,"Iowa State Penitentiary",66,"Male","Lacy Laverne Kelley",NA,NA,"Chronic Illness"
-"Iowa",2018,"April",2018-04-04,"Iowa Medical and Classification Center",65,"Male","Thomas James Morney",NA,"Natural Causes","Chronic Illness"
-"Iowa",2018,"February",2018-02-01,NA,29,"Male","Rashod Develt Aldridge","University of Iowa Hospitals and Clinics",NA,"Cardiac arrest, chronic disease, and flu"
-"Iowa",2017,"December",2017-12-28,"Iowa Medical and Classification Center",79,"Male","Eddie Chest",NA,"Natural Causes","Chronic Illness"
-"Iowa",2017,"December",2017-12-20,"Iowa State Penitentiary",73,"Male","Robert Anthony Williams","Hospice Room","Natural Causes","Chronic Illness"
-"Iowa",2017,"November",2017-11-27,NA,30,"Male","Adam Andrew Nolz","University of Iowa Hospitals and Clinics","Unknown Causes","Medical Emergency"
-"Iowa",2017,"November",2017-11-05,"Iowa Medical and Classification Center",83,"Male","Robert Milton Inman","Hospice Room","Natural Causes","Chronic Illness"
-"Iowa",2017,"October",2017-10-21,"Anamosa State Penitentiary",63,"Male","Raymond Metz","Hospice Room","Natural Causes",NA
-"Iowa",2017,"October",2017-10-11,"Iowa Medical and Classification Center",74,"Male","Robert Jean Robinson","Hospice Room","Natural Causes","Chronic Illness"
-"Iowa",2017,"September",2017-09-29,"Iowa Medical and Classification Center",58,"Male","Randy Lee Noland","Hospice Room","Natural Causes","Chronic Illness"
-"Iowa",2017,"July",2017-07-22,NA,67,"Male","Paeng Saengaroun",NA,"Natural Causes",NA
-"Iowa",2017,"May",2017-05-23,"Iowa Medical and Classification Center",67,"Male","James William Allen","Hospice Room",NA,"Chronic Illness"
-"Iowa",2017,"March",2017-03-21,"Iowa State Penitentiary",72,"Male","Lawrence T Gladson","Hospice Room",NA,"Chronic Illness"
-"Iowa",2017,"March",2017-03-18,"Iowa Medical and Classification Center",26,"Male","Ryan Stephen Bordenaro",NA,"Suicide",NA
-"Iowa",2017,"March",2017-03-17,"Anamosa State Penitentiary",50,"Male","Wayne Shelton","Hospice Room",NA,"Chronic Illness"
-"Iowa",2017,"March",2017-03-03,"Iowa Medical and Classification Center",52,"Male","Joseph J Koncel","Hospice Room",NA,"Chronic Illness"
+"Iowa",2021,"December","2021-12-26","IOWA MEDICAL AND CLASSIFICATION CENTER",54,"M","Kenneth Ray Sharp",NA,"Natural Causes","Chronic Illness"
+"Iowa",2021,"December","2021-12-08","IOWA STATE PENITENTIARY",84,"M","Warren John Nutter","Hospice Room","Natural Causes","Chronic Illness"
+"Iowa",2021,"October","2021-10-22",NA,46,"M","Timothy Keith Palmer","University of Iowa Hospitals and Clinics","Not Listed","Prolonged Illness (not COVID-19 related)"
+"Iowa",2021,"October","2021-10-10","IOWA CORRECTIONAL INSTITUTE FOR WOMEN",59,"F","Stephanie Leigh Davis",NA,"Not Listed",NA
+"Iowa",2021,"September","2021-09-28","IOWA STATE PENITENTIARY",60,"M","Stephen Lee Tryon","Hospice Room",NA,"Cancer"
+"Iowa",2021,"September","2021-09-18","ANAMOSA STATE PENITENTIARY",69,"M","Robert David Wilcoxen",NA,"Not Listed",NA
+"Iowa",2021,"September","2021-09-15","IOWA STATE PENITENTIARY",57,"M","Ray Gene Triplett","University of Iowa Hospitals and Clinics",NA,"COVID-19 and other preexisting medical conditions"
+"Iowa",2021,"September","2021-09-04","IOWA STATE PENITENTIARY",81,"M","Phillip Benito Cuevas","Hospice Room",NA,"COVID-19 and other preexisting medical conditions"
+"Iowa",2021,"August","2021-08-27","IOWA STATE PENITENTIARY",61,"M","James Lee Blair","University of Iowa Hospitals and Clinics",NA,"COVID-19 and other preexisting medical conditions"
+"Iowa",2021,"August","2021-08-25","IOWA MEDICAL AND CLASSIFICATION CENTER",74,"M","Ronald K Hendricks",NA,NA,"Cancer"
+"Iowa",2021,"August","2021-08-16","CLARINDA CORRECTIONAL FACILITY",32,"M","Joshua Michael Pierce","University of Nebraska Medical Center","Pending Investigation","The cause of death will be determined by the State of Iowa Medical Examiner's Office"
+"Iowa",2021,"August","2021-08-07","IOWA MEDICAL AND CLASSIFICATION CENTER",28,"M","Anthony William Geltz",NA,"Suicide",NA
+"Iowa",2021,"August","2021-08-03",NA,47,"M","Chico Mario Newman","Jones Regional Medical Center","Not Listed","Medical Emergency"
+"Iowa",2021,"July","2021-07-29","IOWA MEDICAL AND CLASSIFICATION CENTER",70,"M","Michael John Ryan",NA,"Natural Causes",NA
+"Iowa",2021,"July","2021-07-27","IOWA MEDICAL AND CLASSIFICATION CENTER",75,"M","Vincent Duncan",NA,"Natural Causes",NA
+"Iowa",2021,"July","2021-07-19","IOWA STATE PENITENTIARY",66,"M","Ular Lee Winfun",NA,"Natural Causes",NA
+"Iowa",2021,"July","2021-07-18","IOWA MEDICAL AND CLASSIFICATION CENTER",75,"M","Carmon Lyon Lyddon",NA,"Natural Causes",NA
+"Iowa",2021,"May","2021-05-25","NEWTON CORRECTIONAL FACILITY",59,"M","Tracy Lee Earles","Mercy One Hospital","Not Listed","Medical Emergency"
+"Iowa",2021,"May","2021-05-28","IOWA STATE PENITENTIARY",87,"M","Robert Overstreet Sr.",NA,NA,NA
+"Iowa",2021,"May","2021-05-21","IOWA STATE PENITENTIARY",54,"M","Christopher Michael Phipps Sr","University of Iowa Hospitals and Clinics","Natural Causes",NA
+"Iowa",2021,"May","2021-05-19","ANAMOSA STATE PENITENTIARY",68,"M","Michael Cecil Craney",NA,"Natural Causes","Not COVID-19 related"
+"Iowa",2021,"May","2021-05-12","CLARINDA CORRECTIONAL FACILITY",80,"M","Ronald Harris Brown",NA,"Suicide","Suspected Suicide"
+"Iowa",2021,"April","2021-04-02","ANAMOSA STATE PENITENTIARY",44,"M","Terry Scott Dudley","University of Iowa Hospitals and Clinics","Suicide","Suspected Suicide"
+"Iowa",2021,"April","2021-04-07","IOWA MEDICAL AND CLASSIFICATION CENTER",81,"M","James Dean Blum","University of Iowa Hospitals and Clinics","Natural Causes",NA
+"Iowa",2021,"March","2021-03-05","IOWA MEDICAL AND CLASSIFICATION CENTER",73,"M","Harry Edward Pederson",NA,"Natural Causes","Not COVID-19 related"
+"Iowa",2021,"February","2021-02-23","NEWTON CORRECTIONAL FACILITY",63,"M","Kevin John McDonnell","University of Iowa Hospitals and Clinics",NA,"COVID-19 and other preexisting medical conditions"
+"Iowa",2021,"February","2021-02-08","ANAMOSA STATE PENITENTIARY",69,"M","Bryan Kirby Barrett",NA,NA,"Medical Emergency"
+"Iowa",2021,"February","2021-02-04","IOWA MEDICAL AND CLASSIFICATION CENTER",63,"M","Steven James Van Riper","University of Iowa Hospitals and Clinics",NA,"COVID-19 and other preexisting medical conditions"
+"Iowa",2021,"January","2021-01-31","IOWA MEDICAL AND CLASSIFICATION CENTER",72,"M","Robert Frank Taylor","University of Iowa Hospitals and Clinics",NA,"COVID-19 and other preexisting medical conditions"
+"Iowa",2021,"January","2021-01-28","IOWA MEDICAL AND CLASSIFICATION CENTER",79,"M","James Charles Kleppe",NA,NA,"COVID-19 and other preexisting medical conditions"
+"Iowa",2021,"January","2021-01-26","IOWA MEDICAL AND CLASSIFICATION CENTER",89,"M","Harold Arthur Duncan",NA,NA,"COVID-19 and other preexisting medical conditions"
+"Iowa",2021,"January","2021-01-07","FORT DODGE CORRECTIONAL FACILITY",67,"M","Jessie Joseph Gonzales","University of Iowa Hospitals and Clinics",NA,"COVID-19 and other preexisting medical conditions"
+"Iowa",2021,"January","2021-01-08","IOWA MEDICAL AND CLASSIFICATION CENTER",70,"M","William James Gibson",NA,"Natural Causes","Not COVID-19 related"
+"Iowa",2020,"December","2020-12-26","NEWTON CORRECTIONAL FACILITY",77,"M","Ronald James Calvert",NA,"Not Listed","Medical Emergency"
+"Iowa",2020,"December","2020-12-20","IOWA STATE PENITENTIARY",58,"M","Dale Dean Viers","University of Iowa Hospitals and Clinics",NA,"COVID-19 and other preexisting medical conditions"
+"Iowa",2020,"December","2020-12-10","IOWA STATE PENITENTIARY",63,"M","Mark Steven Bailey","University of Iowa Hospitals and Clinics",NA,"COVID-19 and other preexisting medical conditions"
+"Iowa",2020,"December","2020-12-05","ANAMOSA STATE PENITENTIARY",64,"M","Larry Donell Whaley","University of Iowa Hospitals and Clinics",NA,"COVID-19 and other preexisting medical conditions"
+"Iowa",2020,"November","2020-11-23","ANAMOSA STATE PENITENTIARY",68,"M","Frederick William Lewis","University of Iowa Hospitals and Clinics",NA,"COVID-19 and other preexisting medical conditions"
+"Iowa",2020,"November","2020-11-22","ANAMOSA STATE PENITENTIARY",59,"M","Timothy Christopher Bryant","University of Iowa Hospitals and Clinics",NA,"COVID-19 and other preexisting medical conditions"
+"Iowa",2020,"November","2020-11-17","ANAMOSA STATE PENITENTIARY",64,"M","Robert William Sirovy","University of Iowa Hospitals and Clinics",NA,"COVID-19 and other preexisting medical conditions"
+"Iowa",2020,"November","2020-11-16","ANAMOSA STATE PENITENTIARY",59,"M","Jonathan William Strain","University of Iowa Hospitals and Clinics",NA,"COVID-19 and other preexisting medical conditions"
+"Iowa",2020,"November","2020-11-14","CLARINDA CORRECTIONAL FACILITY",72,"M","Gene Edward Dryer","University of Iowa Hospitals and Clinics",NA,"COVID-19 and other preexisting medical conditions"
+"Iowa",2020,"November","2020-11-11","CLARINDA CORRECTIONAL FACILITY",28,"M","Christopher James Rios","University of Iowa Hospitals and Clinics","Suicide","Suspected Suicide"
+"Iowa",2020,"November","2020-11-08","ANAMOSA STATE PENITENTIARY",70,"M","David Allen Streets","University of Iowa Hospitals and Clinics",NA,"COVID-19 and other preexisting medical conditions"
+"Iowa",2020,"November","2020-11-03","IOWA MEDICAL AND CLASSIFICATION CENTER",88,"M","Clarence Christian Miller",NA,"Natural Causes","Not COVID-19 related"
+"Iowa",2020,"November","2020-11-02",NA,85,"M","Freddie Owen Drinkard","University of Iowa Hospitals and Clinics","Natural Causes","Not COVID-19 related"
+"Iowa",2020,"October","2020-10-22",NA,47,"M","James Glen Merical","Unity Point Hospital","Not Listed","Medical Emergency"
+"Iowa",2020,"September","2020-09-08","IOWA MEDICAL AND CLASSIFICATION CENTER",77,"M","Richard Leroy Peters",NA,NA,"COVID-19 and other preexisting medical conditions"
+"Iowa",2020,"August","2020-08-07","IOWA MEDICAL AND CLASSIFICATION CENTER",75,"M","David Michael Powers",NA,"Natural Causes","Not COVID-19 related"
+"Iowa",2020,"July","2020-07-27",NA,48,"M","Timothy Louis McGhee Jr","University of Iowa Hospital",NA,"COVID-19 and other preexisting medical conditions"
+"Iowa",2020,"July","2020-07-25","IOWA MEDICAL AND CLASSIFICATION CENTER",70,"M","Dennis Ray Meyer",NA,"Not Listed","Medical Emergency"
+"Iowa",2020,"July","2020-07-11","FORT DODGE CORRECTIONAL FACILITY",62,"M","Ronald Eugene Holdsworth","Unity Point Hospital",NA,"COVID-19 and other preexisting medical conditions"
+"Iowa",2020,"July","2020-07-06","FORT DODGE CORRECTIONAL FACILITY",71,"M","Ray Allen Vanlengen","University of Iowa Hospital",NA,"COVID-19 and other preexisting medical conditions"
+"Iowa",2020,"June","2020-06-04","IOWA MEDICAL AND CLASSIFICATION CENTER",64,"M","Dennis Ace Butrick",NA,"Natural Causes","Not COVID-19 related"
+"Iowa",2020,"May","2020-05-17","NEWTON CORRECTIONAL FACILITY",65,"M","Roger Paul Brierly","Mercy Hospital","Natural Causes",NA
+"Iowa",2020,"April","2020-04-28",NA,58,"M","Timothy Leroy Douglas","University of Iowa Hospitals and Clinics","Natural Causes","Not COVID-19 related"
+"Iowa",2020,"April","2020-04-18","IOWA MEDICAL AND CLASSIFICATION CENTER",61,"M","Roni Kachanes","Hospice Room","Natural Causes",NA
+"Iowa",2020,"April","2020-04-07",NA,69,"M","Randal Ray Norgaard","University of Iowa Hospitals and Clinics","Natural Causes",NA
+"Iowa",2020,"March","2020-03-04",NA,71,"M","Everett Roy Lyon","Great River Medical Center","Natural Causes","Heart Attack"
+"Iowa",2020,"February","2020-02-07","IOWA MEDICAL AND CLASSIFICATION CENTER",39,"M","Justin Lee Dewitt",NA,"Pending Investigation",NA
+"Iowa",2019,"December","2019-12-18","IOWA CORRECTIONAL INSTITUTE FOR WOMEN",27,"F","Kimerly Nicole Battle",NA,"Suicide","Suspected Suicide"
+"Iowa",2020,"January","2020-01-03",NA,59,"M","Delbert Duane Anderson","University of Iowa Hospitals and Clinics","Natural Causes",NA
+"Iowa",2020,"January","2020-01-01",NA,72,"M","Rick Fay Bird","University of Iowa Hospitals and Clinics","Natural Causes",NA
+"Iowa",2019,"November","2019-11-13","IOWA MEDICAL AND CLASSIFICATION CENTER",71,"M","Irvin Eugene Johnson",NA,"Natural Causes",NA
+"Iowa",2019,"October","2019-10-17","CLARINDA CORRECTIONAL FACILITY",69,"M","Thomas Earl Seehan",NA,"Natural Causes","Pending investigation by state medical examiner"
+"Iowa",2019,"August","2019-08-29",NA,67,"M","George Jochem Hettinga","University of Iowa Hospitals and Clinics",NA,"Chronic Illness"
+"Iowa",2019,"February","2019-02-23","IOWA MEDICAL AND CLASSIFICATION CENTER",54,"M","David Gene Lewis Jr","Hospice Room","Natural Causes",NA
+"Iowa",2019,"August","2019-08-04","ANAMOSA STATE PENITENTIARY",51,"M","Roger Scott Sellers",NA,NA,"Chronic Illness"
+"Iowa",2019,"July","2019-07-19",NA,70,"M","Martin Paul Wilkinson","University of Iowa Hospitals and Clinics",NA,"Chronic Illness"
+"Iowa",2019,"July","2019-07-13","ANAMOSA STATE PENITENTIARY",52,"M","Wayne Eugene Sinclair",NA,"Suicide","Suspected Suicide"
+"Iowa",2019,"July","2019-07-06",NA,59,"M","Larry Gene Nugent","University of Iowa Hospitals and Clinics","Natural Causes",NA
+"Iowa",2019,"July","2019-07-09","MOUNT PLEASANT CORRECTIONAL FACILITY",63,"M","Kevin Todd Bishop","University of Iowa Hospitals and Clinics",NA,NA
+"Iowa",2019,"May","2019-05-22",NA,74,"M","Albert Lemoine Collins","University of Iowa Hospitals and Clinics","Natural Causes",NA
+"Iowa",2019,"May","2019-05-14","ANAMOSA STATE PENITENTIARY",52,"M","Calvin Pearson","Jones Regional Medical Center","Suicide","Suspected Suicide"
+"Iowa",2019,"May","2019-05-02","IOWA CORRECTIONAL INSTITUTE FOR WOMEN",63,"F","Debi Olson",NA,"Natural Causes","Chronic Illness"
+"Iowa",2019,"March","2019-03-25",NA,88,"M","Richard Edison Johnson","University of Iowa Hospitals and Clinics","Natural Causes",NA
+"Iowa",2019,"March","2019-03-06","IOWA STATE PENITENTIARY",71,"M","Charles Edward Robinson","Hospice Room","Natural Causes","Terminal Illness"
+"Iowa",2018,"December","2018-12-31",NA,56,"F","Anna Marie Bunch","Mercy Medical Center","Not Listed","Medical Emergency"
+"Iowa",2018,"December","2018-12-31","IOWA MEDICAL AND CLASSIFICATION CENTER",64,"M","Kevin Richard Johnson",NA,"Natural Causes","Chronic Illness"
+"Iowa",2018,"December","2018-12-22",NA,28,"M","Ryan Nicholas Trowbridge","University of Iowa Hospitals and Clinics","Suicide","Suspected Suicide"
+"Iowa",2018,"December","2018-12-16",NA,61,"M","Charles Edward Lasage","University of Iowa Hospital",NA,"Chronic Illness"
+"Iowa",2018,"December","2018-12-14","IOWA MEDICAL AND CLASSIFICATION CENTER",52,"M","Paul Scott Kissel",NA,"Unknown Causes","Not considered suspicious"
+"Iowa",2018,"November","2018-11-09","IOWA MEDICAL AND CLASSIFICATION CENTER",69,"M","Henry Lee Whitfield",NA,"Natural Causes","Chronic Illness"
+"Iowa",2018,"November","2018-11-05",NA,79,"M","Donald Warner Brammer","University of Iowa Hospital","Natural Causes","Chronic Illness"
+"Iowa",2018,"November","2018-11-03",NA,65,"M","Russell Kenneth Fidler","University of Iowa Hospitals and Clinics","Natural Causes","Medical Emergency"
+"Iowa",2018,"October","2018-10-15",NA,31,"M","Matthew Earl Rausch","Unity Point Hospital","Suicide","Suspected Suicide"
+"Iowa",2018,"October","2018-10-08",NA,53,"M","Michael Allen Kennedy","Unity Point Emergency Room",NA,"Medical Emergency"
+"Iowa",2018,"September","2018-09-30",NA,73,"M","Robert James Carter","Ft. Madison Community Hospital",NA,"Medical Emergency"
+"Iowa",2018,"August","2018-08-20","DAVENPORT WORK RELEASE CENTER",63,"M","James Olyn Shell Jr",NA,NA,"Medical Emergency - not considered suspicious"
+"Iowa",2018,"August","2018-08-12","IOWA MEDICAL AND CLASSIFICATION CENTER",74,"M","Robert Charles Richey","Hospice Room","Natural Causes","Chronic Illness"
+"Iowa",2018,"July","2018-07-30","IOWA MEDICAL AND CLASSIFICATION CENTER",69,"M","Gary Dean Nixon","University of Iowa Hospitals and Clinics",NA,"Chronic Illness"
+"Iowa",2018,"July","2018-07-26","IOWA MEDICAL AND CLASSIFICATION CENTER",79,"M","Ralph Phillip Carlson","Hospice Room",NA,"Chronic Illness"
+"Iowa",2018,"July","2018-07-14","IOWA MEDICAL AND CLASSIFICATION CENTER",62,"M","Harold Leroy Page","Hospice Room","Natural Causes","Chronic Illness"
+"Iowa",2018,"June","2018-06-30",NA,58,"F","Yvonne Myrna Joshua","University of Iowa Hospital",NA,"Acute medical complications"
+"Iowa",2018,"May","2018-05-05","IOWA STATE PENITENTIARY",66,"M","Lacy Laverne Kelley",NA,NA,"Chronic Illness"
+"Iowa",2018,"April","2018-04-04","IOWA MEDICAL AND CLASSIFICATION CENTER",65,"M","Thomas James Morney",NA,"Natural Causes","Chronic Illness"
+"Iowa",2018,"February","2018-02-01",NA,29,"M","Rashod Develt Aldridge","University of Iowa Hospitals and Clinics",NA,"Cardiac arrest, chronic disease, and flu"
+"Iowa",2017,"December","2017-12-28","IOWA MEDICAL AND CLASSIFICATION CENTER",79,"M","Eddie Chest",NA,"Natural Causes","Chronic Illness"
+"Iowa",2017,"December","2017-12-20","IOWA STATE PENITENTIARY",73,"M","Robert Anthony Williams","Hospice Room","Natural Causes","Chronic Illness"
+"Iowa",2017,"November","2017-11-27",NA,30,"M","Adam Andrew Nolz","University of Iowa Hospitals and Clinics","Unknown Causes","Medical Emergency"
+"Iowa",2017,"November","2017-11-05","IOWA MEDICAL AND CLASSIFICATION CENTER",83,"M","Robert Milton Inman","Hospice Room","Natural Causes","Chronic Illness"
+"Iowa",2017,"October","2017-10-21","ANAMOSA STATE PENITENTIARY",63,"M","Raymond Metz","Hospice Room","Natural Causes",NA
+"Iowa",2017,"October","2017-10-11","IOWA MEDICAL AND CLASSIFICATION CENTER",74,"M","Robert Jean Robinson","Hospice Room","Natural Causes","Chronic Illness"
+"Iowa",2017,"September","2017-09-29","IOWA MEDICAL AND CLASSIFICATION CENTER",58,"M","Randy Lee Noland","Hospice Room","Natural Causes","Chronic Illness"
+"Iowa",2017,"July","2017-07-22",NA,67,"M","Paeng Saengaroun",NA,"Natural Causes",NA
+"Iowa",2017,"May","2017-05-23","IOWA MEDICAL AND CLASSIFICATION CENTER",67,"M","James William Allen","Hospice Room",NA,"Chronic Illness"
+"Iowa",2017,"March","2017-03-21","IOWA STATE PENITENTIARY",72,"M","Lawrence T Gladson","Hospice Room",NA,"Chronic Illness"
+"Iowa",2017,"March","2017-03-18","IOWA MEDICAL AND CLASSIFICATION CENTER",26,"M","Ryan Stephen Bordenaro",NA,"Suicide",NA
+"Iowa",2017,"March","2017-03-17","ANAMOSA STATE PENITENTIARY",50,"M","Wayne Shelton","Hospice Room",NA,"Chronic Illness"
+"Iowa",2017,"March","2017-03-03","IOWA MEDICAL AND CLASSIFICATION CENTER",52,"M","Joseph J Koncel","Hospice Room",NA,"Chronic Illness"

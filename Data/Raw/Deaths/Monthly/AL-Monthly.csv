@@ -1,188 +1,188 @@
 "State","Year","Month","Facility","Total.Deaths"
-"Alabama",2020,"December","Holman",1
-"Alabama",2020,"December","Holman Death Row",5
-"Alabama",2020,"December","Kilby",4
-"Alabama",2020,"December","Bibb",2
-"Alabama",2020,"December","Bullock",3
-"Alabama",2020,"December","Fountain",2
-"Alabama",2020,"December","Hamilton AI",3
-"Alabama",2020,"December","Staton",1
-"Alabama",2020,"December","Mobile Work Center",3
-"Alabama",2020,"November","Kilby",1
-"Alabama",2020,"November","St Clair",6
-"Alabama",2020,"November","Donaldson",2
-"Alabama",2020,"November","Limestone",2
-"Alabama",2020,"November","Bibb",1
-"Alabama",2020,"November","Bullock",2
-"Alabama",2020,"November","Fountain",1
-"Alabama",2020,"November","Hamilton AI",3
-"Alabama",2020,"November","Hamilton Work Center",1
-"Alabama",2020,"October","Kilby",6
-"Alabama",2020,"October","St Clair",2
-"Alabama",2020,"October","Donaldson",1
-"Alabama",2020,"October","Limestone",3
-"Alabama",2020,"October","Bibb",1
-"Alabama",2020,"October","Bullock",3
-"Alabama",2020,"October","Easterling",2
-"Alabama",2020,"October","Fountain",1
-"Alabama",2020,"October","Hamilton AI",1
-"Alabama",2020,"October","Staton",1
-"Alabama",2020,"September","Holman",1
-"Alabama",2020,"September","Holman Death Row",1
-"Alabama",2020,"September","Kilby",1
-"Alabama",2020,"September","St Clair",1
-"Alabama",2020,"September","Donaldson",1
-"Alabama",2020,"September","Bibb",1
-"Alabama",2020,"September","Easterling",1
-"Alabama",2020,"September","Fountain",2
-"Alabama",2020,"September","Hamilton AI",2
-"Alabama",2020,"September","Hamilton Work Center",1
-"Alabama",2020,"August","Kilby",3
-"Alabama",2020,"August","St Clair",4
-"Alabama",2020,"August","Donaldson",2
-"Alabama",2020,"August","Limestone",2
-"Alabama",2020,"August","Bibb",1
-"Alabama",2020,"August","Bullock",1
-"Alabama",2020,"August","Fountain",1
-"Alabama",2020,"August","Ventress",1
-"Alabama",2020,"July","Kilby",4
-"Alabama",2020,"July","St Clair",5
-"Alabama",2020,"July","Donaldson",1
-"Alabama",2020,"July","Limestone",1
-"Alabama",2020,"July","Easterling",2
-"Alabama",2020,"June","Kilby",4
-"Alabama",2020,"June","St Clair",3
-"Alabama",2020,"June","Tutwiler",1
-"Alabama",2020,"June","Donaldson",4
-"Alabama",2020,"June","Bibb",2
-"Alabama",2020,"June","Bullock",1
-"Alabama",2020,"June","Elmore",1
-"Alabama",2020,"June","Staton",1
-"Alabama",2020,"May","Holman Death Row",1
-"Alabama",2020,"May","Kilby",6
-"Alabama",2020,"May","St Clair",4
-"Alabama",2020,"May","Donaldson",1
-"Alabama",2020,"May","Bullock",2
-"Alabama",2020,"May","Easterling",1
-"Alabama",2020,"May","Elmore",1
-"Alabama",2020,"May","Fountain",1
-"Alabama",2020,"May","Ventress",1
-"Alabama",2020,"May","Birgmingham Work Release",1
-"Alabama",2020,"April","St Clair",2
-"Alabama",2020,"April","Tutwiler",1
-"Alabama",2020,"April","Donaldson",2
-"Alabama",2020,"April","Limestone",1
-"Alabama",2020,"April","Bibb",1
-"Alabama",2020,"April","Bullock",1
-"Alabama",2020,"April","Fountain",1
-"Alabama",2020,"April","Hamilton AI",2
-"Alabama",2020,"April","Montgomery",1
-"Alabama",2020,"April","Ventress",1
-"Alabama",2020,"March","Holman Death Row",1
-"Alabama",2020,"March","Kilby",3
-"Alabama",2020,"March","St Clair",1
-"Alabama",2020,"March","Donaldson",2
-"Alabama",2020,"March","Limestone",2
-"Alabama",2020,"March","Bibb",2
-"Alabama",2020,"March","Fountain",3
-"Alabama",2020,"March","Hamilton AI",1
-"Alabama",2020,"March","Ventress",2
-"Alabama",2020,"February","Holman",2
-"Alabama",2020,"February","Holman Death Row",1
-"Alabama",2020,"February","Kilby",2
-"Alabama",2020,"February","St Clair",3
-"Alabama",2020,"February","Donaldson",1
-"Alabama",2020,"February","Bullock",1
-"Alabama",2020,"February","Easterling",2
-"Alabama",2020,"February","Staton",1
-"Alabama",2020,"January","Holman",2
-"Alabama",2020,"January","Donaldson",3
-"Alabama",2020,"January","Birmingham Work Center",1
-"Alabama",2019,"December","Holman",1
-"Alabama",2019,"December","Kilby",1
-"Alabama",2019,"December","Donaldson",2
-"Alabama",2019,"December","Limestone",1
-"Alabama",2019,"December","Bibb",1
-"Alabama",2019,"December","Elmore",1
-"Alabama",2019,"December","Fountain",1
-"Alabama",2019,"December","Hamilton AI",3
-"Alabama",2019,"December","Ventress",1
-"Alabama",2019,"December","North Alabama Work Center",1
-"Alabama",2019,"November","Kilby",3
-"Alabama",2019,"November","St Clair",1
-"Alabama",2019,"November","Limestone",1
-"Alabama",2019,"November","Bibb",1
-"Alabama",2019,"November","Elmore",1
-"Alabama",2019,"November","Staton",1
-"Alabama",2019,"October","Holman",1
-"Alabama",2019,"October","Tutwiler",1
-"Alabama",2019,"October","Donaldson",3
-"Alabama",2019,"October","Limestone",3
-"Alabama",2019,"October","Bullock",1
-"Alabama",2019,"October","Elmore",1
-"Alabama",2019,"October","Fountain",1
-"Alabama",2019,"October","Hamilton AI",1
-"Alabama",2019,"October","Ventress",1
-"Alabama",2019,"October","Elba Work Center",1
-"Alabama",2019,"October","Mobile Work Center",1
-"Alabama",2019,"September","Kilby",1
-"Alabama",2019,"September","Donaldson",2
-"Alabama",2019,"September","Limestone",2
-"Alabama",2019,"September","Fountain",1
-"Alabama",2019,"September","Ventress",1
-"Alabama",2019,"September","North Alabama Work Center",1
-"Alabama",2019,"August","Kilby",3
-"Alabama",2019,"August","St Clair",2
-"Alabama",2019,"August","Donaldson",1
-"Alabama",2019,"August","Limestone",1
-"Alabama",2019,"August","Bullock",1
-"Alabama",2019,"August","Easterling",1
-"Alabama",2019,"August","Elmore",1
-"Alabama",2019,"July","Holman",1
-"Alabama",2019,"July","Kilby",4
-"Alabama",2019,"July","St Clair",1
-"Alabama",2019,"July","Donaldson",1
-"Alabama",2019,"July","Limestone",1
-"Alabama",2019,"July","Hamilton AI",1
-"Alabama",2019,"June","Limestone",2
-"Alabama",2019,"June","Fountain",1
-"Alabama",2019,"June","Hamilton AI",3
-"Alabama",2019,"June","Staton",1
-"Alabama",2019,"May","Holman",2
-"Alabama",2019,"May","Kilby",3
-"Alabama",2019,"May","St Clair",1
-"Alabama",2019,"May","Donaldson",2
-"Alabama",2019,"May","Bullock",1
-"Alabama",2019,"May","Elmore",1
-"Alabama",2019,"May","Fountain",1
-"Alabama",2019,"May","Hamilton AI",1
-"Alabama",2019,"April","Kilby",2
-"Alabama",2019,"April","St Clair",1
-"Alabama",2019,"April","Donaldson",3
-"Alabama",2019,"April","Limestone",2
-"Alabama",2019,"April","Fountain",2
-"Alabama",2019,"April","Hamilton AI",1
-"Alabama",2019,"March","Kilby",1
-"Alabama",2019,"March","St Clair",2
-"Alabama",2019,"March","Donaldson",2
-"Alabama",2019,"March","Bibb",3
-"Alabama",2019,"March","Elmore",1
-"Alabama",2019,"March","Fountain",1
-"Alabama",2019,"March","Staton",1
-"Alabama",2019,"February","Holman",1
-"Alabama",2019,"February","Holman Death Row",1
-"Alabama",2019,"February","Kilby",1
-"Alabama",2019,"February","St Clair",2
-"Alabama",2019,"February","Donaldson",3
-"Alabama",2019,"February","Limestone",2
-"Alabama",2019,"February","Bibb",1
-"Alabama",2019,"February","Fountain",1
-"Alabama",2019,"February","Hamilton AI",1
-"Alabama",2019,"February","Ventress",1
-"Alabama",2019,"January","Kilby",4
-"Alabama",2019,"January","St Clair",3
-"Alabama",2019,"January","Donaldson",1
-"Alabama",2019,"January","Bibb",1
-"Alabama",2019,"January","Bullock",1
-"Alabama",2019,"January","Fountain",1
-"Alabama",2019,"January","Staton",1
+"Alabama",2020,"December","HOLMAN",1
+"Alabama",2020,"December","HOLMAN DEATH ROW",5
+"Alabama",2020,"December","KILBY",4
+"Alabama",2020,"December","BIBB",2
+"Alabama",2020,"December","BULLOCK",3
+"Alabama",2020,"December","FOUNTAIN",2
+"Alabama",2020,"December","HAMILTON AI",3
+"Alabama",2020,"December","STATON",1
+"Alabama",2020,"December","MOBILE WORK CENTER",3
+"Alabama",2020,"November","KILBY",1
+"Alabama",2020,"November","ST CLAIR",6
+"Alabama",2020,"November","DONALDSON",2
+"Alabama",2020,"November","LIMESTONE",2
+"Alabama",2020,"November","BIBB",1
+"Alabama",2020,"November","BULLOCK",2
+"Alabama",2020,"November","FOUNTAIN",1
+"Alabama",2020,"November","HAMILTON AI",3
+"Alabama",2020,"November","HAMILTON WORK CENTER",1
+"Alabama",2020,"October","KILBY",6
+"Alabama",2020,"October","ST CLAIR",2
+"Alabama",2020,"October","DONALDSON",1
+"Alabama",2020,"October","LIMESTONE",3
+"Alabama",2020,"October","BIBB",1
+"Alabama",2020,"October","BULLOCK",3
+"Alabama",2020,"October","EASTERLING",2
+"Alabama",2020,"October","FOUNTAIN",1
+"Alabama",2020,"October","HAMILTON AI",1
+"Alabama",2020,"October","STATON",1
+"Alabama",2020,"September","HOLMAN",1
+"Alabama",2020,"September","HOLMAN DEATH ROW",1
+"Alabama",2020,"September","KILBY",1
+"Alabama",2020,"September","ST CLAIR",1
+"Alabama",2020,"September","DONALDSON",1
+"Alabama",2020,"September","BIBB",1
+"Alabama",2020,"September","EASTERLING",1
+"Alabama",2020,"September","FOUNTAIN",2
+"Alabama",2020,"September","HAMILTON AI",2
+"Alabama",2020,"September","HAMILTON WORK CENTER",1
+"Alabama",2020,"August","KILBY",3
+"Alabama",2020,"August","ST CLAIR",4
+"Alabama",2020,"August","DONALDSON",2
+"Alabama",2020,"August","LIMESTONE",2
+"Alabama",2020,"August","BIBB",1
+"Alabama",2020,"August","BULLOCK",1
+"Alabama",2020,"August","FOUNTAIN",1
+"Alabama",2020,"August","VENTRESS",1
+"Alabama",2020,"July","KILBY",4
+"Alabama",2020,"July","ST CLAIR",5
+"Alabama",2020,"July","DONALDSON",1
+"Alabama",2020,"July","LIMESTONE",1
+"Alabama",2020,"July","EASTERLING",2
+"Alabama",2020,"June","KILBY",4
+"Alabama",2020,"June","ST CLAIR",3
+"Alabama",2020,"June","TUTWILER",1
+"Alabama",2020,"June","DONALDSON",4
+"Alabama",2020,"June","BIBB",2
+"Alabama",2020,"June","BULLOCK",1
+"Alabama",2020,"June","ELMORE",1
+"Alabama",2020,"June","STATON",1
+"Alabama",2020,"May","HOLMAN DEATH ROW",1
+"Alabama",2020,"May","KILBY",6
+"Alabama",2020,"May","ST CLAIR",4
+"Alabama",2020,"May","DONALDSON",1
+"Alabama",2020,"May","BULLOCK",2
+"Alabama",2020,"May","EASTERLING",1
+"Alabama",2020,"May","ELMORE",1
+"Alabama",2020,"May","FOUNTAIN",1
+"Alabama",2020,"May","VENTRESS",1
+"Alabama",2020,"May","BIRGMINGHAM WORK RELEASE",1
+"Alabama",2020,"April","ST CLAIR",2
+"Alabama",2020,"April","TUTWILER",1
+"Alabama",2020,"April","DONALDSON",2
+"Alabama",2020,"April","LIMESTONE",1
+"Alabama",2020,"April","BIBB",1
+"Alabama",2020,"April","BULLOCK",1
+"Alabama",2020,"April","FOUNTAIN",1
+"Alabama",2020,"April","HAMILTON AI",2
+"Alabama",2020,"April","MONTGOMERY",1
+"Alabama",2020,"April","VENTRESS",1
+"Alabama",2020,"March","HOLMAN DEATH ROW",1
+"Alabama",2020,"March","KILBY",3
+"Alabama",2020,"March","ST CLAIR",1
+"Alabama",2020,"March","DONALDSON",2
+"Alabama",2020,"March","LIMESTONE",2
+"Alabama",2020,"March","BIBB",2
+"Alabama",2020,"March","FOUNTAIN",3
+"Alabama",2020,"March","HAMILTON AI",1
+"Alabama",2020,"March","VENTRESS",2
+"Alabama",2020,"February","HOLMAN",2
+"Alabama",2020,"February","HOLMAN DEATH ROW",1
+"Alabama",2020,"February","KILBY",2
+"Alabama",2020,"February","ST CLAIR",3
+"Alabama",2020,"February","DONALDSON",1
+"Alabama",2020,"February","BULLOCK",1
+"Alabama",2020,"February","EASTERLING",2
+"Alabama",2020,"February","STATON",1
+"Alabama",2020,"January","HOLMAN",2
+"Alabama",2020,"January","DONALDSON",3
+"Alabama",2020,"January","BIRMINGHAM WORK CENTER",1
+"Alabama",2019,"December","HOLMAN",1
+"Alabama",2019,"December","KILBY",1
+"Alabama",2019,"December","DONALDSON",2
+"Alabama",2019,"December","LIMESTONE",1
+"Alabama",2019,"December","BIBB",1
+"Alabama",2019,"December","ELMORE",1
+"Alabama",2019,"December","FOUNTAIN",1
+"Alabama",2019,"December","HAMILTON AI",3
+"Alabama",2019,"December","VENTRESS",1
+"Alabama",2019,"December","NORTH ALABAMA WORK CENTER",1
+"Alabama",2019,"November","KILBY",3
+"Alabama",2019,"November","ST CLAIR",1
+"Alabama",2019,"November","LIMESTONE",1
+"Alabama",2019,"November","BIBB",1
+"Alabama",2019,"November","ELMORE",1
+"Alabama",2019,"November","STATON",1
+"Alabama",2019,"October","HOLMAN",1
+"Alabama",2019,"October","TUTWILER",1
+"Alabama",2019,"October","DONALDSON",3
+"Alabama",2019,"October","LIMESTONE",3
+"Alabama",2019,"October","BULLOCK",1
+"Alabama",2019,"October","ELMORE",1
+"Alabama",2019,"October","FOUNTAIN",1
+"Alabama",2019,"October","HAMILTON AI",1
+"Alabama",2019,"October","VENTRESS",1
+"Alabama",2019,"October","ELBA WORK CENTER",1
+"Alabama",2019,"October","MOBILE WORK CENTER",1
+"Alabama",2019,"September","KILBY",1
+"Alabama",2019,"September","DONALDSON",2
+"Alabama",2019,"September","LIMESTONE",2
+"Alabama",2019,"September","FOUNTAIN",1
+"Alabama",2019,"September","VENTRESS",1
+"Alabama",2019,"September","NORTH ALABAMA WORK CENTER",1
+"Alabama",2019,"August","KILBY",3
+"Alabama",2019,"August","ST CLAIR",2
+"Alabama",2019,"August","DONALDSON",1
+"Alabama",2019,"August","LIMESTONE",1
+"Alabama",2019,"August","BULLOCK",1
+"Alabama",2019,"August","EASTERLING",1
+"Alabama",2019,"August","ELMORE",1
+"Alabama",2019,"July","HOLMAN",1
+"Alabama",2019,"July","KILBY",4
+"Alabama",2019,"July","ST CLAIR",1
+"Alabama",2019,"July","DONALDSON",1
+"Alabama",2019,"July","LIMESTONE",1
+"Alabama",2019,"July","HAMILTON AI",1
+"Alabama",2019,"June","LIMESTONE",2
+"Alabama",2019,"June","FOUNTAIN",1
+"Alabama",2019,"June","HAMILTON AI",3
+"Alabama",2019,"June","STATON",1
+"Alabama",2019,"May","HOLMAN",2
+"Alabama",2019,"May","KILBY",3
+"Alabama",2019,"May","ST CLAIR",1
+"Alabama",2019,"May","DONALDSON",2
+"Alabama",2019,"May","BULLOCK",1
+"Alabama",2019,"May","ELMORE",1
+"Alabama",2019,"May","FOUNTAIN",1
+"Alabama",2019,"May","HAMILTON AI",1
+"Alabama",2019,"April","KILBY",2
+"Alabama",2019,"April","ST CLAIR",1
+"Alabama",2019,"April","DONALDSON",3
+"Alabama",2019,"April","LIMESTONE",2
+"Alabama",2019,"April","FOUNTAIN",2
+"Alabama",2019,"April","HAMILTON AI",1
+"Alabama",2019,"March","KILBY",1
+"Alabama",2019,"March","ST CLAIR",2
+"Alabama",2019,"March","DONALDSON",2
+"Alabama",2019,"March","BIBB",3
+"Alabama",2019,"March","ELMORE",1
+"Alabama",2019,"March","FOUNTAIN",1
+"Alabama",2019,"March","STATON",1
+"Alabama",2019,"February","HOLMAN",1
+"Alabama",2019,"February","HOLMAN DEATH ROW",1
+"Alabama",2019,"February","KILBY",1
+"Alabama",2019,"February","ST CLAIR",2
+"Alabama",2019,"February","DONALDSON",3
+"Alabama",2019,"February","LIMESTONE",2
+"Alabama",2019,"February","BIBB",1
+"Alabama",2019,"February","FOUNTAIN",1
+"Alabama",2019,"February","HAMILTON AI",1
+"Alabama",2019,"February","VENTRESS",1
+"Alabama",2019,"January","KILBY",4
+"Alabama",2019,"January","ST CLAIR",3
+"Alabama",2019,"January","DONALDSON",1
+"Alabama",2019,"January","BIBB",1
+"Alabama",2019,"January","BULLOCK",1
+"Alabama",2019,"January","FOUNTAIN",1
+"Alabama",2019,"January","STATON",1

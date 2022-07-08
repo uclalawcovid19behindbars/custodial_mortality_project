@@ -37,7 +37,7 @@
 "Mississippi",2015,"August","2015-08-21","MSP","78822","M","Natural","Greenwood LeFlore",731
 "Mississippi",2015,"September","2015-09-21","CMCF","32156","M","Natural","CMMC",718
 "Mississippi",2015,"October","2015-10-12","MSP","33186","M","Natural","MSP",731
-"Mississippi",2015,"October","2015-10-19","Kemper CCF","154452","M","Natural","John Stennis Mem.",727
+"Mississippi",2015,"October","2015-10-19","KEMPER CCF","154452","M","Natural","John Stennis Mem.",727
 "Mississippi",2015,"November","2015-11-10","MSP","83070","M","Natural","MSP",731
 "Mississippi",2015,"November","2015-11-11","MSP","103000","M","Natural","MSP",731
 "Mississippi",2015,"November","2015-11-17","MSP","L7449","M","Natural","UMMC",731
@@ -48,7 +48,7 @@
 "Mississippi",2015,"December","2015-12-18","MSP","T3995","M","Homicide","MSP",731
 "Mississippi",2017,"January","2017-01-01","MCCF","125020","M","Natural","MCCF",730
 "Mississippi",2017,"January","2017-01-03","CMCF","84136","M","Natural","CMCF",718
-"Mississippi",2017,"January","2017-01-04","Scott CSWP","O9950","M","Other","UMMC",NA
+"Mississippi",2017,"January","2017-01-04","SCOTT CSWP","O9950","M","Other","UMMC",NA
 "Mississippi",2017,"January","2017-01-11","MSP","157330","M","Natural","MSP",731
 "Mississippi",2017,"January","2017-01-25","MSP","108215","M","Natural","MSP",731
 "Mississippi",2017,"February","2017-02-02","MSP","R0862","M","Natural","MSP",731
@@ -56,7 +56,7 @@
 "Mississippi",2017,"February","2017-02-06","MSP","57533","M","Natural","MSP",731
 "Mississippi",2017,"February","2017-02-12","MSP","41292","M","Natural","MSP",731
 "Mississippi",2017,"February","2017-02-15","MSP","198089","M","Natural","MSP",731
-"Mississippi",2017,"February","2017-02-16","Yazoo CCF","184556","M","Natural","Yazoo CCF",1747
+"Mississippi",2017,"February","2017-02-16","YAZOO CCF","184556","M","Natural","Yazoo CCF",1747
 "Mississippi",2017,"February","2017-02-17","MSP","41003","M","Natural","MSP",731
 "Mississippi",2017,"February","2017-02-16","SMCI","160855","M","Natural","SMCI",734
 "Mississippi",2017,"February","2017-02-18","WCCF","L1305","M","Homicide","WCCF",740
@@ -205,7 +205,7 @@
 "Mississippi",2019,"January","2019-01-31","MCCF","44506","M","Natural","MCCF",730
 "Mississippi",2019,"February","2019-02-09","CMCF","30461","M","Natural","Merit Health River",718
 "Mississippi",2019,"February","2019-02-24","CMCF","L2818","M","Natural","CMMC",718
-"Mississippi",2019,"March","2019-03-02","Madison CWC","R6865","M","Natural",NA,NA
+"Mississippi",2019,"March","2019-03-02","MADISON CWC","R6865","M","Natural",NA,NA
 "Mississippi",2019,"March","2019-03-11","MSP","90108","M","Natural","MSP",731
 "Mississippi",2019,"March","2019-03-12","MSP","O4569","M","Natural","MSP",731
 "Mississippi",2019,"March","2019-03-22","SMCI","39565","M","Natural","SMCI",734
@@ -265,7 +265,7 @@
 "Mississippi",2019,"November","2019-11-19","MSP","140989","M","Suicide","MSP",731
 "Mississippi",2019,"November","2019-11-20","EMCF","M1936","M","Suicide","EMCF",722
 "Mississippi",2019,"November","2019-11-21","CMCF","R5135","M","Natural","CMMC",718
-"Mississippi",2019,"December","2019-12-04","Delta TVC","K5339","M","Suicide","Delta TVC",720
+"Mississippi",2019,"December","2019-12-04","DELTA TVC","K5339","M","Suicide","Delta TVC",720
 "Mississippi",2019,"December","2019-12-08","MSP","44774","M","Natural","MSP",731
 "Mississippi",2019,"December","2019-12-08","MSP","103453","M","Suicide","MSP",731
 "Mississippi",2019,"December","2019-12-08","CMCF","53566","M","Natural","CMCF",718
@@ -289,7 +289,7 @@
 "Mississippi",2020,"January","2020-01-30","MCCF","46190","M","Natural","MCCF",730
 "Mississippi",2020,"February","2020-02-01","WCCF","118130","M","Accident","WCCF",740
 "Mississippi",2020,"February","2020-02-10","MSP","56962","M","Natural","MSP",731
-"Mississippi",2020,"February","2020-02-11","Walthall CJ","56519","M","Natural","Walthall County Gen.",NA
+"Mississippi",2020,"February","2020-02-11","WALTHALL CJ","56519","M","Natural","Walthall County Gen.",NA
 "Mississippi",2020,"February","2020-02-15","CMCF","21391","M","Natural","CMMC",718
 "Mississippi",2020,"February","2020-02-16","CMCF","55271","M","Natural","CMCF",718
 "Mississippi",2020,"February","2020-02-26","CMCM","221215","M","Natural","Merit Health Rankin",718
@@ -332,7 +332,7 @@
 "Mississippi",2020,"August","2020-08-07","CMCF","31892","M","Natural","Merit Health Rankin",718
 "Mississippi",2020,"August","2020-08-07","MSP","45748","M","Natural","MSP",731
 "Mississippi",2020,"August","2020-08-08","MSP","56747","M","Natural","MSP #42",731
-"Mississippi",2020,"August","2020-08-08","George CCF","217254","M","Natural","George County ER",723
+"Mississippi",2020,"August","2020-08-08","GEORGE CCF","217254","M","Natural","George County ER",723
 "Mississippi",2020,"August","2020-08-14","MSP","136799","M","Natural","MSP #42",731
 "Mississippi",2020,"August","2020-08-14","TCCT","168408","M","Homicide","TCCF",738
 "Mississippi",2020,"August","2020-08-15","MSP","T0274","M","Natural","Merit Health Central",731
@@ -350,7 +350,7 @@
 "Mississippi",2020,"September","2020-09-06","CMCF","44482","M","Natural","CMMC",718
 "Mississippi",2020,"September","2020-09-08","CMCF","L4500","M","Natural","CMMC",718
 "Mississippi",2020,"September","2020-09-14","CMCF","L4658","M","Natural","CMMC",718
-"Mississippi",2020,"September","2020-09-19","Fed. Cust.","K3739","M","Natural","MSP",NA
+"Mississippi",2020,"September","2020-09-19","FED. CUST.","K3739","M","Natural","MSP",NA
 "Mississippi",2020,"September","2020-09-20","MSP","32015","M","Natural","MSP #42",731
 "Mississippi",2020,"September","2020-09-22","MSP","101223","M","Natural","NW MS Reg. Med.Ctr.",731
 "Mississippi",2020,"September","2020-09-25","MSP","145446","M","Natural","MSP #42",731
@@ -372,7 +372,7 @@
 "Mississippi",2020,"November","2020-11-25","MSP","159169","M","Undetermined","MSP #42",731
 "Mississippi",2020,"December","2020-12-01","SMCI","N5750","M","Undetermined","Wesley Medical Center",734
 "Mississippi",2020,"December","2020-12-09","MSP","52009","M","Undetermined","MSP #42",731
-"Mississippi",2020,"December","2020-12-10","Alcorn CJ","204637","M","Undetermined","Alcorn CJ",715
+"Mississippi",2020,"December","2020-12-10","ALCORN CJ","204637","M","Undetermined","Alcorn CJ",715
 "Mississippi",2020,"December","2020-12-16","SMCI","74666","M","Undetermined","SMCI",734
 "Mississippi",2020,"December","2020-12-18","MSP","R1489","M","Undetermined","MSP",731
 "Mississippi",2020,"December","2020-12-19","MSP","44851","M","Undetermined","Delta Regional MC",731

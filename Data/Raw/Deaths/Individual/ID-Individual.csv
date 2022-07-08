@@ -1,168 +1,168 @@
 "State","Year","Month","Death.Date","Facility","Death.Age","Sex","Race","Circumstance.General","Location","UCLA.ID"
-"Idaho",2015,"January","2015-01-02","Idaho State Correctional Institution",67,"M","Hispanic","Illness","St. Alphonsus Hospital, Boise",439
-"Idaho",2015,"January","2015-01-05","Idaho Maximum Security Institution",55,"M","White","Suicide","St. Alphonsus Hospital, Boise",437
-"Idaho",2015,"January","2015-01-16","Idaho State Correctional Center",59,"M","Hispanic","Illness","St. Alphonsus Hospital, Boise",438
-"Idaho",2015,"February","2015-02-19","Idaho State Correctional Institution",68,"M","White","Illness","Idaho State Correctional Institution",439
-"Idaho",2015,"March","2015-03-01","Idaho State Correctional Institution",60,"M","White","Illness","St. Luke's Hospital, Boise",439
-"Idaho",2015,"March","2015-03-10","Idaho State Correctional Institution",70,"M","White","Illness","Idaho State Correctional Institution",439
-"Idaho",2015,"April","2015-04-15","Idaho State Correctional Institution",47,"M","Native American",NA,"St. Luke's Hospital, Boise",439
-"Idaho",2015,"June","2015-07-09","Idaho Maximum Security Institution",55,"M","White","AIDS","Idaho Maximum Security Institution",437
-"Idaho",2015,"June","2015-07-21","Idaho State Correctional Institution",73,"M","White","Illness","St. Luke's Hospital, Boise",439
-"Idaho",2015,"June","2015-07-21","Idaho State Correctional Institution",82,"M","White","Accidental","Idaho State Correctional Institution",439
-"Idaho",2015,"August","2015-08-17","Idaho State Correctional Institution",61,"M","White","Illness","Idaho State Correctional Institution",439
-"Idaho",2015,"August","2015-08-20","Idaho State Correctional Center",60,"M","Other","Homicide","St. Luke's Hospital, Boise",438
-"Idaho",2015,"September","2015-09-06","Idaho State Correctional Institution",54,"M",NA,"Illness","Idaho State Correctional Institution",439
-"Idaho",2015,"September","2015-09-11","Idaho State Correctional Center",78,"M","White","Suicide","St. Luke's Hospital, Boise",438
-"Idaho",2015,"October","2015-07-10","Idaho State Correctional Institution",61,"M","Native American","Illness","Idaho State Correctional Institution",439
-"Idaho",2015,"November","2015-11-12","East Boise Community Re-Entry Center",65,"F","White","Illness","East Boise CRC BO",434
-"Idaho",2015,"December","2015-12-05","Correctional Alternative Placement Program",53,"M","White","Illness","St. Luke's Hospital, Boise",427
-"Idaho",2015,"December","2015-12-16","Pocatello Women's Correctional Center",58,"F","White","Illness","Binghan Memorial, Blackfoot",442
-"Idaho",2016,"February","2016-02-03","Idaho State Correctional Institution",91,"M","White","Illness","Idaho State Correctional Institution",439
-"Idaho",2016,"February","2016-02-08","Idaho State Correctional Institution",52,"M","Hispanic","Illness","Idaho State Correctional Institution",439
-"Idaho",2016,"March","2016-03-02","Idaho State Correctional Institution",80,"M","White","Illness","Idaho State Correctional Institution",439
-"Idaho",2016,"March","2016-03-03","Idaho State Correctional Institution",57,"M","White","Illness","Idaho State Correctional Institution",439
-"Idaho",2016,"April","2016-04-07","Idaho State Correctional Institution",76,"M","White","Illness","Idaho State Correctional Institution",439
-"Idaho",2016,"April","2016-04-18","Idaho State Correctional Institution",64,"M","Hispanic","Illness","St. Alphonsus Hospital, Boise",439
-"Idaho",2016,"June","2016-06-02","Idaho State Correctional Institution",80,"M","White","Illness","Idaho State Correctional Institution",439
-"Idaho",2016,"July","2016-07-17","Idaho State Correctional Institution",68,"M","White","Illness","Idaho State Correctional Institution",439
-"Idaho",2016,"July","2016-07-26","Idaho State Correctional Institution",69,"M","White","Illness","ST. LUKE'S HOSPITAL, BOISE",439
-"Idaho",2016,"August","2016-08-03","Idaho State Correctional Institution",36,"M","White","Intoxication","Idaho State Correctional Institution",439
-"Idaho",2016,"August","2016-08-30","Idaho Maximum Security Institution",67,"M","Hispanic","Illness","Idaho Maximum Security Institution",437
-"Idaho",2016,"August","2016-08-31","Idaho State Correctional Institution",56,"M","White","Illness","Idaho State Correctional Institution",439
-"Idaho",2016,"October","2016-10-08","Idaho State Correctional Institution",80,"M","White","Illness","Idaho State Correctional Institution",439
-"Idaho",2016,"October","2016-10-22","Idaho State Correctional Institution",28,"M","Hispanic","Suicide","ST. ALPHONSUS HOSPITAL, BOISE",439
-"Idaho",2016,"November","2016-11-02","Idaho State Correctional Center",84,"M","White","Illness","Idaho State Correctional Institution",438
-"Idaho",2016,"December","2016-12-10","Idaho Maximum Security Institution",62,"M","Hispanic","Illness","Idaho Maximum Security Institution",437
-"Idaho",2017,"January","2017-01-01","Idaho State Correctional Institution",80,"M","White","Illness","Idaho State Correctional Institution",439
-"Idaho",2017,"January","2017-02-02","Idaho State Correctional Institution",34,"M","White","Intoxication","St. Alphonsus Hospital, Boise",439
-"Idaho",2017,"February","2017-02-18","Idaho State Correctional Center",71,"M","White","Illness","Idaho State Correctional Institution",438
-"Idaho",2017,"February","2017-02-21","Idaho State Correctional Institution",57,"M","White","Illness","Idaho State Correctional Institution",439
-"Idaho",2017,"March","2017-03-25","Idaho Maximum Security Institution",64,"M","White","Illness","Idaho Maximum Security Institution",437
-"Idaho",2017,"March","2017-03-27","Idaho Maximum Security Institution",63,"M","White","Illness","Idaho Maximum Security Institution",437
-"Idaho",2017,"April","2017-04-10","Idaho State Correctional Institution",73,"M","White","Illness","St. Alphonsus Hospital, Boise",439
-"Idaho",2017,"May","2017-05-21","Idaho State Correctional Institution",38,"M","White","Illness","St. Luke's Hospital, Boise",439
-"Idaho",2017,"May","2017-05-28","Idaho State Correctional Institution",77,"M","White","Illness","Idaho State Correctional Institution",439
-"Idaho",2017,"August","2017-08-05","Idaho State Correctional Institution",67,"M","White","Illness","Idaho State Correctional Institution",439
-"Idaho",2017,"August","2017-08-14","Idaho State Correctional Institution",37,"M","Hispanic","Suicide","St. Alphonsus Hospital, Boise",439
-"Idaho",2017,"September","2017-09-22","Idaho State Correctional Institution",57,"M","White","Homicide","Idaho State Correctional Institution",439
-"Idaho",2017,"October","2017-10-24","Idaho State Correctional Institution",77,"M","White","Intoxication","Idaho State Correctional Institution",439
-"Idaho",2017,"November","2017-11-10","Idaho Maximum Security Institution",82,"M","White","Illness","St. Alphonsus Hospital, Boise",437
-"Idaho",2017,"November","2017-11-19","Idaho State Correctional Center",60,"M","White","Illness","Idaho State Correctional Center",438
-"Idaho",2018,"January","2018-01-23","Idaho Correctional Institution Orofino",34,"M","White","Illness","Idaho Correctional Institution Orofino",435
-"Idaho",2018,"February","2018-02-07","Idaho State Correctional Institution",57,"M","White","Illness","Idaho State Correctional Institution",439
-"Idaho",2018,"March","2018-03-04","Idaho State Correctional Institution",77,"M","White","Illness","Idaho State Correctional Institution",439
-"Idaho",2018,"March","2018-03-29","Pocatello Women's Correctional Center",68,"F","White","Illness","Other Hospital",442
-"Idaho",2018,"April","2018-04-10","Idaho Maximum Security Institution",32,"M","White","Suicide","St. Alphonsus Hospital, Boise",437
-"Idaho",2018,"April","2018-04-19","Idaho State Correctional Institution",30,"M","Hispanic","Suicide","St. Alphonsus Hospital, Boise",439
-"Idaho",2018,"May","2018-05-05","Idaho State Correctional Institution",60,"M","White","Illness","St. Alphonsus Hospital, Boise",439
-"Idaho",2018,"May","2018-05-23","Idaho State Correctional Institution",64,"M",NA,"Illness","St. Alphonsus Hospital, Boise",439
-"Idaho",2018,"June","2018-06-23","Idaho State Correctional Institution",84,"M","White","Suicide","Idaho State Correctional Institution",439
-"Idaho",2018,"July","2018-07-02","Idaho State Correctional Institution",84,"M","White","Illness","St. Alphonsus Hospital, Boise",439
-"Idaho",2018,"July","2018-07-21","Idaho State Correctional Institution",73,"M","White","Illness","St. Alphonsus Hospital, Boise",439
-"Idaho",2018,"July","2018-07-23","Idaho State Correctional Institution",67,"M","White","Illness","Idaho State Correctional Institution",439
-"Idaho",2018,"August","2018-08-03","Idaho State Correctional Institution",49,"M","White","Illness","St. Luke's Hospital, Boise",439
-"Idaho",2018,"September","2018-09-01","Idaho State Correctional Institution",55,"M","White","AIDS","St. Luke's Hospital, Boise",439
-"Idaho",2018,"September","2018-09-18","Idaho State Correctional Institution",68,"M","White","Illness","Idaho State Correctional Institution",439
-"Idaho",2018,"September","2018-09-29","Idaho State Correctional Institution",62,"M","White","Illness","Idaho State Correctional Institution",439
-"Idaho",2018,"October","2018-10-29","Idaho State Correctional Institution",79,"M","White","Illness","St. Alphonsus Hospital, Boise",439
-"Idaho",2018,"November","2018-11-26","Idaho State Correctional Center",70,"M","White","Illness","Idaho State Correctional Center",438
-"Idaho",2018,"December","2018-12-09","Idaho Maximum Security Institution",49,"M","White","Suicide","Idaho Maximum Security Institution",437
-"Idaho",2018,"December","2018-12-11","Idaho State Correctional Institution",63,"M","Hispanic","Illness","Idaho State Correctional Institution",439
-"Idaho",2018,"December","2018-12-20","Idaho Maximum Security Institution",72,"M","White","Suicide","St. Alphonsus Hospital, Boise",437
-"Idaho",2018,"December","2018-12-27","Idaho State Correctional Institution",62,"M","White","Illness","Idaho State Correctional Institution",439
-"Idaho",2019,"January","2019-01-06","Eagle Pass, Texas",59,"M","White","Natural Causes","Eagle Pass Correctional Facility, Texas",433
-"Idaho",2019,"January","2019-01-09","Idaho State Correctional Institution",92,"M","White","Illness","Idaho State Correctional Institution",439
-"Idaho",2019,"January","2019-01-25","Idaho State Correctional Institution",71,"M","White","Illness","St. Alphonsus Hospital, Boise",439
-"Idaho",2019,"January","2019-01-25","Idaho State Correctional Institution",95,"M","White","Illness","Idaho State Correctional Institution",439
-"Idaho",2019,"January","2019-01-26","Idaho State Correctional Center",81,"M","White","Illness","Idaho State Correctional Center",438
-"Idaho",2019,"February","2019-02-09","Idaho State Correctional Center",70,"M","Hispanic","Illness","Idaho State Correctional Center",438
-"Idaho",2019,"February","2019-02-19","Idaho State Correctional Institution",68,"M","White","Illness","Idaho State Correctional Institution",439
-"Idaho",2019,"February","2019-02-20","Idaho State Correctional Center",65,"M","White","Illness","Idaho State Correctional Center",438
-"Idaho",2019,"February","2019-02-22","Idaho State Correctional Institution",59,"M","Native American","Illness","St. Alphonsus Hospital, Boise",439
-"Idaho",2019,"March","2019-03-10","Idaho State Correctional Institution",68,"M","White","Illness","ST. ALPHONSUS HOSPITAL, BOISE",439
-"Idaho",2019,"March","2019-03-13","Idaho Maximum Security Institution",23,"M","White","Suicide","Idaho Maximum Security Institution",437
-"Idaho",2019,"April","2019-04-03","Idaho Maximum Security Institution",70,"M","White","Illness","St. Alphonsus Hospital, Boise",437
-"Idaho",2019,"April","2019-04-06","Idaho State Correctional Institution",64,"M","White","Illness","Idaho State Correctional Institution",439
-"Idaho",2019,"April","2019-04-13","Idaho State Correctional Center",41,"M","White","Illness","Idaho State Correctional Center",438
-"Idaho",2019,"April","2019-04-26","Idaho State Correctional Institution",60,"M","White","Illness","Idaho State Correctional Institution",439
-"Idaho",2019,"August","2019-08-10","Idaho State Correctional Institution",35,"M","White","Suicide","St. Alphonsus Hospital, Boise",439
-"Idaho",2019,"September","2019-09-06","Idaho Maximum Security Institution",62,"M","White","Suicide","St. Alphonsus Hospital, Boise",437
-"Idaho",2019,"September","2019-09-25","Idaho State Correctional Institution",39,"M","White","Suicide","Idaho State Correctional Institution",439
-"Idaho",2019,"September","2019-09-26","Idaho State Correctional Institution",84,"M","White","Illness","Idaho State Correctional Institution",439
-"Idaho",2019,"September","2019-09-29","Idaho Maximum Security Institution",32,"M","White","Other","St. Alphonsus Hospital, Boise",437
-"Idaho",2019,"November","2019-11-13","Idaho State Correctional Center",64,"M","White","Illness","St. Alphonsus Hospital, Boise",438
-"Idaho",2019,"December","2019-12-02","South Idaho Correctional Institution",57,"F","White","Illness","St. Alphonsus Hospital, Boise",445
-"Idaho",2019,"December","2019-12-02","Idaho State Correctional Institution",73,"M","White","Illness","St. Alphonsus Hospital, Boise",439
-"Idaho",2019,"December","2019-12-09","Idaho State Correctional Institution",77,"M","White","Illness","St. Alphonsus Hospital, Boise",439
-"Idaho",2019,"December","2019-12-18","Idaho Maximum Security Institution",57,"M","Native American","Illness","St. Alphonsus Hospital, Boise",437
-"Idaho",2019,"December","2019-12-20","Idaho State Correctional Institution",64,"M","White","Illness","Idaho State Correctional Institution",439
-"Idaho",2020,"January","2020-01-01","Idaho State Correctional Institution",60,"M","White","Unknown","Idaho State Correctional Institution",439
-"Idaho",2020,"January","2020-01-07","Idaho State Correctional Institution",80,"M","White","Natural Causes","ST. ALPHONSUS HOSPITAL, BOISE",439
-"Idaho",2020,"January","2020-01-17","Idaho State Correctional Institution",64,"M","White","Natural Causes","Idaho State Correctional Institution",439
-"Idaho",2020,"January","2020-01-28","Pocatello Women's Correctional Center",34,"F","White","Suicide","Binghan Memorial, Blackfoot",442
-"Idaho",2020,"January","2020-01-31","Idaho State Correctional Institution",45,"M","White","Natural Causes","St. Alphonsus Hospital, Boise",439
-"Idaho",2020,"February","2020-02-13","Idaho State Correctional Institution",80,"M","White","Unknown","Idaho State Correctional Institution",439
-"Idaho",2020,"February","2020-02-26","Idaho State Correctional Institution",71,"M","White","Unknown","Idaho State Correctional Institution",439
-"Idaho",2020,"March","2020-03-03","Idaho State Correctional Institution",89,"M","White","Unknown","Idaho State Correctional Institution",439
-"Idaho",2020,"March","2020-03-10","Idaho State Correctional Institution",58,"M","White","Unknown","Idaho State Correctional Institution",439
-"Idaho",2020,"April","2020-04-24","Idaho State Correctional Institution",48,"M","White","Unknown","Idaho State Correctional Institution",439
-"Idaho",2020,"May","2020-05-15","Idaho State Correctional Institution",73,"M","White","Unknown","Idaho State Correctional Institution",439
-"Idaho",2020,"May","2020-05-24","South Idaho Correctional Institution",31,"F","White","Unknown","South Idaho Correctional Institution",445
-"Idaho",2020,"May","2020-05-25","Idaho State Correctional Center",73,"M","White","Unknown","ST. ALPHONSUS HOSPITAL, BOISE",438
-"Idaho",2020,"June","2020-06-27","Idaho State Correctional Institution",25,"M","White","Natural Causes","ST. ALPHONSUS HOSPITAL, BOISE",439
-"Idaho",2020,"June","2020-06-27","Idaho State Correctional Center",67,"M","Hispanic","Unknown","Idaho State Correctional Center",438
-"Idaho",2020,"July","2020-07-03","Idaho State Correctional Institution",65,"M","White","Unknown","Idaho State Correctional Institution",439
-"Idaho",2020,"July","2020-07-09","Idaho State Correctional Institution",70,"M","White","Natural Causes","Idaho State Correctional Institution",439
-"Idaho",2020,"July","2020-07-25","Idaho State Correctional Institution",77,"M","White","Unknown","Idaho State Correctional Institution",439
-"Idaho",2020,"July","2020-07-29","Idaho State Correctional Center",67,"M","White","Covid Related","ST. ALPHONSUS HOSPITAL, BOISE",438
-"Idaho",2020,"August","2020-08-20","Idaho State Correctional Institution",63,"M","Hispanic","Unknown","Idaho State Correctional Institution",439
-"Idaho",2020,"August","2020-08-30","Idaho State Correctional Center",65,"M","White","Covid Related","ST. ALPHONSUS HOSPITAL, BOISE",438
-"Idaho",2020,"September","2020-09-03","Idaho Maximum Security Institution",30,"M","Hispanic","Unknown","Idaho Maximum Security Institution",437
-"Idaho",2020,"September","2020-09-21","Idaho State Correctional Institution",79,"M","White","Unknown","Idaho State Correctional Institution",439
-"Idaho",2020,"October","2020-10-07","Idaho State Correctional Institution",54,"M","White","Unknown","Idaho State Correctional Institution",439
-"Idaho",2020,"October","2020-10-16","Idaho State Correctional Center",82,"M","White","Unknown","ST. ALPHONSUS HOSPITAL, BOISE",438
-"Idaho",2020,"October","2020-10-17","Saguaro Correctional Center, Arizona (Contract with IDOC)",70,"M","White","Covid Related","SAGUARO CORR CENTER",2732
-"Idaho",2020,"October","2020-10-18","Idaho State Correctional Institution",44,"M","White","Unknown","ST. ALPHONSUS HOSPITAL, BOISE",439
-"Idaho",2020,"October","2020-10-29","Idaho State Correctional Institution",76,"M","White","Natural Causes","Idaho State Correctional Institution",439
-"Idaho",2020,"November","2020-11-03","Idaho State Correctional Center",67,"M","White","Natural Causes","Idaho State Correctional Center",438
-"Idaho",2020,"November","2020-11-05","Idaho State Correctional Institution",54,"M","Hispanic","Covid Related","ST. ALPHONSUS HOSPITAL, BOISE",439
-"Idaho",2020,"November","2020-11-13","Idaho State Correctional Institution",89,"M","White","Covid Related","ST. ALPHONSUS HOSPITAL, BOISE",439
-"Idaho",2020,"December","2020-12-07","Idaho State Correctional Institution",64,"M","White","Covid Related","ST. ALPHONSUS HOSPITAL, BOISE",439
-"Idaho",2020,"December","2020-12-07","Idaho State Correctional Institution",87,"M","White","Natural Causes","Idaho State Correctional Institution",439
-"Idaho",2020,"December","2020-12-20","Idaho State Correctional Institution",62,"M","White","Unknown","Idaho State Correctional Institution",439
-"Idaho",2021,"January","2021-01-11","Idaho State Correctional Institution",71,"M","White","Natural Causes","ST. ALPHONSUS HOSPITAL, BOISE",439
-"Idaho",2021,"January","2021-01-12","Idaho Maximum Security Institution",38,"M","White","Unknown","ST. ALPHONSUS HOSPITAL, BOISE",437
-"Idaho",2021,"February","2021-02-01","Idaho State Correctional Institution",76,"M","White","Unknown","Idaho State Correctional Institution",439
-"Idaho",2021,"February","2021-02-14","Idaho State Correctional Institution",39,"M","White","Unknown","Idaho State Correctional Institution",439
-"Idaho",2021,"February","2021-02-20","Idaho State Correctional Institution",54,"M","White","Natural Causes","ST. ALPHONSUS HOSPITAL, BOISE",439
-"Idaho",2021,"February","2021-02-27","Idaho State Correctional Institution",57,"M","White","Natural Causes","ST. ALPHONSUS HOSPITAL, BOISE",439
-"Idaho",2021,"March","2021-03-13","Idaho State Correctional Institution",76,"M","Native American","Unknown","Idaho State Correctional Institution",439
-"Idaho",2021,"March","2021-03-22","North Idaho Correctional Institution",31,"M","White","Unknown","North Idaho Correctional Institution",441
-"Idaho",2021,"March","2022-03-24","Idaho State Correctional Center",31,"M","White","Natural Causes","ST. ALPHONSUS HOSPITAL, BOISE",438
-"Idaho",2021,"March","2022-03-30","Idaho State Correctional Institution",63,"M",NA,"Unknown","ST. ALPHONSUS HOSPITAL, BOISE",439
-"Idaho",2021,"April","2021-04-09","Idaho State Correctional Institution",62,"M","White","Unknown","Idaho State Correctional Institution",439
-"Idaho",2021,"April","2021-04-27","Idaho State Correctional Center",60,"M","White","Unknown","Idaho State Correctional Center",438
-"Idaho",2021,"May","2021-05-17","Idaho State Correctional Institution",77,"M","White","Unknown","Idaho State Correctional Institution",439
-"Idaho",2021,"May","2021-05-24","Idaho State Correctional Institution",48,"M","White","Unknown","Idaho State Correctional Institution",439
-"Idaho",2021,"July","2021-07-05","Idaho State Correctional Institution",37,"M","White","Natural Causes","St. Alphonsus Hospital, Boise",439
-"Idaho",2021,"July","2021-07-28","Idaho State Correctional Institution",73,"M","White","Unknown","Idaho State Correctional Institution",439
-"Idaho",2021,"July","2021-07-30","Idaho State Correctional Institution",59,"M","White","Natural Causes","St. Alphonsus Hospital, Boise",439
-"Idaho",2021,"July","2021-07-30","Idaho Maximum Security Institution",45,"M","White","Natural Causes","St. Alphonsus Hospital, Boise",437
-"Idaho",2021,"August","2021-08-17","Pocatello Women's Correctional Center",65,"F","White","Unknown","Pocatello Women's Correctional Center",442
-"Idaho",2021,"September","2021-09-16","Idaho State Correctional Center",38,"M","Other","Unknown","Idaho State Correctional Center",438
-"Idaho",2021,"September","2021-09-19","Idaho State Correctional Institution",37,"M","White","Unknown","Idaho State Correctional Center",439
-"Idaho",2021,"September","2021-09-25","Pocatello Women's Correctional Center",52,"F","Black","Unknown","Portneuf Medical Center, Pocatello",442
-"Idaho",2021,"October","2021-10-02","Idaho State Correctional Center",28,"M","Native American","Unknown","Idaho State Correctional Center",438
-"Idaho",2021,"October","2021-10-15","Idaho State Correctional Center",69,"M","White","Unknown","Idaho State Correctional Center",438
-"Idaho",2021,"October","2021-10-24","Idaho State Correctional Institution",89,"M",NA,"Unknown","Idaho State Correctional Institution",439
-"Idaho",2021,"November","2021-11-17","St. Anthony Work Center",50,"M","White","Unknown","St. Anthony Work Center",443
-"Idaho",2021,"November","2021-11-19","Idaho State Correctional Institution",62,"M","White","Unknown","St. Luke's Hospital, Boise",439
-"Idaho",2021,"December","2021-12-11","Idaho State Correctional Institution",57,"M","White","Unknown","Idaho State Correctional Institution",439
-"Idaho",2021,"December","2021-12-11","Idaho State Correctional Institution",65,"M","White","Unknown","Idaho State Correctional Institution",439
-"Idaho",2022,"January","2022-01-02","Idaho State Correctional Center",54,"M","Hispanic","Unknown","St. Alphonsus Hospital, Boise",438
-"Idaho",2022,"January","2022-01-18","Idaho State Correctional Institution",41,"M","White","Unknown","Idaho State Correctional Institution",439
-"Idaho",2022,"February","2022-02-01","Idaho State Correctional Center",62,"M","White","Unknown","Idaho State Correctional Center",438
-"Idaho",2022,"February","2022-02-05","Idaho State Correctional Institution",75,"M","Other","Natural Causes","St. Alphonsus Hospital, Boise",439
-"Idaho",2022,"February","2022-02-09","Idaho State Correctional Institution",63,"M","White","Unknown","Idaho State Correctional Institution",439
-"Idaho",2022,"February","2022-02-20","Idaho State Correctional Institution",77,"M","White","Unknown","Idaho State Correctional Institution",439
-"Idaho",2022,"March","2022-03-03","Twin Falls CRC",31,"M","White","Unknown","Other Hospital",1735
+"Idaho",2015,"January","2015-01-02","IDAHO STATE CORRECTIONAL INSTITUTION",67,"M","Hispanic","Illness","St. Alphonsus Hospital, Boise",439
+"Idaho",2015,"January","2015-01-05","IDAHO MAXIMUM SECURITY INSTITUTION",55,"M","White","Suicide","St. Alphonsus Hospital, Boise",437
+"Idaho",2015,"January","2015-01-16","IDAHO STATE CORRECTIONAL CENTER",59,"M","Hispanic","Illness","St. Alphonsus Hospital, Boise",438
+"Idaho",2015,"February","2015-02-19","IDAHO STATE CORRECTIONAL INSTITUTION",68,"M","White","Illness","Idaho State Correctional Institution",439
+"Idaho",2015,"March","2015-03-01","IDAHO STATE CORRECTIONAL INSTITUTION",60,"M","White","Illness","St. Luke's Hospital, Boise",439
+"Idaho",2015,"March","2015-03-10","IDAHO STATE CORRECTIONAL INSTITUTION",70,"M","White","Illness","Idaho State Correctional Institution",439
+"Idaho",2015,"April","2015-04-15","IDAHO STATE CORRECTIONAL INSTITUTION",47,"M","Native American",NA,"St. Luke's Hospital, Boise",439
+"Idaho",2015,"June","2015-07-09","IDAHO MAXIMUM SECURITY INSTITUTION",55,"M","White","AIDS","Idaho Maximum Security Institution",437
+"Idaho",2015,"June","2015-07-21","IDAHO STATE CORRECTIONAL INSTITUTION",73,"M","White","Illness","St. Luke's Hospital, Boise",439
+"Idaho",2015,"June","2015-07-21","IDAHO STATE CORRECTIONAL INSTITUTION",82,"M","White","Accidental","Idaho State Correctional Institution",439
+"Idaho",2015,"August","2015-08-17","IDAHO STATE CORRECTIONAL INSTITUTION",61,"M","White","Illness","Idaho State Correctional Institution",439
+"Idaho",2015,"August","2015-08-20","IDAHO STATE CORRECTIONAL CENTER",60,"M","Other","Homicide","St. Luke's Hospital, Boise",438
+"Idaho",2015,"September","2015-09-06","IDAHO STATE CORRECTIONAL INSTITUTION",54,"M",NA,"Illness","Idaho State Correctional Institution",439
+"Idaho",2015,"September","2015-09-11","IDAHO STATE CORRECTIONAL CENTER",78,"M","White","Suicide","St. Luke's Hospital, Boise",438
+"Idaho",2015,"October","2015-07-10","IDAHO STATE CORRECTIONAL INSTITUTION",61,"M","Native American","Illness","Idaho State Correctional Institution",439
+"Idaho",2015,"November","2015-11-12","EAST BOISE COMMUNITY RE-ENTRY CENTER",65,"F","White","Illness","East Boise CRC BO",434
+"Idaho",2015,"December","2015-12-05","CORRECTIONAL ALTERNATIVE PLACEMENT PROGRAM",53,"M","White","Illness","St. Luke's Hospital, Boise",427
+"Idaho",2015,"December","2015-12-16","POCATELLO WOMEN'S CORRECTIONAL CENTER",58,"F","White","Illness","Binghan Memorial, Blackfoot",442
+"Idaho",2016,"February","2016-02-03","IDAHO STATE CORRECTIONAL INSTITUTION",91,"M","White","Illness","Idaho State Correctional Institution",439
+"Idaho",2016,"February","2016-02-08","IDAHO STATE CORRECTIONAL INSTITUTION",52,"M","Hispanic","Illness","Idaho State Correctional Institution",439
+"Idaho",2016,"March","2016-03-02","IDAHO STATE CORRECTIONAL INSTITUTION",80,"M","White","Illness","Idaho State Correctional Institution",439
+"Idaho",2016,"March","2016-03-03","IDAHO STATE CORRECTIONAL INSTITUTION",57,"M","White","Illness","Idaho State Correctional Institution",439
+"Idaho",2016,"April","2016-04-07","IDAHO STATE CORRECTIONAL INSTITUTION",76,"M","White","Illness","Idaho State Correctional Institution",439
+"Idaho",2016,"April","2016-04-18","IDAHO STATE CORRECTIONAL INSTITUTION",64,"M","Hispanic","Illness","St. Alphonsus Hospital, Boise",439
+"Idaho",2016,"June","2016-06-02","IDAHO STATE CORRECTIONAL INSTITUTION",80,"M","White","Illness","Idaho State Correctional Institution",439
+"Idaho",2016,"July","2016-07-17","IDAHO STATE CORRECTIONAL INSTITUTION",68,"M","White","Illness","Idaho State Correctional Institution",439
+"Idaho",2016,"July","2016-07-26","IDAHO STATE CORRECTIONAL INSTITUTION",69,"M","White","Illness","ST. LUKE'S HOSPITAL, BOISE",439
+"Idaho",2016,"August","2016-08-03","IDAHO STATE CORRECTIONAL INSTITUTION",36,"M","White","Intoxication","Idaho State Correctional Institution",439
+"Idaho",2016,"August","2016-08-30","IDAHO MAXIMUM SECURITY INSTITUTION",67,"M","Hispanic","Illness","Idaho Maximum Security Institution",437
+"Idaho",2016,"August","2016-08-31","IDAHO STATE CORRECTIONAL INSTITUTION",56,"M","White","Illness","Idaho State Correctional Institution",439
+"Idaho",2016,"October","2016-10-08","IDAHO STATE CORRECTIONAL INSTITUTION",80,"M","White","Illness","Idaho State Correctional Institution",439
+"Idaho",2016,"October","2016-10-22","IDAHO STATE CORRECTIONAL INSTITUTION",28,"M","Hispanic","Suicide","ST. ALPHONSUS HOSPITAL, BOISE",439
+"Idaho",2016,"November","2016-11-02","IDAHO STATE CORRECTIONAL CENTER",84,"M","White","Illness","Idaho State Correctional Institution",438
+"Idaho",2016,"December","2016-12-10","IDAHO MAXIMUM SECURITY INSTITUTION",62,"M","Hispanic","Illness","Idaho Maximum Security Institution",437
+"Idaho",2017,"January","2017-01-01","IDAHO STATE CORRECTIONAL INSTITUTION",80,"M","White","Illness","Idaho State Correctional Institution",439
+"Idaho",2017,"January","2017-02-02","IDAHO STATE CORRECTIONAL INSTITUTION",34,"M","White","Intoxication","St. Alphonsus Hospital, Boise",439
+"Idaho",2017,"February","2017-02-18","IDAHO STATE CORRECTIONAL CENTER",71,"M","White","Illness","Idaho State Correctional Institution",438
+"Idaho",2017,"February","2017-02-21","IDAHO STATE CORRECTIONAL INSTITUTION",57,"M","White","Illness","Idaho State Correctional Institution",439
+"Idaho",2017,"March","2017-03-25","IDAHO MAXIMUM SECURITY INSTITUTION",64,"M","White","Illness","Idaho Maximum Security Institution",437
+"Idaho",2017,"March","2017-03-27","IDAHO MAXIMUM SECURITY INSTITUTION",63,"M","White","Illness","Idaho Maximum Security Institution",437
+"Idaho",2017,"April","2017-04-10","IDAHO STATE CORRECTIONAL INSTITUTION",73,"M","White","Illness","St. Alphonsus Hospital, Boise",439
+"Idaho",2017,"May","2017-05-21","IDAHO STATE CORRECTIONAL INSTITUTION",38,"M","White","Illness","St. Luke's Hospital, Boise",439
+"Idaho",2017,"May","2017-05-28","IDAHO STATE CORRECTIONAL INSTITUTION",77,"M","White","Illness","Idaho State Correctional Institution",439
+"Idaho",2017,"August","2017-08-05","IDAHO STATE CORRECTIONAL INSTITUTION",67,"M","White","Illness","Idaho State Correctional Institution",439
+"Idaho",2017,"August","2017-08-14","IDAHO STATE CORRECTIONAL INSTITUTION",37,"M","Hispanic","Suicide","St. Alphonsus Hospital, Boise",439
+"Idaho",2017,"September","2017-09-22","IDAHO STATE CORRECTIONAL INSTITUTION",57,"M","White","Homicide","Idaho State Correctional Institution",439
+"Idaho",2017,"October","2017-10-24","IDAHO STATE CORRECTIONAL INSTITUTION",77,"M","White","Intoxication","Idaho State Correctional Institution",439
+"Idaho",2017,"November","2017-11-10","IDAHO MAXIMUM SECURITY INSTITUTION",82,"M","White","Illness","St. Alphonsus Hospital, Boise",437
+"Idaho",2017,"November","2017-11-19","IDAHO STATE CORRECTIONAL CENTER",60,"M","White","Illness","Idaho State Correctional Center",438
+"Idaho",2018,"January","2018-01-23","IDAHO CORRECTIONAL INSTITUTION OROFINO",34,"M","White","Illness","Idaho Correctional Institution Orofino",435
+"Idaho",2018,"February","2018-02-07","IDAHO STATE CORRECTIONAL INSTITUTION",57,"M","White","Illness","Idaho State Correctional Institution",439
+"Idaho",2018,"March","2018-03-04","IDAHO STATE CORRECTIONAL INSTITUTION",77,"M","White","Illness","Idaho State Correctional Institution",439
+"Idaho",2018,"March","2018-03-29","POCATELLO WOMEN'S CORRECTIONAL CENTER",68,"F","White","Illness","Other Hospital",442
+"Idaho",2018,"April","2018-04-10","IDAHO MAXIMUM SECURITY INSTITUTION",32,"M","White","Suicide","St. Alphonsus Hospital, Boise",437
+"Idaho",2018,"April","2018-04-19","IDAHO STATE CORRECTIONAL INSTITUTION",30,"M","Hispanic","Suicide","St. Alphonsus Hospital, Boise",439
+"Idaho",2018,"May","2018-05-05","IDAHO STATE CORRECTIONAL INSTITUTION",60,"M","White","Illness","St. Alphonsus Hospital, Boise",439
+"Idaho",2018,"May","2018-05-23","IDAHO STATE CORRECTIONAL INSTITUTION",64,"M",NA,"Illness","St. Alphonsus Hospital, Boise",439
+"Idaho",2018,"June","2018-06-23","IDAHO STATE CORRECTIONAL INSTITUTION",84,"M","White","Suicide","Idaho State Correctional Institution",439
+"Idaho",2018,"July","2018-07-02","IDAHO STATE CORRECTIONAL INSTITUTION",84,"M","White","Illness","St. Alphonsus Hospital, Boise",439
+"Idaho",2018,"July","2018-07-21","IDAHO STATE CORRECTIONAL INSTITUTION",73,"M","White","Illness","St. Alphonsus Hospital, Boise",439
+"Idaho",2018,"July","2018-07-23","IDAHO STATE CORRECTIONAL INSTITUTION",67,"M","White","Illness","Idaho State Correctional Institution",439
+"Idaho",2018,"August","2018-08-03","IDAHO STATE CORRECTIONAL INSTITUTION",49,"M","White","Illness","St. Luke's Hospital, Boise",439
+"Idaho",2018,"September","2018-09-01","IDAHO STATE CORRECTIONAL INSTITUTION",55,"M","White","AIDS","St. Luke's Hospital, Boise",439
+"Idaho",2018,"September","2018-09-18","IDAHO STATE CORRECTIONAL INSTITUTION",68,"M","White","Illness","Idaho State Correctional Institution",439
+"Idaho",2018,"September","2018-09-29","IDAHO STATE CORRECTIONAL INSTITUTION",62,"M","White","Illness","Idaho State Correctional Institution",439
+"Idaho",2018,"October","2018-10-29","IDAHO STATE CORRECTIONAL INSTITUTION",79,"M","White","Illness","St. Alphonsus Hospital, Boise",439
+"Idaho",2018,"November","2018-11-26","IDAHO STATE CORRECTIONAL CENTER",70,"M","White","Illness","Idaho State Correctional Center",438
+"Idaho",2018,"December","2018-12-09","IDAHO MAXIMUM SECURITY INSTITUTION",49,"M","White","Suicide","Idaho Maximum Security Institution",437
+"Idaho",2018,"December","2018-12-11","IDAHO STATE CORRECTIONAL INSTITUTION",63,"M","Hispanic","Illness","Idaho State Correctional Institution",439
+"Idaho",2018,"December","2018-12-20","IDAHO MAXIMUM SECURITY INSTITUTION",72,"M","White","Suicide","St. Alphonsus Hospital, Boise",437
+"Idaho",2018,"December","2018-12-27","IDAHO STATE CORRECTIONAL INSTITUTION",62,"M","White","Illness","Idaho State Correctional Institution",439
+"Idaho",2019,"January","2019-01-06","EAGLE PASS, TEXAS",59,"M","White","Natural Causes","Eagle Pass Correctional Facility, Texas",433
+"Idaho",2019,"January","2019-01-09","IDAHO STATE CORRECTIONAL INSTITUTION",92,"M","White","Illness","Idaho State Correctional Institution",439
+"Idaho",2019,"January","2019-01-25","IDAHO STATE CORRECTIONAL INSTITUTION",71,"M","White","Illness","St. Alphonsus Hospital, Boise",439
+"Idaho",2019,"January","2019-01-25","IDAHO STATE CORRECTIONAL INSTITUTION",95,"M","White","Illness","Idaho State Correctional Institution",439
+"Idaho",2019,"January","2019-01-26","IDAHO STATE CORRECTIONAL CENTER",81,"M","White","Illness","Idaho State Correctional Center",438
+"Idaho",2019,"February","2019-02-09","IDAHO STATE CORRECTIONAL CENTER",70,"M","Hispanic","Illness","Idaho State Correctional Center",438
+"Idaho",2019,"February","2019-02-19","IDAHO STATE CORRECTIONAL INSTITUTION",68,"M","White","Illness","Idaho State Correctional Institution",439
+"Idaho",2019,"February","2019-02-20","IDAHO STATE CORRECTIONAL CENTER",65,"M","White","Illness","Idaho State Correctional Center",438
+"Idaho",2019,"February","2019-02-22","IDAHO STATE CORRECTIONAL INSTITUTION",59,"M","Native American","Illness","St. Alphonsus Hospital, Boise",439
+"Idaho",2019,"March","2019-03-10","IDAHO STATE CORRECTIONAL INSTITUTION",68,"M","White","Illness","ST. ALPHONSUS HOSPITAL, BOISE",439
+"Idaho",2019,"March","2019-03-13","IDAHO MAXIMUM SECURITY INSTITUTION",23,"M","White","Suicide","Idaho Maximum Security Institution",437
+"Idaho",2019,"April","2019-04-03","IDAHO MAXIMUM SECURITY INSTITUTION",70,"M","White","Illness","St. Alphonsus Hospital, Boise",437
+"Idaho",2019,"April","2019-04-06","IDAHO STATE CORRECTIONAL INSTITUTION",64,"M","White","Illness","Idaho State Correctional Institution",439
+"Idaho",2019,"April","2019-04-13","IDAHO STATE CORRECTIONAL CENTER",41,"M","White","Illness","Idaho State Correctional Center",438
+"Idaho",2019,"April","2019-04-26","IDAHO STATE CORRECTIONAL INSTITUTION",60,"M","White","Illness","Idaho State Correctional Institution",439
+"Idaho",2019,"August","2019-08-10","IDAHO STATE CORRECTIONAL INSTITUTION",35,"M","White","Suicide","St. Alphonsus Hospital, Boise",439
+"Idaho",2019,"September","2019-09-06","IDAHO MAXIMUM SECURITY INSTITUTION",62,"M","White","Suicide","St. Alphonsus Hospital, Boise",437
+"Idaho",2019,"September","2019-09-25","IDAHO STATE CORRECTIONAL INSTITUTION",39,"M","White","Suicide","Idaho State Correctional Institution",439
+"Idaho",2019,"September","2019-09-26","IDAHO STATE CORRECTIONAL INSTITUTION",84,"M","White","Illness","Idaho State Correctional Institution",439
+"Idaho",2019,"September","2019-09-29","IDAHO MAXIMUM SECURITY INSTITUTION",32,"M","White","Other","St. Alphonsus Hospital, Boise",437
+"Idaho",2019,"November","2019-11-13","IDAHO STATE CORRECTIONAL CENTER",64,"M","White","Illness","St. Alphonsus Hospital, Boise",438
+"Idaho",2019,"December","2019-12-02","SOUTH IDAHO CORRECTIONAL INSTITUTION",57,"F","White","Illness","St. Alphonsus Hospital, Boise",445
+"Idaho",2019,"December","2019-12-02","IDAHO STATE CORRECTIONAL INSTITUTION",73,"M","White","Illness","St. Alphonsus Hospital, Boise",439
+"Idaho",2019,"December","2019-12-09","IDAHO STATE CORRECTIONAL INSTITUTION",77,"M","White","Illness","St. Alphonsus Hospital, Boise",439
+"Idaho",2019,"December","2019-12-18","IDAHO MAXIMUM SECURITY INSTITUTION",57,"M","Native American","Illness","St. Alphonsus Hospital, Boise",437
+"Idaho",2019,"December","2019-12-20","IDAHO STATE CORRECTIONAL INSTITUTION",64,"M","White","Illness","Idaho State Correctional Institution",439
+"Idaho",2020,"January","2020-01-01","IDAHO STATE CORRECTIONAL INSTITUTION",60,"M","White","Unknown","Idaho State Correctional Institution",439
+"Idaho",2020,"January","2020-01-07","IDAHO STATE CORRECTIONAL INSTITUTION",80,"M","White","Natural Causes","ST. ALPHONSUS HOSPITAL, BOISE",439
+"Idaho",2020,"January","2020-01-17","IDAHO STATE CORRECTIONAL INSTITUTION",64,"M","White","Natural Causes","Idaho State Correctional Institution",439
+"Idaho",2020,"January","2020-01-28","POCATELLO WOMEN'S CORRECTIONAL CENTER",34,"F","White","Suicide","Binghan Memorial, Blackfoot",442
+"Idaho",2020,"January","2020-01-31","IDAHO STATE CORRECTIONAL INSTITUTION",45,"M","White","Natural Causes","St. Alphonsus Hospital, Boise",439
+"Idaho",2020,"February","2020-02-13","IDAHO STATE CORRECTIONAL INSTITUTION",80,"M","White","Unknown","Idaho State Correctional Institution",439
+"Idaho",2020,"February","2020-02-26","IDAHO STATE CORRECTIONAL INSTITUTION",71,"M","White","Unknown","Idaho State Correctional Institution",439
+"Idaho",2020,"March","2020-03-03","IDAHO STATE CORRECTIONAL INSTITUTION",89,"M","White","Unknown","Idaho State Correctional Institution",439
+"Idaho",2020,"March","2020-03-10","IDAHO STATE CORRECTIONAL INSTITUTION",58,"M","White","Unknown","Idaho State Correctional Institution",439
+"Idaho",2020,"April","2020-04-24","IDAHO STATE CORRECTIONAL INSTITUTION",48,"M","White","Unknown","Idaho State Correctional Institution",439
+"Idaho",2020,"May","2020-05-15","IDAHO STATE CORRECTIONAL INSTITUTION",73,"M","White","Unknown","Idaho State Correctional Institution",439
+"Idaho",2020,"May","2020-05-24","SOUTH IDAHO CORRECTIONAL INSTITUTION",31,"F","White","Unknown","South Idaho Correctional Institution",445
+"Idaho",2020,"May","2020-05-25","IDAHO STATE CORRECTIONAL CENTER",73,"M","White","Unknown","ST. ALPHONSUS HOSPITAL, BOISE",438
+"Idaho",2020,"June","2020-06-27","IDAHO STATE CORRECTIONAL INSTITUTION",25,"M","White","Natural Causes","ST. ALPHONSUS HOSPITAL, BOISE",439
+"Idaho",2020,"June","2020-06-27","IDAHO STATE CORRECTIONAL CENTER",67,"M","Hispanic","Unknown","Idaho State Correctional Center",438
+"Idaho",2020,"July","2020-07-03","IDAHO STATE CORRECTIONAL INSTITUTION",65,"M","White","Unknown","Idaho State Correctional Institution",439
+"Idaho",2020,"July","2020-07-09","IDAHO STATE CORRECTIONAL INSTITUTION",70,"M","White","Natural Causes","Idaho State Correctional Institution",439
+"Idaho",2020,"July","2020-07-25","IDAHO STATE CORRECTIONAL INSTITUTION",77,"M","White","Unknown","Idaho State Correctional Institution",439
+"Idaho",2020,"July","2020-07-29","IDAHO STATE CORRECTIONAL CENTER",67,"M","White","Covid Related","ST. ALPHONSUS HOSPITAL, BOISE",438
+"Idaho",2020,"August","2020-08-20","IDAHO STATE CORRECTIONAL INSTITUTION",63,"M","Hispanic","Unknown","Idaho State Correctional Institution",439
+"Idaho",2020,"August","2020-08-30","IDAHO STATE CORRECTIONAL CENTER",65,"M","White","Covid Related","ST. ALPHONSUS HOSPITAL, BOISE",438
+"Idaho",2020,"September","2020-09-03","IDAHO MAXIMUM SECURITY INSTITUTION",30,"M","Hispanic","Unknown","Idaho Maximum Security Institution",437
+"Idaho",2020,"September","2020-09-21","IDAHO STATE CORRECTIONAL INSTITUTION",79,"M","White","Unknown","Idaho State Correctional Institution",439
+"Idaho",2020,"October","2020-10-07","IDAHO STATE CORRECTIONAL INSTITUTION",54,"M","White","Unknown","Idaho State Correctional Institution",439
+"Idaho",2020,"October","2020-10-16","IDAHO STATE CORRECTIONAL CENTER",82,"M","White","Unknown","ST. ALPHONSUS HOSPITAL, BOISE",438
+"Idaho",2020,"October","2020-10-17","SAGUARO CORRECTIONAL CENTER, ARIZONA (CONTRACT WITH IDOC)",70,"M","White","Covid Related","SAGUARO CORR CENTER",2732
+"Idaho",2020,"October","2020-10-18","IDAHO STATE CORRECTIONAL INSTITUTION",44,"M","White","Unknown","ST. ALPHONSUS HOSPITAL, BOISE",439
+"Idaho",2020,"October","2020-10-29","IDAHO STATE CORRECTIONAL INSTITUTION",76,"M","White","Natural Causes","Idaho State Correctional Institution",439
+"Idaho",2020,"November","2020-11-03","IDAHO STATE CORRECTIONAL CENTER",67,"M","White","Natural Causes","Idaho State Correctional Center",438
+"Idaho",2020,"November","2020-11-05","IDAHO STATE CORRECTIONAL INSTITUTION",54,"M","Hispanic","Covid Related","ST. ALPHONSUS HOSPITAL, BOISE",439
+"Idaho",2020,"November","2020-11-13","IDAHO STATE CORRECTIONAL INSTITUTION",89,"M","White","Covid Related","ST. ALPHONSUS HOSPITAL, BOISE",439
+"Idaho",2020,"December","2020-12-07","IDAHO STATE CORRECTIONAL INSTITUTION",64,"M","White","Covid Related","ST. ALPHONSUS HOSPITAL, BOISE",439
+"Idaho",2020,"December","2020-12-07","IDAHO STATE CORRECTIONAL INSTITUTION",87,"M","White","Natural Causes","Idaho State Correctional Institution",439
+"Idaho",2020,"December","2020-12-20","IDAHO STATE CORRECTIONAL INSTITUTION",62,"M","White","Unknown","Idaho State Correctional Institution",439
+"Idaho",2021,"January","2021-01-11","IDAHO STATE CORRECTIONAL INSTITUTION",71,"M","White","Natural Causes","ST. ALPHONSUS HOSPITAL, BOISE",439
+"Idaho",2021,"January","2021-01-12","IDAHO MAXIMUM SECURITY INSTITUTION",38,"M","White","Unknown","ST. ALPHONSUS HOSPITAL, BOISE",437
+"Idaho",2021,"February","2021-02-01","IDAHO STATE CORRECTIONAL INSTITUTION",76,"M","White","Unknown","Idaho State Correctional Institution",439
+"Idaho",2021,"February","2021-02-14","IDAHO STATE CORRECTIONAL INSTITUTION",39,"M","White","Unknown","Idaho State Correctional Institution",439
+"Idaho",2021,"February","2021-02-20","IDAHO STATE CORRECTIONAL INSTITUTION",54,"M","White","Natural Causes","ST. ALPHONSUS HOSPITAL, BOISE",439
+"Idaho",2021,"February","2021-02-27","IDAHO STATE CORRECTIONAL INSTITUTION",57,"M","White","Natural Causes","ST. ALPHONSUS HOSPITAL, BOISE",439
+"Idaho",2021,"March","2021-03-13","IDAHO STATE CORRECTIONAL INSTITUTION",76,"M","Native American","Unknown","Idaho State Correctional Institution",439
+"Idaho",2021,"March","2021-03-22","NORTH IDAHO CORRECTIONAL INSTITUTION",31,"M","White","Unknown","North Idaho Correctional Institution",441
+"Idaho",2021,"March","2022-03-24","IDAHO STATE CORRECTIONAL CENTER",31,"M","White","Natural Causes","ST. ALPHONSUS HOSPITAL, BOISE",438
+"Idaho",2021,"March","2022-03-30","IDAHO STATE CORRECTIONAL INSTITUTION",63,"M",NA,"Unknown","ST. ALPHONSUS HOSPITAL, BOISE",439
+"Idaho",2021,"April","2021-04-09","IDAHO STATE CORRECTIONAL INSTITUTION",62,"M","White","Unknown","Idaho State Correctional Institution",439
+"Idaho",2021,"April","2021-04-27","IDAHO STATE CORRECTIONAL CENTER",60,"M","White","Unknown","Idaho State Correctional Center",438
+"Idaho",2021,"May","2021-05-17","IDAHO STATE CORRECTIONAL INSTITUTION",77,"M","White","Unknown","Idaho State Correctional Institution",439
+"Idaho",2021,"May","2021-05-24","IDAHO STATE CORRECTIONAL INSTITUTION",48,"M","White","Unknown","Idaho State Correctional Institution",439
+"Idaho",2021,"July","2021-07-05","IDAHO STATE CORRECTIONAL INSTITUTION",37,"M","White","Natural Causes","St. Alphonsus Hospital, Boise",439
+"Idaho",2021,"July","2021-07-28","IDAHO STATE CORRECTIONAL INSTITUTION",73,"M","White","Unknown","Idaho State Correctional Institution",439
+"Idaho",2021,"July","2021-07-30","IDAHO STATE CORRECTIONAL INSTITUTION",59,"M","White","Natural Causes","St. Alphonsus Hospital, Boise",439
+"Idaho",2021,"July","2021-07-30","IDAHO MAXIMUM SECURITY INSTITUTION",45,"M","White","Natural Causes","St. Alphonsus Hospital, Boise",437
+"Idaho",2021,"August","2021-08-17","POCATELLO WOMEN'S CORRECTIONAL CENTER",65,"F","White","Unknown","Pocatello Women's Correctional Center",442
+"Idaho",2021,"September","2021-09-16","IDAHO STATE CORRECTIONAL CENTER",38,"M","Other","Unknown","Idaho State Correctional Center",438
+"Idaho",2021,"September","2021-09-19","IDAHO STATE CORRECTIONAL INSTITUTION",37,"M","White","Unknown","Idaho State Correctional Center",439
+"Idaho",2021,"September","2021-09-25","POCATELLO WOMEN'S CORRECTIONAL CENTER",52,"F","Black","Unknown","Portneuf Medical Center, Pocatello",442
+"Idaho",2021,"October","2021-10-02","IDAHO STATE CORRECTIONAL CENTER",28,"M","Native American","Unknown","Idaho State Correctional Center",438
+"Idaho",2021,"October","2021-10-15","IDAHO STATE CORRECTIONAL CENTER",69,"M","White","Unknown","Idaho State Correctional Center",438
+"Idaho",2021,"October","2021-10-24","IDAHO STATE CORRECTIONAL INSTITUTION",89,"M",NA,"Unknown","Idaho State Correctional Institution",439
+"Idaho",2021,"November","2021-11-17","ST. ANTHONY WORK CENTER",50,"M","White","Unknown","St. Anthony Work Center",443
+"Idaho",2021,"November","2021-11-19","IDAHO STATE CORRECTIONAL INSTITUTION",62,"M","White","Unknown","St. Luke's Hospital, Boise",439
+"Idaho",2021,"December","2021-12-11","IDAHO STATE CORRECTIONAL INSTITUTION",57,"M","White","Unknown","Idaho State Correctional Institution",439
+"Idaho",2021,"December","2021-12-11","IDAHO STATE CORRECTIONAL INSTITUTION",65,"M","White","Unknown","Idaho State Correctional Institution",439
+"Idaho",2022,"January","2022-01-02","IDAHO STATE CORRECTIONAL CENTER",54,"M","Hispanic","Unknown","St. Alphonsus Hospital, Boise",438
+"Idaho",2022,"January","2022-01-18","IDAHO STATE CORRECTIONAL INSTITUTION",41,"M","White","Unknown","Idaho State Correctional Institution",439
+"Idaho",2022,"February","2022-02-01","IDAHO STATE CORRECTIONAL CENTER",62,"M","White","Unknown","Idaho State Correctional Center",438
+"Idaho",2022,"February","2022-02-05","IDAHO STATE CORRECTIONAL INSTITUTION",75,"M","Other","Natural Causes","St. Alphonsus Hospital, Boise",439
+"Idaho",2022,"February","2022-02-09","IDAHO STATE CORRECTIONAL INSTITUTION",63,"M","White","Unknown","Idaho State Correctional Institution",439
+"Idaho",2022,"February","2022-02-20","IDAHO STATE CORRECTIONAL INSTITUTION",77,"M","White","Unknown","Idaho State Correctional Institution",439
+"Idaho",2022,"March","2022-03-03","TWIN FALLS CRC",31,"M","White","Unknown","Other Hospital",1735
