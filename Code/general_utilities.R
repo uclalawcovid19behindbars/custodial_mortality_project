@@ -34,7 +34,7 @@ read_nps_20 <- function() {
     
 }
 
-read_bjs <- function(all.agencies, agencies) {
+read_bjs <- function(all.agencies, agencies, source) {
     ## Load Last MCI
     mci.19 <- read_mci_19()
     
@@ -42,8 +42,13 @@ read_bjs <- function(all.agencies, agencies) {
     nps.20 <- read_nps_20()
     
     ## Prep MCI Data
+    if(source == 'NPS+MCI'){
     mci.clean <- mci.19 %>%
                  subset(Year != 2019)
+    }
+    if(source == 'MCI'){
+        mci.clean <- mci.19 
+    }
     
     ## Prep NPS Data
     suppressMessages(suppressWarnings(
@@ -56,8 +61,14 @@ read_bjs <- function(all.agencies, agencies) {
     ))  
     
     ## Combine Data
+    if(source == 'NPS+MCI'){
     bjs.data <- mci.clean %>%
                 rbind(nps.clean)
+    }
+    if(source == 'MCI'){
+        bjs.data <- mci.clean 
+    }
+    
 
     ## Make State Dataframe
     states <- data.frame(State.Abb = state.abb,
@@ -339,8 +350,8 @@ read_ucla_deaths <- function(all.agencies = FALSE, agencies) {
     
 ## Compare Annual BJS Numbers with Aggregated UCLA numbers -----------------
 
-compare_ucla_bjs <- function() {
-    bjs.data <- read_bjs(all.agencies = TRUE) 
+compare_ucla_bjs <- function(source) {
+    bjs.data <- read_bjs(all.agencies = TRUE, source = source) 
     bjs.data <- bjs.data %>%
                 plyr::rename(c('Total.Deaths' = 'BJS.Deaths'))
     ucla.data <- read_ucla_deaths(all.agencies = TRUE) 
