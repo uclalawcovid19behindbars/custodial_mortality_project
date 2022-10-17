@@ -70,15 +70,27 @@ This folder contains visualizations summarizing the coverage of records containe
 
 ## Time and Timing of Data Collection
 
-Data collection for this project began in June 2020 and is ongoing. For most states, our project has obtained records covering at least 2015-2020. 
+Data collection for this project began in June 2020 and is ongoing. For most states, our project has obtained records covering at least 2015-2020. For some states (OH and VT) we have partial data for 2020 due to the timing of when we requested data and when data as provided.
 
 ## Data Validation and Quality Assurance
 
+To validate data collected in this database, we compared annual aggregates in agency records here with annual aggregates for deaths reported for agencies in BJS MCI Reports. If an agency had a difference of 5 or more deaths, our project reached out to the agency asking why the records we gathered had different total annual counts from federal reports.
+
+Responses from these agencies are recorded below:
+
+TABLE NEEDS TO BE MADE
+
 ## Types of Manipulation Conducted on Raw Data During Standardization and Analysis
+
+Agency records on deaths in custody were processed from 
 
 ## Data Confidentiality, Access, and Use Conditions
 
 
+
+
+
+## OLD TEXT BELOW
 Alongside our [core data](https://github.com/uclalawcovid19behindbars/data), our project gathers and processes data on deaths and demographics in U.S. prisons
 
 
