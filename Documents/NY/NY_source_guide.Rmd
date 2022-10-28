@@ -1,6 +1,8 @@
 ---
 title: "NY_source_guide"
 output: html_document
+editor_options: 
+  chunk_output_type: console
 ---
 
 ```{r setup, include=FALSE}
@@ -27,7 +29,7 @@ to UCLA datasets.
 
 ```{r}
 # Load NY decedent data
-ny.deaths <- harmonize_ucla_deaths(agencies = 'NY')
+ny.deaths <- read_ucla_deaths(agencies = 'NY')
 
 # Show variables present in NY decedent data
 colnames(ny.deaths)
@@ -37,20 +39,13 @@ ny.deaths %>%
     pull_ucla_fac_data()
 
 # Compare UCLA data with BJS data
-compare_ucla_bjs() %>%
+compare_ucla_bjs(source = 'MCI') %>%
     subset(State == 'New York') %>%
     arrange(desc(Year))
 
-# Plot NY decedent data (wrangled to monthly numbers)
+# Plot NY decedent data 
 ggplot() +
-    geom_line(data = ny.deaths %>% group_by(Year, Month) %>% summarise(Total.Deaths = n()) %>% 
-                  mutate(Date = as.Date(str_c(Year,Month,'01'), format = '%Y%B%d')),
-              aes(x = Date, y = Total.Deaths)
-              ) +
-    geom_smooth(data = ny.deaths %>% group_by(Year, Month) %>% summarise(Total.Deaths = n()) %>% 
-                  mutate(Date = as.Date(str_c(Year,Month,'01'), format = '%Y%B%d')),
-              aes(x = Date, y = Total.Deaths)
-              )
+    geom_line(data = ny.deaths %>% group_by(Year) %>% summarise(Total.Deaths = n()),aes(x = Year, y = Total.Deaths))
 
 ```
 

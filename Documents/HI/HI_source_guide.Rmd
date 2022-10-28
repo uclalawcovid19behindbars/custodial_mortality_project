@@ -1,6 +1,8 @@
 ---
 title: "HI_source_guide"
 output: html_document
+editor_options: 
+  chunk_output_type: console
 ---
 
 ```{r setup, include=FALSE}
@@ -34,14 +36,13 @@ colnames(hi.deaths)
 # UCLA.ID is not present - please wait for data update to join UCLA facility data
 
 # Compare UCLA data with BJS data
-compare_ucla_bjs() %>%
+compare_ucla_bjs(source = "MCI") %>%
     subset(State == 'Hawaii') %>%
     arrange(desc(Year))
 
 # Plot HI decedent data 
 ggplot() +
-    geom_line(data = hi.deaths,aes(x = Year, y = Total.Deaths)) +
-    geom_smooth(data = hi.deaths, aes(x = Year, y = Total.Deaths))
+    geom_line(data = hi.deaths,aes(x = Year, y = Total.Deaths)) 
 
 ```
 

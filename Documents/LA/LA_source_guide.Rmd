@@ -1,0 +1,57 @@
+---
+title: "LA_source_guide"
+output: html_document
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Load Environment
+
+```{r}
+# Load relevant packages and functions
+library(tidyverse)
+source('Code/general_utilities.R') # Note you may have to change your Rmarkdown option for evaluate chunks to project instead of document
+options(scipen=10)
+```
+
+## Decedent Data
+
+UCLA obtains custodial decedent data for Louisiana state prisons from Incarceration Transparency. All credit for data production and maintenance goes to Incarceration Transparency and any use of the Louisiana decedent data contained in this dataset should follow their and our data license agreements.
+
+Link to Incarceration Transparency custodial death dataset: https://www.incarcerationtransparency.org/?page_id=11
+
+Some processing of the files takes place, including the selection of corresponding variables and linking data 
+to UCLA datasets. 
+
+```{r}
+# Load LA decedent data
+la.deaths <- read_ucla_deaths(all.agencie = FALSE, agencies = 'LA')
+
+# Show variables present in LA decedent data
+colnames(la.deaths)
+
+# UCLA.ID is not present - please wait for data update to join UCLA facility data
+
+# Compare UCLA data with BJS data
+compare_ucla_bjs(source = 'MCI') %>%
+    subset(State == 'Louisiana') %>%
+    arrange(desc(Year))
+
+# Plot LA decedent data (wrangled to monthly numbers)
+ggplot() +
+    geom_line(data = la.deaths %>% group_by(Year, Month) %>% summarise(Total.Deaths = n()) %>% 
+                  mutate(Date = as.Date(str_c(Year,Month,'01'), format = '%Y%B%d')),
+              aes(x = Date, y = Total.Deaths)
+              )
+
+```
+
+
+## Demographic Data
+
+UCLA currently does not have demographic data processed for Louisiana state prisons. Please wait for the next update to this data. 
+

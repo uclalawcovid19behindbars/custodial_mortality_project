@@ -1,6 +1,8 @@
 ---
 title: "VA_source_guide"
 output: html_document
+editor_options: 
+  chunk_output_type: console
 ---
 
 ```{r setup, include=FALSE}
@@ -34,20 +36,13 @@ colnames(va.deaths)
 # UCLA.ID is not present - please wait for data update to join UCLA facility data
 
 # Compare UCLA data with BJS data
-compare_ucla_bjs() %>%
+compare_ucla_bjs(source = 'MCI') %>%
     subset(State == 'Virginia') %>%
     arrange(desc(Year))
 
-# Plot VA decedent data (wrangled to monthly numbers)
+# Plot VA decedent data 
 ggplot() +
-    geom_line(data = va.deaths %>% group_by(Year, Month) %>% summarise(Total.Deaths = sum(Total.Deaths)) %>% 
-                  mutate(Date = as.Date(str_c(Year,Month,'01'), format = '%Y%B%d')),
-              aes(x = Date, y = Total.Deaths)
-              ) +
-    geom_smooth(data = va.deaths %>% group_by(Year, Month) %>% summarise(Total.Deaths = sum(Total.Deaths)) %>% 
-                  mutate(Date = as.Date(str_c(Year,Month,'01'), format = '%Y%B%d')),
-              aes(x = Date, y = Total.Deaths)
-              )
+    geom_line(data = va.deaths %>% group_by(Year) %>% summarise(Total.Deaths = sum(Total.Deaths)),aes(x = Year, y = Total.Deaths))
 
 ```
 

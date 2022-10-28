@@ -1,6 +1,8 @@
 ---
 title: "SC_source_guide"
 output: html_document
+editor_options: 
+  chunk_output_type: console
 ---
 
 ```{r setup, include=FALSE}
@@ -28,20 +30,13 @@ sc.facility <- sc.deaths %>%
 head(sc.facility)
 
 # Compare UCLA data with BJS data
-compare_ucla_bjs() %>%
+compare_ucla_bjs(source = 'MCI') %>%
     subset(State == 'South Carolina') %>%
     arrange(desc(Year))
 
-# Plot SC decedent data (wrangled to monthly numbers)
+# Plot SC decedent data 
 ggplot() +
-    geom_line(data = sc.deaths %>% group_by(Year, Month) %>% summarise(Total.Deaths = n()) %>% 
-                  mutate(Date = as.Date(str_c(Year,Month,'01'), format = '%Y%B%d')),
-              aes(x = Date, y = Total.Deaths)
-              ) +
-    geom_smooth(data = sc.deaths %>% group_by(Year, Month) %>% summarise(Total.Deaths = n()) %>% 
-                  mutate(Date = as.Date(str_c(Year,Month,'01'), format = '%Y%B%d')),
-              aes(x = Date, y = Total.Deaths)
-              )
+    geom_line(data = sc.deaths %>% group_by(Year) %>% summarise(Total.Deaths = n()),aes(x = Year, y = Total.Deaths))
 
 ```
 

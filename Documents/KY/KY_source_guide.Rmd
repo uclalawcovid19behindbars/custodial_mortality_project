@@ -1,6 +1,8 @@
 ---
 title: "KY_source_guide"
 output: html_document
+editor_options: 
+  chunk_output_type: console
 ---
 
 ```{r setup, include=FALSE}
@@ -36,20 +38,13 @@ ky.deaths %>%
     pull_ucla_fac_data()
 
 # Compare UCLA data with BJS data
-compare_ucla_bjs() %>%
+compare_ucla_bjs(source = 'MCI') %>%
     subset(State == 'Kentucky') %>%
     arrange(desc(Year))
 
-# Plot KY decedent data (wrangled to monthly numbers)
+# Plot KY decedent data 
 ggplot() +
-    geom_line(data = ky.deaths %>% group_by(Year, Month) %>% summarise(Total.Deaths = n()) %>% 
-                  mutate(Date = as.Date(str_c(Year,Month,'01'), format = '%Y%B%d')),
-              aes(x = Date, y = Total.Deaths)
-              ) +
-    geom_smooth(data = ky.deaths %>% group_by(Year, Month) %>% summarise(Total.Deaths = n()) %>% 
-                  mutate(Date = as.Date(str_c(Year,Month,'01'), format = '%Y%B%d')),
-              aes(x = Date, y = Total.Deaths)
-              )
+    geom_line(data = ky.deaths %>% group_by(Year) %>% summarise(Total.Deaths = n()),aes(x = Year, y = Total.Deaths))
 
 ```
 

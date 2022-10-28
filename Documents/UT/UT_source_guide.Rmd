@@ -1,6 +1,8 @@
 ---
 title: "UT_source_guide"
 output: html_document
+editor_options: 
+  chunk_output_type: console
 ---
 
 ```{r setup, include=FALSE}
@@ -25,16 +27,13 @@ colnames(ut.deaths)
 # No UCLA.ID is present 
 
 # Compare UCLA data with BJS data
-compare_ucla_bjs() %>%
+compare_ucla_bjs(source = 'MCI') %>%
     subset(State == 'Utah') %>%
     arrange(desc(Year))
 
-# Plot UT decedent data (wrangled to monthly numbers)
+# Plot UT decedent data 
 ggplot() +
-    geom_line(data = ut.deaths %>% group_by(Year, Month) %>% summarise(Total.Deaths = n()) %>% 
-                  mutate(Date = as.Date(str_c(Year,Month,'01'), format = '%Y%B%d')),
-              aes(x = Date, y = Total.Deaths)
-              )
+    geom_line(data = ak.deaths %>% group_by(Year) %>% summarise(Total.Deaths = n()),aes(x = Year, y = Total.Deaths))
 
 ```
 

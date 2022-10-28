@@ -1,10 +1,21 @@
 ---
 title: "AZ_source_guide"
 output: html_document
+editor_options: 
+  chunk_output_type: console
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Load Environment
+
+```{r}
+# Load relevent packages and functions
+library(tidyverse)
+source('Code/general_utilities.R') # Note you may have to change your Rmarkdown option for evaluate chunks to project instead of document
+options(scipen=10)
 ```
 
 ## Decedent Data
@@ -17,7 +28,7 @@ Some processing of the files takes place, including the selection of correspondi
 
 ```{r}
 # Load AZ decedent data
-az.deaths <- harmonize_ucla_deaths(agencies = 'AZ')
+az.deaths <- read_ucla_deaths(agencies = 'AZ')
 
 # Show variables present in AZ decedent data
 colnames(az.deaths)
@@ -28,20 +39,13 @@ az.facility <- az.deaths %>%
 head(az.facility)
 
 # Compare UCLA data with BJS data
-compare_ucla_bjs() %>%
+compare_ucla_bjs(source = 'MCI') %>%
     subset(State == 'Arizona') %>%
     arrange(desc(Year))
 
-# Plot AZ decedent data (wrangled to monthly numbers)
+# Plot AZ decedent data 
 ggplot() +
-    geom_line(data = az.deaths %>% group_by(Year, Month) %>% summarise(Total.Deaths = n()) %>% 
-                  mutate(Date = as.Date(str_c(Year,Month,'01'), format = '%Y%B%d')),
-              aes(x = Date, y = Total.Deaths)
-              ) +
-    geom_smooth(data = az.deaths %>% group_by(Year, Month) %>% summarise(Total.Deaths = n()) %>% 
-                  mutate(Date = as.Date(str_c(Year,Month,'01'), format = '%Y%B%d')),
-              aes(x = Date, y = Total.Deaths)
-              )
+    geom_line(data = az.deaths %>% group_by(Year) %>% summarise(Total.Deaths = n()),aes(x = Year, y = Total.Deaths))
 
 ```
 

@@ -1,6 +1,8 @@
 ---
 title: "CO_source_guide"
 output: html_document
+editor_options: 
+  chunk_output_type: console
 ---
 
 ```{r setup, include=FALSE}
@@ -38,7 +40,7 @@ co.facility <- co.deaths %>%
 head(co.facility)
 
 # Compare UCLA data with BJS data
-compare_ucla_bjs() %>%
+compare_ucla_bjs(source = 'MCI') %>%
     subset(State == 'Colorado') %>%
     arrange(desc(Year))
 

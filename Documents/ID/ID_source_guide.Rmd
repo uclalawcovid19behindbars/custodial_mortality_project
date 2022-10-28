@@ -1,6 +1,8 @@
 ---
 title: "ID_source_guide"
 output: html_document
+editor_options: 
+  chunk_output_type: console
 ---
 
 ```{r setup, include=FALSE}
@@ -27,7 +29,7 @@ to UCLA datasets.
 
 ```{r}
 # Load ID decedent data
-id.deaths <- harmonize_ucla_deaths(agencies = 'ID')
+id.deaths <- read_ucla_deaths(agencies = 'ID')
 
 # Show variables present in ID decedent data
 colnames(id.deaths)
@@ -38,16 +40,13 @@ id.facility <- id.deaths %>%
 head(id.facility)
 
 # Compare UCLA data with BJS data
-compare_ucla_bjs() %>%
+compare_ucla_bjs(source = 'MCI') %>%
     subset(State == 'Idaho') %>%
     arrange(desc(Year))
 
-# Plot ID decedent data (wrangled to monthly numbers)
+# Plot ID decedent data 
 ggplot() +
-    geom_line(data = id.deaths %>% group_by(Year, Month) %>% summarise(Total.Deaths = n()) %>% 
-                  mutate(Date = as.Date(str_c(Year,Month,'01'), format = '%Y%B%d')),
-              aes(x = Date, y = Total.Deaths)
-              )
+    geom_line(data = id.deaths %>% group_by(Year) %>% summarise(Total.Deaths = n()),aes(x = Year, y = Total.Deaths))
 
 ```
 

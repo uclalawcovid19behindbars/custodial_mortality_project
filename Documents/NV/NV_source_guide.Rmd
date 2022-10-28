@@ -1,6 +1,8 @@
 ---
 title: "NV_source_guide"
 output: html_document
+editor_options: 
+  chunk_output_type: console
 ---
 
 ```{r setup, include=FALSE}
@@ -27,7 +29,7 @@ to UCLA datasets.
 
 ```{r}
 # Load NV decedent data
-nv.deaths <- harmonize_ucla_deaths(agencies = 'NV')
+nv.deaths <- read_ucla_deaths(agencies = 'NV')
 
 # Show variables present in NV decedent data
 colnames(nv.deaths)
@@ -37,16 +39,13 @@ nv.deaths %>%
     pull_ucla_fac_data()
 
 # Compare UCLA data with BJS data
-compare_ucla_bjs() %>%
+compare_ucla_bjs(source = 'MCI') %>%
     subset(State == 'Nevada') %>%
     arrange(desc(Year))
 
-# Plot NV decedent data (wrangled to monthly numbers)
+# Plot NV decedent data 
 ggplot() +
-    geom_line(data = nv.deaths %>% group_by(Year, Month) %>% summarise(Total.Deaths = n()) %>% 
-                  mutate(Date = as.Date(str_c(Year,Month,'01'), format = '%Y%B%d')),
-              aes(x = Date, y = Total.Deaths)
-              )
+    geom_line(data = nv.deaths %>% group_by(Year) %>% summarise(Total.Deaths = n()),aes(x = Year, y = Total.Deaths))
 
 ```
 

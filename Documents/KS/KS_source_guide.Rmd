@@ -1,6 +1,8 @@
 ---
 title: "KS_source_guide"
 output: html_document
+editor_options: 
+  chunk_output_type: console
 ---
 
 ```{r setup, include=FALSE}
@@ -20,10 +22,9 @@ options(scipen=10)
 
 UCLA obtains custodial decedent data for Kansas state prisons from public records requests to the Kansas Department of Corrections.
 
-Example files included in corresponding documents folder. Partial data for 2020 is present in example files. Data is currently only cleaned for 2018-2019.
+Example files included in corresponding documents folder. Partial data for 2020 is present in example files. 
 
-Some processing of the files takes place, including the selection of corresponding variables and linking data 
-to UCLA datasets. 
+Some processing of the files takes place, including the selection of corresponding variables and linking data to UCLA datasets. 
 
 ```{r}
 # Load KS decedent data
@@ -37,20 +38,13 @@ ks.deaths %>%
     pull_ucla_fac_data()
 
 # Compare UCLA data with BJS data
-compare_ucla_bjs() %>%
+compare_ucla_bjs(source = 'MCI') %>%
     subset(State == 'Kansas') %>%
     arrange(desc(Year))
 
-# Plot KS decedent data (wrangled to monthly numbers)
+# Plot KS decedent data 
 ggplot() +
-    geom_line(data = ks.deaths %>% group_by(Year, Month) %>% summarise(Total.Deaths = n()) %>% 
-                  mutate(Date = as.Date(str_c(Year,Month,'01'), format = '%Y%B%d')),
-              aes(x = Date, y = Total.Deaths)
-              ) +
-    geom_smooth(data = ks.deaths %>% group_by(Year, Month) %>% summarise(Total.Deaths = n()) %>% 
-                  mutate(Date = as.Date(str_c(Year,Month,'01'), format = '%Y%B%d')),
-              aes(x = Date, y = Total.Deaths)
-              )
+    geom_line(data = ks.deaths %>% group_by(Year) %>% summarise(Total.Deaths = n()),aes(x = Year, y = Total.Deaths))
 
 ```
 
