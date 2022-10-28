@@ -34,58 +34,54 @@ Data collection for this project began in June 2020 and is ongoing. For most sta
 
 ## Data Validation and Quality Assurance
 
-To validate data collected in this database, we compared annual aggregates in agency records here with annual aggregates for deaths reported for agencies in BJS MCI Reports. If an agency had a difference of 5 or more deaths, our project reached out to the agency asking why the records we gathered had different total annual counts from federal reports.
+To validate data collected in this database, we compared annual aggregates in state agency records here with annual aggregates for deaths reported for agencies in BJS MCI Reports. If an agency had a difference of 5 or more deaths, our project reached out to the agency asking why the records we gathered had different total annual counts from federal reports.
 
 Agencies of interest and status of validation:
 
-| Prison Agency       | Largest difference with MCI Reports        | Outreach Status                                                          |
-|---------------------|--------------------------------------------|--------------------------------------------------------------------------|
-| California          | 32 less than BJS (2005)                    | Letter sent to CDCR in April - no response as of October 2022            |
-| Colorado            | 6 less than BJS (2015)                     | Letter sent to CDOC in April - received response in April 2022           |
-| Florida             | 28 more than BJS (2016)                    | New letter for FLDOC needed for new data                                 |
-| Georgia             | 12 more than BJS (2015/2018)               | Letter sent to GDC in April - no response as of October 2022             |
-| Hawaii              | 7 more than BJS (2017)                     | Letter sent to HDPS in April - received response in --- 2022             |
-| Louisiana           | 18 less than BJS (2015)                    | See Incarceration Transparency                                           |
-| Maryland            | 14 more than BJS (2018)                    | Letter sent in April - response received and correction made to data     |
-| Missouri            | 9 less than BJS (2017)                     | Letter sent in April - no response as of October 2022                    |
-| Nevada              | 17 more than BJS (2018)                    | Letter sent in April - no response as of October 2022                    |
-| Oklahoma            | 7 more than BJS (2013)                     | Letter sent in April - response received and clarification needed        |
-| Oregon              | 5 more than BJS (2015)                     | Letter sent in April - response received in --- 2022                     |
-| Pennsylvania        | 5 more than BJS (2015)                     | Letter needed                                                            |
-| Texas               | 6 more than BJS (2010)                     | See Texas Justice Initiative                                             |
-| West Virginia       | 14 more than BJS (2019)                    | Letter sent in April - response received in --- 2022       
+| Prison Agency       | Largest difference with MCI Reports        | Outreach Status                                                              |
+|---------------------|--------------------------------------------|------------------------------------------------------------------------------|
+| California          | 32 less than BJS (2005)                    | No response to letter sent to CDCR in Apr - new letter sent Oct 2022         |
+| Colorado            | 6 less than BJS (2015)                     | Letter sent to CDOC in Apr - received response in Apr 2022                   |
+| Florida             | 28 more than BJS (2016)                    | New letter for FLDOC needed for new data                                     |
+| Georgia             | 12 more than BJS (2015/2018)               | No response to letter sent to GDC in Apr - new letter sent Oct 2022          |
+| Hawaii              | 7 more than BJS (2017)                     | Letter sent to HDPS in Apr - response received - no changes needed           |
+| Louisiana           | 18 less than BJS (2015)                    | See Incarceration Transparency                                               |
+| Maryland            | 14 more than BJS (2018)                    | Letter sent in Apr - response received and correction made to data           |
+| Missouri            | 9 less than BJS (2017)                     | No response to letter sent to MODOC in Apr - new letter sent Oct 2022        |
+| Nevada              | 17 more than BJS (2018)                    | No response to letter sent to NDOC in Apr - new letter sent Oct 2022         |
+| Oklahoma            | 7 more than BJS (2013)                     | Letter sent in Apr - clarification needed for response - letter sent Oct 22  |
+| Oregon              | 5 more than BJS (2015)                     | Letter sent in Apr - response received in - no changes needed                |
+| Pennsylvania        | 5 more than BJS (2015)                     | Letter sent in Oct - agency is investigating our inquiry                     |
+| Texas               | 6 more than BJS (2010)                     | See Texas Justice Initiative                                                 |
+| West Virginia       | 14 more than BJS (2019)                    | Letter sent in Apr - response received - no changes needed    
 
-Based off responses from agencies, some records were edited to better reflect deaths in custody that occur within carceral facilities (i.e. prisons or jails). Any observations removed from a state's records are contained in the _______ folder. Please see data manipulation section for details on which states were edited.
+Based off responses from agencies, some records were edited to better reflect deaths in custody that occur within carceral facilities (i.e. prisons or jails). Any observations removed from a state's records are contained in the `Edited` folder. Please see data manipulation section for details on which states were edited.
 
 ## Types of Manipulation Conducted on Raw Data During Standardization and Analysis
 
 Agency records on deaths in custody were processed from PDFs, xlsx, csv, and jpgs. Records were made machine readable using R and Adobe. Unprocessed records are maintained in the `Documents` folder.
 
-Some observations from 
+As we conducted data validation efforts our project made decisions as to how to present data that may include differences with prior BJS reports due to the type of data provided to UCLA, issues with agency reporting to BJS, and agencies managing facilities other than prisons (i.e. jails in a unified system). 
 
-Some observations were left in datasets for agencies despite being different from BJS observations:
+Reasons for differences and manipulation steps:
 
-As we conduct
+| Prison Agency | Reasons for Differences                                                                                   | Mainuplation Made        |
+|---------------|-----------------------------------------------------------------------------------------------------------|--------------------------|
+| California    | Undetermined                                                                                              | None                     |
+| Colorado      | CDOC reported more types of deaths to BJS than deaths in CO prisons (i.e. fugitives, supervision programs)| None                     |
+| Florida       | Undetermined                                                                                              | None                     |
+| Georgia       | Undetermined                                                                                              | None                     |
+| Hawaii        | Error in agency reporting to BJS - Agency is correcting this issue                                        | None                     |
+| Louisiana     | Potentially differences in LDPS reporting post-conviction deaths in jails - see Incarceration Transparency| None                     |
+| Maryland      | MDPS also provided deaths in 'Home Detention Units'                                                       | HDU observations removed |
+| Missouri      | Undetermined                                                                                              | None                     |
+| Nevada        | Undetermined                                                                                              | None                     |
+| Oklahoma      | Undetermined                                                                                              | None                     |
+| Oregon        | Error in agency reporting to BJS                                                                          | None                     |
+| Pennsylvania  | Undetermined                                                                                              | None                     |
+| Texas         | Potentiall differences in which facility deaths are reported to BJS - see Texas Justice Initiative        | None                     |
+| West Virginia | WVDCR oversees prisons and jails - when jails are removed, annual totals match                            | None
 
-## Data Confidentiality, Access, and Use Conditions
-
-Current linked datasets:
-
-Vera Institute of Justice |
-People in Jail and Prison in Spring 2021 |
-Link to [source](https://www.vera.org/publications/people-in-jail-and-prison-in-spring-2021).
-
-Texas Justice Intitiative | 
-Deaths in Custody | 
-Link to [source](https://texasjusticeinitiative.org/datasets/custodial-deaths).
-
-Death Penalty Information Center |
-Execution Database |
-Link to [source](https://deathpenaltyinfo.org/executions/execution-database).
-
-NPR Investigations |
-BoP Excess Deaths Analysis |
-Link to [source](https://github.com/NPR-investigations/BOP_all_cause_mortality).
 
 ## Structure and Organization of Data Files
 
@@ -247,6 +243,13 @@ facilities.annual <- calculate_annual_facility_rate()
 | `Location`             | Specific/other listed location of death                                                                            |
 | `Total.Deaths`         | For aggregated categories, the total number of deaths                                                              
 
+### Context Notes on Potential Death Variables
+
+Our project only reproduces records provided to us and other projects. We do not correct or investigate records for accuracy aside from our data validation efforts to ensure total counts of deaths match reporting for that agency produced by the Bureau of Justice Statistics. As such, there may be errors or issues with information contained within these variables. In particular, circumstances of death were reported differently across prison agencies and often do not reflect actual causes of death. Many death records are labeled as 'Natural' and 'Undetermined,' which provide little detail on the circumstances of death. For more context on issues with custodial death investigations please see the following resources.
+
+> Nick Shapiro, Terrence Keel. Natural Causes? 58 Autopsies Prove Otherwise. UCLA Carceral Ecologies Lab, https://ucla.app.box.com/s/sv54jmxhmq19kqifpakh4jfu3vnmhbqt/file/974263270262
+
+
 ### Potential Demographic Variables
 
 | Variable               | Description                                                                                                        |
@@ -258,6 +261,8 @@ facilities.annual <- calculate_annual_facility_rate()
 | `Number`               | Number in group                                                                                                    |
 | `Percent`              | Percent of group in overall population (this is used for some states to calculate `Number`)                        |
 | `Source`               | Source of demographic information                                                                                  
+
+
 
 ## Dataset Coverage
 
@@ -280,3 +285,45 @@ Figure 4 | State prison agencies with facility information reported in custodial
 Figure 5 | State prison agencies with decedent data crosswalked to UCLA COVID data
 
 ![state ucla](https://github.com/uclalawcovid19behindbars/carceral_mortality/blob/main/Graphics/state_ucla.png)
+
+## Citations
+
+Citations for academic publications and research reports:
+
+> Sharon Dolovich, Aaron Littman, Kalind Parish, Grace DiLaura, Chase Hommeyer,  Michael Everett, Hope Johnson, Neal Marquez, Erika Tyagi, Megan Arellano, and Lauren Woyczynski. UCLA Law Covid-19 Behind Bars Data Project: Prison Mortality Dataset [date you downloaded the data]. UCLA Law, 2022, https://uclacovidbehindbars.org/.
+
+Citations for media outlets, policy briefs, and online resources:
+
+> UCLA Law Covid-19 Behind Bars Data Project, https://uclacovidbehindbars.org/.
+
+If you use any data in this repository from Louisiana, Texas, or the Bureau of Prisons please also cite the appropriate original source of that data. 
+
+For Louisiana
+
+> Andrea Armstrong, Judson Mitchell, Erica Navalance, Shanita Farris. Incarceration Transparency: Louisiana Deaths Behind Bars. Loyola University New Orleans, College of Law, https://www.incarcerationtransparency.org/.
+
+For Texas
+
+> Texas Justice Initiative: Texas Deaths in Custody, https://texasjusticeinitiative.org/data.
+
+For BoP
+
+> Meg Anderson, Huo Jingnan, Neal Marquez, Erika Tyagi, Alison Guernsey, Robert Benincasa, Nick McMillan, NPR Investigations: BOP_excess_Deaths, https://github.com/NPR-investigations/BOP_all_cause_mortality
+
+If you use any of the prison population data in this repository from Vera please also cite their reporting.
+
+> Jacob Kang-Brown, Chase Montagnet, Jasmine Heiss. Vera Institute of Justice: People in Jail and Prison in Spring 2021, https://www.vera.org/publications/people-in-jail-and-prison-in-spring-2021#:~:text=By%20spring%202021%2C%20jail%20populations,reduce%20incarceration%20through%20spring%202021.
+
+## License 
+
+Our data is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/). That means that you must give appropriate credit, provide a link to the license, and indicate if changes were made. You may not use our work for commercial purposes, which means anything primarily intended for or directed toward commercial advantage or monetary compensation. 
+
+## Contributors 
+
+For questions or feedback about the data, please reach out to COVIDBehindBars@law.ucla.edu. 
+
+In cases when agencies do not publicly report comprehensive data for all facilities in a state, we supplement our data with statewide aggregate totals collected through public records requests, data collected by [The Marshall Project and the AP](https://www.themarshallproject.org/2020/05/01/a-state-by-state-look-at-coronavirus-in-prisons), and other sources. Our data for several jails in California is collected by the [COVID In-Custody Project](https://covidincustody.org/). Our data for facilities in Massachusetts is reported by [the ACLU of Massachusetts](https://data.aclum.org/sjc-12926-tracker/). Our data for deaths in Texas jails and prisons is collected by [the Texas Justice Initiative](https://texasjusticeinitiative.org/publications/covid-deaths-in-texas). If you would like to contribute data on COVID in a facility that we don't currently include, please see [our template](https://docs.google.com/spreadsheets/d/1cqjCvbXuUh5aIQeJ4NRKdUwVAb4adaWTK-nBPFAj0og/edit#gid=363817589). 
+
+
+
+
