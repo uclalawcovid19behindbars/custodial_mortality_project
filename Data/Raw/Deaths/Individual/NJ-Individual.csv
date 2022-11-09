@@ -214,44 +214,35 @@
 "New Jersey",2020,"January","2020-01-01","PRISON OUT OF STATE",NA,NA
 "New Jersey",2020,"January","2020-01-02","NSP","Suicide",863
 "New Jersey",2020,"January","2020-01-06","EJSP-TULLY","Hypertensive cardiovascular disease",845
-"New Jersey",2020,"January","2020-01-21","STU",NA,NA
 "New Jersey",2020,"January","2020-01-30","SWSP","Hypertensive and atherosclerotic cardiovascular disease",864
 "New Jersey",2020,"February","2020-02-15","SWSP","Severe Pneumonia with sepsis syndrome",864
 "New Jersey",2020,"February","2020-02-16","SWSP","Pneumonia",864
 "New Jersey",2020,"February","2020-02-29","EJSP",NA,845
-"New Jersey",2020,"March","2020-03-04","STU",NA,NA
 "New Jersey",2020,"April","2020-04-03","MIDSTATE CORRECTIONAL FACILITY","Hypertropic cardiomyopathy",860
 "New Jersey",2020,"April","2020-04-07","NJSP","COVID-19",862
 "New Jersey",2020,"April","2020-04-08","ESSEX COUNTY JAIL",NA,NA
 "New Jersey",2020,"April","2020-04-12","NSP","COVID-19",863
-"New Jersey",2020,"April","2020-04-13","STU",NA,NA
 "New Jersey",2020,"April","2020-04-13","NJSP","COVID-19",862
 "New Jersey",2020,"April","2020-04-14","EJSP","COVID-19",845
-"New Jersey",2020,"April","2020-04-14","STU",NA,NA
 "New Jersey",2020,"April","2020-04-14","NSP","COVID-19",863
 "New Jersey",2020,"April","2020-04-16","ADTC","COVID-19",835
 "New Jersey",2020,"April","2020-04-16","EJSP","COVID-19",845
-"New Jersey",2020,"April","2020-04-17","STU",NA,NA
 "New Jersey",2020,"April","2020-04-17","NSP","Pneumonia",863
 "New Jersey",2020,"April","2020-04-17","EJSP","COVID-19",845
 "New Jersey",2020,"April","2020-04-17","EJSP","COVID-19",845
 "New Jersey",2020,"April","2020-04-17","NSP","COVID-19",863
 "New Jersey",2020,"April","2020-04-18","NSP","Cardiac Arrest",863
-"New Jersey",2020,"April","2020-04-18","STU",NA,NA
 "New Jersey",2020,"April","2020-04-19","MIDSTATE CORRECTIONAL FACILITY","COVID-19",860
 "New Jersey",2020,"April","2020-04-20","NSP","COVID-19",863
 "New Jersey",2020,"April","2020-04-20","NSP","COVID-19",863
 "New Jersey",2020,"April","2020-04-20","NSP","COVID-19",863
-"New Jersey",2020,"April","2020-04-22","STU",NA,NA
 "New Jersey",2020,"April","2020-04-22","NSP","COVID-19",863
 "New Jersey",2020,"April","2020-04-23","EJSP","COVID-19",845
 "New Jersey",2020,"April","2020-04-23","NJSP","COVID-19",862
 "New Jersey",2020,"April","2020-04-23","NJSP","COVID-19",862
 "New Jersey",2020,"April","2020-04-24","EJSP","COVID-19",845
-"New Jersey",2020,"April","2020-04-24","STU",NA,NA
 "New Jersey",2020,"April","2020-04-24","ADTC","COVID-19",835
 "New Jersey",2020,"April","2020-04-25","SWSP","COVID-19",864
-"New Jersey",2020,"April","2020-04-25","STU",NA,NA
 "New Jersey",2020,"April","2020-04-26","NSP","COVID-19",863
 "New Jersey",2020,"April","2020-04-28","ESSEX COUNTY JAIL",NA,NA
 "New Jersey",2020,"April","2020-04-29","EJSP","COVID-19",845
@@ -260,12 +251,10 @@
 "New Jersey",2020,"April","2020-04-30","EMCF","Pneumonia",846
 "New Jersey",2020,"May","2020-05-01","SWSP","COVID-19",864
 "New Jersey",2020,"May","2020-05-02","GSCF","COVID-19",852
-"New Jersey",2020,"May","2020-05-03","STU",NA,NA
 "New Jersey",2020,"May","2020-05-03","SWSP","COVID-19",864
 "New Jersey",2020,"May","2020-05-03","SWSP","COVID-19",864
 "New Jersey",2020,"May","2020-05-05","NSP",NA,863
 "New Jersey",2020,"May","2020-05-08","ADTC","COVID-19",835
-"New Jersey",2020,"May","2020-05-09","STU",NA,NA
 "New Jersey",2020,"May","2020-05-10","ADTC","COVID-19",835
 "New Jersey",2020,"May","2020-05-10","CRAF","COVID-19",839
 "New Jersey",2020,"May","2020-05-12","NSP","Cardiovascular Disease",863
@@ -293,7 +282,6 @@
 "New Jersey",2020,"September","2020-09-19","SWSP","Respiratory Failure",864
 "New Jersey",2020,"September","2020-09-22","NJSP",NA,862
 "New Jersey",2020,"September","2020-09-26","EJSP","COVID-19",845
-"New Jersey",2020,"October","2020-10-01","STU",NA,NA
 "New Jersey",2020,"October","2020-10-09","NJSP","Cardiac Arrest",862
 "New Jersey",2020,"October","2020-10-09","EJSP","Cardiac Arrest",845
 "New Jersey",2020,"October","2020-10-17","CRAF","Cardiac Arrest",839
