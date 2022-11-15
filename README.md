@@ -79,7 +79,7 @@ Reasons for differences and manipulation steps:
 | Oklahoma      | Undetermined                                                                                              | None                     |
 | Oregon        | Error in agency reporting to BJS                                                                          | None                     |
 | Pennsylvania  | Undetermined                                                                                              | None                     |
-| Texas         | Potentiall differences in which facility deaths are reported to BJS - see Texas Justice Initiative        | None                     |
+| Texas         | Potentially differences in which facility deaths are reported to BJS - see Texas Justice Initiative       | None                     |
 | West Virginia | WVDCR oversees prisons and jails - when jails are removed, annual totals match                            | None
 
 
@@ -128,14 +128,14 @@ This folder contains visualizations summarizing the coverage of records containe
 ## Accessing the Data and Data Dictionary
 
 ``` r
-# Load all UCLA mortality functions
+# Load all Custodial Mortality Project utility functions
 source('Code/general_utilities.R')
 
-# Load all UCLA decedent data
-ucla.data <- read_ucla_deaths(all.agencies = TRUE)
+# Load all CMP decedent data
+CMP.data <- read_CMP_deaths(all.agencies = TRUE)
 
-# Load specific UCLA decedent data (function aggregates to least detailed level for time interval)
-ucla.data <- read_ucla_deaths(all.agencies = FALSE, agencies = c('CA', 'NC', 'NV', 'AR'))
+# Load specific CMP death data (function aggregates to least detailed level for time interval)
+CMP.data <- read_CMP_deaths(all.agencies = FALSE, agencies = c('CA', 'NC', 'NV', 'AR'))
 
 # Load all BJS decedent data
 bjs.data <- read_bjs(all.agencies = TRUE)
@@ -143,32 +143,32 @@ bjs.data <- read_bjs(all.agencies = TRUE)
 # Load specific BJS decedent data
 bjs.data <- read_bjs(all.agencies = FALSE, agencies = c('CA', 'NC', 'NV', 'AR'))
 
-# Compare UCLA and BJS decedent data
-compare_ucla_bjs(source = 'MCI') # source parameter designates what BJS report to compare to: MCI, NPS, or MCI+NPS
+# Compare CMP and BJS decedent data
+compare_CMP_bjs(source = 'MCI') # source parameter designates what BJS report to compare to: MCI, NPS, or MCI+NPS
 
 # Summarize UCLA Mortality Database
-summarize_ucla_data()
+summarize_CMP_data()
 
-# Load all UCLA demographic data
-ucla.dem <- read_ucla_dem(all.agencies = TRUE)
+# Load all CMP demographic data
+CMP.dem <- read_CMP_dem(all.agencies = TRUE)
 
-# Load specific UCLA demographic data
-ucla.dem <- read_ucla_dem(all.agencies = FALSE, agencies = c('CA', 'NC', 'NV', 'AR'))
+# Load specific CMO demographic data
+CMP.dem <- read_CMP_dem(all.agencies = FALSE, agencies = c('CA', 'NC', 'NV', 'AR'))
 
-# Harmonize UCLA demographic data (for analysis)
-ucla.dem.h <- harmonize_ucla_dem(agencies = c('GA', 'IL', 'MA', 'MI', 'MT', 'NC', 'NV'))
+# Harmonize CMP demographic data (for analysis)
+CMP.dem.h <- harmonize_CMP_dem(agencies = c('GA', 'IL', 'MA', 'MI', 'MT', 'NC', 'NV'))
 
-# Harmonize UCLA decedent data to demographic data (for analysis)
-ucla.data.h <- harmonize_ucla_deaths(agencies = c('GA', 'IL', 'MA', 'MI', 'MT', 'NC', 'NV'))
+# Harmonize CMP decedent data to demographic data (for analysis)
+ucla.CMP.h <- harmonize_CMP_deaths(agencies = c('GA', 'IL', 'MA', 'MI', 'MT', 'NC', 'NV'))
 
-# Interpolate harmonized UCLA demographic data
+# Interpolate harmonized CMP demographic data
 'CA' %>%
-    harmonize_ucla_dem() %>%
-    interpolate_ucla_dem()
+    harmonize_CMP_dem() %>%
+    interpolate_CMP_dem()
     
 # Calculate and plot age group mortality rate
 age.rate <- 'CA' %>%
-    pull_ucla_age_rate() %>%
+    pull_CMP_age_rate() %>%
     subset(!is.nan(Rate) & 
                !is.na(Rate) &
                !is.na(Standard.Groups)) %>%
@@ -180,13 +180,13 @@ ggplot() +
  
 # Pull all UCLA facility data for decedent data
 'NJ' %>%
-    read_ucla_deaths(all.agencies = FALSE,
+    read_CMP_deaths(all.agencies = FALSE,
                      agencies = .) %>%
     pull_ucla_fac_data()
     
 # Pull all UCLA facility data for harmonized decedent data
 'CA' %>%
-    harmonize_ucla_deaths() %>%
+    harmonize_CMP_deaths() %>%
     pull_ucla_fac_data()
     
 # Calculate monthly mortality rate from available data
