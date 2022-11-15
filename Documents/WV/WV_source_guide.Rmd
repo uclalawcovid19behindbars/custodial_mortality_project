@@ -28,17 +28,17 @@ Some processing of the files takes place, including the selection of correspondi
 
 ```{r}
 # Load WV decedent data
-wv.deaths <- read_ucla_deaths(agencies = 'WV')
+wv.deaths <- read_CMP_deaths(agencies = 'WV')
 
 # Show variables present in WV decedent data
 colnames(wv.deaths)
 
 # UCLA.ID is present - join UCLA facility data
 wv.deaths %>%
-    pull_ucla_fac_data()
+    pull_CMP_fac_data()
 
 # Compare UCLA data with BJS data
-compare_ucla_bjs(source = 'MCI') %>%
+compare_CMP_bjs(source = 'MCI') %>%
     subset(State == 'West Virginia') %>%
     arrange(desc(Year))
 

@@ -1,4 +1,4 @@
-#### UCLA Prison Mortality Utilities
+#### Carceral Mortality Project Utilities
 
 #### Set Environment -----------------------------------
 library(tidyverse)
@@ -92,7 +92,7 @@ read_bjs <- function(all.agencies, agencies, source) {
 
 ## Read in UCLA Historical Decedent Data -------------------------
 
-# sub functions for read_ucla_data
+# sub functions for read_CMP_data
 
 # pull raw files
 
@@ -165,7 +165,7 @@ sum.to.month <- function(x) {
     out
 }
 
-# Make default year aggregate function - for default all sum in read_ucla_deaths [read_to_year()]
+# Make default year aggregate function - for default all sum in read_CMP_deaths [read_to_year()]
 only.year <- function(x) {
     read <- x %>%
         read.csv() 
@@ -186,7 +186,7 @@ only.year <- function(x) {
     out
 }
 
-# Make default month aggregate function - for default all sum in read_ucla_deaths [read_to_year()]
+# Make default month aggregate function - for default all sum in read_CMP_deaths [read_to_year()]
 only.year.month <- function(x) {
     read <- x %>%
         read.csv() 
@@ -207,7 +207,7 @@ only.year.month <- function(x) {
     out
 }
 
-# Make defaults individual aggregate function - for default all sum in read_ucla_deaths [read_to_year()]
+# Make defaults individual aggregate function - for default all sum in read_CMP_deaths [read_to_year()]
 only.year.individual <- function(x) {
     read <- x %>%
         read.csv() %>%
@@ -246,7 +246,7 @@ read_to_year <- function(file.base) {
 }
 
 
-read_ucla_deaths <- function(all.agencies = FALSE, agencies) {
+read_CMP_deaths <- function(all.agencies = FALSE, agencies) {
     
     ## Pull all possible files in repo and set up state dataframe
     states <- data.frame(State.Abb = state.abb,
@@ -348,27 +348,27 @@ read_ucla_deaths <- function(all.agencies = FALSE, agencies) {
     output.deaths
 }
     
-## Compare Annual BJS Numbers with Aggregated UCLA numbers -----------------
+## Compare Annual BJS Numbers with Aggregated CMP numbers -----------------
 
-compare_ucla_bjs <- function(source) {
+compare_CMP_bjs <- function(source) {
     bjs.data <- read_bjs(all.agencies = TRUE, source = source) 
     bjs.data <- bjs.data %>%
                 plyr::rename(c('Total.Deaths' = 'BJS.Deaths'))
-    ucla.data <- read_ucla_deaths(all.agencies = TRUE) 
-    ucla.data <- ucla.data %>%
-                 plyr::rename(c('Total.Deaths' = 'UCLA.Deaths'))
-    joined.data <- ucla.data %>%
+    CMP.data <- read_CMP_deaths(all.agencies = TRUE) 
+    CMP.data <- CMP.data %>%
+                 plyr::rename(c('Total.Deaths' = 'CMP.Deaths'))
+    joined.data <- CMP.data %>%
                    left_join(., bjs.data, by = c('State', 'Year')) %>%
-                   mutate(Absolute.Difference = abs(UCLA.Deaths-BJS.Deaths)) %>%
+                   mutate(Absolute.Difference = abs(CMP.Deaths-BJS.Deaths)) %>%
                    subset(Year < 2021) %>%
                    arrange(desc(Absolute.Difference))
     joined.data
     
 }
 
-## Read in UCLA Historical Demograpahic Data -------------------
+## Read in CMP Historical Demograpahic Data -------------------
 
-read_ucla_dem <- function(all.agencies, agencies) {
+read_CMP_dem <- function(all.agencies, agencies) {
     ## Pull all possible files in repo and set up state dataframe
     states <- data.frame(State.Abb = state.abb,
                          State = state.name)
@@ -463,57 +463,57 @@ pull_dem <- function(file.base) {
     
 }
 
-## Harmonize a Deaths and Demographics dataset from UCLA ----------------------------
+## Harmonize a Deaths and Demographics dataset from CMP ----------------------------
 # Current datasets of interest to Harmonize for standardized analysis: 
 # AZ, GA, IL, MA (needs sex), MI, MS (needs DoB), MT, NC, NV, NY (needs demographics), OK, PA (missing DoB), WV
 
-harmonize_ucla_deaths <- function(agencies) {
+harmonize_CMP_deaths <- function(agencies) {
     # function testing
     # input <- c('AZ', 'GA', 'IL', 'MA', 'MI', 'MT', 'NC', 'NV')
     input <- agencies
-    ucla.deaths <- read_ucla_deaths(all.agencies = FALSE, agencies = input)
-    ucla.dem <- read_ucla_dem(all.agencies = FALSE, agencies = input)
+    CMP.deaths <- read_CMP_deaths(all.agencies = FALSE, agencies = input)
+    CMP.dem <- read_CMP_dem(all.agencies = FALSE, agencies = input)
     
-    if(!('Sex' %in% colnames(ucla.deaths))) {
-        ucla.deaths <- ucla.deaths %>%
+    if(!('Sex' %in% colnames(CMP.deaths))) {
+        CMP.deaths <- CMP.deaths %>%
                        mutate(Sex = NA)
     }
     
-    ucla.deaths.i <- ucla.deaths %>%
+    CMP.deaths.i <- CMP.deaths %>%
                     mutate(Sex = ifelse(str_detect(Sex, 'F'), 'Female', Sex),
                            Sex = ifelse((Sex != 'Female' & !is.na(Sex)), 'Male', Sex)) # Harmonize sex
-    if(!('DoB.Year' %in% colnames(ucla.deaths.i)) & !('Death.Age' %in% colnames(ucla.deaths.i))) {
-        ucla.deaths.i <- ucla.deaths.i %>%
+    if(!('DoB.Year' %in% colnames(CMP.deaths.i)) & !('Death.Age' %in% colnames(CMP.deaths.i))) {
+        CMP.deaths.i <- CMP.deaths.i %>%
                          mutate(DoB.Year = NA)
     } 
     
-    if(!('DoB' %in% colnames(ucla.deaths.i)) & 'Death.Age' %in% colnames(ucla.deaths.i)) {
-        ucla.deaths.i <- ucla.deaths.i %>%
+    if(!('DoB' %in% colnames(CMP.deaths.i)) & 'Death.Age' %in% colnames(CMP.deaths.i)) {
+        CMP.deaths.i <- CMP.deaths.i %>%
             mutate(DoB.Year = year(Death.Date) - Death.Age,
                    DoB = NA) 
     } 
     
-    if(!('DoB.Year' %in% colnames(ucla.deaths.i)) & ('DoB' %in% colnames(ucla.deaths.i))) {
-        ucla.deaths.i <- ucla.deaths.i %>%
+    if(!('DoB.Year' %in% colnames(CMP.deaths.i)) & ('DoB' %in% colnames(CMP.deaths.i))) {
+        CMP.deaths.i <- CMP.deaths.i %>%
             mutate(DoB.Year = NA)
     } 
     
-    if(!('DoB' %in% colnames(ucla.deaths.i)) & 'DoB.Year' %in% colnames(ucla.deaths.i)) {
-        ucla.deaths.i <- ucla.deaths.i %>%
+    if(!('DoB' %in% colnames(CMP.deaths.i)) & 'DoB.Year' %in% colnames(CMP.deaths.i)) {
+        CMP.deaths.i <- CMP.deaths.i %>%
             mutate(DoB = NA) 
     } 
     
-    if(!('Death.Age' %in% colnames(ucla.deaths.i))) {
-        ucla.deaths.i <- ucla.deaths.i %>%
+    if(!('Death.Age' %in% colnames(CMP.deaths.i))) {
+        CMP.deaths.i <- CMP.deaths.i %>%
                          mutate(Death.Age = NA) 
     } 
     
-    ucla.deaths.h <- ucla.deaths.i %>%
+    CMP.deaths.h <- CMP.deaths.i %>%
                     mutate(DoB.Year = str_c(str_c(DoB.Year, '-01', '-01')),
                            DoB.Combined = coalesce(DoB, DoB.Year)) %>%
                     mutate(Death.Age = ifelse((is.na(Death.Age) & !is.na(DoB.Combined)), (as.Date(Death.Date, format = '%Y-%m-%d') - as.Date(DoB.Combined, format = '%Y-%m-%d'))/365, Death.Age))
     
-    ucla.dem.h <- ucla.dem %>%
+    CMP.dem.h <- CMP.dem %>%
                   plyr::rename(c('Sex.Group' = 'Sex')) %>%
                   mutate(Sex = ifelse(str_detect(Sex, 'F'), 'Female', Sex),
                          Sex = ifelse((Sex != 'Female' & Sex != 'B'), 'Male', Sex),
@@ -538,27 +538,27 @@ harmonize_ucla_deaths <- function(agencies) {
                          End.Age = as.numeric(End.Age),
                          Standard.Groups = str_c(as.character(Start.Age), '-', as.character(End.Age)))
     
-    dem.group.frame <- ucla.dem.h %>%
+    dem.group.frame <- CMP.dem.h %>%
         select(State, Start.Age, End.Age, Standard.Groups) %>%
         unique()
     
-    ucla.death.groups <- ucla.deaths.h %>%
+    CMP.death.groups <- CMP.deaths.h %>%
                          left_join(., dem.group.frame, by = c('State')) %>%
                          mutate(Standard.Age.Group = ifelse((Death.Age <= End.Age & Death.Age >= Start.Age), Standard.Groups, 'Remove')) %>%
                          subset(Standard.Age.Group != 'Remove') %>%
                          select(-c(Start.Age, End.Age, Standard.Groups))
     
-   ucla.death.groups
+   CMP.death.groups
     
 }
 
-harmonize_ucla_dem <- function(agencies) {
+harmonize_CMP_dem <- function(agencies) {
     # function testing
     # input <- c('AZ', 'GA', 'IL', 'MA', 'MI', 'MT', 'NC', 'NV', 'NY')
     input <- agencies
-    ucla.dem <- read_ucla_dem(all.agencies = FALSE, agencies = input)
+    CMP.dem <- read_CMP_dem(all.agencies = FALSE, agencies = input)
     
-    ucla.dem.h <- ucla.dem %>%
+    CMP.dem.h <- CMP.dem %>%
         plyr::rename(c('Sex.Group' = 'Sex')) %>%
         mutate(Sex = ifelse(str_detect(Sex, 'F'), 'Female', Sex),
                Sex = ifelse((Sex != 'Female' & Sex != 'B'), 'Male', Sex),
@@ -583,14 +583,14 @@ harmonize_ucla_dem <- function(agencies) {
         End.Age = as.numeric(End.Age),
         Standard.Groups = str_c(as.character(Start.Age), '-', as.character(End.Age)))
     
-    ucla.dem.h
+    CMP.dem.h
 }
 
-summarize_ucla_data <- function() {
+summarize_CMP_data <- function() {
     ## Set up state match dataframe
     states <- data.frame(State.Abb = state.abb,
                          State.Name = state.name)
-    summary.file <- lapply(states$State.Abb, summarize_ucla_state) %>%
+    summary.file <- lapply(states$State.Abb, summarize_CMP_state) %>%
         rbindlist()
     
     out.file <- summary.file %>%
@@ -611,7 +611,7 @@ check_variable <- function(variable, columns) {
     }
 }
 
-summarize_ucla_state <- function(state) {
+summarize_CMP_state <- function(state) {
     
     ## Set up state match dataframe
     states <- data.frame(State.Abb = state.abb,
@@ -818,16 +818,16 @@ summarize_ucla_state <- function(state) {
 } # end function
 
 update_mortality_summary_sheet <- function(mortality_sheet_loc) {
-    ucla.summary <- summarize_ucla_data()
+    CMP.summary <- summarize_CMP_data()
     
     range_write(
-        data = ucla.summary, 
+        data = CMP.summary, 
         ss = mortality_sheet_loc, 
         sheet = "Summary", 
         reformat = FALSE)
 }
 
-interpolate_ucla_dem <- function(demographics) {
+interpolate_CMP_dem <- function(demographics) {
     
     demographics <- demographics %>%
         mutate(Date = as.Date(Date, format = '%Y-%m-%d'))
@@ -853,13 +853,13 @@ interpolate_ucla_dem <- function(demographics) {
     return(out)
 }
 
-pull_ucla_age_rate <- function(state) {
-    dem <- harmonize_ucla_dem(agencies = c(state))
-    deaths <- harmonize_ucla_deaths(agencies = c(state))
+pull_CMP_age_rate <- function(state) {
+    dem <- harmonize_CMP_dem(agencies = c(state))
+    deaths <- harmonize_CMP_deaths(agencies = c(state))
     
     suppressMessages(
     dem.load <- dem %>%
-        interpolate_ucla_dem() %>%
+        interpolate_CMP_dem() %>%
         group_by(Year, Month, Date, Standard.Groups) %>%
         summarise(Number = sum(Number, na.rm = TRUE)) %>%
         arrange(Year, Month, Date, Standard.Groups) %>%
@@ -897,7 +897,7 @@ pull_ucla_age_rate <- function(state) {
     
 }
 
-pull_ucla_fac_data <- function(death.data) {
+pull_CMP_fac_data <- function(death.data) {
     ucla.fac <- 'https://raw.githubusercontent.com/uclalawcovid19behindbars/facility_data/master/data/fac_data.csv' %>%
         read_csv() %>%
         select(-c(State))
@@ -922,13 +922,13 @@ pull_ucla_fac_data <- function(death.data) {
 pull_harmonize_interpolate <- function(state) {
     #state <- states.w.dem$State.Abb[24]
     out <- state %>%
-        harmonize_ucla_dem() %>%
-        interpolate_ucla_dem()
+        harmonize_CMP_dem() %>%
+        interpolate_CMP_dem()
     return(out)
 }
 
 calculate_monthly_rate <- function(pop.source) {
-    summary <- summarize_ucla_data()
+    summary <- summarize_CMP_data()
     states.w.dem <- summary %>%
         subset(!str_detect('No', Demographics) &
                    !str_detect('No', Year) &
@@ -969,7 +969,7 @@ calculate_monthly_rate <- function(pop.source) {
     
     suppressMessages(
         read.deaths <- states.w.dem$State.Abb %>%
-            lapply(., read_ucla_deaths, all.agencies = FALSE) %>%
+            lapply(., read_CMP_deaths, all.agencies = FALSE) %>%
             rbindlist(fill = TRUE) 
     )
     suppressMessages(
@@ -990,7 +990,7 @@ calculate_monthly_rate <- function(pop.source) {
 }
 
 calculate_annual_rate <- function(pop.source) {
-    summary <- summarize_ucla_data()
+    summary <- summarize_CMP_data()
     
     # Process Demographic Data
     if(pop.source == 'UCLA') {
@@ -1037,11 +1037,11 @@ calculate_annual_rate <- function(pop.source) {
     
     suppressMessages(
         read.deaths <- states.w.dem$State.Abb %>%
-            lapply(., read_ucla_deaths, all.agencies = FALSE) %>%
+            lapply(., read_CMP_deaths, all.agencies = FALSE) %>%
             rbindlist(fill = TRUE) 
     )
     
-    annual.states <- summarize_ucla_data() %>%
+    annual.states <- summarize_CMP_data() %>%
         subset(Month != 'Yes' & Year == 'Yes' & State.Name != 'Wyoming')
     
     annual.states <- annual.states$State.Name 
@@ -1129,7 +1129,7 @@ interpolate_vera_dem <- function() {
 }
 
 calculate_annual_facility_rate <- function() {
-    summary <- summarize_ucla_data()
+    summary <- summarize_CMP_data()
     
     states.w.dem <- summary %>% subset(UCLA.ID == 'Yes')
     
@@ -1137,7 +1137,7 @@ calculate_annual_facility_rate <- function() {
     
     suppressMessages(
         read.deaths <- states.w.dem$State.Abb %>%
-            lapply(., read_ucla_deaths, all.agencies = FALSE) %>%
+            lapply(., read_CMP_deaths, all.agencies = FALSE) %>%
             rbindlist(fill = TRUE) 
     )
     
@@ -1174,7 +1174,7 @@ calculate_annual_facility_rate <- function() {
 }
 
 calculate_monthly_facility_rate <- function() {
-    summary <- summarize_ucla_data()
+    summary <- summarize_CMP_data()
     
     states.w.dem <- summary %>% subset(UCLA.ID == 'Yes')
     
@@ -1182,7 +1182,7 @@ calculate_monthly_facility_rate <- function() {
     
     suppressMessages(
         read.deaths <- states.w.dem$State.Abb %>%
-            lapply(., read_ucla_deaths, all.agencies = FALSE) %>%
+            lapply(., read_CMP_deaths, all.agencies = FALSE) %>%
             rbindlist(fill = TRUE) 
     )
     

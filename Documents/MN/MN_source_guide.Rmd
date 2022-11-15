@@ -19,7 +19,7 @@ Some processing of the files takes place, including the selection of correspondi
 
 ```{r}
 # Load MN decedent data
-mn.deaths <- read_ucla_deaths(agencies = 'MN')
+mn.deaths <- read_CMP_deaths(agencies = 'MN')
 
 # Show variables present in MN decedent data
 colnames(mn.deaths)
@@ -29,8 +29,8 @@ mn.facility <- mn.deaths %>%
                 pull_ucla_fac_data()
 head(mn.facility)
 
-# Compare UCLA data with BJS data
-compare_ucla_bjs(source = 'MCI') %>%
+# Compare CMP data with BJS data
+compare_CMP_bjs(source = 'MCI') %>%
     subset(State == 'Minnesota') %>%
     arrange(desc(Year))
 

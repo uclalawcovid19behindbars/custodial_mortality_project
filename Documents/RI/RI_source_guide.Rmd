@@ -28,15 +28,15 @@ Some processing of the files takes place, including the selection of correspondi
 
 ```{r}
 # Load RI decedent data
-ri.deaths <- read_ucla_deaths(agencies = 'RI')
+ri.deaths <- read_CMP_deaths(agencies = 'RI')
 
 # Show variables present in RI decedent data
 colnames(ri.deaths)
 
 # UCLA.ID is not present - please wait for data update to join UCLA facility data
 
-# Compare UCLA data with BJS data
-compare_ucla_bjs(source = 'MCI') %>%
+# Compare CMP data with BJS data
+compare_CMP_bjs(source = 'MCI') %>%
     subset(State == 'Rhode Island') %>%
     arrange(desc(Year))
 

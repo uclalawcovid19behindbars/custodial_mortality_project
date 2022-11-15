@@ -28,18 +28,18 @@ Some processing of the files takes place, including the selection of correspondi
 
 ```{r}
 # Load OK decedent data
-ok.deaths <- read_ucla_deaths(agencies = 'OK')
+ok.deaths <- read_CMP_deaths(agencies = 'OK')
 
 # Show variables present in OK decedent data
 colnames(ok.deaths)
 
 # UCLA.ID is present - join UCLA facility data
 ok.facility <- ok.deaths %>%
-               pull_ucla_fac_data()
+               pull_CMP_fac_data()
 head(ok.facility)
 
-# Compare UCLA data with BJS data
-compare_ucla_bjs(source = 'MCI') %>%
+# Compare CMP data with BJS data
+compare_CMP_bjs(source = 'MCI') %>%
     subset(State == 'Oklahoma') %>%
     arrange(desc(Year))
 

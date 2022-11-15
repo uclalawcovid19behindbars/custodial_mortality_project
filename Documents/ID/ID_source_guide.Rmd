@@ -29,18 +29,18 @@ to UCLA datasets.
 
 ```{r}
 # Load ID decedent data
-id.deaths <- read_ucla_deaths(agencies = 'ID')
+id.deaths <- read_CMP_deaths(agencies = 'ID')
 
 # Show variables present in ID decedent data
 colnames(id.deaths)
 
 # UCLA.ID is present - join UCLA facility data
 id.facility <- id.deaths %>%
-                pull_ucla_fac_data()
+                pull_CMP_fac_data()
 head(id.facility)
 
-# Compare UCLA data with BJS data
-compare_ucla_bjs(source = 'MCI') %>%
+# Compare CMP data with BJS data
+compare_CMP_bjs(source = 'MCI') %>%
     subset(State == 'Idaho') %>%
     arrange(desc(Year))
 
@@ -61,12 +61,12 @@ Some processing of the files takes place.
 
 ```{r}
 # Load ID demographic data
-id.demographics <- harmonize_ucla_dem(agencies = 'ID')
+id.demographics <- harmonize_CMP_dem(agencies = 'ID')
 
 # Show ID demographic data to assess origin type
 head(id.demographics)
 
-# The origin type is distinct. This means that age groups were reported seperately from sex groups for demographic data. In order to construct age and sex groups for a date from this distinct data, we applied reported sex ratios to each age group. This assumption is likely incorrect.   
+# The origin type is distinct. This means that age groups were reported separately from sex groups for demographic data. In order to construct age and sex groups for a date from this distinct data, we applied reported sex ratios to each age group. This assumption is likely incorrect.   
 
 # Plot ID demographic data 
 ggplot() +

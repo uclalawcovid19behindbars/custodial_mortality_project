@@ -28,17 +28,17 @@ Some processing of the files takes place, including the selection of correspondi
 
 ```{r}
 # Load KY decedent data
-ky.deaths <- read_ucla_deaths(agencies = 'KY')
+ky.deaths <- read_CMP_deaths(agencies = 'KY')
 
 # Show variables present in KY decedent data
 colnames(ky.deaths)
 
 # UCLA.ID is present - join UCLA facility data
 ky.deaths %>%
-    pull_ucla_fac_data()
+    pull_CMP_fac_data()
 
-# Compare UCLA data with BJS data
-compare_ucla_bjs(source = 'MCI') %>%
+# Compare CMP data with BJS data
+compare_CMP_bjs(source = 'MCI') %>%
     subset(State == 'Kentucky') %>%
     arrange(desc(Year))
 

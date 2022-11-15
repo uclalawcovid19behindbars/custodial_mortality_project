@@ -19,18 +19,18 @@ Some processing of the files takes place, including the selection of correspondi
 
 ```{r}
 # Load MD decedent data
-md.deaths <- harmonize_ucla_deaths(agencies = 'MD')
+md.deaths <- harmonize_CMP_deaths(agencies = 'MD')
 
 # Show variables present in MD decedent data
 colnames(md.deaths)
 
 # UCLA.ID is present - join UCLA facility data
 md.facility <- md.deaths %>%
-                pull_ucla_fac_data()
+                pull_CMP_fac_data()
 head(md.facility)
 
-# Compare UCLA data with BJS data
-compare_ucla_bjs(source = 'MCI') %>%
+# Compare CMP data with BJS data
+compare_CMP_bjs(source = 'MCI') %>%
     subset(State == 'Maryland') %>%
     arrange(desc(Year))
 
@@ -51,7 +51,7 @@ Some processing of the files takes place.
 
 ```{r}
 # Load MD demographic data
-md.demographics <- harmonize_ucla_dem(agencies = 'MD')
+md.demographics <- harmonize_CMP_dem(agencies = 'MD')
 
 # Show MD demographic data to assess origin type
 head(md.demographics)

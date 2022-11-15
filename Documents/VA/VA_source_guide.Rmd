@@ -28,15 +28,15 @@ Some processing of the files takes place, including the selection of correspondi
 
 ```{r}
 # Load VA decedent data
-va.deaths <- read_ucla_deaths(agencies = 'VA')
+va.deaths <- read_CMP_deaths(agencies = 'VA')
 
 # Show variables present in VA decedent data
 colnames(va.deaths)
 
 # UCLA.ID is not present - please wait for data update to join UCLA facility data
 
-# Compare UCLA data with BJS data
-compare_ucla_bjs(source = 'MCI') %>%
+# Compare CMP data with BJS data
+compare_CMP_bjs(source = 'MCI') %>%
     subset(State == 'Virginia') %>%
     arrange(desc(Year))
 

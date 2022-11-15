@@ -28,15 +28,15 @@ Some processing of the files takes place, including the selection of correspondi
 
 ```{r}
 # Load WI decedent data
-wi.deaths <- read_ucla_deaths(agencies = 'WI')
+wi.deaths <- read_CMP_deaths(agencies = 'WI')
 
 # Show variables present in WI decedent data
 colnames(wi.deaths)
 
 # UCLA.ID is not present - please wait for data update to join UCLA facility data
 
-# Compare UCLA data with BJS data
-compare_ucla_bjs(source = 'MCI') %>%
+# Compare CMP data with BJS data
+compare_CMP_bjs(source = 'MCI') %>%
     subset(State == 'Wisconsin') %>%
     arrange(desc(Year))
 
@@ -57,7 +57,7 @@ Some processing of the files takes place.
 
 ```{r}
 # Load WI demographic data
-wi.demographics <- harmonize_ucla_dem(agencies = 'WI')
+wi.demographics <- harmonize_CMP_dem(agencies = 'WI')
 
 # Show WI demographic data to assess origin type
 head(wi.demographics)

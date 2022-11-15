@@ -19,15 +19,15 @@ Some processing of the files takes place, including the selection of correspondi
 
 ```{r}
 # Load WA decedent data
-wa.deaths <- read_ucla_deaths(agencies = 'WA')
+wa.deaths <- read_CMP_deaths(agencies = 'WA')
 
 # Show variables present in WA decedent data
 colnames(wa.deaths)
 
 # No UCLA.ID is present 
 
-# Compare UCLA data with BJS data
-compare_ucla_bjs(source = 'MCI') %>%
+# Compare CMP data with BJS data
+compare_CMP_bjs(source = 'MCI') %>%
     subset(State == 'Washington') %>%
     arrange(desc(Year))
 

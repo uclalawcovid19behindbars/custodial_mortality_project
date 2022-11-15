@@ -29,17 +29,17 @@ to UCLA datasets.
 
 ```{r}
 # Load PA decedent data
-pa.deaths <- harmonize_ucla_deaths(agencies = 'PA')
+pa.deaths <- harmonize_CMP_deaths(agencies = 'PA')
 
 # Show variables present in PA decedent data
 colnames(pa.deaths)
 
 # UCLA.ID is present - join UCLA facility data
 pa.deaths %>%
-    pull_ucla_fac_data()
+    pull_CMP_fac_data()
 
-# Compare UCLA data with BJS data
-compare_ucla_bjs(source = 'MCI') %>%
+# Compare CMP data with BJS data
+compare_CMP_bjs(source = 'MCI') %>%
     subset(State == 'Pennsylvania') %>%
     arrange(desc(Year))
 
@@ -60,7 +60,7 @@ Some processing of the files takes place.
 
 ```{r}
 # Load PA demographic data
-pa.demographics <- harmonize_ucla_dem(agencies = 'PA')
+pa.demographics <- harmonize_CMP_dem(agencies = 'PA')
 
 # Show PA demographic data to assess origin type
 head(pa.demographics)

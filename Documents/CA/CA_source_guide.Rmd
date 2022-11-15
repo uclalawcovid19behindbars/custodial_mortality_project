@@ -29,21 +29,21 @@ to UCLA datasets.
 
 ```{r}
 # Load CA decedent data
-ca.deaths <- read_ucla_deaths(agencies = 'CA')
+ca.deaths <- read_CMP_deaths(agencies = 'CA')
 
 # Show variables present in CA decedent data
 colnames(ca.deaths)
 
 # UCLA.ID is present - join UCLA facility data
 ca.deaths %>%
-    pull_ucla_fac_data()
+    pull_CMP_fac_data()
 
-# Compare UCLA data with BJS data
-compare_ucla_bjs(source = 'MCI') %>%
+# Compare CMP data with BJS data
+compare_CMP_bjs(source = 'MCI') %>%
     subset(State == 'California') %>%
     arrange(desc(Year))
 
-# Plot CA decedent data (wrangled to monthly numbers)
+# Plot CA decedent data 
 ggplot() +
     geom_line(data = ca.deaths %>% group_by(Year) %>% summarise(Total.Deaths = n()),aes(x = Year, y = Total.Deaths))
 
@@ -60,12 +60,12 @@ Some processing of the files takes place. Example files included in correspondin
 
 ```{r}
 # Load CA demographic data
-ca.demographics <- harmonize_ucla_dem(agencies = 'CA')
+ca.demographics <- harmonize_CMP_dem(agencies = 'CA')
 
 # Show CA demographic data to assess origin type
 head(ca.demographics)
 
-# The origin type is distinct. This means that age groups were reported seperately from sex groups for demographic data. In order to construct age and sex groups for a date from this distinct data, we applied reported sex ratios to each age group. This assumption is likely incorrect.
+# The origin type is distinct. This means that age groups were reported separately from sex groups for demographic data. In order to construct age and sex groups for a date from this distinct data, we applied reported sex ratios to each age group. This assumption is likely incorrect.
 
 # Plot CA demographic data 
 ggplot() +

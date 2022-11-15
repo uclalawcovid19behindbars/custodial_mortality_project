@@ -19,15 +19,15 @@ Some processing of the files takes place, including the selection of correspondi
 
 ```{r}
 # Load ND decedent data
-nd.deaths <- read_ucla_deaths(agencies = 'ND')
+nd.deaths <- read_CMP_deaths(agencies = 'ND')
 
 # Show variables present in ND decedent data
 colnames(nd.deaths)
 
 # No UCLA.ID is present 
 
-# Compare UCLA data with BJS data
-compare_ucla_bjs(source = 'MCI') %>%
+# Compare CMP data with BJS data
+compare_CMP_bjs(source = 'MCI') %>%
     subset(State == 'North Dakota') %>%
     arrange(desc(Year))
 

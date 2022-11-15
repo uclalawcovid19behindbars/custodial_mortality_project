@@ -28,15 +28,15 @@ Some processing of the files takes place, including the selection of correspondi
 
 ```{r}
 # Load NH decedent data
-nh.deaths <- read_ucla_deaths(agencies = 'NH')
+nh.deaths <- read_CMP_deaths(agencies = 'NH')
 
 # Show variables present in NH decedent data
 colnames(nh.deaths)
 
 # UCLA.ID is not present - please wait for data update to join UCLA facility data
 
-# Compare UCLA data with BJS data
-compare_ucla_bjs(source = 'MCI') %>%
+# Compare CMP data with BJS data
+compare_CMP_bjs(source = 'MCI') %>%
     subset(State == 'New Hampshire') %>%
     arrange(desc(Year))
 

@@ -19,18 +19,18 @@ Some processing of the files takes place, including the selection of correspondi
 
 ```{r}
 # Load SD decedent data
-sd.deaths <- read_ucla_deaths(agencies = 'SD')
+sd.deaths <- read_CMP_deaths(agencies = 'SD')
 
 # Show variables present in SD decedent data
 colnames(sd.deaths)
 
 # UCLA.ID is present - join UCLA facility data
 sd.facility <- sd.deaths %>%
-                pull_ucla_fac_data()
+                pull_CMP_fac_data()
 head(sd.facility)
 
-# Compare UCLA data with BJS data
-compare_ucla_bjs(source = 'MCI') %>%
+# Compare CMP data with BJS data
+compare_CMP_bjs(source = 'MCI') %>%
     subset(State == 'South Dakota') %>%
     arrange(desc(Year))
 

@@ -29,31 +29,24 @@ to UCLA datasets.
 
 ```{r}
 # Load CO decedent data
-co.deaths <- harmonize_ucla_deaths(agencies = 'CO')
+co.deaths <- harmonize_CMP_deaths(agencies = 'CO')
 
 # Show variables present in CO decedent data
 colnames(co.deaths)
 
 # UCLA.ID is present - join UCLA facility data
 co.facility <- co.deaths %>%
-                pull_ucla_fac_data()
+                pull_CMP_fac_data()
 head(co.facility)
 
-# Compare UCLA data with BJS data
-compare_ucla_bjs(source = 'MCI') %>%
+# Compare CMP data with BJS data
+compare_CMP_bjs(source = 'MCI') %>%
     subset(State == 'Colorado') %>%
     arrange(desc(Year))
 
-# Plot CO decedent data (wrangled to monthly numbers)
+# Plot CO decedent data 
 ggplot() +
-    geom_line(data = co.deaths %>% group_by(Year, Month) %>% summarise(Total.Deaths = n()) %>% 
-                  mutate(Date = as.Date(str_c(Year,Month,'01'), format = '%Y%B%d')),
-              aes(x = Date, y = Total.Deaths)
-              ) +
-    geom_smooth(data = co.deaths %>% group_by(Year, Month) %>% summarise(Total.Deaths = n()) %>% 
-                  mutate(Date = as.Date(str_c(Year,Month,'01'), format = '%Y%B%d')),
-              aes(x = Date, y = Total.Deaths)
-              )
+    geom_line(data = co.deaths %>% group_by(Year) %>% summarise(Total.Deaths = n()),aes(x = Year, y = Total.Deaths))
 
 ```
 
@@ -68,7 +61,7 @@ Some processing of the files takes place.
 
 ```{r}
 # Load CO demographic data
-co.demographics <- harmonize_ucla_dem(agencies = 'CO')
+co.demographics <- harmonize_CMP_dem(agencies = 'CO')
 
 # Show CO demographic data to assess origin type
 head(co.demographics)

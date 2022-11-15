@@ -29,15 +29,15 @@ to UCLA datasets.
 
 ```{r}
 # Load NM decedent data
-nm.deaths <- read_ucla_deaths(agencies = 'NM')
+nm.deaths <- read_CMP_deaths(agencies = 'NM')
 
 # Show variables present in NM decedent data
 colnames(nm.deaths)
 
 # UCLA.ID is not present - please wait for data update to join UCLA facility data
 
-# Compare UCLA data with BJS data
-compare_ucla_bjs(source = 'MCI') %>%
+# Compare CMP data with BJS data
+compare_CMP_bjs(source = 'MCI') %>%
     subset(State == 'New Mexico') %>%
     arrange(desc(Year))
 

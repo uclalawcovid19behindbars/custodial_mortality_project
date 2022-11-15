@@ -29,17 +29,17 @@ to UCLA datasets.
 
 ```{r}
 # Load TX decedent data
-tx.deaths <- read_ucla_deaths(agencies = 'TX')
+tx.deaths <- read_CMP_deaths(agencies = 'TX')
 
 # Show variables present in TX decedent data
 colnames(tx.deaths)
 
 # UCLA.ID is present - join UCLA facility data
 tx.deaths %>%
-    pull_ucla_fac_data()
+    pull_CMP_fac_data()
 
-# Compare UCLA data with BJS data
-compare_ucla_bjs(source = 'MCI') %>%
+# Compare CMP data with BJS data
+compare_CMP_bjs(source = 'MCI') %>%
     subset(State == 'Texas') %>%
     arrange(desc(Year))
 
@@ -60,7 +60,7 @@ Some processing of the files takes place.
 
 ```{r}
 # Load TX demographic data
-tx.demographics <- harmonize_ucla_dem(agencies = 'TX')
+tx.demographics <- harmonize_CMP_dem(agencies = 'TX')
 
 # Show TX demographic data to assess origin type
 head(tx.demographics)

@@ -28,17 +28,17 @@ Some processing of the files takes place, including the selection of correspondi
 
 ```{r}
 # Load MI decedent data
-mi.deaths <- read_ucla_deaths(agencies = 'MI')
+mi.deaths <- read_CMP_deaths(agencies = 'MI')
 
 # Show variables present in MI decedent data
 colnames(mi.deaths)
 
 # UCLA.ID is present - join UCLA facility data
 mi.deaths %>%
-    pull_ucla_fac_data()
+    pull_CMP_fac_data()
 
-# Compare UCLA data with BJS data
-compare_ucla_bjs(source = 'MCI') %>%
+# Compare CMP data with BJS data
+compare_CMP_bjs(source = 'MCI') %>%
     subset(State == 'Michigan') %>%
     arrange(desc(Year))
 
@@ -59,12 +59,12 @@ Some processing of the files takes place.
 
 ```{r}
 # Load MI demographic data
-mi.demographics <- harmonize_ucla_dem(agencies = 'MI')
+mi.demographics <- harmonize_CMP_dem(agencies = 'MI')
 
 # Show MI demographic data to assess origin type
 head(mi.demographics)
 
-# The origin type is distinct. This means that age groups were reported seperately from sex groups for demographic data. In order to construct age and sex groups for a date from this distinct data, we applied reported sex ratios to each age group. This assumption is likely incorrect. 
+# The origin type is distinct. This means that age groups were reported separately from sex groups for demographic data. In order to construct age and sex groups for a date from this distinct data, we applied reported sex ratios to each age group. This assumption is likely incorrect. 
 
 # Plot MI demographic data 
 ggplot() +

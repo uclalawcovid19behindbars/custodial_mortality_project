@@ -29,17 +29,17 @@ to UCLA datasets.
 
 ```{r}
 # Load IL decedent data
-il.deaths <- read_ucla_deaths(agencies = 'IL')
+il.deaths <- read_CMP_deaths(agencies = 'IL')
 
 # Show variables present in IL decedent data
 colnames(il.deaths)
 
 # UCLA.ID is present - join UCLA facility data
 il.deaths %>%
-    pull_ucla_fac_data()
+    pull_CMP_fac_data()
 
-# Compare UCLA data with BJS data
-compare_ucla_bjs(source = 'MCI') %>%
+# Compare CMP data with BJS data
+compare_CMP_bjs(source = 'MCI') %>%
     subset(State == 'Illinois') %>%
     arrange(desc(Year))
 
@@ -60,7 +60,7 @@ Some processing of the files takes place.
 
 ```{r}
 # Load IL demographic data
-il.demographics <- harmonize_ucla_dem(agencies = 'IL')
+il.demographics <- harmonize_CMP_dem(agencies = 'IL')
 
 # Show IL demographic data to assess origin type
 head(il.demographics)

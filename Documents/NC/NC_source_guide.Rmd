@@ -28,17 +28,17 @@ Some processing of the files takes place, including the selection of correspondi
 
 ```{r}
 # Load NC decedent data
-nc.deaths <- harmonize_ucla_deaths(agencies = 'NC')
+nc.deaths <- harmonize_CMP_deaths(agencies = 'NC')
 
 # Show variables present in NC decedent data
 colnames(nc.deaths)
 
 # UCLA.ID is present - join UCLA facility data
 nc.deaths %>%
-    pull_ucla_fac_data()
+    pull_CMP_fac_data()
 
-# Compare UCLA data with BJS data
-compare_ucla_bjs(source = 'MCI') %>%
+# Compare CMP data with BJS data
+compare_CMP_bjs(source = 'MCI') %>%
     subset(State == 'North Carolina') %>%
     arrange(desc(Year))
 
@@ -58,7 +58,7 @@ Some processing of the files takes place.
 
 ```{r}
 # Load NC demographic data
-nc.demographics <- harmonize_ucla_dem(agencies = 'NC')
+nc.demographics <- harmonize_CMP_dem(agencies = 'NC')
 
 # Show NC demographic data to assess origin type
 head(nc.demographics)

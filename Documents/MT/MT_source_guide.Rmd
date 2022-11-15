@@ -28,18 +28,18 @@ Some processing of the files takes place, including the selection of correspondi
 
 ```{r}
 # Load MT decedent data
-mt.deaths <- read_ucla_deaths(agencies = 'MT')
+mt.deaths <- read_CMP_deaths(agencies = 'MT')
 
 # Show variables present in MT decedent data
 colnames(mt.deaths)
 
 # UCLA.ID is present - join UCLA facility data
 mt.facility <- mt.deaths %>%
-                pull_ucla_fac_data()
+                pull_CMP_fac_data()
 head(mt.facility)
 
-# Compare UCLA data with BJS data
-compare_ucla_bjs(source = 'MCI') %>%
+# Compare CMP data with BJS data
+compare_CMP_bjs(source = 'MCI') %>%
     subset(State == 'Montana') %>%
     arrange(desc(Year))
 
@@ -60,7 +60,7 @@ Some processing of the files takes place.
 
 ```{r}
 # Load MT demographic data
-mt.demographics <- harmonize_ucla_dem(agencies = 'MT')
+mt.demographics <- harmonize_CMP_dem(agencies = 'MT')
 
 # Show MT demographic data to assess origin type
 head(mt.demographics)

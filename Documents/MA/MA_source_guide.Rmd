@@ -28,17 +28,17 @@ Some processing of the files takes place, including the selection of correspondi
 
 ```{r}
 # Load MA decedent data
-ma.deaths <- read_ucla_deaths(agencies = 'MA')
+ma.deaths <- read_CMP_deaths(agencies = 'MA')
 
 # Show variables present in MA decedent data
 colnames(ma.deaths)
 
 # UCLA.ID is present - join UCLA facility data
 ma.deaths %>%
-    pull_ucla_fac_data()
+    pull_CMP_fac_data()
 
-# Compare UCLA data with BJS data
-compare_ucla_bjs(source = 'MCI') %>%
+# Compare CMP data with BJS data
+compare_CMP_bjs(source = 'MCI') %>%
     subset(State == 'Massachusetts') %>%
     arrange(desc(Year))
 
@@ -59,12 +59,12 @@ Some processing of the files takes place.
 
 ```{r}
 # Load MA demographic data
-ma.demographics <- harmonize_ucla_dem(agencies = 'MA')
+ma.demographics <- harmonize_CMP_dem(agencies = 'MA')
 
 # Show MA demographic data to assess origin type
 head(ma.demographics)
 
-# The origin type is distinct. This means that age groups were reported seperately from sex groups for demographic data. In order to construct age and sex groups for a date from this distinct data, we applied reported sex ratios to each age group. This assumption is likely incorrect.
+# The origin type is distinct. This means that age groups were reported separately from sex groups for demographic data. In order to construct age and sex groups for a date from this distinct data, we applied reported sex ratios to each age group. This assumption is likely incorrect.
 
 # Plot MA demographic data 
 ggplot() +

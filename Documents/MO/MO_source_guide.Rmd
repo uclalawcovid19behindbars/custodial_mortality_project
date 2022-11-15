@@ -28,15 +28,15 @@ Some processing of the files takes place, including the selection of correspondi
 
 ```{r}
 # Load MO decedent data
-mo.deaths <- read_ucla_deaths(agencies = 'MO')
+mo.deaths <- read_CMP_deaths(agencies = 'MO')
 
 # Show variables present in MO decedent data
 colnames(mo.deaths)
 
 # UCLA.ID is not present - please wait for data update to join UCLA facility data
 
-# Compare UCLA data with BJS data
-compare_ucla_bjs(source = 'MCI') %>%
+# Compare CMP data with BJS data
+compare_CMP_bjs(source = 'MCI') %>%
     subset(State == 'Missouri') %>%
     arrange(desc(Year))
 
@@ -57,7 +57,7 @@ Some processing of the files takes place.
 
 ```{r}
 # Load MO demographic data
-mo.demographics <- harmonize_ucla_dem(agencies = 'MO')
+mo.demographics <- harmonize_CMP_dem(agencies = 'MO')
 
 # Show MO demographic data to assess origin type
 head(mo.demographics)

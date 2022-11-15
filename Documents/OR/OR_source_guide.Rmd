@@ -29,18 +29,18 @@ to UCLA datasets.
 
 ```{r}
 # Load OR decedent data
-or.deaths <- read_ucla_deaths(agencies = 'OR')
+or.deaths <- read_CMP_deaths(agencies = 'OR')
 
 # Show variables present in OR decedent data
 colnames(or.deaths)
 
 # UCLA.ID is present - join UCLA facility data
 or.facility <- or.deaths %>%
-                pull_ucla_fac_data()
+                pull_CMP_fac_data()
 head(or.facility)
 
-# Compare UCLA data with BJS data
-compare_ucla_bjs(source = 'MCI') %>%
+# Compare CMP data with BJS data
+compare_CMP_bjs(source = 'MCI') %>%
     subset(State == 'Oregon') %>%
     arrange(desc(Year))
 
@@ -59,7 +59,7 @@ Some processing of the files takes place.
 
 ```{r}
 # Load OR demographic data
-or.demographics <- harmonize_ucla_dem(agencies = 'OR')
+or.demographics <- harmonize_CMP_dem(agencies = 'OR')
 
 # Show OR demographic data to assess origin type
 head(or.demographics)

@@ -19,21 +19,21 @@ Some processing of the files takes place, including the selection of correspondi
 
 ```{r}
 # Load UT decedent data
-ut.deaths <- read_ucla_deaths(agencies = 'UT')
+ut.deaths <- read_CMP_deaths(agencies = 'UT')
 
 # Show variables present in UT decedent data
 colnames(ut.deaths)
 
 # No UCLA.ID is present 
 
-# Compare UCLA data with BJS data
-compare_ucla_bjs(source = 'MCI') %>%
+# Compare CMP data with BJS data
+compare_CMP_bjs(source = 'MCI') %>%
     subset(State == 'Utah') %>%
     arrange(desc(Year))
 
 # Plot UT decedent data 
 ggplot() +
-    geom_line(data = ak.deaths %>% group_by(Year) %>% summarise(Total.Deaths = n()),aes(x = Year, y = Total.Deaths))
+    geom_line(data = ut.deaths %>% group_by(Year) %>% summarise(Total.Deaths = sum(Total.Deaths)), aes(x = Year, y = Total.Deaths))
 
 ```
 

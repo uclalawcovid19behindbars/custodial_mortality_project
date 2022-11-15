@@ -28,17 +28,17 @@ Some processing of the files takes place, including the selection of correspondi
 
 ```{r}
 # Load ME decedent data
-me.deaths <- read_ucla_deaths(agencies = 'ME')
+me.deaths <- read_CMP_deaths(agencies = 'ME')
 
 # Show variables present in ME decedent data
 colnames(me.deaths)
 
 # UCLA.ID is present - join UCLA facility data
 me.deaths %>%
-    pull_ucla_fac_data()
+    pull_CMP_fac_data()
 
-# Compare UCLA data with BJS data
-compare_ucla_bjs(source = 'MCI') %>%
+# Compare CMP data with BJS data
+compare_CMP_bjs(source = 'MCI') %>%
     subset(State == 'Maine') %>%
     arrange(desc(Year))
 

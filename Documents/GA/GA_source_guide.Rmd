@@ -29,15 +29,15 @@ to UCLA datasets.
 
 ```{r}
 # Load GA decedent data
-ga.deaths <- read_ucla_deaths(agencies = 'GA')
+ga.deaths <- read_CMP_deaths(agencies = 'GA')
 
 # Show variables present in GA decedent data
 colnames(ga.deaths)
 
 # UCLA.ID is not present - please wait for data update to join UCLA facility data
 
-# Compare UCLA data with BJS data
-compare_ucla_bjs(source = 'MCI') %>%
+# Compare CMP data with BJS data
+compare_CMP_bjs(source = 'MCI') %>%
     subset(State == 'Georgia') %>%
     arrange(desc(Year))
 
@@ -58,7 +58,7 @@ Some processing of the files takes place.
 
 ```{r}
 # Load GA demographic data
-ga.demographics <- harmonize_ucla_dem(agencies = 'GA')
+ga.demographics <- harmonize_CMP_dem(agencies = 'GA')
 
 # Show GA demographic data to assess origin type
 head(ga.demographics)

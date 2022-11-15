@@ -29,17 +29,17 @@ to UCLA datasets.
 
 ```{r}
 # Load NY decedent data
-ny.deaths <- read_ucla_deaths(agencies = 'NY')
+ny.deaths <- read_CMP_deaths(agencies = 'NY')
 
 # Show variables present in NY decedent data
 colnames(ny.deaths)
 
 # UCLA.ID is present - join UCLA facility data
 ny.deaths %>%
-    pull_ucla_fac_data()
+    pull_CMP_fac_data()
 
-# Compare UCLA data with BJS data
-compare_ucla_bjs(source = 'MCI') %>%
+# Compare CMP data with BJS data
+compare_CMP_bjs(source = 'MCI') %>%
     subset(State == 'New York') %>%
     arrange(desc(Year))
 
@@ -60,7 +60,7 @@ Some processing of the files takes place.
 
 ```{r}
 # Load NY demographic data
-ny.demographics <- harmonize_ucla_dem(agencies = 'NY')
+ny.demographics <- harmonize_CMP_dem(agencies = 'NY')
 
 # Show NY demographic data to assess origin type
 head(ny.demographics)

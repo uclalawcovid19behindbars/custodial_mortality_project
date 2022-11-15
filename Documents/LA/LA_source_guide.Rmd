@@ -29,24 +29,21 @@ to UCLA datasets.
 
 ```{r}
 # Load LA decedent data
-la.deaths <- read_ucla_deaths(all.agencie = FALSE, agencies = 'LA')
+la.deaths <- read_CMP_deaths(all.agencies = FALSE, agencies = 'LA')
 
 # Show variables present in LA decedent data
 colnames(la.deaths)
 
 # UCLA.ID is not present - please wait for data update to join UCLA facility data
 
-# Compare UCLA data with BJS data
-compare_ucla_bjs(source = 'MCI') %>%
+# Compare CMP data with BJS data
+compare_CMP_bjs(source = 'MCI') %>%
     subset(State == 'Louisiana') %>%
     arrange(desc(Year))
 
-# Plot LA decedent data (wrangled to monthly numbers)
+# Plot LA decedent data 
 ggplot() +
-    geom_line(data = la.deaths %>% group_by(Year, Month) %>% summarise(Total.Deaths = n()) %>% 
-                  mutate(Date = as.Date(str_c(Year,Month,'01'), format = '%Y%B%d')),
-              aes(x = Date, y = Total.Deaths)
-              )
+    geom_line(data = la.deaths %>% group_by(Year) %>% summarise(Total.Deaths = n()),aes(x = Year, y = Total.Deaths))
 
 ```
 

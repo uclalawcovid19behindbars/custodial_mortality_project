@@ -29,17 +29,17 @@ to UCLA datasets.
 
 ```{r}
 # Load FL decedent data
-fl.deaths <- read_ucla_deaths(agencies = 'FL')
+fl.deaths <- read_CMP_deaths(agencies = 'FL')
 
 # Show variables present in FL decedent data
 colnames(fl.deaths)
 
 # UCLA.ID is present - join UCLA facility data
 fl.deaths %>%
-    pull_ucla_fac_data()
+    pull_CMP_fac_data()
 
-# Compare UCLA data with BJS data
-compare_ucla_bjs(source = 'MCI') %>%
+# Compare CMP data with BJS data
+compare_CMP_bjs(source = 'MCI') %>%
     subset(State == 'Florida') %>%
     arrange(desc(Year))
 
@@ -60,7 +60,7 @@ Some processing of the files takes place.
 
 ```{r}
 # Load FL demographic data
-fl.demographics <- harmonize_ucla_dem(agencies = 'FL')
+fl.demographics <- harmonize_CMP_dem(agencies = 'FL')
 
 # Show FL demographic data to assess origin type
 head(fl.demographics)
