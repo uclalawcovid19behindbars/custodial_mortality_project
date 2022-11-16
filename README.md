@@ -73,7 +73,7 @@ Reasons for differences and manipulation steps:
 | Georgia       | Undetermined                                                                                              | None                     |
 | Hawaii        | Error in agency reporting to BJS - Agency is correcting this issue                                        | None                     |
 | Louisiana     | Potentially differences in LDPS reporting post-conviction deaths in jails - see Incarceration Transparency| None                     |
-| Maryland      | MDPS also provided deaths in 'Home Detention Units'                                                       | HDU observations removed |
+| Maryland      | MDPS also provided deaths in 'Home Detention Units' and pre-trial facilities                              | Observations removed     |
 | Missouri      | Undetermined                                                                                              | None                     |
 | Nevada        | Undetermined                                                                                              | None                     |
 | Oklahoma      | Undetermined                                                                                              | None                     |
