@@ -159,7 +159,7 @@ CMP.dem <- read_CMP_dem(all.agencies = FALSE, agencies = c('CA', 'NC', 'NV', 'AR
 CMP.dem.h <- harmonize_CMP_dem(agencies = c('GA', 'IL', 'MA', 'MI', 'MT', 'NC', 'NV'))
 
 # Harmonize CMP decedent data to demographic data (for analysis)
-ucla.CMP.h <- harmonize_CMP_deaths(agencies = c('GA', 'IL', 'MA', 'MI', 'MT', 'NC', 'NV'))
+CMP.deaths.h <- harmonize_CMP_deaths(agencies = c('GA', 'IL', 'MA', 'MI', 'MT', 'NC', 'NV'))
 
 # Interpolate harmonized CMP demographic data
 'CA' %>%
