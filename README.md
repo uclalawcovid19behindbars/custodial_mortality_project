@@ -69,7 +69,7 @@ Reasons for differences and manipulation steps:
 |---------------|-----------------------------------------------------------------------------------------------------------|--------------------------|
 | California    | Undetermined                                                                                              | None                     |
 | Colorado      | CDOC reported more types of deaths to BJS than deaths in CO prisons (i.e. fugitives, supervision programs)| None                     |
-| Florida       | Undetermined                                                                                              | None                     |
+| Florida       | Problem with listed date of death for roster data source                                                  | Different data source used|
 | Georgia       | Undetermined                                                                                              | None                     |
 | Hawaii        | Error in agency reporting to BJS - Agency is correcting this issue                                        | None                     |
 | Louisiana     | Potentially differences in LDPS reporting post-conviction deaths in jails - see Incarceration Transparency| None                     |
@@ -80,8 +80,15 @@ Reasons for differences and manipulation steps:
 | Oregon        | Error in agency reporting to BJS                                                                          | None                     |
 | Pennsylvania  | Undetermined                                                                                              | None                     |
 | Texas         | Potentially differences in which facility deaths are reported to BJS - see Texas Justice Initiative       | None                     |
-| West Virginia | WVDCR oversees prisons and jails - when jails are removed, annual totals match                            | None
+| West Virginia | WVDCR oversees prisons and jails - when jails are removed, annual totals match                            | Jail observations removed
 
+Other manipulation steps taken to limit load data to prison / post-conviction facilities
+
+| Prison Agency | Reasons for Manipulation                                                                                  | Mainuplation Made        |
+|---------------|-----------------------------------------------------------------------------------------------------------|--------------------------|
+| California    | Deaths in California Jails are available from the CA DoJ                                                  | Observations removed     |
+| New Hampshire | Deaths in Secure Psychiatric Facilities Included                                                          | Observations removed     |
+| New Jersey    | Deaths in Special Treatment Units Included                                                                | Observations removed  
 
 ## Structure and Organization of Data Files
 
@@ -109,7 +116,7 @@ The `Other` sub-folder contains data on deaths in custody which are not from sta
 
 The `Output` sub-folder contains current aggregate summary tables for mortality in state prisons which we have produced using the data in the `Raw` sub-folder.
 
-The `Raw` sub-folder contains data files on `Deaths` in state prisons that our project has collected and standardized. There are three types of `Raw` death data: `Annual`, `Monthly`, and `Individual`. The `Annual` sub-folder contains data files from state prison systems for which we gathered data reported as annual aggregates. The `Monthly` sub-folder contains data files from state prison systems for which we gathered data reported as monthly aggregates. The `Individual` sub-folder contains data files from state prison systems for which we gathered data with an individual data of death for each reported death. Each `Raw` file is titled by the state abbrevation for the state prison system it covers and the name of the time interval of reporting. 
+The `Raw` sub-folder contains data files on `Deaths` in state prisons that our project has collected and standardized. There are four types of `Raw` death data: `Annual`, `Monthly`, `Individual`, and `Additional`. The `Annual` sub-folder contains data files from state prison systems for which we gathered data reported as annual aggregates. The `Monthly` sub-folder contains data files from state prison systems for which we gathered data reported as monthly aggregates. The `Individual` sub-folder contains data files from state prison systems for which we gathered data with an individual data of death for each reported death. The `Additional` sub-folder contains data files from state prisons for which we have separated observations on deaths in custody due to discrepancy inquiries or the inclusion of non-prison / post-conviction facilities. Each `Raw` file is titled by the state abbrevation for the state prison system it covers and the name of the time interval of reporting. 
 
 The `Raw` sub-folder also contains data files on `Demographics` in state prisons that our project has collected and standardized. There are two types of of `Raw` demographics data: `Combined` and `Distinct`. The `Combined` sub-folder contains data files from state prisons that report information on the total population by age group and sex. The `Distinct` sub-folder contains data files from state prisons that report information on the total population by age group and the total population by sex separately.   
 
