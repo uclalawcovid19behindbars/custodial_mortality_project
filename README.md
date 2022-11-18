@@ -40,9 +40,9 @@ Agencies of interest and status of validation:
 
 | Prison Agency       | Largest difference with MCI Reports        | Outreach Status                                                              |
 |---------------------|--------------------------------------------|------------------------------------------------------------------------------|
-| California          | 32 less than BJS (2005)                    | No response to letter sent to CDCR in Apr - new letter sent Oct 2022         |
-| Colorado            | 6 less than BJS (2015)                     | Letter sent to CDOC in Apr - received response in Apr 2022                   |
-| Florida             | 28 more than BJS (2016)                    | New letter for FLDOC needed for new data                                     |
+| California          | 32 less than BJS (2005)                    | CDCR investigating source of discrepancies a.o. Nov 2022                     |
+| Colorado            | 6 less than BJS (2015)                     | Letter sent to CDOC in Apr - received response in Apr 2022 (see below)       |
+| Florida             | 28 more than BJS (2016)                    | Letter sent to FLDOC in Apr - received response in Apr 2022 (see below)      |
 | Georgia             | 12 more than BJS (2015/2018)               | No response to letter sent to GDC in Apr - new letter sent Oct 2022          |
 | Hawaii              | 7 more than BJS (2017)                     | Letter sent to HDPS in Apr - response received - no changes needed           |
 | Louisiana           | 18 less than BJS (2015)                    | See Incarceration Transparency                                               |
