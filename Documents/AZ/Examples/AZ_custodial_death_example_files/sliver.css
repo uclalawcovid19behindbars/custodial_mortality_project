@@ -1,0 +1,119 @@
+.sliver-ul
+    {
+	margin: 0;
+	text-indent: 0;
+	padding: 0;
+	width: 100%;
+    }
+
+.sliver-container
+        {
+            background: rgb(68, 68, 68);
+            width: 100%;
+	    line-height: 200%;
+	    overflow: auto;
+            background-image: linear-gradient(bottom, rgb(35,35,35) 0%, rgb(68,68,68) 62%);
+            background-image: -o-linear-gradient(bottom, rgb(35,35,35) 0%, rgb(68,68,68) 62%);
+            background-image: -moz-linear-gradient(bottom, rgb(35,35,35) 0%, rgb(68,68,68) 62%);
+            background-image: -webkit-linear-gradient(bottom, rgb(35,35,35) 0%, rgb(68,68,68) 62%);
+            background-image: -ms-linear-gradient(bottom, rgb(35,35,35) 0%, rgb(68,68,68) 62%);
+            background-image: -webkit-gradient(
+	                            linear,
+	                            left bottom,
+	                            left top,
+	                            color-stop(0, rgb(35,35,35)),
+	                            color-stop(0.62, rgb(68,68,68))
+            );
+        }
+
+#sliver-logo
+    {
+	width: auto;
+        vertical-align: middle;
+	margin-left: 15px;
+    }
+
+.sliver-img
+    {
+        width: auto;
+        vertical-align: middle;
+	opacity: 0.6;
+    }
+
+.sliver-img2
+    {
+
+        vertical-align: middle;
+	opacity: 0.6;
+    }
+
+.sliver-container a
+    {
+        font-family: Georgia, serif;
+	font-size: 90%;
+	padding: 4px;
+	color: #c4ced8 !important;
+        text-decoration: none;
+    }
+
+.sliver-container a img
+    {
+        border: 0;
+    }
+
+.sliver-li-left
+    {
+        margin: 0 3px 0 10px;
+        padding: 0;
+        list-style-type: none;
+        list-style-image: none;
+        float: left;
+    }
+
+.sliver-li-right
+    {
+        margin: 0 10px 0 3px;
+        padding: 0;
+        list-style-type: none;
+        list-style-image: none;
+        float: right;
+        }
+
+         @media screen and (max-width:932px)
+        {
+            #sliver-logo, .hide, .hideTitle
+            {
+                display: none;
+            }
+        }
+
+	  @media screen and (max-width:510px)
+        {
+            .sliver-img
+            {
+                display: none;
+            }
+        }
+
+
+.sliver-container span.ext { display: none }
+
+.alert-link {
+    color: red;
+	font-size: 150%;
+}
+
+.sliver-bottom{
+  color: #c4ced8;
+  float: left;
+  width: 100%;
+  text-align: center;
+  font-family: Georgia, serif;
+  font-size: 100%;
+}
+.sliver-container .sliver-bottom a {
+  font-family: Georgia, serif;
+  padding: 4px;
+  color: white !important;
+  text-decoration: underline;
+}

@@ -1,0 +1,542 @@
+/*@import url('https://fonts.googleapis.com/css?family=Lato');*/
+body {
+	font-family:verdana, sans-serif;
+}
+.grid-container{ /*Sets overall max width of the site*/
+	max-width:980px;
+}
+a {/*sets default link color
+	color:#2f87c1;*/
+	color:#2B7BB0;
+}
+p {
+	width:100%;	
+}
+h3 {
+	clear:both;
+}
+a:hover {/*Sets underline hover for all links*/
+	text-decoration:underline;	
+}
+	a:focus {/*Sets Focus Visible for tabbing for all links*/
+  outline: 3px solid orange;
+  text-decoration:underline;
+}
+dt, dd {/*Floats definition list items together on one line*/
+	margin-bottom:10px;
+}
+dt {/*Definition list item pairs have their own line and sets spacing between item and definition*/
+	min-width:75px;
+	line-height:1.25em;
+}
+dd {/*Definition list setting width of definitions*/
+	line-height:1.25em;	
+}
+.small {
+	font-size:0.75em;	
+}
+.clear {/*General float clearing class*/
+	clear:both;	
+}
+.center {/*generic center align style*/
+	text-align:center;	
+}
+.accent {/*generic accent style - red text*/
+	color:#C81D25;
+}
+.callout.primary {/*Modified styles for primary callout Foundation base class*/
+	background-color:#1987B9;
+	color:#fff;
+}
+.header {/*Site header container*/
+	/*min-width:980px;
+	height:136px;
+	background-image:url(/images/style/headerBG.jpg);	
+	background-position:0 0;
+	background-repeat:no-repeat;*/
+	background-color: #121d32;	
+	margin:0;
+	padding:0 0 13px 0;
+}
+.siteTitle {/*Main site heading group container*/
+	max-width:315px;
+	padding-top:35px;
+	color:#fff;
+}
+.mainTitle {/*Main site title "Florida Department of Corrections" and underline spacer*/
+	font-size:1.25rem;
+	padding-bottom:5px;
+	border-bottom:1px solid #fff;	
+	display:block;
+}
+.mainTitle a {
+	color:#fff;	
+}
+.subTitle {/*Sub heading quote below line*/
+	font-size:0.75rem;
+	padding-top:7px;
+	display:block;	
+}
+.rightHead {/*Right side box including social icons, gov name, sec name and search box*/
+	padding-top:10px;
+}
+.headSeal {
+	padding-top:15px;	
+}
+.governorName, .secretaryName{/*Styles for names of gov and sec above search box*/
+	display:block;
+	font-size:0.75rem;
+	font-weight:bold;
+	padding:3px 0;
+	color:#fff;	
+}
+#query-field {/*Header right side search box height*/
+	margin-top:3px;
+	height:25px;	
+}
+.menuContainer {/*Main site menu container just below the header*/
+	background-color: #c8c8c8;	
+}
+.hpHead .menuContainer {/*Main site menu container just below the header - special class for homepage only
+	height:75px;*/
+}
+.menuContainer ul, .facMenu{/*Main site menu list*/
+	max-width:1200px;
+	margin: 0 auto;	
+}
+.sectionMenu {
+	margin:0 auto;
+	text-align:center;
+	max-width:980px;
+	width:fit-content;
+	width: -webkit-fit-content;
+    width: -moz-fit-content;
+}
+.menu a, .menu a:visited {/*Link styles for the main menu*/
+	font-size:0.8em;
+	font-weight:bold;
+	color:#000;
+}
+.menu a:hover {/*Mousover background color change for main menu items*/
+	background-color:#f2f2f2;	
+}
+.hpHead .menu li:nth-child(1) a {
+	background:url(/images/hpSearch.png) top center no-repeat #c8c8c8;
+}
+.hpHead .menu li:nth-child(1) a:hover {
+	background:url(/images/hpSearch.png) top center no-repeat #f2f2f2;
+}
+.hpHead .menu li:nth-child(2) a {
+	background:url(/images/hpVisit.png) top center no-repeat #c8c8c8;
+}
+.hpHead .menu li:nth-child(2) a:hover {
+	background:url(/images/hpVisit.png) top center no-repeat #f2f2f2;
+}
+.hpHead .menu li:nth-child(3) a {
+	background:url(/images/hpCI.png) top center no-repeat #c8c8c8;
+}
+.hpHead .menu li:nth-child(3) a:hover {
+	background:url(/images/hpCI.png) top center no-repeat #f2f2f2;
+}
+.hpHead .menu li:nth-child(4) a {
+	background:url(/images/hpCC.png) top center no-repeat #c8c8c8;
+}
+.hpHead .menu li:nth-child(4) a:hover {
+	background:url(/images/hpCC.png) top center no-repeat #f2f2f2;
+}
+.hpHead .menu li:nth-child(5) a {
+	background:url("/images/hpProgram.png") top center no-repeat #c8c8c8;
+}
+.hpHead .menu li:nth-child(5) a:hover {
+	background:url("/images/hpProgram.png") top center no-repeat #f2f2f2;
+}
+.hpHead .menu li:nth-child(6) a {
+	background:url(/images/hpJob.png) top center no-repeat #c8c8c8;
+}
+.hpHead .menu li:nth-child(6) a:hover {
+	background:url(/images/hpJob.png) top center no-repeat #f2f2f2;
+}
+.hpHead .menu li:nth-child(7) a {
+	background:url(/images/hpNews.png) top center no-repeat #c8c8c8;
+}
+.hpHead .menu li:nth-child(7) a:hover {
+	background:url(/images/hpNews.png) top center no-repeat #f2f2f2;
+}
+.hpHead .menu li:nth-child(8) a {
+	background:url(/images/hpStat.png) top center no-repeat #c8c8c8;
+}
+.hpHead .menu li:nth-child(8) a:hover {
+	background:url(/images/hpStat.png) top center no-repeat #f2f2f2;
+}
+.hpHead .menu li:nth-child(9) a {
+	background:url(/images/hpEmail.png) top center no-repeat #c8c8c8;
+}
+.hpHead .menu li:nth-child(9) a:hover {
+	background:url(/images/hpEmail.png) top center no-repeat #f2f2f2;
+}
+.hpHead .menu a {
+	height:75px;
+	line-height:75px;
+	padding:25px 0.75rem;	
+}
+.menu.pubItemMenu {/*adjustments to menu styles for publications main page*/
+	background-color: #fff;	
+}
+.menu.pubItemMenu a, .menu.pubItemMenu a:visited {/*adjustments to menu links for publications main page*/
+	font-size:0.8em;
+	font-weight:bold;
+	color:#1779ba;
+}
+.menu.pubItemMenu a:hover {/*adjustment to menu mouseover for publications main page*/
+	background-color:#fff;	
+}
+.homepagePhotos {/*Extends background color of footer up to meet photos in slider*/
+	background-color:#c8c8c8;	
+}
+.homepagePhotos .orbit-bullets {/*Remove extra space between homepage slider buttons and footer*/
+	margin-bottom:0px;	
+}
+.homepagePhotos .orbit-bullets button {/*Change color of homepage slider buttons*/
+	background-color:#8a8a8a;
+}
+.homepagePhotos .orbit-bullets button.is-active {/*Change color of homepage slider active button*/
+	background-color:#404040;
+}
+.footer .footContainer {/*Container for footer that limits size of boxes*/
+	max-width:980px;
+	margin:0 auto;
+}
+.footer {/*Sets background color for footer and removes border from callout class*/
+	background-color:#5a5a5a;
+	border:none;
+	margin-top:20px;	
+}
+.footer .callout {/*Styles for footer boxes*/
+	background-color:#5a5a5a;
+	padding:0;
+	color:#fff;
+	font-size:0.75em;
+	min-height:200px;	
+	border:none;
+}
+.footer .footPhone, .footer .footAddress, .footer .footAbout {/*Styles for non list elements of footer, text blocks, address, phone*/
+	font-size:1.15em;
+	font-style:italic;
+}
+.footer .footPhone {
+	margin-bottom:10px;	
+}
+.footer a {/*Styles for footer links*/
+	color:#fff;
+}
+.footer a:hover {/*Styles for footer link hover*/
+	text-decoration:underline;
+}
+.footHeading, .footHeadingDbl {/*Styles for headings of footer boxes*/
+	background-color:#5a5a5a;
+	padding:10px 0;
+	font-weight:bold;
+	font-size:1.3em;
+	margin-bottom:10px;	
+}
+.footHeadingDbl {/*Styles for heading of two column width footer boxes*/
+	font-size:1em;
+	color:#fff;
+	text-align:center;
+}
+.footer ul {/*Styles for footer list items*/
+	list-style:none;
+	margin-left:0px;
+}
+.homepageAlert {/*Styles for alert box on the homepage*/
+	margin-bottom:0;
+	font-size:0.75em;
+	font-weight:bold;	
+	background:#121d32;
+	color:#fff;
+}
+.mainContent {/*Changes overall font size for main content section*/
+	font-size:0.8em;	
+}
+.mainContent th {/*Sets default table heading styles for all tables in the main content area*/
+	color:#fff;
+	background-color:#121d32;	
+}
+.mainContent th a {/*Sets default table heading link styles for all tables in the main content area*/
+	color:#ff0;
+}
+.mainContent th.tableRowHead, .mainContent th[scope=row] {/*Class for table row headings to maintain light color scheme*/
+	color:#0a0a0a;
+	background-color:transparent;
+	text-align:left;
+}
+.mainContent th[scope=row] a {
+	color:#1779ba;	
+}
+.whiteheader th {/*Sets default table heading styles white for tables in the class for main content area*/
+	color:#000000;
+	background-color:#ffffff;	
+}
+.mainContent h1 {/*Main Title Heading for pages*/
+	font-size:2em;
+	font-weight:bold;
+	color:#000;	
+	margin:20px 0;
+	text-align:center;
+}
+.mainContent h2, .mainContent h3 {
+	font-size:1.3em;
+	font-weight:bold;
+	
+}
+.facMenuContainer {
+	border-bottom: 2px solid #c8c8c8;	
+}
+.facMenu{
+	/*max-width:600px;*/
+}
+.facMenu ul {
+	width:300px;
+	max-height:300px;
+	overflow:scroll;	
+}
+.facPhoto {
+	background-image:url(/ci/images/000.jpg);
+	background-position:center;
+	background-repeat:no-repeat;	
+}
+.facAddress {/*Facility profile address box under facility name*/
+	border:8px solid #c8c8c8;
+	padding:5px 5px 5px 75px;
+	font-size:1em;
+	background:url(/ci/images/addressIcon.gif) left center no-repeat;
+}
+.cirAdmin {/*Circuit admin box under circuit name*/
+	border:8px solid #c8c8c8;
+	padding:5px 5px 5px 75px;
+	font-size:1em;
+	text-align:center;
+}
+.cirAdmin div {
+	display:inline-block;
+	margin:20px 10px;
+}
+h2.cirOffices {
+	color:#fff;
+	background-color:#121d32;
+	text-align:center;
+	padding:5px;
+}
+.cirInfo {
+	margin-top:20px;	
+}
+.facPhone, .phoneInfo {/*Facility profile phone number box under facility name*/
+	border:8px solid #c8c8c8;
+	border-top:none;
+	padding:5px 5px 5px 75px;
+	font-size:1em;
+	background:url(/ci/images/phoneIcon.gif) left center no-repeat;
+	clear:both;
+}
+.phoneInfo { /*Generic phone info box with border all around*/
+	border:8px solid #c8c8c8;	
+}
+.facPhone div, .facAddress div {/*Facility profile phone number box under facility name - floating internal divs*/
+	float:left;
+}
+.facPhone .facFax, .facAddress .facMail {
+	margin-left:20px;	
+}
+.facPhone p, .facAddress p {/*cleans up box lines in facility profile info section*/
+ clear:both;
+ margin:0;
+ height:0;	
+}
+.facEmail, .emailInfo, .policiesInfo, .newsroomSocial {/*Facility profile email box under facility name*/
+	border:8px solid #c8c8c8;
+	border-top:none;
+	padding:5px 5px 5px 75px;
+	font-size:1em;
+	clear:both;
+	background:url(/ci/images/emailIcon.gif) left center no-repeat;
+}
+.regFacEmail {padding-bottom:25px;
+padding-top: 25px;
+background:url(/ci/images/emailIcon.gif) left center no-repeat;}
+.commEmail {
+	background:url(/comm/images/emailIcon.png) left center no-repeat;
+}
+.policiesInfo {
+	background:url(/comm/images/policyIcon.png) left center no-repeat;
+}
+.newsroomSocial {
+	background:url(/comm/images/newsroomSocial.png) left center no-repeat;
+}
+.facVisitation {/*Facility profile visitation box under facility photo*/
+	color:#fff;
+	background-color:#0076a9;
+	border-radius:25px;	
+	margin: 30px 0px;
+	padding:10px;
+	font-size:1.15em;
+}
+.facVisitation div {
+	float:left;
+	width:50%;
+	text-align:center;
+}
+.facVisitation a {
+	color:#fff;	
+}
+.facVisitation .facVisitationHours {
+	border-right:2px solid #fff;	
+}
+.pubNotice {/*Facility profile visitation box under facility photo*/
+	color:#fff;
+	background-color:#DD1C1A;
+	border-radius:25px;	
+	margin: 30px 0px;
+	padding:10px;
+	font-size:1.15em;
+	text-align:center;
+	font-weight:bold;
+}
+.pubNotice a {
+	color:#fff;	
+}
+.ciProfile {
+	margin-top:20px;
+}
+.sideMenu div {/*Default side menu class for interior pages*/
+	margin-top:20px;
+	padding-left:10px;
+	border-left:2px solid #c8c8c8;
+}
+.facDirList, .facDirCI {
+	list-style:none;	
+}
+.facDirList li, .facDirCI li{
+	float:left;
+	width:50%;
+	margin-bottom:20px;
+}
+.facDirCI li:nth-child(even){
+	clear:left;	
+}
+.facDirList li:nth-child(odd){
+	clear:left;	
+}
+.facDirCI .regionOffice{
+	width:100%;
+}
+.facDirList a, .facDirCI a {
+	font-weight:bold;	
+}
+.pressImage {/*Styles for press releases and media advisories*/
+	margin-top:20px;	
+}
+.pressTitle {
+	width:100%;	
+	text-align:center;
+}
+.pressSideMenu {
+	font-size:0.75em;	
+}
+.pressSideMenu h3 {
+	font-size: 1.5em;
+	margin-top:20px;	
+}
+.pressSideMenu ul, .sideMenu ul {
+	list-style:none;
+	margin-left:0px;	
+}
+.pressSideMenu li, .sideMenu li {
+	margin:10px 0;	
+}
+.pressSideMenu .heading{
+	border-bottom:1px solid #404040;
+	font-weight:bold;	
+}
+tr.pinned {
+	background-color: #fff3d9;
+    color: #0a0a0a;	
+}
+.linkList, .linkList ul {/*Styles for generic lists of links that are not horizontal menus*/
+	list-style:none;
+	margin-left:0px;
+}
+.linkList li {
+	margin-bottom:10px;	
+}
+input[type="submit"]{
+	padding:6px;	
+}
+#query-button {
+	margin-top:3px;
+	padding:3px;
+	float:left;	
+	line-height:1em;
+	margin-right:10px;
+	background-color:#dddddd;
+}
+#query-field {
+	width:125px;
+	float:left;	
+}
+.dcCSSskipNav {
+	display:none;	
+}
+.pressInfo dt {
+	float:left;
+	clear:left;
+	margin-right:10px;
+	width: 15%;
+		}
+.pressInfo dd {/*Styles for Who What When Where Margin*/
+	float:left;
+	width: 73%;
+		}
+.skipnav { text-align: left; }
+  .skipnav a { position: absolute; left: -10000px; width: 1px; height: 1px; overflow: hidden; }
+  .skipnav a:focus, .skipnav a:active { position: static; left: 0; width: auto; height: auto; overflow: visible; text-decoration: underline; }
+.escapeDate {
+	padding: 1rem;
+	border: 1px solid rgba(10, 10, 10, 0.25);
+	background-color: #fff3d9;
+	margin:20px auto;
+}
+.escapeDate legend {
+	font-weight:bold;
+	font-size:1.15em;
+	border: 1px solid rgba(10, 10, 10, 0.25);
+	padding: 5px;
+	background-color:#add798;	
+}
+option:checked {
+	background-color:#f2f2f2;	
+}
+input[type="text"]
+{
+  padding: 0px 3px;
+}
+.twocol	{
+	width:49%;
+	float:left;	
+}
+.threecol	{
+	width:33%;
+	float:left;	
+}
+.fourcol	{
+	width:23%;
+	float:left;	
+	padding: 8px
+}
+.fivecol	{
+	width:19%;
+	float:left;	
+}
+.sixcol	{
+	width:16%;
+	float:left;	
+}

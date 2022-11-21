@@ -1,0 +1,599 @@
+<!DOCTYPE html>
+<!-- saved from url=(0084)https://corrections.az.gov/article/inmate-death-notification-%E2%80%93-manuel-corona -->
+<html lang="en" dir="ltr" prefix="og: http://ogp.me/ns# content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#" class="js" style="height: 100%;"><!--<![endif]--><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <script type="text/javascript" src="./AZ_custodial_death_example_files/2ce3f7ec05"></script><script src="./AZ_custodial_death_example_files/nr-1216.min.js"></script><script type="text/javascript" async="" src="./AZ_custodial_death_example_files/siteanalyze_6428.js"></script><script type="text/javascript" async="" src="./AZ_custodial_death_example_files/ga.js"></script><script async="" src="./AZ_custodial_death_example_files/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).init={ajax:{deny_list:["bam.nr-data.net"]}};(window.NREUM||(NREUM={})).loader_config={licenseKey:"2ce3f7ec05",applicationID:"11711233"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var i=e[n]={exports:{}};t[n][0].call(i.exports,function(e){var i=t[n][1][e];return r(i||e)},i,i.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<n.length;i++)r(n[i]);return r}({1:[function(t,e,n){function r(){}function i(t,e,n,r){return function(){return s.recordSupportability("API/"+e+"/called"),o(t+e,[u.now()].concat(c(arguments)),n?null:this,r),n?void 0:this}}var o=t("handle"),a=t(9),c=t(10),f=t("ee").get("tracer"),u=t("loader"),s=t(4),d=NREUM;"undefined"==typeof window.newrelic&&(newrelic=d);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",v=l+"ixn-";a(p,function(t,e){d[e]=i(l,e,!0,"api")}),d.addPageAction=i(l,"addPageAction",!0),d.setCurrentRouteName=i(l,"routeName",!0),e.exports=newrelic,d.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(t,e){var n={},r=this,i="function"==typeof e;return o(v+"tracer",[u.now(),t,n],r),function(){if(f.emit((i?"":"no-")+"fn-start",[u.now(),r,i],n),i)try{return e.apply(this,arguments)}catch(t){throw f.emit("fn-err",[arguments,this,t],n),t}finally{f.emit("fn-end",[u.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){m[e]=i(v,e)}),newrelic.noticeError=function(t,e){"string"==typeof t&&(t=new Error(t)),s.recordSupportability("API/noticeError/called"),o("err",[t,u.now(),!1,e])}},{}],2:[function(t,e,n){function r(t){if(NREUM.init){for(var e=NREUM.init,n=t.split("."),r=0;r<n.length-1;r++)if(e=e[n[r]],"object"!=typeof e)return;return e=e[n[n.length-1]]}}e.exports={getConfiguration:r}},{}],3:[function(t,e,n){var r=!1;try{var i=Object.defineProperty({},"passive",{get:function(){r=!0}});window.addEventListener("testPassive",null,i),window.removeEventListener("testPassive",null,i)}catch(o){}e.exports=function(t){return r?{passive:!0,capture:!!t}:!!t}},{}],4:[function(t,e,n){function r(t,e){var n=[a,t,{name:t},e];return o("storeMetric",n,null,"api"),n}function i(t,e){var n=[c,t,{name:t},e];return o("storeEventMetrics",n,null,"api"),n}var o=t("handle"),a="sm",c="cm";e.exports={constants:{SUPPORTABILITY_METRIC:a,CUSTOM_METRIC:c},recordSupportability:r,recordCustom:i}},{}],5:[function(t,e,n){function r(){return c.exists&&performance.now?Math.round(performance.now()):(o=Math.max((new Date).getTime(),o))-a}function i(){return o}var o=(new Date).getTime(),a=o,c=t(11);e.exports=r,e.exports.offset=a,e.exports.getLastTimestamp=i},{}],6:[function(t,e,n){function r(t,e){var n=t.getEntries();n.forEach(function(t){"first-paint"===t.name?l("timing",["fp",Math.floor(t.startTime)]):"first-contentful-paint"===t.name&&l("timing",["fcp",Math.floor(t.startTime)])})}function i(t,e){var n=t.getEntries();if(n.length>0){var r=n[n.length-1];if(u&&u<r.startTime)return;var i=[r],o=a({});o&&i.push(o),l("lcp",i)}}function o(t){t.getEntries().forEach(function(t){t.hadRecentInput||l("cls",[t])})}function a(t){var e=navigator.connection||navigator.mozConnection||navigator.webkitConnection;if(e)return e.type&&(t["net-type"]=e.type),e.effectiveType&&(t["net-etype"]=e.effectiveType),e.rtt&&(t["net-rtt"]=e.rtt),e.downlink&&(t["net-dlink"]=e.downlink),t}function c(t){if(t instanceof y&&!w){var e=Math.round(t.timeStamp),n={type:t.type};a(n),e<=v.now()?n.fid=v.now()-e:e>v.offset&&e<=Date.now()?(e-=v.offset,n.fid=v.now()-e):e=v.now(),w=!0,l("timing",["fi",e,n])}}function f(t){"hidden"===t&&(u=v.now(),l("pageHide",[u]))}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var u,s,d,p,l=t("handle"),v=t("loader"),m=t(8),g=t(3),y=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){s=new PerformanceObserver(r);try{s.observe({entryTypes:["paint"]})}catch(h){}d=new PerformanceObserver(i);try{d.observe({entryTypes:["largest-contentful-paint"]})}catch(h){}p=new PerformanceObserver(o);try{p.observe({type:"layout-shift",buffered:!0})}catch(h){}}if("addEventListener"in document){var w=!1,b=["click","keydown","mousedown","pointerdown","touchstart"];b.forEach(function(t){document.addEventListener(t,c,g(!1))})}m(f)}},{}],7:[function(t,e,n){function r(t,e){if(!i)return!1;if(t!==i)return!1;if(!e)return!0;if(!o)return!1;for(var n=o.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var c=navigator.userAgent,f=c.match(a);f&&c.indexOf("Chrome")===-1&&c.indexOf("Chromium")===-1&&(i="Safari",o=f[1])}e.exports={agent:i,version:o,match:r}},{}],8:[function(t,e,n){function r(t){function e(){t(c&&document[c]?document[c]:document[o]?"hidden":"visible")}"addEventListener"in document&&a&&document.addEventListener(a,e,i(!1))}var i=t(3);e.exports=r;var o,a,c;"undefined"!=typeof document.hidden?(o="hidden",a="visibilitychange",c="visibilityState"):"undefined"!=typeof document.msHidden?(o="msHidden",a="msvisibilitychange"):"undefined"!=typeof document.webkitHidden&&(o="webkitHidden",a="webkitvisibilitychange",c="webkitVisibilityState")},{}],9:[function(t,e,n){function r(t,e){var n=[],r="",o=0;for(r in t)i.call(t,r)&&(n[o]=e(r,t[r]),o+=1);return n}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],10:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,i=n-e||0,o=Array(i<0?0:i);++r<i;)o[r]=t[e+r];return o}e.exports=r},{}],11:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(t,e,n){function r(){}function i(t){function e(t){return t&&t instanceof r?t:t?u(t,f,a):a()}function n(n,r,i,o,a){if(a!==!1&&(a=!0),!l.aborted||o){t&&a&&t(n,r,i);for(var c=e(i),f=m(n),u=f.length,s=0;s<u;s++)f[s].apply(c,r);var p=d[w[n]];return p&&p.push([b,n,r,c]),c}}function o(t,e){h[t]=m(t).concat(e)}function v(t,e){var n=h[t];if(n)for(var r=0;r<n.length;r++)n[r]===e&&n.splice(r,1)}function m(t){return h[t]||[]}function g(t){return p[t]=p[t]||i(n)}function y(t,e){l.aborted||s(t,function(t,n){e=e||"feature",w[n]=e,e in d||(d[e]=[])})}var h={},w={},b={on:o,addEventListener:o,removeEventListener:v,emit:n,get:g,listeners:m,context:e,buffer:y,abort:c,aborted:!1};return b}function o(t){return u(t,f,a)}function a(){return new r}function c(){(d.api||d.feature)&&(l.aborted=!0,d=l.backlog={})}var f="nr@context",u=t("gos"),s=t(9),d={},p={},l=e.exports=i();e.exports.getOrSetContext=o,l.backlog=d},{}],gos:[function(t,e,n){function r(t,e,n){if(i.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return t[e]=r,r}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){i.buffer([t],r),i.emit(t,e,n)}var i=t("ee").get("handle");e.exports=r,r.ee=i},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,o,function(){return i++})}var i=1,o="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!M++){var t=T.info=NREUM.info,e=m.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(x,function(e,n){t[e]||(t[e]=n)});var n=a();c("mark",["onload",n+T.offset],null,"api"),c("timing",["load",n]);var r=m.createElement("script");0===t.agent.indexOf("http://")||0===t.agent.indexOf("https://")?r.src=t.agent:r.src=l+"://"+t.agent,e.parentNode.insertBefore(r,e)}}function i(){"complete"===m.readyState&&o()}function o(){c("mark",["domContent",a()+T.offset],null,"api")}var a=t(5),c=t("handle"),f=t(9),u=t("ee"),s=t(7),d=t(2),p=t(3),l=d.getConfiguration("ssl")===!1?"http":"https",v=window,m=v.document,g="addEventListener",y="attachEvent",h=v.XMLHttpRequest,w=h&&h.prototype,b=!1;NREUM.o={ST:setTimeout,SI:v.setImmediate,CT:clearTimeout,XHR:h,REQ:v.Request,EV:v.Event,PR:v.Promise,MO:v.MutationObserver};var E=""+location,x={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1216.min.js"},O=h&&w&&w[g]&&!/CriOS/.test(navigator.userAgent),T=e.exports={offset:a.getLastTimestamp(),now:a,origin:E,features:{},xhrWrappable:O,userAgent:s,disabled:b};if(!b){t(1),t(6),m[g]?(m[g]("DOMContentLoaded",o,p(!1)),v[g]("load",r,p(!1))):(m[y]("onreadystatechange",i),v[y]("onload",r)),c("mark",["firstbyte",a.getLastTimestamp()],null,"api");var M=0}},{}],"wrap-function":[function(t,e,n){function r(t,e){function n(e,n,r,f,u){function nrWrapper(){var o,a,s,p;try{a=this,o=d(arguments),s="function"==typeof r?r(o,a):r||{}}catch(l){i([l,"",[o,a,f],s],t)}c(n+"start",[o,a,f],s,u);try{return p=e.apply(a,o)}catch(v){throw c(n+"err",[o,a,v],s,u),v}finally{c(n+"end",[o,a,p],s,u)}}return a(e)?e:(n||(n=""),nrWrapper[p]=e,o(e,nrWrapper,t),nrWrapper)}function r(t,e,r,i,o){r||(r="");var c,f,u,s="-"===r.charAt(0);for(u=0;u<e.length;u++)f=e[u],c=t[f],a(c)||(t[f]=n(c,s?f+r:r,i,f,o))}function c(n,r,o,a){if(!v||e){var c=v;v=!0;try{t.emit(n,r,o,e,a)}catch(f){i([f,n,r,o],t)}v=c}}return t||(t=s),n.inPlace=r,n.flag=p,n}function i(t,e){e||(e=s);try{e.emit("internal-error",t)}catch(n){}}function o(t,e,n){if(Object.defineProperty&&Object.keys)try{var r=Object.keys(t);return r.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(o){i([o],n)}for(var a in t)l.call(t,a)&&(e[a]=t[a]);return e}function a(t){return!(t&&t instanceof Function&&t.apply&&!t[p])}function c(t,e){var n=e(t);return n[p]=t,o(t,n,s),n}function f(t,e,n){var r=t[e];t[e]=c(r,n)}function u(){for(var t=arguments.length,e=new Array(t),n=0;n<t;++n)e[n]=arguments[n];return e}var s=t("ee"),d=t(10),p="nr@original",l=Object.prototype.hasOwnProperty,v=!1;e.exports=r,e.exports.wrapFunction=c,e.exports.wrapInPlace=f,e.exports.argsToArray=u},{}]},{},["loader"]);</script>
+<link rel="shortcut icon" href="https://corrections.az.gov/sites/default/files/favicon.ico" type="image/vnd.microsoft.icon">
+<meta name="description" content="Buckeye (February 12, 2022) – Inmate Manuel Corona, 30, ADCRR #244835, died on February 12, 2022.Corona was admitted to ADCRR custody in 2013 after he was sentenced out of Cochise County for aggravated assault.His assigned housing location was ASPC-Lewis.All inmate deaths are investigated in consultation with the county medical examiner’s office.###">
+<meta name="generator" content="Drupal 7 (https://www.drupal.org)">
+<link rel="canonical" href="https://corrections.az.gov/article/inmate-death-notification-%E2%80%93-manuel-corona">
+<link rel="shortlink" href="https://corrections.az.gov/node/2231">
+<meta property="og:site_name" content="Arizona Department of Corrections, Rehabilitation and Reentry">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://corrections.az.gov/article/inmate-death-notification-%E2%80%93-manuel-corona">
+<meta property="og:title" content="Inmate Death Notification – Manuel Corona">
+<meta property="og:description" content="Buckeye (February 12, 2022) – Inmate Manuel Corona, 30, ADCRR #244835, died on February 12, 2022.Corona was admitted to ADCRR custody in 2013 after he was sentenced out of Cochise County for aggravated assault.His assigned housing location was ASPC-Lewis.All inmate deaths are investigated in consultation with the county medical examiner’s office.###">
+<meta property="og:updated_time" content="2022-02-18T15:30:40-07:00">
+<meta property="article:published_time" content="2022-02-18T15:30:40-07:00">
+<meta property="article:modified_time" content="2022-02-18T15:30:40-07:00">
+  <title>Inmate Death Notification – Manuel Corona | Arizona Department of Corrections, Rehabilitation and Reentry</title>
+
+      <meta name="MobileOptimized" content="width">
+    <meta name="HandheldFriendly" content="true">
+    <meta name="viewport" content="width=device-width">
+    <meta http-equiv="cleartype" content="on">
+
+  <link rel="stylesheet" href="./AZ_custodial_death_example_files/css_kShW4RPmRstZ3SpIC-ZvVGNFVAi0WEMuCnI0ZkYIaFw.css" media="all">
+<link rel="stylesheet" href="./AZ_custodial_death_example_files/css_7FbUItB9_eNPgcha4B1IS-3G8EkzcAmcCWhmuEspc0U.css" media="all">
+<link rel="stylesheet" href="./AZ_custodial_death_example_files/css_kNDCZB9akQ0zoTuwn7h6jYLb_vpaYVv76d7Bb8qtxLY.css" media="all">
+
+<!--[if lt IE 10]>
+<link rel="stylesheet" href="https://corrections.az.gov/sites/default/files/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="all" />
+<![endif]-->
+<link rel="stylesheet" href="./AZ_custodial_death_example_files/css_ITqV3eM29HiUxH2A2V3eIAv4poaJ95FqXc2eITVY4Uk.css" media="all">
+<link rel="stylesheet" href="./AZ_custodial_death_example_files/css_6RIizP3jgerkydOda_RC_L3azNDncI7HxKM4-vgvgB4.css" media="all">
+<link rel="stylesheet" href="./AZ_custodial_death_example_files/css_Aq8grlTx_nQ09hFG3weNgjrw6HEl9ltuD5rShWo9ECU.css" media="all">
+<link rel="stylesheet" href="./AZ_custodial_death_example_files/css_injector_6.css" media="all">
+
+
+      <!--[if lt IE 9]>
+    <script src="/sites/default/themes/contrib/zen/js/html5-respond.js"></script>
+    <![endif]-->
+  <link type="text/css" rel="stylesheet" charset="UTF-8" href="./AZ_custodial_death_example_files/translateelement.css"><script type="text/javascript" charset="UTF-8" src="./AZ_custodial_death_example_files/main.js"></script><script type="text/javascript" charset="UTF-8" src="./AZ_custodial_death_example_files/element_main.js"></script></head>
+<body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-2231 node-type-article section-article" style="position: relative; min-height: 100%; top: 0px;">
+      <p id="skip-link">
+      <a href="https://corrections.az.gov/article/inmate-death-notification-%E2%80%93-manuel-corona#superfish-1" class="element-invisible element-focusable">Jump to navigation</a>
+    </p><div role="navigation" aria-label="State of Arizona Sliver" class="sliver-container"><ul class="sliver-ul"><li class="sliver-li-left"><a href="https://openbooks.az.gov/" <a="" title="Visit OpenBooks - Arizona&#39;s Official Transparency Website" target="_blank" rel="noopener"><img class="sliver-img" src="./AZ_custodial_death_example_files/book-icon.png" title="Visit OpenBooks" alt="Book icon for the OpenBooks website"><span class="hideTitle">Visit</span> <span>OpenBooks</span></a> </li><li class="sliver-li-left"><a href="https://www.azoca.gov/" title="The Ombudsman-Citizens Aide helps citizens to resolve ongoing issues with State Agencies" target="_blank" rel="noopener"><img class="sliver-img" src="./AZ_custodial_death_example_files/ombudsman-icon.png" title="The Ombudsman-Citizens Aide helps citizens to resolve ongoing issues with State Agencies" alt="Silhouette of head and shoulders as an icon for the Ombudsman-Citizens Aide website"><span class="hideTitle">Ombudsman-</span><span>Citizens Aide</span></a> </li><li class="sliver-li-left"><a href="https://azdhs.gov/preparedness/epidemiology-disease-control/infectious-disease-epidemiology/index.php#novel-coronavirus-home" title="Get the facts on COVID-19" target="_blank" rel="noopener"><span class="hideTitle">Get the facts on</span> <span>COVID-19</span></a> </li><li class="sliver-li-right"><a href="https://az.gov/search/" target="_blank" rel="noopener"><img class="sliver-img2" src="./AZ_custodial_death_example_files/icon-searchlink.png" title="Search AZ.Gov" alt="Magnifying glass symbolizing search az.gov"><span class="hide">Search</span> <span>AZ.Gov</span></a><a href="https://az.gov/" target="_blank" rel="noopener"><img id="sliver-logo" src="./AZ_custodial_death_example_files/logo-small.png" title="AZ.Gov" alt="Magnifying glass symbolizing search az.gov"></a></li> </ul></div>
+    <script src="./AZ_custodial_death_example_files/js_YD9ro0PAqY25gGWrTki6TjRUG8TdokmmxjfqpNNfzVU.js"></script>
+<script src="./AZ_custodial_death_example_files/js_RwofQlrT3NgBJWlz_x5g7x8yMvU7nJHkj8ALzWXgB08.js"></script>
+<script src="./AZ_custodial_death_example_files/js_jh1qn3PxdjljtoT-Ie8jLCmyxSd_94jHujwnJXsZSrc.js"></script>
+<script src="./AZ_custodial_death_example_files/js_DuCBxVBnmwlqi-FUiwD_uvjmLVBk6uphM_23_gbOteI.js"></script>
+<script>jQuery.extend(Drupal.absolute_messages, {"dismiss":{"status":false,"warning":false,"error":false},"dismiss_time":{"status":"","warning":"","error":""},"dismiss_all_count":2});</script>
+<script src="./AZ_custodial_death_example_files/js_cwvwmwj6rDPhKV3FdacQ7At2IAKBpprEI-k135KG7BM.js"></script>
+<script src="./AZ_custodial_death_example_files/jsapi"></script>
+<script src="./AZ_custodial_death_example_files/js_YzG5DXs8T7EsnYL9NeN6hWGS3zuisqF3xGwzqgnYwuY.js"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-51918641-29", {"cookieDomain":"auto"});ga("send", "pageview");</script>
+<script src="./AZ_custodial_death_example_files/js_lGifFOTNdr51AReVGErfN-dHjSaJvQBSskSYohb1-Ew.js"></script>
+<script src="./AZ_custodial_death_example_files/js_injector_1.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"corrections_theme","theme_token":"i0SpTb5er2jeJDFJawxnrj0gIMY3GzK-866_v43NXFU","jquery_version":"default","js":{"sites\/all\/modules\/contrib\/extlink_extra\/extlink_extra.js":1,"https:\/\/static.az.gov\/sliver\/sliver.js":1,"misc\/jquery.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/jquery.cookie.js":1,"misc\/jquery.form.js":1,"sites\/default\/libraries\/jquery.placeholder\/jquery.placeholder.min.js":1,"sites\/all\/modules\/contrib\/jquery_placeholder\/jquery_placeholder.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/contrib\/jquery_update\/js\/jquery_update.js":1,"sites\/default\/modules\/custom\/corrections_custom\/corrections_custom.js":1,"sites\/default\/modules\/custom\/corrections_custom\/js\/jquery.marquee.min.js":1,"sites\/default\/modules\/custom\/corrections_menu\/js\/corrections_menu.js":1,"sites\/all\/modules\/contrib\/extlink\/extlink.js":1,"sites\/default\/modules\/contrib\/absolute_messages\/absolute_messages.js":1,"0":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"https:\/\/www.google.com\/jsapi":1,"sites\/default\/libraries\/jquery.webks-responsive-table\/jquery.webks-responsive-table.js":1,"sites\/all\/modules\/contrib\/jquery_wrt\/jquery_wrt.js":1,"sites\/all\/modules\/contrib\/views\/js\/base.js":1,"misc\/progress.js":1,"sites\/all\/modules\/contrib\/views\/js\/ajax_view.js":1,"sites\/all\/modules\/custom\/menu_block_placement\/modules\/mbp_defaults\/mbp_defaults.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1,"sites\/default\/libraries\/superfish\/jquery.hoverIntent.minified.js":1,"sites\/default\/libraries\/superfish\/sfsmallscreen.js":1,"sites\/default\/libraries\/superfish\/supposition.js":1,"sites\/default\/libraries\/superfish\/superfish.js":1,"sites\/default\/libraries\/superfish\/supersubs.js":1,"sites\/default\/modules\/contrib\/superfish\/superfish.js":1,"sites\/default\/files\/js_injector\/js_injector_1.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/default\/modules\/custom\/azdoc_notifications\/azdoc_notifications.css":1,"sites\/all\/modules\/contrib\/calendar\/css\/calendar_multiday.css":1,"modules\/comment\/comment.css":1,"sites\/default\/modules\/custom\/corrections_menu\/css\/corrections_menu.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/logintoboggan\/logintoboggan.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/extlink\/extlink.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/media\/modules\/media_wysiwyg\/css\/media_wysiwyg.base.css":1,"sites\/default\/modules\/contrib\/absolute_messages\/absolute_messages.css":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/default\/libraries\/jquery.webks-responsive-table\/jquery.webks-responsive-table.css":1,"sites\/all\/modules\/contrib\/jquery_wrt\/jquery_wrt.css":1,"public:\/\/ctools\/css\/d41d8cd98f00b204e9800998ecf8427e.css":1,"sites\/default\/libraries\/superfish\/css\/superfish.css":1,"sites\/default\/themes\/custom\/corrections_theme\/system.menus.css":1,"sites\/default\/themes\/custom\/corrections_theme\/css\/normalize.css":1,"sites\/default\/themes\/custom\/corrections_theme\/css\/styles.css.less":1,"sites\/default\/files\/css_injector\/css_injector_1.css":1,"sites\/default\/files\/css_injector\/css_injector_5.css":1,"sites\/default\/files\/css_injector\/css_injector_6.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px","file_public_path":"\/sites\/default\/files","specificPagesDefaultValue":"admin*\nimagebrowser*\nimg_assist*\nimce*\nnode\/add\/*\nnode\/*\/edit\nprint\/*\nprintpdf\/*\nsystem\/ajax\nsystem\/ajax\/*"},"jquery_wrt":{"module_path":"sites\/all\/modules\/contrib\/jquery_wrt","jquery_wrt_preserve_classes":true,"jquery_wrt_dynamic":true,"jquery_wrt_showswitch":true,"jquery_wrt_breakpoint":"960","jquery_wrt_subselector":":not( .table-exclude table ):not(.exclude-table-collapse):not(.sticky-header):not(.field-multiple-table):not(:has(tr.draggable))","jquery_wrt_header_selector":"thead td, thead th, tr th","jquery_wrt_row_selector":"tbody tr","jquery_wrt_responsive_row_element":"\u003Cdl\u003E\u003C\/dl\u003E","jquery_wrt_row_responsive_column_title_element":"\u003Cdt\u003E\u003C\/dt\u003E","jquery_wrt_row_responsive_column_value_element":"\u003Cdd\u003E\u003C\/dd\u003E","jquery_wrt_update_on_resize":true,"jquery_wrt_path_match_exclude":"admin\/*\r\nimce*"},"extlink":{"extTarget":"_blank","extClass":"ext","extLabel":"(link is external)","extImgClass":0,"extSubdomains":1,"extExclude":"","extInclude":"\\.pdf","extCssExclude":"","extCssExplicit":"","extAlert":"_blank","extAlertText":{"value":"This link will take you to an external web site and you will be leaving this official .gov web site.","format":"basic_html"},"mailtoClass":0,"mailtoLabel":"(link sends e-mail)"},"extlink_extra":{"extlink_alert_type":"confirm","extlink_alert_timer":0,"extlink_alert_url":"\/now-leaving","extlink_cache_fix":0,"extlink_exclude_warning":"\\.pdf","extlink_508_fix":0,"extlink_508_text":" [external link]","extlink_url_override":0,"extlink_url_params":{"external_url":null,"back_url":null}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":1},"jquery_placeholder":{"edit-search-block-form--2":{"selector":"#edit-search-block-form--2"}},"urlIsAjaxTrusted":{"\/article\/inmate-death-notification-%E2%80%93-manuel-corona":true},"superfish":{"1":{"id":"1","sf":{"animation":{"opacity":"show"},"speed":"\u0027fast\u0027","autoArrows":true,"dropShadows":true,"disableHI":false},"plugins":{"smallscreen":{"mode":"window_width","addSelected":false,"menuClasses":false,"hyperlinkClasses":false,"title":"Main menu"},"supposition":true,"bgiframe":false,"supersubs":{"minWidth":"12","maxWidth":"27","extraWidth":1}}}}});</script>
+    
+<div id="header-top">
+    <div class="region region-header-top">
+    <div id="block-feature-sliver-sliver" class="block block-feature-sliver first last odd">
+
+      
+  
+</div>
+  </div>
+</div>
+
+<div id="page-container">
+
+<header id="header" role="banner">
+    <div class="header__region region region-header">
+    <div id="block-nodeblock-8" class="block block-nodeblock site-logo first odd">
+
+      
+  <div id="node-8" class="node node-block view-mode-full clearfix" about="/block/site-logo" typeof="sioc:Item foaf:Document">
+
+        <span property="dc:title" content="Site logo" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><a href="https://corrections.az.gov/"><img alt="AZ Corrections" src="./AZ_custodial_death_example_files/sitelogo.png"></a></p>
+</div></div></div>  </div>
+
+  
+  
+</div>
+
+</div>
+<div id="block-search-form" class="block block-search even" role="search">
+
+      
+  <form action="https://corrections.az.gov/article/inmate-death-notification-%E2%80%93-manuel-corona" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-searchfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." placeholder="Search ADC" type="search" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text form-search jquery_placeholder-processed">
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit"></div><input type="hidden" name="form_build_id" value="form-OjLq5tZUpBBuFLf4zhS6pbyvplAaD4W6xis3GQbUtpg">
+<input type="hidden" name="form_id" value="search_block_form">
+</div>
+</div></form>
+</div>
+<div id="block-nodeblock-735" class="block block-nodeblock block-google-translate odd">
+
+      
+  <div id="node-735" class="node node-block view-mode-full clearfix" about="/block/google-translate" typeof="sioc:Item foaf:Document">
+
+        <span property="dc:title" content="Google Translate" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><div id="google_translate_element"><div class="skiptranslate goog-te-gadget" dir="ltr" style=""><div id=":0.targetLanguage"><select class="goog-te-combo" aria-label="Language Translate Widget"><option value="">Select Language</option><option value="ar">Arabic</option><option value="es">Spanish</option><option value="vi">Vietnamese</option></select></div>Powered by <span style="white-space:nowrap"><a class="goog-logo-link" href="https://translate.google.com/" target="_blank"><img src="./AZ_custodial_death_example_files/googlelogo_color_42x16dp.png" width="37px" height="14px" style="padding-right: 3px" alt="Google Translate">Translate</a></span></div></div>
+</div></div></div>  </div>
+
+  
+  
+</div>
+
+</div>
+<div class="mobile-menu-popout"><div id="block-corrections-menu-responsive-menu" class="block block-corrections-menu last even">
+
+      
+  <div class="menu-block-wrapper menu-block-responsive_menu menu-name-main-menu parent-mlid-0 menu-level-0">
+  <ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-715"><a href="https://corrections.az.gov/" title="" class="menu__link">Home</a></li>
+<li class="menu__item is-expanded expanded menu-mlid-800"><a href="https://corrections.az.gov/prisons" class="menu__link">Prisons &amp; Visitation</a><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-723"><a href="https://corrections.az.gov/inmate-visitation-application" class="menu__link">Application To Visit An Inmate / Phone Application</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-795"><a href="https://corrections.az.gov/capacity-custody-level" class="menu__link">Historical Daily Count Sheets</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-891"><a href="https://corrections.az.gov/prisons" class="menu__link">State Map of Complexes</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-972"><a href="https://corrections.az.gov/parole-office-locations" title="Parole Office Locations" class="menu__link">Parole Office Locations</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-3859"><a href="https://corrections.az.gov/sites/default/files/documents/PDFs/prisons_mailing_addresses_2022.pdf" title="" class="menu__link ext extlink" target="_blank">Prison Mailing Address</a></li>
+</ul></li>
+<li class="menu__item is-expanded expanded menu-mlid-844"><a href="https://corrections.az.gov/public-resources" class="menu__link">Public Resources</a><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-1222"><a href="https://corrections.az.gov/public-resources/inmate-datasearch" class="menu__link">Inmate DataSearch</a></li>
+<li class="menu__item is-expanded expanded menu-mlid-782"><a href="https://corrections.az.gov/victim-services" class="menu__link">Victim Services</a><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-784"><a href="https://corrections.az.gov/public-resources/victim-services/victim-rights" class="menu__link">Victim Rights</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-845"><a href="https://corrections.az.gov/victim-faqs#pcnr" title="" class="menu__link">Post-Conviction Notification</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-846"><a href="https://corrections.az.gov/victim-faqs#order" title="" class="menu__link">Protective Services</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-847"><a href="https://corrections.az.gov/victim-faqs#restitution" title="" class="menu__link">Restitution</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-848"><a href="https://corrections.az.gov/victim-organizations-related-links" class="menu__link">Victim Organizations &amp; Related Links</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-849"><a href="https://corrections.az.gov/county-contact-information" class="menu__link">County Contact Information</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-722"><a href="https://corrections.az.gov/victim-faqs#hearings" class="menu__link">Information on Hearings</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-783"><a href="https://corrections.az.gov/victim-faqs" class="menu__link">Victim FAQs</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-773"><a href="https://corrections.az.gov/contact-victim-services" class="menu__link">Contact Victim Services</a></li>
+</ul></li>
+<li class="menu__item is-expanded expanded menu-mlid-729"><a href="https://corrections.az.gov/deputy-director/constituent-services" class="menu__link">Constituent Services</a><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-746"><a href="https://corrections.az.gov/public-resources/constituent-services/communicating-adcrr-about-inmate" class="menu__link">Communicating With ADCRR About Inmate</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-763"><a href="https://corrections.az.gov/public-resources/constituent-services/inmate-information-connection" class="menu__link">Inmate Information Connection</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-761"><a href="https://corrections.az.gov/public-resources/constituent-services/family-assistance-and-other-useful-links" class="menu__link">Family Assistance and Other Useful Links</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-3633"><a href="https://corrections.az.gov/public-resources/constituent-services/electronic-payments" class="menu__link">Inmate Trust Accounts Electronic Payments</a></li>
+</ul></li>
+<li class="menu__item is-leaf leaf menu-mlid-3463"><a href="https://corrections.az.gov/public-resources/public-records-department" title="" class="menu__link">Public Records Department</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-802"><a href="https://corrections.az.gov/public-resources/emergency-preparedness" class="menu__link">Emergency Preparedness</a></li>
+<li class="menu__item is-expanded expanded menu-mlid-793"><a href="https://corrections.az.gov/public-resources/prison-operations" class="menu__link">Prison Operations</a><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-852"><a href="https://corrections.az.gov/administration" class="menu__link">Administration</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-853"><a href="https://corrections.az.gov/security-operations" class="menu__link">Security Operations</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-854"><a href="https://corrections.az.gov/prisons" title="" class="menu__link">Prison Complexes</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-856"><a href="https://corrections.az.gov/contract-beds-bureau" class="menu__link">Contract Beds Bureau</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-857"><a href="https://corrections.az.gov/offender-services" class="menu__link">Offender Services</a></li>
+</ul></li>
+<li class="menu__item is-expanded expanded menu-mlid-724"><a href="https://corrections.az.gov/public-resources/inspector-general" class="menu__link">Inspector General</a><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-750"><a href="https://corrections.az.gov/administrative-investigations" class="menu__link">Administrative Investigations</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-751"><a href="https://corrections.az.gov/policy-unit" class="menu__link">Policy Unit</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-749"><a href="https://corrections.az.gov/audit-unit" class="menu__link">Audit Unit</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-748"><a href="https://corrections.az.gov/background-investigations" class="menu__link">Background Investigations</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-745"><a href="https://corrections.az.gov/criminal-investigations" class="menu__link">Criminal Investigations</a></li>
+<li class="menu__item is-expanded expanded menu-mlid-742"><a href="https://corrections.az.gov/public-resources/inspector-general/security-threat-groups" class="menu__link">Security Threat Group Unit</a><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-864"><a href="https://corrections.az.gov/public-resources/inspector-general/security-threat-groups/frequently-used-terminology" title="" class="menu__link">Frequently Used Terminology</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-866"><a href="https://corrections.az.gov/public-resources/inspector-general/security-threat-group-unit/stg-earmarks" class="menu__link">STG Earmarks</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-869"><a href="https://corrections.az.gov/membership-validation-criteria" title="" class="menu__link">Membership Validation Criteria</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-870"><a href="https://corrections.az.gov/public-resources/inspector-general/security-threat-group-unit/certified-and-monitored-stgs" title="" class="menu__link">Certified and Monitored STGs</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-872"><a href="https://corrections.az.gov/public-resources/inspector-general/security-threat-group-unit/associated-sites" class="menu__link">Associated Sites</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-873"><a href="https://corrections.az.gov/public-resources/inspector-general/security-threat-group-unit/security-threat-group-faqs" class="menu__link">Security Threat Group FAQs</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-874"><a href="https://corrections.az.gov/public-resources/inspector-general/security-threat-group-unit/contact-adcrrs-stg-unit" class="menu__link">Contact</a></li>
+</ul></li>
+<li class="menu__item is-leaf last leaf menu-mlid-813"><a href="https://corrections.az.gov/public-resources/inspector-general/special-operations" class="menu__link">Special Operations</a></li>
+</ul></li>
+<li class="menu__item is-expanded expanded menu-mlid-850"><a href="https://corrections.az.gov/public-resources/death-row" class="menu__link">Death Row</a><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-1267"><a href="https://corrections.az.gov/public-resources/death-row/most-recent-execution" title="Most Recent Execution" class="menu__link">Most Recent Execution</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-1268"><a href="https://corrections.az.gov/public-resources/death-row/executions-prior-1992-execution-methods" title="Executed Prior to 1992 &amp; Execution Methods" class="menu__link">Executed Prior to 1992 &amp; Execution Methods</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-1269"><a href="https://corrections.az.gov/public-resources/death-row/witness-groups" title="" class="menu__link">Witness Groups</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-1270"><a href="https://corrections.az.gov/public-resources/death-row/arizona-death-penalty-history" title="" class="menu__link">Death Penalty History</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-1271"><a href="https://corrections.az.gov/public-resources/death-row/death-row-sentences-county-breakdown" title="" class="menu__link">Sentencing Counties</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-1220"><a href="https://corrections.az.gov/public-resources/death-row/last-meals-request" class="menu__link">Executed since 1992/Last Meals</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-1272"><a href="https://corrections.az.gov/public-resources/death-row/death-row-information-and-frequently-asked-questions" title="" class="menu__link">Death Row Information and FAQ</a></li>
+</ul></li>
+<li class="menu__item is-leaf leaf menu-mlid-951"><a href="https://corrections.az.gov/external-links" title="External Website Links" class="menu__link">External Links</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-3865"><a href="https://corrections.az.gov/public-resources/legal-calls" class="menu__link">Legal Calls</a></li>
+</ul></li>
+<li class="menu__item is-expanded expanded menu-mlid-799"><a href="https://corrections.az.gov/programs-services" class="menu__link">Programs &amp; Services</a><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-726"><a href="https://corrections.az.gov/health-services" class="menu__link">Medical Services</a></li>
+<li class="menu__item is-expanded last expanded menu-mlid-954"><a href="https://corrections.az.gov/programs-services/inmate-programs-reentry" title="Inmate Programs &amp; Reentry" class="menu__link">Inmate Programs &amp; Reentry</a><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-958"><a href="https://corrections.az.gov/workforce-development" title="Inmate Education" class="menu__link">Inmate Education</a></li>
+<li class="menu__item is-expanded expanded menu-mlid-962"><a href="https://corrections.az.gov/religious-services" title="Religious Services" class="menu__link">Religious Services</a><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-963"><a href="https://corrections.az.gov/programs-services/religious-services/frequently-asked-questions" title="Frequently Asked Questions" class="menu__link">Frequently Asked Questions</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-964"><a href="https://corrections.az.gov/programs-services/religious-services/inmate-marriages" title="Inmate Marriages" class="menu__link">Inmate Marriages</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-966"><a href="https://corrections.az.gov/programs-services/religious-services/institutional-chaplains" title="Institutional Chaplains" class="menu__link">Institutional Chaplains</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-943"><a href="https://corrections.az.gov/programs-services/inmate-programs-reentry/religious-services/religious-advisory-committee" title="Religious Advisory Committee" class="menu__link">Religious Advisory Committee</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-968"><a href="https://corrections.az.gov/programs-services/religious-services/religious-diets" title="Religious Diets" class="menu__link">Religious Diets</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-969"><a href="https://corrections.az.gov/programs-services/religious-services/religious-property" title="Religious Property" class="menu__link">Religious Property</a></li>
+</ul></li>
+<li class="menu__item is-expanded expanded menu-mlid-3653"><a href="https://corrections.az.gov/community-corrections" class="menu__link">Community Corrections</a><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-858"><a href="https://corrections.az.gov/parole-office-locations" title="Parole Office Locations" class="menu__link">Parole Office Locations</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-975"><a href="https://corrections.az.gov/community-corrections-fees" title="Community Corrections Fees" class="menu__link">Community Corrections Fees</a></li>
+</ul></li>
+<li class="menu__item is-leaf leaf menu-mlid-959"><a href="https://corrections.az.gov/addiction-treatment-services" title="Counseling &amp; Treatment Services" class="menu__link">Counseling &amp; Treatment Services</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-3625"><a href="https://corrections.az.gov/programs-services/inmate-programs-reentry/program-systems" class="menu__link">Program Systems</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-3629"><a href="https://corrections.az.gov/programs-services/inmate-programs-reentry/new-inmate-release-card-program" class="menu__link">Inmate Release Card Program</a></li>
+</ul></li>
+</ul></li>
+<li class="menu__item is-expanded expanded menu-mlid-798"><a href="https://corrections.az.gov/employment" class="menu__link">Employment</a><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-717"><a href="https://corrections.az.gov/adc-careers" class="menu__link">ADCRR Careers</a></li>
+<li class="menu__item is-expanded expanded menu-mlid-727"><a href="https://corrections.az.gov/correctional-officer-careers" class="menu__link">Correctional Officer Careers</a><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-3642"><a href="https://corrections.az.gov/employment/correctional-officer-careers/temporary-correctional-officer-trainee-program" class="menu__link">Temporary Correctional Officer Trainee</a></li>
+<li class="menu__item is-expanded expanded menu-mlid-3643"><a href="https://corrections.az.gov/employment/correctional-officer-careers/correctional-officer-hiring-process" class="menu__link">Hiring Process</a><ul class="menu"><li class="menu__item is-leaf first last leaf menu-mlid-776"><a href="https://corrections.az.gov/employment/correctional-officer-careers/hiring-process/fitness-test" class="menu__link">Fitness Test</a></li>
+</ul></li>
+<li class="menu__item is-expanded expanded menu-mlid-747"><a href="https://corrections.az.gov/benefits" class="menu__link">Benefits</a><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-775"><a href="https://corrections.az.gov/co-benefits" class="menu__link">CO Benefits</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-3455"><a href="https://corrections.az.gov/employment/correctional-officer-careers/benefits/corrections-officer-retirement-plan" class="menu__link">CO Retirement Plan</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-930"><a href="https://corrections.az.gov/employment/correctional-officer-careers/benefits/corp-board-meeting-schedule" class="menu__link">CORP Board Meeting Schedule</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-3654"><a href="https://corrections.az.gov/employment/correctional-officer-careers/benefits/corp-meeting-agenda" class="menu__link">CORP Meeting Agenda</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-3655"><a href="https://corrections.az.gov/employment/correctional-officer-careers/benefits/corp-notice-meeting-cancellation" class="menu__link">CORP Notice of Meeting Cancellation</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-932"><a href="https://corrections.az.gov/employment/correctional-officer-careers/benefits/corp-meeting-minutes" class="menu__link">CORP Meeting Minutes</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-933"><a href="https://corrections.az.gov/employment/correctional-officer-careers/benefits/corp-notice-public-meeting" class="menu__link">CORP Notice of Public Meeting</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-935"><a href="https://corrections.az.gov/employment/correctional-officer-careers/benefits/corp-pre-retirement-seminars" class="menu__link">CORP Pre-Retirement Seminars</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-934"><a href="https://corrections.az.gov/employment/correctional-officer-careers/benefits/eligible-corp-job-classifications" class="menu__link">Eligible CORP Job Classifications</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-936"><a href="https://corrections.az.gov/employment/correctional-officer-careers/benefits/retirement-input-forms" class="menu__link">Retirement Input Forms</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-937"><a href="https://corrections.az.gov/employment/correctional-officer-careers/benefits/return-work-fact-sheet" class="menu__link">Return To Work Fact Sheet</a></li>
+</ul></li>
+<li class="menu__item is-leaf leaf menu-mlid-744"><a href="https://corrections.az.gov/recruiterscontact-rush" class="menu__link">Recruiters/Contact RUSH</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-3141"><a href="https://corrections.az.gov/employment/correctional-officer-careers/central-promotional-register" class="menu__link">Central Promotional Register</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-755"><a href="https://corrections.az.gov/correctional-officer-training-academy-cota" class="menu__link">Correctional Officer Training Academy (COTA)</a></li>
+</ul></li>
+<li class="menu__item is-expanded expanded menu-mlid-734"><a href="https://corrections.az.gov/employment/human-resources-development-group" class="menu__link">Human Resources &amp; Development Group</a><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-759"><a href="https://corrections.az.gov/employee-assistance-office" title="Employee Assistance Office" class="menu__link">Employee Assistance Office</a></li>
+<li class="menu__item is-expanded last expanded menu-mlid-728"><a href="https://corrections.az.gov/staff-development-training-bureau" title="Staff Development &amp; Training Bureau" class="menu__link">Staff Development &amp; Training Bureau</a><ul class="menu"><li class="menu__item is-leaf first last leaf menu-mlid-3341"><a href="https://corrections.az.gov/programs-services/staff-development-training-bureau/correctional-officer-training-academy-cota" class="menu__link">Correctional Officer Training Academy (COTA)</a></li>
+</ul></li>
+</ul></li>
+<li class="menu__item is-expanded last expanded menu-mlid-739"><a href="https://corrections.az.gov/policies" class="menu__link">CO Selection Process</a><ul class="menu"><li class="menu__item is-leaf first last leaf menu-mlid-790"><a href="http://corrections.az.gov/sites/default/files/cota_conduct_general_info_032513.pdf" title="" class="menu__link ext extlink" target="_blank">COTA Conduct and General Information</a></li>
+</ul></li>
+</ul></li>
+<li class="menu__item is-expanded expanded menu-mlid-871"><a href="https://corrections.az.gov/reports-documents" class="menu__link">Reports &amp; Documents</a><ul class="menu"><li class="menu__item is-expanded first expanded menu-mlid-893"><a href="https://corrections.az.gov/reports-documents/adcrr-policies" class="menu__link">ADCRR Policies</a><ul class="menu"><li class="menu__item is-leaf first last leaf menu-mlid-897"><a href="https://corrections.az.gov/reports-documents/adcrr-policies/department-orders-index" title="Department Orders" class="menu__link">Department Orders</a></li>
+</ul></li>
+<li class="menu__item is-expanded expanded menu-mlid-892"><a href="https://corrections.az.gov/reports-documents/reports" class="menu__link">Reports</a><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-1878"><a href="https://corrections.az.gov/reports-documents/reports/corrections-glance" class="menu__link">Corrections at a Glance</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-3208"><a href="https://corrections.az.gov/reports-documents/reports/adcrr-institutional-capacity-committed-population" class="menu__link">ADCRR Institutional Capacity &amp; Committed Population</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-3207"><a href="https://corrections.az.gov/reports-documents/reports/inmate-assault-self-harm-mortality-data" class="menu__link">Inmate Assault, Self-Harm &amp; Mortality Data</a></li>
+</ul></li>
+<li class="menu__item is-leaf last leaf menu-mlid-3761"><a href="https://corrections.az.gov/reports-documents/meet-confer" class="menu__link">Meet &amp; Confer</a></li>
+</ul></li>
+<li class="menu__item is-expanded last expanded menu-mlid-612"><a href="https://corrections.az.gov/about" class="menu__link">About</a><ul class="menu"><li class="menu__item is-expanded first expanded menu-mlid-733"><a href="https://corrections.az.gov/directors-office" class="menu__link">Director's Office</a><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-756"><a href="https://corrections.az.gov/mission-statement" class="menu__link">Mission Statement</a></li>
+<li class="menu__item is-expanded expanded menu-mlid-760"><a href="https://corrections.az.gov/media-relations" class="menu__link">Media Relations</a><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-889"><a href="https://corrections.az.gov/adc-news" title="" class="menu__link">ADCRR News &amp; Media</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-890"><a href="https://corrections.az.gov/events" title="" class="menu__link">ADCRR Events</a></li>
+<li class="menu__item is-expanded last expanded menu-mlid-898"><a href="https://corrections.az.gov/reports-documents/adcrr-policies" title="" class="menu__link">ADCRR Policies</a><ul class="menu"><li class="menu__item is-leaf first last leaf menu-mlid-952"><a href="https://corrections.az.gov/reports-documents/adcrr-policies/department-orders-index" title="Department Orders" class="menu__link">Department Orders</a></li>
+</ul></li>
+</ul></li>
+<li class="menu__item is-leaf leaf menu-mlid-758"><a href="https://corrections.az.gov/about/directors-office/legislative-liaison" class="menu__link">Legislative Liaison</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-757"><a href="https://corrections.az.gov/legal-services" class="menu__link">Legal Services</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-754"><a href="https://corrections.az.gov/strategic-planning" class="menu__link">The Office of Continuous Improvement &amp; Strategic Planning</a></li>
+</ul></li>
+<li class="menu__item is-leaf leaf menu-mlid-797"><a href="https://corrections.az.gov/deputy-director" class="menu__link">Deputy Director</a></li>
+<li class="menu__item is-expanded expanded menu-mlid-732"><a href="https://corrections.az.gov/admin-services" class="menu__link">Administrative Services</a><ul class="menu"><li class="menu__item is-expanded first expanded menu-mlid-877"><a href="https://corrections.az.gov/procurement" class="menu__link">Procurement</a><ul class="menu"><li class="menu__item is-leaf first last leaf menu-mlid-904"><a href="https://corrections.az.gov/about/administrative-services/procurement/procurement-servicesrequest-proposal-rfp" class="menu__link">Procurement Services/Request for Proposal (RFP)</a></li>
+</ul></li>
+<li class="menu__item is-leaf leaf menu-mlid-878"><a href="https://corrections.az.gov/financial-services" class="menu__link">Financial Services</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-901"><a href="https://corrections.az.gov/about/administrative-services/information-technology-it" class="menu__link">Information Technology</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-902"><a href="https://corrections.az.gov/about/administrative-services/planning-budget-research-bureau" class="menu__link">Planning, Budget &amp; Research</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-903"><a href="https://corrections.az.gov/about/administrative-services/engineering-and-facilities-bureau" class="menu__link">Engineering and Facilities Bureau</a></li>
+</ul></li>
+<li class="menu__item is-expanded expanded menu-mlid-736"><a href="https://corrections.az.gov/adc-news" title="" class="menu__link">ADCRR News &amp; Media</a><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-3854"><a href="https://corrections.az.gov/adcrr-press-releases" title="" class="menu__link">ADCRR Press Releases</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-3437"><a href="https://corrections.az.gov/events" title="Scheduled Meetings" class="menu__link">ADCRR Events</a></li>
+</ul></li>
+<li class="menu__item is-expanded expanded menu-mlid-738"><a href="https://corrections.az.gov/adc-history" class="menu__link">ADCRR History</a><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-1774"><a href="https://corrections.az.gov/about/adc-history/adc-remembers-staff-killed-in-the-line-of-duty" title="ADC Staff Killed In The Line Of Duty" class="menu__link">Remembrance</a></li>
+<li class="menu__item is-expanded expanded menu-mlid-1770"><a href="https://corrections.az.gov/about/adc-history/historical-prison-register" title="Historical Prison Register for 100 years to 1972" class="menu__link">Historical Prison Register</a><ul class="menu"><li class="menu__item is-leaf first last leaf menu-mlid-2352"><a href="https://corrections.az.gov/about/adc-history/historical-prison-register/historical-prison-register" class="menu__link">Historical Prison Register</a></li>
+</ul></li>
+<li class="menu__item is-leaf leaf menu-mlid-1771"><a href="https://corrections.az.gov/women-corrections" title="Women in Corrections" class="menu__link">Women in Corrections</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-3461"><a href="https://corrections.az.gov/about/adcrr-history/adc-badges-patches-medals-awards" title="" class="menu__link">ADCRR Badges and Patches</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-1773"><a href="https://corrections.az.gov/about/adcrr-history/past-adc-directors" title="ADCRR Director History" class="menu__link">ADCRR Director History</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-1775"><a href="https://corrections.az.gov/historical-prison-register" title="" class="menu__link">Life Imprisonment and Death Sentences 1875-1966</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-1776"><a href="https://corrections.az.gov/public-resources/death-row/arizona-death-penalty-history" title="" class="menu__link">Death Penalty History</a></li>
+</ul></li>
+<li class="menu__item is-leaf leaf menu-mlid-859"><a href="https://corrections.az.gov/prisons" title="" class="menu__link">ADCRR Prisons</a></li>
+<li class="menu__item is-expanded expanded menu-mlid-781"><a href="https://corrections.az.gov/about/adcrr-community-information" class="menu__link">ADCRR Community</a><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-861"><a href="http://www.100club.org/" title="" class="menu__link ext extlink" target="_blank">100 Club</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-863"><a href="https://az.gov/government" title="" class="menu__link ext extlink" target="_blank">AZ Gov Information Resource Locator</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-865"><a href="https://servicearizona.com/voterRegistration" title="" class="menu__link ext extlink" target="_blank">EZ Voter Registration</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-868"><a href="https://corrections.az.gov/local-community-contacts" class="menu__link">Local Community Contacts</a></li>
+</ul></li>
+<li class="menu__item is-leaf leaf menu-mlid-718"><a href="https://corrections.az.gov/volunteer-opportunities" class="menu__link">Volunteer Opportunities</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-924"><a href="https://corrections.az.gov/about/contact-us" class="menu__link">Contact Us</a></li>
+</ul></li>
+</ul></div>
+
+</div>
+</div>  </div>
+</header>
+
+<div id="page">
+
+  <div id="main">
+
+    <div id="navigation">
+        <div class="region region-navigation">
+    <div id="block-superfish-1" class="block block-superfish main-menu main-menu-no-mobile first odd">
+
+      
+  <ul id="superfish-1" class="menu sf-menu sf-main-menu sf-horizontal sf-style-none sf-total-items-7 sf-parent-items-6 sf-single-items-1 superfish-processed sf-js-enabled sf-shadow"><li id="menu-715-1" class="first odd sf-item-1 sf-depth-1 sf-no-children"><a href="https://corrections.az.gov/" title="" class="sf-depth-1">Home</a></li><li id="menu-800-1" class="middle even sf-item-2 sf-depth-1 sf-total-children-5 sf-parent-children-0 sf-single-children-5 menuparent"><a href="https://corrections.az.gov/prisons" class="sf-depth-1 menuparent sf-with-ul">Prisons &amp; Visitation<span class="sf-sub-indicator"> »</span></a><ul class="sf-hidden" style="float: none; width: 25.7857em;"><li id="menu-723-1" class="first odd sf-item-1 sf-depth-2 sf-no-children" style=""><a href="https://corrections.az.gov/inmate-visitation-application" class="sf-depth-2" style="">Application To Visit An Inmate / Phone Application</a></li><li id="menu-795-1" class="middle even sf-item-2 sf-depth-2 sf-no-children" style=""><a href="https://corrections.az.gov/capacity-custody-level" class="sf-depth-2" style="">Historical Daily Count Sheets</a></li><li id="menu-891-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children" style=""><a href="https://corrections.az.gov/prisons" class="sf-depth-2" style="">State Map of Complexes</a></li><li id="menu-972-1" class="middle even sf-item-4 sf-depth-2 sf-no-children" style=""><a href="https://corrections.az.gov/parole-office-locations" title="Parole Office Locations" class="sf-depth-2" style="">Parole Office Locations</a></li><li id="menu-3859-1" class="last odd sf-item-5 sf-depth-2 sf-no-children" style=""><a href="https://corrections.az.gov/sites/default/files/documents/PDFs/prisons_mailing_addresses_2022.pdf" title="" class="sf-depth-2 ext extlink" target="_blank" style="">Prison Mailing Address</a></li></ul></li><li id="menu-844-1" class="middle odd sf-item-3 sf-depth-1 sf-total-children-10 sf-parent-children-5 sf-single-children-5 menuparent"><a href="https://corrections.az.gov/public-resources" class="sf-depth-1 menuparent sf-with-ul">Public Resources<span class="sf-sub-indicator"> »</span></a><ul class="sf-hidden" style="float: none; width: 16.0714em;"><li id="menu-1222-1" class="first odd sf-item-1 sf-depth-2 sf-no-children" style=""><a href="https://corrections.az.gov/public-resources/inmate-datasearch" class="sf-depth-2" style="">Inmate DataSearch</a></li><li id="menu-782-1" class="middle even sf-item-2 sf-depth-2 sf-total-children-9 sf-parent-children-0 sf-single-children-9 menuparent" style=""><a href="https://corrections.az.gov/victim-services" class="sf-depth-2 menuparent sf-with-ul" style="">Victim Services<span class="sf-sub-indicator"> »</span></a><ul class="sf-hidden" style="left: 100%; float: none; width: 20.1429em;"><li id="menu-784-1" class="first odd sf-item-1 sf-depth-3 sf-no-children" style=""><a href="https://corrections.az.gov/public-resources/victim-services/victim-rights" class="sf-depth-3" style="">Victim Rights</a></li><li id="menu-845-1" class="middle even sf-item-2 sf-depth-3 sf-no-children" style=""><a href="https://corrections.az.gov/victim-faqs#pcnr" title="" class="sf-depth-3" style="">Post-Conviction Notification</a></li><li id="menu-846-1" class="middle odd sf-item-3 sf-depth-3 sf-no-children" style=""><a href="https://corrections.az.gov/victim-faqs#order" title="" class="sf-depth-3" style="">Protective Services</a></li><li id="menu-847-1" class="middle even sf-item-4 sf-depth-3 sf-no-children" style=""><a href="https://corrections.az.gov/victim-faqs#restitution" title="" class="sf-depth-3" style="">Restitution</a></li><li id="menu-848-1" class="middle odd sf-item-5 sf-depth-3 sf-no-children" style=""><a href="https://corrections.az.gov/victim-organizations-related-links" class="sf-depth-3" style="">Victim Organizations &amp; Related Links</a></li><li id="menu-849-1" class="middle even sf-item-6 sf-depth-3 sf-no-children" style=""><a href="https://corrections.az.gov/county-contact-information" class="sf-depth-3" style="">County Contact Information</a></li><li id="menu-722-1" class="middle odd sf-item-7 sf-depth-3 sf-no-children" style=""><a href="https://corrections.az.gov/victim-faqs#hearings" class="sf-depth-3" style="">Information on Hearings</a></li><li id="menu-783-1" class="middle even sf-item-8 sf-depth-3 sf-no-children" style=""><a href="https://corrections.az.gov/victim-faqs" class="sf-depth-3" style="">Victim FAQs</a></li><li id="menu-773-1" class="last odd sf-item-9 sf-depth-3 sf-no-children" style=""><a href="https://corrections.az.gov/contact-victim-services" class="sf-depth-3" style="">Contact Victim Services</a></li></ul></li><li id="menu-729-1" class="middle odd sf-item-3 sf-depth-2 sf-total-children-4 sf-parent-children-0 sf-single-children-4 menuparent" style=""><a href="https://corrections.az.gov/deputy-director/constituent-services" class="sf-depth-2 menuparent sf-with-ul" style="">Constituent Services<span class="sf-sub-indicator"> »</span></a><ul class="sf-hidden" style="left: 100%; float: none; width: 22.7857em;"><li id="menu-746-1" class="first odd sf-item-1 sf-depth-3 sf-no-children" style=""><a href="https://corrections.az.gov/public-resources/constituent-services/communicating-adcrr-about-inmate" class="sf-depth-3" style="">Communicating With ADCRR About Inmate</a></li><li id="menu-763-1" class="middle even sf-item-2 sf-depth-3 sf-no-children" style=""><a href="https://corrections.az.gov/public-resources/constituent-services/inmate-information-connection" class="sf-depth-3" style="">Inmate Information Connection</a></li><li id="menu-761-1" class="middle odd sf-item-3 sf-depth-3 sf-no-children" style=""><a href="https://corrections.az.gov/public-resources/constituent-services/family-assistance-and-other-useful-links" class="sf-depth-3" style="">Family Assistance and Other Useful Links</a></li><li id="menu-3633-1" class="last even sf-item-4 sf-depth-3 sf-no-children" style=""><a href="https://corrections.az.gov/public-resources/constituent-services/electronic-payments" class="sf-depth-3" style="">Inmate Trust Accounts Electronic Payments</a></li></ul></li><li id="menu-3463-1" class="middle even sf-item-4 sf-depth-2 sf-no-children" style=""><a href="https://corrections.az.gov/public-resources/public-records-department" title="" class="sf-depth-2" style="">Public Records Department</a></li><li id="menu-802-1" class="middle odd sf-item-5 sf-depth-2 sf-no-children" style=""><a href="https://corrections.az.gov/public-resources/emergency-preparedness" class="sf-depth-2" style="">Emergency Preparedness</a></li><li id="menu-793-1" class="middle even sf-item-6 sf-depth-2 sf-total-children-5 sf-parent-children-0 sf-single-children-5 menuparent" style=""><a href="https://corrections.az.gov/public-resources/prison-operations" class="sf-depth-2 menuparent sf-with-ul" style="">Prison Operations<span class="sf-sub-indicator"> »</span></a><ul class="sf-hidden" style="left: 100%; float: none; width: 13.6429em;"><li id="menu-852-1" class="first odd sf-item-1 sf-depth-3 sf-no-children" style=""><a href="https://corrections.az.gov/administration" class="sf-depth-3" style="">Administration</a></li><li id="menu-853-1" class="middle even sf-item-2 sf-depth-3 sf-no-children" style=""><a href="https://corrections.az.gov/security-operations" class="sf-depth-3" style="">Security Operations</a></li><li id="menu-854-1" class="middle odd sf-item-3 sf-depth-3 sf-no-children" style=""><a href="https://corrections.az.gov/prisons" title="" class="sf-depth-3" style="">Prison Complexes</a></li><li id="menu-856-1" class="middle even sf-item-4 sf-depth-3 sf-no-children" style=""><a href="https://corrections.az.gov/contract-beds-bureau" class="sf-depth-3" style="">Contract Beds Bureau</a></li><li id="menu-857-1" class="last odd sf-item-5 sf-depth-3 sf-no-children" style=""><a href="https://corrections.az.gov/offender-services" class="sf-depth-3" style="">Offender Services</a></li></ul></li><li id="menu-724-1" class="middle odd sf-item-7 sf-depth-2 sf-total-children-7 sf-parent-children-1 sf-single-children-6 menuparent" style=""><a href="https://corrections.az.gov/public-resources/inspector-general" class="sf-depth-2 menuparent sf-with-ul" style="">Inspector General<span class="sf-sub-indicator"> »</span></a><ul class="sf-hidden" style="left: 100%; float: none; width: 16.9286em;"><li id="menu-750-1" class="first odd sf-item-1 sf-depth-3 sf-no-children" style=""><a href="https://corrections.az.gov/administrative-investigations" class="sf-depth-3" style="">Administrative Investigations</a></li><li id="menu-751-1" class="middle even sf-item-2 sf-depth-3 sf-no-children" style=""><a href="https://corrections.az.gov/policy-unit" class="sf-depth-3" style="">Policy Unit</a></li><li id="menu-749-1" class="middle odd sf-item-3 sf-depth-3 sf-no-children" style=""><a href="https://corrections.az.gov/audit-unit" class="sf-depth-3" style="">Audit Unit</a></li><li id="menu-748-1" class="middle even sf-item-4 sf-depth-3 sf-no-children" style=""><a href="https://corrections.az.gov/background-investigations" class="sf-depth-3" style="">Background Investigations</a></li><li id="menu-745-1" class="middle odd sf-item-5 sf-depth-3 sf-no-children" style=""><a href="https://corrections.az.gov/criminal-investigations" class="sf-depth-3" style="">Criminal Investigations</a></li><li id="menu-742-1" class="middle even sf-item-6 sf-depth-3" style=""><a href="https://corrections.az.gov/public-resources/inspector-general/security-threat-groups" class="sf-depth-3" style="">Security Threat Group Unit</a></li><li id="menu-813-1" class="last odd sf-item-7 sf-depth-3 sf-no-children" style=""><a href="https://corrections.az.gov/public-resources/inspector-general/special-operations" class="sf-depth-3" style="">Special Operations</a></li></ul></li><li id="menu-850-1" class="middle even sf-item-8 sf-depth-2 sf-total-children-7 sf-parent-children-0 sf-single-children-7 menuparent" style=""><a href="https://corrections.az.gov/public-resources/death-row" class="sf-depth-2 menuparent sf-with-ul" style="">Death Row<span class="sf-sub-indicator"> »</span></a><ul class="sf-hidden" style="left: 100%; float: none; width: 23.2143em;"><li id="menu-1267-1" class="first odd sf-item-1 sf-depth-3 sf-no-children" style=""><a href="https://corrections.az.gov/public-resources/death-row/most-recent-execution" title="Most Recent Execution" class="sf-depth-3" style="">Most Recent Execution</a></li><li id="menu-1268-1" class="middle even sf-item-2 sf-depth-3 sf-no-children" style=""><a href="https://corrections.az.gov/public-resources/death-row/executions-prior-1992-execution-methods" title="Executed Prior to 1992 &amp; Execution Methods" class="sf-depth-3" style="">Executed Prior to 1992 &amp; Execution Methods</a></li><li id="menu-1269-1" class="middle odd sf-item-3 sf-depth-3 sf-no-children" style=""><a href="https://corrections.az.gov/public-resources/death-row/witness-groups" title="" class="sf-depth-3" style="">Witness Groups</a></li><li id="menu-1270-1" class="middle even sf-item-4 sf-depth-3 sf-no-children" style=""><a href="https://corrections.az.gov/public-resources/death-row/arizona-death-penalty-history" title="" class="sf-depth-3" style="">Death Penalty History</a></li><li id="menu-1271-1" class="middle odd sf-item-5 sf-depth-3 sf-no-children" style=""><a href="https://corrections.az.gov/public-resources/death-row/death-row-sentences-county-breakdown" title="" class="sf-depth-3" style="">Sentencing Counties</a></li><li id="menu-1220-1" class="middle even sf-item-6 sf-depth-3 sf-no-children" style=""><a href="https://corrections.az.gov/public-resources/death-row/last-meals-request" class="sf-depth-3" style="">Executed since 1992/Last Meals</a></li><li id="menu-1272-1" class="last odd sf-item-7 sf-depth-3 sf-no-children" style=""><a href="https://corrections.az.gov/public-resources/death-row/death-row-information-and-frequently-asked-questions" title="" class="sf-depth-3" style="">Death Row Information and FAQ</a></li></ul></li><li id="menu-951-1" class="middle odd sf-item-9 sf-depth-2 sf-no-children" style=""><a href="https://corrections.az.gov/external-links" title="External Website Links" class="sf-depth-2" style="">External Links</a></li><li id="menu-3865-1" class="last even sf-item-10 sf-depth-2 sf-no-children" style=""><a href="https://corrections.az.gov/public-resources/legal-calls" class="sf-depth-2" style="">Legal Calls</a></li></ul></li><li id="menu-799-1" class="middle even sf-item-4 sf-depth-1 sf-total-children-2 sf-parent-children-1 sf-single-children-1 menuparent"><a href="https://corrections.az.gov/programs-services" class="sf-depth-1 menuparent sf-with-ul">Programs &amp; Services<span class="sf-sub-indicator"> »</span></a><ul class="sf-hidden" style="float: none; width: 16.0714em;"><li id="menu-726-1" class="first odd sf-item-1 sf-depth-2 sf-no-children" style=""><a href="https://corrections.az.gov/health-services" class="sf-depth-2" style="">Medical Services</a></li><li id="menu-954-1" class="last even sf-item-2 sf-depth-2 sf-total-children-6 sf-parent-children-2 sf-single-children-4 menuparent" style=""><a href="https://corrections.az.gov/programs-services/inmate-programs-reentry" title="Inmate Programs &amp; Reentry" class="sf-depth-2 menuparent sf-with-ul" style="">Inmate Programs &amp; Reentry<span class="sf-sub-indicator"> »</span></a><ul class="sf-hidden" style="left: 100%; float: none; width: 18.5em;"><li id="menu-958-1" class="first odd sf-item-1 sf-depth-3 sf-no-children" style=""><a href="https://corrections.az.gov/workforce-development" title="Inmate Education" class="sf-depth-3" style="">Inmate Education</a></li><li id="menu-962-1" class="middle even sf-item-2 sf-depth-3" style=""><a href="https://corrections.az.gov/religious-services" title="Religious Services" class="sf-depth-3" style="">Religious Services</a></li><li id="menu-3653-1" class="middle odd sf-item-3 sf-depth-3" style=""><a href="https://corrections.az.gov/community-corrections" class="sf-depth-3" style="">Community Corrections</a></li><li id="menu-959-1" class="middle even sf-item-4 sf-depth-3 sf-no-children" style=""><a href="https://corrections.az.gov/addiction-treatment-services" title="Counseling &amp; Treatment Services" class="sf-depth-3" style="">Counseling &amp; Treatment Services</a></li><li id="menu-3625-1" class="middle odd sf-item-5 sf-depth-3 sf-no-children" style=""><a href="https://corrections.az.gov/programs-services/inmate-programs-reentry/program-systems" class="sf-depth-3" style="">Program Systems</a></li><li id="menu-3629-1" class="last even sf-item-6 sf-depth-3 sf-no-children" style=""><a href="https://corrections.az.gov/programs-services/inmate-programs-reentry/new-inmate-release-card-program" class="sf-depth-3" style="">Inmate Release Card Program</a></li></ul></li></ul></li><li id="menu-798-1" class="middle odd sf-item-5 sf-depth-1 sf-total-children-4 sf-parent-children-3 sf-single-children-1 menuparent"><a href="https://corrections.az.gov/employment" class="sf-depth-1 menuparent sf-with-ul">Employment<span class="sf-sub-indicator"> »</span></a><ul class="sf-hidden" style="float: none; width: 21.7857em;"><li id="menu-717-1" class="first odd sf-item-1 sf-depth-2 sf-no-children" style=""><a href="https://corrections.az.gov/adc-careers" class="sf-depth-2" style="">ADCRR Careers</a></li><li id="menu-727-1" class="middle even sf-item-2 sf-depth-2 sf-total-children-6 sf-parent-children-2 sf-single-children-4 menuparent" style=""><a href="https://corrections.az.gov/correctional-officer-careers" class="sf-depth-2 menuparent sf-with-ul" style="">Correctional Officer Careers<span class="sf-sub-indicator"> »</span></a><ul class="sf-hidden" style="left: 100%; float: none; width: 23.7857em;"><li id="menu-3642-1" class="first odd sf-item-1 sf-depth-3 sf-no-children" style=""><a href="https://corrections.az.gov/employment/correctional-officer-careers/temporary-correctional-officer-trainee-program" class="sf-depth-3" style="">Temporary Correctional Officer Trainee</a></li><li id="menu-3643-1" class="middle even sf-item-2 sf-depth-3" style=""><a href="https://corrections.az.gov/employment/correctional-officer-careers/correctional-officer-hiring-process" class="sf-depth-3" style="">Hiring Process</a></li><li id="menu-747-1" class="middle odd sf-item-3 sf-depth-3" style=""><a href="https://corrections.az.gov/benefits" class="sf-depth-3" style="">Benefits</a></li><li id="menu-744-1" class="middle even sf-item-4 sf-depth-3 sf-no-children" style=""><a href="https://corrections.az.gov/recruiterscontact-rush" class="sf-depth-3" style="">Recruiters/Contact RUSH</a></li><li id="menu-3141-1" class="middle odd sf-item-5 sf-depth-3 sf-no-children" style=""><a href="https://corrections.az.gov/employment/correctional-officer-careers/central-promotional-register" class="sf-depth-3" style="">Central Promotional Register</a></li><li id="menu-755-1" class="last even sf-item-6 sf-depth-3 sf-no-children" style=""><a href="https://corrections.az.gov/correctional-officer-training-academy-cota" class="sf-depth-3" style="">Correctional Officer Training Academy (COTA)</a></li></ul></li><li id="menu-734-1" class="middle odd sf-item-3 sf-depth-2 sf-total-children-2 sf-parent-children-1 sf-single-children-1 menuparent" style=""><a href="https://corrections.az.gov/employment/human-resources-development-group" class="sf-depth-2 menuparent sf-with-ul" style="">Human Resources &amp; Development Group<span class="sf-sub-indicator"> »</span></a><ul class="sf-hidden" style="left: 100%; float: none; width: 20.2143em;"><li id="menu-759-1" class="first odd sf-item-1 sf-depth-3 sf-no-children" style=""><a href="https://corrections.az.gov/employee-assistance-office" title="Employee Assistance Office" class="sf-depth-3" style="">Employee Assistance Office</a></li><li id="menu-728-1" class="last even sf-item-2 sf-depth-3" style=""><a href="https://corrections.az.gov/staff-development-training-bureau" title="Staff Development &amp; Training Bureau" class="sf-depth-3" style="">Staff Development &amp; Training Bureau</a></li></ul></li><li id="menu-739-1" class="last even sf-item-4 sf-depth-2 sf-total-children-1 sf-parent-children-0 sf-single-children-1 menuparent" style=""><a href="https://corrections.az.gov/policies" class="sf-depth-2 menuparent sf-with-ul" style="">CO Selection Process<span class="sf-sub-indicator"> »</span></a><ul class="sf-hidden" style="left: 100%; float: none; width: 21em;"><li id="menu-790-1" class="firstandlast odd sf-item-1 sf-depth-3 sf-no-children" style=""><a href="http://corrections.az.gov/sites/default/files/cota_conduct_general_info_032513.pdf" title="" class="sf-depth-3 ext extlink" target="_blank" style="">COTA Conduct and General Information</a></li></ul></li></ul></li><li id="menu-871-1" class="middle even sf-item-6 sf-depth-1 sf-total-children-3 sf-parent-children-2 sf-single-children-1 menuparent"><a href="https://corrections.az.gov/reports-documents" class="sf-depth-1 menuparent sf-with-ul">Reports &amp; Documents<span class="sf-sub-indicator"> »</span></a><ul class="sf-hidden" style="float: none; width: 12em;"><li id="menu-893-1" class="first odd sf-item-1 sf-depth-2 sf-total-children-1 sf-parent-children-0 sf-single-children-1 menuparent" style=""><a href="https://corrections.az.gov/reports-documents/adcrr-policies" class="sf-depth-2 menuparent sf-with-ul" style="">ADCRR Policies<span class="sf-sub-indicator"> »</span></a><ul class="sf-hidden" style="left: 100%; float: none; width: 12.5em;"><li id="menu-897-1" class="firstandlast odd sf-item-1 sf-depth-3 sf-no-children" style=""><a href="https://corrections.az.gov/reports-documents/adcrr-policies/department-orders-index" title="Department Orders" class="sf-depth-3" style="">Department Orders</a></li></ul></li><li id="menu-892-1" class="middle even sf-item-2 sf-depth-2 sf-total-children-3 sf-parent-children-0 sf-single-children-3 menuparent" style=""><a href="https://corrections.az.gov/reports-documents/reports" class="sf-depth-2 menuparent sf-with-ul" style="">Reports<span class="sf-sub-indicator"> »</span></a><ul class="sf-hidden" style="left: 100%; float: none; width: 27em;"><li id="menu-1878-1" class="first odd sf-item-1 sf-depth-3 sf-no-children" style=""><a href="https://corrections.az.gov/reports-documents/reports/corrections-glance" class="sf-depth-3" style="">Corrections at a Glance</a></li><li id="menu-3208-1" class="middle even sf-item-2 sf-depth-3 sf-no-children" style=""><a href="https://corrections.az.gov/reports-documents/reports/adcrr-institutional-capacity-committed-population" class="sf-depth-3" style="">ADCRR Institutional Capacity &amp; Committed Population</a></li><li id="menu-3207-1" class="last odd sf-item-3 sf-depth-3 sf-no-children" style=""><a href="https://corrections.az.gov/reports-documents/reports/inmate-assault-self-harm-mortality-data" class="sf-depth-3" style="">Inmate Assault, Self-Harm &amp; Mortality Data</a></li></ul></li><li id="menu-3761-1" class="last odd sf-item-3 sf-depth-2 sf-no-children" style=""><a href="https://corrections.az.gov/reports-documents/meet-confer" class="sf-depth-2" style="">Meet &amp; Confer</a></li></ul></li><li id="menu-612-1" class="active-trail last odd sf-item-7 sf-depth-1 sf-total-children-9 sf-parent-children-5 sf-single-children-4 menuparent"><a href="https://corrections.az.gov/about" class="sf-depth-1 menuparent sf-with-ul">About<span class="sf-sub-indicator"> »</span></a><ul class="sf-hidden" style="float: none; width: 14.5714em;"><li id="menu-733-1" class="first odd sf-item-1 sf-depth-2 sf-total-children-5 sf-parent-children-1 sf-single-children-4 menuparent" style=""><a href="https://corrections.az.gov/directors-office" class="sf-depth-2 menuparent sf-with-ul" style="">Director's Office<span class="sf-sub-indicator"> »</span></a><ul class="sf-hidden" style="left: 100%; float: none; width: 27em;"><li id="menu-756-1" class="first odd sf-item-1 sf-depth-3 sf-no-children" style=""><a href="https://corrections.az.gov/mission-statement" class="sf-depth-3" style="">Mission Statement</a></li><li id="menu-760-1" class="middle even sf-item-2 sf-depth-3" style=""><a href="https://corrections.az.gov/media-relations" class="sf-depth-3" style="">Media Relations</a></li><li id="menu-758-1" class="middle odd sf-item-3 sf-depth-3 sf-no-children" style=""><a href="https://corrections.az.gov/about/directors-office/legislative-liaison" class="sf-depth-3" style="">Legislative Liaison</a></li><li id="menu-757-1" class="middle even sf-item-4 sf-depth-3 sf-no-children" style=""><a href="https://corrections.az.gov/legal-services" class="sf-depth-3" style="">Legal Services</a></li><li id="menu-754-1" class="last odd sf-item-5 sf-depth-3 sf-no-children" style=""><a href="https://corrections.az.gov/strategic-planning" class="sf-depth-3" style="">The Office of Continuous Improvement &amp; Strategic Planning</a></li></ul></li><li id="menu-797-1" class="middle even sf-item-2 sf-depth-2 sf-no-children" style=""><a href="https://corrections.az.gov/deputy-director" class="sf-depth-2" style="">Deputy Director</a></li><li id="menu-732-1" class="middle odd sf-item-3 sf-depth-2 sf-total-children-5 sf-parent-children-1 sf-single-children-4 menuparent" style=""><a href="https://corrections.az.gov/admin-services" class="sf-depth-2 menuparent sf-with-ul" style="">Administrative Services<span class="sf-sub-indicator"> »</span></a><ul class="sf-hidden" style="left: 100%; float: none; width: 18.5714em;"><li id="menu-877-1" class="first odd sf-item-1 sf-depth-3" style=""><a href="https://corrections.az.gov/procurement" class="sf-depth-3" style="">Procurement</a></li><li id="menu-878-1" class="middle even sf-item-2 sf-depth-3 sf-no-children" style=""><a href="https://corrections.az.gov/financial-services" class="sf-depth-3" style="">Financial Services</a></li><li id="menu-901-1" class="middle odd sf-item-3 sf-depth-3 sf-no-children" style=""><a href="https://corrections.az.gov/about/administrative-services/information-technology-it" class="sf-depth-3" style="">Information Technology</a></li><li id="menu-902-1" class="middle even sf-item-4 sf-depth-3 sf-no-children" style=""><a href="https://corrections.az.gov/about/administrative-services/planning-budget-research-bureau" class="sf-depth-3" style="">Planning, Budget &amp; Research</a></li><li id="menu-903-1" class="last odd sf-item-5 sf-depth-3 sf-no-children" style=""><a href="https://corrections.az.gov/about/administrative-services/engineering-and-facilities-bureau" class="sf-depth-3" style="">Engineering and Facilities Bureau</a></li></ul></li><li id="menu-736-1" class="active-trail middle even sf-item-4 sf-depth-2 sf-total-children-3 sf-parent-children-0 sf-single-children-3 menuparent" style=""><a href="https://corrections.az.gov/adc-news" title="" class="sf-depth-2 menuparent sf-with-ul" style="">ADCRR News &amp; Media<span class="sf-sub-indicator"> »</span></a><ul class="sf-hidden" style="left: 100%; float: none; width: 22.4286em;"><li id="menu-884-1" class="active-trail first odd sf-item-1 sf-depth-3 sf-no-children" style=""><a href="https://corrections.az.gov/article/inmate-death-notification-%E2%80%93-manuel-corona" class="menu-position-link sf-depth-3 active" style="">Inmate Death Notification – Manuel Corona</a></li><li id="menu-3854-1" class="middle even sf-item-2 sf-depth-3 sf-no-children" style=""><a href="https://corrections.az.gov/adcrr-press-releases" title="" class="sf-depth-3" style="">ADCRR Press Releases</a></li><li id="menu-3437-1" class="last odd sf-item-3 sf-depth-3 sf-no-children" style=""><a href="https://corrections.az.gov/events" title="Scheduled Meetings" class="sf-depth-3" style="">ADCRR Events</a></li></ul></li><li id="menu-738-1" class="middle odd sf-item-5 sf-depth-2 sf-total-children-7 sf-parent-children-1 sf-single-children-6 menuparent" style=""><a href="https://corrections.az.gov/adc-history" class="sf-depth-2 menuparent sf-with-ul" style="">ADCRR History<span class="sf-sub-indicator"> »</span></a><ul class="sf-hidden" style="left: 100%; float: none; width: 26em;"><li id="menu-1774-1" class="first odd sf-item-1 sf-depth-3 sf-no-children" style=""><a href="https://corrections.az.gov/about/adc-history/adc-remembers-staff-killed-in-the-line-of-duty" title="ADC Staff Killed In The Line Of Duty" class="sf-depth-3" style="">Remembrance</a></li><li id="menu-1770-1" class="middle even sf-item-2 sf-depth-3" style=""><a href="https://corrections.az.gov/about/adc-history/historical-prison-register" title="Historical Prison Register for 100 years to 1972" class="sf-depth-3" style="">Historical Prison Register</a></li><li id="menu-1771-1" class="middle odd sf-item-3 sf-depth-3 sf-no-children" style=""><a href="https://corrections.az.gov/women-corrections" title="Women in Corrections" class="sf-depth-3" style="">Women in Corrections</a></li><li id="menu-3461-1" class="middle even sf-item-4 sf-depth-3 sf-no-children" style=""><a href="https://corrections.az.gov/about/adcrr-history/adc-badges-patches-medals-awards" title="" class="sf-depth-3" style="">ADCRR Badges and Patches</a></li><li id="menu-1773-1" class="middle odd sf-item-5 sf-depth-3 sf-no-children" style=""><a href="https://corrections.az.gov/about/adcrr-history/past-adc-directors" title="ADCRR Director History" class="sf-depth-3" style="">ADCRR Director History</a></li><li id="menu-1775-1" class="middle even sf-item-6 sf-depth-3 sf-no-children" style=""><a href="https://corrections.az.gov/historical-prison-register" title="" class="sf-depth-3" style="">Life Imprisonment and Death Sentences 1875-1966</a></li><li id="menu-1776-1" class="last odd sf-item-7 sf-depth-3 sf-no-children" style=""><a href="https://corrections.az.gov/public-resources/death-row/arizona-death-penalty-history" title="" class="sf-depth-3" style="">Death Penalty History</a></li></ul></li><li id="menu-859-1" class="middle even sf-item-6 sf-depth-2 sf-no-children" style=""><a href="https://corrections.az.gov/prisons" title="" class="sf-depth-2" style="">ADCRR Prisons</a></li><li id="menu-781-1" class="middle odd sf-item-7 sf-depth-2 sf-total-children-4 sf-parent-children-0 sf-single-children-4 menuparent" style=""><a href="https://corrections.az.gov/about/adcrr-community-information" class="sf-depth-2 menuparent sf-with-ul" style="">ADCRR Community<span class="sf-sub-indicator"> »</span></a><ul class="sf-hidden" style="left: 100%; float: none; width: 20.0714em;"><li id="menu-861-1" class="first odd sf-item-1 sf-depth-3 sf-no-children" style=""><a href="http://www.100club.org/" title="" class="sf-depth-3 ext extlink" target="_blank" style="">100 Club</a></li><li id="menu-863-1" class="middle even sf-item-2 sf-depth-3 sf-no-children" style=""><a href="https://az.gov/government" title="" class="sf-depth-3 ext extlink" target="_blank" style="">AZ Gov Information Resource Locator</a></li><li id="menu-865-1" class="middle odd sf-item-3 sf-depth-3 sf-no-children" style=""><a href="https://servicearizona.com/voterRegistration" title="" class="sf-depth-3 ext extlink" target="_blank" style="">EZ Voter Registration</a></li><li id="menu-868-1" class="last even sf-item-4 sf-depth-3 sf-no-children" style=""><a href="https://corrections.az.gov/local-community-contacts" class="sf-depth-3" style="">Local Community Contacts</a></li></ul></li><li id="menu-718-1" class="middle even sf-item-8 sf-depth-2 sf-no-children" style=""><a href="https://corrections.az.gov/volunteer-opportunities" class="sf-depth-2" style="">Volunteer Opportunities</a></li><li id="menu-924-1" class="last odd sf-item-9 sf-depth-2 sf-no-children" style=""><a href="https://corrections.az.gov/about/contact-us" class="sf-depth-2" style="">Contact Us</a></li></ul></li></ul>
+</div>
+<div id="block-azdoc-notifications-notification-block" class="block block-azdoc-notifications last even">
+
+      
+  <link href="./AZ_custodial_death_example_files/css" rel="stylesheet">
+<style type="text/css">
+	img{
+		border-radius: 7px 7px 0 0;
+	}
+
+	li:last-child{
+		border-radius: 0 0 7px 7px;
+	}
+	.container-div h5, .container-div h3, .container-div h3, .container-div p{
+		margin: 0;
+		padding: 0;
+		font-family: 'Roboto', sans-serif;
+		font-weight: 400;
+	}
+	.list-group{
+		display: -ms-flexbox;
+		display: flex;
+		-ms-flex-direction: column;
+		flex-direction: column;
+		margin: 5px; 
+		padding: 5px;
+		background-color: red;
+	}
+	.list-group-item.active{	
+		color: #fff;
+		background-color: #818182;
+		border-color: #818182;
+	}
+	.list-group-item.active:hover{	
+		background-color:#818182;
+	}
+	.list-group-item{
+		min-height: 110px;
+		position: relative;
+		display: block;
+		padding: .75rem 1.25rem;
+		margin-bottom: -1px;
+		background-color: #fff;
+		border: 1px solid rgba(0,0,0,.125); 
+		color: #818182;
+	}
+	.list-group-item:hover{
+		background-color:#ececf6;
+	}
+	#block-azdoc-notifications-notification-block{
+		padding: 0;
+		background-color: red;
+	}
+	.Button {	
+		-webkit-perspective: 600px;
+		perspective: 600px;
+	}
+	.Button.Button--start {
+		width: 400px;
+		height: 50px;
+	}
+	.Button.Button--start button {
+		border-radius: 4px;
+	}
+	.Button.Button--select {
+		width: 60px;
+		height: 60px;
+	}
+	.Button.Button--select button {
+		border-radius: 50%;
+	}
+	button {
+		position: relative;
+		margin: 0;
+		padding: 0;
+		width: 100%;
+		height: 100%;
+		border: 0;
+		box-shadow: 0px 0px 0px #750014;
+		background: radial-gradient(ellipse at center, #d60d2e 0%, #c20020 100%);
+		-webkit-transition: box-shadow 0.15s, -webkit-transform 0.15s;
+		transition: box-shadow 0.15s, -webkit-transform 0.15s;
+		transition: transform 0.15s, box-shadow 0.15s;
+		transition: transform 0.15s, box-shadow 0.15s, -webkit-transform 0.15s;
+		-webkit-transform: rotateX(0deg) translateY(0);
+		transform: rotateX(0deg) translateY(0);
+		cursor: pointer;
+		-webkit-font-smoothing: antialiased;
+	}
+	button:hover {
+		box-shadow: 0px 5px 0px #750014;
+		border-radius: 8px;
+		-webkit-transform: rotateX(30deg) translateY(0);
+		transform: rotateX(30deg) translateY(0);
+	}
+	button:hover:active {
+		text-shadow: 0 0 4px #ad001d;
+		box-shadow: 0 1px 0 #423847;
+		background: radial-gradient(ellipse at center, #ff002b 0%, #ed0028 100%);
+		-webkit-transition: box-shadow 0.05s, -webkit-transform 0.05s;
+		transition: box-shadow 0.05s, -webkit-transform 0.05s;
+		transition: transform 0.05s, box-shadow 0.05s;
+		transition: transform 0.05s, box-shadow 0.05s, -webkit-transform 0.05s;
+		-webkit-transform: rotateX(30deg) translateY(4px);
+		transform: rotateX(30deg) translateY(4px);
+	}
+	button span {
+		position: relative;
+		font-size: 21px;
+		color: #fff;
+		text-transform: uppercase;
+		-webkit-transform: translate3d(0, 0, 0);
+		transform: translate3d(0, 0, 0);
+	}
+	h2.button-title{
+		margin: 0;
+	}
+
+</style>
+<div class="container-div">	
+	<ul class="list-group"> 	
+		<img style="width:100%;" src="./AZ_custodial_death_example_files/adcrrcovid19mangementstrategy_intranet_oswald.jpg">								
+		<li class="list-group-item">			
+			<div style="display:flex; justify-content: center; align-items: center;">
+				<div class="Button Button--start">	
+					<h2 class="button-title">MANAGEMENT STRATEGY UPDATES</h2>
+					<a href="https://corrections.az.gov/covid-19-management-updates"><button><span>Click Here</span></button></a>	
+				</div>		
+			</div>
+		</li>	
+
+		<li class="list-group-item">
+			<div style="display:flex; justify-content: center; align-items: center;">
+				<div class="Button Button--start">						
+						<h2 class="button-title">ADCRR COVID-19 DASHBOARD</h2>
+						<a href="https://corrections.az.gov/adcrr-covid-19-dashboard"><button><span>CLICK HERE</span></button></a>
+				</div>		
+			</div>
+		</li>	
+	</ul>
+</div>
+
+
+</div>
+  </div>
+    </div><!-- /#navigation -->
+    <div id="content-wrapper">
+
+      <div id="content" class="column" role="main">
+                        <a id="main-content"></a>
+                          <h1 class="title" id="page-title">Inmate Death Notification – Manuel Corona</h1>
+                                                                
+
+
+<article class="node-2231 node node-article article-type-inmate-death-notification view-mode-full clearfix" about="/article/inmate-death-notification-%E2%80%93-manuel-corona" typeof="sioc:Item foaf:Document">
+
+      <header>
+                  <span property="dc:title" content="Inmate Death Notification – Manuel Corona" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+      
+          </header>
+  
+  
+  <div class="field field-name-field-publish-date field-type-datetime field-label-hidden">
+    <span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2022-02-18T00:00:00-07:00">February 18, 2022</span>  </div>
+<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><strong>Buckeye </strong>(February 12, 2022) – Inmate Manuel Corona, 30, ADCRR #244835, died on February 12, 2022.</p>
+<p>Corona was admitted to ADCRR custody in 2013 after he was sentenced out of Cochise County for aggravated assault.</p>
+<p>His assigned housing location was ASPC-Lewis.</p>
+<p>All inmate deaths are investigated in consultation with the county medical examiner’s office.</p>
+<p style="text-align: center;"><strong>###</strong></p>
+</div></div></div>
+  
+  
+</article><!-- /.node -->
+                      </div><!-- /#content -->
+
+      
+              <aside class="sidebars">
+            <section class="region region-sidebar-first column sidebar">
+    <div id="block-menu-block-1" class="block block-menu-block sidebar-menu-block first last odd" role="navigation">
+
+      
+  <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-2">
+  <ul class="menu"><li class="menu__item is-collapsed first collapsed menu-mlid-733"><a href="https://corrections.az.gov/directors-office" class="menu__link">Director's Office</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-797"><a href="https://corrections.az.gov/deputy-director" class="menu__link">Deputy Director</a></li>
+<li class="menu__item is-collapsed collapsed menu-mlid-732"><a href="https://corrections.az.gov/admin-services" class="menu__link">Administrative Services</a></li>
+<li class="menu__item is-expanded is-active-trail expanded active-trail menu-mlid-736"><a href="https://corrections.az.gov/adc-news" title="" class="menu__link is-active-trail active-trail">ADCRR News &amp; Media</a><ul class="menu"><li class="menu__item is-leaf is-active-trail is-active first leaf active-trail active menu-mlid-884"><a href="https://corrections.az.gov/article/inmate-death-notification-%E2%80%93-manuel-corona" class="menu__link is-active-trail menu-position-link active-trail active">Inmate Death Notification – Manuel Corona</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-3854"><a href="https://corrections.az.gov/adcrr-press-releases" title="" class="menu__link">ADCRR Press Releases</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-3437"><a href="https://corrections.az.gov/events" title="Scheduled Meetings" class="menu__link">ADCRR Events</a></li>
+</ul></li>
+<li class="menu__item is-collapsed collapsed menu-mlid-738"><a href="https://corrections.az.gov/adc-history" class="menu__link">ADCRR History</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-859"><a href="https://corrections.az.gov/prisons" title="" class="menu__link">ADCRR Prisons</a></li>
+<li class="menu__item is-collapsed collapsed menu-mlid-781"><a href="https://corrections.az.gov/about/adcrr-community-information" class="menu__link">ADCRR Community</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-718"><a href="https://corrections.az.gov/volunteer-opportunities" class="menu__link">Volunteer Opportunities</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-924"><a href="https://corrections.az.gov/about/contact-us" class="menu__link">Contact Us</a></li>
+</ul></div>
+
+</div>
+  </section>
+                  </aside><!-- /.sidebars -->
+      
+    </div>
+  </div><!-- /#main -->
+
+</div><!-- /#page -->
+</div><!-- /#page-container -->
+
+<div id="footer-wrapper">
+    <footer id="footer" class="region region-footer">
+    <div id="block-nodeblock-261" class="block block-nodeblock footer-logo-block first odd">
+
+      
+  <div id="node-261" class="node node-block view-mode-full clearfix" about="/block/footer-logo" typeof="sioc:Item foaf:Document">
+
+        <span property="dc:title" content="Footer Logo" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><a href="https://corrections.az.gov/"><img alt="AZ Department of Corrections Logo" src="./AZ_custodial_death_example_files/footer-logo.png" style="width: 139px; height: 116px;"></a></p>
+</div></div></div>  </div>
+
+  
+  
+</div>
+
+</div>
+<div id="block-nodeblock-262" class="block block-nodeblock social-media-block even">
+
+      
+  <div id="node-262" class="node node-block view-mode-full clearfix" about="/block/social-media" typeof="sioc:Item foaf:Document">
+
+        <span property="dc:title" content="Social Media" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><a href="https://www.facebook.com/AZCorrections" target="_blank" class="extlink"><img alt="Facebook Link" src="./AZ_custodial_death_example_files/facebook.png" style="width: 22px; height: 22px;"></a>&nbsp;<a href="https://twitter.com/AZcorrections" target="_blank" class="extlink"><img alt="Twitter" src="./AZ_custodial_death_example_files/twitter_0.png" style="width: 24px; height: 24px;"></a>&nbsp;<a href="https://www.youtube.com/user/azcorrections" target="_blank" class="extlink"><img alt="YouTube Channel" src="./AZ_custodial_death_example_files/youtube.png" style="width: 22px; height: 22px;"></a>&nbsp;<a href="mailto:media@azcorrections.gov"><img alt="Email AZ Corrections" src="./AZ_custodial_death_example_files/mail_icon.png" style="width: 24px; height: 24px;"></a></p>
+</div></div></div>  </div>
+
+  
+  
+</div>
+
+</div>
+<div id="block-menu-menu-footer-links" class="block block-menu footer-links odd" role="navigation">
+
+      
+  <ul class="menu"><li class="menu__item is-leaf first leaf"><a href="https://corrections.az.gov/employment" title="" class="menu__link">Employment</a></li>
+<li class="menu__item is-leaf leaf"><a href="https://corrections.az.gov/prisons" title="" class="menu__link">Prisons &amp; Visitation</a></li>
+<li class="menu__item is-leaf leaf"><a href="https://corrections.az.gov/public-resources" title="" class="menu__link">Public Resources</a></li>
+<li class="menu__item is-leaf leaf"><a href="https://corrections.az.gov/programs-services" title="" class="menu__link">Programs &amp; Services</a></li>
+<li class="menu__item is-leaf last leaf"><a href="https://corrections.az.gov/about" title="" class="menu__link">About</a></li>
+</ul>
+</div>
+<div id="block-nodeblock-14" class="block block-nodeblock contact-info-block last even">
+
+        <h2 class="block__title block-title">Contact Us</h2>
+    
+  <div id="node-14" class="node node-block view-mode-full clearfix" about="/block/contact-us" typeof="sioc:Item foaf:Document">
+
+        <span property="dc:title" content="Contact Us" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><div class="container-inline-block column-2 contact-card">
+<p><strong>Arizona Department of Corrections, Rehabilitation &amp; Reentry</strong></p>
+<div>
+<p>701 E. Jefferson St.</p>
+<p>Phoenix, AZ 85034</p>
+<p><a href="https://goo.gl/maps/DNqDR1M1WEz2DrZU7" target="_blank" class="ext extlink">View in Google Maps<span class="ext"><span class="element-invisible"> (link is external)</span></span></a></p>
+</div>
+<div class="last">
+<p>Phone: 602-542-5497</p>
+<p><a href="https://corrections.az.gov/about/contact-us">Contact Us</a></p></div>
+</div>
+<div class="map"><a href="https://goo.gl/maps/DNqDR1M1WEz2DrZU7" target="_blank" class="extlink"><img alt="View Google Map" class="no-mobile" src="./AZ_custodial_death_example_files/701_google_map_image.png" style="width: 150px; height: 150px;"></a></div>
+</div></div></div>  </div>
+
+  
+  
+</div>
+
+</div>
+  </footer>
+</div>
+
+  <div class="region region-bottom">
+    <div id="block-nodeblock-16" class="block block-nodeblock copyright-block first odd">
+
+      
+  <div id="node-16" class="node node-block view-mode-full clearfix" about="/block/copyright-block" typeof="sioc:Item foaf:Document">
+
+        <span property="dc:title" content="Copyright Block" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>©&nbsp;2022 Copyright Arizona Department of Corrections, Rehabilitation &amp; Reentry</p>
+</div></div></div>  </div>
+
+  
+  
+</div>
+
+</div>
+<div id="block-menu-menu-page-bottom-links" class="block block-menu page-bottom-links last even" role="navigation">
+
+      
+  <ul class="menu"><li class="menu__item is-leaf first leaf"><a href="https://corrections.az.gov/about/contact-us" title="" class="menu__link">Contact Us</a></li>
+<li class="menu__item is-leaf leaf"><a href="https://corrections.az.gov/saml_login" title="" class="menu__link">Sign In</a></li>
+<li class="menu__item is-leaf leaf"><a href="https://corrections.az.gov/privacy-policy" title="" class="menu__link">Privacy Policy</a></li>
+<li class="menu__item is-leaf last leaf"><a href="https://corrections.az.gov/web-page-disclaimer" title="Web Page Disclaimer" class="menu__link">Web Page Disclaimer</a></li>
+</ul>
+</div>
+  </div>
+  <script src="./AZ_custodial_death_example_files/js_AZ9y0PShar4GyPuQUcAgecHmIwX4TUOo0HFPa06mnF0.js"></script>
+<script src="./AZ_custodial_death_example_files/sliver.js"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"2ce3f7ec05","applicationID":"11711233","transactionName":"Y1MBbRYFChcCWkEMXFoZIloQDQsKTF1GOlZMQhFYFzsKCwdcahVSU1M8Tw0BEw==","queueTime":0,"applicationTime":590,"atts":"TxQCG14fGRk=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+
+<div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" role="dialog" tabindex="-1" style="display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><button type="button" id="cboxPrevious"></button><button type="button" id="cboxNext"></button><button type="button" id="cboxSlideshow"></button><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none; max-width: none;"></div></div><div id="goog-gt-tt" class="skiptranslate" dir="ltr"><div style="padding: 8px;"><div><div class="logo"><img src="./AZ_custodial_death_example_files/translate_24dp.png" width="20" height="20" alt="Google Translate"></div></div></div><div class="top" style="padding: 8px; float: left; width: 100%;"><h1 class="title gray">Original text</h1></div><div class="middle" style="padding: 8px;"><div class="original-text"></div></div><div class="bottom" style="padding: 8px;"><div class="activity-links"><span class="activity-link">Contribute a better translation</span><span class="activity-link"></span></div><div class="started-activity-container"><hr style="color: #CCC; background-color: #CCC; height: 1px; border: none;"><div class="activity-root"></div></div></div><div class="status-message" style="display: none;"></div></div><link href="./AZ_custodial_death_example_files/sliver.css" type="text/css" media="all" rel="stylesheet"><div class="goog-te-spinner-pos"><div class="goog-te-spinner-animation"><svg xmlns="http://www.w3.org/2000/svg" class="goog-te-spinner" width="96px" height="96px" viewBox="0 0 66 66"><circle class="goog-te-spinner-path" fill="none" stroke-width="6" stroke-linecap="round" cx="33" cy="33" r="30"></circle></svg></div></div></body></html>

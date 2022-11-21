@@ -1,0 +1,87 @@
+.node-document .field-name-field-published {
+	margin-bottom: 10px;
+}
+
+.node-document .field-name-field-published .field-label {
+	display: block;
+	float: left;
+	font-size: 18px;
+}
+
+.node-document .field-name-field-published .field-items {
+	font-size: 18px;
+}
+
+.node-document .field-name-field-file .file-icon img {
+	min-width: 22px;
+}
+
+.node-document. field-name-field-file a {
+	font-size: 20px;
+}
+
+.view-corrections-at-a-glance .views-view-grid {
+	border: none;
+}
+
+.view-corrections-at-a-glance .field-name-field-image img {
+	display: block;
+	margin: 3px 10px;
+}
+
+.view-corrections-at-a-glance .field-name-field-file {
+	display: block;
+	float: left;
+	padding-right: 10px;
+	font-size: 14px;
+}
+
+.view-corrections-at-a-glance .field-name-field-published .field-items,
+.view-corrections-at-a-glance .field-name-field-published .field-label {
+	font-size: 15px;
+}
+
+.view-corrections-at-a-glance .field-name-field-file .file-icon {
+	min-width: 15px;
+}
+
+.view-corrections-at-a-glance .field-name-title-field h4 {
+	margin: 5px auto;
+	font-size: 18px;
+}
+
+.view-corrections-at-a-glance .node-document .field-name-field-published {
+	margin-bottom: 5px;
+}
+
+.view-corrections-at-a-glance .node-document. field-name-field-file a {
+	font-size: 14px;
+}
+
+.view-corrections-at-a-glance .links .inline li {
+	font-size: 14px;
+}
+
+.view-corrections-at-a-glance .webks-responsive-table dd {
+	margin: 35px auto;
+}
+
+.view-corrections-at-a-glance table tbody tr:nth-child(2n) {
+  background: none;
+}
+
+.view-corrections-at-a-glance .node-readmore {
+  font-size: 14px
+}
+
+.view-corrections-at-a-glance .field-name-field-report-date {
+	font-size: 35px;
+	padding-left: 10px;
+	margin-bottom: 15px;
+	color: #C44728;
+}
+
+.view-corrections-at-a-glance tbody tr td {
+	padding-bottom: 30px;
+        vertical-align: top;
+}

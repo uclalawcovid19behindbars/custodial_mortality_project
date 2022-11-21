@@ -1,0 +1,140 @@
+@charset "utf-8";
+/* CSS Document for Printing */
+/*@Media print {*/
+
+body, p, td, th, ul, ol {
+        background-color: #fff;
+        color: #000;
+        font-family:Georgia, "Times New Roman", Times, serif;
+        background-image:none;        
+        border: none;
+        background-image:none;
+        margin:0;
+        padding:0;
+        }
+
+a, a.visited {
+        color: red;
+}
+
+h1 {
+        font-size: 16pt;
+        color:#000;
+}
+
+h2 {
+        font-size: 14pt;
+        color:#000;
+}
+
+h3 {
+        font-size: 12pt;
+        color:#000;
+        }
+
+#dcCSSprintlogo{
+        display:block;
+        }
+#dcCSSwrapper {
+        background-color: #fff;
+        
+}
+#dcCSSwrapper2 {
+        background-color: #fff;
+        width: 100%;
+        border: none;
+        background-image:none;
+}
+
+.dcCSScontentContainer {
+        width:99%;
+        
+        }
+
+.dcCSScontentSide1, .dcCSScontentSide2, .dcCSScontentMain, .dcCSScontentALTmain, .dcCSScontentALTside2, .dcCSScontent, .dcCSScontentFixed, .dcCSScontentMainALT2{
+        background-color: #fff;
+        width: 95%;
+        border: none;
+        margin: 0 auto;
+        text-align:left;
+}
+
+#dcCSSmenu, #dcCSSfooter, .dcCSSnoPrint, .dcCSSpubNavBottom {
+        display: none;
+}
+#dcCSSwrapper2 .dcCSSnoPrint{/* Turns off side menu for Timeline pages */
+display:none;
+}
+.dcCSSImageWithCaption {
+        display:block;
+        }
+        /*
+.dcCSScompassSubHead {
+        font-size: 12pt;
+        color:#000;
+        }*/
+#dcCSSwrapper2 .dcCSSreverse a{
+        color: #000;
+        text-decoration:underline;
+        font-weight:bold;
+}
+#dcCSSwrapper2 .dcCSSreverse a:visited {
+        color: #000;
+        text-decoration:underline;
+        font-weight:bold;
+}
+table.navmenu {
+        font-size:.8em;
+        border-top:1px;
+        border-bottom:2px;
+        border-style: solid none solid none;
+        border-color: #545454;
+        padding-bottom:10px;
+        }
+.navtitle{
+        font-size:1.2em;
+        }
+.navpages{
+        font-size:1.1em;
+        }
+.navmenu {
+        font-size:.9em;
+        }
+hr.print {
+        color:#669966;
+        background-color:#669966;
+        height:1px;
+        display:block;
+        }
+        
+
+Table.dcCSStableAlias 
+{
+    border-collapse: collapse;
+    MARGIN-TOP: 15px;
+}
+.dcCSStableAlias TD
+{
+    border: 2px solid black;
+}
+.dcCSStableAlias TH
+{
+   border: 2px Solid black;
+}
+
+
+  
+* {background: transparent !important; text-shadow: none !important; filter:none !important; -ms-filter: none !important; } 
+  a, a:visited { text-decoration: underline; }
+  /*a[href]:after { content: " (" attr(href) ")"; }*/
+  abbr[title]:after { content: " (" attr(title) ")"; }
+  .ir a:after, a[href^="javascript:"]:after, a[href^="#"]:after { content: ""; }  /* Don't show links for images, or javascript/internal links */
+  pre, blockquote { border: 1px solid #999; page-break-inside: avoid; }
+  thead { display: table-header-group; } /* h5bp.com/t */
+  @page { margin: 1.2cm ;  width:100% }
+  table { max-width: 100% !important; page-break-inside: avoid; }
+  p, h2, h3 { orphans: 3; widows: 3; }
+  h2, h3 { page-break-after: avoid; }
+  h1 {font-size: 16pt;}
+  h2 {font-size: 14pt;}
+  h3 {font-size: 12pt;}
