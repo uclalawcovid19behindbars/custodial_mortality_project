@@ -145,10 +145,10 @@ CMP.data <- read_CMP_deaths(all.agencies = TRUE)
 CMP.data <- read_CMP_deaths(all.agencies = FALSE, agencies = c('CA', 'NC', 'NV', 'AR'))
 
 # Load all BJS decedent data
-bjs.data <- read_bjs(all.agencies = TRUE)
+bjs.data <- read_bjs(all.agencies = TRUE, source = 'MCI')
 
 # Load specific BJS decedent data
-bjs.data <- read_bjs(all.agencies = FALSE, agencies = c('CA', 'NC', 'NV', 'AR'))
+bjs.data <- read_bjs(all.agencies = FALSE, agencies = c('CA', 'NC', 'NV', 'AR'), source = 'MCI')
 
 # Compare CMP and BJS decedent data
 compare_CMP_bjs(source = 'MCI') # source parameter designates what BJS report to compare to: MCI, NPS, or MCI+NPS
