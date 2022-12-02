@@ -14,7 +14,7 @@ Data on custodial deaths and prison demographics comes from a variety of sources
 
 Examples of U.S. prison agencies that publicly list records on deaths in custody include the Arizona Department of Corrections [link to source](https://corrections.az.gov/inmate-death-notifications) and the Florida Department of Corrections [link to source](http://www.dc.state.fl.us/pub/mortality/index.html). We have reproduced records from the Texas Justice Initiative for deaths in Texas state prisons, Incarceration Transparency at Loyola Law School for deaths in Louisiana state prisons, and the NPR Investigations team for deaths in Bureau of Prisons facilities.
 
-Where information was not publicly available through an agency or another organization, our project used public records requests to gather records on deaths in custody and standardize these records into a uniform database. For each request, we asked for records from 2015 to 2020 and for the following pieces of information for each death:
+Where individual or aggregate information on deaths in prisons was not publicly available through an agency or another organization, our project used public records requests to gather records on deaths in custody (ideally at the facility and individual-level) and standardize these records into a uniform database. For each request, we asked for records from 2015 to 2020 and for the following pieces of information for each death:
 
 * Name of individual; 
 * Age, race, and sex of individual;
@@ -24,13 +24,13 @@ Where information was not publicly available through an agency or another organi
 * Type of death (e.g., suicide, homicide, accident, drugs/alcohol, illness, other);
 * Additional details about death including circumstances, cause of death, and/or details of illness (if illness is listed as type of death).
 
-Two years on, our project has gathered records on all-cause deaths in 49 state prison systems and the Bureau of Prisons (BoP). We have gathered complete data up to the end of 2020 for 47 states and the BoP. Agencies provided different intervals of data on deaths in their facilities. Most state agencies, 40 in total, and the BoP, provided ‘individual-level’ data, meaning records that provide a specific date for each death. In many cases, other variables are tied to that death, like the name, race, or housing facility of the individual. Seven states provided data on prison deaths that were aggregated on a monthly basis. Two agencies provided data that were aggregated on an annual basis. 
+Two years on, our project has gathered records on all-cause deaths in all state prison systems and the Bureau of Prisons (BoP). We have gathered complete data up to the end of 2020 for 49 states and the BoP. Agencies provided different intervals of data on deaths in their facilities. Most state agencies, 42 in total, and the BoP, provided ‘individual-level’ data, meaning records that provide a specific date for each death. In many cases, other variables are tied to that death, like the name, race, or housing facility of the individual. Seven states provided data on prison deaths that were aggregated on a monthly basis. Two agencies provided data that were aggregated on an annual basis. 
 
 Agencies also provided different variables for reported prison deaths. Thirty-nine states provided a name for individual deaths in their prisons. Forty-two states provided the facilities in which deaths occurred. Twenty-six states provided the sexes of decedents, and twenty-three states provided the races of decedents. Thirty-six states provided descriptions of circumstances of deaths. We have created a [summary sheet](https://docs.google.com/spreadsheets/d/10STQkTWb3uW_CXVLmVZ5GQ6ppsRmMBZ2y1yd5_eclSI/edit#gid=0) demonstrating which variables are available by prison agency. As we collect more data, we will update this sheet accordingly.
 
 ## Time and Timing of Data Collection
 
-Data collection for this project began in June 2020 and is ongoing. For most states, our project has obtained records covering at least 2015-2020. For some states (OH and VT) we have partial data for 2020 due to the timing of when we requested data and when data as provided.
+Data collection for this project began in June 2020 and is ongoing. For most states, our project has obtained records covering at least 2015-2020. For some states (NM) we have partial data for 2020 and are working with the agency to obtain complete records.
 
 ## Data Validation and Quality Assurance
 
