@@ -1,215 +1,215 @@
-State,Year,Month,Cause.General,Cause.Specific,Total.Deaths
-Washington,2015,January,NATURAL CAUSES,Diseases of the Heart (Heart Disease),1
-Washington,2015,January,NATURAL CAUSES,Respiratory Failure,1
-Washington,2015,January,NATURAL CAUSES,Severe cerebral vascular accident - hemorrhagic,1
+State,Year,Month,Circumstance.General,Circumstance.Specific,Total.Deaths
+Washington,2015,January,"NATURAL CAUSES",Diseases of the Heart (Heart Disease),1
+Washington,2015,January,"NATURAL CAUSES",Respiratory Failure,1
+Washington,2015,January,"NATURAL CAUSES",Severe cerebral vascular accident - hemorrhagic,1
 Washington,2015,January,SUICIDE,Intentional self-harm (sucide),1
-Washington,2015,February,NATURAL CAUSES,Natural causes,1
-Washington,2015,February,NATURAL CAUSES,Unknown,1
+Washington,2015,February,"NATURAL CAUSES",Natural causes,1
+Washington,2015,February,"NATURAL CAUSES",Unknown,1
 Washington,2015,February,SUICIDE,Intentional self-harm (sucide),1
-Washington,2015,March,NATURAL CAUSES,Glioblastoma stage 4,1
-Washington,2015,March,NATURAL CAUSES,Massive UGI bleeding from Esophageal varices,1
-Washington,2015,March,NATURAL CAUSES,Respiratory Failure,1
-Washington,2015,March,NATURAL CAUSES,Unknown,1
+Washington,2015,March,"NATURAL CAUSES",Glioblastoma stage 4,1
+Washington,2015,March,"NATURAL CAUSES",Massive UGI bleeding from Esophageal varices,1
+Washington,2015,March,"NATURAL CAUSES",Respiratory Failure,1
+Washington,2015,March,"NATURAL CAUSES",Unknown,1
 Washington,2015,March,SUICIDE,Intentional self-harm (sucide),1
-Washington,2015,April,NATURAL CAUSES,multi organ failure,1
-Washington,2015,April,NATURAL CAUSES,terminal metastatic lung cancer,1
+Washington,2015,April,"NATURAL CAUSES",multi organ failure,1
+Washington,2015,April,"NATURAL CAUSES",terminal metastatic lung cancer,1
 Washington,2015,May,MURDERED,Intracranial Hemorrhage iwth diffuse axonal injury,1
-Washington,2015,May,NATURAL CAUSES,cardiopulmonary arrrest,1
-Washington,2015,May,NATURAL CAUSES,multi organ failure,1
+Washington,2015,May,"NATURAL CAUSES",cardiopulmonary arrrest,1
+Washington,2015,May,"NATURAL CAUSES",multi organ failure,1
 Washington,2015,May,SUICIDE,Multi-system organ failure,1
-Washington,2015,June,NATURAL CAUSES,Chronic Myeloid Lukemia,1
-Washington,2015,June,NATURAL CAUSES,Unknown,1
-Washington,2015,July,NATURAL CAUSES,"NA",1
-Washington,2015,July,NATURAL CAUSES,Aspiration Pneumomia,1
-Washington,2015,July,NATURAL CAUSES,Bacteremia,1
-Washington,2015,July,NATURAL CAUSES,end stage liver disease,1
-Washington,2015,July,NATURAL CAUSES,Terminal lung cancer,1
-Washington,2015,August,NATURAL CAUSES,"Hemorrhage, gastronintestina",1
-Washington,2015,August,NATURAL CAUSES,Unknown,1
+Washington,2015,June,"NATURAL CAUSES",Chronic Myeloid Lukemia,1
+Washington,2015,June,"NATURAL CAUSES",Unknown,1
+Washington,2015,July,"NATURAL CAUSES",NA,1
+Washington,2015,July,"NATURAL CAUSES",Aspiration Pneumomia,1
+Washington,2015,July,"NATURAL CAUSES",Bacteremia,1
+Washington,2015,July,"NATURAL CAUSES",end stage liver disease,1
+Washington,2015,July,"NATURAL CAUSES",Terminal lung cancer,1
+Washington,2015,August,"NATURAL CAUSES","Hemorrhage, gastronintestina",1
+Washington,2015,August,"NATURAL CAUSES",Unknown,1
 Washington,2015,September,SUICIDE,Intentional self-harm (sucide),1
-Washington,2015,October,NATURAL CAUSES,Cardiac arrest,1
-Washington,2015,October,NATURAL CAUSES,Distributive Septic shock,1
-Washington,2015,October,NATURAL CAUSES,"Interstitial Lung Disease, Stage 4 due to RA",1
-Washington,2015,October,NATURAL CAUSES,Respiratory Failure,1
-Washington,2015,November,NATURAL CAUSES,"NA",1
-Washington,2015,November,NATURAL CAUSES,Malignant neoplasms (cancer),1
-Washington,2015,November,NATURAL CAUSES,Septicemia,1
-Washington,2015,December,NATURAL CAUSES,"NA",2
-Washington,2015,December,NATURAL CAUSES,Cerebrovascular diseases (stroke),1
-Washington,2015,December,NATURAL CAUSES,Diseases of the Heart (Heart Disease),1
-Washington,2015,December,NATURAL CAUSES,Malignant neoplasms (cancer),2
-Washington,2015,December,NATURAL CAUSES,Unknown,1
-Washington,2015,December,NATURAL CAUSES,"NA",1
-Washington,2016,January,NATURAL CAUSES,Amyloidosis,1
-Washington,2016,January,NATURAL CAUSES,Chronic lower respiratory diseases,1
-Washington,2016,January,NATURAL CAUSES,Diseases of the Heart (Heart Disease),1
-Washington,2016,February,NATURAL CAUSES,"NA",1
-Washington,2016,February,NATURAL CAUSES,Natural causes,1
-Washington,2016,March,NATURAL CAUSES,"NA",1
-Washington,2016,March,NATURAL CAUSES,Diseases of the Heart (Heart Disease),2
-Washington,2016,March,NATURAL CAUSES,Subarachnoid Hemorrhage,1
-Washington,2016,March,NATURAL CAUSES,Unknown,1
-Washington,2016,June,NATURAL CAUSES,Chronic lower respiratory diseases,1
+Washington,2015,October,"NATURAL CAUSES",Cardiac arrest,1
+Washington,2015,October,"NATURAL CAUSES",Distributive Septic shock,1
+Washington,2015,October,"NATURAL CAUSES","Interstitial Lung Disease, Stage 4 due to RA",1
+Washington,2015,October,"NATURAL CAUSES",Respiratory Failure,1
+Washington,2015,November,"NATURAL CAUSES",NA,1
+Washington,2015,November,"NATURAL CAUSES",Malignant neoplasms (cancer),1
+Washington,2015,November,"NATURAL CAUSES",Septicemia,1
+Washington,2015,December,"NATURAL CAUSES",NA,2
+Washington,2015,December,"NATURAL CAUSES",Cerebrovascular diseases (stroke),1
+Washington,2015,December,"NATURAL CAUSES",Diseases of the Heart (Heart Disease),1
+Washington,2015,December,"NATURAL CAUSES",Malignant neoplasms (cancer),2
+Washington,2015,December,"NATURAL CAUSES",Unknown,1
+Washington,2015,December,"NATURAL CAUSES",NA,1
+Washington,2016,January,"NATURAL CAUSES",Amyloidosis,1
+Washington,2016,January,"NATURAL CAUSES",Chronic lower respiratory diseases,1
+Washington,2016,January,"NATURAL CAUSES",Diseases of the Heart (Heart Disease),1
+Washington,2016,February,"NATURAL CAUSES",NA,1
+Washington,2016,February,"NATURAL CAUSES",Natural causes,1
+Washington,2016,March,"NATURAL CAUSES",NA,1
+Washington,2016,March,"NATURAL CAUSES",Diseases of the Heart (Heart Disease),2
+Washington,2016,March,"NATURAL CAUSES",Subarachnoid Hemorrhage,1
+Washington,2016,March,"NATURAL CAUSES",Unknown,1
+Washington,2016,June,"NATURAL CAUSES",Chronic lower respiratory diseases,1
 Washington,2016,July,ACCIDENTAL,Accidents (unintentional injuries),1
 Washington,2016,July,ACCIDENTAL,Unknown,1
-Washington,2016,July,NATURAL CAUSES,Malignant neoplasms (cancer),1
-Washington,2016,August,NATURAL CAUSES,"NA",1
-Washington,2016,August,NATURAL CAUSES,Malignant neoplasms (cancer),2
-Washington,2016,August,NATURAL CAUSES,Metastatic small cell cancer - terminal,1
-Washington,2016,August,NATURAL CAUSES,Terminal metastatic colon cancer,1
-Washington,2016,August,NATURAL CAUSES,Unknown,2
-Washington,2016,September,NATURAL CAUSES,Diseases of the Heart (Heart Disease),1
-Washington,2016,September,NATURAL CAUSES,"NA",1
-Washington,2016,September,NATURAL CAUSES,Malignant neoplasms (cancer),1
+Washington,2016,July,"NATURAL CAUSES",Malignant neoplasms (cancer),1
+Washington,2016,August,"NATURAL CAUSES",NA,1
+Washington,2016,August,"NATURAL CAUSES",Malignant neoplasms (cancer),2
+Washington,2016,August,"NATURAL CAUSES",Metastatic small cell cancer - terminal,1
+Washington,2016,August,"NATURAL CAUSES",Terminal metastatic colon cancer,1
+Washington,2016,August,"NATURAL CAUSES",Unknown,2
+Washington,2016,September,"NATURAL CAUSES",Diseases of the Heart (Heart Disease),1
+Washington,2016,September,"NATURAL CAUSES",NA,1
+Washington,2016,September,"NATURAL CAUSES",Malignant neoplasms (cancer),1
 Washington,2016,September,SUICIDE,Intentional self-harm (sucide),1
-Washington,2016,October,NATURAL CAUSES,Chronic liver disease and cirrhosis,1
-Washington,2016,October,NATURAL CAUSES,Pulmonary Embolism,1
+Washington,2016,October,"NATURAL CAUSES",Chronic liver disease and cirrhosis,1
+Washington,2016,October,"NATURAL CAUSES",Pulmonary Embolism,1
 Washington,2016,December,SUICIDE,Intentional self-harm (sucide),1
-Washington,2017,January,NATURAL CAUSES,Complications of Surgery,1
-Washington,2017,January,NATURAL CAUSES,Digestive diseases other than chronic liver disease,1
-Washington,2017,January,NATURAL CAUSES,Diseases of the Heart (Heart Disease),2
-Washington,2017,January,NATURAL CAUSES,Influenza and pneumonia,1
-Washington,2017,January,NATURAL CAUSES,Septicemia,1
-Washington,2017,January,NATURAL CAUSES,Unknown,2
-Washington,2017,February,NATURAL CAUSES,Chronic liver disease and cirrhosis,1
-Washington,2017,February,NATURAL CAUSES,Malignant neoplasms (cancer),2
-Washington,2017,February,NATURAL CAUSES,"NA",1
-Washington,2017,March,NATURAL CAUSES,"NA",1
-Washington,2017,March,NATURAL CAUSES,Chronic lower respiratory diseases,1
+Washington,2017,January,"NATURAL CAUSES",Complications of Surgery,1
+Washington,2017,January,"NATURAL CAUSES",Digestive diseases other than chronic liver disease,1
+Washington,2017,January,"NATURAL CAUSES",Diseases of the Heart (Heart Disease),2
+Washington,2017,January,"NATURAL CAUSES",Influenza and pneumonia,1
+Washington,2017,January,"NATURAL CAUSES",Septicemia,1
+Washington,2017,January,"NATURAL CAUSES",Unknown,2
+Washington,2017,February,"NATURAL CAUSES",Chronic liver disease and cirrhosis,1
+Washington,2017,February,"NATURAL CAUSES",Malignant neoplasms (cancer),2
+Washington,2017,February,"NATURAL CAUSES",NA,1
+Washington,2017,March,"NATURAL CAUSES",NA,1
+Washington,2017,March,"NATURAL CAUSES",Chronic lower respiratory diseases,1
 Washington,2017,March,SUICIDE,Intentional self-harm (sucide),1
-Washington,2017,April,NATURAL CAUSES,Idiopathic pulmonary fibrosis,1
-Washington,2017,April,NATURAL CAUSES,Malignant neoplasms (cancer),2
-Washington,2017,April,NATURAL CAUSES,Unknown,1
-Washington,2017,May,NATURAL CAUSES,"NA",1
-Washington,2017,May,NATURAL CAUSES,Cerebrovascular diseases (stroke),1
-Washington,2017,May,NATURAL CAUSES,Chronic liver disease and cirrhosis,1
-Washington,2017,May,NATURAL CAUSES,Refractory septic shock,1
-Washington,2017,May,NATURAL CAUSES,Unknown,1
-Washington,2017,May,NATURAL CAUSES,"NA",1
-Washington,2017,May,NATURAL CAUSES,"NA",1
-Washington,2017,June,NATURAL CAUSES,Malignant neoplasms (cancer),1
-Washington,2017,July,NATURAL CAUSES,"NA",1
-Washington,2017,July,NATURAL CAUSES,Chronic lower respiratory diseases,1
-Washington,2017,July,NATURAL CAUSES,Influenza and pneumonia,1
-Washington,2017,July,NATURAL CAUSES,Unknown,1
-Washington,2017,August,NATURAL CAUSES,"NA",1
-Washington,2017,August,NATURAL CAUSES,Malignant neoplasms (cancer),1
-Washington,2017,August,NATURAL CAUSES,"NA",1
+Washington,2017,April,"NATURAL CAUSES",Idiopathic pulmonary fibrosis,1
+Washington,2017,April,"NATURAL CAUSES",Malignant neoplasms (cancer),2
+Washington,2017,April,"NATURAL CAUSES",Unknown,1
+Washington,2017,May,"NATURAL CAUSES",NA,1
+Washington,2017,May,"NATURAL CAUSES",Cerebrovascular diseases (stroke),1
+Washington,2017,May,"NATURAL CAUSES",Chronic liver disease and cirrhosis,1
+Washington,2017,May,"NATURAL CAUSES",Refractory septic shock,1
+Washington,2017,May,"NATURAL CAUSES",Unknown,1
+Washington,2017,May,"NATURAL CAUSES",NA,1
+Washington,2017,May,"NATURAL CAUSES",NA,1
+Washington,2017,June,"NATURAL CAUSES",Malignant neoplasms (cancer),1
+Washington,2017,July,"NATURAL CAUSES",NA,1
+Washington,2017,July,"NATURAL CAUSES",Chronic lower respiratory diseases,1
+Washington,2017,July,"NATURAL CAUSES",Influenza and pneumonia,1
+Washington,2017,July,"NATURAL CAUSES",Unknown,1
+Washington,2017,August,"NATURAL CAUSES",NA,1
+Washington,2017,August,"NATURAL CAUSES",Malignant neoplasms (cancer),1
+Washington,2017,August,"NATURAL CAUSES",NA,1
 Washington,2017,September,ACCIDENTAL,Unknown,1
-Washington,2017,September,NATURAL CAUSES,Unknown,1
-Washington,2017,October,SUICIDE,"NA",1
+Washington,2017,September,"NATURAL CAUSES",Unknown,1
+Washington,2017,October,SUICIDE,NA,1
 Washington,2017,November,MURDERED,Homicide,1
-Washington,2017,November,NATURAL CAUSES,Malignant neoplasms (cancer),1
-Washington,2017,December,NATURAL CAUSES,"NA",1
-Washington,2017,December,NATURAL CAUSES,Chronic liver disease and cirrhosis,1
-Washington,2017,December,NATURAL CAUSES,Subdural hemmorhage,1
-Washington,2018,January,NATURAL CAUSES,"Dementia, failure to thrive",1
-Washington,2018,January,NATURAL CAUSES,Malignant neoplasms (cancer),2
-Washington,2018,February,NATURAL CAUSES,Influenza and pneumonia,1
-Washington,2018,March,NATURAL CAUSES,Influenza and pneumonia,1
-Washington,2018,March,NATURAL CAUSES,Pressumed massive PE,1
-Washington,2018,March,NATURAL CAUSES,Septicemia,1
-Washington,2018,April,NATURAL CAUSES,"NA",1
-Washington,2018,April,NATURAL CAUSES,Acute on Chronic Respiratory failure,1
-Washington,2018,April,NATURAL CAUSES,Malignant neoplasms (cancer),1
-Washington,2018,April,NATURAL CAUSES,Unknown,1
+Washington,2017,November,"NATURAL CAUSES",Malignant neoplasms (cancer),1
+Washington,2017,December,"NATURAL CAUSES",NA,1
+Washington,2017,December,"NATURAL CAUSES",Chronic liver disease and cirrhosis,1
+Washington,2017,December,"NATURAL CAUSES",Subdural hemmorhage,1
+Washington,2018,January,"NATURAL CAUSES","Dementia, failure to thrive",1
+Washington,2018,January,"NATURAL CAUSES",Malignant neoplasms (cancer),2
+Washington,2018,February,"NATURAL CAUSES",Influenza and pneumonia,1
+Washington,2018,March,"NATURAL CAUSES",Influenza and pneumonia,1
+Washington,2018,March,"NATURAL CAUSES",Pressumed massive PE,1
+Washington,2018,March,"NATURAL CAUSES",Septicemia,1
+Washington,2018,April,"NATURAL CAUSES",NA,1
+Washington,2018,April,"NATURAL CAUSES",Acute on Chronic Respiratory failure,1
+Washington,2018,April,"NATURAL CAUSES",Malignant neoplasms (cancer),1
+Washington,2018,April,"NATURAL CAUSES",Unknown,1
 Washington,2018,April,SUICIDE,asphyxiation by hanging,1
-Washington,2018,May,NATURAL CAUSES,"NA",1
-Washington,2018,May,NATURAL CAUSES,Unknown,2
-Washington,2018,June,NATURAL CAUSES,Diseases of the Heart (Heart Disease),1
-Washington,2018,June,NATURAL CAUSES,Malignant neoplasms (cancer),1
-Washington,2018,July,NATURAL CAUSES,cardiac arrest,1
-Washington,2018,July,NATURAL CAUSES,respiratory arrest,1
-Washington,2018,July,NATURAL CAUSES,Unknown,1
-Washington,2018,August,NATURAL CAUSES,Diseases of the Heart (Heart Disease),1
-Washington,2018,August,NATURAL CAUSES,Malignant neoplasms (cancer),1
-Washington,2018,August,NATURAL CAUSES,perforated viscus,1
-Washington,2018,September,NATURAL CAUSES,Chronic lower respiratory diseases,1
+Washington,2018,May,"NATURAL CAUSES",NA,1
+Washington,2018,May,"NATURAL CAUSES",Unknown,2
+Washington,2018,June,"NATURAL CAUSES",Diseases of the Heart (Heart Disease),1
+Washington,2018,June,"NATURAL CAUSES",Malignant neoplasms (cancer),1
+Washington,2018,July,"NATURAL CAUSES",cardiac arrest,1
+Washington,2018,July,"NATURAL CAUSES",respiratory arrest,1
+Washington,2018,July,"NATURAL CAUSES",Unknown,1
+Washington,2018,August,"NATURAL CAUSES",Diseases of the Heart (Heart Disease),1
+Washington,2018,August,"NATURAL CAUSES",Malignant neoplasms (cancer),1
+Washington,2018,August,"NATURAL CAUSES",perforated viscus,1
+Washington,2018,September,"NATURAL CAUSES",Chronic lower respiratory diseases,1
 Washington,2018,September,SUICIDE,Intentional self-harm (sucide),1
 Washington,2018,October,ACCIDENTAL,Malignant neoplasms (cancer),1
-Washington,2018,October,NATURAL CAUSES,Malignant neoplasms (cancer),1
-Washington,2018,November,NATURAL CAUSES,"NA",1
-Washington,2018,November,NATURAL CAUSES,Diabetes mellitus (diabetes),1
-Washington,2018,November,NATURAL CAUSES,Malignant neoplasms (cancer),1
-Washington,2018,November,NATURAL CAUSES,Unknown,1
+Washington,2018,October,"NATURAL CAUSES",Malignant neoplasms (cancer),1
+Washington,2018,November,"NATURAL CAUSES",NA,1
+Washington,2018,November,"NATURAL CAUSES",Diabetes mellitus (diabetes),1
+Washington,2018,November,"NATURAL CAUSES",Malignant neoplasms (cancer),1
+Washington,2018,November,"NATURAL CAUSES",Unknown,1
 Washington,2018,December,ACCIDENTAL,Accidental Death,1
-Washington,2018,December,NATURAL CAUSES,"NA",1
-Washington,2018,December,NATURAL CAUSES,Intentional self-harm (sucide),1
-Washington,2018,December,NATURAL CAUSES,Malignant neoplasms (cancer),1
-Washington,2018,December,NATURAL CAUSES,Unknown,2
-Washington,2019,February,NATURAL CAUSES,Chronic liver disease and cirrhosis,1
-Washington,2019,February,SUICIDE,"NA",1
-Washington,2019,March,NATURAL CAUSES,Chronic lower respiratory diseases,1
-Washington,2019,March,NATURAL CAUSES,Unknown,1
+Washington,2018,December,"NATURAL CAUSES",NA,1
+Washington,2018,December,"NATURAL CAUSES",Intentional self-harm (sucide),1
+Washington,2018,December,"NATURAL CAUSES",Malignant neoplasms (cancer),1
+Washington,2018,December,"NATURAL CAUSES",Unknown,2
+Washington,2019,February,"NATURAL CAUSES",Chronic liver disease and cirrhosis,1
+Washington,2019,February,SUICIDE,NA,1
+Washington,2019,March,"NATURAL CAUSES",Chronic lower respiratory diseases,1
+Washington,2019,March,"NATURAL CAUSES",Unknown,1
 Washington,2019,April,ACCIDENTAL,Drug overdose,1
-Washington,2019,April,NATURAL CAUSES,Malignant neoplasms (cancer),1
-Washington,2019,May,NATURAL CAUSES,Essential hypertension and hypertensive renal disease,1
-Washington,2019,May,NATURAL CAUSES,Malignant neoplasms (cancer),1
-Washington,2019,June,NATURAL CAUSES,"NA",2
-Washington,2019,June,NATURAL CAUSES,Complications of Surgery,1
-Washington,2019,June,NATURAL CAUSES,Malignant neoplasms (cancer),2
-Washington,2019,June,NATURAL CAUSES,Unknown,1
-Washington,2019,July,NATURAL CAUSES,Intracranial hemorrhage,1
-Washington,2019,July,NATURAL CAUSES,Malignant neoplasms (cancer),1
-Washington,2019,July,NATURAL CAUSES,"NA",1
-Washington,2019,July,NATURAL CAUSES,Unknown,1
-Washington,2019,August,NATURAL CAUSES,Cerebrovascular diseases (stroke),1
-Washington,2019,August,NATURAL CAUSES,Chronic lower respiratory diseases,1
-Washington,2019,September,NATURAL CAUSES,Chronic liver disease and cirrhosis,1
-Washington,2019,September,NATURAL CAUSES,Malignant neoplasms (cancer),1
-Washington,2019,September,NATURAL CAUSES,"NA",2
-Washington,2019,September,SUICIDE,"NA",2
-Washington,2019,October,NATURAL CAUSES,Malignant neoplasms (cancer),2
-Washington,2019,October,NATURAL CAUSES,Unknown,1
-Washington,2019,October,SUICIDE,"NA",2
+Washington,2019,April,"NATURAL CAUSES",Malignant neoplasms (cancer),1
+Washington,2019,May,"NATURAL CAUSES",Essential hypertension and hypertensive renal disease,1
+Washington,2019,May,"NATURAL CAUSES",Malignant neoplasms (cancer),1
+Washington,2019,June,"NATURAL CAUSES",NA,2
+Washington,2019,June,"NATURAL CAUSES",Complications of Surgery,1
+Washington,2019,June,"NATURAL CAUSES",Malignant neoplasms (cancer),2
+Washington,2019,June,"NATURAL CAUSES",Unknown,1
+Washington,2019,July,"NATURAL CAUSES",Intracranial hemorrhage,1
+Washington,2019,July,"NATURAL CAUSES",Malignant neoplasms (cancer),1
+Washington,2019,July,"NATURAL CAUSES",NA,1
+Washington,2019,July,"NATURAL CAUSES",Unknown,1
+Washington,2019,August,"NATURAL CAUSES",Cerebrovascular diseases (stroke),1
+Washington,2019,August,"NATURAL CAUSES",Chronic lower respiratory diseases,1
+Washington,2019,September,"NATURAL CAUSES",Chronic liver disease and cirrhosis,1
+Washington,2019,September,"NATURAL CAUSES",Malignant neoplasms (cancer),1
+Washington,2019,September,"NATURAL CAUSES",NA,2
+Washington,2019,September,SUICIDE,NA,2
+Washington,2019,October,"NATURAL CAUSES",Malignant neoplasms (cancer),2
+Washington,2019,October,"NATURAL CAUSES",Unknown,1
+Washington,2019,October,SUICIDE,NA,2
 Washington,2019,November,ACCIDENTAL,Unknown,1
-Washington,2019,November,NATURAL CAUSES,"NA",1
-Washington,2019,November,NATURAL CAUSES,Malignant neoplasms (cancer),1
-Washington,2019,December,NATURAL CAUSES,"NA",1
-Washington,2019,December,NATURAL CAUSES,Chronic lower respiratory diseases,1
-Washington,2019,December,NATURAL CAUSES,Unknown,1
-Washington,2020,January,NATURAL CAUSES,Chronic liver disease and cirrhosis,1
-Washington,2020,January,NATURAL CAUSES,Diseases of the Heart (Heart Disease),1
-Washington,2020,January,NATURAL CAUSES,Malignant neoplasms (cancer),2
+Washington,2019,November,"NATURAL CAUSES",NA,1
+Washington,2019,November,"NATURAL CAUSES",Malignant neoplasms (cancer),1
+Washington,2019,December,"NATURAL CAUSES",NA,1
+Washington,2019,December,"NATURAL CAUSES",Chronic lower respiratory diseases,1
+Washington,2019,December,"NATURAL CAUSES",Unknown,1
+Washington,2020,January,"NATURAL CAUSES",Chronic liver disease and cirrhosis,1
+Washington,2020,January,"NATURAL CAUSES",Diseases of the Heart (Heart Disease),1
+Washington,2020,January,"NATURAL CAUSES",Malignant neoplasms (cancer),2
 Washington,2020,January,SUICIDE,Intentional self-harm (sucide),1
-Washington,2020,February,NATURAL CAUSES,Diseases of the Heart (Heart Disease),1
-Washington,2020,February,NATURAL CAUSES,Malignant neoplasms (cancer) | Pneumonia,1
-Washington,2020,March,NATURAL CAUSES,Cerebrovascular diseases (stroke) | Medical Treatment,1
-Washington,2020,March,NATURAL CAUSES,Diseases of the Heart (Heart Disease),1
+Washington,2020,February,"NATURAL CAUSES",Diseases of the Heart (Heart Disease),1
+Washington,2020,February,"NATURAL CAUSES",Malignant neoplasms (cancer) | Pneumonia,1
+Washington,2020,March,"NATURAL CAUSES",Cerebrovascular diseases (stroke) | Medical Treatment,1
+Washington,2020,March,"NATURAL CAUSES",Diseases of the Heart (Heart Disease),1
 Washington,2020,March,SUICIDE,Intentional self-harm (sucide),1
-Washington,2020,April,NATURAL CAUSES,Chronic lower respiratory diseases,1
-Washington,2020,April,NATURAL CAUSES,presumtive aspiration pneumonia,1
-Washington,2020,April,NATURAL CAUSES,Malignant neoplasms (cancer),1
-Washington,2020,April,NATURAL CAUSES,Unknown,2
-Washington,2020,May,ACCIDENTAL,"NA",2
-Washington,2020,May,NATURAL CAUSES,Malignant neoplasms (cancer),2
-Washington,2020,May,NATURAL CAUSES,Septicemia,1
+Washington,2020,April,"NATURAL CAUSES",Chronic lower respiratory diseases,1
+Washington,2020,April,"NATURAL CAUSES",presumtive aspiration pneumonia,1
+Washington,2020,April,"NATURAL CAUSES",Malignant neoplasms (cancer),1
+Washington,2020,April,"NATURAL CAUSES",Unknown,2
+Washington,2020,May,ACCIDENTAL,NA,2
+Washington,2020,May,"NATURAL CAUSES",Malignant neoplasms (cancer),2
+Washington,2020,May,"NATURAL CAUSES",Septicemia,1
 Washington,2020,June,MURDERED,Homicide,1
-Washington,2020,June,NATURAL CAUSES,Alzheimer's disease,1
-Washington,2020,June,NATURAL CAUSES,COVID-19 acute respiratory distress syndrome,1
-Washington,2020,June,NATURAL CAUSES,Diseases of the Heart (Heart Disease),1
-Washington,2020,June,NATURAL CAUSES,pneumonia and ARDS | COVID-19,1
-Washington,2020,June,NATURAL CAUSES,Septicemia,1
-Washington,2020,July,NATURAL CAUSES,Malignant neoplasms (cancer),1
-Washington,2020,July,NATURAL CAUSES,Unknown,1
-Washington,2020,August,ACCIDENTAL,"NA",1
-Washington,2020,August,NATURAL CAUSES,Diabetes mellitus (diabetes),1
-Washington,2020,August,NATURAL CAUSES,Malignant neoplasms (cancer),1
-Washington,2020,August,NATURAL CAUSES,Influenza and pneumonia,1
-Washington,2020,September,NATURAL CAUSES,Failure to Thrive,1
-Washington,2020,September,NATURAL CAUSES,Malignant neoplasms (cancer),2
-Washington,2020,September,NATURAL CAUSES,Septicemia,1
-Washington,2020,October,NATURAL CAUSES,Malignant neoplasms (cancer),1
-Washington,2020,October,NATURAL CAUSES,Respiratory failure,1
-Washington,2020,November,ACCIDENTAL,"NA",1
+Washington,2020,June,"NATURAL CAUSES",Alzheimer's disease,1
+Washington,2020,June,"NATURAL CAUSES",COVID-19 acute respiratory distress syndrome,1
+Washington,2020,June,"NATURAL CAUSES",Diseases of the Heart (Heart Disease),1
+Washington,2020,June,"NATURAL CAUSES",pneumonia and ARDS | COVID-19,1
+Washington,2020,June,"NATURAL CAUSES",Septicemia,1
+Washington,2020,July,"NATURAL CAUSES",Malignant neoplasms (cancer),1
+Washington,2020,July,"NATURAL CAUSES",Unknown,1
+Washington,2020,August,ACCIDENTAL,NA,1
+Washington,2020,August,"NATURAL CAUSES",Diabetes mellitus (diabetes),1
+Washington,2020,August,"NATURAL CAUSES",Malignant neoplasms (cancer),1
+Washington,2020,August,"NATURAL CAUSES",Influenza and pneumonia,1
+Washington,2020,September,"NATURAL CAUSES",Failure to Thrive,1
+Washington,2020,September,"NATURAL CAUSES",Malignant neoplasms (cancer),2
+Washington,2020,September,"NATURAL CAUSES",Septicemia,1
+Washington,2020,October,"NATURAL CAUSES",Malignant neoplasms (cancer),1
+Washington,2020,October,"NATURAL CAUSES",Respiratory failure,1
+Washington,2020,November,ACCIDENTAL,NA,1
 Washington,2020,November,ACCIDENTAL,Unknown,1
-Washington,2020,November,NATURAL CAUSES,"NA",1
-Washington,2020,November,NATURAL CAUSES,Influenza and pneumonia,1
-Washington,2020,November,NATURAL CAUSES,Malignant neoplasms (cancer),1
-Washington,2020,November,NATURAL CAUSES,Septicemia,1
-Washington,2020,December,NATURAL CAUSES,Cerebrovascular diseases (stroke),2
-Washington,2020,December,NATURAL CAUSES,Chronic lower respiratory diseases,1
-Washington,2020,December,NATURAL CAUSES,Influenza and pneumonia,1
-Washington,2020,December,NATURAL CAUSES,COVID-19,1
-Washington,2020,December,NATURAL CAUSES,Pulmonary Emobli | COVID-19,1
-Washington,2020,December,NATURAL CAUSES,Unknown,1
+Washington,2020,November,"NATURAL CAUSES",NA,1
+Washington,2020,November,"NATURAL CAUSES",Influenza and pneumonia,1
+Washington,2020,November,"NATURAL CAUSES",Malignant neoplasms (cancer),1
+Washington,2020,November,"NATURAL CAUSES",Septicemia,1
+Washington,2020,December,"NATURAL CAUSES",Cerebrovascular diseases (stroke),2
+Washington,2020,December,"NATURAL CAUSES",Chronic lower respiratory diseases,1
+Washington,2020,December,"NATURAL CAUSES",Influenza and pneumonia,1
+Washington,2020,December,"NATURAL CAUSES",COVID-19,1
+Washington,2020,December,"NATURAL CAUSES",Pulmonary Emobli | COVID-19,1
+Washington,2020,December,"NATURAL CAUSES",Unknown,1
