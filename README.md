@@ -80,7 +80,7 @@ Reasons for differences and manipulation steps:
 | Oregon        | Error in agency reporting to BJS                                                                          | None                     |
 | Pennsylvania  | Undetermined                                                                                              | None                     |
 | Texas         | Potentially differences in which facility deaths are reported to BJS - see Texas Justice Initiative       | None                     |
-| West Virginia | WVDCR oversees prisons and jails - when jails are removed, annual totals match                            | Jail observations removed
+| West Virginia | WVDCR oversees prisons and jails - when jails are removed, annual totals are more similar                 | Jail observations removed
 
 Other manipulation steps taken to limit load data to prison / post-conviction facilities
 
@@ -89,6 +89,8 @@ Other manipulation steps taken to limit load data to prison / post-conviction fa
 | California    | Deaths in California Jails are available from the CA DoJ                                                  | Observations removed     |
 | New Hampshire | Deaths in Secure Psychiatric Facilities Included                                                          | Observations removed     |
 | New Jersey    | Deaths in Special Treatment Units Included                                                                | Observations removed  
+
+Note on deaths due to executions: Reported deaths due to execution are not removed from prepared data files and are included in summary statistics for agencies located in the `Output` folder. For more information on deaths due to execution in the U.S., please see the Death Penalty Information Center [link to database](https://deathpenaltyinfo.org/executions/execution-database).
 
 ## Structure and Organization of Data Files
 
