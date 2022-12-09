@@ -202,7 +202,7 @@ ggplot() +
     harmonize_CMP_deaths() %>%
     pull_CMP_fac_data()
     
-# Calculate monthly mortality rate from available data
+# Calculate monthly crude mortality rate from available data
 # Options: set pop.source to 'Vera' or 'UCLA' (N.B. some interpolation of total population numbers for agencies is conducted in these functions and total population numbers do not necessarily reflect a number actually reported by an agency. Please see the interpolation functions in the `general_utilities.R` file for more context on how this data is produced)
 calculate_monthly_rate('UCLA')
 
@@ -213,7 +213,7 @@ ggplot() +
     geom_bar(data = monthly.rate, aes(x = Date, y = Rate), stat = 'identity') +
     facet_wrap(~ State) 
 
-# Calculate annual mortality rate from available data
+# Calculate annual crude mortality rate from available data
 # Options: set pop.source to 'Vera' or 'UCLA' (N.B. some interpolation of total population numbers for agencies is conducted in these functions and total population numbers do not necessarily reflect a number actually reported by an agency. Please see the interpolation functions in the `general_utilities.R` file for more context on how this data is produced)
 calculate_annual_rate('UCLA')
 
@@ -223,10 +223,10 @@ ggplot() +
     geom_bar(data = annual.rate, aes(x = Year, y = Rate), stat = 'identity') +
     facet_wrap(~ State) 
     
-# Calculate monthly mortality rate for crosswalked facilities (N.B. only facilities with a 'UCLA.ID' variable will be included in this output and there is more facility information contained in raw files than summarized here. Please see our `facility_data` repository for more details and context to the data used in these functions)
+# Calculate monthly crude mortality rate for crosswalked facilities (N.B. only facilities with a 'UCLA.ID' variable will be included in this output and there is more facility information contained in raw files than summarized here. Please see our `facility_data` repository for more details and context to the data used in these functions)
 facilities.monthly <- calculate_monthly_facility_rate()
 
-# Calculate annual mortality rate for crosswalked facilities (N.B. only facilities with a 'UCLA.ID' variable will be included in this output and there is more facility information contained in raw files than summarized here. Please see our `facility_data` repository for more details and context to the data used in these functions)
+# Calculate annual crude mortality rate for crosswalked facilities (N.B. only facilities with a 'UCLA.ID' variable will be included in this output and there is more facility information contained in raw files than summarized here. Please see our `facility_data` repository for more details and context to the data used in these functions)
 facilities.annual <- calculate_annual_facility_rate()
 
 ```
