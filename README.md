@@ -159,24 +159,28 @@ compare_CMP_bjs(source = 'MCI') # source parameter designates what BJS report to
 summarize_CMP_data()
 
 # Load all CMP demographic data
+# (N.B. If an agency's demographic data is collected in a `Distinct` format, population totals by age and sex group are calculated by applying the sex ratio for the total population to each age group reported by an agency. The calculated number may not reflect the actual population total for the prison population for that age and sex group. If an agency's demographic data is collected in a `Combined` format, population totals by age and sex group are reported directly from agency reports or aggregations of these reports)
 CMP.dem <- read_CMP_dem(all.agencies = TRUE)
 
 # Load specific CMP demographic data
+# (N.B. If an agency's demographic data is collected in a `Distinct` format, population totals by age and sex group are calculated by applying the sex ratio for the total population to each age group reported by an agency. The calculated number may not reflect the actual population total for the prison population for that age and sex group. If an agency's demographic data is collected in a `Combined` format, population totals by age and sex group are reported directly from agency reports or aggregations of these reports)
 CMP.dem <- read_CMP_dem(all.agencies = FALSE, agencies = c('CA', 'NC', 'NV'))
 
 # Harmonize CMP demographic data (for analysis)
+# (N.B. If an agency's demographic data is collected in a `Distinct` format, population totals by age and sex group are calculated by applying the sex ratio for the total population to each age group reported by an agency. The calculated number may not reflect the actual population total for the prison population for that age and sex group. If an agency's demographic data is collected in a `Combined` format, population totals by age and sex group are reported directly from agency reports or aggregations of these reports)
 CMP.dem.h <- harmonize_CMP_dem(agencies = c('GA', 'IL', 'MA', 'MI', 'MT', 'NC', 'NV'))
 
 # Harmonize CMP decedent data to demographic data (for analysis)
 CMP.deaths.h <- harmonize_CMP_deaths(agencies = c('GA', 'IL', 'MA', 'MI', 'MT', 'NC', 'NV'))
 
 # Interpolate harmonized CMP demographic data
-'CA' %>%
+# (N.B. If an agency's demographic data is collected in a `Distinct` format, population totals by age and sex group are calculated by applying the sex ratio for the total population to each age group reported by an agency. The calculated number may not reflect the actual population total for the prison population for that age and sex group. If an agency's demographic data is collected in a `Combined` format, population totals by age and sex group are reported directly from agency reports or aggregations of these reports)
+'IL' %>%
     harmonize_CMP_dem() %>%
     interpolate_CMP_dem()
     
 # Calculate and plot age-specific mortality rate
-age.rate <- 'CA' %>%
+age.rate <- 'IL' %>%
     pull_CMP_age_rate() %>%
     subset(!is.nan(Rate) & 
                !is.na(Rate) &
