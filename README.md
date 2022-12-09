@@ -6,7 +6,7 @@ The [UCLA Law COVID Behind Bars Data Project](https://uclacovidbehindbars.org/),
 
 ## Purpose of Data Collection
 
-To better monitor the health conditions behind bars, our project began gathering data on all-cause deaths in U.S. prisons in June 2020. Because prison agencies report different records on deaths in custody, we have attempted to standardize records into similar variables so the public can compare what information agencies make available and analyze the data they do release. We hope this repository will be a useful tool for the public and researchers to better understand the phenomenon of deaths in custody and assist policymakers in developing strategies reduce the rising number of deaths in custody.
+To better monitor the health conditions behind bars, our project began gathering data on all-cause deaths in U.S. prisons in June 2020. Because prison agencies report different records on deaths in custody, we have attempted to standardize records into similar variables so the public can compare what information agencies make available and analyze the data they do release. We hope this repository will be a useful tool for the public and researchers to better understand the phenomenon of deaths in custody and assist policymakers in developing strategies reduce the rising number of deaths in custody. In particular we hope this database helps support the full implementation of the Death in Custody Reporting Act [link to bill](https://www.congress.gov/bill/113th-congress/house-bill/1447/text) by supplementing 'Mortality in Correctional Instiutions' reports, which were produced by the U.S. Department of Justice up until 2019, and assisting efforts to study how (1) how this data may be used to reduce deaths in custody and (2) how carceral facility management practices may contribute to deaths in custody.
 
 ## Data Collection Procedures
 
@@ -53,7 +53,7 @@ Agencies of interest and status of validation:
 | Oregon              | 5 more than BJS (2015)                     | Letter sent in Apr - response received in - no changes needed                |
 | Pennsylvania        | 5 more than BJS (2015)                     | Letter sent in Oct - agency is investigating our inquiry                     |
 | Texas               | 6 more than BJS (2010)                     | See Texas Justice Initiative                                                 |
-| West Virginia       | 14 more than BJS (2019)                    | Letter sent in Apr - response received - no changes needed    
+| West Virginia       | 14 more than BJS (2019)                    | Letter sent in Apr - response received - changes made to data (see below)    
 
 Based off responses from agencies, some records were edited to better reflect deaths in custody that occur within carceral facilities (i.e. prisons or jails). Any observations removed from a state's records are contained in the `Edited` folder. Please see data manipulation section for details on which states were edited.
 
@@ -153,13 +153,13 @@ bjs.data <- read_bjs(all.agencies = FALSE, agencies = c('CA', 'NC', 'NV', 'AR'),
 # Compare CMP and BJS decedent data
 compare_CMP_bjs(source = 'MCI') # source parameter designates what BJS report to compare to: MCI, NPS, or MCI+NPS
 
-# Summarize UCLA Mortality Database
+# Summarize CMP Database
 summarize_CMP_data()
 
 # Load all CMP demographic data
 CMP.dem <- read_CMP_dem(all.agencies = TRUE)
 
-# Load specific CMO demographic data
+# Load specific CMP demographic data
 CMP.dem <- read_CMP_dem(all.agencies = FALSE, agencies = c('CA', 'NC', 'NV', 'AR'))
 
 # Harmonize CMP demographic data (for analysis)
@@ -185,13 +185,13 @@ age.rate <- 'CA' %>%
 ggplot() +
     geom_smooth(data = age.rate, aes(x = Date, y = Rate, color = Standard.Groups))
  
-# Pull all UCLA facility data for decedent data
+# Pull all CBBDP facility data for decedent data
 'NJ' %>%
     read_CMP_deaths(all.agencies = FALSE,
                      agencies = .) %>%
     pull_ucla_fac_data()
     
-# Pull all UCLA facility data for harmonized decedent data
+# Pull all CBBDP facility data for harmonized decedent data
 'CA' %>%
     harmonize_CMP_deaths() %>%
     pull_ucla_fac_data()
