@@ -332,6 +332,8 @@ If you use any of the execution data in this repository from the Death Penalty I
 
 > Death Penalty Information Center. https://deathpenaltyinfo.org/executions/execution-database
 
+Additionally, the ACLU of Delaware assisted with the collection of death records for Delaware state prisons. [link to page](https://www.aclu-de.org/)
+
 ## License 
 
 Our data is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/). That means that you must give appropriate credit, provide a link to the license, and indicate if changes were made. You may not use our work for commercial purposes, which means anything primarily intended for or directed toward commercial advantage or monetary compensation. 
