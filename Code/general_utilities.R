@@ -90,7 +90,7 @@ read_bjs <- function(all.agencies, agencies, source) {
     
 }
 
-## Read in UCLA Historical Decedent Data -------------------------
+## Read in UCMP Historical Decedent Data -------------------------
 
 # sub functions for read_CMP_data
 
@@ -218,7 +218,6 @@ only.year.individual <- function(x) {
 # Read to Year aggregate function (default operation)
 read_to_year <- function(file.base) {
     file.list <- file.base %>%
-                 subset(Files != 'UT-Monthly') %>% # remove more detailed UT data for yearly based aggregate
                  mutate(Files = str_c('Data/Raw/Deaths/', Data.Type, '/', Files)) 
                  
     # Prepare Annual Data
@@ -935,12 +934,10 @@ calculate_monthly_rate <- function(pop.source) {
                    !str_detect('IA', State.Abb) &
                    !str_detect('WA', State.Abb) &
                    !str_detect('WV', State.Abb) &
-                   #!str_detect('AR', State.Abb) &
-                   !str_detect('VA', State.Abb)) # Iowa has weird dem data 
+                   !str_detect('VA', State.Abb) &
+                   !str_detect('SC', State.Abb))  # These state demographics currently cannot be loaded for rate calculations 
     
     if(pop.source == 'UCLA') {
-        states.w.dem <- states.w.dem %>%
-            subset(!str_detect('SC', State.Abb)) # bad demographics
         suppressMessages(
             harmonized.population <- states.w.dem$State.Abb %>%
                 lapply(., pull_harmonize_interpolate) %>%
@@ -1002,8 +999,7 @@ calculate_annual_rate <- function(pop.source) {
                        !str_detect('WV', State.Abb) &
                        !str_detect('AR', State.Abb) &
                        !str_detect('VA', State.Abb) &
-                       !str_detect('SC', State.Abb)
-            ) # Iowa has weird dem data 
+                       !str_detect('SC', State.Abb)) 
         
         suppressMessages(
             harmonized.population <- states.w.dem$State.Abb %>%
