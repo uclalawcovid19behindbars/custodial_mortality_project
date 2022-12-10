@@ -1,20 +1,20 @@
 
 
-## UCLA Law CBBDP Custodial Mortality Data
+## UCLA Law CBBDP Custodial Mortality Project Data
 
 The [UCLA Law COVID Behind Bars Data Project](https://uclacovidbehindbars.org/), launched in March 2020, tracks the spread and impact of COVID in U.S. carceral facilities and advocates for greater transparency and accountability for the pandemic response behind bars. 
 
 ## Purpose of Data Collection
 
-To better monitor the health conditions behind bars, our project began gathering data on all-cause deaths in U.S. prisons in June 2020. Because prison agencies report different records on deaths in custody, we have attempted to standardize records into similar variables so the public can compare what information agencies make available and analyze the data they do release. The project intends this repository to function as a tool for the public and researchers to better understand the phenomenon of deaths in custody and assist policymakers in developing strategies to reduce their occurence. In particular, we hope this database helps support the full implementation of the Death in Custody Reporting Act [link to bill](https://www.congress.gov/bill/113th-congress/house-bill/1447/text) by supplementing 'Mortality in Correctional Instiutions' reports, which were produced by the U.S. Department of Justice up until 2019, and assisting efforts to study how (1) how this data may be used to reduce the number of deaths in custody, and (2) how carceral facility management practices may contribute to deaths in custody.
+To better monitor the health conditions behind bars, the project began gathering data on all-cause deaths in U.S. prisons in June 2020. Because prison agencies report different records on deaths in custody, we have attempted to standardize records into similar variables so the public can compare what information agencies make available and analyze the data they do release. The project intends this repository to function as a tool for the public and researchers to better understand the phenomenon of deaths in custody and assist policymakers in developing strategies to reduce their occurence. In particular, the project hopes this database helps support the full implementation of the Death in Custody Reporting Act [link to bill](https://www.congress.gov/bill/113th-congress/house-bill/1447/text) by supplementing 'Mortality in Correctional Instiutions' reports, which were produced by the U.S. Department of Justice up until 2019, and assisting efforts to study how (1) how this data may be used to reduce the number of deaths in custody, and (2) how carceral facility management practices may contribute to deaths in custody.
 
 ## Data Collection Procedures
 
-Data on custodial deaths and prison demographics comes from a variety of sources. Where custodial death data is listed publicly on an agency website or where another organization has already collected and processed records on deaths in custody for a particular agency, we have gathered, standardized, and reproduced those records here. 
+Data on deaths in prisons and prison demographics comes from a variety of sources. Where prison death data is listed publicly on an agency website or where another organization has already collected and processed records on deaths in custody for a particular agency, the project has gathered, standardized, and reproduced those records here. 
 
-Examples of U.S. prison agencies that publicly list records on deaths in custody include the Arizona Department of Corrections [link to source](https://corrections.az.gov/inmate-death-notifications) and the Florida Department of Corrections [link to source](http://www.dc.state.fl.us/pub/mortality/index.html). We have reproduced records from the Texas Justice Initiative for deaths in Texas state prisons, Incarceration Transparency at Loyola University New Orleans, College of Law for deaths in Louisiana state prisons, and the NPR Investigations team for deaths in Bureau of Prisons facilities.
+Examples of U.S. prison agencies that publicly list records on deaths in custody include the Arizona Department of Corrections [link to source](https://corrections.az.gov/inmate-death-notifications) and the Florida Department of Corrections [link to source](http://www.dc.state.fl.us/pub/mortality/index.html). The project has reproduced records from the Texas Justice Initiative for deaths in Texas state prisons, Incarceration Transparency at Loyola University New Orleans, College of Law for deaths in Louisiana state prisons, and the NPR Investigations team for deaths in Bureau of Prisons facilities.
 
-Where information on deaths in prisons was not publicly available through an agency or another organization, or was not provided at the individual or facility-level, our project used public records requests to gather records on deaths in custody and standardized these records into a uniform database. For each request, we asked for records from 2015 to 2020 and for the following pieces of information for each death:
+Where information on deaths in prisons was not publicly available through an agency or another organization, or was not provided at the individual or facility-level, the project used public records requests to gather records on deaths in custody and standardized these records into a uniform database. For each request, the project asked for records from 2015 to 2020 and for the following pieces of information for each death:
 
 * Name of individual; 
 * Age, race, and sex of individual;
@@ -24,13 +24,13 @@ Where information on deaths in prisons was not publicly available through an age
 * Type of death (e.g., suicide, homicide, accident, drugs/alcohol, illness, other);
 * Additional details about death including circumstances, cause of death, and/or details of illness (if illness is listed as type of death).
 
-As of December 2022, our project has gathered records on all-cause deaths in all state prison systems and the Bureau of Prisons (BoP). We have gathered complete data up to the end of 2020 for 49 states and the BoP. Agencies provided different intervals of data on deaths in their facilities. Most state agencies, 42 in total, and the BoP, provided ‘individual-level’ data, meaning records that provide a specific date for each death. In many cases, other variables are tied to that death, like the name, race, or housing facility of the individual. Seven states provided data on prison deaths that were aggregated on a monthly basis. Two agencies provided data that were aggregated on an annual basis. 
+As of December 2022, the project has gathered records on all-cause deaths in all state prison systems and the Bureau of Prisons (BoP). The project has gathered complete data up to the end of 2020 for 49 states and the BoP. Agencies provided different intervals of data on deaths in their facilities. Most state agencies, 42 in total, and the BoP, provided ‘individual-level’ data, meaning records that provide a specific date for each death. In many cases, other variables are tied to that death, like the name, race, or housing facility of the individual. Six states provided data on prison deaths that were aggregated on a monthly basis. Two agencies provided data that were aggregated on an annual basis. 
 
-Agencies also provided different variables for reported prison deaths. Thirty-nine states provided a name for individual deaths in their prisons. Forty-two states provided the facilities in which deaths occurred. Twenty-six states provided the sex of decedents, and twenty-three states provided the race of decedents. Thirty-six states provided descriptions of circumstances of deaths. We have created a [summary sheet](https://docs.google.com/spreadsheets/d/10STQkTWb3uW_CXVLmVZ5GQ6ppsRmMBZ2y1yd5_eclSI/edit#gid=0) demonstrating which variables are available by prison agency. As we collect more data, we will update this sheet accordingly.
+Agencies also provided different variables for reported prison deaths. Twenty-seven states provided a name for individual deaths in their prisons. Forty-three states provided the facilities in which deaths occurred. Twenty-nine states provided the sex of decedents, and twenty-three states provided the race of decedents. Thirty-seven states provided descriptions of circumstances of deaths. We have created a [summary sheet](https://docs.google.com/spreadsheets/d/10STQkTWb3uW_CXVLmVZ5GQ6ppsRmMBZ2y1yd5_eclSI/edit#gid=0) demonstrating which variables are available by prison agency. As we collect more data, we will update this sheet accordingly.
 
 ## Time and Timing of Data Collection
 
-Data collection for this project began in June 2020 and is ongoing. For most states, our project has obtained records covering at least 2015-2020. For some states (NM) we have partial data for 2020 and we are working with the agency to obtain complete records.
+Data collection for this project began in June 2020 and is ongoing. For most states, our project has obtained records covering at least 2015-2020. For one state, New Mexico, we have partial data for 2020 and we are working with the agency to obtain complete records. Some prison agencies have also provided complete records for 2021. Please see our summary sheet [link to sheet](https://docs.google.com/spreadsheets/d/10STQkTWb3uW_CXVLmVZ5GQ6ppsRmMBZ2y1yd5_eclSI/edit#gid=0)
 
 ## Data Validation and Quality Assurance
 
@@ -59,9 +59,9 @@ Based off responses from agencies, some records were edited to better reflect de
 
 ## Types of Manipulation Conducted on Raw Data During Standardization and Analysis
 
-Agency records on deaths in custody were processed from PDFs, xlsx, csv, and jpgs. Records were made machine-readable using R and Adobe. Unprocessed records are maintained in the `Documents` folder.
+Agency records on deaths in custody were processed from pdfs, xlsx, csv, and jpgs. Records were made machine-readable using R and Adobe. Unprocessed records are maintained in the `Documents` folder.
 
-As we conducted data validation efforts our project made decisions as to how to present data that may include differences with prior BJS reports due to the type of data provided to UCLA, issues with agency reporting to BJS, and agencies managing facilities other than prisons (i.e. jails in a unified system). 
+As we conducted data validation efforts our project made decisions as to how to present data that may include differences with prior BJS reports due to the type of data provided to the project, issues with agency reporting to BJS, and agencies managing facilities other than prisons (e.g. jails in a unified system). 
 
 Reasons for differences and manipulation steps:
 
@@ -98,7 +98,7 @@ This repository is broken into four primary folders: `Code`, `Data`, `Documents`
 
 ### Code 
 
-This folder contains an R script titled 'general_utilities.' This script contains utility functions to help users load death and demographic data, harmonize death data to available demographic data, and compare aggregate totals from records collected here to reports on deaths in custody formerly reported by the Bureau of Justice Statistics in 'Mortality in Correctional Institutions' and 'National Prisoner Statistics' reports.
+This folder contains an R script titled 'general_utilities.' This script contains utility functions to help users load death and demographic data, harmonize death data to available demographic data, and compare aggregate totals from records collected here to reports on deaths in prisons formerly reported by the Bureau of Justice Statistics in 'Mortality in Correctional Institutions' (MCI) and 'National Prisoner Statistics' (NPS) reports.
 
 ### Data
 
@@ -120,19 +120,17 @@ The `Output` sub-folder contains current aggregate summary tables for mortality 
 
 The `Raw` sub-folder contains data files on `Deaths` in state prisons that our project has collected and standardized. There are four types of `Raw` death data: `Annual`, `Monthly`, `Individual`, and `Additional`. The `Annual` sub-folder contains data files from state prison systems for which we gathered data reported as annual aggregates. The `Monthly` sub-folder contains data files from state prison systems for which we gathered data reported as monthly aggregates. The `Individual` sub-folder contains data files from state prison systems for which we gathered data with an individual data of death for each reported death. The `Additional` sub-folder contains data files from state prisons for which we have separated observations on deaths in custody due to discrepancy inquiries or the inclusion of non-prison / pre-trial facilities. Each `Raw` file is titled by the state abbrevation for the state prison system it covers and the name of the time interval of reporting. 
 
-The `Raw` sub-folder also contains data files on `Demographics` in state prisons that our project has collected and standardized. There are two types of of `Raw` demographics data: `Combined` and `Distinct`. The `Combined` sub-folder contains data files from state prisons that report information on the total population by age group and sex. The `Distinct` sub-folder contains data files from state prisons that report information on the total population by age group and the total population by sex separately.   
+The `Raw` sub-folder also contains data files on `Demographics` in state prisons that our project has collected and standardized. There are two types of of `Raw` demographics data: `Combined` and `Distinct`. The `Combined` sub-folder contains data files from state prisons that report information on the total population by age group and sex. The `Distinct` sub-folder contains data files from state prisons that report information on the total population by age group and the total population by sex separately. Population totals for state prison agencies that provide `Distinct` demographic data are calculated in functions described below (i.e. read_CMP_dem and harmonize_CMP_dem) by applying the population sex ratio for the prison system uniformly across each reported age group. Population totals for states that provide `Distinct` demographic data from these functions therefore do not represent numbers reported directly by prison agencies.
 
 ### Documents
 
-This folder contains documentation for how we obtained data for each state prison system. Sub-folders for each state contain a RMarkdown file describing how we obtained the data, what variables are present in the data, and how to load and compare annual aggregates from the data with past MCI reports from BJS. 
+This folder contains documentation for how the project obtained data for each state prison system. Sub-folders for each state contain a R Markdown file describing how we obtained the data, what variables are present in the data, and how to load and compare annual aggregates from the data with past MCI reports from BJS. 
 
 `Example` folders contain raw unprocessed versions of the documents / data sources used to create the datasets in the `Raw` folder.
 
 ### Graphics
 
 This folder contains visualizations summarizing the coverage of records contained in this database.
-
-
 
 ## Accessing the Data and Data Dictionary
 
