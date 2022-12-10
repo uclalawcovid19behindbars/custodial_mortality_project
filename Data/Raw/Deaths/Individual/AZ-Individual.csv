@@ -1,640 +1,532 @@
-"State","Year","Month","Death.Date","Facility","Death.Age","Sex","Full.Name","Last.Name","ID.No","Circumstance.General","UCLA.ID"
-"Arizona",2021,"October","2021-10-08","ASPC FLORENCE",72,"M","Sergio Beas-Aguilar",NA,320230,NA,53
-"Arizona",2021,"October","2021-10-07","ASPC TUCSON",79,"M","John W. Jackson",NA,208870,NA,70
-"Arizona",2021,"October","2021-10-04","CENTRAL ARIZONA CORRECTIONAL FACILITY",51,"M","Abel G. Mesquita",NA,208199,NA,47
-"Arizona",2021,"October","2021-10-01","ASPC EYMAN",50,"M","Guadalupe A. Chavez",NA,101943,NA,52
-"Arizona",2021,"September","2021-09-22","ASPC FLORENCE",59,"M","Robert R. Ruiz",NA,59273,NA,53
-"Arizona",2021,"September","2021-09-21","ASPC LEWIS",69,"M","Stan A. Keswick",NA,34243,NA,56
-"Arizona",2021,"September","2021-09-21","ASPC FLORENCE",44,"M","Jason W. Yordt",NA,270868,NA,53
-"Arizona",2021,"September","2021-09-20","ASPC LEWIS",63,"M","George K. McGlasson",NA,242114,NA,56
-"Arizona",2021,"September","2021-09-17","ASPC TUCSON",79,"M","Andres R. Mendoza",NA,289872,NA,70
-"Arizona",2021,"September","2021-09-17","ASPC EYMAN",69,"M","Lacy Riddell",NA,34671,NA,52
-"Arizona",2021,"September","2021-09-08","ASPC LEWIS",36,"M","Anthony P. Rinaldi",NA,286650,"Suicide-Hanging",56
-"Arizona",2021,"September","2021-09-05","ASPC TUCSON",74,"M","Robert Insua",NA,331822,NA,70
-"Arizona",2021,"September","2021-09-04","ASPC FLORENCE",81,"M","Thomas J. Ward",NA,347579,NA,53
-"Arizona",2021,"September","2021-09-03","ASPC FLORENCE",36,"M","Kenneth O. Ashelman",NA,44500,NA,53
-"Arizona",2021,"August","2021-08-28","ASPC EYMAN",43,"M","Mario D. DeLuna",NA,144268,"Suicide-Hanging",52
-"Arizona",2021,"August","2021-08-27","ASPC WINSLOW",36,"M","Michael J. Gallegos",NA,334084,NA,72
-"Arizona",2021,"August","2021-08-20","ASPC LEWIS",45,"M","Brian A. Ortiz",NA,106254,NA,56
-"Arizona",2021,"August","2021-08-20","ASPC TUCSON",58,"M","Jack S. McNutt",NA,41301,NA,70
-"Arizona",2021,"August","2021-08-20","CENTRAL ARIZONA CORRECTIONAL FACILITY",57,"M","William A. Raymond",NA,306177,NA,47
-"Arizona",2021,"August","2021-08-14","ASPC FLORENCE",57,"M","Edmond Gonzalez",NA,151417,NA,53
-"Arizona",2021,"August","2021-08-09","ASPC LEWIS",62,"M","Terry D. Day",NA,50715,NA,56
-"Arizona",2021,"August","2021-08-06","ASPC FLORENCE",68,"M","Jesus R. Hernandez",NA,120524,NA,53
-"Arizona",2021,"August","2021-08-06","ASPC FLORENCE",50,"M","Samuel Martinez",NA,79764,NA,53
-"Arizona",2021,"August","2021-08-04","ASPC FLORENCE",77,"M","Sylvester Smith",NA,38883,NA,53
-"Arizona",2021,"August","2021-08-01","ASPC LEWIS",39,"M","Gilberto P. Evora",NA,192533,NA,56
-"Arizona",2021,"July","2021-07-27","ASPC FLORENCE",60,"M","Melvin L. Yarbor",NA,42063,NA,53
-"Arizona",2021,"July","2021-07-26","ASPC FLORENCE",61,"M","Kenneth B. Burns",NA,74533,NA,53
-"Arizona",2021,"July","2021-07-24","ASPC TUCSON",61,"M","Tony Mills",NA,42711,NA,70
-"Arizona",2021,"July","2021-07-22","ASPC TUCSON",63,"M","Kelly S. Curry",NA,340806,NA,70
-"Arizona",2021,"July","2021-07-16","ASPC FLORENCE",46,"M","Donald M. Lee",NA,104537,NA,53
-"Arizona",2021,"July","2021-07-07","ASPC TUCSON",51,"M","Charles L. Lake",NA,91038,NA,70
-"Arizona",2021,"July","2021-07-04","ASPC TUCSON",78,"M","Donald G. Tomlinson",NA,229631,NA,70
-"Arizona",2021,"July","2021-07-02","ASPC TUCSON",64,"M","Angelo Dunlap",NA,257732,NA,70
-"Arizona",2021,"June","2021-06-25","ASPC FLORENCE",65,"M","Ricky L. Lyon",NA,58339,NA,53
-"Arizona",2021,"June","2021-06-23","ASPC LEWIS",31,"M","Aaron Berry",NA,288327,NA,56
-"Arizona",2021,"June","2021-06-23","ASPC PERRYVILLE",53,"F","Pamela England",NA,142291,NA,60
-"Arizona",2021,"June","2021-06-21","ASPC TUCSON",58,"M","Richard F. Misquez",NA,204086,NA,70
-"Arizona",2021,"June","2021-06-16","ASPC EYMAN",43,"M","Jesus Jurado",NA,343570,NA,52
-"Arizona",2021,"June","2021-06-12","ASPC FLORENCE",57,"M","Roger A. Gibbs",NA,114178,NA,53
-"Arizona",2021,"June","2021-06-10","ASPC TUCSON",30,"M","Timothy C. Ashing",NA,285611,NA,70
-"Arizona",2021,"June","2021-06-09","ASPC TUCSON",74,"M","Warren W. Summerlin",NA,45318,NA,70
-"Arizona",2021,"June","2021-06-09","ASPC TUCSON",67,"M","Michael L. Ring",NA,39090,"Suicide-Laceration",70
-"Arizona",2021,"June","2021-06-04","ASPC FLORENCE",56,"M","Jose Arrieta",NA,143577,NA,53
-"Arizona",2021,"June","2021-06-04","ASPC DOUGLAS",55,"M","Johnny R. Calvin",NA,121504,NA,51
-"Arizona",2021,"June","2021-06-01","ASPC FLORENCE",68,"M","Lewis A. Harry",NA,61546,NA,53
-"Arizona",2021,"May","2021-05-31","ASPC YUMA",62,"M","David S. Crawford",NA,193652,"Suicide-Hanging",73
-"Arizona",2021,"May","2021-05-29","ASPC TUCSON",61,"M","Thomas R. Sweeney",NA,183582,NA,70
-"Arizona",2021,"May","2021-05-22","ASPC TUCSON",62,"M","Michael R. Knesel",NA,322319,NA,70
-"Arizona",2021,"May","2021-05-20","ASPC TUCSON",64,"M","Stewart L. Braswell",NA,292189,NA,70
-"Arizona",2021,"May","2021-05-08","ASPC EYMAN",71,"M","Michael C. Brooks",NA,36259,NA,52
-"Arizona",2021,"May","2021-05-06","ASPC LEWIS",60,"M","Michael J. Vallejos",NA,258836,NA,56
-"Arizona",2021,"April","2021-04-30","ASPC LEWIS",60,"M","Walter W. Nusz",NA,103801,NA,56
-"Arizona",2021,"April","2021-04-24","ASPC LEWIS",55,"M","Jesse Miranda",NA,168263,NA,56
-"Arizona",2021,"April","2021-04-23","ASPC EYMAN",72,"M","Wayman Walker",NA,168263,NA,52
-"Arizona",2021,"April","2021-04-22","ASPC EYMAN",66,"M","Michael S. Lawson",NA,250436,NA,52
-"Arizona",2021,"April","2021-04-16","ASPC EYMAN",45,"M","Jason Rothlisberger",NA,321298,"Suicide-Hanging",52
-"Arizona",2021,"April","2021-04-14","ASPC PERRYVILLE",45,"F","Caroline Hurley",NA,161506,NA,60
-"Arizona",2021,"April","2021-04-10","ASPC TUCSON",86,"M","Jack Malone",NA,95919,NA,70
-"Arizona",2021,"April","2021-04-06","ASPC EYMAN",37,"M","Cardinel M. Barnes",NA,169588,NA,52
-"Arizona",2021,"April","2021-04-04","ASPC EYMAN",61,"M","Dale F. Hoover",NA,332711,NA,52
-"Arizona",2021,"April","2021-04-04","ASPC TUCSON",61,"M","Germaine D. King",NA,93004,NA,70
-"Arizona",2021,"April","2021-04-03","ASPC EYMAN",54,"M","Tommy E. Sanchez",NA,299118,NA,52
-"Arizona",2021,"April","2021-04-02","ASPC PHOENIX",72,"M","John J. McGregor",NA,159752,NA,63
-"Arizona",2021,"March","2021-03-29","ASPC PERRYVILLE",75,"F","Norma J. Coverdale",NA,340560,NA,60
-"Arizona",2021,"March","2021-03-26","ASPC TUCSON",42,"M","Christopher Mata",NA,233470,NA,70
-"Arizona",2021,"March","2021-03-25","ASPC FLORENCE",64,"M","Miguel D. Leal",NA,241025,NA,53
-"Arizona",2021,"March","2021-03-24","ASPC PERRYVILLE",26,"F","Georsha M. Boston",NA,346890,NA,60
-"Arizona",2021,"March","2021-03-22","ASPC TUCSON",67,"M","Adell Tillman",NA,76667,NA,70
-"Arizona",2021,"March","2021-03-16","ASPC KINGMAN",50,"M","Edward M. Casillas",NA,204532,NA,55
-"Arizona",2021,"March","2021-03-07","ASPC KINGMAN",67,"M","Vincente S. Parra",NA,69150,NA,55
-"Arizona",2021,"March","2021-03-06","ASPC TUCSON",59,"M","Seferino L. Rubio",NA,238957,NA,70
-"Arizona",2021,"March","2021-03-02","ASPC TUCSON",61,"M","Gregory V. Murphy",NA,344716,NA,70
-"Arizona",2021,"March","2021-03-01","ASPC TUCSON",33,"M","Michael N. Martinez",NA,309613,NA,70
-"Arizona",2021,"February","2021-02-28","ASPC FLORENCE",27,"M","Jake K. McGowan",NA,320080,NA,53
-"Arizona",2021,"February","2021-02-24","ASPC FLORENCE",71,"M","Francisco C. Olmeda",NA,309892,NA,53
-"Arizona",2021,"February","2021-02-22","ASPC TUCSON",65,"M","Everett A. Coulter",NA,340616,NA,70
-"Arizona",2021,"February","2021-02-22","ASPC EYMAN",70,"M","Melvin Teter",NA,274376,NA,52
-"Arizona",2021,"February","2021-02-20","ASPC EYMAN",81,"M","Charles F. Roscoe",NA,140590,NA,52
-"Arizona",2021,"February","2021-02-15","ASPC EYMAN",35,"M","Joseph Miranda",NA,286226,NA,52
-"Arizona",2021,"February","2021-02-15","ASPC EYMAN",73,"M","Gilbert L. Molina",NA,242463,NA,52
-"Arizona",2021,"February","2021-02-13","ASPC FLORENCE",72,"M","Jose J. Robles",NA,30270,NA,53
-"Arizona",2021,"February","2021-02-12","ASPC PHOENIX",22,"M","Adrian G. Perez",NA,322757,NA,63
-"Arizona",2021,"February","2021-02-09","ASPC LEWIS",22,"M","Benjamin J. Madrigal",NA,346934,NA,56
-"Arizona",2021,"February","2021-02-08","ASPC KINGMAN",49,"M","Jorge Lugo",NA,286390,NA,55
-"Arizona",2021,"February","2021-02-04","ASPC EYMAN",75,"M","Charles A. Trask",NA,188597,NA,52
-"Arizona",2021,"February","2021-02-03","ASPC TUCSON",48,"M","Brandy Brents",NA,92862,"Suicide-Hanging",70
-"Arizona",2021,"January","2021-01-28","ASPC LEWIS",20,"M","Austin T. Georgatos",NA,346726,"Suicide-Hanging",56
-"Arizona",2021,"January","2021-01-21","ASPC EYMAN",66,"M","Armando L. Corona",NA,320705,NA,52
-"Arizona",2021,"January","2021-01-21","ASPC KINGMAN",70,"M","Robin G. Butner",NA,198956,NA,55
-"Arizona",2021,"January","2021-01-20","ASPC YUMA",77,"M","Dominic J. Brodowski",NA,27566,NA,73
-"Arizona",2021,"January","2021-01-19","ASPC TUCSON",73,"M","Larry A. Klevenow",NA,245601,NA,70
-"Arizona",2021,"January","2021-01-16","ASPC TUCSON",59,"M","John G. Agee",NA,212828,NA,70
-"Arizona",2021,"January","2021-01-15","ASPC EYMAN",84,"M","Prescott S. Lyman",NA,201123,NA,52
-"Arizona",2021,"January","2021-01-14","ASPC EYMAN",NA,"M","Carl B. Branson",NA,143921,NA,52
-"Arizona",2021,"January","2021-01-14","ASPC YUMA",62,"M","Christopher J. Benedetto",NA,199162,NA,73
-"Arizona",2021,"January","2021-01-14","ASPC EYMAN",78,"M","Richard P. Robles",NA,330041,NA,52
-"Arizona",2021,"January","2021-01-12","ASPC EYMAN",65,"M","Perry S. Brenkman",NA,40909,NA,52
-"Arizona",2021,"January","2021-01-11","ASPC EYMAN",59,"M","Alphonso R. Martinez",NA,143560,NA,52
-"Arizona",2021,"January","2021-01-10","ASPC EYMAN",77,"M","John J. Santori",NA,311768,NA,52
-"Arizona",2021,"January","2021-01-08","ASPC FLORENCE",77,"M","James M. Champlin",NA,141824,NA,53
-"Arizona",2021,"January","2021-01-07","ASPC TUCSON",61,"M","Duane Principale",NA,340542,NA,70
-"Arizona",2021,"January","2021-01-06","ASPC LEWIS",44,"M","Jason E. Dean",NA,112850,"Suicide-Hanging",56
-"Arizona",2021,"January","2021-01-06","ASPC LEWIS",53,"M","Michael L. Ross",NA,55098,NA,56
-"Arizona",2021,"January","2021-01-06","ASPC YUMA",NA,"M","Joseph M. Meza",NA,173826,NA,73
-"Arizona",2021,"January","2021-01-03","ASPC TUCSON",73,"M","Samuel Rosthenhausler",NA,29781,NA,70
-"Arizona",2021,"January","2021-01-02","ASPC FLORENCE",83,"M","Frank E. Tapp",NA,312626,NA,53
-"Arizona",2021,"January","2021-01-01","ASPC EYMAN",76,"M","Robert H. Oldfield",NA,188129,NA,52
-"Arizona",2021,"January","2021-01-01","ASPC PERRYVILLE",64,"F","Shari L. Tobyne",NA,281121,NA,60
-"Arizona",2020,"December","2020-12-31","ASPC YUMA",72,"M","Jose Mendez-Lovio",NA,337807,NA,73
-"Arizona",2020,"December","2020-12-30","ASPC PHOENIX WEST",60,"M","Raymond Charles",NA,131392,NA,63
-"Arizona",2020,"December","2020-12-30","ASPC EYMAN",47,"M","Keith Lewis",NA,87820,NA,52
-"Arizona",2020,"December","2020-12-26","ASPC EYMAN",72,"M","Lawrence Cardwell",NA,164175,NA,52
-"Arizona",2020,"December","2020-12-24","ASPC EYMAN",72,"M","Thomas Michaels",NA,81119,NA,52
-"Arizona",2020,"December","2020-12-23","ASPC FLORENCE",51,"M","Grady Jones",NA,66682,NA,53
-"Arizona",2020,"December","2020-12-23","ASPC FLORENCE",67,"M","Jose Torres",NA,289267,NA,53
-"Arizona",2020,"December","2020-12-21","ASPC YUMA",67,"M","Johnny Black",NA,191874,NA,73
-"Arizona",2020,"December","2020-12-19","ASPC TUCSON",63,"M","Louis Elvira",NA,310577,NA,70
-"Arizona",2020,"December","2020-12-17","ASPC TUCSON",64,"M","Gregory A. Cordell",NA,283540,NA,70
-"Arizona",2020,"December","2020-12-12","ASPC FLORENCE",55,"M","Martin G. Canez",NA,57400,NA,53
-"Arizona",2020,"December","2020-12-11","ASPC TUCSON",55,"M","Gabriel A. Figueroa",NA,258371,NA,70
-"Arizona",2020,"December","2020-12-07","ASPC YUMA",62,"M","Ylario L. Raizola",NA,231912,NA,73
-"Arizona",2020,"December","2020-12-02","ASPC TUCSON",64,"M","Michael R. Degroat",NA,52417,NA,70
-"Arizona",2020,"November","2020-11-27","ASPC FLORENCE",64,"M","Michael J. McGrath",NA,33961,NA,53
-"Arizona",2020,"November","2020-11-24","ASPC FLORENCE",55,"M","Peter J. Caddeo",NA,332940,NA,53
-"Arizona",2020,"November","2020-11-19","ASPC FLORENCE",66,"M","Virgil R. Fosjord",NA,313627,NA,53
-"Arizona",2020,"November","2020-11-16","CENTRAL ARIZONA CORRECTIONAL FACILITY",66,"M","Robert E. White",NA,38991,NA,47
-"Arizona",2020,"November","2020-11-15","ASPC TUCSON",68,"M","Patrick L. Foose",NA,33655,NA,70
-"Arizona",2020,"November","2020-11-12","ASPC EYMAN",73,"M","James Stites",NA,176078,NA,52
-"Arizona",2020,"November","2020-11-11","ASPC FLORENCE",80,"M","James L. Morris",NA,340017,NA,53
-"Arizona",2020,"November","2020-11-06","ASPC FLORENCE",22,"M","Wally Boro",NA,328287,NA,53
-"Arizona",2020,"October","2020-10-31","ASPC TUCSON",86,"M","Ray Lujan",NA,282754,NA,70
-"Arizona",2020,"October","2020-10-30","ASPC LEWIS",81,"M","Leon W. Scheall",NA,139903,NA,56
-"Arizona",2020,"October","2020-10-28","ASPC FLORENCE",73,"M","Larry Crews",NA,324461,NA,53
-"Arizona",2020,"October","2020-10-19","ASPC FLORENCE",64,"M","Gregory T. Williams",NA,339201,NA,53
-"Arizona",2020,"October","2020-10-12","ASPC TUCSON",47,"M","Christopher M. Pace",NA,119360,NA,70
-"Arizona",2020,"October","2020-10-10","ASPC LEWIS",48,"M","Gary Ware",NA,207216,NA,56
-"Arizona",2020,"October","2020-10-05","ASPC FLORENCE",33,"M","Juan M. Ortega",NA,203057,NA,53
-"Arizona",2020,"October","2020-10-02","ASPC PERRYVILLE",52,"F","Tamera G. Brown",NA,183905,NA,60
-"Arizona",2020,"October","2020-10-02","ASPC EYMAN",73,"M","Michael A. Matthews",NA,25788,NA,52
-"Arizona",2020,"September","2020-09-25","CENTRAL ARIZONA CORRECTIONAL FACILITY",59,"M","Gilberto C. Paredes",NA,79466,NA,47
-"Arizona",2020,"September","2020-09-23","ASPC EYMAN",76,"M","Geronimo Villalobos",NA,94151,NA,52
-"Arizona",2020,"September","2020-09-22","ASPC PERRYVILLE",47,"F","Tracie G. Otero",NA,151002,"Suicide-Hanging",60
-"Arizona",2020,"September","2020-09-19","ASPC FLORENCE",59,"M","Edward H. Gum",NA,45380,NA,53
-"Arizona",2020,"September","2020-09-17","ASPC FLORENCE",73,"M","Robert L. Carnochan",NA,322451,NA,53
-"Arizona",2020,"September","2020-09-13","ASPC TUCSON",25,"M","Eric C. Haag",NA,286490,"Suicide-Hanging",70
-"Arizona",2020,"September","2020-09-11","ASPC PERRYVILLE",57,"F","Janice L. Braren",NA,53799,NA,60
-"Arizona",2020,"August","2020-08-29","ASPC LEWIS",31,"M","Travis R. Horner",NA,275629,NA,56
-"Arizona",2020,"August","2020-08-26","ASPC LEWIS",70,"M","Larry Hull",NA,173878,NA,56
-"Arizona",2020,"August","2020-08-26","ASPC EYMAN",29,"M","Rueben R. Neal",NA,265762,"Suicide-Hanging",52
-"Arizona",2020,"August","2020-08-25","ASPC FLORENCE",70,"M","Walter P. Lowe",NA,200141,NA,53
-"Arizona",2020,"August","2020-08-23","ASPC FLORENCE",82,"M","Paul Garza",NA,283632,NA,53
-"Arizona",2020,"August","2020-08-17","ASPC EYMAN",77,"M","Philip Schumacher",NA,343893,NA,52
-"Arizona",2020,"August","2020-08-16","ASPC TUCSON",61,"M","Augustine H. Reyes",NA,236135,NA,70
-"Arizona",2020,"August","2020-08-15","ASPC FLORENCE",72,"M","David B. McCord",NA,90993,NA,53
-"Arizona",2020,"August","2020-08-14","ASPC KINGMAN",47,"M","Kevin Izad",NA,118205,NA,55
-"Arizona",2020,"August","2020-08-13","ASPC YUMA",60,"M","Miguel A. Bencomo",NA,270089,NA,73
-"Arizona",2020,"August","2020-08-10","CENTRAL ARIZONA CORRECTIONAL FACILITY",74,"M","Jerald M. Brown",NA,282638,NA,47
-"Arizona",2020,"August","2020-08-06","ASPC TUCSON",38,"M","Manuel A. Sanchez-Garcia",NA,326505,NA,70
-"Arizona",2020,"August","2020-08-06","ASPC FLORENCE",65,"M","Robert C. Cronan",NA,204577,NA,53
-"Arizona",2020,"August","2020-08-06","ASPC FLORENCE",78,"M","Marvin D. Tabron",NA,60527,NA,53
-"Arizona",2020,"August","2020-08-06","ASPC LEWIS",43,"M","Mark A. Garcia",NA,113903,NA,56
-"Arizona",2020,"August","2020-08-05","ASPC WINSLOW",23,"M","Patrick S. Pruitt",NA,308796,"Suicide-Hanging",72
-"Arizona",2020,"August","2020-08-04","ASPC TUCSON",46,"M","Sean D. Adie",NA,286463,NA,70
-"Arizona",2020,"August","2020-08-02","CENTRAL ARIZONA CORRECTIONAL FACILITY",67,"M","Maxamillano S. Paredes",NA,39812,NA,47
-"Arizona",2020,"August","2020-08-01","ASPC EYMAN",69,"M","William D. Beltran",NA,319997,NA,52
-"Arizona",2020,"July","2020-07-30","CENTRAL ARIZONA CORRECTIONAL FACILITY",66,"M","Kenneth K. Oberheide",NA,201024,NA,47
-"Arizona",2020,"July","2020-07-29","ASPC TUCSON",87,"M","Rodney G. Schaffer",NA,93359,NA,70
-"Arizona",2020,"July","2020-07-27","ASPC FLORENCE",67,"M","Everett R. Hurst",NA,30105,NA,53
-"Arizona",2020,"July","2020-07-26","ASPC TUCSON",74,"M","Joseph E. Thomas",NA,323425,NA,70
-"Arizona",2020,"July","2020-07-22","ASPC TUCSON",52,"M","Ta Y. Ni",NA,191345,NA,70
-"Arizona",2020,"July","2020-07-22","ASPC FLORENCE",64,"M","Kenneth D. Haley",NA,129606,NA,53
-"Arizona",2020,"July","2020-07-18","ASPC EYMAN",72,"M","Andrew E. Barnhart",NA,330350,NA,52
-"Arizona",2020,"July","2020-07-16","ASPC LEWIS",54,"M","David J. Castillo",NA,161135,NA,56
-"Arizona",2020,"July","2020-07-13","ASPC KINGMAN",57,"M","Timothy S. Smith",NA,230890,NA,55
-"Arizona",2020,"July","2020-07-12","ASPC FLORENCE",66,"M","Robert Satala",NA,32274,NA,53
-"Arizona",2020,"July","2020-07-09","ASPC FLORENCE",39,"M","Eldon B. Delong",NA,298802,NA,53
-"Arizona",2020,"July","2020-07-06","ASPC TUCSON",61,"M","Larry R. Apodaca",NA,331490,NA,70
-"Arizona",2020,"July","2020-07-05","ASPC TUCSON",77,"M","James D. McInroe",NA,286368,NA,70
-"Arizona",2020,"July","2020-07-05","ASPC EYMAN",56,"M","Larry J. Ladwig",NA,152526,NA,52
-"Arizona",2020,"July","2020-07-02","ASPC PERRYVILLE",50,"F","Barbara M. Hudson",NA,270623,NA,60
-"Arizona",2020,"June","2020-06-30","ASPC FLORENCE",61,"M","Steven F. Moore",NA,318489,NA,53
-"Arizona",2020,"June","2020-06-30","ASPC TUCSON",98,"M","Horace Sublett",NA,157946,NA,70
-"Arizona",2020,"June","2020-06-29","ASPC YUMA",71,"M","Michael A. Bloom",NA,204041,NA,73
-"Arizona",2020,"June","2020-06-27","ASPC TUCSON",72,"M","Pedro D. Avila",NA,47094,NA,70
-"Arizona",2020,"June","2020-06-26","ASPC FLORENCE",54,"M","Danny P. Enriquez",NA,57956,NA,53
-"Arizona",2020,"June","2020-06-25","ASPC FLORENCE",55,"M","Steve P. Jernigan",NA,54777,NA,53
-"Arizona",2020,"June","2020-06-24","ASPC YUMA",53,"M","Timothy Smith",NA,341364,NA,73
-"Arizona",2020,"June","2020-06-14","ASPC TUCSON",60,"M","Larry J. Kearney",NA,168173,NA,70
-"Arizona",2020,"June","2020-06-14","ASPC TUCSON",66,"M","Richard J. Polaski",NA,314917,NA,70
-"Arizona",2020,"June","2020-06-13","ASPC FLORENCE",83,"M","William K. Qualls",NA,181381,NA,53
-"Arizona",2020,"June","2020-06-12","ASPC LEWIS",56,"M","John E. Palmer",NA,45441,NA,56
-"Arizona",2020,"June","2020-06-11","ASPC FLORENCE",77,"M","John H. Allen",NA,168873,NA,53
-"Arizona",2020,"June","2020-06-10","ASPC TUCSON",57,"M","Kevin R. Smith",NA,168873,NA,70
-"Arizona",2020,"June","2020-06-10","ASPC LEWIS",54,"M","James B. Honeycutt",NA,44758,NA,56
-"Arizona",2020,"June","2020-06-05","ASPC TUCSON",61,"M","David A. Konie",NA,334539,NA,70
-"Arizona",2020,"June","2020-06-04","ASPC FLORENCE",42,"M","George Hayes",NA,162202,NA,53
-"Arizona",2020,"June","2020-06-04","ASPC FLORENCE",44,"M","Juan L. Vasquez",NA,239226,NA,53
-"Arizona",2020,"June","2020-06-02","ASPC EYMAN",49,"M","Arthur R. Juarez",NA,300508,NA,52
-"Arizona",2020,"June","2020-06-01","ASPC KINGMAN",59,"M","Douglas J. Houk",NA,231907,NA,55
-"Arizona",2020,"May","2020-05-25","ASPC TUCSON",63,"M","Tony P. Wilson",NA,311480,NA,70
-"Arizona",2020,"May","2020-05-25","ASPC PERRYVILLE",64,"F","Marjorie E. Turner",NA,340055,NA,60
-"Arizona",2020,"May","2020-05-15","ASPC FLORENCE",64,"M","Jerry D. Hubbard",NA,140843,NA,53
-"Arizona",2020,"May","2020-05-14","ASPC FLORENCE",68,"M","Richard Resa",NA,105054,NA,53
-"Arizona",2020,"May","2020-05-14","ASPC LEWIS",44,"M","Dennis J. Rizzo",NA,331306,NA,56
-"Arizona",2020,"May","2020-05-09","ASPC KINGMAN",62,"M","James A. Zimmerman",NA,322744,NA,55
-"Arizona",2020,"May","2020-05-08","ASPC FLORENCE",99,"M","Angelino P. Buccheri-Bianca",NA,19002,NA,53
-"Arizona",2020,"May","2020-05-08","ASPC YUMA",52,"M","Robert A. Boyd",NA,151564,NA,73
-"Arizona",2020,"May","2020-05-07","ASPC TUCSON",61,"M","Christopher Albaugh",NA,319432,NA,70
-"Arizona",2020,"May","2020-05-06","ASPC LEWIS",58,"M","George C. Gill",NA,62474,NA,56
-"Arizona",2020,"May","2020-05-05","ASPC TUCSON",52,"M","Erick V. Hollstein",NA,284770,NA,70
-"Arizona",2020,"May","2020-05-02","ASPC FLORENCE",73,"M","Bruce A. McCullough",NA,313823,NA,53
-"Arizona",2020,"May","2020-05-02","ASPC FLORENCE",54,"M","Franklin A. Macato",NA,317331,NA,53
-"Arizona",2020,"May","2020-05-01","ASPC TUCSON",68,"M","Pedro C. Bella",NA,279045,NA,70
-"Arizona",2020,"April","2020-04-30","ASPC FLORENCE",40,"M","Kevin R. Blaise",NA,143400,NA,53
-"Arizona",2020,"April","2020-04-30","ASPC FLORENCE",56,"M","Alfonso R. Salazar",NA,66369,NA,53
-"Arizona",2020,"April","2020-04-25","ASPC FLORENCE",70,"M","James R. Simpson",NA,50106,NA,53
-"Arizona",2020,"April","2020-04-24","ASPC FLORENCE",79,"M","Sittingdown",NA,52179,NA,53
-"Arizona",2020,"April","2020-04-23","ASPC DOUGLAS",63,"M","Cyrus R. Pool",NA,339924,NA,51
-"Arizona",2020,"April","2020-04-22","ASPC FLORENCE",50,"M","John A. Estrada",NA,108351,NA,53
-"Arizona",2020,"April","2020-04-20","ASPC FLORENCE",64,"M","Jesus O. Medina",NA,282468,NA,53
-"Arizona",2020,"April","2020-04-19","ASPC YUMA",79,"M","Charles Coffelt",NA,86850,NA,73
-"Arizona",2020,"April","2020-04-12","ASPC TUCSON",64,"M","Joseph M. Assyd",NA,120372,NA,70
-"Arizona",2020,"April","2020-04-12","ASPC FLORENCE",59,"M","William D. Stragey",NA,197012,NA,53
-"Arizona",2020,"April","2020-04-12","ASPC FLORENCE",75,"M","Luis A. Chavez",NA,246643,NA,53
-"Arizona",2020,"April","2020-04-10","ASPC TUCSON",65,"M","Richard R. Sheff",NA,276388,NA,70
-"Arizona",2020,"April","2020-04-06","ASPC FLORENCE",75,"M","Jerry W. Allgood",NA,76672,NA,53
-"Arizona",2020,"April","2020-04-05","ASPC TUCSON",75,"M","James L. Harvey",NA,68237,NA,70
-"Arizona",2020,"April","2020-04-04","ASPC TUCSON",57,"M","Stephen W. Cofield",NA,46955,NA,70
-"Arizona",2020,"March","2020-03-30","ASPC TUCSON",73,"M","Terry L. Pitzer",NA,91992,NA,70
-"Arizona",2020,"March","2020-03-29","ASPC YUMA",63,"M","Danny Wise",NA,286665,NA,73
-"Arizona",2020,"March","2020-03-25","ASPC TUCSONOFFICE",62,"M","Charles F. Bush",NA,40758,NA,70
-"Arizona",2020,"March","2020-03-23","ASPC TUCSON",68,"M","Jesse M. Boldrey",NA,79547,NA,70
-"Arizona",2020,"March","2020-03-21","ASPC EYMANOFFICE",47,"M","Samuel Rotondo",NA,102015,"Suicide",52
-"Arizona",2020,"March","2020-03-20","ASPC LEWIS",43,"M","Michael R. Ochoa",NA,109017,NA,56
-"Arizona",2020,"March","2020-03-19","ASPC TUCSON",68,"M","Francisco Rosario",NA,184091,NA,70
-"Arizona",2020,"March","2020-03-15","ASPC FLORENCE",62,"M","Fred L. Metzner",NA,94152,NA,53
-"Arizona",2020,"March","2020-03-14","ASPC FLORENCE",37,"M","Christopher S. Yeager",NA,182011,NA,53
-"Arizona",2020,"March","2020-03-12","ASPC FLORENCE",52,"M","Jose D. Munguia",NA,266507,NA,53
-"Arizona",2020,"March","2020-03-11","ASPC FLORENCE",71,"M","William E. Bole",NA,92243,NA,53
-"Arizona",2020,"March","2020-03-08","ASPC PERRYVILLEOFFICE",42,"F","Erika Kurtenbach",NA,218110,NA,60
-"Arizona",2020,"March","2020-03-07","ASPC PERRYVILLE",25,"F","Ashley S. Carr",NA,341959,"Suicide",60
-"Arizona",2020,"March","2020-03-03","ASPC TUCSON",57,"M","Edward G. West",NA,64428,NA,70
-"Arizona",2020,"February","2020-02-22","ASPC TUCSON",76,"M","Thomas R. Vogt",NA,29337,NA,70
-"Arizona",2020,"February","2020-02-21","ASPC EYMANOFFICE",36,"M","Gene P. Beck",NA,173474,"Suicide-Hanging",52
-"Arizona",2020,"February","2020-02-21","ASPC LEWIS",67,"M","Andy R. Ambler",NA,150172,NA,56
-"Arizona",2020,"February","2020-02-20","ASPC TUCSON",58,"M","Peter S. Wludyka",NA,225901,NA,70
-"Arizona",2020,"February","2020-02-15","ASPC FLORENCE WEST",47,"M","Philbert Lookingback",NA,328817,NA,54
-"Arizona",2020,"February","2020-02-14","ASPC LEWIS",65,"M","Robert S. Reed",NA,247269,NA,56
-"Arizona",2020,"February","2020-02-05","ASPC FLORENCE",58,"M","William H. Culpepper",NA,307068,NA,53
-"Arizona",2020,"February","2020-02-03","ASPC LEWIS",44,"M","Ruben Alvarez",NA,133808,NA,56
-"Arizona",2020,"February","2020-02-03","ASPC TUCSON",64,"M","Ricky J. Gillin",NA,107255,NA,70
-"Arizona",2020,"February","2020-02-02","ASPC FLORENCE",61,"M","Lanny D. Gunter",NA,216459,NA,53
-"Arizona",2020,"January","2020-01-27","ASPC TUCSON",52,"M","Marvin D. Jones",NA,157126,NA,70
-"Arizona",2020,"January","2020-01-21","ASPC TUCSON",64,"M","Kenneth H. Black",NA,223685,NA,70
-"Arizona",2020,"January","2020-01-20","ASPC TUCSON",67,"M","James D. Wilcox",NA,320434,NA,70
-"Arizona",2020,"January","2020-01-20","ASPC FLORENCE",45,"M","Clayton P. Peachay",NA,139016,NA,53
-"Arizona",2020,"January","2020-01-17","ASPC FLORENCE",66,"M","Arlie G. Tubbs",NA,36465,NA,53
-"Arizona",2020,"January","2020-01-16","ASPC SAFFORD",25,"M","Juan M. LaClair",NA,301472,NA,67
-"Arizona",2020,"January","2020-01-15","ASPC FLORENCE",60,"M","Roger L. Smith",NA,44755,NA,53
-"Arizona",2020,"January","2020-01-11","ASPC PERRYVILLE",62,"F","Debra L. Rautenberg",NA,91702,NA,60
-"Arizona",2020,"January","2020-01-07","ASPC TUCSON",57,"M","Joseph Carbajal",NA,51836,NA,70
-"Arizona",2020,"January","2020-01-01","ASPC FLORENCE",62,"M","Delbert E. Kroger",NA,219928,NA,53
-"Arizona",2020,"January","2020-01-01","ASPC PHOENIX",35,"M","Christopher L. Christean",NA,340772,NA,63
-"Arizona",2020,"January","2020-01-01","ASPC EYMAN",29,"M","James Edwards",NA,312218,NA,52
-"Arizona",2019,"December","2019-12-31","ASPC TUCSON",71,"M","Bruce A. Manthey",NA,205135,NA,70
-"Arizona",2019,"December","2019-12-30","ASPC YUMA",65,"M","James E. Brister",NA,52267,NA,73
-"Arizona",2019,"December","2019-12-23","ASPC YUMA",30,"M","Demitris M. Williams",NA,300282,NA,73
-"Arizona",2019,"December","2019-12-22","ASPC FLORENCE",59,"M","Jeffrey A. LeClair",NA,73337,NA,53
-"Arizona",2019,"December","2019-12-20","ASPC FLORENCE",51,"M","James M. King",NA,312231,NA,53
-"Arizona",2019,"December","2019-12-20","ASPC EYMAN",66,"M","Michael F. Oliver",NA,68972,NA,52
-"Arizona",2019,"December","2019-12-19","ASPC TUCSON",65,"M","Michael A. Marsh",NA,58426,NA,70
-"Arizona",2019,"December","2019-12-14","ASPC TUCSON",49,"M","Jon T. King",NA,336503,NA,70
-"Arizona",2019,"December","2019-12-14","ASPC WINSLOW",44,"M","Michael R. Alvarez",NA,110260,NA,72
-"Arizona",2019,"December","2019-12-12","ASPC TUCSON",55,"M","Kenneth E. Lunsford",NA,193183,NA,70
-"Arizona",2019,"December","2019-12-11","ASPC FLORENCE",77,"M","Richard K. Ray",NA,58898,NA,53
-"Arizona",2019,"December","2019-12-06","ASPC LEWIS",64,"M","Marc A. Clark",NA,106077,NA,56
-"Arizona",2019,"November","2019-11-18","ASPC FLORENCE",48,"M","Ruskowsky",NA,107275,NA,53
-"Arizona",2019,"November","2019-11-08","ASPC EYMAN",34,"M","Sergio G. Almanza",NA,197025,NA,52
-"Arizona",2019,"October","2019-10-30","ASPC PERRYVILLE",41,"F","Kara J. Finn",NA,228030,NA,60
-"Arizona",2019,"October","2019-10-19","ASPC FLORENCEOFFICE",60,"M","Craig J. Flewellen",NA,39694,NA,53
-"Arizona",2019,"October","2019-10-09","ASPC TUCSON",37,"M","Michael B. Thomas",NA,265890,NA,70
-"Arizona",2019,"October","2019-10-07","ASPC YUMA",60,"M","Robert J. Moody",NA,120103,NA,73
-"Arizona",2019,"October","2019-10-05","ASPC TUCSON",51,"M","Francisco Dominguez",NA,152633,NA,70
-"Arizona",2019,"October","2019-10-05","ASPC TUCSON",68,"M","Kenneth J. Barker",NA,331006,NA,70
-"Arizona",2019,"October","2019-10-04","ASPC TUCSON",48,"M","Noe M. Santillana",NA,216586,NA,70
-"Arizona",2019,"September","2019-09-24","ASPC FLORENCE",68,"M","Gilbert V. Hostler",NA,30476,NA,53
-"Arizona",2019,"September","2019-09-20","ASPC FLORENCE",79,"M","Joe P. Stuard",NA,125108,NA,53
-"Arizona",2019,"September","2019-09-18","ASPC LEWISOFFICE",31,"M","Tyler J. Gold",NA,258485,NA,56
-"Arizona",2019,"September","2019-09-18","CENTRAL ARIZONA CORRECTIONAL FACILITY",57,"M","Elliott E. Smith",NA,39448,NA,47
-"Arizona",2019,"September","2019-09-16","ASPC TUCSON",62,"M","Mark S. Andrews",NA,40810,NA,70
-"Arizona",2019,"September","2019-09-15","ASPC TUCSON",58,"M","Kamaka A. Solo",NA,265437,NA,70
-"Arizona",2019,"September","2019-09-09","ASPC TUCSON",52,"M","Luis A. Caballero",NA,89383,NA,70
-"Arizona",2019,"September","2019-09-06","ASPC TUCSON",52,"M","Anthony M. Heil",NA,252652,NA,70
-"Arizona",2019,"August","2019-08-31","ASPC KINGMAN",72,"M","Carlos N. Ozuna",NA,309517,NA,55
-"Arizona",2019,"August","2019-08-30","ASPC LEWIS",56,"M","Vincent Ersery",NA,56041,NA,56
-"Arizona",2019,"August","2019-08-30","ASPC LEWIS",62,"M","Dennis E. Gambardella",NA,85624,NA,56
-"Arizona",2019,"August","2019-08-28","ASPC EYMAN",46,"M","Daniel G. Rodriguez",NA,92410,NA,52
-"Arizona",2019,"August","2019-08-14","ASPC TUCSON",68,"M","Terry L. Warner",NA,256215,NA,70
-"Arizona",2019,"August","2019-08-11","OUT OF STATE",75,"M","Donald J. Spitz",NA,74461,NA,NA
-"Arizona",2019,"August","2019-08-10","ASPC YUMA",76,"M","Robert E. Gaines",NA,82914,NA,73
-"Arizona",2019,"August","2019-08-05","ASPC TUCSON",45,"M","Darrell W. Lewis",NA,110548,NA,70
-"Arizona",2019,"August","2019-08-04","ASPC TUCSON",76,"M","Jose D. Miranda",NA,69566,NA,70
-"Arizona",2019,"July","2019-07-30","ASPC LEWIS",38,"M","Aaron W. Pike",NA,273766,NA,56
-"Arizona",2019,"July","2019-07-28","ASPC TUCSON",74,"M","Arvine M. Hardwick",NA,104698,NA,70
-"Arizona",2019,"July","2019-07-27","ASPC TUCSON",60,"M","Phillip J. Cloud",NA,272655,NA,70
-"Arizona",2019,"July","2019-07-24","ASPC FLORENCE",66,"M","Timothy D. Kelly",NA,117044,NA,53
-"Arizona",2019,"July","2019-07-22","ASPC TUCSON",59,"M","David H. Neville",NA,313762,"Suicide-Hanging",70
-"Arizona",2019,"July","2019-07-21","ASPC FLORENCE",53,"M","Alan C. Wilson",NA,160624,NA,53
-"Arizona",2019,"July","2019-07-20","ASPC EYMAN",45,"M","James Rios",NA,143856,NA,52
-"Arizona",2019,"July","2019-07-19","ASPC FLORENCE",60,"M","Terry L. Garrison",NA,207531,NA,53
-"Arizona",2019,"July","2019-07-12","ASPC KINGMAN",59,"M","Michael D. Williams",NA,197959,NA,55
-"Arizona",2019,"July","2019-07-11","ASPC TUCSON",62,"M","Dan L. Frederick",NA,322870,NA,70
-"Arizona",2019,"July","2019-07-10","ASPC FLORENCE",45,"M","Daniel L. Cook",NA,320399,NA,53
-"Arizona",2019,"July","2019-07-10","ASPC YUMA",45,"M","Armando A. Dominguez",NA,267981,NA,73
-"Arizona",2019,"July","2019-07-07","ASPC TUCSON",79,"M","Rudy Helenick",NA,39768,NA,70
-"Arizona",2019,"July","2019-07-03","ASPC LEWIS",53,"M","Joseph A. Osti",NA,270423,NA,56
-"Arizona",2019,"July","2019-07-02","ASPC PERRYVILLE",25,"F","Sadie Johnson",NA,273402,"Suicide-Hanging",60
-"Arizona",2019,"July","2019-07-01","ASPC EYMAN",59,"M","Rocky G. Edwards",NA,120150,NA,52
-"Arizona",2019,"June","2019-06-29","ASPC LEWIS",45,"M","Augustine J. Escobar",NA,94197,NA,56
-"Arizona",2019,"June","2019-06-26","ASPC FLORENCE",51,"M","Pedro Rojas Jr",NA,103714,NA,53
-"Arizona",2019,"June","2019-06-16","ASPC FLORENCE",77,"M","Michael Voden",NA,303291,NA,53
-"Arizona",2019,"June","2019-06-16","ASPC FLORENCE",70,"M","Richard Amis",NA,34014,NA,53
-"Arizona",2019,"June","2019-06-15","ASPC FLORENCE",69,"M","Michael Brown",NA,117743,NA,53
-"Arizona",2019,"June","2019-06-15","ASPC TUCSON",53,"M","Richard Curley",NA,56332,"Homicide",70
-"Arizona",2019,"June","2019-06-14","ASPC EYMAN",61,"M","Richard King",NA,39036,NA,52
-"Arizona",2019,"June","2019-06-06","ASPC LEWIS",49,"M",NA,"Winters",152220,NA,56
-"Arizona",2019,"May","2019-05-17","ASPC FLORENCE",79,"M",NA,"Williams",170963,NA,53
-"Arizona",2019,"May","2019-05-17","ASPC TUCSON",32,"M",NA,"Vandeveer",312224,"Suicide",70
-"Arizona",2019,"May","2019-05-16","ASPC EYMAN",56,"M",NA,"Poirier",332320,"Suicide",52
-"Arizona",2019,"May","2019-05-12","ASPC TUCSON",37,"M",NA,"Branum",152817,NA,70
-"Arizona",2019,"May","2019-05-12","ASPC FLORENCE",70,"M",NA,"Hersum",279400,NA,53
-"Arizona",2019,"May","2019-05-07","CENTRAL ARIZONA CORRECTIONAL FACILITY",69,"M",NA,"Valenzuela",242104,NA,47
-"Arizona",2019,"May","2019-05-05","ASPC KINGMAN",26,"M",NA,"Corrales-Pesqueira",289539,NA,55
-"Arizona",2019,"May","2019-05-03","ASPC EYMAN",61,"M",NA,"Foley",72158,NA,52
-"Arizona",2019,"April","2019-04-28","ASPC TUCSON",53,"M",NA,"Kisto",76769,NA,70
-"Arizona",2019,"April","2019-04-26","ASPC YUMA",29,"M",NA,"Armadillo",221986,NA,73
-"Arizona",2019,"April","2019-04-25","ASPC LEWIS",42,"M",NA,"Vela",106150,NA,56
-"Arizona",2019,"April","2019-04-23","ASPC LEWIS",63,"M",NA,"Meacham",33556,NA,56
-"Arizona",2019,"April","2019-04-22","ASPC TUCSON",55,"M",NA,"Remy",85151,"Natural Causes",70
-"Arizona",2019,"April","2019-04-22","ASPC LEWIS",35,"M",NA,"Thran",257951,NA,56
-"Arizona",2019,"April","2019-04-22","ASPC TUCSON",52,"M",NA,"Wilson",104162,"Natural Causes",70
-"Arizona",2019,"April","2019-04-20","ASPC TUCSON",65,"M",NA,"Lucero Sr.",279621,"Natural Causes",70
-"Arizona",2019,"April","2019-04-19","ASPC TUCSON",83,"M",NA,"Vigil",273028,NA,70
-"Arizona",2019,"April","2019-04-15","ASPC TUCSON",65,"M",NA,"Davis",322004,NA,70
-"Arizona",2019,"April","2019-04-15","ASPC EYMAN",53,"M",NA,"Allen",251888,NA,52
-"Arizona",2019,"April","2019-04-05","ASPC TUCSON",33,"M",NA,"Gross",193367,NA,70
-"Arizona",2019,"March","2019-03-31","ASPC TUCSON",76,"M",NA,"Johnson",273187,"Natural Causes",70
-"Arizona",2019,"March","2019-03-25","ASPC KINGMAN",80,"M",NA,"Geiser",273187,NA,55
-"Arizona",2019,"March","2019-03-20","ASPC FLORENCE",57,"M",NA,"Pacheco",242010,NA,53
-"Arizona",2019,"March","2019-03-19","ASPC TUCSON",52,"M",NA,"Waite",64352,NA,70
-"Arizona",2019,"March","2019-03-13","ASPC FLORENCE",69,"M",NA,"Taff",33619,"Natural Causes",53
-"Arizona",2019,"March","2019-03-11","ASPC TUCSON",64,"M",NA,"Lemon",31831,NA,70
-"Arizona",2019,"March","2019-03-10","ASPC LEWIS",62,"M",NA,"Hollenback",79384,NA,56
-"Arizona",2019,"March","2019-03-10","ASPC FLORENCE",44,"M",NA,"Moore",99204,NA,53
-"Arizona",2019,"March","2019-03-10","ASPC EYMAN",24,"M",NA,"Pantastico",295169,"Suicide",52
-"Arizona",2019,"March","2019-03-09","ASPC LEWIS",27,"M",NA,"Bociung",266999,NA,56
-"Arizona",2019,"March","2019-03-09","ASPC RED ROCK",52,"M",NA,"Gonzales",75413,NA,65
-"Arizona",2019,"March","2019-03-06","ASPC LEWIS",33,"M",NA,"Howardwell",185716,NA,56
-"Arizona",2019,"March","2019-03-03","ASPC PHOENIX",40,"M",NA,"Abebaw Feleke",132272,"Suicide-Hanging",63
-"Arizona",2019,"March","2019-03-03","ASPC EYMAN",50,"M",NA,"Black",88178,NA,52
-"Arizona",2019,"March","2019-03-02","ASPC TUCSON",51,"M",NA,"McKnelly",158707,NA,70
-"Arizona",2019,"March","2019-03-01","ASPC LEWIS",63,"M",NA,"Jimenez",70263,"Natural Causes",56
-"Arizona",2019,"February","2019-02-23","CENTRAL ARIZONA CORRECTIONAL FACILITY",71,"M",NA,"Conway",266731,NA,47
-"Arizona",2019,"February","2019-02-22","US MARSHAL",31,"M",NA,"Montes-Beltran",323912,NA,NA
-"Arizona",2019,"February","2019-02-15","ASPC TUCSON",79,"M",NA,"Dawson",65408,NA,70
-"Arizona",2019,"February","2019-02-13","ASPC YUMA",34,"M",NA,"Ariens",290460,NA,73
-"Arizona",2018,"February","2019-02-08","ASPC TUSCON",72,"M","Alvie Rogers","Rogers",63360,"Natural Causes",70
-"Arizona",2019,"February","2019-02-06","ASPC FLORENCE",42,"M",NA,"Torres",158092,NA,53
-"Arizona",2019,"February","2019-02-04","ASPC FLORENCE",55,"M",NA,"Johnson",50856,"Natural Causes",53
-"Arizona",2019,"January","2019-01-31","ASPC FLORENCE",64,"M",NA,"Washington",39492,NA,53
-"Arizona",2019,"January","2019-01-28","ASPC FLORENCE",65,"M",NA,"Harrod",136270,NA,53
-"Arizona",2019,"January","2019-01-26","ASPC PERRYVILLE",51,"F",NA,"Langeneckert",278255,NA,60
-"Arizona",2019,"January","2019-01-21","ASPC FLORENCE",26,"M",NA,"Valenzuela",304312,NA,53
-"Arizona",2019,"January","2019-01-18","ASPC FLORENCE",74,"M",NA,"Shreve",309533,NA,53
-"Arizona",2019,"January","2019-01-16","ASPC LEWIS",33,"M",NA,"Hernandez",188890,NA,56
-"Arizona",2019,"January","2019-01-14","ASPC RED ROCK",59,"M",NA,"Herren",251533,NA,65
-"Arizona",2019,"January","2019-01-07","ASPC TUCSON",56,"M",NA,"Slovekosky",122147,NA,70
-"Arizona",2019,"January","2019-01-04","ASPC TUCSON",92,"M",NA,"Miller",35695,NA,70
-"Arizona",2018,"December","2018-12-31","ASPC TUCSON",41,"M",NA,"Ford",121707,NA,70
-"Arizona",2018,"December","2018-12-27","ASPC TUCSON",63,"M",NA,"Lerma",136848,NA,70
-"Arizona",2018,"December","2018-12-21","ASPC FLORENCE WEST",77,"M",NA,"Dearinger",157422,"Natural Causes",54
-"Arizona",2018,"December","2018-12-20","ASPC FLORENCE",52,"M",NA,"Richardson",198355,"Natural Causes",53
-"Arizona",2018,"December","2018-12-19","ASPC LEWIS",44,"M",NA,"Fraijo",240972,NA,56
-"Arizona",2018,"December","2018-12-12","ASPC TUCSON",43,"M",NA,"Watson",122363,NA,70
-"Arizona",2018,"December","2018-12-11","ASPC TUCSON",52,"M",NA,"Mayo",280516,NA,70
-"Arizona",2018,"December","2018-12-11","ASPC FLORENCE",72,"M",NA,"Thompson",296182,NA,53
-"Arizona",2018,"December","2018-12-09","ASPC FLORENCE",54,"M",NA,"Romero",52869,NA,53
-"Arizona",2018,"December","2018-12-06","ASPC TUCSON",53,"M",NA,"Lopez",330076,"Natural Causes",70
-"Arizona",2018,"November","2018-11-28","ASPC TUCSON",86,"M",NA,"Rimer",199579,NA,70
-"Arizona",2018,"November","2018-11-28","ASPC EYMAN",39,"M",NA,"Scherer",310401,NA,52
-"Arizona",2018,"November","2018-11-27","ASPC LEWIS",55,"M",NA,"Sowell",66847,NA,56
-"Arizona",2018,"November","2018-11-27","ASPC PERRYVILLE",67,"F",NA,"Woods",208394,"Natural Causes",60
-"Arizona",2018,"November","2018-11-20","ASPC LEWIS",30,"M",NA,"Cruz",208380,NA,56
-"Arizona",2018,"November","2018-11-20","ASPC FLORENCE",79,"M",NA,"Willoughby",94415,NA,53
-"Arizona",2018,"November","2018-11-19","ASPC EYMAN",26,"M",NA,"Salinas",266335,"Suicide-Hanging",52
-"Arizona",2018,"November","2018-11-16","ASPC TUCSON",65,"M",NA,"Dodson",300260,NA,70
-"Arizona",2018,"November","2018-11-14","ASPC FLORENCE",58,"M",NA,"Hills",39723,NA,53
-"Arizona",2018,"November","2018-11-13","ASPC TUCSON",63,"M",NA,"Boschian",40564,NA,70
-"Arizona",2018,"November","2018-11-10","ASPC TUCSON",56,"M",NA,"Barnes",47677,NA,70
-"Arizona",2018,"November","2018-11-06","ASPC LEWIS",38,"M",NA,"Lopshire",254757,NA,56
-"Arizona",2018,"November","2018-11-04","ASPC FLORENCE",76,"M",NA,"Jobe",62720,NA,53
-"Arizona",2018,"November","2018-11-03","ASPC LEWIS",39,"M",NA,"Nez",207542,NA,56
-"Arizona",2018,"November","2018-11-02","ASPC TUCSON",84,"M",NA,"Price",211005,NA,70
-"Arizona",2018,"October","2018-10-25","ASPC TUCSON",83,"M",NA,"Calhoun",204538,NA,70
-"Arizona",2018,"October","2018-10-20","ASPC TUCSON",38,"M",NA,"Godoy",277939,NA,70
-"Arizona",2018,"October","2018-10-15","ASPC FLORENCE",65,"M",NA,"Mattia",35571,NA,53
-"Arizona",2018,"October","2018-10-12","ASPC TUCSON",66,"M",NA,"Galyon",311549,NA,70
-"Arizona",2018,"October","2018-10-11","ASPC WINSLOW",50,"M",NA,"Herrera",77036,NA,72
-"Arizona",2018,"October","2018-10-09","ASPC FLORENCE",62,"M",NA,"Obser",39405,NA,53
-"Arizona",2018,"October","2018-10-08","ASPC TUCSON",58,"M",NA,"Sorenson",245055,NA,70
-"Arizona",2018,"September","2018-09-29","ASPC FLORENCE",55,"M",NA,"Sypherd",202786,NA,53
-"Arizona",2018,"September","2018-09-22","ASPC EYMAN",75,"M",NA,"Dixon",270775,NA,52
-"Arizona",2018,"September","2018-09-19","ASPC FLORENCE",56,"M",NA,"Hanna",58134,NA,53
-"Arizona",2018,"September","2018-09-11","ASPC FLORENCE",48,"M",NA,"Jeremy D. Garcia",225755,NA,53
-"Arizona",2018,"September","2018-09-10","ASPC TUCSON",42,"M",NA,"Rodgers",118626,NA,70
-"Arizona",2018,"September","2018-09-10","ASPC LEWIS",70,"M",NA,"Gallegos",268080,NA,56
-"Arizona",2018,"September","2018-09-06","ASPC TUCSON",56,"M",NA,"Singleterry",173212,NA,70
-"Arizona",2018,"September","2018-09-04","ASPC TUCSON",33,"M",NA,"Zebley",178977,NA,70
-"Arizona",2018,"September","2018-09-02","ASPC FLORENCE",23,"M",NA,"Damian A. Gonzalez",291876,NA,53
-"Arizona",2018,"September","2018-09-01","ASPC LEWIS",58,"M",NA,"McBride",122627,NA,56
-"Arizona",2018,"August","2018-08-29","ASPC LEWIS",61,"M",NA,"Beier",40815,NA,56
-"Arizona",2018,"August","2018-08-20","ASPC TUCSON",77,"M",NA,"Wilcox",303470,"Natural Causes",70
-"Arizona",2018,"August","2018-08-20","ASPC EYMAN",41,"M",NA,"Cody R. Williams",116387,"Suicide",52
-"Arizona",2018,"August","2018-08-15","ASPC FLORENCE",60,"M",NA,"Spencer",82989,NA,53
-"Arizona",2018,"August","2018-08-13","ASPC TUCSON",33,"M",NA,"Guillen",191492,NA,70
-"Arizona",2018,"August","2018-08-09","ASPC EYMAN",75,"M",NA,"Marvin D. Morris",309769,NA,52
-"Arizona",2018,"August","2018-08-06","ASPC WINSLOW",29,"M",NA,"Bradley V. Senesac",238350,NA,72
-"Arizona",2018,"August","2018-08-02","ASPC TUCSON",71,"M",NA,"Armad R. Vachon",161590,NA,70
-"Arizona",2018,"July","2018-07-31","ASPC FLORENCE",53,"M",NA,"Earl T. Pollard",70167,NA,53
-"Arizona",2018,"July","2018-07-17","ASPC FLORENCE",68,"M",NA,"Foret",142163,"Natural Causes",53
-"Arizona",2018,"July","2018-07-15","ASPC YUMA",53,"M",NA,"Hurtado",312361,NA,73
-"Arizona",2018,"July","2018-07-02","ASPC LEWIS",41,"M",NA,"Delgado",121143,NA,56
-"Arizona",2018,"June","2018-06-30","ASPC TUCSON",55,"M",NA,"Nelson",285090,NA,70
-"Arizona",2018,"June","2018-06-27","ASPC TUCSON",69,"M",NA,"Maraventano",315189,"Suicide-Hanging",70
-"Arizona",2018,"June","2018-06-24","ASPC TUCSON",83,"M",NA,"Earl R. Lee",70819,"Natural Causes",70
-"Arizona",2018,"June","2018-06-23","ASPC TUCSON",61,"M",NA,"Richmond",73742,"Natural Causes",70
-"Arizona",2018,"June","2018-06-23","ASPC TUCSON",60,"M",NA,"Casanova",43746,NA,70
-"Arizona",2018,"June","2018-06-22","ASPC LEWIS",43,"M",NA,"Tejada",184597,NA,56
-"Arizona",2018,"June","2018-06-16","ASPC LEWIS",66,"M",NA,"Nase",101254,NA,56
-"Arizona",2018,"June","2018-06-16","ASPC PERRYVILLE",30,"F",NA,"Everest",276797,NA,60
-"Arizona",2018,"June","2018-06-15","ASPC TUCSON",56,"M",NA,"Cromwell",276767,NA,70
-"Arizona",2018,"June","2018-06-13","OUT OF STATE",70,"M",NA,"Langston",49038,NA,NA
-"Arizona",2018,"June","2018-06-13","ASPC LEWIS",36,"M",NA,"McCormick",228881,NA,56
-"Arizona",2018,"June","2018-06-12","CENTRAL ARIZONA CORRECTIONAL FACILITY",73,"M",NA,"Stull",119333,NA,47
-"Arizona",2018,"June","2018-06-12","ASPC TUCSON",60,"M",NA,"Gray",38655,NA,70
-"Arizona",2018,"June","2018-06-09","ASPC FLORENCE",64,"M",NA,"Agnew",71461,NA,53
-"Arizona",2018,"June","2018-06-07","ASPC TUSCON",32,"M","Victor A. Martinez","Martinez",280392,"Homicide",70
-"Arizona",2018,"June","2018-06-02","ASPC LEWIS",55,"M",NA,"Hernandez",55050,NA,56
-"Arizona",2018,"May","2018-05-30","ASPC TUCSON",34,"M",NA,"Valero",147445,NA,70
-"Arizona",2018,"May","2018-05-29","ASPC TUCSON",61,"M",NA,"Hackman",136624,NA,70
-"Arizona",2018,"May","2018-05-29","ASPC FLORENCE",53,"M",NA,"Apodaca",73659,"Natural Causes",53
-"Arizona",2018,"May","2018-05-22","ASPC LEWIS",66,"M",NA,"Martinez",42813,NA,56
-"Arizona",2018,"May","2018-05-21","ASPC FLORENCE",68,"M",NA,"Bray",103590,NA,53
-"Arizona",2018,"May","2018-05-20","ASPC YUMA",56,"M",NA,"Johannes",82267,NA,73
-"Arizona",2018,"May","2018-05-14","ASPC TUCSON",65,"M",NA,"Curry",40574,NA,70
-"Arizona",2018,"May","2018-05-14","ASPC FLORENCE",57,"M",NA,"Muncy",230570,NA,53
-"Arizona",2018,"May","2018-05-05","ASPC FLORENCE",79,"M",NA,"Ortiz-Guerrero",217871,"Natural Causes",53
-"Arizona",2018,"May","2018-05-01","ASPC EYMAN",34,"M",NA,"Peshlakai",211855,NA,52
-"Arizona",2018,"April","2018-04-27","ASPC LEWIS",43,"M",NA,"Stewart",281867,NA,56
-"Arizona",2018,"April","2018-04-25","ASPC TUCSON",53,"M",NA,"Olson",54583,NA,70
-"Arizona",2018,"April","2018-04-20","ASPC FLORENCE",62,"M",NA,"Strine",46935,NA,53
-"Arizona",2018,"April","2018-04-16","ASPC TUCSON",56,"M",NA,"Saenz",78399,NA,70
-"Arizona",2018,"April","2018-04-08","ASPC FLORENCE",58,"M",NA,"Kemp",307141,NA,53
-"Arizona",2018,"April","2018-04-07","ASPC FLORENCE",76,"M",NA,"O'Neal",113031,"Natural Causes",53
-"Arizona",2018,"April","2018-04-05","ASPC LEWIS",34,"M","Mark L. Johnson","Johnson",124185,"Homicide",56
-"Arizona",2018,"April","2018-04-05","ASPC FLORENCE",71,"M",NA,"Romero",310582,NA,53
-"Arizona",2018,"April","2018-04-03","ASPC TUCSON",44,"M",NA,"Byrd",149563,NA,70
-"Arizona",2018,"April","2018-04-02","ASPC EYMAN",67,"M","Joel K. Barr","Barr",180015,"Homicide",52
-"Arizona",2018,"March","2018-03-31","ASPC TUCSON",64,"M",NA,"Diaz",233369,NA,70
-"Arizona",2018,"March","2018-03-30","ASPC TUCSON",58,"M",NA,"Sweet",124176,"Natural Causes",70
-"Arizona",2018,"March","2018-03-29","CENTRAL ARIZONA CORRECTIONAL FACILITY",51,"M",NA,"Campillo",154922,NA,47
-"Arizona",2018,"March","2018-03-21","ASPC YUMA",44,"M",NA,"Munguia",90192,NA,73
-"Arizona",2018,"March","2018-03-20","ASPC LEWIS",34,"M","Charlie M. Wooden","Wooden",195239,"Homicide",56
-"Arizona",2018,"March","2018-03-20","ASPC EYMAN",34,"M",NA,"Cruz",197177,NA,52
-"Arizona",2018,"March","2018-03-15","ASPC YUMA",24,"M",NA,"Crooks",321691,"Suicide-Hanging",73
-"Arizona",2018,"March","2018-03-10","ASPC FLORENCE",77,"M",NA,"Womack",27395,NA,53
-"Arizona",2018,"March","2018-03-08","ASPC FLORENCE",31,"M",NA,"Zermeno",232755,NA,53
-"Arizona",2018,"March","2018-03-07","ASPC TUCSON",76,"M",NA,"Lee",204744,NA,70
-"Arizona",2018,"March","2018-03-02","ASPC TUCSON",47,"M",NA,"Brooks",65689,NA,70
-"Arizona",2018,"March","2018-03-01","ASPC YUMA",32,"M",NA,"Coppa",180398,NA,73
-"Arizona",2018,"March","2018-03-01","ASPC FLORENCE",55,"M",NA,"Dann",45828,NA,53
-"Arizona",2018,"March","2018-03-01","ASPC LEWIS",26,"M",NA,"Curley",273707,NA,56
-"Arizona",2018,"February","2018-02-28","ASPC EYMAN",49,"M",NA,"Mohr",149480,NA,52
-"Arizona",2018,"February","2018-02-27","ASPC TUCSON",68,"M",NA,"Alexander",155641,NA,70
-"Arizona",2018,"February","2018-02-24","ASPC TUCSON",37,"M",NA,"Ruiz",324913,NA,70
-"Arizona",2018,"February","2018-02-23","ASPC PERRYVILLE",51,"F",NA,"Greer",155667,NA,60
-"Arizona",2018,"February","2018-02-20","ASPC EYMAN",31,"M","Michael R. Arvizo","Arvizo",159261,"Homicide",52
-"Arizona",2018,"February","2018-02-18","ASPC LEWIS",57,"M",NA,"McMahan",107331,NA,56
-"Arizona",2018,"February","2018-02-17","ASPC FLORENCE",37,"M",NA,"Johnson",244510,NA,53
-"Arizona",2018,"February","2018-02-15","ASPC FLORENCE",53,"M",NA,"Garza",46489,NA,53
-"Arizona",2018,"February","2018-02-15","ASPC PERRYVILLE",54,"F",NA,"White",297795,NA,60
-"Arizona",2018,"February","2018-02-14","ASPC TUCSON",53,"M",NA,"Howard",251195,NA,70
-"Arizona",2018,"February","2018-02-14","ASPC TUCSON",61,"M",NA,"Shaw",172018,NA,70
-"Arizona",2018,"February","2018-02-13","ASPC EYMAN",74,"M",NA,"Meyerson",182373,NA,52
-"Arizona",2018,"February","2018-02-12","ASPC EYMAN",48,"M",NA,"Carrillo",172834,"Suicide-Hanging",52
-"Arizona",2018,"February","2018-02-10","ASPC FLORENCE",82,"M",NA,"Stoeckel",261727,"Natural Causes",53
-"Arizona",2018,"February","2018-02-09","ASPC FLORENCE",71,"M",NA,"Henry",67112,"Natural Causes",53
-"Arizona",2018,"February","2018-02-08","ASPC PHOENIX WEST",NA,"M",NA,"Skyler B. Martin",317952,"Killed by LE while Fugitive",63
-"Arizona",2018,"February","2018-02-05","ASPC EYMAN",69,"M",NA,"Smith",45044,"Natural Causes",52
-"Arizona",2018,"February","2018-02-03","ASPC TUCSON",43,"M",NA,"Ramos-Perez",297182,"Natural Causes",70
-"Arizona",2018,"February","2018-02-03","ASPC EYMAN",30,"M",NA,"Bendel",256007,NA,52
-"Arizona",2018,"February","2018-02-02","ASPC FLORENCE",67,"M",NA,"Crawford",97330,"Natural Causes",53
-"Arizona",2018,"January","2018-01-28","ASPC EYMAN",38,"M",NA,"Sampson",209612,NA,52
-"Arizona",2018,"January","2018-01-28","ASPC FLORENCE",54,"M",NA,"Baskin",125835,"Natural Causes",53
-"Arizona",2018,"January","2018-01-27","ASPC YUMA",69,"M",NA,"Montez",29453,NA,73
-"Arizona",2018,"January","2018-01-23","ASPC YUMA",57,"M",NA,"Pisio",75401,NA,73
-"Arizona",2018,"January","2018-01-02","ASPC FLORENCE",62,"M",NA,"Gene",263610,NA,53
-"Arizona",2017,"December","2017-12-31","ASPC YUMA",53,"M",NA,"Diaz",179545,NA,73
-"Arizona",2017,"December","2017-12-29","ASPC LEWIS",72,"M",NA,"Sherwood",100211,NA,56
-"Arizona",2017,"December","2017-12-20","ASPC LEWIS",33,"M",NA,"Palmer",196521,NA,56
-"Arizona",2017,"December","2017-12-20","ASPC TUCSON",77,"M",NA,"Corona",38397,"Natural Causes",70
-"Arizona",2017,"December","2017-12-20","ASPC FLORENCE",51,"M",NA,"Coronado-Nunez",110942,NA,53
-"Arizona",2017,"December","2017-12-19","ASPC TUCSON",58,"M",NA,"Wilson",306287,"Natural Causes",70
-"Arizona",2017,"December","2017-12-12","ASPC TUCSON",52,"M",NA,"Mata",68762,"Natural Causes",70
-"Arizona",2017,"December","2017-12-08","ASPC FLORENCE",59,"M",NA,"Johnson",48240,"Natural Causes",53
-"Arizona",2017,"December","2017-12-05","ASPC LEWIS",53,"M",NA,"Spradlin",88189,NA,56
-"Arizona",2017,"December","2017-12-03","ASPC TUCSON",65,"M",NA,"Carroll",309918,NA,70
-"Arizona",2017,"November","2017-11-30","ASPC TUCSON",63,"M",NA,"Davidson",244800,"Natural Causes",70
-"Arizona",2017,"November","2017-11-30","ASPC FLORENCE",71,"M",NA,"Dennis",34869,"Natural Causes",53
-"Arizona",2017,"November","2017-11-27","ASPC LEWIS",57,"M",NA,"Sanchez",41755,NA,56
-"Arizona",2017,"November","2017-11-23","ASPC LEWIS",25,"M",NA,"Olivas",275499,NA,56
-"Arizona",2017,"November","2017-11-21","ASPC PERRYVILLE",57,"F","Lauren J McCray","McCray",223302,"Natural Causes",60
-"Arizona",2017,"November","2017-11-21","ASPC LEWIS",33,"M",NA,"Remine",168246,NA,56
-"Arizona",2017,"November","2017-11-17","ASPC TUCSON",82,"M",NA,"Rodriguez",173002,NA,70
-"Arizona",2017,"November","2017-11-15","ASPC TUCSON",68,"M",NA,"Allan",267802,NA,70
-"Arizona",2017,"November","2017-11-15","ASPC FLORENCE",30,"M",NA,"Canadas",275266,"Natural Causes",53
-"Arizona",2017,"November","2017-11-12","ASPC FLORENCE",31,"M",NA,"Munoz",221916,"Natural Causes",53
-"Arizona",2017,"November","2017-11-07","ASPC LEWIS",51,"M",NA,"Miranda",46180,NA,56
-"Arizona",2017,"November","2017-11-07","ASPC FLORENCE",67,"M",NA,"Zamarripa",296209,"Natural Causes",53
-"Arizona",2017,"November","2017-11-04","ASPC FLORENCE",55,"M",NA,"Lynch",206125,"Natural Causes",53
-"Arizona",2017,"November","2017-11-02","ASPC FLORENCE",47,"M",NA,"Owings",98897,NA,53
-"Arizona",2017,"October","2017-10-27","ASPC TUCSON",64,"M",NA,"Cook",291199,NA,70
-"Arizona",2017,"October","2017-10-25","ASPC PERRYVILLE",55,"F",NA,"Jones",116957,NA,60
-"Arizona",2017,"October","2017-10-23","ASPC PHOENIX",29,"M",NA,"Aguilar",219831,NA,63
-"Arizona",2017,"October","2017-10-23","ASPC FLORENCE",84,"M",NA,"Reina",220170,NA,53
-"Arizona",2017,"October","2017-10-21","ASPC LEWIS",53,"M",NA,"Garza",83109,"Natural Causes",56
-"Arizona",2017,"October","2017-10-17","ASPC FLORENCE",52,"M",NA,"Villegas",101837,"Natural Causes",53
-"Arizona",2017,"October","2017-10-13","ASPC EYMAN",76,"M",NA,"Varvel",234305,NA,52
-"Arizona",2017,"October","2017-10-13","ASPC TUCSON",71,"M",NA,"Shreve",261811,"Natural Causes",70
-"Arizona",2017,"October","2017-10-11","ASPC EYMAN",69,"M",NA,"Andrade",303776,NA,52
-"Arizona",2017,"October","2017-10-10","ASPC PERRYVILLE",47,"F",NA,"Pacheco",300803,"Natural Causes",60
-"Arizona",2017,"October","2017-10-10","ASPC TUCSON",62,"M",NA,"Bray",135737,"Natural Causes",70
-"Arizona",2017,"October","2017-10-10","ASPC LEWIS",59,"M",NA,"Hudson",127743,"Natural Causes",56
-"Arizona",2017,"October","2017-10-06","ASPC KINGMAN",80,"M",NA,"Quintero",167939,"Natural Causes",55
-"Arizona",2017,"September","2017-09-29","ASPC LEWIS",33,"M",NA,"Diaz",212585,NA,56
-"Arizona",2017,"September","2017-09-26","OUT TO COURT",48,"M",NA,"Adams",129959,NA,NA
-"Arizona",2017,"September","2017-09-23","ASPC FLORENCE",75,"M",NA,"Harley",164924,"Natural Causes",53
-"Arizona",2017,"September","2017-09-20","CENTRAL ARIZONA CORRECTIONAL FACILITY",67,"M",NA,"Hueston",131626,NA,47
-"Arizona",2017,"September","2017-09-16","ASPC TUCSON",61,"M",NA,"Green",295448,"Natural Causes",70
-"Arizona",2017,"September","2017-09-16","ASPC EYMAN",63,"M",NA,"Garcia",45374,NA,52
-"Arizona",2017,"September","2017-09-15","ASPC TUCSON",42,"M",NA,"Delgado",199470,"Natural Causes",70
-"Arizona",2017,"September","2017-09-14","ASPC TUSCON",93,"M",NA,"Murray",279150,"Natural Causes",70
-"Arizona",2017,"September","2017-09-12","ASPC LEWIS",53,"M",NA,"Sanchez",48267,NA,56
-"Arizona",2017,"September","2017-09-12","ASPC TUCSON",26,"M",NA,"Acosta",283304,NA,70
-"Arizona",2017,"September","2017-09-09","CENTRAL ARIZONA CORRECTIONAL FACILITY",72,"M",NA,"Gass",159737,"Natural Causes",47
-"Arizona",2017,"September","2017-09-08","ASPC FLORENCE",55,"M",NA,"Carreon",45169,"Natural Causes",53
-"Arizona",2017,"September","2017-09-07","ASPC FLORENCE",67,"M",NA,"Jordan",78789,"Natural Causes",53
-"Arizona",2017,"September","2017-09-05","ASPC TUCSON",46,"M","Joseph S. Zawacki","Zawacki",81262,"Homicide",70
-"Arizona",2017,"September","2017-09-02","ASPC FLORENCE",72,"M",NA,"Lopez",37963,"Natural Causes",53
-"Arizona",2017,"September","2017-09-01","ASPC TUCSON",70,"M",NA,"Dakota",36739,"Natural Causes",70
-"Arizona",2017,"August","2017-08-24","ASPC TUCSON",61,"M",NA,"Ogden",51927,"Natural Causes",70
-"Arizona",2017,"August","2017-08-22","ASPC EYMAN",29,"M",NA,"Salter",284794,NA,52
-"Arizona",2017,"August","2017-08-21","ASPC LEWIS",64,"M",NA,"Neese",30526,NA,56
-"Arizona",2017,"August","2017-08-10","ASPC FLORENCE",48,"M",NA,"Groves",142527,"Natural Causes",53
-"Arizona",2017,"August","2017-08-07","ASPC EYMAN",31,"M",NA,"Wilson",207769,"Suicide",52
-"Arizona",2017,"July","2017-07-22","ASPC EYMAN",46,"M",NA,"Powell",280740,"Natural Causes",52
-"Arizona",2017,"July","2017-07-18","ASPC TUCSON",30,"M",NA,"Guzman",211254,NA,70
-"Arizona",2017,"July","2017-07-13","ASPC FLORENCE",70,"M",NA,"Liska",43119,"Natural Causes",53
-"Arizona",2017,"July","2017-07-03","ASPC FLORENCE",43,"M",NA,"Cortez",154121,NA,53
-"Arizona",2017,"June","2017-06-30","ASPC FLORENCE",48,"M",NA,"Ramirez",169675,"Natural Causes",53
-"Arizona",2017,"June","2017-06-29","ASPC PERRYVILLE",62,"F",NA,"Arnold",88288,"Natural Causes",60
-"Arizona",2017,"June","2017-06-26","ASPC LEWIS",60,"M",NA,"Torres",36483,"Natural Causes",56
-"Arizona",2017,"June","2017-06-20","ASPC KINGMAN",49,"M",NA,"Washburn",78077,NA,55
-"Arizona",2017,"June","2017-06-20","ASPC LEWIS",37,"M",NA,"Jensen",242484,NA,56
-"Arizona",2017,"June","2017-06-19","ASPC FLORENCE",55,"M",NA,"Becker",182703,NA,53
-"Arizona",2017,"June","2017-06-16","RED ROCK CORRECTIONAL CENTER",49,"M",NA,"Slaughter",219254,NA,65
-"Arizona",2017,"June","2017-06-13","ASPC FLORENCE",77,"M",NA,"Ramsdell",231248,"Natural Causes",53
-"Arizona",2017,"June","2017-06-09","ASPC LEWIS",40,"M",NA,"Thompson",138470,NA,56
-"Arizona",2017,"June","2017-06-09","ASPC FLORENCE",68,"M",NA,"Barrett",237865,"Natural Causes",53
-"Arizona",2017,"June","2017-06-09","ASPC PHOENIX",45,"M",NA,"Anzures",93564,NA,63
-"Arizona",2017,"June","2017-06-09","ASPC TUCSON",73,"M",NA,"Moore",32480,"Natural Causes",70
-"Arizona",2017,"June","2017-06-06","ASPC EYMAN",79,"M",NA,"Swartz",199514,"Natural Causes",52
-"Arizona",2017,"June","2017-06-06","ASPC TUCSON",44,"M",NA,"Rummel",281874,NA,70
-"Arizona",2017,"June","2017-06-05","ASPC EYMAN",75,"M",NA,"Marshall",112229,NA,52
-"Arizona",2017,"June","2017-06-05","ASPC YUMA",44,"M",NA,"Butler",92465,NA,73
-"Arizona",2017,"June","2017-06-02","ASPC FLORENCE",75,"M",NA,"Aviles",178543,"Natural Causes",53
-"Arizona",2017,"May","2017-05-28","ASPC TUCSON",46,"M",NA,"Carrasco",79851,"Natural Causes",70
-"Arizona",2017,"May","2017-05-23","ASPC PERRYVILLE",51,"F",NA,"French",293885,"Natural Causes",60
-"Arizona",2017,"May","2017-05-22","ASPC TUCSON",62,"M",NA,"Chapa",78534,"Natural Causes",70
-"Arizona",2017,"May","2017-05-20","ASPC TUCSON",69,"M",NA,"Mooney",205252,NA,70
-"Arizona",2017,"May","2017-05-17","ASPC TUCSON",61,"M",NA,"Udlinek",215097,"Natural Causes",70
-"Arizona",2017,"May","2017-05-14","ASPC LEWIS",50,"M",NA,"Scadden",61446,"Natural Causes",56
-"Arizona",2017,"May","2017-05-13","ASPC KINGMAN",61,"M",NA,"Mills",284401,"Suicide",55
-"Arizona",2017,"May","2017-05-10","ASPC PHOENIX",38,"M",NA,"Hernandez",166739,NA,63
-"Arizona",2017,"May","2017-05-08","ASPC EYMAN",60,"M",NA,"Gonzalez",235043,"Suicide",52
-"Arizona",2017,"May","2017-05-05","ASPC TUCSON",66,"M",NA,"Albritton",149835,"Natural Causes",70
-"Arizona",2017,"May","2017-05-04","ASPC TUCSON",42,"M",NA,"Krauss",95781,"Suicide",70
-"Arizona",2017,"May","2017-05-03","ASPC SAFFORD",36,"M",NA,"Blackwell",281853,NA,67
-"Arizona",2017,"April","2017-04-26","ASPC YUMA",45,"M",NA,"Covington",77108,NA,73
-"Arizona",2017,"April","2017-04-26","ASPC EYMAN",67,"M",NA,"Gilpin",245202,"Natural Causes",52
-"Arizona",2017,"April","2017-04-25","ASPC TUCSON",70,"M",NA,"Martinez",118245,NA,70
-"Arizona",2017,"April","2017-04-23","ASPC LEWIS",27,"M",NA,"Arvizo",241872,"Suicide",56
-"Arizona",2017,"April","2017-04-23","ASPC FLORENCE",51,"M",NA,"Menendez",111590,"Natural Causes",53
-"Arizona",2017,"April","2017-04-20","ASPC TUSCON",69,"M",NA,"Phillips",222421,NA,70
-"Arizona",2017,"April","2017-04-20","ASPC WINSLOW",63,"M",NA,"Piechowski",39024,NA,72
-"Arizona",2017,"April","2017-04-19","ASPC TUCSON",53,"M",NA,"Guerra",79155,"Natural Causes",70
-"Arizona",2017,"April","2017-04-17","ASPC LEWIS",39,"M",NA,"Camacho",167996,NA,56
-"Arizona",2017,"April","2017-04-16","ASPC FLORENCE",71,"M",NA,"Brink",218029,"Natural Causes",53
-"Arizona",2017,"April","2017-04-16","ASPC TUCSON",44,"M",NA,"Floyd",293299,NA,70
-"Arizona",2017,"April","2017-04-14","ASPC FLORENCE",73,"M",NA,"Smithson",180357,"Natural Causes",53
-"Arizona",2017,"April","2017-04-11","ASPC LEWIS",44,"M",NA,"Madrid",145605,NA,56
-"Arizona",2017,"April","2017-04-08","ASPC TUCSON",64,"M",NA,"Rivera",207437,"Natural Causes",70
-"Arizona",2017,"April","2017-04-03","ASPC FLORENCE",80,"M",NA,"Geib",247516,"Natural Causes",53
-"Arizona",2017,"April","2017-04-03","ASPC TUCSON",69,"M",NA,"Clark",33203,"Natural Causes",70
-"Arizona",2017,"March","2017-03-25","ASPC FLORENCE",69,"M",NA,"Richmond",33415,"Natural Causes",53
-"Arizona",2017,"March","2017-03-23","ASPC EYMAN",71,"M",NA,"Goff",202998,"Natural Causes",52
-"Arizona",2017,"March","2017-03-23","ASPC FLORENCE",77,"M",NA,"Miller",255613,"Natural Causes",53
-"Arizona",2017,"March","2017-03-22","ASPC YUMA",53,"M",NA,"Reyes",61719,NA,73
-"Arizona",2017,"March","2017-03-15","ASPC FLORENCE",44,"M",NA,"Navarro",83895,NA,53
-"Arizona",2017,"March","2017-03-13","ASPC LEWIS",71,"M",NA,"Dailey",64139,NA,56
-"Arizona",2017,"March","2017-03-13","ASPC TUCSON",72,"M",NA,"Quinnert",304235,"Natural Causes",70
-"Arizona",2017,"March","2017-03-09","ASPC TUCSON",31,"M",NA,"Torres",194565,NA,70
-"Arizona",2017,"March","2017-03-07","OUT OF STATE",52,"M",NA,"McCluskey",74469,"Natural Causes",NA
-"Arizona",2017,"March","2017-03-07","ASPC YUMA",53,"M",NA,"Palacio",58972,NA,73
-"Arizona",2017,"March","2017-03-06","ASPC LEWIS",70,"M",NA,"Hunter",44273,"Natural Causes",56
-"Arizona",2017,"March","2017-03-05","ASPC TUCSON",53,"M",NA,"Bosquez",106794,"Natural Causes",70
-"Arizona",2017,"March","2017-03-04","ASPC FLORENCE",58,"M",NA,"Shadoan",246516,"Natural Causes",53
-"Arizona",2017,"March","2017-03-03","ASPC PHOENIX",56,"M",NA,"Moore",121121,NA,63
-"Arizona",2017,"February","2017-02-24","ASPC TUCSON",57,"M",NA,"Kosterow",226146,"Natural Causes",70
-"Arizona",2017,"February","2017-02-19","ASPC FLORENCE",55,"M",NA,"Andersh",213419,"Natural Causes",53
-"Arizona",2017,"February","2017-02-15","ASPC TUCSON",73,"M",NA,"Vaughn",65728,"Natural Causes",70
-"Arizona",2017,"February","2017-02-15","ASPC EYMAN",31,"M",NA,"Ortega",NA,NA,52
-"Arizona",2017,"February","2017-02-14","ASPC WINSLOW",32,"M",NA,"Butler",226649,NA,72
-"Arizona",2017,"February","2017-02-09","ASPC FLORENCE",28,"M",NA,"Beda",262160,NA,53
-"Arizona",2017,"February","2017-02-09","ASPC EYMAN",48,"M",NA,"Gallagher",235301,NA,52
-"Arizona",2017,"January","2017-01-25","ASPC LEWIS",43,"M",NA,"Dobson",176446,NA,56
-"Arizona",2017,"January","2017-01-17","ASPC LEWIS",31,"M",NA,"Wozny",194460,NA,56
-"Arizona",2017,"January","2017-01-16","ASPC TUCSON",43,"M",NA,"Celeste",303727,NA,70
-"Arizona",2017,"January","2017-01-12","CENTRAL ARIZONA CORRECTIONAL FACILITY",69,"M",NA,"Hernandez",307291,NA,47
+State,Year,Month,Death.Date,Facility,Death.Age,Sex,Full.Name,Last.Name,ID.No,Circumstance.General,UCLA.ID
+Arizona,2020,December,2020-12-31,ASPC YUMA,72,M,Jose Mendez-Lovio,NA,337807,NA,73
+Arizona,2020,December,2020-12-30,ASPC PHOENIX WEST,60,M,Raymond Charles,NA,131392,NA,63
+Arizona,2020,December,2020-12-30,ASPC EYMAN,47,M,Keith Lewis,NA,87820,NA,52
+Arizona,2020,December,2020-12-26,ASPC EYMAN,72,M,Lawrence Cardwell,NA,164175,NA,52
+Arizona,2020,December,2020-12-24,ASPC EYMAN,72,M,Thomas Michaels,NA,81119,NA,52
+Arizona,2020,December,2020-12-23,ASPC FLORENCE,51,M,Grady Jones,NA,66682,NA,53
+Arizona,2020,December,2020-12-23,ASPC FLORENCE,67,M,Jose Torres,NA,289267,NA,53
+Arizona,2020,December,2020-12-21,ASPC YUMA,67,M,Johnny Black,NA,191874,NA,73
+Arizona,2020,December,2020-12-19,ASPC TUCSON,63,M,Louis Elvira,NA,310577,NA,70
+Arizona,2020,December,2020-12-17,ASPC TUCSON,64,M,Gregory A. Cordell,NA,283540,NA,70
+Arizona,2020,December,2020-12-12,ASPC FLORENCE,55,M,Martin G. Canez,NA,57400,NA,53
+Arizona,2020,December,2020-12-11,ASPC TUCSON,55,M,Gabriel A. Figueroa,NA,258371,NA,70
+Arizona,2020,December,2020-12-07,ASPC YUMA,62,M,Ylario L. Raizola,NA,231912,NA,73
+Arizona,2020,December,2020-12-02,ASPC TUCSON,64,M,Michael R. Degroat,NA,52417,NA,70
+Arizona,2020,November,2020-11-27,ASPC FLORENCE,64,M,Michael J. McGrath,NA,33961,NA,53
+Arizona,2020,November,2020-11-24,ASPC FLORENCE,55,M,Peter J. Caddeo,NA,332940,NA,53
+Arizona,2020,November,2020-11-19,ASPC FLORENCE,66,M,Virgil R. Fosjord,NA,313627,NA,53
+Arizona,2020,November,2020-11-16,CENTRAL ARIZONA CORRECTIONAL FACILITY,66,M,Robert E. White,NA,38991,NA,47
+Arizona,2020,November,2020-11-15,ASPC TUCSON,68,M,Patrick L. Foose,NA,33655,NA,70
+Arizona,2020,November,2020-11-12,ASPC EYMAN,73,M,James Stites,NA,176078,NA,52
+Arizona,2020,November,2020-11-11,ASPC FLORENCE,80,M,James L. Morris,NA,340017,NA,53
+Arizona,2020,November,2020-11-06,ASPC FLORENCE,22,M,Wally Boro,NA,328287,NA,53
+Arizona,2020,October,2020-10-31,ASPC TUCSON,86,M,Ray Lujan,NA,282754,NA,70
+Arizona,2020,October,2020-10-30,ASPC LEWIS,81,M,Leon W. Scheall,NA,139903,NA,56
+Arizona,2020,October,2020-10-28,ASPC FLORENCE,73,M,Larry Crews,NA,324461,NA,53
+Arizona,2020,October,2020-10-19,ASPC FLORENCE,64,M,Gregory T. Williams,NA,339201,NA,53
+Arizona,2020,October,2020-10-12,ASPC TUCSON,47,M,Christopher M. Pace,NA,119360,NA,70
+Arizona,2020,October,2020-10-10,ASPC LEWIS,48,M,Gary Ware,NA,207216,NA,56
+Arizona,2020,October,2020-10-05,ASPC FLORENCE,33,M,Juan M. Ortega,NA,203057,NA,53
+Arizona,2020,October,2020-10-02,ASPC PERRYVILLE,52,F,Tamera G. Brown,NA,183905,NA,60
+Arizona,2020,October,2020-10-02,ASPC EYMAN,73,M,Michael A. Matthews,NA,25788,NA,52
+Arizona,2020,September,2020-09-25,CENTRAL ARIZONA CORRECTIONAL FACILITY,59,M,Gilberto C. Paredes,NA,79466,NA,47
+Arizona,2020,September,2020-09-23,ASPC EYMAN,76,M,Geronimo Villalobos,NA,94151,NA,52
+Arizona,2020,September,2020-09-22,ASPC PERRYVILLE,47,F,Tracie G. Otero,NA,151002,Suicide-Hanging,60
+Arizona,2020,September,2020-09-19,ASPC FLORENCE,59,M,Edward H. Gum,NA,45380,NA,53
+Arizona,2020,September,2020-09-17,ASPC FLORENCE,73,M,Robert L. Carnochan,NA,322451,NA,53
+Arizona,2020,September,2020-09-13,ASPC TUCSON,25,M,Eric C. Haag,NA,286490,Suicide-Hanging,70
+Arizona,2020,September,2020-09-11,ASPC PERRYVILLE,57,F,Janice L. Braren,NA,53799,NA,60
+Arizona,2020,August,2020-08-29,ASPC LEWIS,31,M,Travis R. Horner,NA,275629,NA,56
+Arizona,2020,August,2020-08-26,ASPC LEWIS,70,M,Larry Hull,NA,173878,NA,56
+Arizona,2020,August,2020-08-26,ASPC EYMAN,29,M,Rueben R. Neal,NA,265762,Suicide-Hanging,52
+Arizona,2020,August,2020-08-25,ASPC FLORENCE,70,M,Walter P. Lowe,NA,200141,NA,53
+Arizona,2020,August,2020-08-23,ASPC FLORENCE,82,M,Paul Garza,NA,283632,NA,53
+Arizona,2020,August,2020-08-17,ASPC EYMAN,77,M,Philip Schumacher,NA,343893,NA,52
+Arizona,2020,August,2020-08-16,ASPC TUCSON,61,M,Augustine H. Reyes,NA,236135,NA,70
+Arizona,2020,August,2020-08-15,ASPC FLORENCE,72,M,David B. McCord,NA,90993,NA,53
+Arizona,2020,August,2020-08-14,ASPC KINGMAN,47,M,Kevin Izad,NA,118205,NA,55
+Arizona,2020,August,2020-08-13,ASPC YUMA,60,M,Miguel A. Bencomo,NA,270089,NA,73
+Arizona,2020,August,2020-08-10,CENTRAL ARIZONA CORRECTIONAL FACILITY,74,M,Jerald M. Brown,NA,282638,NA,47
+Arizona,2020,August,2020-08-06,ASPC TUCSON,38,M,Manuel A. Sanchez-Garcia,NA,326505,NA,70
+Arizona,2020,August,2020-08-06,ASPC FLORENCE,65,M,Robert C. Cronan,NA,204577,NA,53
+Arizona,2020,August,2020-08-06,ASPC FLORENCE,78,M,Marvin D. Tabron,NA,60527,NA,53
+Arizona,2020,August,2020-08-06,ASPC LEWIS,43,M,Mark A. Garcia,NA,113903,NA,56
+Arizona,2020,August,2020-08-05,ASPC WINSLOW,23,M,Patrick S. Pruitt,NA,308796,Suicide-Hanging,72
+Arizona,2020,August,2020-08-04,ASPC TUCSON,46,M,Sean D. Adie,NA,286463,NA,70
+Arizona,2020,August,2020-08-02,CENTRAL ARIZONA CORRECTIONAL FACILITY,67,M,Maxamillano S. Paredes,NA,39812,NA,47
+Arizona,2020,August,2020-08-01,ASPC EYMAN,69,M,William D. Beltran,NA,319997,NA,52
+Arizona,2020,July,2020-07-30,CENTRAL ARIZONA CORRECTIONAL FACILITY,66,M,Kenneth K. Oberheide,NA,201024,NA,47
+Arizona,2020,July,2020-07-29,ASPC TUCSON,87,M,Rodney G. Schaffer,NA,93359,NA,70
+Arizona,2020,July,2020-07-27,ASPC FLORENCE,67,M,Everett R. Hurst,NA,30105,NA,53
+Arizona,2020,July,2020-07-26,ASPC TUCSON,74,M,Joseph E. Thomas,NA,323425,NA,70
+Arizona,2020,July,2020-07-22,ASPC TUCSON,52,M,Ta Y. Ni,NA,191345,NA,70
+Arizona,2020,July,2020-07-22,ASPC FLORENCE,64,M,Kenneth D. Haley,NA,129606,NA,53
+Arizona,2020,July,2020-07-18,ASPC EYMAN,72,M,Andrew E. Barnhart,NA,330350,NA,52
+Arizona,2020,July,2020-07-16,ASPC LEWIS,54,M,David J. Castillo,NA,161135,NA,56
+Arizona,2020,July,2020-07-13,ASPC KINGMAN,57,M,Timothy S. Smith,NA,230890,NA,55
+Arizona,2020,July,2020-07-12,ASPC FLORENCE,66,M,Robert Satala,NA,32274,NA,53
+Arizona,2020,July,2020-07-09,ASPC FLORENCE,39,M,Eldon B. Delong,NA,298802,NA,53
+Arizona,2020,July,2020-07-06,ASPC TUCSON,61,M,Larry R. Apodaca,NA,331490,NA,70
+Arizona,2020,July,2020-07-05,ASPC TUCSON,77,M,James D. McInroe,NA,286368,NA,70
+Arizona,2020,July,2020-07-05,ASPC EYMAN,56,M,Larry J. Ladwig,NA,152526,NA,52
+Arizona,2020,July,2020-07-02,ASPC PERRYVILLE,50,F,Barbara M. Hudson,NA,270623,NA,60
+Arizona,2020,June,2020-06-30,ASPC FLORENCE,61,M,Steven F. Moore,NA,318489,NA,53
+Arizona,2020,June,2020-06-30,ASPC TUCSON,98,M,Horace Sublett,NA,157946,NA,70
+Arizona,2020,June,2020-06-29,ASPC YUMA,71,M,Michael A. Bloom,NA,204041,NA,73
+Arizona,2020,June,2020-06-27,ASPC TUCSON,72,M,Pedro D. Avila,NA,47094,NA,70
+Arizona,2020,June,2020-06-26,ASPC FLORENCE,54,M,Danny P. Enriquez,NA,57956,NA,53
+Arizona,2020,June,2020-06-25,ASPC FLORENCE,55,M,Steve P. Jernigan,NA,54777,NA,53
+Arizona,2020,June,2020-06-24,ASPC YUMA,53,M,Timothy Smith,NA,341364,NA,73
+Arizona,2020,June,2020-06-14,ASPC TUCSON,60,M,Larry J. Kearney,NA,168173,NA,70
+Arizona,2020,June,2020-06-14,ASPC TUCSON,66,M,Richard J. Polaski,NA,314917,NA,70
+Arizona,2020,June,2020-06-13,ASPC FLORENCE,83,M,William K. Qualls,NA,181381,NA,53
+Arizona,2020,June,2020-06-12,ASPC LEWIS,56,M,John E. Palmer,NA,45441,NA,56
+Arizona,2020,June,2020-06-11,ASPC FLORENCE,77,M,John H. Allen,NA,168873,NA,53
+Arizona,2020,June,2020-06-10,ASPC TUCSON,57,M,Kevin R. Smith,NA,168873,NA,70
+Arizona,2020,June,2020-06-10,ASPC LEWIS,54,M,James B. Honeycutt,NA,44758,NA,56
+Arizona,2020,June,2020-06-05,ASPC TUCSON,61,M,David A. Konie,NA,334539,NA,70
+Arizona,2020,June,2020-06-04,ASPC FLORENCE,42,M,George Hayes,NA,162202,NA,53
+Arizona,2020,June,2020-06-04,ASPC FLORENCE,44,M,Juan L. Vasquez,NA,239226,NA,53
+Arizona,2020,June,2020-06-02,ASPC EYMAN,49,M,Arthur R. Juarez,NA,300508,NA,52
+Arizona,2020,June,2020-06-01,ASPC KINGMAN,59,M,Douglas J. Houk,NA,231907,NA,55
+Arizona,2020,May,2020-05-25,ASPC TUCSON,63,M,Tony P. Wilson,NA,311480,NA,70
+Arizona,2020,May,2020-05-25,ASPC PERRYVILLE,64,F,Marjorie E. Turner,NA,340055,NA,60
+Arizona,2020,May,2020-05-15,ASPC FLORENCE,64,M,Jerry D. Hubbard,NA,140843,NA,53
+Arizona,2020,May,2020-05-14,ASPC FLORENCE,68,M,Richard Resa,NA,105054,NA,53
+Arizona,2020,May,2020-05-14,ASPC LEWIS,44,M,Dennis J. Rizzo,NA,331306,NA,56
+Arizona,2020,May,2020-05-09,ASPC KINGMAN,62,M,James A. Zimmerman,NA,322744,NA,55
+Arizona,2020,May,2020-05-08,ASPC FLORENCE,99,M,Angelino P. Buccheri-Bianca,NA,19002,NA,53
+Arizona,2020,May,2020-05-08,ASPC YUMA,52,M,Robert A. Boyd,NA,151564,NA,73
+Arizona,2020,May,2020-05-07,ASPC TUCSON,61,M,Christopher Albaugh,NA,319432,NA,70
+Arizona,2020,May,2020-05-06,ASPC LEWIS,58,M,George C. Gill,NA,62474,NA,56
+Arizona,2020,May,2020-05-05,ASPC TUCSON,52,M,Erick V. Hollstein,NA,284770,NA,70
+Arizona,2020,May,2020-05-02,ASPC FLORENCE,73,M,Bruce A. McCullough,NA,313823,NA,53
+Arizona,2020,May,2020-05-02,ASPC FLORENCE,54,M,Franklin A. Macato,NA,317331,NA,53
+Arizona,2020,May,2020-05-01,ASPC TUCSON,68,M,Pedro C. Bella,NA,279045,NA,70
+Arizona,2020,April,2020-04-30,ASPC FLORENCE,40,M,Kevin R. Blaise,NA,143400,NA,53
+Arizona,2020,April,2020-04-30,ASPC FLORENCE,56,M,Alfonso R. Salazar,NA,66369,NA,53
+Arizona,2020,April,2020-04-25,ASPC FLORENCE,70,M,James R. Simpson,NA,50106,NA,53
+Arizona,2020,April,2020-04-24,ASPC FLORENCE,79,M,Sittingdown,NA,52179,NA,53
+Arizona,2020,April,2020-04-23,ASPC DOUGLAS,63,M,Cyrus R. Pool,NA,339924,NA,51
+Arizona,2020,April,2020-04-22,ASPC FLORENCE,50,M,John A. Estrada,NA,108351,NA,53
+Arizona,2020,April,2020-04-20,ASPC FLORENCE,64,M,Jesus O. Medina,NA,282468,NA,53
+Arizona,2020,April,2020-04-19,ASPC YUMA,79,M,Charles Coffelt,NA,86850,NA,73
+Arizona,2020,April,2020-04-12,ASPC TUCSON,64,M,Joseph M. Assyd,NA,120372,NA,70
+Arizona,2020,April,2020-04-12,ASPC FLORENCE,59,M,William D. Stragey,NA,197012,NA,53
+Arizona,2020,April,2020-04-12,ASPC FLORENCE,75,M,Luis A. Chavez,NA,246643,NA,53
+Arizona,2020,April,2020-04-10,ASPC TUCSON,65,M,Richard R. Sheff,NA,276388,NA,70
+Arizona,2020,April,2020-04-06,ASPC FLORENCE,75,M,Jerry W. Allgood,NA,76672,NA,53
+Arizona,2020,April,2020-04-05,ASPC TUCSON,75,M,James L. Harvey,NA,68237,NA,70
+Arizona,2020,April,2020-04-04,ASPC TUCSON,57,M,Stephen W. Cofield,NA,46955,NA,70
+Arizona,2020,March,2020-03-30,ASPC TUCSON,73,M,Terry L. Pitzer,NA,91992,NA,70
+Arizona,2020,March,2020-03-29,ASPC YUMA,63,M,Danny Wise,NA,286665,NA,73
+Arizona,2020,March,2020-03-25,ASPC TUCSONOFFICE,62,M,Charles F. Bush,NA,40758,NA,70
+Arizona,2020,March,2020-03-23,ASPC TUCSON,68,M,Jesse M. Boldrey,NA,79547,NA,70
+Arizona,2020,March,2020-03-21,ASPC EYMANOFFICE,47,M,Samuel Rotondo,NA,102015,Suicide,52
+Arizona,2020,March,2020-03-20,ASPC LEWIS,43,M,Michael R. Ochoa,NA,109017,NA,56
+Arizona,2020,March,2020-03-19,ASPC TUCSON,68,M,Francisco Rosario,NA,184091,NA,70
+Arizona,2020,March,2020-03-15,ASPC FLORENCE,62,M,Fred L. Metzner,NA,94152,NA,53
+Arizona,2020,March,2020-03-14,ASPC FLORENCE,37,M,Christopher S. Yeager,NA,182011,NA,53
+Arizona,2020,March,2020-03-12,ASPC FLORENCE,52,M,Jose D. Munguia,NA,266507,NA,53
+Arizona,2020,March,2020-03-11,ASPC FLORENCE,71,M,William E. Bole,NA,92243,NA,53
+Arizona,2020,March,2020-03-08,ASPC PERRYVILLEOFFICE,42,F,Erika Kurtenbach,NA,218110,NA,60
+Arizona,2020,March,2020-03-07,ASPC PERRYVILLE,25,F,Ashley S. Carr,NA,341959,Suicide,60
+Arizona,2020,March,2020-03-03,ASPC TUCSON,57,M,Edward G. West,NA,64428,NA,70
+Arizona,2020,February,2020-02-22,ASPC TUCSON,76,M,Thomas R. Vogt,NA,29337,NA,70
+Arizona,2020,February,2020-02-21,ASPC EYMANOFFICE,36,M,Gene P. Beck,NA,173474,Suicide-Hanging,52
+Arizona,2020,February,2020-02-21,ASPC LEWIS,67,M,Andy R. Ambler,NA,150172,NA,56
+Arizona,2020,February,2020-02-20,ASPC TUCSON,58,M,Peter S. Wludyka,NA,225901,NA,70
+Arizona,2020,February,2020-02-15,ASPC FLORENCE WEST,47,M,Philbert Lookingback,NA,328817,NA,54
+Arizona,2020,February,2020-02-14,ASPC LEWIS,65,M,Robert S. Reed,NA,247269,NA,56
+Arizona,2020,February,2020-02-05,ASPC FLORENCE,58,M,William H. Culpepper,NA,307068,NA,53
+Arizona,2020,February,2020-02-03,ASPC LEWIS,44,M,Ruben Alvarez,NA,133808,NA,56
+Arizona,2020,February,2020-02-03,ASPC TUCSON,64,M,Ricky J. Gillin,NA,107255,NA,70
+Arizona,2020,February,2020-02-02,ASPC FLORENCE,61,M,Lanny D. Gunter,NA,216459,NA,53
+Arizona,2020,January,2020-01-27,ASPC TUCSON,52,M,Marvin D. Jones,NA,157126,NA,70
+Arizona,2020,January,2020-01-21,ASPC TUCSON,64,M,Kenneth H. Black,NA,223685,NA,70
+Arizona,2020,January,2020-01-20,ASPC TUCSON,67,M,James D. Wilcox,NA,320434,NA,70
+Arizona,2020,January,2020-01-20,ASPC FLORENCE,45,M,Clayton P. Peachay,NA,139016,NA,53
+Arizona,2020,January,2020-01-17,ASPC FLORENCE,66,M,Arlie G. Tubbs,NA,36465,NA,53
+Arizona,2020,January,2020-01-16,ASPC SAFFORD,25,M,Juan M. LaClair,NA,301472,NA,67
+Arizona,2020,January,2020-01-15,ASPC FLORENCE,60,M,Roger L. Smith,NA,44755,NA,53
+Arizona,2020,January,2020-01-11,ASPC PERRYVILLE,62,F,Debra L. Rautenberg,NA,91702,NA,60
+Arizona,2020,January,2020-01-07,ASPC TUCSON,57,M,Joseph Carbajal,NA,51836,NA,70
+Arizona,2020,January,2020-01-01,ASPC FLORENCE,62,M,Delbert E. Kroger,NA,219928,NA,53
+Arizona,2020,January,2020-01-01,ASPC PHOENIX,35,M,Christopher L. Christean,NA,340772,NA,63
+Arizona,2020,January,2020-01-01,ASPC EYMAN,29,M,James Edwards,NA,312218,NA,52
+Arizona,2019,December,2019-12-31,ASPC TUCSON,71,M,Bruce A. Manthey,NA,205135,NA,70
+Arizona,2019,December,2019-12-30,ASPC YUMA,65,M,James E. Brister,NA,52267,NA,73
+Arizona,2019,December,2019-12-23,ASPC YUMA,30,M,Demitris M. Williams,NA,300282,NA,73
+Arizona,2019,December,2019-12-22,ASPC FLORENCE,59,M,Jeffrey A. LeClair,NA,73337,NA,53
+Arizona,2019,December,2019-12-20,ASPC FLORENCE,51,M,James M. King,NA,312231,NA,53
+Arizona,2019,December,2019-12-20,ASPC EYMAN,66,M,Michael F. Oliver,NA,68972,NA,52
+Arizona,2019,December,2019-12-19,ASPC TUCSON,65,M,Michael A. Marsh,NA,58426,NA,70
+Arizona,2019,December,2019-12-14,ASPC TUCSON,49,M,Jon T. King,NA,336503,NA,70
+Arizona,2019,December,2019-12-14,ASPC WINSLOW,44,M,Michael R. Alvarez,NA,110260,NA,72
+Arizona,2019,December,2019-12-12,ASPC TUCSON,55,M,Kenneth E. Lunsford,NA,193183,NA,70
+Arizona,2019,December,2019-12-11,ASPC FLORENCE,77,M,Richard K. Ray,NA,58898,NA,53
+Arizona,2019,December,2019-12-06,ASPC LEWIS,64,M,Marc A. Clark,NA,106077,NA,56
+Arizona,2019,November,2019-11-18,ASPC FLORENCE,48,M,Ruskowsky,NA,107275,NA,53
+Arizona,2019,November,2019-11-08,ASPC EYMAN,34,M,Sergio G. Almanza,NA,197025,NA,52
+Arizona,2019,October,2019-10-30,ASPC PERRYVILLE,41,F,Kara J. Finn,NA,228030,NA,60
+Arizona,2019,October,2019-10-19,ASPC FLORENCEOFFICE,60,M,Craig J. Flewellen,NA,39694,NA,53
+Arizona,2019,October,2019-10-09,ASPC TUCSON,37,M,Michael B. Thomas,NA,265890,NA,70
+Arizona,2019,October,2019-10-07,ASPC YUMA,60,M,Robert J. Moody,NA,120103,NA,73
+Arizona,2019,October,2019-10-05,ASPC TUCSON,51,M,Francisco Dominguez,NA,152633,NA,70
+Arizona,2019,October,2019-10-05,ASPC TUCSON,68,M,Kenneth J. Barker,NA,331006,NA,70
+Arizona,2019,October,2019-10-04,ASPC TUCSON,48,M,Noe M. Santillana,NA,216586,NA,70
+Arizona,2019,September,2019-09-24,ASPC FLORENCE,68,M,Gilbert V. Hostler,NA,30476,NA,53
+Arizona,2019,September,2019-09-20,ASPC FLORENCE,79,M,Joe P. Stuard,NA,125108,NA,53
+Arizona,2019,September,2019-09-18,ASPC LEWISOFFICE,31,M,Tyler J. Gold,NA,258485,NA,56
+Arizona,2019,September,2019-09-18,CENTRAL ARIZONA CORRECTIONAL FACILITY,57,M,Elliott E. Smith,NA,39448,NA,47
+Arizona,2019,September,2019-09-16,ASPC TUCSON,62,M,Mark S. Andrews,NA,40810,NA,70
+Arizona,2019,September,2019-09-15,ASPC TUCSON,58,M,Kamaka A. Solo,NA,265437,NA,70
+Arizona,2019,September,2019-09-09,ASPC TUCSON,52,M,Luis A. Caballero,NA,89383,NA,70
+Arizona,2019,September,2019-09-06,ASPC TUCSON,52,M,Anthony M. Heil,NA,252652,NA,70
+Arizona,2019,August,2019-08-31,ASPC KINGMAN,72,M,Carlos N. Ozuna,NA,309517,NA,55
+Arizona,2019,August,2019-08-30,ASPC LEWIS,56,M,Vincent Ersery,NA,56041,NA,56
+Arizona,2019,August,2019-08-30,ASPC LEWIS,62,M,Dennis E. Gambardella,NA,85624,NA,56
+Arizona,2019,August,2019-08-28,ASPC EYMAN,46,M,Daniel G. Rodriguez,NA,92410,NA,52
+Arizona,2019,August,2019-08-14,ASPC TUCSON,68,M,Terry L. Warner,NA,256215,NA,70
+Arizona,2019,August,2019-08-11,OUT OF STATE,75,M,Donald J. Spitz,NA,74461,NA,NA
+Arizona,2019,August,2019-08-10,ASPC YUMA,76,M,Robert E. Gaines,NA,82914,NA,73
+Arizona,2019,August,2019-08-05,ASPC TUCSON,45,M,Darrell W. Lewis,NA,110548,NA,70
+Arizona,2019,August,2019-08-04,ASPC TUCSON,76,M,Jose D. Miranda,NA,69566,NA,70
+Arizona,2019,July,2019-07-30,ASPC LEWIS,38,M,Aaron W. Pike,NA,273766,NA,56
+Arizona,2019,July,2019-07-28,ASPC TUCSON,74,M,Arvine M. Hardwick,NA,104698,NA,70
+Arizona,2019,July,2019-07-27,ASPC TUCSON,60,M,Phillip J. Cloud,NA,272655,NA,70
+Arizona,2019,July,2019-07-24,ASPC FLORENCE,66,M,Timothy D. Kelly,NA,117044,NA,53
+Arizona,2019,July,2019-07-22,ASPC TUCSON,59,M,David H. Neville,NA,313762,Suicide-Hanging,70
+Arizona,2019,July,2019-07-21,ASPC FLORENCE,53,M,Alan C. Wilson,NA,160624,NA,53
+Arizona,2019,July,2019-07-20,ASPC EYMAN,45,M,James Rios,NA,143856,NA,52
+Arizona,2019,July,2019-07-19,ASPC FLORENCE,60,M,Terry L. Garrison,NA,207531,NA,53
+Arizona,2019,July,2019-07-12,ASPC KINGMAN,59,M,Michael D. Williams,NA,197959,NA,55
+Arizona,2019,July,2019-07-11,ASPC TUCSON,62,M,Dan L. Frederick,NA,322870,NA,70
+Arizona,2019,July,2019-07-10,ASPC FLORENCE,45,M,Daniel L. Cook,NA,320399,NA,53
+Arizona,2019,July,2019-07-10,ASPC YUMA,45,M,Armando A. Dominguez,NA,267981,NA,73
+Arizona,2019,July,2019-07-07,ASPC TUCSON,79,M,Rudy Helenick,NA,39768,NA,70
+Arizona,2019,July,2019-07-03,ASPC LEWIS,53,M,Joseph A. Osti,NA,270423,NA,56
+Arizona,2019,July,2019-07-02,ASPC PERRYVILLE,25,F,Sadie Johnson,NA,273402,Suicide-Hanging,60
+Arizona,2019,July,2019-07-01,ASPC EYMAN,59,M,Rocky G. Edwards,NA,120150,NA,52
+Arizona,2019,June,2019-06-29,ASPC LEWIS,45,M,Augustine J. Escobar,NA,94197,NA,56
+Arizona,2019,June,2019-06-26,ASPC FLORENCE,51,M,Pedro Rojas Jr,NA,103714,NA,53
+Arizona,2019,June,2019-06-16,ASPC FLORENCE,77,M,Michael Voden,NA,303291,NA,53
+Arizona,2019,June,2019-06-16,ASPC FLORENCE,70,M,Richard Amis,NA,34014,NA,53
+Arizona,2019,June,2019-06-15,ASPC FLORENCE,69,M,Michael Brown,NA,117743,NA,53
+Arizona,2019,June,2019-06-15,ASPC TUCSON,53,M,Richard Curley,NA,56332,Homicide,70
+Arizona,2019,June,2019-06-14,ASPC EYMAN,61,M,Richard King,NA,39036,NA,52
+Arizona,2019,June,2019-06-06,ASPC LEWIS,49,M,NA,Winters,152220,NA,56
+Arizona,2019,May,2019-05-17,ASPC FLORENCE,79,M,NA,Williams,170963,NA,53
+Arizona,2019,May,2019-05-17,ASPC TUCSON,32,M,NA,Vandeveer,312224,Suicide,70
+Arizona,2019,May,2019-05-16,ASPC EYMAN,56,M,NA,Poirier,332320,Suicide,52
+Arizona,2019,May,2019-05-12,ASPC TUCSON,37,M,NA,Branum,152817,NA,70
+Arizona,2019,May,2019-05-12,ASPC FLORENCE,70,M,NA,Hersum,279400,NA,53
+Arizona,2019,May,2019-05-07,CENTRAL ARIZONA CORRECTIONAL FACILITY,69,M,NA,Valenzuela,242104,NA,47
+Arizona,2019,May,2019-05-05,ASPC KINGMAN,26,M,NA,Corrales-Pesqueira,289539,NA,55
+Arizona,2019,May,2019-05-03,ASPC EYMAN,61,M,NA,Foley,72158,NA,52
+Arizona,2019,April,2019-04-28,ASPC TUCSON,53,M,NA,Kisto,76769,NA,70
+Arizona,2019,April,2019-04-26,ASPC YUMA,29,M,NA,Armadillo,221986,NA,73
+Arizona,2019,April,2019-04-25,ASPC LEWIS,42,M,NA,Vela,106150,NA,56
+Arizona,2019,April,2019-04-23,ASPC LEWIS,63,M,NA,Meacham,33556,NA,56
+Arizona,2019,April,2019-04-22,ASPC TUCSON,55,M,NA,Remy,85151,Natural Causes,70
+Arizona,2019,April,2019-04-22,ASPC LEWIS,35,M,NA,Thran,257951,NA,56
+Arizona,2019,April,2019-04-22,ASPC TUCSON,52,M,NA,Wilson,104162,Natural Causes,70
+Arizona,2019,April,2019-04-20,ASPC TUCSON,65,M,NA,Lucero Sr.,279621,Natural Causes,70
+Arizona,2019,April,2019-04-19,ASPC TUCSON,83,M,NA,Vigil,273028,NA,70
+Arizona,2019,April,2019-04-15,ASPC TUCSON,65,M,NA,Davis,322004,NA,70
+Arizona,2019,April,2019-04-15,ASPC EYMAN,53,M,NA,Allen,251888,NA,52
+Arizona,2019,April,2019-04-05,ASPC TUCSON,33,M,NA,Gross,193367,NA,70
+Arizona,2019,March,2019-03-31,ASPC TUCSON,76,M,NA,Johnson,273187,Natural Causes,70
+Arizona,2019,March,2019-03-25,ASPC KINGMAN,80,M,NA,Geiser,273187,NA,55
+Arizona,2019,March,2019-03-20,ASPC FLORENCE,57,M,NA,Pacheco,242010,NA,53
+Arizona,2019,March,2019-03-19,ASPC TUCSON,52,M,NA,Waite,64352,NA,70
+Arizona,2019,March,2019-03-13,ASPC FLORENCE,69,M,NA,Taff,33619,Natural Causes,53
+Arizona,2019,March,2019-03-11,ASPC TUCSON,64,M,NA,Lemon,31831,NA,70
+Arizona,2019,March,2019-03-10,ASPC LEWIS,62,M,NA,Hollenback,79384,NA,56
+Arizona,2019,March,2019-03-10,ASPC FLORENCE,44,M,NA,Moore,99204,NA,53
+Arizona,2019,March,2019-03-10,ASPC EYMAN,24,M,NA,Pantastico,295169,Suicide,52
+Arizona,2019,March,2019-03-09,ASPC LEWIS,27,M,NA,Bociung,266999,NA,56
+Arizona,2019,March,2019-03-09,ASPC RED ROCK,52,M,NA,Gonzales,75413,NA,65
+Arizona,2019,March,2019-03-06,ASPC LEWIS,33,M,NA,Howardwell,185716,NA,56
+Arizona,2019,March,2019-03-03,ASPC PHOENIX,40,M,NA,Abebaw Feleke,132272,Suicide-Hanging,63
+Arizona,2019,March,2019-03-03,ASPC EYMAN,50,M,NA,Black,88178,NA,52
+Arizona,2019,March,2019-03-02,ASPC TUCSON,51,M,NA,McKnelly,158707,NA,70
+Arizona,2019,March,2019-03-01,ASPC LEWIS,63,M,NA,Jimenez,70263,Natural Causes,56
+Arizona,2019,February,2019-02-23,CENTRAL ARIZONA CORRECTIONAL FACILITY,71,M,NA,Conway,266731,NA,47
+Arizona,2019,February,2019-02-22,US MARSHAL,31,M,NA,Montes-Beltran,323912,NA,NA
+Arizona,2019,February,2019-02-15,ASPC TUCSON,79,M,NA,Dawson,65408,NA,70
+Arizona,2019,February,2019-02-13,ASPC YUMA,34,M,NA,Ariens,290460,NA,73
+Arizona,2018,February,2019-02-08,ASPC TUSCON,72,M,Alvie Rogers,Rogers,63360,Natural Causes,70
+Arizona,2019,February,2019-02-06,ASPC FLORENCE,42,M,NA,Torres,158092,NA,53
+Arizona,2019,February,2019-02-04,ASPC FLORENCE,55,M,NA,Johnson,50856,Natural Causes,53
+Arizona,2019,January,2019-01-31,ASPC FLORENCE,64,M,NA,Washington,39492,NA,53
+Arizona,2019,January,2019-01-28,ASPC FLORENCE,65,M,NA,Harrod,136270,NA,53
+Arizona,2019,January,2019-01-26,ASPC PERRYVILLE,51,F,NA,Langeneckert,278255,NA,60
+Arizona,2019,January,2019-01-21,ASPC FLORENCE,26,M,NA,Valenzuela,304312,NA,53
+Arizona,2019,January,2019-01-18,ASPC FLORENCE,74,M,NA,Shreve,309533,NA,53
+Arizona,2019,January,2019-01-16,ASPC LEWIS,33,M,NA,Hernandez,188890,NA,56
+Arizona,2019,January,2019-01-14,ASPC RED ROCK,59,M,NA,Herren,251533,NA,65
+Arizona,2019,January,2019-01-07,ASPC TUCSON,56,M,NA,Slovekosky,122147,NA,70
+Arizona,2019,January,2019-01-04,ASPC TUCSON,92,M,NA,Miller,35695,NA,70
+Arizona,2018,December,2018-12-31,ASPC TUCSON,41,M,NA,Ford,121707,NA,70
+Arizona,2018,December,2018-12-27,ASPC TUCSON,63,M,NA,Lerma,136848,NA,70
+Arizona,2018,December,2018-12-21,ASPC FLORENCE WEST,77,M,NA,Dearinger,157422,Natural Causes,54
+Arizona,2018,December,2018-12-20,ASPC FLORENCE,52,M,NA,Richardson,198355,Natural Causes,53
+Arizona,2018,December,2018-12-19,ASPC LEWIS,44,M,NA,Fraijo,240972,NA,56
+Arizona,2018,December,2018-12-12,ASPC TUCSON,43,M,NA,Watson,122363,NA,70
+Arizona,2018,December,2018-12-11,ASPC TUCSON,52,M,NA,Mayo,280516,NA,70
+Arizona,2018,December,2018-12-11,ASPC FLORENCE,72,M,NA,Thompson,296182,NA,53
+Arizona,2018,December,2018-12-09,ASPC FLORENCE,54,M,NA,Romero,52869,NA,53
+Arizona,2018,December,2018-12-06,ASPC TUCSON,53,M,NA,Lopez,330076,Natural Causes,70
+Arizona,2018,November,2018-11-28,ASPC TUCSON,86,M,NA,Rimer,199579,NA,70
+Arizona,2018,November,2018-11-28,ASPC EYMAN,39,M,NA,Scherer,310401,NA,52
+Arizona,2018,November,2018-11-27,ASPC LEWIS,55,M,NA,Sowell,66847,NA,56
+Arizona,2018,November,2018-11-27,ASPC PERRYVILLE,67,F,NA,Woods,208394,Natural Causes,60
+Arizona,2018,November,2018-11-20,ASPC LEWIS,30,M,NA,Cruz,208380,NA,56
+Arizona,2018,November,2018-11-20,ASPC FLORENCE,79,M,NA,Willoughby,94415,NA,53
+Arizona,2018,November,2018-11-19,ASPC EYMAN,26,M,NA,Salinas,266335,Suicide-Hanging,52
+Arizona,2018,November,2018-11-16,ASPC TUCSON,65,M,NA,Dodson,300260,NA,70
+Arizona,2018,November,2018-11-14,ASPC FLORENCE,58,M,NA,Hills,39723,NA,53
+Arizona,2018,November,2018-11-13,ASPC TUCSON,63,M,NA,Boschian,40564,NA,70
+Arizona,2018,November,2018-11-10,ASPC TUCSON,56,M,NA,Barnes,47677,NA,70
+Arizona,2018,November,2018-11-06,ASPC LEWIS,38,M,NA,Lopshire,254757,NA,56
+Arizona,2018,November,2018-11-04,ASPC FLORENCE,76,M,NA,Jobe,62720,NA,53
+Arizona,2018,November,2018-11-03,ASPC LEWIS,39,M,NA,Nez,207542,NA,56
+Arizona,2018,November,2018-11-02,ASPC TUCSON,84,M,NA,Price,211005,NA,70
+Arizona,2018,October,2018-10-25,ASPC TUCSON,83,M,NA,Calhoun,204538,NA,70
+Arizona,2018,October,2018-10-20,ASPC TUCSON,38,M,NA,Godoy,277939,NA,70
+Arizona,2018,October,2018-10-15,ASPC FLORENCE,65,M,NA,Mattia,35571,NA,53
+Arizona,2018,October,2018-10-12,ASPC TUCSON,66,M,NA,Galyon,311549,NA,70
+Arizona,2018,October,2018-10-11,ASPC WINSLOW,50,M,NA,Herrera,77036,NA,72
+Arizona,2018,October,2018-10-09,ASPC FLORENCE,62,M,NA,Obser,39405,NA,53
+Arizona,2018,October,2018-10-08,ASPC TUCSON,58,M,NA,Sorenson,245055,NA,70
+Arizona,2018,September,2018-09-29,ASPC FLORENCE,55,M,NA,Sypherd,202786,NA,53
+Arizona,2018,September,2018-09-22,ASPC EYMAN,75,M,NA,Dixon,270775,NA,52
+Arizona,2018,September,2018-09-19,ASPC FLORENCE,56,M,NA,Hanna,58134,NA,53
+Arizona,2018,September,2018-09-11,ASPC FLORENCE,48,M,NA,Jeremy D. Garcia,225755,NA,53
+Arizona,2018,September,2018-09-10,ASPC TUCSON,42,M,NA,Rodgers,118626,NA,70
+Arizona,2018,September,2018-09-10,ASPC LEWIS,70,M,NA,Gallegos,268080,NA,56
+Arizona,2018,September,2018-09-06,ASPC TUCSON,56,M,NA,Singleterry,173212,NA,70
+Arizona,2018,September,2018-09-04,ASPC TUCSON,33,M,NA,Zebley,178977,NA,70
+Arizona,2018,September,2018-09-02,ASPC FLORENCE,23,M,NA,Damian A. Gonzalez,291876,NA,53
+Arizona,2018,September,2018-09-01,ASPC LEWIS,58,M,NA,McBride,122627,NA,56
+Arizona,2018,August,2018-08-29,ASPC LEWIS,61,M,NA,Beier,40815,NA,56
+Arizona,2018,August,2018-08-20,ASPC TUCSON,77,M,NA,Wilcox,303470,Natural Causes,70
+Arizona,2018,August,2018-08-20,ASPC EYMAN,41,M,NA,Cody R. Williams,116387,Suicide,52
+Arizona,2018,August,2018-08-15,ASPC FLORENCE,60,M,NA,Spencer,82989,NA,53
+Arizona,2018,August,2018-08-13,ASPC TUCSON,33,M,NA,Guillen,191492,NA,70
+Arizona,2018,August,2018-08-09,ASPC EYMAN,75,M,NA,Marvin D. Morris,309769,NA,52
+Arizona,2018,August,2018-08-06,ASPC WINSLOW,29,M,NA,Bradley V. Senesac,238350,NA,72
+Arizona,2018,August,2018-08-02,ASPC TUCSON,71,M,NA,Armad R. Vachon,161590,NA,70
+Arizona,2018,July,2018-07-31,ASPC FLORENCE,53,M,NA,Earl T. Pollard,70167,NA,53
+Arizona,2018,July,2018-07-17,ASPC FLORENCE,68,M,NA,Foret,142163,Natural Causes,53
+Arizona,2018,July,2018-07-15,ASPC YUMA,53,M,NA,Hurtado,312361,NA,73
+Arizona,2018,July,2018-07-02,ASPC LEWIS,41,M,NA,Delgado,121143,NA,56
+Arizona,2018,June,2018-06-30,ASPC TUCSON,55,M,NA,Nelson,285090,NA,70
+Arizona,2018,June,2018-06-27,ASPC TUCSON,69,M,NA,Maraventano,315189,Suicide-Hanging,70
+Arizona,2018,June,2018-06-24,ASPC TUCSON,83,M,NA,Earl R. Lee,70819,Natural Causes,70
+Arizona,2018,June,2018-06-23,ASPC TUCSON,61,M,NA,Richmond,73742,Natural Causes,70
+Arizona,2018,June,2018-06-23,ASPC TUCSON,60,M,NA,Casanova,43746,NA,70
+Arizona,2018,June,2018-06-22,ASPC LEWIS,43,M,NA,Tejada,184597,NA,56
+Arizona,2018,June,2018-06-16,ASPC LEWIS,66,M,NA,Nase,101254,NA,56
+Arizona,2018,June,2018-06-16,ASPC PERRYVILLE,30,F,NA,Everest,276797,NA,60
+Arizona,2018,June,2018-06-15,ASPC TUCSON,56,M,NA,Cromwell,276767,NA,70
+Arizona,2018,June,2018-06-13,OUT OF STATE,70,M,NA,Langston,49038,NA,NA
+Arizona,2018,June,2018-06-13,ASPC LEWIS,36,M,NA,McCormick,228881,NA,56
+Arizona,2018,June,2018-06-12,CENTRAL ARIZONA CORRECTIONAL FACILITY,73,M,NA,Stull,119333,NA,47
+Arizona,2018,June,2018-06-12,ASPC TUCSON,60,M,NA,Gray,38655,NA,70
+Arizona,2018,June,2018-06-09,ASPC FLORENCE,64,M,NA,Agnew,71461,NA,53
+Arizona,2018,June,2018-06-07,ASPC TUSCON,32,M,Victor A. Martinez,Martinez,280392,Homicide,70
+Arizona,2018,June,2018-06-02,ASPC LEWIS,55,M,NA,Hernandez,55050,NA,56
+Arizona,2018,May,2018-05-30,ASPC TUCSON,34,M,NA,Valero,147445,NA,70
+Arizona,2018,May,2018-05-29,ASPC TUCSON,61,M,NA,Hackman,136624,NA,70
+Arizona,2018,May,2018-05-29,ASPC FLORENCE,53,M,NA,Apodaca,73659,Natural Causes,53
+Arizona,2018,May,2018-05-22,ASPC LEWIS,66,M,NA,Martinez,42813,NA,56
+Arizona,2018,May,2018-05-21,ASPC FLORENCE,68,M,NA,Bray,103590,NA,53
+Arizona,2018,May,2018-05-20,ASPC YUMA,56,M,NA,Johannes,82267,NA,73
+Arizona,2018,May,2018-05-14,ASPC TUCSON,65,M,NA,Curry,40574,NA,70
+Arizona,2018,May,2018-05-14,ASPC FLORENCE,57,M,NA,Muncy,230570,NA,53
+Arizona,2018,May,2018-05-05,ASPC FLORENCE,79,M,NA,Ortiz-Guerrero,217871,Natural Causes,53
+Arizona,2018,May,2018-05-01,ASPC EYMAN,34,M,NA,Peshlakai,211855,NA,52
+Arizona,2018,April,2018-04-27,ASPC LEWIS,43,M,NA,Stewart,281867,NA,56
+Arizona,2018,April,2018-04-25,ASPC TUCSON,53,M,NA,Olson,54583,NA,70
+Arizona,2018,April,2018-04-20,ASPC FLORENCE,62,M,NA,Strine,46935,NA,53
+Arizona,2018,April,2018-04-16,ASPC TUCSON,56,M,NA,Saenz,78399,NA,70
+Arizona,2018,April,2018-04-08,ASPC FLORENCE,58,M,NA,Kemp,307141,NA,53
+Arizona,2018,April,2018-04-07,ASPC FLORENCE,76,M,NA,O'Neal,113031,Natural Causes,53
+Arizona,2018,April,2018-04-05,ASPC LEWIS,34,M,Mark L. Johnson,Johnson,124185,Homicide,56
+Arizona,2018,April,2018-04-05,ASPC FLORENCE,71,M,NA,Romero,310582,NA,53
+Arizona,2018,April,2018-04-03,ASPC TUCSON,44,M,NA,Byrd,149563,NA,70
+Arizona,2018,April,2018-04-02,ASPC EYMAN,67,M,Joel K. Barr,Barr,180015,Homicide,52
+Arizona,2018,March,2018-03-31,ASPC TUCSON,64,M,NA,Diaz,233369,NA,70
+Arizona,2018,March,2018-03-30,ASPC TUCSON,58,M,NA,Sweet,124176,Natural Causes,70
+Arizona,2018,March,2018-03-29,CENTRAL ARIZONA CORRECTIONAL FACILITY,51,M,NA,Campillo,154922,NA,47
+Arizona,2018,March,2018-03-21,ASPC YUMA,44,M,NA,Munguia,90192,NA,73
+Arizona,2018,March,2018-03-20,ASPC LEWIS,34,M,Charlie M. Wooden,Wooden,195239,Homicide,56
+Arizona,2018,March,2018-03-20,ASPC EYMAN,34,M,NA,Cruz,197177,NA,52
+Arizona,2018,March,2018-03-15,ASPC YUMA,24,M,NA,Crooks,321691,Suicide-Hanging,73
+Arizona,2018,March,2018-03-10,ASPC FLORENCE,77,M,NA,Womack,27395,NA,53
+Arizona,2018,March,2018-03-08,ASPC FLORENCE,31,M,NA,Zermeno,232755,NA,53
+Arizona,2018,March,2018-03-07,ASPC TUCSON,76,M,NA,Lee,204744,NA,70
+Arizona,2018,March,2018-03-02,ASPC TUCSON,47,M,NA,Brooks,65689,NA,70
+Arizona,2018,March,2018-03-01,ASPC YUMA,32,M,NA,Coppa,180398,NA,73
+Arizona,2018,March,2018-03-01,ASPC FLORENCE,55,M,NA,Dann,45828,NA,53
+Arizona,2018,March,2018-03-01,ASPC LEWIS,26,M,NA,Curley,273707,NA,56
+Arizona,2018,February,2018-02-28,ASPC EYMAN,49,M,NA,Mohr,149480,NA,52
+Arizona,2018,February,2018-02-27,ASPC TUCSON,68,M,NA,Alexander,155641,NA,70
+Arizona,2018,February,2018-02-24,ASPC TUCSON,37,M,NA,Ruiz,324913,NA,70
+Arizona,2018,February,2018-02-23,ASPC PERRYVILLE,51,F,NA,Greer,155667,NA,60
+Arizona,2018,February,2018-02-20,ASPC EYMAN,31,M,Michael R. Arvizo,Arvizo,159261,Homicide,52
+Arizona,2018,February,2018-02-18,ASPC LEWIS,57,M,NA,McMahan,107331,NA,56
+Arizona,2018,February,2018-02-17,ASPC FLORENCE,37,M,NA,Johnson,244510,NA,53
+Arizona,2018,February,2018-02-15,ASPC FLORENCE,53,M,NA,Garza,46489,NA,53
+Arizona,2018,February,2018-02-15,ASPC PERRYVILLE,54,F,NA,White,297795,NA,60
+Arizona,2018,February,2018-02-14,ASPC TUCSON,53,M,NA,Howard,251195,NA,70
+Arizona,2018,February,2018-02-14,ASPC TUCSON,61,M,NA,Shaw,172018,NA,70
+Arizona,2018,February,2018-02-13,ASPC EYMAN,74,M,NA,Meyerson,182373,NA,52
+Arizona,2018,February,2018-02-12,ASPC EYMAN,48,M,NA,Carrillo,172834,Suicide-Hanging,52
+Arizona,2018,February,2018-02-10,ASPC FLORENCE,82,M,NA,Stoeckel,261727,Natural Causes,53
+Arizona,2018,February,2018-02-09,ASPC FLORENCE,71,M,NA,Henry,67112,Natural Causes,53
+Arizona,2018,February,2018-02-08,ASPC PHOENIX WEST,NA,M,NA,Skyler B. Martin,317952,Killed by LE while Fugitive,63
+Arizona,2018,February,2018-02-05,ASPC EYMAN,69,M,NA,Smith,45044,Natural Causes,52
+Arizona,2018,February,2018-02-03,ASPC TUCSON,43,M,NA,Ramos-Perez,297182,Natural Causes,70
+Arizona,2018,February,2018-02-03,ASPC EYMAN,30,M,NA,Bendel,256007,NA,52
+Arizona,2018,February,2018-02-02,ASPC FLORENCE,67,M,NA,Crawford,97330,Natural Causes,53
+Arizona,2018,January,2018-01-28,ASPC EYMAN,38,M,NA,Sampson,209612,NA,52
+Arizona,2018,January,2018-01-28,ASPC FLORENCE,54,M,NA,Baskin,125835,Natural Causes,53
+Arizona,2018,January,2018-01-27,ASPC YUMA,69,M,NA,Montez,29453,NA,73
+Arizona,2018,January,2018-01-23,ASPC YUMA,57,M,NA,Pisio,75401,NA,73
+Arizona,2018,January,2018-01-02,ASPC FLORENCE,62,M,NA,Gene,263610,NA,53
+Arizona,2017,December,2017-12-31,ASPC YUMA,53,M,NA,Diaz,179545,NA,73
+Arizona,2017,December,2017-12-29,ASPC LEWIS,72,M,NA,Sherwood,100211,NA,56
+Arizona,2017,December,2017-12-20,ASPC LEWIS,33,M,NA,Palmer,196521,NA,56
+Arizona,2017,December,2017-12-20,ASPC TUCSON,77,M,NA,Corona,38397,Natural Causes,70
+Arizona,2017,December,2017-12-20,ASPC FLORENCE,51,M,NA,Coronado-Nunez,110942,NA,53
+Arizona,2017,December,2017-12-19,ASPC TUCSON,58,M,NA,Wilson,306287,Natural Causes,70
+Arizona,2017,December,2017-12-12,ASPC TUCSON,52,M,NA,Mata,68762,Natural Causes,70
+Arizona,2017,December,2017-12-08,ASPC FLORENCE,59,M,NA,Johnson,48240,Natural Causes,53
+Arizona,2017,December,2017-12-05,ASPC LEWIS,53,M,NA,Spradlin,88189,NA,56
+Arizona,2017,December,2017-12-03,ASPC TUCSON,65,M,NA,Carroll,309918,NA,70
+Arizona,2017,November,2017-11-30,ASPC TUCSON,63,M,NA,Davidson,244800,Natural Causes,70
+Arizona,2017,November,2017-11-30,ASPC FLORENCE,71,M,NA,Dennis,34869,Natural Causes,53
+Arizona,2017,November,2017-11-27,ASPC LEWIS,57,M,NA,Sanchez,41755,NA,56
+Arizona,2017,November,2017-11-23,ASPC LEWIS,25,M,NA,Olivas,275499,NA,56
+Arizona,2017,November,2017-11-21,ASPC PERRYVILLE,57,F,Lauren J McCray,McCray,223302,Natural Causes,60
+Arizona,2017,November,2017-11-21,ASPC LEWIS,33,M,NA,Remine,168246,NA,56
+Arizona,2017,November,2017-11-17,ASPC TUCSON,82,M,NA,Rodriguez,173002,NA,70
+Arizona,2017,November,2017-11-15,ASPC TUCSON,68,M,NA,Allan,267802,NA,70
+Arizona,2017,November,2017-11-15,ASPC FLORENCE,30,M,NA,Canadas,275266,Natural Causes,53
+Arizona,2017,November,2017-11-12,ASPC FLORENCE,31,M,NA,Munoz,221916,Natural Causes,53
+Arizona,2017,November,2017-11-07,ASPC LEWIS,51,M,NA,Miranda,46180,NA,56
+Arizona,2017,November,2017-11-07,ASPC FLORENCE,67,M,NA,Zamarripa,296209,Natural Causes,53
+Arizona,2017,November,2017-11-04,ASPC FLORENCE,55,M,NA,Lynch,206125,Natural Causes,53
+Arizona,2017,November,2017-11-02,ASPC FLORENCE,47,M,NA,Owings,98897,NA,53
+Arizona,2017,October,2017-10-27,ASPC TUCSON,64,M,NA,Cook,291199,NA,70
+Arizona,2017,October,2017-10-25,ASPC PERRYVILLE,55,F,NA,Jones,116957,NA,60
+Arizona,2017,October,2017-10-23,ASPC PHOENIX,29,M,NA,Aguilar,219831,NA,63
+Arizona,2017,October,2017-10-23,ASPC FLORENCE,84,M,NA,Reina,220170,NA,53
+Arizona,2017,October,2017-10-21,ASPC LEWIS,53,M,NA,Garza,83109,Natural Causes,56
+Arizona,2017,October,2017-10-17,ASPC FLORENCE,52,M,NA,Villegas,101837,Natural Causes,53
+Arizona,2017,October,2017-10-13,ASPC EYMAN,76,M,NA,Varvel,234305,NA,52
+Arizona,2017,October,2017-10-13,ASPC TUCSON,71,M,NA,Shreve,261811,Natural Causes,70
+Arizona,2017,October,2017-10-11,ASPC EYMAN,69,M,NA,Andrade,303776,NA,52
+Arizona,2017,October,2017-10-10,ASPC PERRYVILLE,47,F,NA,Pacheco,300803,Natural Causes,60
+Arizona,2017,October,2017-10-10,ASPC TUCSON,62,M,NA,Bray,135737,Natural Causes,70
+Arizona,2017,October,2017-10-10,ASPC LEWIS,59,M,NA,Hudson,127743,Natural Causes,56
+Arizona,2017,October,2017-10-06,ASPC KINGMAN,80,M,NA,Quintero,167939,Natural Causes,55
+Arizona,2017,September,2017-09-29,ASPC LEWIS,33,M,NA,Diaz,212585,NA,56
+Arizona,2017,September,2017-09-26,OUT TO COURT,48,M,NA,Adams,129959,NA,NA
+Arizona,2017,September,2017-09-23,ASPC FLORENCE,75,M,NA,Harley,164924,Natural Causes,53
+Arizona,2017,September,2017-09-20,CENTRAL ARIZONA CORRECTIONAL FACILITY,67,M,NA,Hueston,131626,NA,47
+Arizona,2017,September,2017-09-16,ASPC TUCSON,61,M,NA,Green,295448,Natural Causes,70
+Arizona,2017,September,2017-09-16,ASPC EYMAN,63,M,NA,Garcia,45374,NA,52
+Arizona,2017,September,2017-09-15,ASPC TUCSON,42,M,NA,Delgado,199470,Natural Causes,70
+Arizona,2017,September,2017-09-14,ASPC TUSCON,93,M,NA,Murray,279150,Natural Causes,70
+Arizona,2017,September,2017-09-12,ASPC LEWIS,53,M,NA,Sanchez,48267,NA,56
+Arizona,2017,September,2017-09-12,ASPC TUCSON,26,M,NA,Acosta,283304,NA,70
+Arizona,2017,September,2017-09-09,CENTRAL ARIZONA CORRECTIONAL FACILITY,72,M,NA,Gass,159737,Natural Causes,47
+Arizona,2017,September,2017-09-08,ASPC FLORENCE,55,M,NA,Carreon,45169,Natural Causes,53
+Arizona,2017,September,2017-09-07,ASPC FLORENCE,67,M,NA,Jordan,78789,Natural Causes,53
+Arizona,2017,September,2017-09-05,ASPC TUCSON,46,M,Joseph S. Zawacki,Zawacki,81262,Homicide,70
+Arizona,2017,September,2017-09-02,ASPC FLORENCE,72,M,NA,Lopez,37963,Natural Causes,53
+Arizona,2017,September,2017-09-01,ASPC TUCSON,70,M,NA,Dakota,36739,Natural Causes,70
+Arizona,2017,August,2017-08-24,ASPC TUCSON,61,M,NA,Ogden,51927,Natural Causes,70
+Arizona,2017,August,2017-08-22,ASPC EYMAN,29,M,NA,Salter,284794,NA,52
+Arizona,2017,August,2017-08-21,ASPC LEWIS,64,M,NA,Neese,30526,NA,56
+Arizona,2017,August,2017-08-10,ASPC FLORENCE,48,M,NA,Groves,142527,Natural Causes,53
+Arizona,2017,August,2017-08-07,ASPC EYMAN,31,M,NA,Wilson,207769,Suicide,52
+Arizona,2017,July,2017-07-22,ASPC EYMAN,46,M,NA,Powell,280740,Natural Causes,52
+Arizona,2017,July,2017-07-18,ASPC TUCSON,30,M,NA,Guzman,211254,NA,70
+Arizona,2017,July,2017-07-13,ASPC FLORENCE,70,M,NA,Liska,43119,Natural Causes,53
+Arizona,2017,July,2017-07-03,ASPC FLORENCE,43,M,NA,Cortez,154121,NA,53
+Arizona,2017,June,2017-06-30,ASPC FLORENCE,48,M,NA,Ramirez,169675,Natural Causes,53
+Arizona,2017,June,2017-06-29,ASPC PERRYVILLE,62,F,NA,Arnold,88288,Natural Causes,60
+Arizona,2017,June,2017-06-26,ASPC LEWIS,60,M,NA,Torres,36483,Natural Causes,56
+Arizona,2017,June,2017-06-20,ASPC KINGMAN,49,M,NA,Washburn,78077,NA,55
+Arizona,2017,June,2017-06-20,ASPC LEWIS,37,M,NA,Jensen,242484,NA,56
+Arizona,2017,June,2017-06-19,ASPC FLORENCE,55,M,NA,Becker,182703,NA,53
+Arizona,2017,June,2017-06-16,RED ROCK CORRECTIONAL CENTER,49,M,NA,Slaughter,219254,NA,65
+Arizona,2017,June,2017-06-13,ASPC FLORENCE,77,M,NA,Ramsdell,231248,Natural Causes,53
+Arizona,2017,June,2017-06-09,ASPC LEWIS,40,M,NA,Thompson,138470,NA,56
+Arizona,2017,June,2017-06-09,ASPC FLORENCE,68,M,NA,Barrett,237865,Natural Causes,53
+Arizona,2017,June,2017-06-09,ASPC PHOENIX,45,M,NA,Anzures,93564,NA,63
+Arizona,2017,June,2017-06-09,ASPC TUCSON,73,M,NA,Moore,32480,Natural Causes,70
+Arizona,2017,June,2017-06-06,ASPC EYMAN,79,M,NA,Swartz,199514,Natural Causes,52
+Arizona,2017,June,2017-06-06,ASPC TUCSON,44,M,NA,Rummel,281874,NA,70
+Arizona,2017,June,2017-06-05,ASPC EYMAN,75,M,NA,Marshall,112229,NA,52
+Arizona,2017,June,2017-06-05,ASPC YUMA,44,M,NA,Butler,92465,NA,73
+Arizona,2017,June,2017-06-02,ASPC FLORENCE,75,M,NA,Aviles,178543,Natural Causes,53
+Arizona,2017,May,2017-05-28,ASPC TUCSON,46,M,NA,Carrasco,79851,Natural Causes,70
+Arizona,2017,May,2017-05-23,ASPC PERRYVILLE,51,F,NA,French,293885,Natural Causes,60
+Arizona,2017,May,2017-05-22,ASPC TUCSON,62,M,NA,Chapa,78534,Natural Causes,70
+Arizona,2017,May,2017-05-20,ASPC TUCSON,69,M,NA,Mooney,205252,NA,70
+Arizona,2017,May,2017-05-17,ASPC TUCSON,61,M,NA,Udlinek,215097,Natural Causes,70
+Arizona,2017,May,2017-05-14,ASPC LEWIS,50,M,NA,Scadden,61446,Natural Causes,56
+Arizona,2017,May,2017-05-13,ASPC KINGMAN,61,M,NA,Mills,284401,Suicide,55
+Arizona,2017,May,2017-05-10,ASPC PHOENIX,38,M,NA,Hernandez,166739,NA,63
+Arizona,2017,May,2017-05-08,ASPC EYMAN,60,M,NA,Gonzalez,235043,Suicide,52
+Arizona,2017,May,2017-05-05,ASPC TUCSON,66,M,NA,Albritton,149835,Natural Causes,70
+Arizona,2017,May,2017-05-04,ASPC TUCSON,42,M,NA,Krauss,95781,Suicide,70
+Arizona,2017,May,2017-05-03,ASPC SAFFORD,36,M,NA,Blackwell,281853,NA,67
+Arizona,2017,April,2017-04-26,ASPC YUMA,45,M,NA,Covington,77108,NA,73
+Arizona,2017,April,2017-04-26,ASPC EYMAN,67,M,NA,Gilpin,245202,Natural Causes,52
+Arizona,2017,April,2017-04-25,ASPC TUCSON,70,M,NA,Martinez,118245,NA,70
+Arizona,2017,April,2017-04-23,ASPC LEWIS,27,M,NA,Arvizo,241872,Suicide,56
+Arizona,2017,April,2017-04-23,ASPC FLORENCE,51,M,NA,Menendez,111590,Natural Causes,53
+Arizona,2017,April,2017-04-20,ASPC TUSCON,69,M,NA,Phillips,222421,NA,70
+Arizona,2017,April,2017-04-20,ASPC WINSLOW,63,M,NA,Piechowski,39024,NA,72
+Arizona,2017,April,2017-04-19,ASPC TUCSON,53,M,NA,Guerra,79155,Natural Causes,70
+Arizona,2017,April,2017-04-17,ASPC LEWIS,39,M,NA,Camacho,167996,NA,56
+Arizona,2017,April,2017-04-16,ASPC FLORENCE,71,M,NA,Brink,218029,Natural Causes,53
+Arizona,2017,April,2017-04-16,ASPC TUCSON,44,M,NA,Floyd,293299,NA,70
+Arizona,2017,April,2017-04-14,ASPC FLORENCE,73,M,NA,Smithson,180357,Natural Causes,53
+Arizona,2017,April,2017-04-11,ASPC LEWIS,44,M,NA,Madrid,145605,NA,56
+Arizona,2017,April,2017-04-08,ASPC TUCSON,64,M,NA,Rivera,207437,Natural Causes,70
+Arizona,2017,April,2017-04-03,ASPC FLORENCE,80,M,NA,Geib,247516,Natural Causes,53
+Arizona,2017,April,2017-04-03,ASPC TUCSON,69,M,NA,Clark,33203,Natural Causes,70
+Arizona,2017,March,2017-03-25,ASPC FLORENCE,69,M,NA,Richmond,33415,Natural Causes,53
+Arizona,2017,March,2017-03-23,ASPC EYMAN,71,M,NA,Goff,202998,Natural Causes,52
+Arizona,2017,March,2017-03-23,ASPC FLORENCE,77,M,NA,Miller,255613,Natural Causes,53
+Arizona,2017,March,2017-03-22,ASPC YUMA,53,M,NA,Reyes,61719,NA,73
+Arizona,2017,March,2017-03-15,ASPC FLORENCE,44,M,NA,Navarro,83895,NA,53
+Arizona,2017,March,2017-03-13,ASPC LEWIS,71,M,NA,Dailey,64139,NA,56
+Arizona,2017,March,2017-03-13,ASPC TUCSON,72,M,NA,Quinnert,304235,Natural Causes,70
+Arizona,2017,March,2017-03-09,ASPC TUCSON,31,M,NA,Torres,194565,NA,70
+Arizona,2017,March,2017-03-07,OUT OF STATE,52,M,NA,McCluskey,74469,Natural Causes,NA
+Arizona,2017,March,2017-03-07,ASPC YUMA,53,M,NA,Palacio,58972,NA,73
+Arizona,2017,March,2017-03-06,ASPC LEWIS,70,M,NA,Hunter,44273,Natural Causes,56
+Arizona,2017,March,2017-03-05,ASPC TUCSON,53,M,NA,Bosquez,106794,Natural Causes,70
+Arizona,2017,March,2017-03-04,ASPC FLORENCE,58,M,NA,Shadoan,246516,Natural Causes,53
+Arizona,2017,March,2017-03-03,ASPC PHOENIX,56,M,NA,Moore,121121,NA,63
+Arizona,2017,February,2017-02-24,ASPC TUCSON,57,M,NA,Kosterow,226146,Natural Causes,70
+Arizona,2017,February,2017-02-19,ASPC FLORENCE,55,M,NA,Andersh,213419,Natural Causes,53
+Arizona,2017,February,2017-02-15,ASPC TUCSON,73,M,NA,Vaughn,65728,Natural Causes,70
+Arizona,2017,February,2017-02-15,ASPC EYMAN,31,M,NA,Ortega,NA,NA,52
+Arizona,2017,February,2017-02-14,ASPC WINSLOW,32,M,NA,Butler,226649,NA,72
+Arizona,2017,February,2017-02-09,ASPC FLORENCE,28,M,NA,Beda,262160,NA,53
+Arizona,2017,February,2017-02-09,ASPC EYMAN,48,M,NA,Gallagher,235301,NA,52
+Arizona,2017,January,2017-01-25,ASPC LEWIS,43,M,NA,Dobson,176446,NA,56
+Arizona,2017,January,2017-01-17,ASPC LEWIS,31,M,NA,Wozny,194460,NA,56
+Arizona,2017,January,2017-01-16,ASPC TUCSON,43,M,NA,Celeste,303727,NA,70
+Arizona,2017,January,2017-01-12,CENTRAL ARIZONA CORRECTIONAL FACILITY,69,M,NA,Hernandez,307291,NA,47
