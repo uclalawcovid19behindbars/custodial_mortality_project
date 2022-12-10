@@ -55,7 +55,7 @@ Agencies of interest and status of validation:
 | Texas               | 6 more than BJS (2010)                     | See Texas Justice Initiative for details on potential sources of differences |
 | West Virginia       | 14 more than BJS (2019)                    | Letter sent in Apr - response received - changes made to data (see below)    
 
-Based off responses from agencies, some records were edited to better reflect deaths in custody that occur within carceral facilities (i.e. prisons or jails). Any observations removed from a state's records are contained in the `Edited` folder. Please see data manipulation section for details on which states were edited.
+Based off responses from agencies, some records were edited to better reflect deaths in custody that occur within prison facilities. Any observations removed from a state's records are contained in the `Edited` folder. Please see data manipulation section for details on which states were edited.
 
 ## Types of Manipulation Conducted on Raw Data During Standardization and Analysis
 
