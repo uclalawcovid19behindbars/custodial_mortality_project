@@ -1098,10 +1098,13 @@ interpolate_vera_dem <- function() {
 
 calculate_annual_facility_rate <- function() {
     summary <- summarize_CMP_data()
+    
+    states.w.id <- summary %>% subset(UCLA.ID == 'Yes')
+    
     # Process Death Data
     
     suppressMessages(
-        read.deaths <- states.w.dem$State.Abb %>%
+        read.deaths <- states.w.id$State.Abb %>%
             lapply(., read_CMP_deaths, all.agencies = FALSE) %>%
             rbindlist(fill = TRUE) 
     )
@@ -1156,12 +1159,12 @@ calculate_annual_facility_rate <- function() {
 calculate_monthly_facility_rate <- function() {
     summary <- summarize_CMP_data()
     
-    states.w.dem <- summary %>% subset(UCLA.ID == 'Yes')
+    states.w.id <- summary %>% subset(UCLA.ID == 'Yes')
     
     # Process Death Data
     
     suppressMessages(
-        read.deaths <- states.w.dem$State.Abb %>%
+        read.deaths <- states.w.id$State.Abb %>%
             lapply(., read_CMP_deaths, all.agencies = FALSE) %>%
             rbindlist(fill = TRUE) 
     )
