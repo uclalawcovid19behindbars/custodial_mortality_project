@@ -269,7 +269,7 @@ read_CMP_deaths <- function(all.agencies = FALSE, agencies) {
     if(all.agencies == TRUE) {
     suppressMessages(output.deaths <- all.files %>%
                      read_to_year())
-    print('Summarized by years of data available for all agencies from UCLA')
+    print('Summarized by years of data available for all agencies')
     }
     
     # User wants decedent data from specific states
@@ -392,14 +392,14 @@ read_CMP_dem <- function(all.agencies, agencies) {
                 select(State, State.Abb, Date, Sex.Group, Age.Group, Number, Origin.Type)
     
     if(all.agencies == TRUE){
-        print('Pulling UCLA demographic data for all agencies')
+        print('Pulling CMP demographic data for all agencies')
         dem.out <- dem.pull
     }
     
     if(all.agencies == FALSE){
         input <- agencies
         dem.out <- dem.pull[dem.pull$State.Abb %in% input,]
-        print(str_c('Pulling UCLA demographic data for specific agencies: ', paste0(agencies, collapse = ', ')))
+        print(str_c('Pulling CMP demographic data for specific agencies: ', paste0(agencies, collapse = ', ')))
     }
     
     dem.out
@@ -897,19 +897,31 @@ pull_CMP_age_rate <- function(state) {
 }
 
 pull_CMP_fac_data <- function(death.data) {
-    ucla.fac <- 'https://raw.githubusercontent.com/uclalawcovid19behindbars/facility_data/master/data/fac_data.csv' %>%
-        read_csv() %>%
-        select(-c(State))
-    
     death.cols <- death.data %>%
         colnames()
     
+    suppressWarnings(
+        cmp.facility.data <- 'Crosswalks/CMP_fac_data.csv' %>%
+            read_csv() 
+    )
+    suppressWarnings(
+        hifld.facility.data <- 'Data/External/hifld_prison_boundaries_2022.csv' %>%
+            read_csv() 
+    )
+    suppressWarnings(
+        covid.fac.data <- 'https://raw.githubusercontent.com/uclalawcovid19behindbars/facility_data/master/data/fac_data.csv' %>%
+            read_csv() %>%
+            select(Facility.ID,Jurisdiction, Population.Feb20,Capacity,Source.Population.Feb20,Source.Capacity,Longitude,Latitude)
+    )
+    
     if('UCLA.ID' %in% death.cols) {
         out <- death.data %>%
-            left_join(., ucla.fac, by = c('UCLA.ID' = 'Facility.ID'))
+            left_join(., cmp.facility.data, by = c('UCLA.ID' = 'CMP.ID')) %>% 
+            left_join(., covid.fac.data, by = c('UCLA.ID' = 'Facility.ID')) %>%
+            left_join(.,hifld.facility.data, by = c('HIFLD.ID' = 'FACILITYID'))
         
     } else {
-        print('WARNING: UCLA Facility.IDs have not been integrated into this dataset. Please inspect entered data. Returning original data.')
+        print('WARNING: CMP Facility.IDs have not been integrated into this dataset. Please inspect entered data. Returning original data.')
         out <- death.data
     }
     
@@ -948,7 +960,7 @@ calculate_monthly_rate <- function(pop.source) {
                 group_by(State, Year, Month, Date) %>%
                 summarise(Population = sum(Number, na.rm = TRUE)) %>%
                 group_by(State, Year, Month) %>%
-                summarise(Population = mean(Population))
+                summarise(Avg.Population = round(mean(Population)))
         )
         
     }
@@ -958,28 +970,27 @@ calculate_monthly_rate <- function(pop.source) {
             group_by(State, Year, Month, Date) %>%
             summarise(Population = sum(Population, na.rm = TRUE)) %>%
             group_by(State, Year, Month) %>%
-            summarise(Population = mean(Population)) %>%
-            filter(State %in% states.w.dem$State.Name)
+            summarise(Avg.Population = round(mean(Population))) #%>%
+            #filter(State %in% states.w.dem$State.Name)
         
         
     }
-    
+    states.to.read <- summarize_CMP_data()
+    states.to.read <- states.to.read %>%
+        subset(Month == 'Yes')
+    states.to.read <- states.to.read$State.Abb
     suppressMessages(
-        read.deaths <- states.w.dem$State.Abb %>%
-            lapply(., read_CMP_deaths, all.agencies = FALSE) %>%
-            rbindlist(fill = TRUE) 
+        read.deaths <- read_CMP_deaths(all.agencies = FALSE, agencies = c(states.to.read))
     )
     suppressMessages(
         clean.deaths <- read.deaths %>%
             group_by(State, Year, Month) %>%
-            summarise(Deaths = n())
+            summarise(Total.Deaths = sum(Total.Deaths))
     )
     
     combined <- clean.population %>%
         left_join(., clean.deaths, by = c('State', 'Year', 'Month')) %>%
-        mutate(Rate = Deaths/Population*10000,
-               Deaths = ifelse((Year<=2020)&is.na(Deaths), 0, Deaths),
-               Rate = ifelse((Year<=2020)&is.na(Rate), 0, Rate))  %>%
+        mutate(Rate = Total.Deaths/Avg.Population*10000)  %>%
         arrange(desc(Rate))
     
     return(combined)
@@ -1011,70 +1022,31 @@ calculate_annual_rate <- function(pop.source) {
                 group_by(State, Year, Month, Date) %>%
                 summarise(Population = sum(Number, na.rm = TRUE)) %>%
                 group_by(State, Year) %>%
-                summarise(Population = mean(Population))
+                summarise(Avg.Population = round(mean(Population)))
         )
         
     }
     
     if(pop.source == 'Vera') {
-        states.w.dem <- summary  %>%
-            subset(State != 'No')
         
         clean.population <- interpolate_vera_dem() %>%
             group_by(State, Year, Month, Date) %>%
             summarise(Population = sum(Population, na.rm = TRUE)) %>%
             group_by(State, Year) %>%
-            summarise(Population = mean(Population)) %>%
-            filter(State %in% states.w.dem$State.Name)
-        
+            summarise(Avg.Population = round(mean(Population))) 
         
     }
     # Process Death Data
     
     suppressMessages(
-        read.deaths <- states.w.dem$State.Abb %>%
-            lapply(., read_CMP_deaths, all.agencies = FALSE) %>%
-            rbindlist(fill = TRUE) 
+        read.deaths <- read_CMP_deaths(all.agencies = TRUE)
     )
-    
-    annual.states <- summarize_CMP_data() %>%
-        subset(Month != 'Yes' & Year == 'Yes' & State.Name != 'Wyoming')
-    
-    annual.states <- annual.states$State.Name 
-    other.states <- read.deaths %>%
-        select(State) %>%
-        unique()
-    
-    annual.to.load <- other.states %>%
-        filter(State %in% annual.states)
-    
-    if(length(row.names(annual.to.load)) == 0) {
-        clean.deaths <- read.deaths %>%
-            group_by(State, Year) %>%
-            summarise(Deaths = n())
-    } else {
-    suppressMessages( 
-        clean.deaths.non.annual <- read.deaths %>%
-           filter(!(State %in% annual.states)) %>%
-            group_by(State, Year) %>%
-            summarise(Deaths = n())
-    )
-    suppressMessages( 
-        clean.deaths.annual <- read.deaths %>%
-            filter(State %in% annual.states) %>%
-            group_by(State, Year) %>%
-            summarise(Deaths = sum(Total.Deaths, na.rm = TRUE))
-    )
-    clean.deaths <- clean.deaths.non.annual %>%
-        plyr::rbind.fill(clean.deaths.annual)
-    
-    }
     
     
     combined <- clean.population %>%
-        left_join(., clean.deaths, by = c('State', 'Year')) %>%
-        mutate(Rate = Deaths/Population*10000,
-               Deaths = ifelse((Year<=2020)&is.na(Deaths), 0, Deaths))  %>%
+        left_join(., read.deaths, by = c('State', 'Year')) %>%
+        mutate(Rate = Total.Deaths/Avg.Population*10000)  %>%
+        subset(!is.na(Total.Deaths)) %>%
         arrange(desc(Rate))
     
     return(combined)
@@ -1126,9 +1098,6 @@ interpolate_vera_dem <- function() {
 
 calculate_annual_facility_rate <- function() {
     summary <- summarize_CMP_data()
-    
-    states.w.dem <- summary %>% subset(UCLA.ID == 'Yes')
-    
     # Process Death Data
     
     suppressMessages(
@@ -1138,31 +1107,46 @@ calculate_annual_facility_rate <- function() {
     )
     
     suppressMessages( 
-        clean.deaths.non.annual <- read.deaths %>%
-            #filter(!(State %in% annual.states)) %>%
+        clean.deaths <- read.deaths %>%
             group_by(State, UCLA.ID, Year) %>%
             summarise(Deaths = n())
     )
     
-    
-    clean.deaths <- clean.deaths.non.annual 
-    
     suppressWarnings(
-        ucla.facility.data <- 'https://raw.githubusercontent.com/uclalawcovid19behindbars/facility_data/master/data/fac_data.csv' %>%
+        cmp.facility.data <- 'Crosswalks/CMP_fac_data.csv' %>%
+            read_csv() 
+    )
+    suppressWarnings(
+        hifld.facility.data <- 'Data/External/hifld_prison_boundaries_2022.csv' %>%
+            read_csv() 
+    )
+    suppressWarnings(
+        covid.fac.data <- 'https://raw.githubusercontent.com/uclalawcovid19behindbars/facility_data/master/data/fac_data.csv' %>%
             read_csv() %>%
-            select(-c(State))
+            select(Facility.ID,Jurisdiction, Population.Feb20,Capacity,Source.Population.Feb20,Source.Capacity,Longitude,Latitude)
     )
     
     out.deaths <- clean.deaths %>%
-        left_join(., ucla.facility.data, by = c('UCLA.ID' = 'Facility.ID')) %>% 
-        subset(!is.na(Name)) %>%
-        mutate(Capacity.Rate = Population.Feb20/Capacity,
+        left_join(., cmp.facility.data, by = c('UCLA.ID' = 'CMP.ID')) %>% 
+        left_join(., covid.fac.data, by = c('UCLA.ID' = 'Facility.ID')) %>%
+        left_join(.,hifld.facility.data, by = c('HIFLD.ID' = 'FACILITYID')) %>%
+        subset(!is.na(HIFLD.NAME)) %>%
+        mutate(POPULATION = ifelse(POPULATION <0, NA, POPULATION),
+               CAPACITY = ifelse(CAPACITY <0, NA, CAPACITY),
+               HIFLD.Capacity.Ratio = POPULATION/CAPACITY,
                #Name = ifelse(is.na(Name), 'ALL NON MATCHING FACILITIES TO UCLA', Name),
-               Mortality.Rate.Pop = Deaths/Population.Feb20*10000,
-               Mortality.Rate.Cap = Deaths/Capacity*10000,
+               HIFLD.Mortality.Rate.Pop = Deaths/POPULATION*10000,
+               HIFLD.Mortality.Rate.Cap = Deaths/CAPACITY*10000,
+               Feb20.Mortality.Rate.Pop = Deaths/Population.Feb20*10000,
                UCLA.ID = as.character(UCLA.ID)) %>%
-        select(State, Year, UCLA.ID, Name, Deaths, Population.Feb20, Capacity, Capacity.Rate, Mortality.Rate.Pop, Mortality.Rate.Cap, Description, Security, Latitude, Longitude) %>%
-        arrange(desc(Mortality.Rate.Pop))
+        select(State, Year, UCLA.ID, NAME, Deaths, 
+               POPULATION, CAPACITY, Population.Feb20, Capacity, 
+               HIFLD.Capacity.Ratio, HIFLD.Mortality.Rate.Pop, HIFLD.Mortality.Rate.Cap, 
+               Feb20.Mortality.Rate.Pop,
+               SECURELVL, TYPE) %>%
+        rename('HIFLD.Population' = 'POPULATION',
+               'HIFLD.Capacity' = 'CAPACITY') %>%
+        arrange(desc(Feb20.Mortality.Rate.Pop))
     
     
     return(out.deaths)
@@ -1183,31 +1167,45 @@ calculate_monthly_facility_rate <- function() {
     )
     
     suppressMessages( 
-        clean.deaths.non.annual <- read.deaths %>%
-            #filter(!(State %in% annual.states)) %>%
+        clean.deaths <- read.deaths %>%
             group_by(State, UCLA.ID, Year, Month) %>%
             summarise(Deaths = n())
     )
-    
-    
-    clean.deaths <- clean.deaths.non.annual 
-    
     suppressWarnings(
-        ucla.facility.data <- 'https://raw.githubusercontent.com/uclalawcovid19behindbars/facility_data/master/data/fac_data.csv' %>%
+        cmp.facility.data <- 'Crosswalks/CMP_fac_data.csv' %>%
+            read_csv() 
+    )
+    suppressWarnings(
+        hifld.facility.data <- 'Data/External/hifld_prison_boundaries_2022.csv' %>%
+            read_csv() 
+    )
+    suppressWarnings(
+        covid.fac.data <- 'https://raw.githubusercontent.com/uclalawcovid19behindbars/facility_data/master/data/fac_data.csv' %>%
             read_csv() %>%
-            select(-c(State))
+            select(Facility.ID,Jurisdiction, Population.Feb20,Capacity,Source.Population.Feb20,Source.Capacity,Longitude,Latitude)
     )
     
     out.deaths <- clean.deaths %>%
-        left_join(., ucla.facility.data, by = c('UCLA.ID' = 'Facility.ID')) %>% 
-        subset(!is.na(Name)) %>%
-        mutate(Capacity.Rate = Population.Feb20/Capacity,
+        left_join(., cmp.facility.data, by = c('UCLA.ID' = 'CMP.ID')) %>% 
+        left_join(., covid.fac.data, by = c('UCLA.ID' = 'Facility.ID')) %>%
+        left_join(.,hifld.facility.data, by = c('HIFLD.ID' = 'FACILITYID')) %>%
+        subset(!is.na(HIFLD.NAME)) %>%
+        mutate(POPULATION = ifelse(POPULATION <0, NA, POPULATION),
+               CAPACITY = ifelse(CAPACITY <0, NA, CAPACITY),
+               HIFLD.Capacity.Ratio = POPULATION/CAPACITY,
                #Name = ifelse(is.na(Name), 'ALL NON MATCHING FACILITIES TO UCLA', Name),
-               Mortality.Rate.Pop = Deaths/Population.Feb20*10000,
-               Mortality.Rate.Cap = Deaths/Capacity*10000,
+               HIFLD.Mortality.Rate.Pop = Deaths/POPULATION*10000,
+               HIFLD.Mortality.Rate.Cap = Deaths/CAPACITY*10000,
+               Feb20.Mortality.Rate.Pop = Deaths/Population.Feb20*10000,
                UCLA.ID = as.character(UCLA.ID)) %>%
-        select(State, Year, Month, UCLA.ID, Name, Deaths, Population.Feb20, Capacity, Capacity.Rate, Mortality.Rate.Pop, Mortality.Rate.Cap, Description, Security, Latitude, Longitude) %>%
-        arrange(desc(Mortality.Rate.Pop))
+        select(State, Year, Month, UCLA.ID, NAME, Deaths, 
+               POPULATION, CAPACITY, Population.Feb20, Capacity, 
+               HIFLD.Capacity.Ratio, HIFLD.Mortality.Rate.Pop, HIFLD.Mortality.Rate.Cap, 
+               Feb20.Mortality.Rate.Pop,
+               SECURELVL, TYPE) %>%
+        rename('HIFLD.Population' = 'POPULATION',
+               'HIFLD.Capacity' = 'CAPACITY') %>%
+        arrange(desc(Feb20.Mortality.Rate.Pop))
     
     
     return(out.deaths)
