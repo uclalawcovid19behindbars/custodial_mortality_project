@@ -94,11 +94,15 @@ Note on deaths due to executions: Reported deaths due to execution are not remov
 
 ## Structure and Organization of Data Files
 
-This repository is broken into four primary folders: `Code`, `Data`, `Documents`, and `Graphics`.
+This repository is broken into four primary folders: `Code`, `Crosswalks`, `Data`, `Documents`, and `Graphics`.
 
 ### Code 
 
 This folder contains an R script titled 'general_utilities.' This script contains utility functions to help users load death and demographic data, harmonize death data to available demographic data, and compare aggregate totals from records collected here to reports on deaths in prisons formerly reported by the Bureau of Justice Statistics in 'Mortality in Correctional Institutions' (MCI) and 'National Prisoner Statistics' (NPS) reports.
+
+### Crosswalks
+
+This folder contains a crosswalk of IDs for carceral facilities with reported deaths that link each facility to population, capacity and other contextual information contained in public records and DHS and DOJ datasets.
 
 ### Data
 
@@ -108,11 +112,12 @@ The `External` sub-folder contains archived datasets from the Bureau of Justice 
 
 | Dataset                        | Source                                         | Description                                                     |
 |--------------------------------|------------------------------------------------|-----------------------------------------------------------------|
-| `msfp0119stt14.csv`            | BJS, MCI Reports (2000-2019)                   | Totals of deaths of state and federal prisoners (unprocessed)   |
-| `msfp0119stt14_cleaned.csv`    | BJS, MCI Reports (2000-2019)                   | Same as above, processed for easy loading and comparison        |
-| `p20stt09.csv`                 | BJS, NPS Reports (2019-2020)                   | Releases of state and federal sentenced prisoners (unprocessed) |
-| `p20stt09_cleaned.csv`         | BJS, NPS Reports (2019-2020)                   | Same as above, processed for easy loading and comparison        |
-| `vera_pjp_s2021_appendix.csv`  | Vera, People in Prisons and Jails Spring 2021  | Counts of state and federal prisoners                           
+| `msfp0119stt14.csv`               | BJS, MCI Reports (2000-2019)                | Totals of deaths of state and federal prisoners (unprocessed)   |
+| `msfp0119stt14_cleaned.csv`       | BJS, MCI Reports (2000-2019)                | Same as above, processed for easy loading and comparison        |
+| `p20stt09.csv`                    | BJS, NPS Reports (2019-2020)                | Releases of state and federal sentenced prisoners (unprocessed) |
+| `p20stt09_cleaned.csv`            | BJS, NPS Reports (2019-2020)                | Same as above, processed for easy loading and comparison        |
+| `vera_pjp_s2021_appendix.csv`     | Vera, People in Prisons and Jails Spr 2021  | Counts of state and federal prisoners                           |
+| `hifld_prison_boundaries_2022.csv`| DHS, HIFLD Prison Boundaries Data           | DHS ensus of carceral facilities conducted
 
 The `Other` sub-folder contains data on deaths in custody which are not from state prisons (e.g. recorded deaths in county and local facilities), data on executions for comparison with reported mortality data, and data on deaths in federal prisons and detention centers (e.g. deaths in BoP and ICE facilities). Since this dataset is currently focused on recording custodial deaths and demographics in state prisons, these files are located in a separate folder from the repository's primary data.
 
