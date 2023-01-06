@@ -1126,7 +1126,7 @@ calculate_annual_facility_rate <- function() {
     suppressWarnings(
         covid.fac.data <- 'https://raw.githubusercontent.com/uclalawcovid19behindbars/facility_data/master/data/fac_data.csv' %>%
             read_csv() %>%
-            select(Facility.ID,Jurisdiction, Population.Feb20,Capacity,Source.Population.Feb20,Source.Capacity,Longitude,Latitude)
+            select(Facility.ID,Jurisdiction, Population.Feb20,Capacity,Source.Population.Feb20,Source.Capacity,Longitude,Latitude, Description)
     )
     
     out.deaths <- clean.deaths %>%
@@ -1146,7 +1146,8 @@ calculate_annual_facility_rate <- function() {
                POPULATION, CAPACITY, Population.Feb20, Capacity, 
                HIFLD.Capacity.Ratio, HIFLD.Mortality.Rate.Pop, HIFLD.Mortality.Rate.Cap, 
                Feb20.Mortality.Rate.Pop,
-               SECURELVL, TYPE) %>%
+               SECURELVL, TYPE, Description, Source.Population.Feb20, 
+               COUNTY, COUNTYFIPS, Longitude, Latitude) %>%
         rename('HIFLD.Population' = 'POPULATION',
                'HIFLD.Capacity' = 'CAPACITY') %>%
         arrange(desc(Feb20.Mortality.Rate.Pop))
@@ -1185,7 +1186,7 @@ calculate_monthly_facility_rate <- function() {
     suppressWarnings(
         covid.fac.data <- 'https://raw.githubusercontent.com/uclalawcovid19behindbars/facility_data/master/data/fac_data.csv' %>%
             read_csv() %>%
-            select(Facility.ID,Jurisdiction, Population.Feb20,Capacity,Source.Population.Feb20,Source.Capacity,Longitude,Latitude)
+            select(Facility.ID,Jurisdiction, Population.Feb20,Capacity,Source.Population.Feb20,Source.Capacity,Longitude,Latitude, Description)
     )
     
     out.deaths <- clean.deaths %>%
@@ -1205,7 +1206,8 @@ calculate_monthly_facility_rate <- function() {
                POPULATION, CAPACITY, Population.Feb20, Capacity, 
                HIFLD.Capacity.Ratio, HIFLD.Mortality.Rate.Pop, HIFLD.Mortality.Rate.Cap, 
                Feb20.Mortality.Rate.Pop,
-               SECURELVL, TYPE) %>%
+               SECURELVL, TYPE, Description, Source.Population.Feb20, 
+               COUNTY, COUNTYFIPS, Longitude, Latitude) %>%
         rename('HIFLD.Population' = 'POPULATION',
                'HIFLD.Capacity' = 'CAPACITY') %>%
         arrange(desc(Feb20.Mortality.Rate.Pop))
