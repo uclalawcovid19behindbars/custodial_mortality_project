@@ -839,7 +839,7 @@ interpolate_CMP_dem <- function(demographics) {
     out <- demographics %>%
         #mutate(Date = as.Date(Date, format = '%Y-%m-%d')) %>%
         arrange(Date) %>%
-        complete(Sex, Standard.Groups, Date = seq.Date(start.date, end.date, by = 'day')) %>%
+        tidyr::complete(Sex, Standard.Groups, Date = seq.Date(start.date, end.date, by = 'day')) %>%
         arrange(Date) %>%
         group_by(Sex, Standard.Groups) %>%
         mutate(Number = na.approx(Number, na.rm = FALSE),
@@ -1080,7 +1080,7 @@ interpolate_vera_dem <- function() {
             ) %>%
             select(State.Abb, State, Date, Population) %>%
             arrange(State, Date) %>%
-            complete(State, Date = seq(as.Date('2018-12-31', format = '%Y-%m-%d'), 
+            tidyr::complete(State, Date = seq(as.Date('2018-12-31', format = '%Y-%m-%d'), 
                                        as.Date('2021-04-01', format = '%Y-%m-%d'),
                                        by = 'day')) %>%
             group_by(State) %>%
