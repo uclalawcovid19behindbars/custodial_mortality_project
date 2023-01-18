@@ -6,7 +6,7 @@ The [UCLA Law COVID Behind Bars Data Project](https://uclacovidbehindbars.org/),
 
 ## Purpose of Data Collection
 
-To better monitor the health conditions behind bars, the project began gathering data on all-cause deaths in U.S. prisons in June 2020. Because prison agencies report different records on deaths in custody, the project has attempted to standardize records into similar variables so the public can compare what information agencies make available and analyze the data they do release. The project intends this repository to function as a tool for the public and researchers to better understand the phenomenon of deaths in custody and assist policymakers in developing strategies to reduce their occurence. In particular, the project hopes this database helps support the full implementation of the Death in Custody Reporting Act [link to bill](https://www.congress.gov/bill/113th-congress/house-bill/1447/text) by supplementing 'Mortality in Correctional Instiutions' reports, which were produced by the U.S. Department of Justice up until 2019, and assisting efforts to study (1) how this data may be used to reduce the number of deaths in custody, and (2) how carceral facility management practices may contribute to deaths in custody.
+To better monitor the health conditions behind bars, the project began gathering data on all-cause deaths in U.S. prisons in June 2020. Because prison agencies report different records on deaths in custody, the project has attempted to standardize records into similar variables so the public can compare what information agencies make available and study the data they do release. The project intends this repository to function as a tool for the public and researchers to better understand the drivers of deaths in custody and assist policymakers in developing strategies to reduce their occurence. In particular, the project hopes this database helps support the full implementation of the Death in Custody Reporting Act [link to bill](https://www.congress.gov/bill/113th-congress/house-bill/1447/text) by supplementing 'Mortality in Correctional Instiutions' reports, which were produced by the U.S. Department of Justice up until 2019, and assisting efforts to study (1) how this data may be used to reduce the number of deaths in custody, and (2) how carceral facility management practices may contribute to deaths in custody.
 
 ## Data Collection Procedures
 
@@ -207,7 +207,7 @@ ggplot() +
     
 # Calculate monthly crude mortality rate from available data
 # Options: set pop.source to 'Vera' or 'UCLA' (N.B. some interpolation of total population numbers for agencies is conducted in these functions and total population numbers do not necessarily reflect a number actually reported by an agency. Please see the interpolation functions in the `general_utilities.R` file for more context on how this data is produced)
-calculate_monthly_rate('UCLA')
+calculate_monthly_rate('Vera')
 
 monthly.rate <- calculate_monthly_rate(pop.source = 'Vera') %>%
     mutate(Date = as.Date(str_c(Year, '-', Month, '-01'), format = '%Y-%B-%d'))
@@ -218,7 +218,7 @@ ggplot() +
 
 # Calculate annual crude mortality rate from available data
 # Options: set pop.source to 'Vera' or 'UCLA' (N.B. some interpolation of total population numbers for agencies is conducted in these functions and total population numbers do not necessarily reflect a number actually reported by an agency. Please see the interpolation functions in the `general_utilities.R` file for more context on how this data is produced)
-calculate_annual_rate('UCLA')
+calculate_annual_rate('Vera')
 
 annual.rate <- calculate_annual_rate(pop.source = 'Vera') 
 
