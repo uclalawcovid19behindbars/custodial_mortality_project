@@ -207,7 +207,7 @@ ggplot() +
     
 # Calculate monthly crude mortality rate from available data
 # Options: set pop.source to 'Vera' or 'UCLA' (N.B. some interpolation of total population numbers for agencies is conducted in these functions and total population numbers do not necessarily reflect a number actually reported by an agency. Please see the interpolation functions in the `general_utilities.R` file for more context on how this data is produced).
-# Output Note: The Avg.Population field is calculated by taking the monthly average of daily population numbers interpolated from available dates of population data from the source selection (i.e. Vera or UCLA). These numbers may be different from population denominators contained in the output summary files which use Vera prison population data from June 2018, June 2019, June 2020, and April 2021.
+# Output Note: The Avg.Population field is calculated by taking the monthly average of daily population numbers interpolated from available dates of population data from the source selection (i.e. Vera or UCLA). These numbers may be different from population denominators contained in the output summary files which use Vera prison population data from June 2018, June 2019, June 2020, and April 2021. Monthly rate observations for agencies that are NA represent months for which there were no deaths or months for which the project has yet to collect data.
 calculate_monthly_rate('Vera')
 
 monthly.rate <- calculate_monthly_rate(pop.source = 'Vera') %>%
