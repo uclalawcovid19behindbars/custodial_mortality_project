@@ -885,7 +885,7 @@ pull_CMP_age_rate <- function(state) {
     out <- join %>%
         group_by(Date, Standard.Groups) %>%
         summarise_all(sum) %>%
-        mutate(Rate = Deaths/Population*100000,
+        mutate(Rate = Deaths/Population*10000,
                State.Abb = state) %>%
         arrange(desc(Rate)) %>%
         select(State.Abb, everything())

@@ -24,7 +24,7 @@ UCLA obtains custodial decedent data for Texas state prisons from the Texas Just
 
 Link to TJI custodial death dataset: https://texasjusticeinitiative.org/datasets/custodial-deaths
 
-Some processing of the files takes place, including the selection of corresponding variables and linking data to UCLA datasets. The project used address information provided by TJI to crosswalk facility information to deaths. The crosswalk containing which facilities were joined to address spellings is currently saved in this documentation folder as `tdcj_tji_address_crosswalk.csv.` Data was last pulled from TJI in July 2022 and data files we clipped to only contain deaths for full years (i.e. up to 2021).
+Some processing of the files takes place, including the selection of corresponding variables and linking data to project datasets. TJI's deaths-in-custody data files were subset to 'TDCJ' observations in the 'specific_type_of_custody_facility' field. The project used address information provided by TJI to crosswalk facility information to deaths. The crosswalk containing which facilities were joined to address spellings is currently saved in this documentation folder as `tdcj_tji_address_crosswalk.csv.` Data was last pulled from TJI in July 2022 and data files were clipped to only contain deaths for full years (i.e. up to 2021).
 
 ```{r}
 # Load TX decedent data
