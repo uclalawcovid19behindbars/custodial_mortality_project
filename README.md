@@ -71,13 +71,13 @@ Reasons for differences and manipulation steps:
 | Colorado      | CDOC reported more types of deaths to BJS than deaths in CO prisons (i.e. fugitives, supervision programs)| None                     |
 | Florida       | Problem with listed date of death for roster data source                                                  | Different data source used|
 | Georgia       | Undetermined                                                                                              | None                     |
-| Hawaii        | Error in agency reporting to BJS - Agency is correcting this issue                                        | None                     |
+| Hawaii        | Issue in agency reporting to BJS - Agency is correcting this issue                                        | None                     |
 | Louisiana     | Potentially differences in LDPS reporting post-conviction deaths in jails - see Incarceration Transparency| None                     |
 | Maryland      | MDPS also provided deaths in 'Home Detention Units' and pre-trial facilities                              | Observations removed     |
 | Missouri      | Undetermined                                                                                              | None                     |
 | Nevada        | Undetermined                                                                                              | None                     |
 | Oklahoma      | Undetermined                                                                                              | None                     |
-| Oregon        | Error in agency reporting to BJS                                                                          | None                     |
+| Oregon        | Issue in agency reporting to BJS                                                                          | None                     |
 | Pennsylvania  | Undetermined                                                                                              | None                     |
 | Texas         | Potentially differences in which facility deaths are reported to BJS - see Texas Justice Initiative       | None                     |
 | West Virginia | WVDCR oversees prisons and jails - when jails are removed, annual totals are more similar                 | Jail observations removed
@@ -206,7 +206,8 @@ ggplot() +
     pull_CMP_fac_data()
     
 # Calculate monthly crude mortality rate from available data
-# Options: set pop.source to 'Vera' or 'UCLA' (N.B. some interpolation of total population numbers for agencies is conducted in these functions and total population numbers do not necessarily reflect a number actually reported by an agency. Please see the interpolation functions in the `general_utilities.R` file for more context on how this data is produced)
+# Options: set pop.source to 'Vera' or 'UCLA' (N.B. some interpolation of total population numbers for agencies is conducted in these functions and total population numbers do not necessarily reflect a number actually reported by an agency. Please see the interpolation functions in the `general_utilities.R` file for more context on how this data is produced).
+# Output Note: The Avg.Population field is calculated by taking the monthly average of daily population numbers interpolated from available dates of population data from the source selection (i.e. Vera or UCLA). These numbers may be different from population denominators contained in the output summary files which use Vera prison population data from June 2018, June 2019, June 2020, and April 2021.
 calculate_monthly_rate('Vera')
 
 monthly.rate <- calculate_monthly_rate(pop.source = 'Vera') %>%
@@ -217,7 +218,8 @@ ggplot() +
     facet_wrap(~ State) 
 
 # Calculate annual crude mortality rate from available data
-# Options: set pop.source to 'Vera' or 'UCLA' (N.B. some interpolation of total population numbers for agencies is conducted in these functions and total population numbers do not necessarily reflect a number actually reported by an agency. Please see the interpolation functions in the `general_utilities.R` file for more context on how this data is produced)
+# Options: set pop.source to 'Vera' or 'UCLA' (N.B. some interpolation of total population numbers for agencies is conducted in these functions and total population numbers do not necessarily reflect a number actually reported by an agency. Please see the interpolation functions in the `general_utilities.R` file for more context on how this data is produced).
+# Output Note: The Avg.Population field is calculated by taking the annual average of daily population numbers interpolated from available dates of population data from the source selection (i.e. Vera or UCLA). These numbers may be different from population denominators contained in the output summary files which use Vera prison population data from June 2018, June 2019, June 2020, and April 2021.
 calculate_annual_rate('Vera')
 
 annual.rate <- calculate_annual_rate(pop.source = 'Vera') 
