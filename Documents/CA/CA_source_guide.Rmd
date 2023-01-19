@@ -24,8 +24,7 @@ UCLA obtains custodial decedent data for California state prisons from the Calif
 
 Link to data portal: https://openjustice.doj.ca.gov/data
 
-Some processing of the files takes place, including the selection of CDCR observations and corresponding variables and linking data 
-to UCLA datasets. 
+Some processing of the files takes place, including the selection of CDCR observations and corresponding variables and linking data to UCLA datasets. Data was last pulled from CA DOJ in July 2022 and data files we clipped to only contain deaths for full years (i.e. up to 2020).
 
 ```{r}
 # Load CA decedent data
