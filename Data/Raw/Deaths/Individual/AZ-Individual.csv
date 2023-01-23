@@ -1,4 +1,4 @@
-State,Year,Month,Death.Date,Facility,Death.Age,Sex,Full.Name,Last.Name,ID.No,Circumstance.General,UCLA.ID
+State,Year,Month,Death.Date,Facility,Death.Age,Sex,Full.Name,Last.Name,ID.No,Circumstance.General,CMP.ID
 Arizona,2020,December,2020-12-31,ASPC YUMA,72,M,Jose Mendez-Lovio,NA,337807,NA,73
 Arizona,2020,December,2020-12-30,ASPC PHOENIX WEST,60,M,Raymond Charles,NA,131392,NA,63
 Arizona,2020,December,2020-12-30,ASPC EYMAN,47,M,Keith Lewis,NA,87820,NA,52

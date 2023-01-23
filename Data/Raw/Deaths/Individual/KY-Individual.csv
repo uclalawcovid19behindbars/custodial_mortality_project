@@ -1,4 +1,4 @@
-State,Year,Month,Death.Date,Facility,Location,Full.Name,Sex,Race,Death.Age,Circumstance.Specific,UCLA.ID
+State,Year,Month,Death.Date,Facility,Location,Full.Name,Sex,Race,Death.Age,Circumstance.Specific,CMP.ID
 Kentucky,2018,January,2018-01-04,NA,NA,"Robbins, Mark",M,NA,NA,NA,NA
 Kentucky,2018,January,2018-01-04,NA,NA,"Coontz, Billy",M,NA,NA,NA,NA
 Kentucky,2018,January,2018-01-07,NA,NA,"Parr, Roosevelt",M,NA,NA,NA,NA

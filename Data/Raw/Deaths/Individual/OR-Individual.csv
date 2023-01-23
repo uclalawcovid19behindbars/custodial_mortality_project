@@ -1,4 +1,4 @@
-State,Year,Month,Death.Date,Facility,Last.Name,First.Name,Death.Age,Sex,Race,ID.No,Location,UCLA.ID
+State,Year,Month,Death.Date,Facility,Last.Name,First.Name,Death.Age,Sex,Race,ID.No,Location,CMP.ID
 Oregon,2015,January,2015-01-04,EOCI,GROAT,RONALD,72,M,Caucasian,11136360,E237B,1138
 Oregon,2015,January,2015-01-09,CRCI,MABREY,CHRISTOPHER,50,M,Caucasian,10177622,DS-04B,1136
 Oregon,2015,February,2015-02-15,TRCI,PARDEE,STEVE,66,M,Caucasian,16636185,INF05,1150

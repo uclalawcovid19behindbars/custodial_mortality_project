@@ -1,4 +1,4 @@
-State,Year,Month,Death.Date,Facility,ID.No,Last.Name,First.Name,Death.Age,Sex,Race,Ethnicity,Circumstance.General,Circumstance.Specific,Location,UCLA.ID
+State,Year,Month,Death.Date,Facility,ID.No,Last.Name,First.Name,Death.Age,Sex,Race,Ethnicity,Circumstance.General,Circumstance.Specific,Location,CMP.ID
 Montana,2015,January,2015-01-14,LEWISTOWN INFIRMARY,3004141,Whitwell,Harb,73,M,NA,NA,Natural Causes,Atherosclerotic heart disease,Lewistown Infirmary,NA
 Montana,2015,February,2015-02-11,DEER LODGE MEDICAL CENTER,3005579,Weaver,William,56,M,NA,NA,Natural Causes,Severe Septis - Pneumonia,Deer Lodge Medical Center,NA
 Montana,2015,March,2015-03-01,CROSSROADS CORRECTIONAL CENTER,37397,Miller,Tyler,39,M,NA,NA,Suicide,Suicide suffocation,Crossroads Correctional Center,778

@@ -679,7 +679,7 @@ summarize_CMP_state <- function(state) {
                                 'Facility', 'Full.Name', 'Last.Name', 'First.Name',
                                 'ID.No', 'Sex', 'Race', 'Ethnicity', 'DoB', 'DoB.Year',
                                 'Death.Age', 'Circumstance.General', 'Circumstance.Specific', 'Circumstance.Other',
-                                'Location', 'Total.Deaths', 'UCLA.ID')
+                                'Location', 'Total.Deaths', 'CMP.ID')
         
         sapply(variables.to.check, check_variable, columns = state.variables)
         
@@ -745,7 +745,7 @@ summarize_CMP_state <- function(state) {
         Circumstance.Other <- 'No'
         Location <- 'No'
         Total.Deaths <- 'No'
-        UCLA.ID <- 'No'
+        CMP.ID <- 'No'
         Deaths.Start <- 'No Data'
         Deaths.End <- 'No Data'
         Deaths.Interval <- 'No Data'
@@ -755,7 +755,7 @@ summarize_CMP_state <- function(state) {
                                 Facility, Full.Name, Last.Name, First.Name,
                                 ID.No, Sex, Race, Ethnicity, DoB, DoB.Year,
                                 Death.Age, Circumstance.General, Circumstance.Specific, Circumstance.Other,
-                                Location, Total.Deaths, UCLA.ID, Deaths.Start, Deaths.End, Deaths.Interval)
+                                Location, Total.Deaths, CMP.ID, Deaths.Start, Deaths.End, Deaths.Interval)
     
     if(dem.file.test == 0) {
         ## Summarize Decedent Info in Absent
@@ -914,10 +914,10 @@ pull_CMP_fac_data <- function(death.data) {
             select(Facility.ID,Jurisdiction, Population.Feb20,Capacity,Source.Population.Feb20,Source.Capacity,Longitude,Latitude)
     )
     
-    if('UCLA.ID' %in% death.cols) {
+    if('CMP.ID' %in% death.cols) {
         out <- death.data %>%
-            left_join(., cmp.facility.data, by = c('UCLA.ID' = 'CMP.ID')) %>% 
-            left_join(., covid.fac.data, by = c('UCLA.ID' = 'Facility.ID')) %>%
+            left_join(., cmp.facility.data, by = c('CMP.ID' = 'CMP.ID')) %>% 
+            left_join(., covid.fac.data, by = c('CMP.ID' = 'Facility.ID')) %>%
             left_join(.,hifld.facility.data, by = c('HIFLD.ID' = 'FACILITYID'))
         
     } else {
@@ -1100,7 +1100,7 @@ interpolate_vera_dem <- function() {
 calculate_annual_facility_rate <- function() {
     summary <- summarize_CMP_data()
     
-    states.w.id <- summary %>% subset(UCLA.ID == 'Yes')
+    states.w.id <- summary %>% subset(CMP.ID == 'Yes')
     
     # Process Death Data
     
@@ -1112,7 +1112,7 @@ calculate_annual_facility_rate <- function() {
     
     suppressMessages( 
         clean.deaths <- read.deaths %>%
-            group_by(State, UCLA.ID, Year) %>%
+            group_by(State, CMP.ID, Year) %>%
             summarise(Deaths = n())
     )
     
@@ -1131,8 +1131,8 @@ calculate_annual_facility_rate <- function() {
     )
     
     out.deaths <- clean.deaths %>%
-        left_join(., cmp.facility.data, by = c('UCLA.ID' = 'CMP.ID')) %>% 
-        left_join(., covid.fac.data, by = c('UCLA.ID' = 'Facility.ID')) %>%
+        left_join(., cmp.facility.data, by = c('CMP.ID' = 'CMP.ID')) %>% 
+        left_join(., covid.fac.data, by = c('CMP.ID' = 'Facility.ID')) %>%
         left_join(.,hifld.facility.data, by = c('HIFLD.ID' = 'FACILITYID')) %>%
         subset(!is.na(HIFLD.NAME)) %>%
         mutate(POPULATION = ifelse(POPULATION <0, NA, POPULATION),
@@ -1142,8 +1142,8 @@ calculate_annual_facility_rate <- function() {
                HIFLD.Mortality.Rate.Pop = Deaths/POPULATION*10000,
                HIFLD.Mortality.Rate.Cap = Deaths/CAPACITY*10000,
                Feb20.Mortality.Rate.Pop = Deaths/Population.Feb20*10000,
-               UCLA.ID = as.character(UCLA.ID)) %>%
-        select(State, Year, UCLA.ID, NAME, Deaths, 
+               CMP.ID = as.character(CMP.ID)) %>%
+        select(State, Year, CMP.ID, NAME, Deaths, 
                POPULATION, CAPACITY, Population.Feb20, Capacity, 
                HIFLD.Capacity.Ratio, HIFLD.Mortality.Rate.Pop, HIFLD.Mortality.Rate.Cap, 
                Feb20.Mortality.Rate.Pop,
@@ -1151,8 +1151,10 @@ calculate_annual_facility_rate <- function() {
                COUNTY, COUNTYFIPS, Longitude, Latitude) %>%
         rename('HIFLD.Population' = 'POPULATION',
                'HIFLD.Capacity' = 'CAPACITY') %>%
-        arrange(desc(Feb20.Mortality.Rate.Pop))
-    
+        arrange(desc(Feb20.Mortality.Rate.Pop)) %>%
+        mutate(remove = ifelse(State=='Texas'&Year<2013, 'Yes', 'No')) %>%
+        subset(remove=='No') %>% #There are many missing values for addresses in TDCJ data before 2013
+        select(-c(remove))
     
     return(out.deaths)
     
@@ -1161,7 +1163,7 @@ calculate_annual_facility_rate <- function() {
 calculate_monthly_facility_rate <- function() {
     summary <- summarize_CMP_data()
     
-    states.w.id <- summary %>% subset(UCLA.ID == 'Yes')
+    states.w.id <- summary %>% subset(CMP.ID == 'Yes')
     
     # Process Death Data
     
@@ -1173,7 +1175,7 @@ calculate_monthly_facility_rate <- function() {
     
     suppressMessages( 
         clean.deaths <- read.deaths %>%
-            group_by(State, UCLA.ID, Year, Month) %>%
+            group_by(State, CMP.ID, Year, Month) %>%
             summarise(Deaths = n())
     )
     suppressWarnings(
@@ -1191,8 +1193,8 @@ calculate_monthly_facility_rate <- function() {
     )
     
     out.deaths <- clean.deaths %>%
-        left_join(., cmp.facility.data, by = c('UCLA.ID' = 'CMP.ID')) %>% 
-        left_join(., covid.fac.data, by = c('UCLA.ID' = 'Facility.ID')) %>%
+        left_join(., cmp.facility.data, by = c('CMP.ID' = 'CMP.ID')) %>% 
+        left_join(., covid.fac.data, by = c('CMP.ID' = 'Facility.ID')) %>%
         left_join(.,hifld.facility.data, by = c('HIFLD.ID' = 'FACILITYID')) %>%
         subset(!is.na(HIFLD.NAME)) %>%
         mutate(POPULATION = ifelse(POPULATION <0, NA, POPULATION),
@@ -1202,8 +1204,8 @@ calculate_monthly_facility_rate <- function() {
                HIFLD.Mortality.Rate.Pop = Deaths/POPULATION*10000,
                HIFLD.Mortality.Rate.Cap = Deaths/CAPACITY*10000,
                Feb20.Mortality.Rate.Pop = Deaths/Population.Feb20*10000,
-               UCLA.ID = as.character(UCLA.ID)) %>%
-        select(State, Year, Month, UCLA.ID, NAME, Deaths, 
+               CMP.ID = as.character(CMP.ID)) %>%
+        select(State, Year, Month, CMP.ID, NAME, Deaths, 
                POPULATION, CAPACITY, Population.Feb20, Capacity, 
                HIFLD.Capacity.Ratio, HIFLD.Mortality.Rate.Pop, HIFLD.Mortality.Rate.Cap, 
                Feb20.Mortality.Rate.Pop,
@@ -1211,8 +1213,10 @@ calculate_monthly_facility_rate <- function() {
                COUNTY, COUNTYFIPS, Longitude, Latitude) %>%
         rename('HIFLD.Population' = 'POPULATION',
                'HIFLD.Capacity' = 'CAPACITY') %>%
-        arrange(desc(Feb20.Mortality.Rate.Pop))
-    
+        arrange(desc(Feb20.Mortality.Rate.Pop)) %>%
+        mutate(remove = ifelse(State=='Texas'&Year<2013, 'Yes', 'No')) %>%
+        subset(remove=='No') %>% #There are many missing values for addresses in TDCJ data before 2013
+        select(-c(remove))
     
     return(out.deaths)
     

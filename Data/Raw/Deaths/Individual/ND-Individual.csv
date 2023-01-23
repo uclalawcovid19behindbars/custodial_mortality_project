@@ -1,4 +1,4 @@
-State,Year,Month,Death.Date,Facility,Circumstance.Specific,ID.No,Last.Name,First.Name,Sex,DoB,Race,UCLA.ID
+State,Year,Month,Death.Date,Facility,Circumstance.Specific,ID.No,Last.Name,First.Name,Sex,DoB,Race,CMP.ID
 North Dakota,1997,October,1997-10-28,NORTH DAKOTA STATE PENITENTIARY,Heart Attack,16629,MURI,ELMER,M,1945-05-24,Caucasian,1028
 North Dakota,1998,December,1998-12-07,NORTH DAKOTA STATE PENITENTIARY,Cancer,16324,GANGELHOFF,ELMER,M,1931-09-30,Caucasian,1028
 North Dakota,2000,February,2000-02-23,JAMES RIVER CORRECTIONAL CENTER,Suicide,15970,KUYPERS,DIRK,M,1969-11-29,Caucasian,1026

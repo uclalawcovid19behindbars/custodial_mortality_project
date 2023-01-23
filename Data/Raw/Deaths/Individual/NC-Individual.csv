@@ -1,4 +1,4 @@
-State,Year,Month,Death.Date,Facility,ID.No,Last.Name,First.Name,Death.Age,Sex,Race,Ethnicity,UCLA.ID
+State,Year,Month,Death.Date,Facility,ID.No,Last.Name,First.Name,Death.Age,Sex,Race,Ethnicity,CMP.ID
 North Carolina,2015,October,2015-10-08,CENTRAL PRISON,1080,ADAMS,GEORGE,69,M,BLACK,UNKNOWN,969
 North Carolina,2020,June,2020-06-05,CENTRAL PRISON,1209,ADAMS,JERRY,62,M,WHITE,EUROPEAN/N.AM./AUSTR,969
 North Carolina,2017,February,2017-02-24,CENTRAL PRISON,1703,ADAMS,THOMAS,63,M,BLACK,AFRICAN,969
