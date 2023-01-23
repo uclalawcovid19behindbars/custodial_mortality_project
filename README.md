@@ -228,10 +228,10 @@ ggplot() +
     geom_bar(data = annual.rate, aes(x = Year, y = Rate), stat = 'identity') +
     facet_wrap(~ State) 
     
-# Calculate monthly crude mortality rate for crosswalked facilities (N.B. only facilities with a 'UCLA.ID' variable will be included in this output and there is more facility information contained in raw files than summarized here. Please see our `facility_data` repository for more details and context to the data used in these functions)
+# Calculate monthly crude mortality rate for crosswalked facilities (N.B. only facilities with a 'CMP.ID' variable will be included in this output and there is more facility information contained in raw files than summarized here. Please see our `facility_data` repository for more details and context to the data used in these functions)
 facilities.monthly <- calculate_monthly_facility_rate()
 
-# Calculate annual crude mortality rate for crosswalked facilities (N.B. only facilities with a 'UCLA.ID' variable will be included in this output and there is more facility information contained in raw files than summarized here. Please see our `facility_data` repository for more details and context to the data used in these functions)
+# Calculate annual crude mortality rate for crosswalked facilities (N.B. only facilities with a 'CMP.ID' variable will be included in this output and there is more facility information contained in raw files than summarized here. Please see our `facility_data` repository for more details and context to the data used in these functions)
 facilities.annual <- calculate_annual_facility_rate()
 
 ```
@@ -245,7 +245,7 @@ facilities.annual <- calculate_annual_facility_rate()
 | `Month`                | Month of death(s)                                                                                                  |
 | `Death.Date`           | Date of death(s)                                                                                                   |
 | `Facility`             | Facility of death(s)                                                                                               |
-| `UCLA.ID`              | Facility ID in UCLA Law CBBDP [COVID Data](https://github.com/uclalawcovid19behindbars/data)                       |
+| `CMP.ID`               | Facility ID in project data [COVID Data](https://github.com/uclalawcovid19behindbars/data)                         |
 | `Full.Name`            | Full name of decedent                                                                                              |
 | `Last.Name`            | Last name of decedent                                                                                              |
 | `First.Name`           | First name of decedent                                                                                             |
