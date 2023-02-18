@@ -2,11 +2,11 @@
 
 ## UCLA Law CBBDP Custodial Mortality Project Data
 
-The [UCLA Law COVID Behind Bars Data Project](https://uclacovidbehindbars.org/), launched in March 2020, tracks the spread and impact of COVID in U.S. carceral facilities and advocates for greater transparency and accountability for the pandemic response behind bars. 
+The [UCLA Law Behind Bars Data Project](https://uclacovidbehindbars.org/), launched in March 2020, tracks the spread and impact of COVID in U.S. carceral facilities and advocates for greater transparency and accountability for the pandemic response behind bars. 
 
 ## Purpose of Data Collection
 
-To better monitor the health conditions behind bars, the project began gathering data on all-cause deaths in U.S. prisons in June 2020. Because prison agencies report different records on deaths in custody, the project has attempted to standardize records into similar variables so the public can compare what information agencies make available and study the data they do release. The project intends this repository to function as a tool for the public and researchers to better understand the drivers of deaths in custody and assist policymakers in developing strategies to reduce their occurence. In particular, the project hopes this database helps support the full implementation of the Death in Custody Reporting Act [link to bill](https://www.congress.gov/bill/113th-congress/house-bill/1447/text) by supplementing 'Mortality in Correctional Instiutions' reports, which were produced by the U.S. Department of Justice up until 2019, and assisting efforts to study (1) how this data may be used to reduce the number of deaths in custody, and (2) how carceral facility management practices may contribute to deaths in custody.
+To better monitor the public health conditions behind bars, the project began gathering data on all-cause deaths in U.S. prisons in June 2020. Because prison agencies report different records on deaths in custody, the project has attempted to standardize records into similar variables so the public can compare what information agencies make available and study the data they do release. The project intends this repository to function as a tool for the public and researchers to better understand the drivers of deaths in custody and assist policymakers in developing strategies to reduce their occurence. In particular, the project hopes this database helps support the full implementation of the Death in Custody Reporting Act [link to bill](https://www.congress.gov/bill/113th-congress/house-bill/1447/text) by supplementing 'Mortality in Correctional Instiutions' reports, which were produced by the U.S. Department of Justice up until 2019, and assisting efforts to study (1) how this data may be used to reduce the number of deaths in custody, and (2) how carceral facility management practices may contribute to deaths in custody.
 
 ## Data Collection Procedures
 
@@ -207,7 +207,7 @@ ggplot() +
     
 # Calculate monthly crude mortality rate from available data
 # Options: set pop.source to 'Vera' or 'UCLA' (N.B. some interpolation of total population numbers for agencies is conducted in these functions and total population numbers do not necessarily reflect a number actually reported by an agency. Please see the interpolation functions in the `general_utilities.R` file for more context on how this data is produced).
-# Output Note: The Avg.Population field is calculated by taking the monthly average of daily population numbers interpolated from available dates of population data from the source selection (i.e. Vera or UCLA). These numbers may be different from population denominators contained in the output summary files which use Vera prison population data from June 2018, June 2019, June 2020, and April 2021. Monthly rate observations for agencies that are NA represent months for which there were no deaths or months for which the project has yet to collect data. All crude rates are calculated as deaths per 10,000 individuals.
+# Output Note: The Avg.Population field is calculated by taking the monthly average of daily population numbers interpolated from available dates of population data from the source selection (i.e. Vera or UCLA). These numbers may be different from population denominators contained in the output summary files which use Vera prison population data interpolated from available data or reported directly by agencies from Jun 2018, June 2019, June 2020, and April 2021. Monthly rate observations for agencies that are NA represent months for which there were no deaths or months for which the project has yet to collect data. All crude rates are calculated as deaths per 10,000 individuals.
 calculate_monthly_rate('Vera')
 
 monthly.rate <- calculate_monthly_rate(pop.source = 'Vera') %>%
@@ -219,7 +219,7 @@ ggplot() +
 
 # Calculate annual crude mortality rate from available data
 # Options: set pop.source to 'Vera' or 'UCLA' (N.B. some interpolation of total population numbers for agencies is conducted in these functions and total population numbers do not necessarily reflect a number actually reported by an agency. Please see the interpolation functions in the `general_utilities.R` file for more context on how this data is produced).
-# Output Note: The Avg.Population field is calculated by taking the annual average of daily population numbers interpolated from available dates of population data from the source selection (i.e. Vera or UCLA). These numbers may be different from population denominators contained in the output summary files which use Vera prison population data from June 2018, June 2019, June 2020, and April 2021. All crude rates are calculated as deaths per 10,000 individuals.
+# Output Note: The Avg.Population field is calculated by taking the annual average of daily population numbers interpolated from available dates of population data from the source selection (i.e. Vera or UCLA). These numbers may be different from population denominators contained in the output summary files which use Vera prison population data interpolated from available data or reported directly by agencies from June 2018, June 2019, June 2020, and April 2021. All crude rates are calculated as deaths per 10,000 individuals.
 calculate_annual_rate('Vera')
 
 annual.rate <- calculate_annual_rate(pop.source = 'Vera') 
