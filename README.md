@@ -264,7 +264,7 @@ facilities.annual <- calculate_annual_facility_rate()
 
 ### Context Notes on Potential Death Variables
 
-The project only reproduces records provided to it and other projects. The project does not correct or investigate records for accuracy aside from data validation efforts to ensure total counts of deaths match or are similar to reporting for that agency produced by the Bureau of Justice Statistics. As such, there may be errors or issues with information contained within these variables. In particular, circumstances of death were reported differently across prison agencies and often do not reflect actual causes of death. Many death records are labeled as 'Natural' and 'Undetermined,' which provide little detail on the circumstances of death. For more context on issues with custodial death investigations please see the following resources.
+The project only reproduces records provided to it and other projects. The project does not correct or investigate records for accuracy aside from data validation efforts to ensure total counts of deaths match or are similar to reporting for that agency produced by the Bureau of Justice Statistics. As such, there may be errors or issues with information contained within these variables. In particular, circumstances of death were reported differently across prison agencies and do not always reflect actual causes of death. Many death records are labeled as 'Natural' and 'Undetermined,' which provide little detail on the circumstances of death. For more context on issues with custodial death investigations please see the following resources.
 
 > Nick Shapiro, Terrence Keel. Natural Causes? 58 Autopsies Prove Otherwise. UCLA Carceral Ecologies Lab, https://ucla.app.box.com/s/sv54jmxhmq19kqifpakh4jfu3vnmhbqt/file/974263270262
 
@@ -285,23 +285,23 @@ The project only reproduces records provided to it and other projects. The proje
 
 ## Dataset Coverage
 
-Figure 1 | State prison agencies with reported custodial decedent information in dataset
+Figure 1 | State prison agencies with reported data for deaths in prisons in dataset
 
 ![state present](https://github.com/uclalawcovid19behindbars/carceral_mortality/blob/main/Graphics/state_present.png)
 
-Figure 2 | State prison agencies with 2020 custodial decedent information in dataset
+Figure 2 | State prison agencies with complete 2020 data for deaths in prisons in dataset
 
 ![state 2020](https://github.com/uclalawcovid19behindbars/carceral_mortality/blob/main/Graphics/state_2020.png)
 
-Figure 3 | State prison agencies by interval of reported custodial decedent information
+Figure 3 | State prison agencies by interval of reported information for deaths in prisons
 
 ![state interval](https://github.com/uclalawcovid19behindbars/carceral_mortality/blob/main/Graphics/state_death_interval.png)
 
-Figure 4 | State prison agencies with facility information reported in custodial decedent data
+Figure 4 | State prison agencies with facility information reported in records on deaths in prisons
 
 ![state facility](https://github.com/uclalawcovid19behindbars/carceral_mortality/blob/main/Graphics/state_facility.png)
 
-Figure 5 | State prison agencies with decedent data crosswalked to UCLA COVID data
+Figure 5 | State prison agencies with death-in-prison data crosswalked to UCLA COVID data
 
 ![state ucla](https://github.com/uclalawcovid19behindbars/carceral_mortality/blob/main/Graphics/state_ucla.png)
 
@@ -309,7 +309,7 @@ Figure 5 | State prison agencies with decedent data crosswalked to UCLA COVID da
 
 Citations for academic publications and research reports:
 
-> Sharon Dolovich, Aaron Littman, Kalind Parish, Grace DiLaura, Chase Hommeyer,  Michael Everett, Hope Johnson, Neal Marquez, Erika Tyagi, Megan Arellano, and Lauren Woyczynski. UCLA Law Covid-19 Behind Bars Data Project: Prison Mortality Dataset [date you downloaded the data]. UCLA Law, 2022, https://uclacovidbehindbars.org/.
+> Sharon Dolovich, Aaron Littman, Kalind Parish, Grace DiLaura, Chase Hommeyer,  Michael Everett, Hope Johnson, Neal Marquez, Erika Tyagi, Megan Arellano, Lauren Woyczynski, and Baji Tumendemberel. UCLA Law Covid-19 Behind Bars Data Project: Prison Mortality Dataset [date you downloaded the data]. UCLA Law, 2022, https://uclacovidbehindbars.org/.
 
 Citations for media outlets, policy briefs, and online resources:
 
