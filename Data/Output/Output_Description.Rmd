@@ -1,0 +1,87 @@
+---
+title: "Output_Description"
+output: html_document
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Dataset Descriptions
+
+# Dataset: `prison_agency_counts.csv`
+
+# Variables: `Agency`, `Deaths.2019`, `Deaths.2020`, `Pct.Chg.Deaths.1920`, `Pct.Chg.Rate.1920`,
+`Pct.Chg.Pop.1920`, `Pop.Jun.2019`, `Pop.Dec.2019`, `Pop.Jun.2020`, `Crude.Rate.2019`, and `Crude.Rate.2020`
+
+# Variable Descriptions:
+
+`Agency`: The prison agency for recorded observations.
+
+`Deaths.2019`: The total number of deaths in prison facilities in 2019.
+
+`Deaths.2020`: The total number of deaths in prison facilities in 2020.
+
+`Pct.Chg.Deaths.1920`: The percentage change in the total number of deaths in prison facilities from 2019 to 2020.
+
+`Pct.Chg.Rate.1920`: The percentage change in the calculated crude mortality rate for prison facilities from 2019 to 2020, using `Deaths.2019` and `Deaths.2020` as numerators and `Pop.Jun.2019` and `Pop.Jun.2020` as denominators. 
+
+`Pct.Chg.Pop.1920`: The percentage change in the total population in prison facilities from 2019 to 2020, using `Pop.Jun.2019` and `Pop.Jun.2020`.
+
+`Pop.Jun.2019`: The estimated total population in prison facilities in June 2019 interpolated from the Vera Institute of Justice's "People in Prisons and Jails in Spring 2021" dataset.
+
+`Pop.Dec.2019`: The reported total population in prison facilities in December 2019 from the Vera Institute of Justice's "People in Prisons and Jails in Spring 2021" dataset.
+
+`Pop.Jun.2020`: The reported total population in prison facilities in June 2020 from the Vera Institute of Justice's "People in Prisons and Jails in Spring 2021" dataset.
+
+`Crude.Rate.2019`: The estimated crude mortality rate in prison facilities in 2019 using `Pop.Jun.2019` as a denominator.
+
+`Crude.Rate.2020`: The estimated crude mortality rate in prison facilities in 2020 using `Pop.Jun.2020` as a denominator.
+
+# Dataset: `doj_comparison_summary.csv`
+
+# Variables: `Agency`, `BJS.*YEAR*`, `CMP.*YEAR*`
+
+# Variable Descriptions:
+
+`Agency`: The state prison agency for recorded observations.
+
+`BJS.*YEAR*`: The total count of deaths in prison facilities reported in BJS MCI reports in *YEAR* 
+
+`CMP.*YEAR*`: The total count of deaths in prison facilities reported in CMP data in *YEAR* 
+
+# Dataset: `prison_national_counts`
+
+# Variables: `Name`, `Deaths.2019`, `Deaths.2020`, `Pct.Chg.Deaths.1920`, `Pct.Chg.Rate.1920`,
+`Pct.Chg.Pop.1920`, `Pop.Jun.2019`, `Pop.Dec.2019`, `Pop.Jun.2020`, `Crude.Rate.2019`, and `Crude.Rate.2020`
+
+# Variable Descriptions:
+
+`Name`: The descrition of agency observations contained in national counts (N.B. observations do not contain those from NMDOC - the project does not have complete data for 2020 from NMDOC).
+
+`Deaths.2019`: The total number of deaths in prison facilities in 2019 (N.B. observations do not contain those from NMDOC - the project does not have complete data for 2020 from NMDOC).
+
+`Deaths.2020`: The total number of deaths in prison facilities in 2020 (N.B. observations do not contain those from NMDOC - the project does not have complete data for 2020 from NMDOC).
+
+`Pct.Chg.Deaths.1920`: The percentage change in the total number of deaths in prison facilities from 2019 to 2020 (N.B. observations do not contain those from NMDOC - the project does not have complete data for 2020 from NMDOC).
+
+`Pct.Chg.Rate.1920`: The percentage change in the calculated crude mortality rate for prison facilities from 2019 to 2020, using `Deaths.2019` and `Deaths.2020` as numerators and `Pop.Jun.2019` and `Pop.Jun.2020` as denominators (N.B. observations do not contain those from NMDOC - the project does not have complete data for 2020 from NMDOC). 
+
+`Pct.Chg.Pop.1920`: The percentage change in the total population in prison facilities from 2019 to 2020, using `Pop.Jun.2019` and `Pop.Jun.2020` (N.B. observations do not contain those from NMDOC - the project does not have complete data for 2020 from NMDOC).
+
+`Pop.Jun.2019`: The estimated total population in prison facilities in June 2019 interpolated from the Vera Institute of Justice's "People in Prisons and Jails in Spring 2021" dataset (N.B. observations do not contain those from NMDOC - the project does not have complete data for 2020 from NMDOC).
+
+`Pop.Dec.2019`: The reported total population in prison facilities in December 2019 from the Vera Institute of Justice's "People in Prisons and Jails in Spring 2021" dataset (N.B. observations do not contain those from NMDOC - the project does not have complete data for 2020 from NMDOC).
+
+`Pop.Jun.2020`: The reported total population in prison facilities in June 2020 from the Vera Institute of Justice's "People in Prisons and Jails in Spring 2021" dataset (N.B. observations do not contain those from NMDOC - the project does not have complete data for 2020 from NMDOC).
+
+`Crude.Rate.2019`: The estimated crude mortality rate in prison facilities in 2019 using `Pop.Jun.2019` as a denominator (N.B. observations do not contain those from NMDOC - the project does not have complete data for 2020 from NMDOC).
+
+`Crude.Rate.2020`: The estimated crude mortality rate in prison facilities in 2020 using `Pop.Jun.2020` as a denominator (N.B. observations do not contain those from NMDOC - the project does not have complete data for 2020 from NMDOC).
+
+## Historical Changes to Data Output 
+
+None to note as of February 18, 2023
+
