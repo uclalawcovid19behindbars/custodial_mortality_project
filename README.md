@@ -347,8 +347,6 @@ Our data is licensed under a [Creative Commons Attribution-NonCommercial-ShareAl
 
 For questions or feedback about the data, please reach out to COVIDBehindBars@law.ucla.edu. 
 
-In cases when agencies do not publicly report comprehensive data for all facilities in a state, we supplement our data with statewide aggregate totals collected through public records requests, data collected by [The Marshall Project and the AP](https://www.themarshallproject.org/2020/05/01/a-state-by-state-look-at-coronavirus-in-prisons), and other sources. Our data for several jails in California is collected by the [COVID In-Custody Project](https://covidincustody.org/). Our data for facilities in Massachusetts is reported by [the ACLU of Massachusetts](https://data.aclum.org/sjc-12926-tracker/). Our data for deaths in Texas jails and prisons is collected by [the Texas Justice Initiative](https://texasjusticeinitiative.org/publications/covid-deaths-in-texas). If you would like to contribute data on COVID in a facility that we don't currently include, please see [our template](https://docs.google.com/spreadsheets/d/1cqjCvbXuUh5aIQeJ4NRKdUwVAb4adaWTK-nBPFAj0og/edit#gid=363817589). 
-
 
 
 
