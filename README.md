@@ -266,7 +266,9 @@ facilities.annual <- calculate_annual_facility_rate()
 
 The project only reproduces records provided to it and other projects. The project does not correct or investigate records for accuracy aside from data validation efforts to ensure total counts of deaths match or are similar to reporting for that agency produced by the Bureau of Justice Statistics. As such, there may be errors or issues with information contained within these variables. In particular, circumstances of death were reported differently across prison agencies and do not always reflect actual causes of death. Many death records are labeled as 'Natural' and 'Undetermined,' which provide little detail on the circumstances of death. For more context on issues with custodial death investigations please see the following resources.
 
-> Nick Shapiro, Terrence Keel. Natural Causes? 58 Autopsies Prove Otherwise. UCLA Carceral Ecologies Lab, https://ucla.app.box.com/s/sv54jmxhmq19kqifpakh4jfu3vnmhbqt/file/974263270262
+> Nick Shapiro, Terrence Keel. *Natural Causes? 58 Autopsies Prove Otherwise*. UCLA Carceral Ecologies Lab, https://ucla.app.box.com/s/sv54jmxhmq19kqifpakh4jfu3vnmhbqt/file/974263270262
+
+> Roger Mitchell Jr., Jay Aronson. *Death in Custody: How America Ignores the Truth and What We Can Do About It*. Johns Hopkins University Press, https://www.press.jhu.edu/books/title/12925/death-custody
 
 
 ### Potential Demographic Variables
@@ -319,7 +321,7 @@ If you use any data in this repository from Louisiana, Texas, or the Bureau of P
 
 For Louisiana
 
-> Andrea Armstrong, Judson Mitchell, Erica Navalance, Shanita Farris. Incarceration Transparency: Louisiana Deaths Behind Bars. Loyola University New Orleans, College of Law, https://www.incarcerationtransparency.org/.
+> Andrea Armstrong, Judson Mitchell, Erica Navalance, Shanita Farris. *Incarceration Transparency: Louisiana Deaths Behind Bars*. Loyola University New Orleans, College of Law, https://www.incarcerationtransparency.org/.
 
 For Texas
 
@@ -331,7 +333,7 @@ For BoP
 
 If you use any of the prison population data in this repository from the Vera Institute of Justice please also cite their reporting.
 
-> Jacob Kang-Brown, Chase Montagnet, Jasmine Heiss. Vera Institute of Justice: People in Jail and Prison in Spring 2021, https://www.vera.org/publications/people-in-jail-and-prison-in-spring-2021#:~:text=By%20spring%202021%2C%20jail%20populations,reduce%20incarceration%20through%20spring%202021.
+> Jacob Kang-Brown, Chase Montagnet, Jasmine Heiss. *Vera Institute of Justice: People in Jail and Prison in Spring 2021*, https://www.vera.org/publications/people-in-jail-and-prison-in-spring-2021#:~:text=By%20spring%202021%2C%20jail%20populations,reduce%20incarceration%20through%20spring%202021.
 
 If you use any of the execution data in this repository from the Death Penalty Information Center please also cite their reporting.
 
