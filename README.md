@@ -311,7 +311,7 @@ Figure 5 | State prison agencies with death-in-prison data crosswalked to UCLA C
 
 Citations for academic publications and research reports:
 
-> Sharon Dolovich, Aaron Littman, Michael Everett, Lauren Woyczynski, Baji Tumendemberel, Kalind Parish, Grace DiLaura, Chase Hommeyer, Hope Johnson, Neal Marquez, Erika Tyagi, and Megan Arellano. UCLA Law Covid-19 Behind Bars Data Project: Prison Mortality Dataset [date you downloaded the data]. UCLA Law, 2022, https://uclacovidbehindbars.org/.
+> Sharon Dolovich, Aaron Littman, Michael Everett, Lauren Woyczynski, Baji Tumendemberel, Kalind Parish, Grace DiLaura, Chase Hommeyer, Hope Johnson, Neal Marquez, Erika Tyagi, and Megan Arellano. UCLA Law Covid-19 Behind Bars Data Project: Prison Mortality Dataset [date you downloaded the data]. UCLA Law, 2023, https://uclacovidbehindbars.org/.
 
 Citations for media outlets, policy briefs, and online resources:
 
