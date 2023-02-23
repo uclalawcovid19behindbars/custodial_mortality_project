@@ -6,13 +6,13 @@ The [UCLA Law Behind Bars Data Project](https://uclacovidbehindbars.org/), launc
 
 ## Purpose of Data Collection
 
-To better monitor the public health conditions behind bars, the project began gathering data on all-cause deaths in U.S. prisons in June 2020. Because prison agencies report different records on deaths in custody, the project has attempted to standardize records into similar variables so the public can compare what information agencies make available and study the data they do release. The project intends this repository to function as a tool for the public and researchers to better understand the drivers of deaths in custody and assist policymakers in developing strategies to reduce their occurence. In particular, the project hopes this database helps support the full implementation of the Death in Custody Reporting Act [link to bill](https://www.congress.gov/bill/113th-congress/house-bill/1447/text) by supplementing 'Mortality in Correctional Instiutions' reports, which were produced by the U.S. Department of Justice up until 2019, and assisting efforts to study (1) how this data may be used to reduce the number of deaths in custody, and (2) how carceral facility management practices may contribute to deaths in custody.
+To better monitor the public health conditions behind bars, the project began gathering data on all-cause deaths in U.S. prisons in June 2020. Because prison agencies report different records on deaths in custody, the project has attempted to standardize records into similar variables so the public can compare what information agencies make available and study the data they do release. The project intends this repository to function as a tool for the public and researchers to better understand the drivers of deaths in custody and assist policymakers in developing strategies to reduce their occurence. In particular, the project hopes this database helps support the full implementation of the Death in Custody Reporting Act [(link to bill)](https://www.congress.gov/bill/113th-congress/house-bill/1447/text) by supplementing 'Mortality in Correctional Institutions' reports, which were produced by the U.S. Department of Justice up until 2019, and assisting efforts to study (1) how this data may be used to reduce the number of deaths in custody, and (2) how carceral facility management practices may contribute to deaths in custody.
 
 ## Data Collection Procedures
 
 Data on deaths in prisons and prison demographics comes from a variety of sources. Where prison death data is listed publicly on an agency website or where another organization has already collected and processed records on deaths in custody for a particular agency, the project has gathered, standardized, and reproduced those records here. 
 
-Examples of U.S. prison agencies that publicly list records on deaths in custody include the Arizona Department of Corrections [link to source](https://corrections.az.gov/inmate-death-notifications) and the Florida Department of Corrections [link to source](http://www.dc.state.fl.us/pub/mortality/index.html). The project has reproduced records from the Texas Justice Initiative for deaths in Texas state prisons, Incarceration Transparency at Loyola University New Orleans, College of Law for deaths in Louisiana state prisons, and the NPR Investigations team for deaths in Bureau of Prisons facilities.
+Examples of U.S. prison agencies that publicly list records on deaths in custody include the Arizona Department of Corrections [(link to source)](https://corrections.az.gov/inmate-death-notifications) and the Florida Department of Corrections [(link to source)](http://www.dc.state.fl.us/pub/mortality/index.html). The project has reproduced records from the Texas Justice Initiative for deaths in Texas state prisons, Incarceration Transparency at Loyola University New Orleans, College of Law for deaths in Louisiana state prisons, and the NPR Investigations team for deaths in Bureau of Prisons facilities.
 
 Where information on deaths in prisons was not publicly available through an agency or another organization, or was not provided at the individual or facility-level, the project used public records requests to gather records on deaths in custody and standardized these records into a uniform database. For each request, the project asked for records from 2015 to 2020 and for the following pieces of information for each death:
 
@@ -40,20 +40,20 @@ Agencies of interest and status of validation:
 
 | Prison Agency       | Largest difference with MCI Reports        | Outreach Status                                                              |
 |---------------------|--------------------------------------------|------------------------------------------------------------------------------|
-| California          | 32 less than BJS (2005)                    | CDCR investigating source of discrepancies a.o. Nov 2022                     |
-| Colorado            | 6 less than BJS (2015)                     | Letter sent to CDOC in Apr - received response in Apr 2022 (see below)       |
-| Florida             | 28 more than BJS (2016)                    | Letter sent to FLDOC in Apr - received response in Apr 2022 (see below)      |
-| Georgia             | 12 more than BJS (2015/2018)               | No response to letter sent to GDC in Apr - new letter sent Oct 2022          |
-| Hawaii              | 7 more than BJS (2017)                     | Letter sent to HDPS in Apr - response received - no changes needed           |
-| Louisiana           | 18 less than BJS (2015)                    | See Incarceration Transparency for details on potential sources of differences|
-| Maryland            | 14 more than BJS (2018)                    | Letter sent in Apr - response received and correction made to data           |
-| Missouri            | 9 less than BJS (2017)                     | No response to letter sent to MODOC in Apr - new letter sent Oct 2022        |
-| Nevada              | 17 more than BJS (2018)                    | No response to letter sent to NDOC in Apr - new letter sent Oct 2022         |
-| Oklahoma            | 7 more than BJS (2013)                     | Letter sent in Apr - clarification needed for response - letter sent Oct 22  |
-| Oregon              | 5 more than BJS (2015)                     | Letter sent in Apr - response received in - no changes needed                |
-| Pennsylvania        | 5 more than BJS (2015)                     | Letter sent in Oct - agency is investigating our inquiry                     |
-| Texas               | 6 more than BJS (2010)                     | See Texas Justice Initiative for details on potential sources of differences |
-| West Virginia       | 14 more than BJS (2019)                    | Letter sent in Apr - response received - changes made to data (see below)    
+| California          | 32 less than BJS (2005)                    | See discrepancy outreach summary sheet in repository                         |
+| Colorado            | 6 less than BJS (2015)                     | See discrepancy outreach summary sheet in repository                         |
+| Florida             | 28 more than BJS (2016)                    | See discrepancy outreach summary sheet in repository                         |
+| Georgia             | 12 more than BJS (2015/2018)               | See discrepancy outreach summary sheet in repository                         |
+| Hawaii              | 7 more than BJS (2017)                     | See discrepancy outreach summary sheet in repository                         |
+| Louisiana           | 18 less than BJS (2015)                    | See discrepancy outreach summary sheet in repository                         |
+| Maryland            | 14 more than BJS (2018)                    | See discrepancy outreach summary sheet in repository                         |
+| Missouri            | 9 less than BJS (2017)                     | See discrepancy outreach summary sheet in repository                         |
+| Nevada              | 17 more than BJS (2018)                    | See discrepancy outreach summary sheet in repository                         |
+| Oklahoma            | 7 more than BJS (2013)                     | See discrepancy outreach summary sheet in repository                         |
+| Oregon              | 5 more than BJS (2015)                     | See discrepancy outreach summary sheet in repository                         |
+| Pennsylvania        | 5 more than BJS (2015)                     | See discrepancy outreach summary sheet in repository                         |
+| Texas               | 6 more than BJS (2010)                     | See discrepancy outreach summary sheet in repository                         |
+| West Virginia       | 14 more than BJS (2019)                    | See discrepancy outreach summary sheet in repository   
 
 Based off responses from agencies, some records were edited to better reflect deaths in custody that occur within prison facilities. Any observations removed from a state's records are contained in the `Edited` folder. Please see data manipulation section for details on which states were edited.
 
@@ -90,7 +90,7 @@ Other manipulation steps taken to limit primary repository data to prison / post
 | New Hampshire | Deaths in Secure Psychiatric Facilities Included                                                          | Observations removed     |
 | New Jersey    | Deaths in Special Treatment Units Included                                                                | Observations removed  
 
-Note on deaths due to executions: Reported deaths due to execution are not removed from prepared data files and are included in summary statistics for agencies located in the `Output` folder. For more information on deaths due to execution in the U.S., please see the Death Penalty Information Center [link to database](https://deathpenaltyinfo.org/executions/execution-database), which is also reproduced in the `Other` sub-folder in the `Data` folder.
+Note on deaths due to executions: Reported deaths due to execution are not removed from prepared data files and are included in summary statistics for agencies located in the `Output` folder. For more information on deaths due to execution in the U.S., please see the Death Penalty Information Center [(link to database)](https://deathpenaltyinfo.org/executions/execution-database), which is also reproduced in the `Other` sub-folder in the `Data` folder.
 
 ## Structure and Organization of Data Files
 
