@@ -1,68 +1,83 @@
 State,Year,Month,Death.Date,Facility,Sex,Race,Death.Age,Circumstance.General,Location,CMP.ID
-South Dakota,2015,February,2015-02-16,SDP,M,White,60,"NATURAL",F,1241
-South Dakota,2015,March,2015-03-26,JPA,M,White,56,"NATURAL",H,1236
-South Dakota,2015,April,2015-04-15,DSP,M,White,73,"NATURAL",H,1237
-South Dakota,2015,July,2015-07-30,JPA,M,White,69,"NATURAL",H,1236
-South Dakota,2015,September,2015-09-01,DSP,M,White,67,"NATURAL",H,1237
+South Dakota,2013,March,2013-03-09,SDP,M,White,48,Natural,F,NA
+South Dakota,2013,May,2013-05-15,SDP,M,White,64,Natural,F,NA
+South Dakota,2013,August,2013-08-22,SDP,M,White,65,Natural,H,NA
+South Dakota,2013,August,2013-08-23,PIR,F,White,63,Natural,H,NA
+South Dakota,2013,September,2013-09-25,JPA,M,Hispanic,45,Accidental,H,NA
+South Dakota,2013,December,2013-12-01,JPA,M,Black,53,Natural,H,NA
+South Dakota,2013,December,2013-12-05,JPA,M,White,75,Natural,H,NA
+South Dakota,2013,December,2013-12-17,JPA,M,White,43,Natural,H,NA
+South Dakota,2014,January,2014-01-22,SDP,M,Hispanic,54,Natural,H,NA
+South Dakota,2014,February,2014-02-23,PIR,F,White,33,Suicide,H,NA
+South Dakota,2014,July,2014-07-14,SDP,M,White,46,Natural,H,NA
+South Dakota,2014,September,2014-09-03,DSP,M,White,59,Natural,H,NA
+South Dakota,2014,September,2014-09-04,JPA,M,White,44,Suicide,F,NA
+South Dakota,2014,September,2014-09-08,JPA,M,White,37,Homicide,F,NA
+South Dakota,2014,September,2014-09-18,YKT,M,White,72,Natural,H,NA
+South Dakota,2015,February,2015-02-16,SDP,M,White,60,NATURAL,F,1241
+South Dakota,2015,March,2015-03-26,JPA,M,White,56,NATURAL,H,1236
+South Dakota,2015,April,2015-04-15,DSP,M,White,73,NATURAL,H,1237
+South Dakota,2015,July,2015-07-30,JPA,M,White,69,NATURAL,H,1236
+South Dakota,2015,September,2015-09-01,DSP,M,White,67,NATURAL,H,1237
 South Dakota,2015,November,2015-11-07,JPA,M,Native American,23,SUICIDE,H,1236
-South Dakota,2015,December,2015-12-14,JPA,M,White,70,"NATURAL",H,1236
-South Dakota,2016,April,2016-04-29,JPA,M,White,63,"NATURAL",H,1236
-South Dakota,2016,May,2016-05-05,PIR,F,Native American,38,"NATURAL",F,1242
-South Dakota,2016,May,2016-05-27,JPA,M,White,54,"NATURAL",F,1236
+South Dakota,2015,December,2015-12-14,JPA,M,White,70,NATURAL,H,1236
+South Dakota,2016,April,2016-04-29,JPA,M,White,63,NATURAL,H,1236
+South Dakota,2016,May,2016-05-05,PIR,F,Native American,38,NATURAL,F,1242
+South Dakota,2016,May,2016-05-27,JPA,M,White,54,NATURAL,F,1236
 South Dakota,2016,September,2016-09-09,SDP,M,White,25,SUICIDE,F,1241
-South Dakota,2016,October,2016-10-24,JPA,M,White,55,"NATURAL",H,1236
-South Dakota,2017,January,2017-01-06,JPA,M,White,56,"NATURAL",F,1236
+South Dakota,2016,October,2016-10-24,JPA,M,White,55,NATURAL,H,1236
+South Dakota,2017,January,2017-01-06,JPA,M,White,56,NATURAL,F,1236
 South Dakota,2017,January,2017-01-12,JPA,M,Native American,46,SUICIDE,F,1236
-South Dakota,2017,March,2017-03-12,SDP,M,Native American,71,"NATURAL",F,1241
-South Dakota,2017,March,2017-03-19,DSP,M,White,62,"NATURAL",F,1237
-South Dakota,2017,May,2017-05-21,DSP,M,White,58,"NATURAL",F,1237
-South Dakota,2017,May,2017-05-28,JPA,M,Native American,26,"NATURAL",H,1236
-South Dakota,2017,October,2017-10-07,JPA,M,White,82,"NATURAL",F,1236
+South Dakota,2017,March,2017-03-12,SDP,M,Native American,71,NATURAL,F,1241
+South Dakota,2017,March,2017-03-19,DSP,M,White,62,NATURAL,F,1237
+South Dakota,2017,May,2017-05-21,DSP,M,White,58,NATURAL,F,1237
+South Dakota,2017,May,2017-05-28,JPA,M,Native American,26,NATURAL,H,1236
+South Dakota,2017,October,2017-10-07,JPA,M,White,82,NATURAL,F,1236
 South Dakota,2017,October,2017-10-14,JPA,M,Native American,54,ACCIDENT,F,1236
-South Dakota,2017,December,2017-12-01,JPA,M,White,72,"NATURAL",F,1236
-South Dakota,2017,December,2017-12-21,JPA,M,White,75,"NATURAL",F,1236
-South Dakota,2017,December,2017-12-24,JPA,M,Native American,46,"NATURAL",H,1236
-South Dakota,2017,December,2017-12-28,JPA,M,Native American,45,"NATURAL",F,1236
-South Dakota,2018,January,2018-01-07,SDP,M,White,79,"NATURAL",F,1241
-South Dakota,2018,January,2018-01-24,JPA,M,Native American,65,"NATURAL",F,1236
+South Dakota,2017,December,2017-12-01,JPA,M,White,72,NATURAL,F,1236
+South Dakota,2017,December,2017-12-21,JPA,M,White,75,NATURAL,F,1236
+South Dakota,2017,December,2017-12-24,JPA,M,Native American,46,NATURAL,H,1236
+South Dakota,2017,December,2017-12-28,JPA,M,Native American,45,NATURAL,F,1236
+South Dakota,2018,January,2018-01-07,SDP,M,White,79,NATURAL,F,1241
+South Dakota,2018,January,2018-01-24,JPA,M,Native American,65,NATURAL,F,1236
 South Dakota,2018,February,2018-02-22,SDP,M,Hispanic or Latino,26,SUICIDE,H,1241
-South Dakota,2018,June,2018-06-18,DSP,M,White,63,"NATURAL",F,1237
-South Dakota,2018,June,2018-06-22,SDP,M,Native American,46,"NATURAL",H,1241
-South Dakota,2018,September,2018-09-18,JPA,F,White,73,"NATURAL",F,1236
+South Dakota,2018,June,2018-06-18,DSP,M,White,63,NATURAL,F,1237
+South Dakota,2018,June,2018-06-22,SDP,M,Native American,46,NATURAL,H,1241
+South Dakota,2018,September,2018-09-18,JPA,F,White,73,NATURAL,F,1236
 South Dakota,2018,October,2018-10-29,SDP,M,White,56,EXECUTION,F,1241
-South Dakota,2018,November,2018-11-19,JPA,M,White,72,"NATURAL",F,1236
-South Dakota,2019,March,2019-03-18,PRE,F,Native American,41,"NATURAL",H,1243
-South Dakota,2019,April,2019-04-12,SDP,M,White,63,"NATURAL",F,1241
-South Dakota,2019,April,2019-04-16,YKT,M,White,52,"NATURAL",H,1245
-South Dakota,2019,April,2019-04-17,JPA,M,White,67,"NATURAL",F,1236
-South Dakota,2019,June,2019-06-22,JPA,M,White,45,"NATURAL",F,1236
-South Dakota,2019,August,2019-08-06,JPA,M,White,55,"NATURAL",H,1236
-South Dakota,2019,August,2019-08-18,JPA,M,White,65,"NATURAL",F,1236
-South Dakota,2019,September,2019-09-15,JPA,M,Native American,60,"NATURAL",F,1236
-South Dakota,2019,September,2019-09-29,SDP,M,White,42,"NATURAL",F,1241
-South Dakota,2019,October,2019-10-17,JPA,M,White,64,"NATURAL",F,1236
-South Dakota,2019,October,2019-10-23,JPA,M,White,49,"NATURAL",F,1236
+South Dakota,2018,November,2018-11-19,JPA,M,White,72,NATURAL,F,1236
+South Dakota,2019,March,2019-03-18,PRE,F,Native American,41,NATURAL,H,1243
+South Dakota,2019,April,2019-04-12,SDP,M,White,63,NATURAL,F,1241
+South Dakota,2019,April,2019-04-16,YKT,M,White,52,NATURAL,H,1245
+South Dakota,2019,April,2019-04-17,JPA,M,White,67,NATURAL,F,1236
+South Dakota,2019,June,2019-06-22,JPA,M,White,45,NATURAL,F,1236
+South Dakota,2019,August,2019-08-06,JPA,M,White,55,NATURAL,H,1236
+South Dakota,2019,August,2019-08-18,JPA,M,White,65,NATURAL,F,1236
+South Dakota,2019,September,2019-09-15,JPA,M,Native American,60,NATURAL,F,1236
+South Dakota,2019,September,2019-09-29,SDP,M,White,42,NATURAL,F,1241
+South Dakota,2019,October,2019-10-17,JPA,M,White,64,NATURAL,F,1236
+South Dakota,2019,October,2019-10-23,JPA,M,White,49,NATURAL,F,1236
 South Dakota,2019,November,2019-11-04,SDP,M,White,63,EXECUTION,F,1241
-South Dakota,2019,December,2019-12-01,JPA,M,White,82,"NATURAL",H,1236
-South Dakota,2019,December,2019-12-16,JPA,M,Native American,46,"NATURAL",F,1236
+South Dakota,2019,December,2019-12-01,JPA,M,White,82,NATURAL,H,1236
+South Dakota,2019,December,2019-12-16,JPA,M,Native American,46,NATURAL,F,1236
 South Dakota,2020,January,2020-01-03,SDP,M,White,67,SUICIDE,F,1241
-South Dakota,2020,February,2020-02-01,SDP,M,White,68,"NATURAL",F,1241
-South Dakota,2020,May,2020-05-31,JPA,M,Native American,44,"NATURAL",F,1236
-South Dakota,2020,August,2020-08-14,JPA,M,White,67,"NATURAL",F,1236
-South Dakota,2020,October,2020-10-30,DSP,M,White,60,"NATURAL",H,1237
-South Dakota,2020,November,2020-11-04,DSP,M,White,62,"NATURAL",H,1237
-South Dakota,2020,November,2020-11-08,DSP,M,White,73,"NATURAL",H,1237
-South Dakota,2020,November,2020-11-17,JPA,M,White,78,"NATURAL",H,1236
-South Dakota,2020,November,2020-11-21,JPA,M,Native American,69,"NATURAL",F,1236
-South Dakota,2020,December,2020-12-10,SDP,M,Native American,55,"NATURAL",H,1241
-South Dakota,2020,December,2020-12-12,SFC,M,Native American,52,"NATURAL",H,1240
+South Dakota,2020,February,2020-02-01,SDP,M,White,68,NATURAL,F,1241
+South Dakota,2020,May,2020-05-31,JPA,M,Native American,44,NATURAL,F,1236
+South Dakota,2020,August,2020-08-14,JPA,M,White,67,NATURAL,F,1236
+South Dakota,2020,October,2020-10-30,DSP,M,White,60,NATURAL,H,1237
+South Dakota,2020,November,2020-11-04,DSP,M,White,62,NATURAL,H,1237
+South Dakota,2020,November,2020-11-08,DSP,M,White,73,NATURAL,H,1237
+South Dakota,2020,November,2020-11-17,JPA,M,White,78,NATURAL,H,1236
+South Dakota,2020,November,2020-11-21,JPA,M,Native American,69,NATURAL,F,1236
+South Dakota,2020,December,2020-12-10,SDP,M,Native American,55,NATURAL,H,1241
+South Dakota,2020,December,2020-12-12,SFC,M,Native American,52,NATURAL,H,1240
 South Dakota,2021,March,2021-03-16,PRE,F,White,32,SUICIDE,F,1243
 South Dakota,2021,March,2021-03-27,SDP,M,White,23,SUICIDE,F,1241
-South Dakota,2021,March,2021-03-30,SDP,M,White,70,"NATURAL",H,1241
+South Dakota,2021,March,2021-03-30,SDP,M,White,70,NATURAL,H,1241
 South Dakota,2021,April,2021-04-03,SDP,M,Native American,25,SUICIDE,H,1241
-South Dakota,2021,April,2021-04-11,YKT,M,White,58,"NATURAL",H,1245
-South Dakota,2021,July,2021-07-01,JPA,M,White,56,"NATURAL",F,1236
-South Dakota,2021,September,2021-09-16,SFC,M,White,70,"NATURAL",H,1240
-South Dakota,2021,November,2021-11-12,JPA,M,Native American,61,"NATURAL",H,1236
-South Dakota,2021,December,2021-12-06,SDP,M,White,65,"NATURAL",H,1241
-South Dakota,2021,December,2021-12-26,DSP,M,White,71,"NATURAL",F,1237
+South Dakota,2021,April,2021-04-11,YKT,M,White,58,NATURAL,H,1245
+South Dakota,2021,July,2021-07-01,JPA,M,White,56,NATURAL,F,1236
+South Dakota,2021,September,2021-09-16,SFC,M,White,70,NATURAL,H,1240
+South Dakota,2021,November,2021-11-12,JPA,M,Native American,61,NATURAL,H,1236
+South Dakota,2021,December,2021-12-06,SDP,M,White,65,NATURAL,H,1241
+South Dakota,2021,December,2021-12-26,DSP,M,White,71,NATURAL,F,1237
