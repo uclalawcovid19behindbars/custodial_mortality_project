@@ -1,308 +1,376 @@
-State,Year,Month,Death.Date,Facility,Death.Age,Race,Sex,Circumstance.Specific,CMP.ID
-Nevada,2020,December,2020-12-31,NNCC,65,AI,M,"Complications of metastatic pancreatic cancer, presumed pneumonia due to COVID-19, hypertensive and atherosclerotic cardiovascular disease",817
-Nevada,2020,December,2020-12-31,LCC,62,H,M,NA,816
-Nevada,2020,December,2020-12-31,NNCC,76,B,M,"Acute respiratory distress syndrome due to pneumonia due to COVID-19, hypertension, type 2 diabetes mellitus and hepatitis C",817
-Nevada,2020,December,2020-12-30,LCC,73,W,M,NA,816
-Nevada,2020,December,2020-12-30,LCC,69,AI,M,NA,816
-Nevada,2020,December,2020-12-27,NNCC,70,W,M,"Acute respiratory distress syndrome due to pneumonia due to COVID-19, hypertension, diabetes mellitus, atherosclerotic cardiovascular disease, COPD",817
-Nevada,2020,December,2020-12-26,SDCC,66,A,M,NA,819
-Nevada,2020,December,2020-12-26,LCC,69,H,M,NA,816
-Nevada,2020,December,2020-12-25,NNCC,82,W,M,NA,817
-Nevada,2020,December,2020-12-25,NNCC,77,W,M,NA,817
-Nevada,2020,December,2020-12-24,LCC,62,B,M,NA,816
-Nevada,2020,December,2020-12-24,LCC,58,H,M,NA,816
-Nevada,2020,December,2020-12-24,NNCC,71,W,M,"Acute respiratory distress syndrome due to pneumonia due to COVID-19, COPD, arterial fibrillation, hypertension, atherosclerotic cardiovascular disease",817
-Nevada,2020,December,2020-12-23,NNCC,50,W,M,"Acute respiratory distress syndrome due to pneumonia due to COVID-19, hypertension, COPD, atrial fibrilllation, morbid obesity",817
-Nevada,2020,December,2020-12-23,NNCC,65,B,M,"Pneumonia due to COVID-19, hypertensive cardiovascular disease",817
-Nevada,2020,December,2020-12-23,NNCC,62,W,M,"Acute respiratory distress syndrome due to pneumonia due to COVID-19, COPD, pulmonary fibrosis, Hepatitis C",817
-Nevada,2020,December,2020-12-22,LCC,44,H,M,NA,816
-Nevada,2020,December,2020-12-21,LCC,33,W,M,NA,816
-Nevada,2020,December,2020-12-21,NNCC,61,W,M,NA,817
-Nevada,2020,December,2020-12-20,LCC,72,W,M,NA,816
-Nevada,2020,December,2020-12-19,LCC,59,W,M,NA,816
-Nevada,2020,December,2020-12-18,HDSP,63,W,M,NA,814
-Nevada,2020,December,2020-12-16,NNCC,66,W,M,NA,817
-Nevada,2020,December,2020-12-13,SDCC,84,W,M,NA,819
-Nevada,2020,December,2020-12-13,NNCC,62,W,M,Acute respiratory distress syndrome due to pneumonia due to COVID-19,817
-Nevada,2020,December,2020-12-12,LCC,71,H,M,NA,816
-Nevada,2020,December,2020-12-08,NNCC,79,W,M,"Pneumonia due to COVID-19, diabetes mellitus, hypercholesterolemia, hypothyroidism",817
-Nevada,2020,December,2020-12-07,NNCC,71,A,M,Acute respiratory distress syndrome due to pneumonia due to COVID-19,817
-Nevada,2020,December,2020-12-05,LCC,68,W,M,NA,816
-Nevada,2020,December,2020-12-03,HDSP,56,B,M,NA,814
-Nevada,2020,November,2020-11-30,NNCC,58,B,M,"Hypertensive and atherosclerotic cardiovascular disease, end stage renal disease, diabetes mellitus",817
-Nevada,2020,November,2020-11-27,HDSP,37,B,M,NA,814
-Nevada,2020,November,2020-11-27,NNCC,61,H,M,"Acute respiratory distress syndrome due to pneumonia due to COVID-19, atherosclerotic and hypertensive cardiovascular disease",817
-Nevada,2020,November,2020-11-24,HDSP,49,H,M,NA,814
-Nevada,2020,November,2020-11-22,HDSP,30,W,M,NA,814
-Nevada,2020,November,2020-11-12,NNCC,84,W,M,"Pulmonary emboli, atherosclerotic and hypertensive cardiovascular disease, COPD, diabetes mellitus, chronic debility with frequent falls",817
-Nevada,2020,November,2020-11-11,HDSP,76,W,M,NA,814
-Nevada,2020,November,2020-11-08,NNCC,83,W,M,"Complications of metastatic lung adenocarcinoma, atherosclerotic cardiovascular disease",817
-Nevada,2020,November,2020-11-08,HDSP,58,W,M,NA,814
-Nevada,2020,November,2020-11-02,NNCC,40,W,M,Suicide by hanging,817
-Nevada,2020,October,2020-10-30,HDSP,55,W,M,NA,814
-Nevada,2020,October,2020-10-25,HDSP,20,H,M,NA,814
-Nevada,2020,October,2020-10-19,NNCC,56,W,M,NA,817
-Nevada,2020,September,2020-09-13,HDSP,61,W,M,NA,814
-Nevada,2020,September,2020-09-12,HDSP,65,H,M,NA,814
-Nevada,2020,September,2020-09-03,NNCC,75,B,M,"Complications of perfroated duodenal ulcer, hypertensive and atherosclerotic cardiovascular disease, emphysema, diabetes mellitus and obesity",817
-Nevada,2020,August,2020-08-29,LCC,46,B,M,NA,816
-Nevada,2020,August,2020-08-22,HDSP,50,W,M,NA,814
-Nevada,2020,August,2020-08-19,SDCC,41,B,M,NA,819
-Nevada,2020,August,2020-08-17,NNCC,79,A,M,NA,817
-Nevada,2020,August,2020-08-04,NNCC,55,W,M,Complications of metastatic colon cancer,817
-Nevada,2020,July,2020-07-30,HDSP,45,W,M,NA,814
-Nevada,2020,July,2020-07-28,SDCC,50,W,M,NA,819
-Nevada,2020,July,2020-07-28,HDSP,72,B,M,NA,814
-Nevada,2020,July,2020-07-22,HDSP,29,W,M,NA,814
-Nevada,2020,July,2020-07-20,NNCC,63,B,M,Atherosclerotic cardiovascular disease and diabetes mellitus,817
-Nevada,2020,July,2020-07-15,NNCC,77,B,M,"Atherosclerotic cardiovascular disease, prostatic adenocarcinoma, papillary urothelial carcinoma of the bladder, cachexia",817
-Nevada,2020,July,2020-07-01,NNCC,61,W,M,Complications of metastatic lung cancer,817
-Nevada,2020,June,2020-06-16,NNCC,70,W,M,"Complications of probable pancreatic cancer, hypertension and diabetes mellitus",817
-Nevada,2020,June,2020-06-09,NNCC,54,W,M,Complications of metastatic carcinoma,817
-Nevada,2020,June,2020-06-09,HDSP,52,B,M,"Bilateral pulmonary emboli due to obesity, and cardiomyopathy and cardiac valvular disease",814
-Nevada,2020,June,2020-06-07,SDCC,53,B,M,"Upper gastrointestinal hemorrhage due to chronic gastritis, hypertensive cardiovascular disease and renal insufficiency",819
-Nevada,2020,May,2020-05-07,NNCC,78,W,M,"Failure to thrive, arteriosclerotic cardiovascular disease",817
-Nevada,2020,April,2020-04-30,NNCC,60,W,M,Advanced bone cancer,817
-Nevada,2020,April,2020-04-30,NNCC,54,W,M,End stage liver disease due to Hepatitis C,817
-Nevada,2020,April,2020-04-28,NNCC,52,W,M,"Complications of cirrhosis due to Hepatitis C infection, acute bronchopneumonia, hypertensive cardiovascular disease",817
-Nevada,2020,April,2020-04-26,ESP,35,H,M,Inhalation of products of combustion,811
-Nevada,2020,April,2020-04-19,HDSP,32,W,M,Suicide by hanging,814
-Nevada,2020,April,2020-04-18,LCC,65,H,M,Complications of acute bacterial pneumonia due to staphylococcus aureus infection,816
-Nevada,2020,April,2020-04-07,NNCC,74,W,M,"Hypertensive cardiovascular disease, COPD, Parkinson's Disease and chronic debility",817
-Nevada,2020,April,2020-04-04,NNCC,82,W,M,Bacterial pneumnia due to COPD and diabetes mellitus and hypertension,817
-Nevada,2020,March,2020-03-13,HDSP,79,W,M,"Cerebral vascular accident and complications thereof, hypertensive and atherosclerotic cardiovascular disease and cardiac valvular disease",814
-Nevada,2020,March,2020-03-08,NNCC,87,W,M,"Atherosclerotic and hypertensive cardiovascular disease, pneumonia, dementia, acute pancreatitis",817
-Nevada,2020,March,2020-03-06,HDSP,55,B,M,Septic shock due to cellulitis and the sequelae thereof with hypertensive and atherosclerotic cardiovascular disease and sarcoidosis,814
-Nevada,2020,February,2020-02-28,HDSP,41,H,M,Suicide by hanging,814
-Nevada,2020,February,2020-02-22,NNCC,33,B,M,Suicide by acute amiodipine toxicity,817
-Nevada,2020,February,2020-02-18,NNCC,70,W,M,"Complications of COPD, also atherosclerotic cardiovascular disease",817
-Nevada,2020,February,2020-02-13,NNCC,72,W,M,"Acute bronchopneumonia complicating hepatocellular cancer, also hypertensive and atherosclerotic cardiovascular disease",817
-Nevada,2020,February,2020-02-06,HCC,49,H,M,"Myocardial infarction due to coronary artery thrombosis due to atherosclerotic and hypertensive cardiovascular disease, also obesity",1750
-Nevada,2020,January,2020-01-31,NNCC,85,W,M,"Acute bronchopneumonia, also COPD, hypertensive and altherosclerotic cardiovascular disease",817
-Nevada,2019,December,2019-12-28,NNCC,58,H,M,"Acute bacterial peritonitis, also pancreatic adenocarcinoma",817
-Nevada,2019,December,2019-12-24,HDSP,76,W,M,Myocardial infarction due to hypertensive and atherosclerotic cardiovascular disease,814
-Nevada,2019,December,2019-12-13,NNCC,50,W,M,Complications of metastatic neuroendocrine carcinoma,817
-Nevada,2019,December,2019-12-04,NNCC,71,B,M,Acute bacterial pneumonia,817
-Nevada,2019,November,2019-11-27,SDCC,45,A,M,Hypertensive and arteriosclerotic cardiovascular disease,819
-Nevada,2019,November,2019-11-25,HDSP,38,B,M,"Pulmonary infarction due to pulmonary embolism with acute renal failure, sick cell trait and hypertension with recurrent atrial fibrillation and atrial flutter",814
-Nevada,2019,November,2019-11-20,NNCC,73,AI,M,"Complications of hepatocellular carcinoma, also Hepatitis C, remote hisotry of chronic alchol abuse",817
-Nevada,2019,November,2019-11-06,NNCC,69,W,M,"Complications of right hip fracture, also hypertensive -type and atherosclerotic cardiovascular disease",817
-Nevada,2019,October,2019-10-29,ESP,37,B,M,Homicide due to multiple stab and incised wounds,811
-Nevada,2019,October,2019-10-24,LCC,55,W,M,Complications of colonic obstruction due to colonic diverticulitis,816
-Nevada,2019,October,2019-10-20,HDSP,65,W,M,"Delayed complications from abdominal aortic aneurysm due to atherosclerotic and hypertensive cardiovascular disease, and COPD",814
-Nevada,2019,October,2019-10-04,NNCC,60,W,M,Severe acute pneumonia,817
-Nevada,2019,September,2019-09-03,HDSP,57,B,M,Myocardial infarction and schizophrenia,814
-Nevada,2019,August,2019-08-30,HDSP,78,B,M,Hypertensive and atherosclerotic cardiovascular disease and diabetes mellitus,814
-Nevada,2019,August,2019-08-26,NNCC,49,B,M,NA,817
-Nevada,2019,August,2019-08-14,NNCC,52,W,M,Atherosclerotic cardiovascular disease,817
-Nevada,2019,August,2019-08-13,NNCC,81,W,M,"Acute bronchopneumonia, also hypertensive and altherosclerotic cardiovascular disease",817
-Nevada,2019,August,2019-08-01,HDSP,58,W,M,Hepatorenal syndrome due to cirrhosis due to Hepatitis C viral infection with cholangiocarcinoma,814
-Nevada,2019,July,2019-07-23,HDSP,66,W,M,NA,814
-Nevada,2019,July,2019-07-15,HDSP,63,W,M,"Hepatocellular carcinoma and complications thereof, history of Hepatitis C virus infection and chronic ethanolism",814
-Nevada,2019,July,2019-07-13,NNCC,56,B,M,Complications of metastatic prostate carcinoma,817
-Nevada,2019,July,2019-07-01,HDSP,60,W,M,"Acute myocardial infarction due to hypertensive and atherosclerotic cardiovascular disease with peritonitis,, cirrhosis and Hepatitis C viral infection",814
-Nevada,2019,May,2019-05-28,NNCC,71,W,M,"Complications of metastatic lung carcinoma, acute bronchopneumonia, hypertensive/valvular/atherosclerotic cardiovascular disease, COPD and diabetes mellitus",817
-Nevada,2019,April,2019-04-23,NNCC,56,W,M,"Group A streptococcal sepsis due to pneumonia and retropharyngeal absceses, hepatic cirrhosis with chronic hepatitis and steatosis",817
-Nevada,2019,April,2019-04-22,HDSP,55,H,M,"Hypertensive and arteriosclerotic cardiovascular disease, diabetes mellitus, asthma, DOPD and cirrhosis",814
-Nevada,2019,April,2019-04-21,NNCC,64,AI,M,"Complications of urothelial carcinoma of the bladder, hypertensive and atherosclerotic cardiovascular disease and acute bronchopneumonia",817
-Nevada,2019,March,2019-03-28,NNCC,68,H,M,Hypertensive and atherosclerotic cardiovascular disease,817
-Nevada,2019,March,2019-03-25,NNCC,64,W,M,Complications of metastatic pancreatic carcinoma,817
-Nevada,2019,March,2019-03-18,NNCC,76,W,M,Metastatic adenocarcinoma of the lungs,817
-Nevada,2019,March,2019-03-16,NNCC,64,B,M,"Spontaneour non-traumatic intraperitoneal hemorrhage, remote cerebral infarcts, pulmonary emphysema, pneumonia, hepatic cirrhosis and cardiomegaly",817
-Nevada,2019,March,2019-03-06,NNCC,61,B,M,Complications of COPD,817
-Nevada,2019,February,2019-02-23,HDSP,71,B,M,Congestive heart failure due to myocardial infarction due to hypertensive and arteriosclerotic cardiovascular disease and emphysema,814
-Nevada,2019,February,2019-02-19,SDCC,29,B,M,Suicide by hanging,819
-Nevada,2019,February,2019-02-16,NNCC,73,W,M,Lobar pneumonia,817
-Nevada,2019,February,2019-02-13,NNCC,71,B,M,Metastatic adenocarcinoma of the prostate gland,817
-Nevada,2019,February,2019-02-04,HDSP,47,W,M,Pneumonia and COPD and cellulitus of lower extremities,814
-Nevada,2019,January,2019-01-31,NNCC,54,W,M,Complications of end stage renal disease due to membranous glomerulopathy,817
-Nevada,2019,January,2019-01-28,NNCC,72,B,M,Complications of hepatic cirrhosis due to hepatitis C infection,817
-Nevada,2019,January,2019-01-26,NNCC,57,H,M,"Upper gastronintestinal hemorrhage due to esophageal varices due to complications of cirrhosis, also hepatitis C and hepatocellular carcinoma.",817
-Nevada,2019,January,2019-01-19,NNCC,65,W,M,Arterioslcerotic cardiovascular disease,817
-Nevada,2019,January,2019-01-05,ESP,48,W,M,Suicide by hanging,811
-Nevada,2018,December,2018-12-25,NNCC,62,W,M,"Acute blood loss due to epistaxis and/or gastrointestinal intrluminal hemorrhage, also atherosclerotic and hyptertensive cardiovascular disease, COPD and diabetes",817
-Nevada,2018,December,2018-12-19,SDCC,76,H,M,Complications of hypertensive and atherosclerotic cardiovascular disease and diabetes mellitus,819
-Nevada,2018,December,2018-12-18,HDSP,34,B,M,Suicide by hanging,814
-Nevada,2018,December,2018-12-10,NNCC,47,B,M,Complications of malignant paraganglioma,817
-Nevada,2018,December,2018-12-09,NNCC,32,W,M,"Marked cardiomegaly, also thymoma, morbid obesity",817
-Nevada,2018,December,2018-12-08,NNCC,69,W,M,"Complications of pulmonary fibrosis, also COPD, atherosclerotic and hypertensive cardiovascular disease and diabetes mellitus",817
-Nevada,2018,November,2018-11-21,NNCC,37,H,M,Complications of metastatic osteosarcoma,817
-Nevada,2018,November,2018-11-10,HDSP,63,A,M,Metastatic colon adenocarcinoma,814
-Nevada,2018,October,2018-10-12,HDSP,55,B,M,Hypertensive and atherosclerotic cardiovascular disease and diabetes mellitus,814
-Nevada,2018,September,2018-09-23,NNCC,81,H,M,"Pneumonia, also atherosclerotic and hypertensive cardiovascular disease, diabetes mellitus and seizure disorder",817
-Nevada,2018,September,2018-09-08,NNCC,68,W,M,"Complications of squamous cell carcinoma of the lung, also hypertensive-type and atherosclerotic cardiovascular disease",817
-Nevada,2018,August,2018-08-28,NNCC,59,W,M,Atherosclerotic and hypertensive cardiovascular disease,817
-Nevada,2018,August,2018-08-26,NNCC,43,W,M,"Pulmonary thrombosis due to deep venous thrombosis of the lower extremities, also enterbacter aerogenes aspiration pneumonia due to leukodystrophy",817
-Nevada,2018,August,2018-08-23,NNCC,66,W,M,"Complications of metastatic carcinoma of the liver, also Hepatitis C",817
-Nevada,2018,August,2018-08-20,NNCC,65,B,M,"Complications of metastatic adenocarcinoma of the lung, also hypertensive and atherosclerotic cardiovascualar disease",817
-Nevada,2018,August,2018-08-20,HDSP,55,W,M,"Primary central nervous system lymphoma, also goodpasture syndrome, hypertensive and arteriosclerotic cardiovascular disease and pneumonia",814
-Nevada,2018,July,2018-07-10,HDSP,71,W,M,Pneumonia,814
-Nevada,2018,June,2018-06-27,NNCC,61,W,M,"Complications from hepatic cirrhosis due to hepatitis C, alson organizing pneumonia and atherosclerotic and hypertensive cardiovascular disease",817
-Nevada,2018,June,2018-06-19,NNCC,59,AI,M,Metastatic rectal adenocarcenoma,817
-Nevada,2018,June,2018-06-15,NNCC,78,W,M,Atherosclerotic and hypertensive cardiovascular disease,817
-Nevada,2018,June,2018-06-13,NNCC,70,W,M,Hepatocellular carcinoma,817
-Nevada,2018,June,2018-06-03,CGTH,27,B,M,Suicide by hanging,2162
-Nevada,2018,May,2018-05-29,HDSP,41,B,M,"Poorly-differentiated malignancy, COPD and tabacco use",814
-Nevada,2018,May,2018-05-29,HDSP,37,W,M,Metastatic gern cell tumor of apparent retroperitoneal origin,814
-Nevada,2018,May,2018-05-29,HDSP,51,W,M,"Suicide by multiple blunt force injuries and complications, cirrhosis, hepatitis C viral infection",814
-Nevada,2018,May,2018-05-25,NNCC,70,W,M,"Myocardial infarction due to coronary artery thrombosis due to atherosclerotic and hypertensive cardiovascular disease, also COPD",817
-Nevada,2018,May,2018-05-15,NNCC,27,B,M,Homicide by stab wound to the neck,817
-Nevada,2018,May,2018-05-11,NNCC,61,W,M,Ruptured abdominal aoritic aneurysm due to hypertensive and atherosclerotic cardiovascular disease,817
-Nevada,2018,May,2018-05-01,HDSP,64,AI,M,"Complications of hypertensive vasculopathy, including vascular dementia, decubitus ulcers, malnutrition and debility, atherosclerotic cardiovascular disease and COPD",814
-Nevada,2018,April,2018-04-28,FMWCC,25,W,F,Suicide by hanging,812
-Nevada,2018,April,2018-04-27,NNCC,61,W,M,"Complications of aspiration pneumonia and incarcerated umbilical hernia, agnioedema secondary to administration of intravenous contrast, end-stage renal disease, ASCVD",817
-Nevada,2018,April,2018-04-17,ESP,32,H,M,Homicide by multiple stab wounds,811
-Nevada,2018,April,2018-04-04,HDSP,71,W,M,"Accident - complications of left femure fracture due to fall, congestive heart failure, cardiac valvular disease, cirrhosis, hypertension and chromic anemia due to thalassemia",814
-Nevada,2018,April,2018-04-03,NNCC,72,W,M,"Coronary artery graft thrombosis due to complications of recent coronary artery bypass surgery due to atherosclerotic and hypertensive cardiovascular disease, and unilateral pulmonary thromboembolism and type 2 diabetes mellitus",817
-Nevada,2018,March,2018-03-26,SDCC,54,A,M,Ruptured acute mocardial infarct due to coronary atherosclerosis,819
-Nevada,2018,March,2018-03-08,NNCC,77,W,M,"Metastatic squamous cell carcinoma of the skin, also atherosclerotic and hypertensive cardiovascular disease",817
-Nevada,2018,March,2018-03-05,NNCC,58,W,M,"Atherosclerotic cardiovascular disease with acute bronchopneumonia, hypertensive cardiovascular disease, hepatitis B and hepatitis C",817
-Nevada,2018,March,2018-03-03,HDSP,51,W,M,"Pneumonia with cirrhosis, hepatitis C infection and righty ventricular dilation",814
-Nevada,2018,February,2018-02-27,NNCC,49,W,M,Acute bronchopneumonia with atherosclerotic cardiovascular disease and a history ofself-injury to the head,817
-Nevada,2018,February,2018-02-12,HDSP,53,H,M,Hemoperitoneum due to coagulopathy due to cirrhosis and hepatitis C virus infection with gastrointestinal hemorrhage due to esophageal varicies,814
-Nevada,2018,February,2018-02-09,NNCC,66,W,M,Upper gastronintestinal hemorrhage due to probable ruptured esophageal varices due to hepatic cirrhosis due to hepatitis C and B infection.  Also ASCVD and COPD.,817
-Nevada,2018,February,2018-02-02,NNCC,83,W,M,"Complications of colon cancer, COPD and atherosclerotic cardiovascular disease",817
-Nevada,2018,January,2018-01-25,NNCC,87,W,M,Acute bronchopneumonia,817
-Nevada,2018,January,2018-01-15,HDSP,54,B,M,"Pulmonary embolism due to phlebothrombosis, also hypertensive cardiovascular disease",814
-Nevada,2018,January,2018-01-14,HDSP,62,B,M,"Pneumonia with hypertensive and atherosclerotic cardiovascular disease, cirrhosis and hepatocellular carcinoma",814
-Nevada,2018,January,2018-01-09,NNCC,76,W,M,"Complications of metastatic adenocarcinoma, acute bronchopneumonia, hepatitis C infection, hypertensive and atherosclerotic cv disease",817
-Nevada,2017,December,2017-12-31,HDSP,44,B,M,Acute myocardial infarction with multiple myeloma,814
-Nevada,2017,December,2017-12-11,NNCC,70,W,M,"E.coli sepsis due to acute peritonitis with Hepatitis C infection with hepatic cirrhosis, metastatic adenocarcinoma of the lung",817
-Nevada,2017,December,2017-12-06,NNCC,61,B,M,Complications of lobar pneumonia,817
-Nevada,2017,December,2017-12-04,NNCC,67,B,M,"End stage renal disease, hypertensive cardiovascular disease, diabetes and hepatitis C",817
-Nevada,2017,November,2017-11-30,NNCC,56,W,M,Hypertensive and atherosclerotic cardiovascular disease,817
-Nevada,2017,November,2017-11-16,LCC,48,B,M,Acute myocardial infarction due to thromobosis of left anterior descending coronary artery due to hypertensive and atherosclerotic cardiovascular disease,816
-Nevada,2017,November,2017-11-05,NNCC,46,W,M,Suicide by hanging,817
-Nevada,2017,October,2017-10-30,FMWCC,85,W,F,Metastatic primary pulmonary carcinoma (small cell variant),812
-Nevada,2017,October,2017-10-26,NNCC,74,W,M,Complications of acute pyelonephritis due to chronic obstructive uropathy and benign prostatic hyperplasia and bladder stones,817
-Nevada,2017,October,2017-10-17,NNCC,74,B,M,"Complications of metastatic gastric adenocarcinoma with lymphoma, hypertensive and atherosclerotic cardiovascular disease and COPD",817
-Nevada,2017,September,2017-09-30,SDCC,47,B,M,Sepsis due to peritonitis due to Non-Hodgkin's B cell lymphoma,819
-Nevada,2017,September,2017-09-14,CGTH,50,W,M,Suicide by hanging,2162
-Nevada,2017,September,2017-09-02,HDSP,61,B,M,"Metastatic pulmonary adenocarcinoma with diabetes mellitus, hypertensive cardiovascular disease and renal failure",814
-Nevada,2017,August,2017-08-30,HDSP,63,W,M,Acute bronchopneumonia and metastatic squamous cell carcinoma (NOS),814
-Nevada,2017,August,2017-08-03,HDSP,55,W,M,Pneumonia with metastatic squamous cell carcinoma of the tongue and hypertensive and atherosclerotic cardiovascular disease,814
-Nevada,2017,July,2017-07-27,NNCC,75,W,M,"Complications of squamous cell carcinoma of the lung, COPD and atherosclerotic cardiovascular disease",817
-Nevada,2017,July,2017-07-24,NNCC,64,W,M,Atherosclerotic cardiovascular disease,817
-Nevada,2017,July,2017-07-22,HDSP,46,W,M,"Primary squamous cell carcinoma of the right lung, acute respiratory distress syndrome due to infectious pneumonia",814
-Nevada,2017,July,2017-07-14,FMWCC,51,W,F,Hemopericardium due to ruptured myocardial infarction (heart attack),812
-Nevada,2017,June,2017-06-23,NNCC,68,H,M,Blunt head trauma (homicide per autopsy),817
-Nevada,2017,June,2017-06-21,HDSP,48,W,M,Metastatic ampullary high grade neuroendocrine tumor of the pancreas,814
-Nevada,2017,June,2017-06-19,NNCC,64,W,M,"Acute peritonitis due to cecal perforation and colonic ileus, CHF, Cirrhosis and COPD",817
-Nevada,2017,June,2017-06-19,NNCC,63,B,M,Complications of pyelonephritis,817
-Nevada,2017,May,2017-05-20,HDSP,31,B,M,Pulmonary thromboembolism due to deep venous thrombosis,814
-Nevada,2017,May,2017-05-20,NNCC,58,W,M,Gastrointestinal hemorrhage due to esophageal varices due to hepatitis C-associated hepatic cirrhosis,817
-Nevada,2017,May,2017-05-10,LCC,65,W,M,Acute pneumonia with interstitial lung disease and atherosclerotic cardiovascular disease,816
-Nevada,2017,May,2017-05-10,NNCC,74,W,M,"Congestive heart failure, hypertensive and atherosclerotic cardiovascular disease, atrial fibrillation and chronic kidney disease",817
-Nevada,2017,May,2017-05-09,NNCC,77,W,M,Congestive heart failure due to aortic valvular heart disease with atherosclerotic and hypertensive cardiovascular disease and COPD,817
-Nevada,2017,April,2017-04-30,ESP,31,B,M,Embolic ischemic infarction of the right cerebral hemisphere and multiple mural thrombi of the left ventricle,811
-Nevada,2017,April,2017-04-29,NNCC,63,W,M,"Complications of infective endocarditis of the mitral valve and chronic alcoholism, hepatitis C viral infection and ASCVD",817
-Nevada,2017,April,2017-04-18,HDSP,43,B,M,"Nasopharyngeal carcinoma, COPD and HIV",814
-Nevada,2017,April,2017-04-16,NNCC,74,H,M,"Acute bronchopneumonia , also ASCVD and diabetes mellitus",817
-Nevada,2017,April,2017-04-14,NNCC,72,W,M,Complications of metastatic lung cancer,817
-Nevada,2017,April,2017-04-10,NNCC,67,A,M,"Massive stroke w/hemorrhagic transformation, acute respiratory failure, chronic systolic heart failure, coronary artery disease, upper GI bleed",817
-Nevada,2017,March,2017-03-30,SDCC,65,B,M,Myocardial infarction due to hypertensive and atherosclerotic cardiovascular disease,819
-Nevada,2017,March,2017-03-27,HDSP,56,W,M,Coronary atherosclerosis and hypertensive cardiovascular disease.,814
-Nevada,2017,March,2017-03-21,NNCC,84,W,M,"Cholangiocarcinoma, COPD,  ASCVD and multiple cerebral infarctions",817
-Nevada,2017,March,2017-03-19,NNCC,78,H,M,"Complications of dementia (family requested no autopsy, but autopsy was performed)",817
-Nevada,2017,March,2017-03-15,NNCC,67,H,M,"Complications of pulmonary emphysema, also malnutrition and dehydration, atherosclerotic and hypertensive cardiovascular disease",817
-Nevada,2017,March,2017-03-06,NNCC,24,H,M,Complications of testicular cancer,817
-Nevada,2017,February,2017-02-22,NNCC,75,W,M,"Complications of pneumonia, also atherosclerotic and hypertensive cardiovascular disease, pulmonary embolus and COPD",817
-Nevada,2017,January,2017-01-30,CGTH,53,W,M,Atherosclerotic cardiovasuclar disease,2162
-Nevada,2017,January,2017-01-28,NNCC,63,B,M,"Intracerebral hemorrhage due to hypertensive cardiovascular disease, atherosclerotic cardiovascular disease and emphysema",817
-Nevada,2017,January,2017-01-20,HDSP,53,W,M,"Liver failure due to cirrhosis due to viral hepatitis, and hemorrhagic pancreatitis",814
-Nevada,2017,January,2017-01-19,NNCC,74,W,M,Complications of left hip fracture,817
-Nevada,2017,January,2017-01-13,NNCC,81,W,M,Liver cancer with COPD and hypertensive cardiovascular disease,817
-Nevada,2017,January,2017-01-10,ESP,36,B,M,Pneumonia,811
-Nevada,2016,December,2016-12-18,FMWCC,61,W,F,Metastatic carcinoma of the breast,812
-Nevada,2016,December,2016-12-03,NNCC,76,W,M,Metastatic prostate carcinoma,817
-Nevada,2016,November,2016-11-19,HDSP,56,W,M,Hepatic cirrhosis due to Hepatitis C,814
-Nevada,2016,November,2016-11-10,NNCC,73,W,M,Congestive heart failure due to arteriosclerotic and hypertensive cardiovascular disease,817
-Nevada,2016,November,2016-11-10,HDSP,72,W,M,Hypertensive and arteriosclerotic cardiovascular disease and diabetes mellitus,814
-Nevada,2016,November,2016-11-02,NNCC,57,H,M,"Septic shock (family requested no autopsy, but autopsy was performed)",817
-Nevada,2016,October,2016-10-27,NNCC,63,W,M,Complications of esophageal carcinoma,817
-Nevada,2016,October,2016-10-15,NNCC,75,W,M,Occlusion of right main coronary artery due to atherosclerosis and thrombosis in combination with severe diffuse arteriosclerotic and hypertensive cardiovascular disease,817
-Nevada,2016,October,2016-10-04,HDSP,52,W,M,Cirrhosis due to chronic alcoholism and hepatitis.,814
-Nevada,2016,September,2016-09-28,NNCC,28,W,M,Suicide by hanging,817
-Nevada,2016,September,2016-09-20,NNCC,59,A,M,Hypertensive and arteriosclerotic cardiovascular disease,817
-Nevada,2016,August,2016-08-11,CGTH,44,W,M,Hyperthermia/environmental heat stress and hypertensive cardiovascular disease,2162
-Nevada,2016,August,2016-08-05,NNCC,44,W,M,Metastatic malignant melanoma,817
-Nevada,2016,July,2016-07-25,NNCC,56,H,M,Metastatic lung cancer (bronchogenic),817
-Nevada,2016,July,2016-07-20,NNCC,52,W,M,Complications of neuroleptic malignant syndrome due to pharmaceutical therapy for schizoaffective disorder,817
-Nevada,2016,July,2016-07-10,CGTH,38,AI,M,Methamphetamine intoxication with cardiomegaly and broncho pneumonia,2162
-Nevada,2016,July,2016-07-01,OSC,53,B,M,NA,NA
-Nevada,2016,June,2016-06-20,HDSP,64,W,M,Hypertensive and atherosclerotic cardiovascular disease with Wegener's granulomatosis and pulmonary emphysema,814
-Nevada,2016,June,2016-06-06,HDSP,62,W,M,Coronary artery atherosclerosis with poorly differentiated urothelial carcinoma and renal failure,814
-Nevada,2016,May,2016-05-31,NNCC,59,W,M,Micronodular hepatic cirrhosis due to chronic ethanol abuse,817
-Nevada,2016,May,2016-05-25,NNCC,35,H,M,Stage IV metastatic colon cancer,817
-Nevada,2016,May,2016-05-17,NNCC,43,H,M,Bilateral pneumonia,817
-Nevada,2016,May,2016-05-13,LCC,72,A,M,End stage liver disease and a severely enlarged and dialated heart,816
-Nevada,2016,May,2016-05-05,NNCC,73,W,M,Metastatic adenocarcinoma and squamous cell carcinoma of the lungs,817
-Nevada,2016,April,2016-04-22,NNCC,49,H,M,Sepsis due to peritonitis due to ruptured duodenal ulcers. Also hepatic cirrhosis and chronic Hep C.,817
-Nevada,2016,April,2016-04-17,NNCC,63,W,M,Metastatic liver cancer,817
-Nevada,2016,April,2016-04-16,HDSP,39,W,M,Homicide by multiple stab wounds,814
-Nevada,2016,April,2016-04-12,OSC,44,W,M,NA,NA
-Nevada,2016,March,2016-03-28,HDSP,63,B,M,"Coronary atherosclerosis, acute myeloid leukemia and acute gram negative sepsis",814
-Nevada,2016,March,2016-03-23,HDSP,45,W,M,Suicide by hanging (by autopsy),814
-Nevada,2016,March,2016-03-20,NNCC,86,B,M,"Had multiple health issues, including cancer.  (Per Coroner - family requested that no autopsy be performed).",817
-Nevada,2016,March,2016-03-15,LCC,41,H,M,Suicide by hanging (by autopsy),816
-Nevada,2016,March,2016-03-05,LCC,61,W,M,Hypertensive heart disease,816
-Nevada,2016,February,2016-02-27,NNCC,48,W,M,Ulcerative colitis.  Also dilated non-ischermic cardiomyopathy.,817
-Nevada,2016,February,2016-02-24,HDSP,74,A,M,Hepatocellular carcinoma.  Also hypertensive cardiovascular disease with focal severe coronary arteriosclerosis.,814
-Nevada,2016,February,2016-02-21,NNCC,51,B,M,Renal failure due to polycystic kidney disease.  Also hypertensive heart disease and arteriosclerotic cardiovascular disease.,817
-Nevada,2016,February,2016-02-21,TLVCC,69,W,M,Hypertensive and atherosclerotic cardiovascular disease.,2077
-Nevada,2016,February,2016-02-13,NNCC,27,W,M,Suicide by strangulation.,817
-Nevada,2016,February,2016-02-12,NNCC,65,W,M,Pneumonia and sepsis due to chronic obstructive pulmonary disease.  Also asthma.  Expected death.,817
-Nevada,2016,February,2016-02-06,LCC,72,AI,M,Cardiomegaly due to aortic valve stenosis and hypertensive cardiovascular disease,816
-Nevada,2016,February,2016-02-01,HDSP,26,W,M,Homicide by multiple stab wounds.,814
-Nevada,2016,January,2016-01-18,NNCC,58,W,M,Metastatic melanoma.  Expected death.  Had DNR.,817
-Nevada,2016,January,2016-01-08,NNCC,67,W,M,Atherosclerotic and hypertensive cardiovascular disease.  Also diabetes mellitus and morbid obesity.,817
-Nevada,2016,January,2016-01-03,NNCC,69,B,M,"Complications of metastatic prostate cancer.  Expected death, had DNR.",817
-Nevada,2015,December,2015-12-29,NNCC,72,W,M,Atherosclerotic and hypertensive cardiovascular disease.  Also COPD and diabetes. Had DNR.,817
-Nevada,2015,December,2015-12-26,HDSP,35,W,M,Systemic sepsis due to chronic sacral decubitus ulceration due to bedrest with fluphenazine tranquilization due to schizophrenia and fetal alcohol syndrome,814
-Nevada,2015,December,2015-12-26,NNCC,42,W,M,"Complications of colon cancer.  Expected death, had DNR.",817
-Nevada,2015,December,2015-12-22,NNCC,55,W,M,Cardiomegaly associated with arteriosclerotic and hypertensive cardiovascular disease,817
-Nevada,2015,December,2015-12-19,SDCC,63,W,M,Coronary Atherosclerosis and dilated cardiomyopathy,819
-Nevada,2015,December,2015-12-19,NNCC,53,B,M,Bronchogenic carcinoma in the left lung with metastases to multiple organs.  Had DNR.,817
-Nevada,2015,December,2015-12-18,OSC,85,W,M,Out of state confinement.,NA
-Nevada,2015,December,2015-12-12,NNCC,64,W,M,Stage IV pancreatic cancer.  Also cirrhosis of the liver due to hepatitis C.  Verbal DNR at hospital.,817
-Nevada,2015,November,2015-11-28,HDSP,50,W,M,Metastatic urothelial carcinoma,814
-Nevada,2015,November,2015-11-23,NNCC,29,B,M,T-cell lymphoma per Death Record. (Family requested no autopsy.  Received death record from WCME).,817
-Nevada,2015,October,2015-10-23,NNCC RMF,31,W,M,"Malignant melanoma with numerous metastases.  Expected death, had DNR.",817
-Nevada,2015,October,2015-10-20,NNCC RMF,79,H,M,"Atherosclerotic and hypertensive cardiovascular disease.  Also pulmonary emphysema and hepatic cirrhosis contributing.  History of stroke, had pneumonia.  Expected death, had DNR.",817
-Nevada,2015,October,2015-10-15,NNCC,72,W,M,Hypertensive cardiovascular disease.  No known medical issues.  Failure to thrive.  Had DNR.,817
-Nevada,2015,October,2015-10-15,OSC,48,W,M,Out of state confinement.,NA
-Nevada,2015,October,2015-10-06,HDSP,39,H,M,Suicide by hanging.,814
-Nevada,2015,September,2015-09-30,HDSP,46,B,M,Diabetic ketoacidosis.,814
-Nevada,2015,September,2015-09-29,SCC,55,W,M,Heroin intoxication,2164
-Nevada,2015,September,2015-09-24,NNCC,67,W,M,Acute bronchopneumonia due to emphysema and chronic granulomatous lung disease.,817
-Nevada,2015,September,2015-09-21,NNCC MIC,59,W,M,Arteriosclerotic cardiovascular disease with severe coronary artery atherosclerosis.,817
-Nevada,2015,September,2015-09-14,NNCC,69,W,M,Hypertensive and arteriosclerotic cardiovascular disease.,817
-Nevada,2015,August,2015-08-30,FMWCC,78,W,F,Hypertensive and atherosclerotic cardiovascular disease.,812
-Nevada,2015,August,2015-08-17,NNCC RMF,80,W,M,"Metastatic lung cancer.  Also arteriosclerotic cardiovascular disease and COPD. Expected death, had DNR.",817
-Nevada,2015,August,2015-08-09,HDSP,44,B,M,"Hypertensive and atherosclerotic cardiovascular disease.  Found unresponsive in cell. Unexpected death, no DNR.",814
-Nevada,2015,August,2015-08-04,FMWCC,45,W,F,Metastatic non-small cell pulmonary carcinoma--lung cancer.,812
-Nevada,2015,July,2015-07-27,NNCC RMF,63,W,M,Metastatic poorly-differentiated carcinoma involving the esophagus and subcarinal area.,817
-Nevada,2015,July,2015-07-21,NNCC,72,W,M,"Chronic obstructive pulmonary disease exacerbated by bilateral necrotizing pneumonia. Failure to thrive.  Expected death, had DNR.",817
-Nevada,2015,June,2015-06-29,LCC,55,W,M,Suicide by salicylate intoxication,816
-Nevada,2015,June,2015-06-19,NNCC,28,B,M,Asphyxia due to hanging by ligature.,817
-Nevada,2015,June,2015-06-18,NNCC RMF,67,B,M,"Liver failure due to liver cirrhosis due to Hep C, and COPD.",817
-Nevada,2015,June,2015-06-14,NNCC RMF,52,W,M,"Pulmonary carcinoma with distant metastases, pulmonary emphysema.",817
-Nevada,2015,June,2015-06-06,NNCC RMF,76,W,M,"Arteriosclerotic and hypertensive cardiovascular disease.  Unknown at time of death.  Failure to thrive.  Unexpected death, had DNR.",817
-Nevada,2015,June,2015-06-05,NNCC RMF,54,W,M,"End Stage Liver Disease due to cirrhosis due to chronic hepatitis. Hepatic encephylopathy. Expected death, had DNR.",817
-Nevada,2015,June,2015-06-03,NNCC RMF,54,W,M,Endocarditis of the mitral and aortic valve,817
-Nevada,2015,May,2015-05-31,NNCC,64,W,M,Anoxic encephalolopathy due to cardiopulmonary arrest due to cardiomegaly.  Mixed edema.  No DNR.,817
-Nevada,2015,May,2015-05-27,NNCC,77,W,M,"Hypertensive cardiovascular disease.  GI bleed, comfort care at CTH, had DNR.",817
-Nevada,2015,May,2015-05-25,HDSP,68,W,M,"Stage IV Hodgkins lymphoma, expected death, had DNR.",814
-Nevada,2015,May,2015-05-24,SDCC,56,H,M,"Atherosclerotic cardiovascular disease.  Hep C +, unexpected death, no DNR.",819
-Nevada,2015,May,2015-05-22,HDSP,47,B,M,Anaplastic thyroid carcinoma.,814
-Nevada,2015,April,2015-04-15,NNCC RMF,84,W,M,"Arteriosclerotic cardiovascular disease, failure to thrive and dehydration.  Expected death, had DNR.",817
-Nevada,2015,April,2015-04-10,NNCC RMF,64,W,M,Cirrhosis due to hepatitis C.,817
-Nevada,2015,April,2015-04-08,NNCC RMF,60,W,M,Cirrhosis due to hepatitis C.,817
-Nevada,2015,April,2015-04-03,NNCC,54,W,M,Colorectal carcinoma with metastasis to liver.,817
-Nevada,2015,March,2015-03-21,NNCC,56,W,M,Carcinomatosis due to pancreatic cancer.,817
-Nevada,2015,March,2015-03-17,NNCC,49,W,M,Liver failure due to liver cirrhosis due to Hepatitis C.,817
-Nevada,2015,March,2015-03-07,ESP,45,W,M,"Hanging per autopsy, suicide.",811
-Nevada,2015,February,2015-02-26,NNCC,52,W,M,"Met. Prostate cancer, had DNR, expected death.",817
-Nevada,2015,February,2015-02-05,HDSP,60,W,M,"Pulmonary emboli due to deep vein thrombosis, multiple squamous cell carcinomas. No DNR.",814
-Nevada,2015,February,2015-02-02,HDSP,60,W,M,Metastatic squamous cell carcinoma of the tongue. Organizing pneumonia.,814
-Nevada,2015,January,2015-01-01,NNCC,78,W,M,"Hypertensive and arteriosclerotic cardiovascular disease.  Natural causes, failure to thrive, had DNR.",817
+State,Year,Month,Full.Name,Death.Date,ID.No,Death.Age,Race,Location,Facility,Sex,Circumstance.Specific,CMP.ID
+Nevada,2021,January,"Keeney, David",2021-01-02,34474,72,Caucasian,Carson Tahoe Regional Medical Center,NA,NA,NA,NA
+Nevada,2021,January,"Lloyd, Chauncey",2021-01-03,1075113,89,Caucasian,Carson Tahoe Regional Medical Center,NA,NA,NA,NA
+Nevada,2021,January,"Leon, Rodolfo",2021-01-03,19004,69,Cuban,Carson Tahoe Regional Medical Center,NA,NA,NA,NA
+Nevada,2021,January,"D'Agostino, Frank",2021-01-03,32883,58,Caucasian,Carson Tahoe Regional Medical Center,NA,NA,NA,NA
+Nevada,2021,January,"Ward, Jason",2021-01-05,23686,77,Caucasian,Carson Tahoe Regional Medical Center,NA,NA,NA,NA
+Nevada,2021,January,"Pacheco, Louis",2021-01-05,63926,75,American Indian,Carson Tahoe Regional Medical Center,NA,NA,NA,NA
+Nevada,2021,January,"Bradley, Phillip",2021-01-05,36193,63,Caucasian,Saint Mary's Regional Medical Center,NA,NA,NA,NA
+Nevada,2021,January,"Zanghi, Philip",2021-01-09,1121740,74,Caucasian,Regional Medical Facility,NA,NA,NA,NA
+Nevada,2021,January,"Nelson, Michael",2021-01-11,80313,64,Caucasian,Lovelock Correctional Facility,NA,NA,NA,NA
+Nevada,2021,January,"Luckett, Johnny",2021-01-12,21832,54,Caucasian,Regional Medical Facility,NA,NA,NA,NA
+Nevada,2021,January,"Bell, William",2021-01-12,95551,74,Black,Carson Tahoe Regional Medical Center,NA,NA,NA,NA
+Nevada,2021,January,"Lizares, Edward",2021-01-13,1166011,74,Caucasian,Carson Tahoe Regional Medical Center,NA,NA,NA,NA
+Nevada,2021,January,"Wallis, Eddie",2021-01-19,1078556,72,Caucasian,Carson Tahoe Regional Medical Center,NA,NA,NA,NA
+Nevada,2021,January,"Vega, Bernardo",2021-01-22,1035322,80,Hispanic,Northern Nevada Correctional Center,NA,NA,NA,NA
+Nevada,2021,January,"Burkett, Nathaniel",2021-01-20,83548,74,Black,Northern Nevada Correctional Center,NA,NA,NA,NA
+Nevada,2021,January,"Valez, Carlos",2021-01-24,1056488,40,Hispanic,Northern Nevada Correctional Center,NA,NA,NA,NA
+Nevada,2021,January,"Morse, George",2021-01-29,1044941,91,Caucasian,Regional Medical Facility at Northern Nevada Correctional Center,NA,NA,NA,NA
+Nevada,2021,January,"Cruz, Rojillio",2021-01-06,1091322,48,Hispanic,Centennial Hills Hospital,NA,NA,NA,NA
+Nevada,2021,January,"Egberto, Rickey",2021-01-19,20632,65,Caucasian,Carson Tahoe Regional Medical Center,NA,NA,NA,NA
+Nevada,2021,January,"Daughtery, Henry",2021-01-21,12751,68,Caucasian,Northern Nevada Correctional Center,NA,NA,NA,NA
+Nevada,2021,February,"Hardin, Dwayne",2021-02-09,1171503,51,Black,Renown Medical Center,NA,NA,NA,NA
+Nevada,2021,February,"Marshall, Robert",2021-02-09,1089640,75,Caucasian,Regional Medical Facility at Northern Nevada Correctional Center,NA,NA,NA,NA
+Nevada,2021,January,"Bennett, Gregory",2021-01-09,89774,70,Caucasian,St. Rose Dominican Hospital,NA,NA,NA,NA
+Nevada,2021,January,"League, Michael",2021-01-12,67089,74,Caucasian,Renown Medical Center,NA,NA,NA,NA
+Nevada,2021,January,"Woodard, Wilbur",2021-01-19,75121,77,Caucasian,Lovelock Correctional Facility,NA,NA,NA,NA
+Nevada,2021,February,"Caralani, Alfred",2021-02-03,49610,68,Caucasian,Renown Medical Center,NA,NA,NA,NA
+Nevada,2021,February,"Ashman, David",2021-02-14,82424,73,Caucasian,Regional Medical Facility at Northern Nevada Correctional Center,NA,NA,NA,NA
+Nevada,2021,January,"Dearing, Charles",2021-01-24,37536,76,Caucasian,Regional Medical Facility at Northern Nevada Correctional Center,NA,NA,NA,NA
+Nevada,2021,February,"Snow, John",2021-02-27,19598,78,Black,Centennial Hills Hospital,NA,NA,NA,NA
+Nevada,2021,February,"Hendricks, William",2021-02-27,1017829,73,Black,Regional Medical Facility at Northern Nevada Correctional Center,NA,NA,NA,NA
+Nevada,2021,March,"Schnabl, Troy",2021-03-04,72573,65,Caucasian,Kindred Hospital,NA,NA,NA,NA
+Nevada,2021,March,"Dease, Wesley",2021-03-06,21508,59,Black,Ely State Prison,NA,NA,NA,NA
+Nevada,2021,March,"Sharp, Isiah",2021-03-14,1205404,21,Caucasian,High Desert State Prison,NA,NA,NA,NA
+Nevada,2021,April,"Collins, Edward",2021-04-01,45814,51,Caucasian,Lovelock Correctional Facility,NA,NA,NA,NA
+Nevada,2021,April,"Harter, Harold",2021-04-05,44629,56,Caucasian,Lovelock Correctional Facility,NA,NA,NA,NA
+Nevada,2021,April,"Shafter, Kenneth",2021-04-09,56107,49,White,University Medical Center,NA,NA,NA,NA
+Nevada,2021,April,"McKenna, Patrick",2021-04-19,14968,74,Caucasian,Spring Valley Hospital,NA,NA,NA,NA
+Nevada,2021,May,"Lopez, Manuel",2021-05-03,21235,62,Hispanic,High Desert State Prison,NA,NA,NA,NA
+Nevada,2021,April,"Stallworth, Val",2021-04-29,71238,67,Black,Regional Medical Facility at Northern Nevada Correctional Center,NA,NA,NA,NA
+Nevada,2021,May,"Hill, Paul",2021-05-15,15508,62,Caucasian,Regional Medical Facility at Northern Nevada Correctional Center,NA,NA,NA,NA
+Nevada,2021,May,"Hayes, Joshua",2021-05-20,1205810,33,Caucasian,Regional Medical Facility at Northern Nevada Correctional Center,NA,NA,NA,NA
+Nevada,2021,May,"Hernandez, Carlos",2021-05-24,1218265,78,Hispanic,Centennial Hills Hospital,NA,NA,NA,NA
+Nevada,2021,May,"Snider, Michael",2021-05-31,69932,77,Caucasian,Regional Medical Facility at Northern Nevada Correctional Center,NA,NA,NA,NA
+Nevada,2021,June,"Rogers, Anthony",2021-06-03,1084748,70,Caucasian,Regional Medical Facility at Northern Nevada Correctional Center,NA,NA,NA,NA
+Nevada,2021,June,"Miles, Ralph",2021-06-14,86275,54,Caucasian,Carson Tahoe Regional Medical Center,NA,NA,NA,NA
+Nevada,2021,June,"Tutt, Evans",2021-06-29,1148433,36,Black,Regional Medical Facility at Northern Nevada Correctional Center,NA,NA,NA,NA
+Nevada,2021,July,"Clark, Terry",2021-07-09,89533,36,Black,Regional Medical Facility at Northern Nevada Correctional Center,NA,NA,NA,NA
+Nevada,2021,July,"Montgomery, Brad",2021-07-25,1038563,66,Caucasian,High Desert State Prison,NA,NA,NA,NA
+Nevada,2021,July,"Pinto, Liliana",2021-07-25,1239033,35,Black,Florence Mcclure Women's Correctional Center,NA,NA,NA,NA
+Nevada,2021,July,"Hutchinson, Michael",2021-07-26,1132571,28,American Indian,Southern Desert Correctional Center,NA,NA,NA,NA
+Nevada,2021,August,"Burrows, Richard",2021-08-05,55698,65,Caucasian,Centennial Hills Hospital,NA,NA,NA,NA
+Nevada,2021,August,"Hernandez, Rene",2021-08-09,1197464,75,Caucasian,High Desert State Prison,NA,NA,NA,NA
+Nevada,2021,August,"Gates, Andrew",2021-08-27,12489,75,Caucasian,Carson Tahoe Regional Medical Center,NA,NA,NA,NA
+Nevada,2021,September,"Newton, James",2021-09-05,22812,67,Caucasian,Centennial Hills Hospital,NA,NA,NA,NA
+Nevada,2021,September,"Jenks, Ray",2021-09-16,1029919,63,Caucasian,Regional Medical Facility at Northern Nevada Correctional Center,NA,NA,NA,NA
+Nevada,2021,October,"Hightower, Ernest",2021-10-06,96084,61,Black,Regional Medical Facility at Northern Nevada Correctional Center,NA,NA,NA,NA
+Nevada,2021,October,"Quiles, Sergio",2021-10-06,1218975,71,Caucasian,Centennial Hills Hospital,NA,NA,NA,NA
+Nevada,2021,September,"Cave, Hugh",2021-09-16,1083569,63,Caucasian,Regional Medical Facility at Northern Nevada Correctional Center,NA,NA,NA,NA
+Nevada,2021,October,"Poelking, David",2021-10-08,1224300,63,Caucasian,High Desert State Prison,NA,NA,NA,NA
+Nevada,2021,October,"Armstead, Joe",2021-10-17,85650,81,Black,Regional Medical Facility at Northern Nevada Correctional Center,NA,NA,NA,NA
+Nevada,2021,October,"Spraggins, Carlton",2021-10-25,1241243,66,Black,High Desert State Prison,NA,NA,NA,NA
+Nevada,2021,November,"Cawley, Shawn",2021-11-03,89819,49,White,Northern Nevada Correctional Center,NA,NA,NA,NA
+Nevada,2021,November,"Weathers, Trevionte",2021-11-06,1053318,28,Black,High Desert State Prison,NA,NA,NA,NA
+Nevada,2021,November,"Magness, Michael",2021-11-07,1250229,46,White,Northern Nevada Correctional Center,NA,NA,NA,NA
+Nevada,2021,December,"Gonzales, Cipriano",2021-12-05,1233793,80,Other,High Desert State Prison,NA,NA,NA,NA
+Nevada,2021,December,"Meissner, Justin",2021-12-11,29914,58,White,Lovelock Correctional Facility,NA,NA,NA,NA
+Nevada,2021,December,"Newman, Eric",2021-12-13,1043673,45,White,High Desert State Prison,NA,NA,NA,NA
+Nevada,2021,December,"Jackson, Marland",2021-12-15,1184944,45,Black,High Desert State Prison,NA,NA,NA,NA
+Nevada,2020,December,NA,2020-12-31,NA,65,AI,NA,NNCC,M,"Complications of metastatic pancreatic cancer, presumed pneumonia due to COVID-19, hypertensive and atherosclerotic cardiovascular disease",817
+Nevada,2020,December,NA,2020-12-31,NA,62,H,NA,LCC,M,NA,816
+Nevada,2020,December,NA,2020-12-31,NA,76,B,NA,NNCC,M,"Acute respiratory distress syndrome due to pneumonia due to COVID-19, hypertension, type 2 diabetes mellitus and hepatitis C",817
+Nevada,2020,December,NA,2020-12-30,NA,73,W,NA,LCC,M,NA,816
+Nevada,2020,December,NA,2020-12-30,NA,69,AI,NA,LCC,M,NA,816
+Nevada,2020,December,NA,2020-12-27,NA,70,W,NA,NNCC,M,"Acute respiratory distress syndrome due to pneumonia due to COVID-19, hypertension, diabetes mellitus, atherosclerotic cardiovascular disease, COPD",817
+Nevada,2020,December,NA,2020-12-26,NA,66,A,NA,SDCC,M,NA,819
+Nevada,2020,December,NA,2020-12-26,NA,69,H,NA,LCC,M,NA,816
+Nevada,2020,December,NA,2020-12-25,NA,82,W,NA,NNCC,M,NA,817
+Nevada,2020,December,NA,2020-12-25,NA,77,W,NA,NNCC,M,NA,817
+Nevada,2020,December,NA,2020-12-24,NA,62,B,NA,LCC,M,NA,816
+Nevada,2020,December,NA,2020-12-24,NA,58,H,NA,LCC,M,NA,816
+Nevada,2020,December,NA,2020-12-24,NA,71,W,NA,NNCC,M,"Acute respiratory distress syndrome due to pneumonia due to COVID-19, COPD, arterial fibrillation, hypertension, atherosclerotic cardiovascular disease",817
+Nevada,2020,December,NA,2020-12-23,NA,50,W,NA,NNCC,M,"Acute respiratory distress syndrome due to pneumonia due to COVID-19, hypertension, COPD, atrial fibrilllation, morbid obesity",817
+Nevada,2020,December,NA,2020-12-23,NA,65,B,NA,NNCC,M,"Pneumonia due to COVID-19, hypertensive cardiovascular disease",817
+Nevada,2020,December,NA,2020-12-23,NA,62,W,NA,NNCC,M,"Acute respiratory distress syndrome due to pneumonia due to COVID-19, COPD, pulmonary fibrosis, Hepatitis C",817
+Nevada,2020,December,NA,2020-12-22,NA,44,H,NA,LCC,M,NA,816
+Nevada,2020,December,NA,2020-12-21,NA,33,W,NA,LCC,M,NA,816
+Nevada,2020,December,NA,2020-12-21,NA,61,W,NA,NNCC,M,NA,817
+Nevada,2020,December,NA,2020-12-20,NA,72,W,NA,LCC,M,NA,816
+Nevada,2020,December,NA,2020-12-19,NA,59,W,NA,LCC,M,NA,816
+Nevada,2020,December,NA,2020-12-18,NA,63,W,NA,HDSP,M,NA,814
+Nevada,2020,December,NA,2020-12-16,NA,66,W,NA,NNCC,M,NA,817
+Nevada,2020,December,NA,2020-12-13,NA,84,W,NA,SDCC,M,NA,819
+Nevada,2020,December,NA,2020-12-13,NA,62,W,NA,NNCC,M,Acute respiratory distress syndrome due to pneumonia due to COVID-19,817
+Nevada,2020,December,NA,2020-12-12,NA,71,H,NA,LCC,M,NA,816
+Nevada,2020,December,NA,2020-12-08,NA,79,W,NA,NNCC,M,"Pneumonia due to COVID-19, diabetes mellitus, hypercholesterolemia, hypothyroidism",817
+Nevada,2020,December,NA,2020-12-07,NA,71,A,NA,NNCC,M,Acute respiratory distress syndrome due to pneumonia due to COVID-19,817
+Nevada,2020,December,NA,2020-12-05,NA,68,W,NA,LCC,M,NA,816
+Nevada,2020,December,NA,2020-12-03,NA,56,B,NA,HDSP,M,NA,814
+Nevada,2020,November,NA,2020-11-30,NA,58,B,NA,NNCC,M,"Hypertensive and atherosclerotic cardiovascular disease, end stage renal disease, diabetes mellitus",817
+Nevada,2020,November,NA,2020-11-27,NA,37,B,NA,HDSP,M,NA,814
+Nevada,2020,November,NA,2020-11-27,NA,61,H,NA,NNCC,M,"Acute respiratory distress syndrome due to pneumonia due to COVID-19, atherosclerotic and hypertensive cardiovascular disease",817
+Nevada,2020,November,NA,2020-11-24,NA,49,H,NA,HDSP,M,NA,814
+Nevada,2020,November,NA,2020-11-22,NA,30,W,NA,HDSP,M,NA,814
+Nevada,2020,November,NA,2020-11-12,NA,84,W,NA,NNCC,M,"Pulmonary emboli, atherosclerotic and hypertensive cardiovascular disease, COPD, diabetes mellitus, chronic debility with frequent falls",817
+Nevada,2020,November,NA,2020-11-11,NA,76,W,NA,HDSP,M,NA,814
+Nevada,2020,November,NA,2020-11-08,NA,83,W,NA,NNCC,M,"Complications of metastatic lung adenocarcinoma, atherosclerotic cardiovascular disease",817
+Nevada,2020,November,NA,2020-11-08,NA,58,W,NA,HDSP,M,NA,814
+Nevada,2020,November,NA,2020-11-02,NA,40,W,NA,NNCC,M,Suicide by hanging,817
+Nevada,2020,October,NA,2020-10-30,NA,55,W,NA,HDSP,M,NA,814
+Nevada,2020,October,NA,2020-10-25,NA,20,H,NA,HDSP,M,NA,814
+Nevada,2020,October,NA,2020-10-19,NA,56,W,NA,NNCC,M,NA,817
+Nevada,2020,September,NA,2020-09-13,NA,61,W,NA,HDSP,M,NA,814
+Nevada,2020,September,NA,2020-09-12,NA,65,H,NA,HDSP,M,NA,814
+Nevada,2020,September,NA,2020-09-03,NA,75,B,NA,NNCC,M,"Complications of perfroated duodenal ulcer, hypertensive and atherosclerotic cardiovascular disease, emphysema, diabetes mellitus and obesity",817
+Nevada,2020,August,NA,2020-08-29,NA,46,B,NA,LCC,M,NA,816
+Nevada,2020,August,NA,2020-08-22,NA,50,W,NA,HDSP,M,NA,814
+Nevada,2020,August,NA,2020-08-19,NA,41,B,NA,SDCC,M,NA,819
+Nevada,2020,August,NA,2020-08-17,NA,79,A,NA,NNCC,M,NA,817
+Nevada,2020,August,NA,2020-08-04,NA,55,W,NA,NNCC,M,Complications of metastatic colon cancer,817
+Nevada,2020,July,NA,2020-07-30,NA,45,W,NA,HDSP,M,NA,814
+Nevada,2020,July,NA,2020-07-28,NA,50,W,NA,SDCC,M,NA,819
+Nevada,2020,July,NA,2020-07-28,NA,72,B,NA,HDSP,M,NA,814
+Nevada,2020,July,NA,2020-07-22,NA,29,W,NA,HDSP,M,NA,814
+Nevada,2020,July,NA,2020-07-20,NA,63,B,NA,NNCC,M,Atherosclerotic cardiovascular disease and diabetes mellitus,817
+Nevada,2020,July,NA,2020-07-15,NA,77,B,NA,NNCC,M,"Atherosclerotic cardiovascular disease, prostatic adenocarcinoma, papillary urothelial carcinoma of the bladder, cachexia",817
+Nevada,2020,July,NA,2020-07-01,NA,61,W,NA,NNCC,M,Complications of metastatic lung cancer,817
+Nevada,2020,June,NA,2020-06-16,NA,70,W,NA,NNCC,M,"Complications of probable pancreatic cancer, hypertension and diabetes mellitus",817
+Nevada,2020,June,NA,2020-06-09,NA,54,W,NA,NNCC,M,Complications of metastatic carcinoma,817
+Nevada,2020,June,NA,2020-06-09,NA,52,B,NA,HDSP,M,"Bilateral pulmonary emboli due to obesity, and cardiomyopathy and cardiac valvular disease",814
+Nevada,2020,June,NA,2020-06-07,NA,53,B,NA,SDCC,M,"Upper gastrointestinal hemorrhage due to chronic gastritis, hypertensive cardiovascular disease and renal insufficiency",819
+Nevada,2020,May,NA,2020-05-07,NA,78,W,NA,NNCC,M,"Failure to thrive, arteriosclerotic cardiovascular disease",817
+Nevada,2020,April,NA,2020-04-30,NA,60,W,NA,NNCC,M,Advanced bone cancer,817
+Nevada,2020,April,NA,2020-04-30,NA,54,W,NA,NNCC,M,End stage liver disease due to Hepatitis C,817
+Nevada,2020,April,NA,2020-04-28,NA,52,W,NA,NNCC,M,"Complications of cirrhosis due to Hepatitis C infection, acute bronchopneumonia, hypertensive cardiovascular disease",817
+Nevada,2020,April,NA,2020-04-26,NA,35,H,NA,ESP,M,Inhalation of products of combustion,811
+Nevada,2020,April,NA,2020-04-19,NA,32,W,NA,HDSP,M,Suicide by hanging,814
+Nevada,2020,April,NA,2020-04-18,NA,65,H,NA,LCC,M,Complications of acute bacterial pneumonia due to staphylococcus aureus infection,816
+Nevada,2020,April,NA,2020-04-07,NA,74,W,NA,NNCC,M,"Hypertensive cardiovascular disease, COPD, Parkinson's Disease and chronic debility",817
+Nevada,2020,April,NA,2020-04-04,NA,82,W,NA,NNCC,M,Bacterial pneumnia due to COPD and diabetes mellitus and hypertension,817
+Nevada,2020,March,NA,2020-03-13,NA,79,W,NA,HDSP,M,"Cerebral vascular accident and complications thereof, hypertensive and atherosclerotic cardiovascular disease and cardiac valvular disease",814
+Nevada,2020,March,NA,2020-03-08,NA,87,W,NA,NNCC,M,"Atherosclerotic and hypertensive cardiovascular disease, pneumonia, dementia, acute pancreatitis",817
+Nevada,2020,March,NA,2020-03-06,NA,55,B,NA,HDSP,M,Septic shock due to cellulitis and the sequelae thereof with hypertensive and atherosclerotic cardiovascular disease and sarcoidosis,814
+Nevada,2020,February,NA,2020-02-28,NA,41,H,NA,HDSP,M,Suicide by hanging,814
+Nevada,2020,February,NA,2020-02-22,NA,33,B,NA,NNCC,M,Suicide by acute amiodipine toxicity,817
+Nevada,2020,February,NA,2020-02-18,NA,70,W,NA,NNCC,M,"Complications of COPD, also atherosclerotic cardiovascular disease",817
+Nevada,2020,February,NA,2020-02-13,NA,72,W,NA,NNCC,M,"Acute bronchopneumonia complicating hepatocellular cancer, also hypertensive and atherosclerotic cardiovascular disease",817
+Nevada,2020,February,NA,2020-02-06,NA,49,H,NA,HCC,M,"Myocardial infarction due to coronary artery thrombosis due to atherosclerotic and hypertensive cardiovascular disease, also obesity",1750
+Nevada,2020,January,NA,2020-01-31,NA,85,W,NA,NNCC,M,"Acute bronchopneumonia, also COPD, hypertensive and altherosclerotic cardiovascular disease",817
+Nevada,2019,December,NA,2019-12-28,NA,58,H,NA,NNCC,M,"Acute bacterial peritonitis, also pancreatic adenocarcinoma",817
+Nevada,2019,December,NA,2019-12-24,NA,76,W,NA,HDSP,M,Myocardial infarction due to hypertensive and atherosclerotic cardiovascular disease,814
+Nevada,2019,December,NA,2019-12-13,NA,50,W,NA,NNCC,M,Complications of metastatic neuroendocrine carcinoma,817
+Nevada,2019,December,NA,2019-12-04,NA,71,B,NA,NNCC,M,Acute bacterial pneumonia,817
+Nevada,2019,November,NA,2019-11-27,NA,45,A,NA,SDCC,M,Hypertensive and arteriosclerotic cardiovascular disease,819
+Nevada,2019,November,NA,2019-11-25,NA,38,B,NA,HDSP,M,"Pulmonary infarction due to pulmonary embolism with acute renal failure, sick cell trait and hypertension with recurrent atrial fibrillation and atrial flutter",814
+Nevada,2019,November,NA,2019-11-20,NA,73,AI,NA,NNCC,M,"Complications of hepatocellular carcinoma, also Hepatitis C, remote hisotry of chronic alchol abuse",817
+Nevada,2019,November,NA,2019-11-06,NA,69,W,NA,NNCC,M,"Complications of right hip fracture, also hypertensive -type and atherosclerotic cardiovascular disease",817
+Nevada,2019,October,NA,2019-10-29,NA,37,B,NA,ESP,M,Homicide due to multiple stab and incised wounds,811
+Nevada,2019,October,NA,2019-10-24,NA,55,W,NA,LCC,M,Complications of colonic obstruction due to colonic diverticulitis,816
+Nevada,2019,October,NA,2019-10-20,NA,65,W,NA,HDSP,M,"Delayed complications from abdominal aortic aneurysm due to atherosclerotic and hypertensive cardiovascular disease, and COPD",814
+Nevada,2019,October,NA,2019-10-04,NA,60,W,NA,NNCC,M,Severe acute pneumonia,817
+Nevada,2019,September,NA,2019-09-03,NA,57,B,NA,HDSP,M,Myocardial infarction and schizophrenia,814
+Nevada,2019,August,NA,2019-08-30,NA,78,B,NA,HDSP,M,Hypertensive and atherosclerotic cardiovascular disease and diabetes mellitus,814
+Nevada,2019,August,NA,2019-08-26,NA,49,B,NA,NNCC,M,NA,817
+Nevada,2019,August,NA,2019-08-14,NA,52,W,NA,NNCC,M,Atherosclerotic cardiovascular disease,817
+Nevada,2019,August,NA,2019-08-13,NA,81,W,NA,NNCC,M,"Acute bronchopneumonia, also hypertensive and altherosclerotic cardiovascular disease",817
+Nevada,2019,August,NA,2019-08-01,NA,58,W,NA,HDSP,M,Hepatorenal syndrome due to cirrhosis due to Hepatitis C viral infection with cholangiocarcinoma,814
+Nevada,2019,July,NA,2019-07-23,NA,66,W,NA,HDSP,M,NA,814
+Nevada,2019,July,NA,2019-07-15,NA,63,W,NA,HDSP,M,"Hepatocellular carcinoma and complications thereof, history of Hepatitis C virus infection and chronic ethanolism",814
+Nevada,2019,July,NA,2019-07-13,NA,56,B,NA,NNCC,M,Complications of metastatic prostate carcinoma,817
+Nevada,2019,July,NA,2019-07-01,NA,60,W,NA,HDSP,M,"Acute myocardial infarction due to hypertensive and atherosclerotic cardiovascular disease with peritonitis,, cirrhosis and Hepatitis C viral infection",814
+Nevada,2019,May,NA,2019-05-28,NA,71,W,NA,NNCC,M,"Complications of metastatic lung carcinoma, acute bronchopneumonia, hypertensive/valvular/atherosclerotic cardiovascular disease, COPD and diabetes mellitus",817
+Nevada,2019,April,NA,2019-04-23,NA,56,W,NA,NNCC,M,"Group A streptococcal sepsis due to pneumonia and retropharyngeal absceses, hepatic cirrhosis with chronic hepatitis and steatosis",817
+Nevada,2019,April,NA,2019-04-22,NA,55,H,NA,HDSP,M,"Hypertensive and arteriosclerotic cardiovascular disease, diabetes mellitus, asthma, DOPD and cirrhosis",814
+Nevada,2019,April,NA,2019-04-21,NA,64,AI,NA,NNCC,M,"Complications of urothelial carcinoma of the bladder, hypertensive and atherosclerotic cardiovascular disease and acute bronchopneumonia",817
+Nevada,2019,March,NA,2019-03-28,NA,68,H,NA,NNCC,M,Hypertensive and atherosclerotic cardiovascular disease,817
+Nevada,2019,March,NA,2019-03-25,NA,64,W,NA,NNCC,M,Complications of metastatic pancreatic carcinoma,817
+Nevada,2019,March,NA,2019-03-18,NA,76,W,NA,NNCC,M,Metastatic adenocarcinoma of the lungs,817
+Nevada,2019,March,NA,2019-03-16,NA,64,B,NA,NNCC,M,"Spontaneour non-traumatic intraperitoneal hemorrhage, remote cerebral infarcts, pulmonary emphysema, pneumonia, hepatic cirrhosis and cardiomegaly",817
+Nevada,2019,March,NA,2019-03-06,NA,61,B,NA,NNCC,M,Complications of COPD,817
+Nevada,2019,February,NA,2019-02-23,NA,71,B,NA,HDSP,M,Congestive heart failure due to myocardial infarction due to hypertensive and arteriosclerotic cardiovascular disease and emphysema,814
+Nevada,2019,February,NA,2019-02-19,NA,29,B,NA,SDCC,M,Suicide by hanging,819
+Nevada,2019,February,NA,2019-02-16,NA,73,W,NA,NNCC,M,Lobar pneumonia,817
+Nevada,2019,February,NA,2019-02-13,NA,71,B,NA,NNCC,M,Metastatic adenocarcinoma of the prostate gland,817
+Nevada,2019,February,NA,2019-02-04,NA,47,W,NA,HDSP,M,Pneumonia and COPD and cellulitus of lower extremities,814
+Nevada,2019,January,NA,2019-01-31,NA,54,W,NA,NNCC,M,Complications of end stage renal disease due to membranous glomerulopathy,817
+Nevada,2019,January,NA,2019-01-28,NA,72,B,NA,NNCC,M,Complications of hepatic cirrhosis due to hepatitis C infection,817
+Nevada,2019,January,NA,2019-01-26,NA,57,H,NA,NNCC,M,"Upper gastronintestinal hemorrhage due to esophageal varices due to complications of cirrhosis, also hepatitis C and hepatocellular carcinoma.",817
+Nevada,2019,January,NA,2019-01-19,NA,65,W,NA,NNCC,M,Arterioslcerotic cardiovascular disease,817
+Nevada,2019,January,NA,2019-01-05,NA,48,W,NA,ESP,M,Suicide by hanging,811
+Nevada,2018,December,NA,2018-12-25,NA,62,W,NA,NNCC,M,"Acute blood loss due to epistaxis and/or gastrointestinal intrluminal hemorrhage, also atherosclerotic and hyptertensive cardiovascular disease, COPD and diabetes",817
+Nevada,2018,December,NA,2018-12-19,NA,76,H,NA,SDCC,M,Complications of hypertensive and atherosclerotic cardiovascular disease and diabetes mellitus,819
+Nevada,2018,December,NA,2018-12-18,NA,34,B,NA,HDSP,M,Suicide by hanging,814
+Nevada,2018,December,NA,2018-12-10,NA,47,B,NA,NNCC,M,Complications of malignant paraganglioma,817
+Nevada,2018,December,NA,2018-12-09,NA,32,W,NA,NNCC,M,"Marked cardiomegaly, also thymoma, morbid obesity",817
+Nevada,2018,December,NA,2018-12-08,NA,69,W,NA,NNCC,M,"Complications of pulmonary fibrosis, also COPD, atherosclerotic and hypertensive cardiovascular disease and diabetes mellitus",817
+Nevada,2018,November,NA,2018-11-21,NA,37,H,NA,NNCC,M,Complications of metastatic osteosarcoma,817
+Nevada,2018,November,NA,2018-11-10,NA,63,A,NA,HDSP,M,Metastatic colon adenocarcinoma,814
+Nevada,2018,October,NA,2018-10-12,NA,55,B,NA,HDSP,M,Hypertensive and atherosclerotic cardiovascular disease and diabetes mellitus,814
+Nevada,2018,September,NA,2018-09-23,NA,81,H,NA,NNCC,M,"Pneumonia, also atherosclerotic and hypertensive cardiovascular disease, diabetes mellitus and seizure disorder",817
+Nevada,2018,September,NA,2018-09-08,NA,68,W,NA,NNCC,M,"Complications of squamous cell carcinoma of the lung, also hypertensive-type and atherosclerotic cardiovascular disease",817
+Nevada,2018,August,NA,2018-08-28,NA,59,W,NA,NNCC,M,Atherosclerotic and hypertensive cardiovascular disease,817
+Nevada,2018,August,NA,2018-08-26,NA,43,W,NA,NNCC,M,"Pulmonary thrombosis due to deep venous thrombosis of the lower extremities, also enterbacter aerogenes aspiration pneumonia due to leukodystrophy",817
+Nevada,2018,August,NA,2018-08-23,NA,66,W,NA,NNCC,M,"Complications of metastatic carcinoma of the liver, also Hepatitis C",817
+Nevada,2018,August,NA,2018-08-20,NA,65,B,NA,NNCC,M,"Complications of metastatic adenocarcinoma of the lung, also hypertensive and atherosclerotic cardiovascualar disease",817
+Nevada,2018,August,NA,2018-08-20,NA,55,W,NA,HDSP,M,"Primary central nervous system lymphoma, also goodpasture syndrome, hypertensive and arteriosclerotic cardiovascular disease and pneumonia",814
+Nevada,2018,July,NA,2018-07-10,NA,71,W,NA,HDSP,M,Pneumonia,814
+Nevada,2018,June,NA,2018-06-27,NA,61,W,NA,NNCC,M,"Complications from hepatic cirrhosis due to hepatitis C, alson organizing pneumonia and atherosclerotic and hypertensive cardiovascular disease",817
+Nevada,2018,June,NA,2018-06-19,NA,59,AI,NA,NNCC,M,Metastatic rectal adenocarcenoma,817
+Nevada,2018,June,NA,2018-06-15,NA,78,W,NA,NNCC,M,Atherosclerotic and hypertensive cardiovascular disease,817
+Nevada,2018,June,NA,2018-06-13,NA,70,W,NA,NNCC,M,Hepatocellular carcinoma,817
+Nevada,2018,June,NA,2018-06-03,NA,27,B,NA,CGTH,M,Suicide by hanging,2162
+Nevada,2018,May,NA,2018-05-29,NA,41,B,NA,HDSP,M,"Poorly-differentiated malignancy, COPD and tabacco use",814
+Nevada,2018,May,NA,2018-05-29,NA,37,W,NA,HDSP,M,Metastatic gern cell tumor of apparent retroperitoneal origin,814
+Nevada,2018,May,NA,2018-05-29,NA,51,W,NA,HDSP,M,"Suicide by multiple blunt force injuries and complications, cirrhosis, hepatitis C viral infection",814
+Nevada,2018,May,NA,2018-05-25,NA,70,W,NA,NNCC,M,"Myocardial infarction due to coronary artery thrombosis due to atherosclerotic and hypertensive cardiovascular disease, also COPD",817
+Nevada,2018,May,NA,2018-05-15,NA,27,B,NA,NNCC,M,Homicide by stab wound to the neck,817
+Nevada,2018,May,NA,2018-05-11,NA,61,W,NA,NNCC,M,Ruptured abdominal aoritic aneurysm due to hypertensive and atherosclerotic cardiovascular disease,817
+Nevada,2018,May,NA,2018-05-01,NA,64,AI,NA,HDSP,M,"Complications of hypertensive vasculopathy, including vascular dementia, decubitus ulcers, malnutrition and debility, atherosclerotic cardiovascular disease and COPD",814
+Nevada,2018,April,NA,2018-04-28,NA,25,W,NA,FMWCC,F,Suicide by hanging,812
+Nevada,2018,April,NA,2018-04-27,NA,61,W,NA,NNCC,M,"Complications of aspiration pneumonia and incarcerated umbilical hernia, agnioedema secondary to administration of intravenous contrast, end-stage renal disease, ASCVD",817
+Nevada,2018,April,NA,2018-04-17,NA,32,H,NA,ESP,M,Homicide by multiple stab wounds,811
+Nevada,2018,April,NA,2018-04-04,NA,71,W,NA,HDSP,M,"Accident - complications of left femure fracture due to fall, congestive heart failure, cardiac valvular disease, cirrhosis, hypertension and chromic anemia due to thalassemia",814
+Nevada,2018,April,NA,2018-04-03,NA,72,W,NA,NNCC,M,"Coronary artery graft thrombosis due to complications of recent coronary artery bypass surgery due to atherosclerotic and hypertensive cardiovascular disease, and unilateral pulmonary thromboembolism and type 2 diabetes mellitus",817
+Nevada,2018,March,NA,2018-03-26,NA,54,A,NA,SDCC,M,Ruptured acute mocardial infarct due to coronary atherosclerosis,819
+Nevada,2018,March,NA,2018-03-08,NA,77,W,NA,NNCC,M,"Metastatic squamous cell carcinoma of the skin, also atherosclerotic and hypertensive cardiovascular disease",817
+Nevada,2018,March,NA,2018-03-05,NA,58,W,NA,NNCC,M,"Atherosclerotic cardiovascular disease with acute bronchopneumonia, hypertensive cardiovascular disease, hepatitis B and hepatitis C",817
+Nevada,2018,March,NA,2018-03-03,NA,51,W,NA,HDSP,M,"Pneumonia with cirrhosis, hepatitis C infection and righty ventricular dilation",814
+Nevada,2018,February,NA,2018-02-27,NA,49,W,NA,NNCC,M,Acute bronchopneumonia with atherosclerotic cardiovascular disease and a history ofself-injury to the head,817
+Nevada,2018,February,NA,2018-02-12,NA,53,H,NA,HDSP,M,Hemoperitoneum due to coagulopathy due to cirrhosis and hepatitis C virus infection with gastrointestinal hemorrhage due to esophageal varicies,814
+Nevada,2018,February,NA,2018-02-09,NA,66,W,NA,NNCC,M,Upper gastronintestinal hemorrhage due to probable ruptured esophageal varices due to hepatic cirrhosis due to hepatitis C and B infection.  Also ASCVD and COPD.,817
+Nevada,2018,February,NA,2018-02-02,NA,83,W,NA,NNCC,M,"Complications of colon cancer, COPD and atherosclerotic cardiovascular disease",817
+Nevada,2018,January,NA,2018-01-25,NA,87,W,NA,NNCC,M,Acute bronchopneumonia,817
+Nevada,2018,January,NA,2018-01-15,NA,54,B,NA,HDSP,M,"Pulmonary embolism due to phlebothrombosis, also hypertensive cardiovascular disease",814
+Nevada,2018,January,NA,2018-01-14,NA,62,B,NA,HDSP,M,"Pneumonia with hypertensive and atherosclerotic cardiovascular disease, cirrhosis and hepatocellular carcinoma",814
+Nevada,2018,January,NA,2018-01-09,NA,76,W,NA,NNCC,M,"Complications of metastatic adenocarcinoma, acute bronchopneumonia, hepatitis C infection, hypertensive and atherosclerotic cv disease",817
+Nevada,2017,December,NA,2017-12-31,NA,44,B,NA,HDSP,M,Acute myocardial infarction with multiple myeloma,814
+Nevada,2017,December,NA,2017-12-11,NA,70,W,NA,NNCC,M,"E.coli sepsis due to acute peritonitis with Hepatitis C infection with hepatic cirrhosis, metastatic adenocarcinoma of the lung",817
+Nevada,2017,December,NA,2017-12-06,NA,61,B,NA,NNCC,M,Complications of lobar pneumonia,817
+Nevada,2017,December,NA,2017-12-04,NA,67,B,NA,NNCC,M,"End stage renal disease, hypertensive cardiovascular disease, diabetes and hepatitis C",817
+Nevada,2017,November,NA,2017-11-30,NA,56,W,NA,NNCC,M,Hypertensive and atherosclerotic cardiovascular disease,817
+Nevada,2017,November,NA,2017-11-16,NA,48,B,NA,LCC,M,Acute myocardial infarction due to thromobosis of left anterior descending coronary artery due to hypertensive and atherosclerotic cardiovascular disease,816
+Nevada,2017,November,NA,2017-11-05,NA,46,W,NA,NNCC,M,Suicide by hanging,817
+Nevada,2017,October,NA,2017-10-30,NA,85,W,NA,FMWCC,F,Metastatic primary pulmonary carcinoma (small cell variant),812
+Nevada,2017,October,NA,2017-10-26,NA,74,W,NA,NNCC,M,Complications of acute pyelonephritis due to chronic obstructive uropathy and benign prostatic hyperplasia and bladder stones,817
+Nevada,2017,October,NA,2017-10-17,NA,74,B,NA,NNCC,M,"Complications of metastatic gastric adenocarcinoma with lymphoma, hypertensive and atherosclerotic cardiovascular disease and COPD",817
+Nevada,2017,September,NA,2017-09-30,NA,47,B,NA,SDCC,M,Sepsis due to peritonitis due to Non-Hodgkin's B cell lymphoma,819
+Nevada,2017,September,NA,2017-09-14,NA,50,W,NA,CGTH,M,Suicide by hanging,2162
+Nevada,2017,September,NA,2017-09-02,NA,61,B,NA,HDSP,M,"Metastatic pulmonary adenocarcinoma with diabetes mellitus, hypertensive cardiovascular disease and renal failure",814
+Nevada,2017,August,NA,2017-08-30,NA,63,W,NA,HDSP,M,Acute bronchopneumonia and metastatic squamous cell carcinoma (NOS),814
+Nevada,2017,August,NA,2017-08-03,NA,55,W,NA,HDSP,M,Pneumonia with metastatic squamous cell carcinoma of the tongue and hypertensive and atherosclerotic cardiovascular disease,814
+Nevada,2017,July,NA,2017-07-27,NA,75,W,NA,NNCC,M,"Complications of squamous cell carcinoma of the lung, COPD and atherosclerotic cardiovascular disease",817
+Nevada,2017,July,NA,2017-07-24,NA,64,W,NA,NNCC,M,Atherosclerotic cardiovascular disease,817
+Nevada,2017,July,NA,2017-07-22,NA,46,W,NA,HDSP,M,"Primary squamous cell carcinoma of the right lung, acute respiratory distress syndrome due to infectious pneumonia",814
+Nevada,2017,July,NA,2017-07-14,NA,51,W,NA,FMWCC,F,Hemopericardium due to ruptured myocardial infarction (heart attack),812
+Nevada,2017,June,NA,2017-06-23,NA,68,H,NA,NNCC,M,Blunt head trauma (homicide per autopsy),817
+Nevada,2017,June,NA,2017-06-21,NA,48,W,NA,HDSP,M,Metastatic ampullary high grade neuroendocrine tumor of the pancreas,814
+Nevada,2017,June,NA,2017-06-19,NA,64,W,NA,NNCC,M,"Acute peritonitis due to cecal perforation and colonic ileus, CHF, Cirrhosis and COPD",817
+Nevada,2017,June,NA,2017-06-19,NA,63,B,NA,NNCC,M,Complications of pyelonephritis,817
+Nevada,2017,May,NA,2017-05-20,NA,31,B,NA,HDSP,M,Pulmonary thromboembolism due to deep venous thrombosis,814
+Nevada,2017,May,NA,2017-05-20,NA,58,W,NA,NNCC,M,Gastrointestinal hemorrhage due to esophageal varices due to hepatitis C-associated hepatic cirrhosis,817
+Nevada,2017,May,NA,2017-05-10,NA,65,W,NA,LCC,M,Acute pneumonia with interstitial lung disease and atherosclerotic cardiovascular disease,816
+Nevada,2017,May,NA,2017-05-10,NA,74,W,NA,NNCC,M,"Congestive heart failure, hypertensive and atherosclerotic cardiovascular disease, atrial fibrillation and chronic kidney disease",817
+Nevada,2017,May,NA,2017-05-09,NA,77,W,NA,NNCC,M,Congestive heart failure due to aortic valvular heart disease with atherosclerotic and hypertensive cardiovascular disease and COPD,817
+Nevada,2017,April,NA,2017-04-30,NA,31,B,NA,ESP,M,Embolic ischemic infarction of the right cerebral hemisphere and multiple mural thrombi of the left ventricle,811
+Nevada,2017,April,NA,2017-04-29,NA,63,W,NA,NNCC,M,"Complications of infective endocarditis of the mitral valve and chronic alcoholism, hepatitis C viral infection and ASCVD",817
+Nevada,2017,April,NA,2017-04-18,NA,43,B,NA,HDSP,M,"Nasopharyngeal carcinoma, COPD and HIV",814
+Nevada,2017,April,NA,2017-04-16,NA,74,H,NA,NNCC,M,"Acute bronchopneumonia , also ASCVD and diabetes mellitus",817
+Nevada,2017,April,NA,2017-04-14,NA,72,W,NA,NNCC,M,Complications of metastatic lung cancer,817
+Nevada,2017,April,NA,2017-04-10,NA,67,A,NA,NNCC,M,"Massive stroke w/hemorrhagic transformation, acute respiratory failure, chronic systolic heart failure, coronary artery disease, upper GI bleed",817
+Nevada,2017,March,NA,2017-03-30,NA,65,B,NA,SDCC,M,Myocardial infarction due to hypertensive and atherosclerotic cardiovascular disease,819
+Nevada,2017,March,NA,2017-03-27,NA,56,W,NA,HDSP,M,Coronary atherosclerosis and hypertensive cardiovascular disease.,814
+Nevada,2017,March,NA,2017-03-21,NA,84,W,NA,NNCC,M,"Cholangiocarcinoma, COPD,  ASCVD and multiple cerebral infarctions",817
+Nevada,2017,March,NA,2017-03-19,NA,78,H,NA,NNCC,M,"Complications of dementia (family requested no autopsy, but autopsy was performed)",817
+Nevada,2017,March,NA,2017-03-15,NA,67,H,NA,NNCC,M,"Complications of pulmonary emphysema, also malnutrition and dehydration, atherosclerotic and hypertensive cardiovascular disease",817
+Nevada,2017,March,NA,2017-03-06,NA,24,H,NA,NNCC,M,Complications of testicular cancer,817
+Nevada,2017,February,NA,2017-02-22,NA,75,W,NA,NNCC,M,"Complications of pneumonia, also atherosclerotic and hypertensive cardiovascular disease, pulmonary embolus and COPD",817
+Nevada,2017,January,NA,2017-01-30,NA,53,W,NA,CGTH,M,Atherosclerotic cardiovasuclar disease,2162
+Nevada,2017,January,NA,2017-01-28,NA,63,B,NA,NNCC,M,"Intracerebral hemorrhage due to hypertensive cardiovascular disease, atherosclerotic cardiovascular disease and emphysema",817
+Nevada,2017,January,NA,2017-01-20,NA,53,W,NA,HDSP,M,"Liver failure due to cirrhosis due to viral hepatitis, and hemorrhagic pancreatitis",814
+Nevada,2017,January,NA,2017-01-19,NA,74,W,NA,NNCC,M,Complications of left hip fracture,817
+Nevada,2017,January,NA,2017-01-13,NA,81,W,NA,NNCC,M,Liver cancer with COPD and hypertensive cardiovascular disease,817
+Nevada,2017,January,NA,2017-01-10,NA,36,B,NA,ESP,M,Pneumonia,811
+Nevada,2016,December,NA,2016-12-18,NA,61,W,NA,FMWCC,F,Metastatic carcinoma of the breast,812
+Nevada,2016,December,NA,2016-12-03,NA,76,W,NA,NNCC,M,Metastatic prostate carcinoma,817
+Nevada,2016,November,NA,2016-11-19,NA,56,W,NA,HDSP,M,Hepatic cirrhosis due to Hepatitis C,814
+Nevada,2016,November,NA,2016-11-10,NA,73,W,NA,NNCC,M,Congestive heart failure due to arteriosclerotic and hypertensive cardiovascular disease,817
+Nevada,2016,November,NA,2016-11-10,NA,72,W,NA,HDSP,M,Hypertensive and arteriosclerotic cardiovascular disease and diabetes mellitus,814
+Nevada,2016,November,NA,2016-11-02,NA,57,H,NA,NNCC,M,"Septic shock (family requested no autopsy, but autopsy was performed)",817
+Nevada,2016,October,NA,2016-10-27,NA,63,W,NA,NNCC,M,Complications of esophageal carcinoma,817
+Nevada,2016,October,NA,2016-10-15,NA,75,W,NA,NNCC,M,Occlusion of right main coronary artery due to atherosclerosis and thrombosis in combination with severe diffuse arteriosclerotic and hypertensive cardiovascular disease,817
+Nevada,2016,October,NA,2016-10-04,NA,52,W,NA,HDSP,M,Cirrhosis due to chronic alcoholism and hepatitis.,814
+Nevada,2016,September,NA,2016-09-28,NA,28,W,NA,NNCC,M,Suicide by hanging,817
+Nevada,2016,September,NA,2016-09-20,NA,59,A,NA,NNCC,M,Hypertensive and arteriosclerotic cardiovascular disease,817
+Nevada,2016,August,NA,2016-08-11,NA,44,W,NA,CGTH,M,Hyperthermia/environmental heat stress and hypertensive cardiovascular disease,2162
+Nevada,2016,August,NA,2016-08-05,NA,44,W,NA,NNCC,M,Metastatic malignant melanoma,817
+Nevada,2016,July,NA,2016-07-25,NA,56,H,NA,NNCC,M,Metastatic lung cancer (bronchogenic),817
+Nevada,2016,July,NA,2016-07-20,NA,52,W,NA,NNCC,M,Complications of neuroleptic malignant syndrome due to pharmaceutical therapy for schizoaffective disorder,817
+Nevada,2016,July,NA,2016-07-10,NA,38,AI,NA,CGTH,M,Methamphetamine intoxication with cardiomegaly and broncho pneumonia,2162
+Nevada,2016,July,NA,2016-07-01,NA,53,B,NA,OSC,M,NA,NA
+Nevada,2016,June,NA,2016-06-20,NA,64,W,NA,HDSP,M,Hypertensive and atherosclerotic cardiovascular disease with Wegener's granulomatosis and pulmonary emphysema,814
+Nevada,2016,June,NA,2016-06-06,NA,62,W,NA,HDSP,M,Coronary artery atherosclerosis with poorly differentiated urothelial carcinoma and renal failure,814
+Nevada,2016,May,NA,2016-05-31,NA,59,W,NA,NNCC,M,Micronodular hepatic cirrhosis due to chronic ethanol abuse,817
+Nevada,2016,May,NA,2016-05-25,NA,35,H,NA,NNCC,M,Stage IV metastatic colon cancer,817
+Nevada,2016,May,NA,2016-05-17,NA,43,H,NA,NNCC,M,Bilateral pneumonia,817
+Nevada,2016,May,NA,2016-05-13,NA,72,A,NA,LCC,M,End stage liver disease and a severely enlarged and dialated heart,816
+Nevada,2016,May,NA,2016-05-05,NA,73,W,NA,NNCC,M,Metastatic adenocarcinoma and squamous cell carcinoma of the lungs,817
+Nevada,2016,April,NA,2016-04-22,NA,49,H,NA,NNCC,M,Sepsis due to peritonitis due to ruptured duodenal ulcers. Also hepatic cirrhosis and chronic Hep C.,817
+Nevada,2016,April,NA,2016-04-17,NA,63,W,NA,NNCC,M,Metastatic liver cancer,817
+Nevada,2016,April,NA,2016-04-16,NA,39,W,NA,HDSP,M,Homicide by multiple stab wounds,814
+Nevada,2016,April,NA,2016-04-12,NA,44,W,NA,OSC,M,NA,NA
+Nevada,2016,March,NA,2016-03-28,NA,63,B,NA,HDSP,M,"Coronary atherosclerosis, acute myeloid leukemia and acute gram negative sepsis",814
+Nevada,2016,March,NA,2016-03-23,NA,45,W,NA,HDSP,M,Suicide by hanging (by autopsy),814
+Nevada,2016,March,NA,2016-03-20,NA,86,B,NA,NNCC,M,"Had multiple health issues, including cancer.  (Per Coroner - family requested that no autopsy be performed).",817
+Nevada,2016,March,NA,2016-03-15,NA,41,H,NA,LCC,M,Suicide by hanging (by autopsy),816
+Nevada,2016,March,NA,2016-03-05,NA,61,W,NA,LCC,M,Hypertensive heart disease,816
+Nevada,2016,February,NA,2016-02-27,NA,48,W,NA,NNCC,M,Ulcerative colitis.  Also dilated non-ischermic cardiomyopathy.,817
+Nevada,2016,February,NA,2016-02-24,NA,74,A,NA,HDSP,M,Hepatocellular carcinoma.  Also hypertensive cardiovascular disease with focal severe coronary arteriosclerosis.,814
+Nevada,2016,February,NA,2016-02-21,NA,51,B,NA,NNCC,M,Renal failure due to polycystic kidney disease.  Also hypertensive heart disease and arteriosclerotic cardiovascular disease.,817
+Nevada,2016,February,NA,2016-02-21,NA,69,W,NA,TLVCC,M,Hypertensive and atherosclerotic cardiovascular disease.,2077
+Nevada,2016,February,NA,2016-02-13,NA,27,W,NA,NNCC,M,Suicide by strangulation.,817
+Nevada,2016,February,NA,2016-02-12,NA,65,W,NA,NNCC,M,Pneumonia and sepsis due to chronic obstructive pulmonary disease.  Also asthma.  Expected death.,817
+Nevada,2016,February,NA,2016-02-06,NA,72,AI,NA,LCC,M,Cardiomegaly due to aortic valve stenosis and hypertensive cardiovascular disease,816
+Nevada,2016,February,NA,2016-02-01,NA,26,W,NA,HDSP,M,Homicide by multiple stab wounds.,814
+Nevada,2016,January,NA,2016-01-18,NA,58,W,NA,NNCC,M,Metastatic melanoma.  Expected death.  Had DNR.,817
+Nevada,2016,January,NA,2016-01-08,NA,67,W,NA,NNCC,M,Atherosclerotic and hypertensive cardiovascular disease.  Also diabetes mellitus and morbid obesity.,817
+Nevada,2016,January,NA,2016-01-03,NA,69,B,NA,NNCC,M,"Complications of metastatic prostate cancer.  Expected death, had DNR.",817
+Nevada,2015,December,NA,2015-12-29,NA,72,W,NA,NNCC,M,Atherosclerotic and hypertensive cardiovascular disease.  Also COPD and diabetes. Had DNR.,817
+Nevada,2015,December,NA,2015-12-26,NA,35,W,NA,HDSP,M,Systemic sepsis due to chronic sacral decubitus ulceration due to bedrest with fluphenazine tranquilization due to schizophrenia and fetal alcohol syndrome,814
+Nevada,2015,December,NA,2015-12-26,NA,42,W,NA,NNCC,M,"Complications of colon cancer.  Expected death, had DNR.",817
+Nevada,2015,December,NA,2015-12-22,NA,55,W,NA,NNCC,M,Cardiomegaly associated with arteriosclerotic and hypertensive cardiovascular disease,817
+Nevada,2015,December,NA,2015-12-19,NA,63,W,NA,SDCC,M,Coronary Atherosclerosis and dilated cardiomyopathy,819
+Nevada,2015,December,NA,2015-12-19,NA,53,B,NA,NNCC,M,Bronchogenic carcinoma in the left lung with metastases to multiple organs.  Had DNR.,817
+Nevada,2015,December,NA,2015-12-18,NA,85,W,NA,OSC,M,Out of state confinement.,NA
+Nevada,2015,December,NA,2015-12-12,NA,64,W,NA,NNCC,M,Stage IV pancreatic cancer.  Also cirrhosis of the liver due to hepatitis C.  Verbal DNR at hospital.,817
+Nevada,2015,November,NA,2015-11-28,NA,50,W,NA,HDSP,M,Metastatic urothelial carcinoma,814
+Nevada,2015,November,NA,2015-11-23,NA,29,B,NA,NNCC,M,T-cell lymphoma per Death Record. (Family requested no autopsy.  Received death record from WCME).,817
+Nevada,2015,October,NA,2015-10-23,NA,31,W,NA,NNCC RMF,M,"Malignant melanoma with numerous metastases.  Expected death, had DNR.",817
+Nevada,2015,October,NA,2015-10-20,NA,79,H,NA,NNCC RMF,M,"Atherosclerotic and hypertensive cardiovascular disease.  Also pulmonary emphysema and hepatic cirrhosis contributing.  History of stroke, had pneumonia.  Expected death, had DNR.",817
+Nevada,2015,October,NA,2015-10-15,NA,72,W,NA,NNCC,M,Hypertensive cardiovascular disease.  No known medical issues.  Failure to thrive.  Had DNR.,817
+Nevada,2015,October,NA,2015-10-15,NA,48,W,NA,OSC,M,Out of state confinement.,NA
+Nevada,2015,October,NA,2015-10-06,NA,39,H,NA,HDSP,M,Suicide by hanging.,814
+Nevada,2015,September,NA,2015-09-30,NA,46,B,NA,HDSP,M,Diabetic ketoacidosis.,814
+Nevada,2015,September,NA,2015-09-29,NA,55,W,NA,SCC,M,Heroin intoxication,2164
+Nevada,2015,September,NA,2015-09-24,NA,67,W,NA,NNCC,M,Acute bronchopneumonia due to emphysema and chronic granulomatous lung disease.,817
+Nevada,2015,September,NA,2015-09-21,NA,59,W,NA,NNCC MIC,M,Arteriosclerotic cardiovascular disease with severe coronary artery atherosclerosis.,817
+Nevada,2015,September,NA,2015-09-14,NA,69,W,NA,NNCC,M,Hypertensive and arteriosclerotic cardiovascular disease.,817
+Nevada,2015,August,NA,2015-08-30,NA,78,W,NA,FMWCC,F,Hypertensive and atherosclerotic cardiovascular disease.,812
+Nevada,2015,August,NA,2015-08-17,NA,80,W,NA,NNCC RMF,M,"Metastatic lung cancer.  Also arteriosclerotic cardiovascular disease and COPD. Expected death, had DNR.",817
+Nevada,2015,August,NA,2015-08-09,NA,44,B,NA,HDSP,M,"Hypertensive and atherosclerotic cardiovascular disease.  Found unresponsive in cell. Unexpected death, no DNR.",814
+Nevada,2015,August,NA,2015-08-04,NA,45,W,NA,FMWCC,F,Metastatic non-small cell pulmonary carcinoma--lung cancer.,812
+Nevada,2015,July,NA,2015-07-27,NA,63,W,NA,NNCC RMF,M,Metastatic poorly-differentiated carcinoma involving the esophagus and subcarinal area.,817
+Nevada,2015,July,NA,2015-07-21,NA,72,W,NA,NNCC,M,"Chronic obstructive pulmonary disease exacerbated by bilateral necrotizing pneumonia. Failure to thrive.  Expected death, had DNR.",817
+Nevada,2015,June,NA,2015-06-29,NA,55,W,NA,LCC,M,Suicide by salicylate intoxication,816
+Nevada,2015,June,NA,2015-06-19,NA,28,B,NA,NNCC,M,Asphyxia due to hanging by ligature.,817
+Nevada,2015,June,NA,2015-06-18,NA,67,B,NA,NNCC RMF,M,"Liver failure due to liver cirrhosis due to Hep C, and COPD.",817
+Nevada,2015,June,NA,2015-06-14,NA,52,W,NA,NNCC RMF,M,"Pulmonary carcinoma with distant metastases, pulmonary emphysema.",817
+Nevada,2015,June,NA,2015-06-06,NA,76,W,NA,NNCC RMF,M,"Arteriosclerotic and hypertensive cardiovascular disease.  Unknown at time of death.  Failure to thrive.  Unexpected death, had DNR.",817
+Nevada,2015,June,NA,2015-06-05,NA,54,W,NA,NNCC RMF,M,"End Stage Liver Disease due to cirrhosis due to chronic hepatitis. Hepatic encephylopathy. Expected death, had DNR.",817
+Nevada,2015,June,NA,2015-06-03,NA,54,W,NA,NNCC RMF,M,Endocarditis of the mitral and aortic valve,817
+Nevada,2015,May,NA,2015-05-31,NA,64,W,NA,NNCC,M,Anoxic encephalolopathy due to cardiopulmonary arrest due to cardiomegaly.  Mixed edema.  No DNR.,817
+Nevada,2015,May,NA,2015-05-27,NA,77,W,NA,NNCC,M,"Hypertensive cardiovascular disease.  GI bleed, comfort care at CTH, had DNR.",817
+Nevada,2015,May,NA,2015-05-25,NA,68,W,NA,HDSP,M,"Stage IV Hodgkins lymphoma, expected death, had DNR.",814
+Nevada,2015,May,NA,2015-05-24,NA,56,H,NA,SDCC,M,"Atherosclerotic cardiovascular disease.  Hep C +, unexpected death, no DNR.",819
+Nevada,2015,May,NA,2015-05-22,NA,47,B,NA,HDSP,M,Anaplastic thyroid carcinoma.,814
+Nevada,2015,April,NA,2015-04-15,NA,84,W,NA,NNCC RMF,M,"Arteriosclerotic cardiovascular disease, failure to thrive and dehydration.  Expected death, had DNR.",817
+Nevada,2015,April,NA,2015-04-10,NA,64,W,NA,NNCC RMF,M,Cirrhosis due to hepatitis C.,817
+Nevada,2015,April,NA,2015-04-08,NA,60,W,NA,NNCC RMF,M,Cirrhosis due to hepatitis C.,817
+Nevada,2015,April,NA,2015-04-03,NA,54,W,NA,NNCC,M,Colorectal carcinoma with metastasis to liver.,817
+Nevada,2015,March,NA,2015-03-21,NA,56,W,NA,NNCC,M,Carcinomatosis due to pancreatic cancer.,817
+Nevada,2015,March,NA,2015-03-17,NA,49,W,NA,NNCC,M,Liver failure due to liver cirrhosis due to Hepatitis C.,817
+Nevada,2015,March,NA,2015-03-07,NA,45,W,NA,ESP,M,"Hanging per autopsy, suicide.",811
+Nevada,2015,February,NA,2015-02-26,NA,52,W,NA,NNCC,M,"Met. Prostate cancer, had DNR, expected death.",817
+Nevada,2015,February,NA,2015-02-05,NA,60,W,NA,HDSP,M,"Pulmonary emboli due to deep vein thrombosis, multiple squamous cell carcinomas. No DNR.",814
+Nevada,2015,February,NA,2015-02-02,NA,60,W,NA,HDSP,M,Metastatic squamous cell carcinoma of the tongue. Organizing pneumonia.,814
+Nevada,2015,January,NA,2015-01-01,NA,78,W,NA,NNCC,M,"Hypertensive and arteriosclerotic cardiovascular disease.  Natural causes, failure to thrive, had DNR.",817
