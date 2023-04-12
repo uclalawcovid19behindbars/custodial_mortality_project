@@ -1,26 +1,72 @@
-"State","Year","Month","Death.Date","Facility","Full.Name","Sex"
-"Vermont",2015,"April",2015-04-06,"CRCF","ANDREWS, WILLARD SEAN","M"
-"Vermont",2015,"May",2015-05-11,"CRCF","expunged,expunged",NA
-"Vermont",2015,"August",2015-08-17,"CRCF","BRENNAN, KRISTINE LYNN","F"
-"Vermont",2016,"January",2016-01-02,"CRCF","CLOGSTON, WINSTON C","M"
-"Vermont",2016,"January",2016-01-18,"CRCF","CHARTIER, JEANNE M.","F"
-"Vermont",2017,"March",2017-03-04,"CRCF","BITTNER, JOSHUA COLE","M"
-"Vermont",2015,"December",2015-12-20,"MVRCF","BORA, VICTOR RAY","M"
-"Vermont",2020,"December",2020-12-20,"NECC","DUPONT, MICHAEL C","M"
-"Vermont",2016,"November",2016-11-22,"NWSCF","BISSONNETTE, DAVID L","M"
-"Vermont",2015,"March",2015-03-19,"SSCF","TAVARES, ARNOLD D","M"
-"Vermont",2015,"April",2015-04-23,"SSCF","FENNESSEY, PATRICK EDWARD","M"
-"Vermont",2016,"February",2016-02-15,"SSCF","BERARD, FRANK","M"
-"Vermont",2016,"July",2016-07-18,"SSCF","CHANDLER, RAYMOND C","M"
-"Vermont",2017,"May",2017-05-26,"SSCF","MUMLEY, MARK","M"
-"Vermont",2017,"September",2017-09-11,"SSCF","COMBS, RONALD D","M"
-"Vermont",2017,"November",2017-11-03,"SSCF","ADAMS, TIMOTHY WAYNE","M"
-"Vermont",2018,"March",2018-03-30,"SSCF","LYNCH, NICHOLAS H","M"
-"Vermont",2018,"June",2018-06-27,"SSCF","POWLOKA, THOMAS J.","M"
-"Vermont",2018,"September",2018-09-14,"SSCF","SAWYER, ROBERT J","M"
-"Vermont",2019,"January",2019-01-23,"SSCF","BADGER, THOMAS BENJAMIN","M"
-"Vermont",2019,"May",2019-05-20,"SSCF","DEGUISE, BRIAN Lee","M"
-"Vermont",2019,"June",2019-06-29,"SSCF","NICHOLS, ANTHONY  M","M"
-"Vermont",2019,"October",2019-10-08,"SSCF","MCFARLANE, ALTON","M"
-"Vermont",2020,"August",2020-08-22,"SSCF","DUQUETTE, ALFRED  LEO","M"
-"Vermont",2021,"July",2021-07-26,"SSCF","RICHARDSON, BRIAN","M"
+State,Year,Month,Death.Date,Facility,Full.Name,Sex
+Vermont,2000,July,2000-07-02T00:00:00Z,NSCF,"Weld, Gary W",M
+Vermont,2001,September,2001-09-14T00:00:00Z,CRCF,"Bills, Norman S",M
+Vermont,2001,September,2001-09-20T00:00:00Z,NWSCF,"Lee, Robert Joseph",M
+Vermont,2001,September,2001-09-28T00:00:00Z,NWSCF,"Killary, John H",M
+Vermont,2002,April,2002-04-23T00:00:00Z,NSCF,"Oakes, Todd",M
+Vermont,2002,April,2002-04-27T00:00:00Z,NECC,"Anair, Robert L",M
+Vermont,2002,May,2002-05-27T00:00:00Z,MVRCF,"Hill, Lawrence",M
+Vermont,2003,February,2003-02-14T00:00:00Z,NSCF,"Sumner, George W",M
+Vermont,2003,April,2003-04-20T00:00:00Z,NSCF,"Palmer, Charles C",M
+Vermont,2003,May,2003-05-22T00:00:00Z,NSCF,"Bessette, Lawrence",M
+Vermont,2003,October,2003-10-07T00:00:00Z,NWSCF,"Quigley, James Joseph",M
+Vermont,2004,April,2004-04-19T00:00:00Z,CRCF,"Duffy, Michael",M
+Vermont,2005,February,2005-02-05T00:00:00Z,CRCF,"Nichols, Robert",M
+Vermont,2005,April,2005-04-06T00:00:00Z,SSCF,"Rawson, James John",M
+Vermont,2005,June,2005-06-22T00:00:00Z,SSCF,"Perry, Kevin",M
+Vermont,2005,October,2005-10-17T00:00:00Z,SSCF,"Eaton, Dana",M
+Vermont,2005,November,2005-11-19T00:00:00Z,SSCF,"Pendergast, Edward Carrol",M
+Vermont,2006,March,2006-03-07T00:00:00Z,CRCF,"Estabrook, Michael A",M
+Vermont,2006,March,2006-03-07T00:00:00Z,NECC,"Shufelt, Jeffrey C",M
+Vermont,2006,April,2006-04-30T00:00:00Z,CRCF,"Reed, Fredrick",M
+Vermont,2006,June,2006-06-30T00:00:00Z,SSCF,"Young, Michael",M
+Vermont,2006,August,2006-08-02T00:00:00Z,SSCF,"Blish, Robert W",M
+Vermont,2006,September,2006-09-04T00:00:00Z,SSCF,"Muller, Daniel",M
+Vermont,2007,February,2007-02-15T00:00:00Z,SSCF,"Bustillos, Justin Michael",M
+Vermont,2008,June,2008-06-27T00:00:00Z,SSCF,"Stannard, James P",M
+Vermont,2008,August,2008-08-18T00:00:00Z,NSCF,"Hartwell, Mitchell",M
+Vermont,2008,October,2008-10-26T00:00:00Z,SSCF,"Roland, Keith D",M
+Vermont,2009,April,2009-04-30T00:00:00Z,SSCF,"Phillips, Kevin",M
+Vermont,2009,August,2009-08-16T00:00:00Z,NWSCF,"Ellis, Ashley",F
+Vermont,2009,August,2009-08-24T00:00:00Z,CRCF,"Bickford, Carlton D",M
+Vermont,2009,August,2009-08-26T00:00:00Z,CRCF,"Crosby, Michael T",M
+Vermont,2010,February,2010-02-05T00:00:00Z,SHCF,"Grose, Timothy",M
+Vermont,2010,February,2010-02-20T00:00:00Z,SSCF,"Bashaw, Merrill",M
+Vermont,2010,November,2010-11-26T00:00:00Z,SHCF,"Morris, Ernest F",M
+Vermont,2010,November,2010-11-30T00:00:00Z,SSCF,"Grover, Bernard D",M
+Vermont,2011,May,2011-05-07T00:00:00Z,SHCF,"Matteson, Steven A",M
+Vermont,2012,June,2012-06-28T00:00:00Z,SSCF,"Grosse, Jeffrey Lane",M
+Vermont,2013,June,2013-06-09T00:00:00Z,SSCF,"Martin, David Raymond",M
+Vermont,2013,July,2013-07-08T00:00:00Z,SSCF,"Joseph, Francis",M
+Vermont,2013,August,2013-08-01T00:00:00Z,SHCF,"Graves, Kevin",M
+Vermont,2013,August,2013-08-30T00:00:00Z,NSCF,"Mossey, Robert J",M
+Vermont,2013,October,2013-10-02T00:00:00Z,SSCF,"Boehmer, Robert",M
+Vermont,2013,December,2013-12-24T00:00:00Z,SSCF,"Godfrey, Howard G",M
+Vermont,2014,July,2014-07-14T00:00:00Z,SSCF,"Snyder, Donald P",M
+Vermont,2014,August,2014-08-28T00:00:00Z,SSCF,"Labartino, Sylvester",M
+Vermont,2014,September,2014-09-28T00:00:00Z,SSCF,"Fortier, Lyndon G",M
+Vermont,2015,April,2015-04-06T00:00:00Z,CRCF,"ANDREWS, WILLARD SEAN",M
+Vermont,2015,May,2015-05-11T00:00:00Z,CRCF,"expunged,expunged",NA
+Vermont,2015,August,2015-08-17T00:00:00Z,CRCF,"BRENNAN, KRISTINE LYNN",F
+Vermont,2016,January,2016-01-02T00:00:00Z,CRCF,"CLOGSTON, WINSTON C",M
+Vermont,2016,January,2016-01-18T00:00:00Z,CRCF,"CHARTIER, JEANNE M.",F
+Vermont,2017,March,2017-03-04T00:00:00Z,CRCF,"BITTNER, JOSHUA COLE",M
+Vermont,2015,December,2015-12-20T00:00:00Z,MVRCF,"BORA, VICTOR RAY",M
+Vermont,2020,December,2020-12-20T00:00:00Z,NECC,"DUPONT, MICHAEL C",M
+Vermont,2016,November,2016-11-22T00:00:00Z,NWSCF,"BISSONNETTE, DAVID L",M
+Vermont,2015,March,2015-03-19T00:00:00Z,SSCF,"TAVARES, ARNOLD D",M
+Vermont,2015,April,2015-04-23T00:00:00Z,SSCF,"FENNESSEY, PATRICK EDWARD",M
+Vermont,2016,February,2016-02-15T00:00:00Z,SSCF,"BERARD, FRANK",M
+Vermont,2016,July,2016-07-18T00:00:00Z,SSCF,"CHANDLER, RAYMOND C",M
+Vermont,2017,May,2017-05-26T00:00:00Z,SSCF,"MUMLEY, MARK",M
+Vermont,2017,September,2017-09-11T00:00:00Z,SSCF,"COMBS, RONALD D",M
+Vermont,2017,November,2017-11-03T00:00:00Z,SSCF,"ADAMS, TIMOTHY WAYNE",M
+Vermont,2018,March,2018-03-30T00:00:00Z,SSCF,"LYNCH, NICHOLAS H",M
+Vermont,2018,June,2018-06-27T00:00:00Z,SSCF,"POWLOKA, THOMAS J.",M
+Vermont,2018,September,2018-09-14T00:00:00Z,SSCF,"SAWYER, ROBERT J",M
+Vermont,2019,January,2019-01-23T00:00:00Z,SSCF,"BADGER, THOMAS BENJAMIN",M
+Vermont,2019,May,2019-05-20T00:00:00Z,SSCF,"DEGUISE, BRIAN Lee",M
+Vermont,2019,June,2019-06-29T00:00:00Z,SSCF,"NICHOLS, ANTHONY  M",M
+Vermont,2019,October,2019-10-08T00:00:00Z,SSCF,"MCFARLANE, ALTON",M
+Vermont,2020,August,2020-08-22T00:00:00Z,SSCF,"DUQUETTE, ALFRED  LEO",M
+Vermont,2021,July,2021-07-26T00:00:00Z,SSCF,"RICHARDSON, BRIAN",M
