@@ -1,4 +1,206 @@
 State,Year,Month,Death.Date,Facility,Death.Age,Sex,Race,Circumstance.General,Location,CMP.ID
+Idaho,2000,January,2000-01-31,Idaho State Correctional Institution,55,M,Hispanic,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2000,July,2000-07-03,Idaho Maximum Security Institution,38,M,White,Unknown,PRESENT AT FACILITY,NA
+Idaho,2000,August,2000-08-22,Idaho State Correctional Institution,70,M,White,Accidental,PRESENT AT FACILITY,NA
+Idaho,2000,September,2000-09-07,Idaho State Correctional Institution,82,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2000,September,2000-09-22,Idaho State Correctional Institution,61,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2000,December,2000-12-26,Idaho State Correctional Institution,70,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2001,February,2001-02-16,St. Anthony Work Center,27,M,Native American,Natural Causes,UNKNOWN HOSPITAL,NA
+Idaho,2001,March,2001-03-04,Idaho State Correctional Institution,46,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2001,April,2001-04-11,Twin Falls CRC,24,M,White,Suicide,PRESENT AT FACILITY,NA
+Idaho,2001,April,2001-04-19,Idaho State Correctional Institution,73,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2001,April,2001-04-26,Idaho State Correctional Institution,50,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2001,May,2001-05-11,Idaho State Correctional Institution,50,M,Hispanic,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2001,May,2001-05-15,Idaho State Correctional Institution,86,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2001,May,2001-05-27,Idaho State Correctional Institution,64,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2001,May,2001-05-29,Idaho State Correctional Institution,44,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2001,July,2001-07-03,Idaho State Correctional Institution,60,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2001,July,2001-07-12,Idaho State Correctional Institution,64,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2001,July,2001-07-21,Idaho State Correctional Institution,60,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2001,September,2001-09-02,Idaho State Correctional Institution,59,M,Native American,Natural Causes,"ST. ALPHONSUS HOSPITAL, BOISE",NA
+Idaho,2001,September,2001-09-28,Idaho Correctional Institution - Orofino,43,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2001,November,2001-11-09,Idaho State Correctional Institution,63,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2001,December,2001-12-03,Idaho State Correctional Institution,25,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2001,December,2001-12-27,Idaho State Correctional Institution,38,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2002,January,2002-01-26,Idaho State Correctional Institution,63,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2002,February,2002-02-03,Idaho State Correctional Institution,41,M,White,Natural Causes,"ST. ALPHONSUS HOSPITAL, BOISE",NA
+Idaho,2002,February,2002-02-19,Idaho State Correctional Institution,76,M,White,Natural Causes,"ST. ALPHONSUS HOSPITAL, BOISE",NA
+Idaho,2002,March,2002-03-28,Idaho State Correctional Institution,71,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2002,April,2002-04-16,Idaho State Correctional Center,64,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2002,May,2002-05-28,Idaho Maximum Security Institution,24,M,White,Suicide,PRESENT AT FACILITY,NA
+Idaho,2002,June,2002-06-01,North Idaho Correctional Institution,19,M,White,Suicide,PRESENT AT FACILITY,NA
+Idaho,2002,July,2002-07-31,Idaho State Correctional Institution,35,M,White,Natural Causes,UNKNOWN HOSPITAL,NA
+Idaho,2002,August,2002-08-25,Idaho State Correctional Institution,72,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2003,January,2003-01-22,Idaho State Correctional Institution,36,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2003,February,2003-02-18,Idaho State Correctional Institution,53,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2003,March,2003-03-17,Idaho State Correctional Institution,46,M,Black,Unknown,PRESENT AT FACILITY,NA
+Idaho,2003,March,2003-03-28,Pocatello Women's Correctional Center,46,F,Native American,Natural Causes,"PORTNEUF MEDICAL CENTER, POCATELLO",NA
+Idaho,2003,May,2003-05-17,Idaho State Correctional Institution,86,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2003,June,2003-06-02,Idaho State Correctional Center,41,M,White,Natural Causes,UNKNOWN HOSPITAL,NA
+Idaho,2003,July,2003-07-21,Idaho State Correctional Institution,64,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2003,August,2003-08-20,Idaho State Correctional Institution,54,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2003,September,2003-09-23,Idaho Maximum Security Institution,22,M,White,Suicide,PRESENT AT FACILITY,NA
+Idaho,2003,November,2003-11-19,Idaho State Correctional Institution,74,M,Hispanic,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2003,December,2003-12-02,Idaho State Correctional Institution,69,M,White,Natural Causes,"ST. ALPHONSUS HOSPITAL, BOISE",NA
+Idaho,2003,December,2003-12-26,Idaho State Correctional Institution,70,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2004,February,2004-02-01,Idaho Maximum Security Institution,56,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2004,February,2004-02-15,Idaho State Correctional Institution,62,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2004,March,2004-03-29,Idaho Maximum Security Institution,46,M,Hispanic,Suicide,PRESENT AT FACILITY,NA
+Idaho,2004,April,2004-04-02,Idaho State Correctional Institution,38,M,White,Suicide,PRESENT AT FACILITY,NA
+Idaho,2004,May,2004-05-07,Idaho State Correctional Institution,50,M,Black,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2004,June,2004-06-25,Idaho State Correctional Institution,59,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2004,June,2004-06-26,Idaho State Correctional Center,45,M,White,Natural Causes,UNKNOWN HOSPITAL,NA
+Idaho,2004,September,2004-09-27,Idaho State Correctional Institution,45,M,White,Suicide,PRESENT AT FACILITY,NA
+Idaho,2004,October,2004-10-18,Idaho Falls CRC,54,M,White,Natural Causes,"EASTERN IDAHO REGIONAL MEDICAL CENTER, IDAHO FALLS",NA
+Idaho,2004,November,2004-11-02,Idaho State Correctional Institution,53,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2004,November,2004-11-24,Idaho State Correctional Institution,38,M,White,Suicide,PRESENT AT FACILITY,NA
+Idaho,2004,December,2004-12-06,Nampa CRC,48,M,White,Natural Causes,UNKNOWN HOSPITAL,NA
+Idaho,2005,January,2005-01-07,Idaho State Correctional Center,66,M,White,Natural Causes,"ST. ALPHONSUS HOSPITAL, BOISE",NA
+Idaho,2005,February,2005-02-16,Idaho State Correctional Institution,79,M,White,Natural Causes,"ST. ALPHONSUS HOSPITAL, BOISE",NA
+Idaho,2005,March,2005-03-10,Idaho State Correctional Institution,89,M,White,Natural Causes,"ST. ALPHONSUS HOSPITAL, BOISE",NA
+Idaho,2005,March,2005-03-12,Idaho State Correctional Institution,56,M,White,Natural Causes,"ST. ALPHONSUS HOSPITAL, BOISE",NA
+Idaho,2005,April,2005-04-14,Idaho Maximum Security Institution,61,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2005,June,2005-06-07,Idaho State Correctional Institution,38,M,White,Suicide,PRESENT AT FACILITY,NA
+Idaho,2005,July,2005-07-08,Idaho State Correctional Institution,61,M,White,Natural Causes,"ST. ALPHONSUS HOSPITAL, BOISE",NA
+Idaho,2005,July,2005-07-31,Idaho State Correctional Institution,57,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2005,August,2005-08-11,Idaho State Correctional Institution,88,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2005,August,2005-08-11,Idaho State Correctional Institution,58,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2005,November,2005-11-24,Idaho State Correctional Institution,51,M,Native American,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2005,December,2005-12-01,Idaho State Correctional Institution,74,M,White,Natural Causes,"ST. ALPHONSUS HOSPITAL, BOISE",NA
+Idaho,2005,December,2005-12-17,Idaho State Correctional Institution,77,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2006,February,2006-02-08,Idaho State Correctional Institution,62,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2006,February,2006-02-26,Idaho State Correctional institution,63,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2006,March,2006-03-11,Idaho State Correctional Center,48,M,White,Natural Causes,"ST. LUKE'S HOSPITAL, BOISE",NA
+Idaho,2006,April,2006-04-02,Idaho State Correctional Institution,55,M,Black,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2006,April,2006-04-06,Idaho State Correctional Institution,54,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2006,June,2006-06-06,Idaho State Correctional Institution,60,M,White,Natural Causes,"ST. ALPHONSUS HOSPITAL, BOISE",NA
+Idaho,2006,June,2006-06-25,Pocatello Women's Correctional Center,56,F,Hispanic,Natural Causes,"BINGHAM MEMORIAL, BLACKFOOT",NA
+Idaho,2006,July,2006-07-03,South Idaho Correctional Institution,53,M,Hispanic,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2006,July,2006-07-13,Idaho State Correctional Institution,35,M,White,Suicide,PRESENT AT FACILITY,NA
+Idaho,2006,July,2006-07-21,Idaho State Correctional Institution,21,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2006,July,2006-07-25,Idaho Maximum Security Institution,34,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2006,July,2006-07-27,Idaho State Correctional Institution,46,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2006,September,2006-09-19,Idaho Maximum Security Institution,51,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2006,October,2006-10-27,Idaho Correctional Institution - Orofino,53,M,White,Natural Causes,"ST. JOSEPH'S HOSPITAL, LEWISTON",NA
+Idaho,2006,November,2006-11-11,Idaho State Correctional Institution,66,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2006,December,2006-12-04,Idaho Falls CRC,48,M,Hispanic,Natural Causes,"EASTERN IDAHO REGIONAL MEDICAL CENTER, IDAHO FALLS",NA
+Idaho,2006,December,2006-12-05,Pocatello Women's Correctional Center,49,F,White,Natural Causes,"PORTNEUF MEDICAL CENTER, POCATELLO",NA
+Idaho,2006,December,2006-12-20,Pocatello Women's Correctional Center,44,F,Hispanic,Natural Causes,"PORTNEUF MEDICAL CENTER, POCATELLO",NA
+Idaho,2007,March,2007-03-07,Idaho State Correctional Institution,83,M,White,Natural Causes,"ST. ALPHONSUS HOSPITAL, BOISE",NA
+Idaho,2007,March,2007-03-14,Idaho State Correctional Institution,50,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2007,March,2007-03-20,Idaho State Correctional Institution,63,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2007,March,2007-03-30,Idaho State Correctional Institution,45,M,White,Suicide,PRESENT AT FACILITY,NA
+Idaho,2007,April,2007-04-15,Idaho State Correctional Institution,55,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2007,April,2007-04-26,Idaho State Correctional Institution,68,M,Black,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2007,June,2007-06-14,Idaho State Correctional Institution,77,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2007,July,2007-07-22,Idaho State Correctional Institution,39,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2007,July,2007-07-31,Idaho State Correctional Institution,77,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2007,August,2007-08-01,Idaho State Correctional Institution,21,M,White,Unknown,PRESENT AT FACILITY,NA
+Idaho,2007,October,2007-10-06,Idaho State Correctional Institution,57,M,Hispanic,Unknown,"ST. ALPHONSUS HOSPITAL, BOISE",NA
+Idaho,2007,November,2007-11-27,Idaho State Correctional Institution,22,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2007,December,2007-12-01,Idaho State Correctional Institution,55,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2007,December,2007-12-07,Idaho Correctional Institution - Orofino,40,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2008,January,2008-01-11,Idaho State Correctional Institution,74,M,White,Natural Causes,"ST. ALPHONSUS HOSPITAL, BOISE",NA
+Idaho,2008,February,2008-02-09,Idaho State Correctional Institution,66,M,White,Natural Causes,"ST. ALPHONSUS HOSPITAL, BOISE",NA
+Idaho,2008,April,2008-04-04,Idaho State Correctional Institution,70,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2008,April,2008-04-15,Idaho State Correctional Institution,75,M,White,Natural Causes,"ST. ALPHONSUS HOSPITAL, BOISE",NA
+Idaho,2008,April,2008-04-29,Treasure Valley CRC,51,M,White,Natural Causes,UNKNOWN HOSPITAL,NA
+Idaho,2008,May,2008-05-19,Idaho State Correctional Institution,73,M,White,Natural Causes,"ST. LUKE'S HOSPITAL, BOISE",NA
+Idaho,2008,June,2008-06-04,Idaho State Correctional Institution,82,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2008,June,2008-06-16,Idaho State Correctional Institution,30,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2008,June,2008-06-25,Idaho State Correctional Institution,59,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2008,July,2008-07-03,Idaho State Correctional Institution,59,M,White,Natural Causes,"ST. ALPHONSUS HOSPITAL, BOISE",NA
+Idaho,2008,July,2008-07-26,Idaho State Correctional Institution,63,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2008,July,2008-07-27,South Idaho Correctional Institution,55,M,White,Natural Causes,"ST. ALPHONSUS HOSPITAL, BOISE",NA
+Idaho,2008,September,2008-09-10,Idaho State Correctional Institution,60,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2008,September,2008-09-30,Idaho State Correctional Institution,85,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2008,October,2008-10-11,Idaho State Correctional Institution,44,M,White,Natural Causes,"ST. LUKE'S HOSPITAL, BOISE",NA
+Idaho,2008,November,2008-11-28,Idaho State Correctional Institution,40,M,Hispanic,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2009,January,2009-01-11,Idaho State Correctional Institution,50,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2009,January,2009-01-20,Idaho State Correctional Institution,83,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2009,January,2009-01-30,Idaho State Correctional Institution,67,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2009,February,2009-02-14,Idaho State Correctional Institution,39,M,White,Suicide,PRESENT AT FACILITY,NA
+Idaho,2009,February,2009-02-14,Idaho State Correctional Institution,80,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2009,February,2009-02-21,South Idaho Correctional Institution,60,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2009,March,2009-03-05,Pocatello Women's Correctional Center,44,F,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2009,August,2009-08-10,South Idaho Correctional Institution,39,M,White,Suicide,PRESENT AT FACILITY,NA
+Idaho,2009,August,2009-08-21,Idaho State Correctional Institution,55,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2009,September,2009-09-03,Idaho State Correctional Institution,57,M,Hispanic,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2009,September,2009-09-10,Idaho State Correctional Institution,81,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2009,December,2009-12-12,Idaho State Correctional Institution,46,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2009,December,2009-12-21,Idaho State Correctional Institution,88,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2010,February,2010-02-07,Idaho Correctional Institution - Orofino,68,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2010,February,2010-02-08,Idaho State Correctional Institution,55,M,Native American,Natural Causes,"ST. ALPHONSUS HOSPITAL, BOISE",NA
+Idaho,2010,March,2010-03-22,Idaho State Correctional Center,70,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2010,March,2010-03-28,Idaho State Correctional Institution,63,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2010,March,2010-03-31,Idaho State Correctional Institution,81,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2010,August,2010-08-31,Idaho State Correctional Institution,79,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2010,September,2010-09-08,Idaho Maximum Security Institution,27,M,White,Suicide,PRESENT AT FACILITY,NA
+Idaho,2010,October,2010-10-02,Idaho Maximum Security Institution,22,M,White,Suicide,PRESENT AT FACILITY,NA
+Idaho,2010,October,2010-10-19,Idaho State Correctional Institution,47,M,White,Natural Causes,"ST. ALPHONSUS HOSPITAL, BOISE",NA
+Idaho,2010,November,2010-11-16,Idaho State Correctional Institution,70,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2010,December,2010-12-03,Idaho State Correctional Institution,57,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2010,December,2010-12-19,Idaho State Correctional Institution,56,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2010,December,2010-12-28,Idaho State Correctional Institution,19,M,Hispanic,Natural Causes,"ST. ALPHONSUS HOSPITAL, BOISE",NA
+Idaho,2011,January,2011-01-09,Idaho State Correctional Institution,77,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2011,March,2011-03-27,Idaho State Correctional Institution,75,M,White,Natural Causes,"ST. ALPHONSUS HOSPITAL, BOISE",NA
+Idaho,2011,April,2011-04-09,Idaho State Correctional Institution,46,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2011,April,2011-04-24,Idaho Maximum Security Institution,74,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2011,April,2011-04-26,Idaho State Correctional Institution,64,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2011,April,2011-04-27,Idaho State Correctional Center,68,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2011,June,2011-06-13,Idaho State Correctional Institution,65,M,Hispanic,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2011,July,2011-07-21,Idaho State Correctional Institution,65,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2011,July,2011-07-31,Idaho State Correctional Institution,70,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2011,September,2011-09-12,Idaho State Correctional Institution,76,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2011,October,2011-10-25,Idaho State Correctional Institution,62,M,White,Natural Causes,"ST. ALPHONSUS HOSPITAL, BOISE",NA
+Idaho,2011,November,2011-11-13,Pocatello Women's Correctional Center,48,F,White,Suicide,UNKNOWN HOSPITAL,NA
+Idaho,2011,November,2011-11-18,Idaho Maximum Security Institution,54,M,White,Execution,PRESENT AT FACILITY,NA
+Idaho,2011,December,2011-12-27,Idaho State Correctional Institution,54,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2011,December,2011-12-28,Idaho State Correctional Institution,42,M,Native American,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2012,April,2012-04-03,South Boise Women's Correctional Center,45,F,White,Natural Causes,"ST. ALPHONSUS HOSPITAL, BOISE",NA
+Idaho,2012,June,2012-06-12,Idaho Maximum Security Institution,53,M,White,Execution,PRESENT AT FACILITY,NA
+Idaho,2012,August,2012-08-12,Pocatello Women's Correctional Center,51,F,White,Suicide,PRESENT AT FACILITY,NA
+Idaho,2012,August,2012-08-22,Idaho State Correctional Center,77,M,White,Natural Causes,"ST. LUKE'S HOSPITAL, BOISE",NA
+Idaho,2012,September,2012-09-14,Idaho State Correctional Center,46,M,Hispanic,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2012,November,2012-11-13,Idaho State Correctional Institution,55,M,White,Suicide,PRESENT AT FACILITY,NA
+Idaho,2012,November,2012-11-25,Idaho State Correctional Institution,75,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2012,December,2012-12-03,Idaho State Correctional Institution,69,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2012,December,2012-12-05,Idaho State Correctional Institution,71,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2012,December,2012-12-10,Idaho State Correctional Institution,71,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2012,December,2012-12-14,Idaho State Correctional Institution,67,M,White,Natural Causes,"ST. LUKE'S HOSPITAL, BOISE",NA
+Idaho,2013,January,2013-01-18,South Idaho Correctional Institution,48,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2013,February,2013-02-25,Idaho State Correctional Center,48,M,Hispanic,Natural Causes,"ST. LUKE'S HOSPITAL, BOISE",NA
+Idaho,2013,May,2013-05-12,Idaho State Correctional Institution,34,M,White,Suicide,"ST. LUKE'S HOSPITAL, BOISE",NA
+Idaho,2013,June,2013-06-22,Idaho State Correctional Institution,58,M,NULL,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2013,July,2013-07-16,Idaho State Correctional Institution,68,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2013,July,2013-07-23,Idaho State Correctional Institution,79,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2013,August,2013-08-01,Pocatello Women's Correctional Center,45,F,Hispanic,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2013,August,2013-08-13,Idaho State Correctional Center,47,M,White,Accidental,PRESENT AT FACILITY,NA
+Idaho,2013,October,2013-10-22,Idaho State Correctional Institution,75,M,White,Natural Causes,"ST. ALPHONSUS HOSPITAL, BOISE",NA
+Idaho,2013,December,2013-12-10,Idaho State Correctional Center,41,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2014,January,2014-01-20,Idaho State Correctional Center,45,M,Hispanic,Unknown,"ST. LUKE'S HOSPITAL, BOISE",NA
+Idaho,2014,February,2014-02-04,Idaho State Correctional Institution,57,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2014,February,2014-02-05,Idaho State Correctional Institution,48,M,Native American,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2014,February,2014-02-06,South Boise Women's Correctional Center,52,F,White,Suicide,PRESENT AT FACILITY,NA
+Idaho,2014,March,2014-03-27,Idaho State Correctional Institution,60,M,Hispanic,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2014,April,2014-04-05,Idaho Maximum Security Institution,45,M,Hispanic,Unknown,PRESENT AT FACILITY,NA
+Idaho,2014,April,2014-04-18,Idaho State Correctional Institution,53,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2014,April,2014-04-23,Idaho Maximum Security Institution,38,M,Hispanic,Suicide,PRESENT AT FACILITY,NA
+Idaho,2014,May,2014-05-06,Idaho State Correctional Institution,53,M,Asian,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2014,May,2014-05-10,Idaho State Correctional Institution,49,M,White,Suicide,PRESENT AT FACILITY,NA
+Idaho,2014,May,2014-05-14,East Boise CRC,29,F,White,Suicide,UNKNOWN HOSPITAL,NA
+Idaho,2014,May,2014-05-21,Correctional Alternative Placement Program,60,M,Hispanic,Natural Causes,"ST. ALPHONSUS HOSPITAL, BOISE",NA
+Idaho,2014,July,2014-07-09,Idaho Maximum Security Institution,41,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2014,July,2014-07-10,Idaho State Correctional Institution,63,M,Hispanic,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2014,August,2014-08-03,Idaho State Correctional Center,32,M,White,Suicide,PRESENT AT FACILITY,NA
+Idaho,2014,September,2014-09-08,Idaho State Correctional Institution,57,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2014,September,2014-09-12,Idaho State Correctional Institution,73,M,Hispanic,Natural Causes,"ST. ALPHONSUS HOSPITAL, BOISE",NA
+Idaho,2014,September,2014-09-22,Idaho State Correctional Institution,57,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2014,September,2014-09-28,Idaho State Correctional Institution,74,M,White,Natural Causes,"ST. ALPHONSUS HOSPITAL, BOISE",NA
+Idaho,2014,October,2014-10-11,Idaho State Correctional Center,64,M,White,Natural Causes,PRESENT AT FACILITY,NA
+Idaho,2014,November,2014-11-07,Idaho State Correctional Institution,67,M,White,Unknown,"ST. ALPHONSUS HOSPITAL, BOISE",NA
+Idaho,2014,November,2014-11-19,Idaho State Correctional Institution,57,M,Hispanic,Unknown,PRESENT AT FACILITY,NA
+Idaho,2014,November,2014-11-21,Idaho State Correctional Institution,79,M,White,Natural Causes,PRESENT AT FACILITY,NA
 Idaho,2015,January,2015-01-02,IDAHO STATE CORRECTIONAL INSTITUTION,67,M,Hispanic,Illness,"St. Alphonsus Hospital, Boise",439
 Idaho,2015,January,2015-01-05,IDAHO MAXIMUM SECURITY INSTITUTION,55,M,White,Suicide,"St. Alphonsus Hospital, Boise",437
 Idaho,2015,January,2015-01-16,IDAHO STATE CORRECTIONAL CENTER,59,M,Hispanic,Illness,"St. Alphonsus Hospital, Boise",438
@@ -7,13 +209,13 @@ Idaho,2015,March,2015-03-01,IDAHO STATE CORRECTIONAL INSTITUTION,60,M,White,Illn
 Idaho,2015,March,2015-03-10,IDAHO STATE CORRECTIONAL INSTITUTION,70,M,White,Illness,Idaho State Correctional Institution,439
 Idaho,2015,April,2015-04-15,IDAHO STATE CORRECTIONAL INSTITUTION,47,M,Native American,NA,"St. Luke's Hospital, Boise",439
 Idaho,2015,June,2015-07-09,IDAHO MAXIMUM SECURITY INSTITUTION,55,M,White,AIDS,Idaho Maximum Security Institution,437
+Idaho,2015,October,2015-07-10,IDAHO STATE CORRECTIONAL INSTITUTION,61,M,Native American,Illness,Idaho State Correctional Institution,439
 Idaho,2015,June,2015-07-21,IDAHO STATE CORRECTIONAL INSTITUTION,73,M,White,Illness,"St. Luke's Hospital, Boise",439
 Idaho,2015,June,2015-07-21,IDAHO STATE CORRECTIONAL INSTITUTION,82,M,White,Accidental,Idaho State Correctional Institution,439
 Idaho,2015,August,2015-08-17,IDAHO STATE CORRECTIONAL INSTITUTION,61,M,White,Illness,Idaho State Correctional Institution,439
 Idaho,2015,August,2015-08-20,IDAHO STATE CORRECTIONAL CENTER,60,M,Other,Homicide,"St. Luke's Hospital, Boise",438
 Idaho,2015,September,2015-09-06,IDAHO STATE CORRECTIONAL INSTITUTION,54,M,NA,Illness,Idaho State Correctional Institution,439
 Idaho,2015,September,2015-09-11,IDAHO STATE CORRECTIONAL CENTER,78,M,White,Suicide,"St. Luke's Hospital, Boise",438
-Idaho,2015,October,2015-07-10,IDAHO STATE CORRECTIONAL INSTITUTION,61,M,Native American,Illness,Idaho State Correctional Institution,439
 Idaho,2015,November,2015-11-12,EAST BOISE COMMUNITY RE-ENTRY CENTER,65,F,White,Illness,East Boise CRC BO,434
 Idaho,2015,December,2015-12-05,CORRECTIONAL ALTERNATIVE PLACEMENT PROGRAM,53,M,White,Illness,"St. Luke's Hospital, Boise",427
 Idaho,2015,December,2015-12-16,POCATELLO WOMEN'S CORRECTIONAL CENTER,58,F,White,Illness,"Binghan Memorial, Blackfoot",442
