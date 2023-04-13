@@ -1,4 +1,202 @@
 State,Year,Month,Death.Date,Facility,Full.Name,ID.No,Circumstance.General,CMP.ID
+Minnesota,2000,March,2000-03-08,MCF-STW,"Bearskin, Cecil",179615,Suicide,NA
+Minnesota,2000,June,2000-06-19,MCF-STW,"Reynolds, James",154930,Homicide,NA
+Minnesota,2000,July,2000-07-14,MCF-LL,"Swanson, Mark",101325,Natural Cause,NA
+Minnesota,2000,July,2000-07-15,MCF-STW,"Stanford, Christofer",112026,Natural Cause,NA
+Minnesota,2000,August,2000-08-01,MCF-FRB,"Shea, George",144634,Natural Cause,NA
+Minnesota,2000,August,2000-08-15,MCF-STW,"Doll, Kevin",155093,Suicide,NA
+Minnesota,2000,November,2000-11-09,MCF-OPH,"Applebee, Brandon",119643,Natural Cause,NA
+Minnesota,2000,November,2000-11-28,MCF-RW,"Howard, Michael",205718,Natural Cause,NA
+Minnesota,2001,February,2001-02-24,MCF-FRB,"Calvillo, Jesus",192880,Natural Cause,NA
+Minnesota,2001,March,2001-03-21,MCF-OPH,"Gloff, Douglas",190185,Natural Cause,NA
+Minnesota,2001,April,2001-04-06,MCF-STW,"Jennings, Gregory",170720,Natural Cause,NA
+Minnesota,2001,April,2001-04-23,MCF-OPH,"Suddith, Ricky",154574,Natural Cause,NA
+Minnesota,2001,July,2001-07-22,MCF-OPH,"Lewis, Robert",176797,Natural Cause,NA
+Minnesota,2001,July,2001-07-27,MCF-FRB,"Novak, George",179242,Natural Cause,NA
+Minnesota,2001,August,2001-08-14,MCF-STW,"Smith, Dewane",203124,Natural Cause,NA
+Minnesota,2001,August,2001-08-29,MCF-LL,"Wirta, Gary",119154,Natural Cause,NA
+Minnesota,2001,September,2001-09-14,MCF-FRB,"Morgan, John",100162,Natural Cause,NA
+Minnesota,2001,September,2001-09-16,MCF-STW,"Zarbok, Keris",147458,Natural Cause,NA
+Minnesota,2001,September,2001-09-27,MCF-OPH,"Profit, Mark",103850,Suicide,NA
+Minnesota,2001,December,2001-12-26,MCF-OPH,"Schaffer, Norman",205131,Natural Cause,NA
+Minnesota,2002,January,2002-01-16,MCF-OPH,"King, Robert",204201,Natural Cause,NA
+Minnesota,2002,January,2002-01-31,MCF-OPH,"Tervino, Guadalupe",206856,Natural Cause,NA
+Minnesota,2002,February,2002-02-15,MCF-FRB,"Daniels, Bubba",100584,Natural Cause,NA
+Minnesota,2002,February,2002-02-18,MCF-STW,"Robinson, Spencer",176952,Other,NA
+Minnesota,2002,April,2002-04-28,MCF-OPH,"Blackstone, Ahmad",185846,Natural Cause,NA
+Minnesota,2002,June,2002-06-02,MCF-OPH,"Pedersen, Wilfred",177322,Natural Cause,NA
+Minnesota,2002,July,2002-07-09,MCF-OPH,"Hernandez, Eugene",101875,Natural Cause,NA
+Minnesota,2002,July,2002-07-25,MCF-OPH,"Mabus, Kenneth",175551,Natural Cause,NA
+Minnesota,2002,August,2002-08-30,MCF-FRB,"Farr, Clarence",126400,Natural Cause,NA
+Minnesota,2002,August,2002-08-30,MCF-SCL,"Carlson, Kristofer",209869,Natural Cause,NA
+Minnesota,2002,September,2002-09-27,MCF-SHK,"Brown, Shelley",205438,Natural Cause,NA
+Minnesota,2002,November,2002-11-06,MCF-STW,"Sewell, Jeffrey",155866,Natural Cause,NA
+Minnesota,2002,December,2002-12-01,MCF-STW,"Haughton, Timothy",178146,Natural Cause,NA
+Minnesota,2002,December,2002-12-05,MCF-LL,"Brissett, Maynard",208110,Natural Cause,NA
+Minnesota,2002,December,2002-12-20,MCF-STW,"Hernandez, Jacob",183374,Suicide,NA
+Minnesota,2003,January,2003-01-23,MCF-OPH/TCU from MCF-STW,"Washington, Edwin",101213,Natural Cause,NA
+Minnesota,2003,February,2003-02-04,MCF-STW,"Klunder, Robert",207594,Suicide,NA
+Minnesota,2003,April,2003-04-14,MCF-OPH,"Blake, Brian",117004,Natural Cause,NA
+Minnesota,2003,April,2003-04-24,MCF-FRB,"Morse, Hugh",100119,Natural Cause,NA
+Minnesota,2003,June,2003-06-23,MCF-SCL,"King, Andrew",211388,Suicide,NA
+Minnesota,2003,July,2003-07-02,MCF-OPH,"Webber, Bruce",101816,Natural Cause,NA
+Minnesota,2003,July,2003-07-11,MCF-SCL,"Carpenter, Jonathan",193055,Suicide,NA
+Minnesota,2003,July,2003-07-30,MCF-OPH,"Pluff, Emery",207883,Natural Cause,NA
+Minnesota,2003,October,2003-10-12,MCF-STW,"Biggs, Mark",104387,Suicide,NA
+Minnesota,2003,November,2003-11-07,MCF-SHK,"Jones, Brenda",212959,Natural Cause,NA
+Minnesota,2003,December,2003-12-11,MCF-OPH/TCU from MCF-FRB,"Miller, Glenn",209110,Natural Cause,NA
+Minnesota,2003,December,2003-12-13,MCF-OPH,"Salas, Jeffrey",112203,Natural Cause,NA
+Minnesota,2004,January,2004-01-26,MCF-OPH/TCU from MCF-RC,"Perez, Jesus",210059,Natural Cause,NA
+Minnesota,2004,March,2004-03-25,MCF-FRB,"Feerhusen, Lloyd",209693,Natural Cause,NA
+Minnesota,2004,May,2004-05-14,MCF-FRB,"Soleta, Jon",210193,Natural Cause,NA
+Minnesota,2004,May,2004-05-26,MCF-OPH,"Thomas, James",195818,Natural Cause,NA
+Minnesota,2004,October,2004-10-25,MCF-FRB,"Rimal, Rakesh",204891,Suicide,NA
+Minnesota,2004,December,2004-12-03,MCF-OPH,"Zuehike, Alvin",209282,Natural Cause,NA
+Minnesota,2005,January,2005-01-26,MCF-STW,"Corbin, Maurice",203992,Suicide,NA
+Minnesota,2005,March,2005-03-13,MCF-STW,"Brown, Kevin",212189,Suicide,NA
+Minnesota,2005,April,2005-04-13,MCF-STW,"Wood, Timothy",215988,Suicide,NA
+Minnesota,2005,June,2005-06-21,MCF-OPH,"Bickham, Gregory",120090,Natural Cause,NA
+Minnesota,2005,July,2005-07-29,MCF-OPH,"Craig, Paul",103427,Natural Cause,NA
+Minnesota,2005,August,2005-08-21,MCF-FRB,"Schmitz, Paul",217269,Natural Cause,NA
+Minnesota,2005,September,2005-09-09,MCF-OPH,"Houston, Gerald",8365,Natural Cause,NA
+Minnesota,2005,September,2005-09-13,MCF-OPH,"Chamnarith, Vong",207899,Natural Cause,NA
+Minnesota,2005,September,2005-09-16,MCF-SHK,"Thomas, Betty",188457,Natural Cause,NA
+Minnesota,2005,October,2005-10-01,MCF-OPH,"Shockey, William",155099,Natural Cause,NA
+Minnesota,2005,November,2005-11-01,MCF-OPH,"Powell, Todd",146034,Natural Cause,NA
+Minnesota,2005,November,2005-11-02,MCF-OPH,"Huff, Arnold",216056,Natural Cause,NA
+Minnesota,2005,November,2005-11-16,MCF-RC,"Gist, Wayne",160217,Natural Cause,NA
+Minnesota,2006,March,2006-03-05,MCF-OPH,"Elliot, Gilbert",103304,Natural Cause,NA
+Minnesota,2006,May,2006-05-29,MCF-OPH,"Dent, Anthony",100723,Natural Cause,NA
+Minnesota,2006,September,2006-09-28,MCF-ML,"Olson, Gary",120314,Natural Cause,NA
+Minnesota,2006,October,2006-10-30,MCF-OPH,"Knowlton, Stuart",121161,Natural Cause,NA
+Minnesota,2006,November,2006-11-17,MCF-OPH,"Flores, Ramon",141737,Natural Cause,NA
+Minnesota,2006,November,2006-11-20,MCF-OPH,"Lattimore, Charles",144859,Natural Cause,NA
+Minnesota,2006,December,2006-12-08,MCF-OPH,"Kaus, Conrad",100031,Natural Cause,NA
+Minnesota,2006,December,2006-12-10,MCF-OPH,"Brimmer, Clifford",211091,Natural Cause,NA
+Minnesota,2006,December,2006-12-31,MCF-FRB,"Desjarlaid, Gabriel",125497,Natural Cause,NA
+Minnesota,2007,January,2007-01-01,MCF-OPH,"Gamez, Leovidjildo",210523,Natural Cause,NA
+Minnesota,2007,January,2007-01-19,MCF-OPH,"Frazier, Ricky",117777,Natural Cause,NA
+Minnesota,2007,February,2007-02-02,MCF-OPH,"Sebasky, Kevin",181537,Natural Cause,NA
+Minnesota,2007,February,2007-02-03,MCF-OPH,"Barenz, Roger",219988,Natural Cause,NA
+Minnesota,2007,March,2007-03-10,MCF-STW,"Bittner, Hillmar",222002,Natural Cause,NA
+Minnesota,2007,March,2007-03-28,MCF-OPH,"Estrada, Michael",132761,Natural Cause,NA
+Minnesota,2007,April,2007-04-03,MCF-FRB,"Richardson, Shawn",166630,Natural Cause,NA
+Minnesota,2007,April,2007-04-19,MCF-OPH,"Howard, Carl",207556,Natural Cause,NA
+Minnesota,2007,April,2007-04-30,MCF-OPH,"Gant, Hosie",109271,Natural Cause,NA
+Minnesota,2007,May,2007-05-18,MCF-OPH,"Goebel, James",211179,Natural Cause,NA
+Minnesota,2007,October,2007-10-20,MCF-OPH,"Merritt, Joseph",216173,Natural Cause,NA
+Minnesota,2007,December,2007-12-10,MCF-OPH,"Beam, David",106854,Natural Cause,NA
+Minnesota,2007,December,2007-12-25,MCF-SCL,"Bogenreif, Lance",225061,Suicide,NA
+Minnesota,2008,January,2008-01-25,MCF-RC,"Laugerude, David",176346,Suicide,NA
+Minnesota,2008,January,2008-01-26,MCF-OPH,"Rock, Robert",216333,Natural Cause,NA
+Minnesota,2008,February,2008-02-09,MCF-OPH,"Bovee, Lee",215687,Natural Cause,NA
+Minnesota,2008,March,2008-03-09,MCF-RC,"Bauchmoyer, Richard",206012,Natural Cause,NA
+Minnesota,2008,April,2008-04-09,MCF-OPH,"Winegeart, Kevin",217460,Natural Cause,NA
+Minnesota,2008,April,2008-04-12,MCF-OPH,"Clem, Roger",216006,Natural Cause,NA
+Minnesota,2008,May,2008-05-21,MCF-OPH,"White, Antoine",207848,Natural Cause,NA
+Minnesota,2008,May,2008-05-22,MCF-OPH,"Matrious, Kenneth",102043,Natural Cause,NA
+Minnesota,2008,June,2008-06-21,MCF-OPH,"Larson, Donald",101302,Natural Cause,NA
+Minnesota,2008,August,2008-08-08,MCF-OPH,"Johnson, Jack",114992,Natural Cause,NA
+Minnesota,2008,August,2008-08-11,MCF-STW,"Johnson, Sammie",195980,Suicide,NA
+Minnesota,2008,September,2008-09-02,MCF-OPH/TCU,"Hauter, Roy",106018,Natural Cause,NA
+Minnesota,2008,September,2008-09-17,MCF-LL,"Pierce, Mitchell",122793,Natural Cause,NA
+Minnesota,2008,November,2008-11-04,MCF-RC,"Link, Steven",176565,Natural Cause,NA
+Minnesota,2008,November,2008-11-15,MCF-SCL,"Vue, Wang",227311,Suicide,NA
+Minnesota,2008,November,2008-11-15,MCF-OPH,"Bakken, Daniel",227227,Natural Cause,NA
+Minnesota,2008,December,2008-12-20,MCF-OPH,"Anderson, Lawrence",207311,Natural Cause,NA
+Minnesota,2009,February,2009-02-02,MCF-STW,"Benike, Garrett",212910,Suicide,NA
+Minnesota,2009,June,2009-06-14,MCF-STW,"Miller, Russell",138140,Natural Cause,NA
+Minnesota,2009,June,2009-06-15,MCF-OPH,"Keezer, Laverne",222263,Natural Cause,NA
+Minnesota,2009,June,2009-06-18,MCF-LL,"Cook, Jibri",226601,Natural Cause,NA
+Minnesota,2009,July,2009-07-23,MCF-OPH,"Corona, Juan",178563,Natural Cause,NA
+Minnesota,2009,September,2009-09-22,MCF-STW,"Ripberger, Charles",175583,Suicide,NA
+Minnesota,2009,October,2009-10-05,MCF-OPH,"Walton, Roscoe",166736,Natural Cause,NA
+Minnesota,2009,October,2009-10-16,MCF-OPH,"Klar, Michael",158540,Natural Cause,NA
+Minnesota,2009,October,2009-10-19,MCF-OPH,"Besco, Steven",163109,Natural Cause,NA
+Minnesota,2009,October,2009-10-19,MCF-FRB,"Berge, Christopher",216950,Natural Cause,NA
+Minnesota,2009,November,2009-11-01,MCF-FRB,"Adolfs, Gary",175583,Natural Cause,NA
+Minnesota,2009,December,2009-12-25,MCF-OPH,"Jensen, Lloyd",209735,Natural Cause,NA
+Minnesota,2010,February,2010-02-20,MCF-OPH,"Zocher, Jonathon",212587,Natural Cause,NA
+Minnesota,2010,February,2010-02-21,MCF-OPH,"Hendricks, Claude",214100,Natural Cause,NA
+Minnesota,2010,February,2010-02-25,MCF-OPH,"Marko, Jeffrey",127018,Natural Cause,NA
+Minnesota,2010,February,2010-02-28,MCF-OPH,"Freeman, Ted",212198,Natural Cause,NA
+Minnesota,2010,March,2010-03-04,MCF-OPH,"Howze, Hibbler",195394,Natural Cause,NA
+Minnesota,2010,April,2010-04-12,MCF-OPH,"Rodriguez, Rodolfo",127891,Natural Cause,NA
+Minnesota,2010,April,2010-04-22,MCF-OPH,"Hahn, Michael",228041,Natural Cause,NA
+Minnesota,2010,May,2010-05-02,MCF-FRB,"Kuettel, Paul",134425,Natural Cause,NA
+Minnesota,2010,June,2010-06-01,MCF-STW,"Persitz, Zachary",172628,Suicide,NA
+Minnesota,2010,June,2010-06-30,MCF-RC,"Scullark-Johnson, Xavius",212520,Natural Cause,NA
+Minnesota,2010,July,2010-07-07,MCF-OPH,"Wahl, Richard",130968,Natural Cause,NA
+Minnesota,2010,August,2010-08-27,MCF-OPH,"Hussong, Arnold",232632,Natural Cause,NA
+Minnesota,2010,September,2010-09-18,MCF-STW,"Meyers, Steven",130226,Natural Cause,NA
+Minnesota,2010,September,2010-09-22,MCF-OPH,"Scott, Robert",228751,Natural Cause,NA
+Minnesota,2010,November,2010-11-14,MCF-OPH,"Jackson, James",201943,Natural Cause,NA
+Minnesota,2010,December,2010-12-21,MCF-OPH,"Melvin, Patrick",195499,Natural Cause,NA
+Minnesota,2011,February,2011-02-14,MCF-OPH,"Belter, Ronald",121785,Suicide,NA
+Minnesota,2011,February,2011-02-19,MCF-OPH,"Delacruz, Roberto",160888,Natural Cause,NA
+Minnesota,2011,February,2011-02-19,MCF-LL,"Hammond, Jerrell",203693,Natural Cause,NA
+Minnesota,2011,February,2011-02-20,MCF-OPH,"Everhardt, William",175875,Natural Cause,NA
+Minnesota,2011,February,2011-02-27,MCF-OPH,"Perez, Martin",114993,Natural Cause,NA
+Minnesota,2011,March,2011-03-21,MCF-STW,"Ganpat, Jairam",219739,Suicide,NA
+Minnesota,2011,April,2011-04-03,MCF-OPH,"Woodard, Marshall",233873,Natural Cause,NA
+Minnesota,2011,April,2011-04-28,MCF-OPH,"Grimes, Charles",112316,Natural Cause,NA
+Minnesota,2011,May,2011-05-01,MCF-OPH,"Nelson, Darrell",232171,Natural Cause,NA
+Minnesota,2011,June,2011-06-11,MCF-OPH,"Pratt, Ezzy",223085,Natural Cause,NA
+Minnesota,2011,July,2011-07-16,MCF-OPH,"Shoberg, Cary",232176,Natural Cause,NA
+Minnesota,2011,July,2011-07-17,MCF-LL,"McColley, Sanford",225248,Natural Cause,NA
+Minnesota,2011,July,2011-07-23,MCF-OPH,"Sanford, Royal",100355,Natural Cause,NA
+Minnesota,2011,August,2011-08-16,MCF-OPH,"Cooper, Budd Richard",185390,Natural Cause,NA
+Minnesota,2011,September,2011-09-10,MCF-OPH,"Lentsch, Arthur",155043,Natural Cause,NA
+Minnesota,2011,September,2011-09-13,MCF-OPH,"Russell, Louis",101161,Natural Cause,NA
+Minnesota,2011,October,2011-10-09,MCF-RC,"Johnson, Brandon",222839,Suicide,NA
+Minnesota,2011,December,2011-12-02,MCF-OPH,"Montanaro, Lawrence",161557,Natural Cause,NA
+Minnesota,2011,December,2011-12-31,MCF-RC,"Dimmick, Michael",192258,Suicide,NA
+Minnesota,2012,January,2012-01-05,MCF-OPH,"Baugh, Curtis",102018,Natural Cause,NA
+Minnesota,2012,January,2012-01-14,MCF-ML,"Suhon, Michael John",219840,Suicide,NA
+Minnesota,2012,February,2012-02-04,MCF-OPH,"Lloyd, Wornice",110702,Natural Cause,NA
+Minnesota,2012,April,2012-04-12,MCF-OPH,"Auman, Richard",130512,Natural Cause,NA
+Minnesota,2012,April,2012-04-23,MCF-OPH,"Swenson, Willis",209364,Natural Cause,NA
+Minnesota,2012,June,2012-06-08,MCF-LL,"Maday, Neil Mark",233335,Natural Cause,NA
+Minnesota,2012,July,2012-07-09,MCF-OPH,"Mims, Robert",188171,Natural Cause,NA
+Minnesota,2012,July,2012-07-17,MCF-OPH,"Davis, Melvin",225588,Natural Cause,NA
+Minnesota,2012,September,2012-09-04,MCF-OPH,"Auer, John",255669,Natural Cause,NA
+Minnesota,2012,October,2012-10-22,MCF-OPH,"Bennedino, Anthony Vincent",100771,Natural Cause,NA
+Minnesota,2012,October,2012-10-25,MCF-OPH,"Turner, Bradley John",234389,Natural Cause,NA
+Minnesota,2012,November,2012-11-29,MCF-OPH,"Braun, Thomas",127565,Natural Cause,NA
+Minnesota,2013,January,2013-01-02,MCF-FRB,"Aguilar, Raul",216875,Natural Cause,NA
+Minnesota,2013,January,2013-01-08,MCF-LL,"Picard, David",235627,Natural Cause,NA
+Minnesota,2013,January,2013-01-20,MCF-FRB,"Tyson, Scott",236610,Suicide,NA
+Minnesota,2013,January,2013-01-25,MCF-RC,"Johnson, Willie",116229,Natural Cause,NA
+Minnesota,2013,February,2013-02-11,MCF-FRB,"Sipes, Marvin",225552,Natural Cause,NA
+Minnesota,2013,February,2013-02-28,MCF-STW,"Paradise, Dale Jude",208132,Natural Cause,NA
+Minnesota,2013,March,2013-03-19,MCF-OPH,"Gallahar, Ribert",238144,Natural Cause,NA
+Minnesota,2013,April,2013-04-09,MCF-OPH,"Caldwell, Terrance Lee",212885,Natural Cause,NA
+Minnesota,2013,April,2013-04-16,MCF-OPH,"Gallmeyer, Charles",189731,Natural Cause,NA
+Minnesota,2013,May,2013-05-07,MCF-OPH,"Reitan, Darryle",234584,Natural Cause,NA
+Minnesota,2013,May,2013-05-25,MCF-OPH,"Yilek, Todd Kenneth",119777,Natural Cause,NA
+Minnesota,2013,May,2013-05-31,MCF-OPH,"Lease, Lawrence William",189669,Natural Cause,NA
+Minnesota,2013,June,2013-06-21,MCF-STW,"Lazarro, William",205804,Other,NA
+Minnesota,2013,June,2013-06-27,MCF-SCL,"Payton, Joseph Devon",241034,Natural Cause,NA
+Minnesota,2013,September,2013-09-07,MCF-OPH,"Gould, Brian Edward",198562,Natural Cause,NA
+Minnesota,2013,September,2013-09-08,MCF-OPH,"Nelson, Joel Robert",237839,Natural Cause,NA
+Minnesota,2013,October,2013-10-18,MCF-OPH,"Jones, Calvin Nivlac",186210,Natural Cause,NA
+Minnesota,2013,December,2013-12-02,MCF-OPH,"Cooper, Shane Lawrence",239248,Homicide,NA
+Minnesota,2013,December,2013-12-02,MCF-OPH,"Dickman, Ricky Dean",241324,Natural Cause,NA
+Minnesota,2013,December,2013-12-06,MCF-OPH,"Diggins, Val Derick",187424,Natural Cause,NA
+Minnesota,2014,January,2014-01-05,MCF-FRB,"Hills, Michael Purnell",241532,Natural Cause,NA
+Minnesota,2014,January,2014-01-11,MCF-OPH,"Nordgren, Richard",225344,Natural Cause,NA
+Minnesota,2014,February,2014-02-05,MCF-OPH,"Riley, Albert",133835,Natural Cause,NA
+Minnesota,2014,February,2014-02-27,MCF-ML,"Varner, Mark Kenneth",114705,Natural Cause,NA
+Minnesota,2014,March,2014-03-15,MCF-OPH,"Pietraszewski, Robert",101746,Natural Cause,NA
+Minnesota,2014,April,2014-04-26,MCF-OPH,"Bethke, Michael Louis",220097,Natural Cause,NA
+Minnesota,2014,April,2014-04-27,MCF-STW,"Kiger, Rickie Lavern",116886,Natural Cause,NA
+Minnesota,2014,April,2014-04-29,MCF-RW,"Stillday Jr., George Reed",108969,Natural Cause,NA
+Minnesota,2014,June,2014-06-11,MCF-FRB,"Huber, Delbert Edwin",238867,Natural Cause,NA
+Minnesota,2014,July,2014-07-20,MCF-FRB,"Hunt, Jeffrey",230478,Natural Cause,NA
+Minnesota,2014,July,2014-07-31,MCF-OPH,"Pove, Thomas Harold",152361,Natural Cause,NA
+Minnesota,2014,August,2014-08-16,MCF-OPH,"Jaenisch, Arnold Roland",241908,Natural Cause,NA
+Minnesota,2014,September,2014-09-25,MCF-OPH,"Cobb, Carmel",181781,Natural Cause,NA
+Minnesota,2014,October,2014-10-18,MCF-FRB,"Traxler, Dwight Thomas",188565,Natural Cause,NA
 Minnesota,2015,April,2015-04-24,MCF-OPH,"Lewis, Peter",242124,Natural Cause,701
 Minnesota,2015,May,2015-05-07,MCF-OPH,"Kegg, Conrad",111620,Natural Cause,701
 Minnesota,2015,May,2015-05-26,MCF-RC,"Harris, Rickey",245934,Natural Cause,704
