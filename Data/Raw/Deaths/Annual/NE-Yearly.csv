@@ -1,162 +1,130 @@
 State,Year,Facility,Circumstance.Specific
-Nebraska,2000,NSP,Natural
-Nebraska,2000,NSP,Natural
-Nebraska,2000,NSP,Natural
 Nebraska,2000,CCL,Natural
-Nebraska,2000,NSP,Natural
+Nebraska,2000,CCO,Natural
 Nebraska,2000,DEC,Natural
 Nebraska,2000,NSP,Natural
-Nebraska,2000,CCO,Natural
-Nebraska,2001,NSP,Natural
-Nebraska,2001,NSP,Natural
-Nebraska,2001,DEC,Natural
 Nebraska,2001,CCL,Natural
-Nebraska,2001,NSP,Suicide
-Nebraska,2001,NSP,Natural
 Nebraska,2001,DEC,Natural
 Nebraska,2001,LCC,Natural
 Nebraska,2001,LCC,NA
-Nebraska,2002,DEC,Natural
+Nebraska,2001,NSP,Natural
+Nebraska,2001,NSP,Suicide
 Nebraska,2002,CCL,Natural
+Nebraska,2002,DEC,Natural
+Nebraska,2002,NSP,Natural
 Nebraska,2002,TSCI,Natural
-Nebraska,2002,NSP,Natural
 Nebraska,2002,NA,NA
-Nebraska,2002,NSP,Natural
-Nebraska,2002,NSP,Natural
-Nebraska,2003,NSP,Natural
 Nebraska,2003,LCC,Suicide
 Nebraska,2003,NSP,Natural
-Nebraska,2003,NSP,Natural
 Nebraska,2003,NSP,Suicide
-Nebraska,2003,NSP,Natural
-Nebraska,2003,NSP,Natural
-Nebraska,2003,NSP,Natural
-Nebraska,2004,NSP,Natural
-Nebraska,2004,TSCI,Natural
-Nebraska,2004,TSCI,Natural
-Nebraska,2004,LCC,Natural
 Nebraska,2004,DEC,Natural
-Nebraska,2004,TSCI,Natural
-Nebraska,2004,NSP,Natural
 Nebraska,2004,LCC,Natural
-Nebraska,2005,NSP,Natural
+Nebraska,2004,NSP,Natural
+Nebraska,2004,TSCI,Natural
 Nebraska,2005,CCL,Natural
 Nebraska,2005,DEC,Natural
-Nebraska,2005,TSCI,Natural
-Nebraska,2005,TSCI,Natural
-Nebraska,2005,TSCI,Natural
 Nebraska,2005,NCCW,Natural
-Nebraska,2005,DEC,Natural
-Nebraska,2006,NSP,Natural
-Nebraska,2006,NSP,Natural
-Nebraska,2006,TSCI,Natural
+Nebraska,2005,NSP,Natural
+Nebraska,2005,TSCI,Natural
+Nebraska,2006,CCL,Natural
+Nebraska,2006,CCO,Natural
 Nebraska,2006,DEC,Natural
 Nebraska,2006,NSP,Natural
-Nebraska,2006,CCL,Natural
 Nebraska,2006,TSCI,Natural
-Nebraska,2006,NSP,Natural
-Nebraska,2006,CCO,Natural
-Nebraska,2007,DEC,Natural
 Nebraska,2007,CCO,NA
-Nebraska,2007,NSP,NA
-Nebraska,2007,TSCI,Homicide
-Nebraska,2007,DEC,Natural
 Nebraska,2007,DEC,Natural
 Nebraska,2007,DEC,NA
-Nebraska,2007,TSCI,Natural
 Nebraska,2007,NSP,Natural
-Nebraska,2007,NSP,Natural
+Nebraska,2007,NSP,NA
 Nebraska,2007,OCC,Natural
-Nebraska,2007,NSP,Natural
-Nebraska,2008,OCC,atributed to drug toxicity
-Nebraska,2008,TSCI,Throat cancer/lung cancer
-Nebraska,2008,NSP,non‐small cell lung carcinoma
-Nebraska,2008,LCC,Natural
-Nebraska,2008,TSCI,Acquired Immune Deficiency Syndrome (AIDS)
-Nebraska,2008,NSP,Amytrophic Lateral Sclerosis
+Nebraska,2007,TSCI,Homicide
+Nebraska,2007,TSCI,Natural
 Nebraska,2008,CCL,NA
-Nebraska,2009,TSCI,Hanging
-Nebraska,2009,NSP,Liver Failure (Hep C)
+Nebraska,2008,LCC,Natural
+Nebraska,2008,NSP,Amytrophic Lateral Sclerosis
+Nebraska,2008,NSP,non‐small cell lung carcinoma
+Nebraska,2008,OCC,atributed to drug toxicity
+Nebraska,2008,TSCI,Acquired Immune Deficiency Syndrome (AIDS)
+Nebraska,2008,TSCI,Throat cancer/lung cancer
 Nebraska,2009,CCL,Drug Overdose (Accidental)
-Nebraska,2009,LCC,Drug Overdose
-Nebraska,2009,NSP,Liver Failure (Nodular Cirrhosis of the liver)
-Nebraska,2009,NSP,ESLD (Hep C)
-Nebraska,2009,NSP,Chronic Myeloid Leukemia
+Nebraska,2009,CCO,On furlough
 Nebraska,2009,DEC,Hepatocellular Carcinoma (Hep C)
+Nebraska,2009,LCC,Drug Overdose
+Nebraska,2009,NSP,Chronic Myeloid Leukemia
+Nebraska,2009,NSP,ESLD (Hep C)
+Nebraska,2009,NSP,Liver Failure (Hep C)
+Nebraska,2009,NSP,Liver Failure (Nodular Cirrhosis of the liver)
+Nebraska,2009,NSP,Lung Carcinoma; Heart Failure
+Nebraska,2009,TSCI,Hanging
 Nebraska,2009,TSCI,Natural
 Nebraska,2009,TSCI,Pneumonia; Diabetes
-Nebraska,2009,NSP,Lung Carcinoma; Heart Failure
-Nebraska,2009,CCO,On furlough
-Nebraska,2010,LCC,Head Trauma due to fall down stairs (Accidental injury to  self)
-Nebraska,2010,NSP,"Pneumonia; End Stage Hep C, Liver Failure"
-Nebraska,2010,NSP,"Perforated Viscus/Appendix w/ CAD, dementia"
-Nebraska,2010,OCC,Myocardial Hypertrophy
 Nebraska,2010,CCL,Cardiomegaly w/ severe CAVD
-Nebraska,2010,NSP,Cerebral & Subarachnoid Hemorrhage
-Nebraska,2010,NSP,Renal Failure/Pancreatic Cancer
-Nebraska,2010,NCCW,Bilateral Bronchopneumonia
-Nebraska,2010,OCC,CHF
 Nebraska,2010,DEC,Hypertensive heart disease & coronary atherosclerosis w/ antemortem pul embolism
+Nebraska,2010,LCC,Head Trauma due to fall down stairs (Accidental injury to  self)
+Nebraska,2010,NCCW,Bilateral Bronchopneumonia
+Nebraska,2010,NSP,Cerebral & Subarachnoid Hemorrhage
 Nebraska,2010,NSP,Metastatic Lung Cancer
+Nebraska,2010,NSP,"Perforated Viscus/Appendix w/ CAD, dementia"
+Nebraska,2010,NSP,"Pneumonia; End Stage Hep C, Liver Failure"
+Nebraska,2010,NSP,Renal Failure/Pancreatic Cancer
+Nebraska,2010,OCC,CHF
 Nebraska,2010,OCC,Hypertensive CVD
-Nebraska,2011,DEC,Esophageal Adenocarcinoma
-Nebraska,2011,NSP,Small Lung Carcinoma w/ mets
-Nebraska,2011,DEC,ESLD (Hep C); Cardiomyopathy
-Nebraska,2011,TSCI,Malignant Brain Tumor
+Nebraska,2010,OCC,Myocardial Hypertrophy
 Nebraska,2011,CCO,"Atherosclerotic Artery Disease, Myocardial Hypertrophy"
-Nebraska,2011,TSCI,ESLD (Hep C)
-Nebraska,2011,NSP,ESLD (Hep C); COPD
 Nebraska,2011,DEC,Bilateral Ischemic Strokes
-Nebraska,2011,NSP,"Multiple stab wounds to neck, chest, posterior, abd, buttocks"
-Nebraska,2011,NSP,Respiratory Failure; Pulmonary Edema; Thrombocytopenia
-Nebraska,2011,NSP,Brain Stem CVA
-Nebraska,2011,TSCI,Cardiomegaly due to CAVD
-Nebraska,2011,TSCI,Massive bilateral pulmonary thromboembolism
-Nebraska,2011,OCC,Lethal ingestion of Fentanyl (Accidental)
-Nebraska,2011,NSP,Hanging in Cell
+Nebraska,2011,DEC,ESLD (Hep C); Cardiomyopathy
+Nebraska,2011,DEC,Esophageal Adenocarcinoma
 Nebraska,2011,DEC,Non‐small cell lung CA w/ mets
+Nebraska,2011,NSP,Brain Stem CVA
+Nebraska,2011,NSP,ESLD (Hep C); COPD
+Nebraska,2011,NSP,Hanging in Cell
+Nebraska,2011,NSP,"Multiple stab wounds to neck, chest, posterior, abd, buttocks"
 Nebraska,2011,NSP,Non‐hodgkins lymphoma
-Nebraska,2012,NCCW,Failure to Thrive; Renal Failure; Hep C
+Nebraska,2011,NSP,Respiratory Failure; Pulmonary Edema; Thrombocytopenia
+Nebraska,2011,NSP,Small Lung Carcinoma w/ mets
+Nebraska,2011,OCC,Lethal ingestion of Fentanyl (Accidental)
+Nebraska,2011,TSCI,Cardiomegaly due to CAVD
+Nebraska,2011,TSCI,ESLD (Hep C)
+Nebraska,2011,TSCI,Malignant Brain Tumor
+Nebraska,2011,TSCI,Massive bilateral pulmonary thromboembolism
+Nebraska,2012,CCL,AIDS
+Nebraska,2012,CCL,On Furlough
 Nebraska,2012,CCO,Severe Hypertensive Cardiomyopathy
 Nebraska,2012,DEC,Hanging
-Nebraska,2012,CCL,AIDS
-Nebraska,2012,TSCI,Hanging
-Nebraska,2012,NSP,Cardiopulmonary Arrest
-Nebraska,2012,NSP,"CAD, myocardial hypertrophy, Lung CA, Pneumonia & Pulmonary thromboembolism"
-Nebraska,2012,NSP,Atherosclerotic CAD which led to acute myocardial infarction
+Nebraska,2012,NCCW,Failure to Thrive; Renal Failure; Hep C
 Nebraska,2012,NCCW,Sudden cardiac arrhythmia
+Nebraska,2012,NSP,Atherosclerotic CAD which led to acute myocardial infarction
+Nebraska,2012,NSP,"CAD, myocardial hypertrophy, Lung CA, Pneumonia & Pulmonary thromboembolism"
+Nebraska,2012,NSP,Cardiopulmonary Arrest
 Nebraska,2012,NSP,Ischemic Heart Disease
 Nebraska,2012,TSCI,Hanging
-Nebraska,2012,CCL,On Furlough
 Nebraska,2013,DEC,Bilateral Pulmonary Thromboemboli
-Nebraska,2013,TSCI,Hanging
-Nebraska,2013,NSP,Medical complications of ESRD due to HTN
-Nebraska,2013,TSCI,Cardiomegaly w/ amyloidosis and severe CAVD
-Nebraska,2013,LCC,Complications of Cirrhosis due to Hep C
-Nebraska,2013,NSP,Acute bronchopneumonia
-Nebraska,2013,TSCI,Bilateral pulmonary thromboemboli
-Nebraska,2013,NSP,Pancreatic CA w/ extensive mets to liver & lungs
-Nebraska,2013,NSP,Cardiopulmonary arrest due to ESLD and Hep C
-Nebraska,2013,OCC,Hanging
-Nebraska,2013,TSCI,Medical complications of left hip fracture
-Nebraska,2013,NSP,"Cardiopulmonary arrest due to severe HF, severe pulmonary/portal HTN"
-Nebraska,2013,LCC,Ligature Hanging
 Nebraska,2013,DEC,Glioblastoma multiforme brain metastatic grade 4
-Nebraska,2013,TSCI,Metastatic carcinoma
+Nebraska,2013,LCC,Complications of Cirrhosis due to Hep C
+Nebraska,2013,LCC,Ligature Hanging
 Nebraska,2013,NCCW,Venous thrombosis: blood clot in lung
-Nebraska,2014,TSCI,Recurrent carcinoma of the head and neck
-Nebraska,2014,OCC,Liver and prostate cancer
-Nebraska,2014,NSP,Metastatic lung CA
-Nebraska,2014,NSP,Metastatic lung CA
+Nebraska,2013,NSP,Acute bronchopneumonia
+Nebraska,2013,NSP,Cardiopulmonary arrest due to ESLD and Hep C
+Nebraska,2013,NSP,"Cardiopulmonary arrest due to severe HF, severe pulmonary/portal HTN"
+Nebraska,2013,NSP,Medical complications of ESRD due to HTN
+Nebraska,2013,NSP,Pancreatic CA w/ extensive mets to liver & lungs
+Nebraska,2013,OCC,Hanging
+Nebraska,2013,TSCI,Bilateral pulmonary thromboemboli
+Nebraska,2013,TSCI,Cardiomegaly w/ amyloidosis and severe CAVD
+Nebraska,2013,TSCI,Hanging
+Nebraska,2013,TSCI,Medical complications of left hip fracture
+Nebraska,2013,TSCI,Metastatic carcinoma
 Nebraska,2014,LCC,Hanging
-Nebraska,2014,NSP,"Cirrhosis, ESLD, Hep C"
-Nebraska,2014,TSCI,Suicide by asphyxiation
-Nebraska,2014,NSP,Metastatic lung CA
-Nebraska,2014,NSP,Asphyxia due to ligature hanging
-Nebraska,2014,OCC,Hepatocellular carcinoma with metastasis
-Nebraska,2014,NSP,"Blunt force injury, manner ""accident/undetermined"""
-Nebraska,2014,TSCI,Acute bronchopneumonia
 Nebraska,2014,LCC,Lung carcinoma w/ significant spread to liver
+Nebraska,2014,NSP,Asphyxia due to ligature hanging
+Nebraska,2014,NSP,"Blunt force injury, manner ""accident/undetermined"""
+Nebraska,2014,NSP,"Cirrhosis, ESLD, Hep C"
+Nebraska,2014,NSP,Metastatic lung CA
+Nebraska,2014,OCC,Hepatocellular carcinoma with metastasis
+Nebraska,2014,OCC,Liver and prostate cancer
+Nebraska,2014,TSCI,Acute bronchopneumonia
+Nebraska,2014,TSCI,Recurrent carcinoma of the head and neck
+Nebraska,2014,TSCI,Suicide by asphyxiation
 Nebraska,2015,DEC,End-stage liver disease/Cirrhosis
 Nebraska,2015,NSP,"CAD, myocardial hyperthropy, MI, polycystic kidney disease"
 Nebraska,2015,NSP,"CHF, CVA, CAD"
@@ -254,3 +222,28 @@ Nebraska,2020,TSCI,"Pulmonary Embolism, Type 2 DM, Klinefelter Syndrome"
 Nebraska,2020,TSCI,"Severe sepsis, right lower lobe pneumonia due to PE, abdominal pain"
 Nebraska,2020,TSCI,Suicide by hanging
 Nebraska,2020,TSCI,squamous cell carcinoma of tonsils
+Nebraska,2021,DEC,Sepsis secondary to pneumonia
+Nebraska,2021,NSP,CAD secondary to complications of DM & CKD on dialysis
+Nebraska,2021,TSCI,Acute myocardial infarction
+Nebraska,2021,NCCW,"Metastatic squamous cell carcinoma, cervix primary"
+Nebraska,2021,NSP,"CAD, upper GI bleed, hypernatremia, DM2"
+Nebraska,2021,TSCI,Metastatic sarcoma cell carcinoma
+Nebraska,2021,LCC,Pneumonia; secondary to non‐small cell lung Carcinoma
+Nebraska,2021,NSP,Subarachnoid hemorrhage
+Nebraska,2021,TSCI,Atherosclerotic coronary artery disease
+Nebraska,2021,DEC,Acute respiratory failure with hypoxia secondary to COVID 19 pneumonia
+Nebraska,2021,DEC,Acute respiratory failure with hypoxia secondary to COVID 19 pneumonia
+Nebraska,2021,NSP,Complications of Brain Tumor
+Nebraska,2021,DEC,Acute respiratory failure with hypoxia secondary to COVID 19 pneumonia
+Nebraska,2021,DEC,Acute respiratory failure with hypoxia secondary to COVID 19 pneumonia
+Nebraska,2021,NSP,Natural Causes ‐ probable sepsis d/t PVD
+Nebraska,2021,CCO,Presumed COVID 19
+Nebraska,2021,NSP,Acute respiratory failure with hypoxia secondary to COVID 19 pneumonia
+Nebraska,2021,OCC,Acute respiratory failure with hypoxia secondary to COVID 19 pneumonia
+Nebraska,2021,OCC,Acute respiratory failure with hypoxia secondary to COVID 19 pneumonia
+Nebraska,2021,NSP,"CAD, DM, CHF, Renal Failure"
+Nebraska,2021,OCC,Medical complications of acute methamphetamine toxicity
+Nebraska,2021,NSP,Metastatic bladder cancer
+Nebraska,2021,WEC,Sudden cardiac death
+Nebraska,2021,TSCI,Acute myeloma leukemia
+Nebraska,2021,TSCI,Suicide
