@@ -1,75 +1,227 @@
-"State","Year","Month","Death.Date","Facility","Death.Age","Sex","Race","Last.Name","First.Name","ID.No","Location"
-"Alaska",2015,"January","2015-01-17","KCC",20,"M","Caucasian","Sample","Brendon",690275,"Main Housing Unit Cell 123 A123B"
-"Alaska",2015,"January","2015-01-28","ACC BOOKING",33,"M","Native American","Kobuk","Larry",431991,"Booking Cell 3 XM8A"
-"Alaska",2015,"March","2015-03-28","GCCC (DIED AT ARH)",41,"M","Caucasian","Brant","Joseph",474391,"ARH"
-"Alaska",2015,"April","2015-04-11","PCC",55,"M","Caucasian","Simmons","Grant",448410,"Palmer Minimum, dining hall"
-"Alaska",2015,"May","2015-05-21","ACC EAST",26,"M","Alaska Native","Hathaway","Alexis",526756,"Echo, 10B"
-"Alaska",2015,"May","2015-05-23","ACC E",33,"F","Native American","Kotton","Dana",696190,"Alpha, 15T"
-"Alaska",2015,"June","2015-06-07","FCC",87,"M","Caucasian","Murphy","Don",535112,"Fairbanks Memorial Hospital"
-"Alaska",2015,"July","2015-07-13","CRC NORTHSTAR",36,"M","Caucasian","Wallace","Dustin",437706,"Fairbanks Memorial Hospital"
-"Alaska",2015,"July","2015-07-18","ACC",70,"M","Alaska Native","Tinker Sr","Yako",284853,"ARH"
-"Alaska",2015,"July","2015-07-25","ACC E",74,"M","Black","Wilson","William",95850,"Echo"
-"Alaska",2015,"August","2015-08-14","LCCC",49,"M","Alaska Native","Murphy","Joseph",185931,"Booking (SP)"
-"Alaska",2015,"August","2015-08-27","FCC",57,"M","Alaska Native","Joseph","Gilbert",3369,"Booking"
-"Alaska",2015,"October","2015-10-04","WW",45,"M","Caucasian","Heppner","Paul",296718,"Transitional Program"
-"Alaska",2015,"October","2015-10-10","ACC E",42,"M","Caucasian","Jones","Charles Jr",464247,"MSU (Obsv Room)"
-"Alaska",2015,"December","2015-12-11","ACC E",53,"M","Native American","Canul","Mark",368283,"Seg"
-"Alaska",2016,"January","2016-01-10","ACC E",24,"F","Caucasian","Green","Kellsie",683700,"Alpha"
-"Alaska",2016,"January","2016-01-28","ACC E",70,"M","Caucasian","Morrell","Clayton",1544,"ARH"
-"Alaska",2016,"March","2016-03-03","SCCC",26,"M","Pacific Islander","Tautua","Mavaega Brandon",517116,"ARH"
-"Alaska",2016,"April","2016-04-21","ACC E",36,"M","Caucasian","Pinkerton","Brian",491257,"Echo"
-"Alaska",2016,"July","2016-07-06","ACC E",48,"F","Caucasian","Hunter","Laurel",493093,"Booking"
-"Alaska",2016,"August","2016-08-14","WW",56,"M","Caucasian","Talcott","Michael",168108,"Rm 319"
-"Alaska",2016,"September","2016-09-02","FCC",40,"M","Alaska Native","Titus","Joel",325203,"Booking"
-"Alaska",2016,"September","2016-09-06","WW",30,"M","Alaska Native","Shade","Walter",572230,"Bldg 10  restroom"
-"Alaska",2016,"November","2016-11-21","ACC",37,"M","Caucasian","Reuer","Kristoffer",359451,"Infirmary"
-"Alaska",2016,"November","2016-11-23","GCCC",71,"M","Caucasian","Ferguson","Jim",484226,"Infirmary"
-"Alaska",2017,"January","2017-01-10","HMCC",22,"F","Alaska Native","Alexie","Nina",642530,"Seg"
-"Alaska",2017,"May","2017-05-20","GCCC",60,"M","Caucasian","Brusehaber","Daniel",338160,"Seg"
-"Alaska",2017,"June","2017-06-10","FCC",40,"M","Alaska Native","Olson","Arlo",348891,"Seg"
-"Alaska",2017,"August","2017-08-21","SCCC",38,"M","Caucasian","Roberson","Antonio",370026,"Echo Seg"
-"Alaska",2017,"September","2017-09-23","ACC",74,"M","Caucasian","Miller","Richard",520838,"ARH"
-"Alaska",2017,"October","2017-10-11","GCCC",41,"M","Black","Southhall","Derrick",311340,"Providence Hospital"
-"Alaska",2017,"November","2017-11-13","ACC",40,"M","Hispanic","Ibarra","Eliu",536066,"ARH"
-"Alaska",2017,"November","2017-11-14","HMCC",79,"M","Caucasian","Tanner","Warren",665905,"House 5"
-"Alaska",2017,"December","2017-12-15","GCCC",77,"M","Caucasian","Boyd","Bobby",489698,"MSRH"
-"Alaska",2018,"February","2018-02-24","SCCC",30,"M","Alaska Native","Iyapana","Romeo",503697,"arh"
-"Alaska",2018,"May","2018-05-11","ACC EAST, SEG 15",29,"M","Alaska Native","Kehoe","Brenton",516646,"arh"
-"Alaska",2018,"May","2018-05-23","WW",57,"M","Alaska Native","Aveogana","Leslie",117519,"3rd floor"
-"Alaska",2018,"July","2018-07-30","GCCC",73,"M","Alaska Native","Kelila","Golga",108441,"arh"
-"Alaska",2018,"August","2018-08-14","WW",33,"M","Caucasian","Barrett","Kendall",555345,"Dorm"
-"Alaska",2018,"September","2018-09-04","GCCC",48,"M","Alaska Native","Artemie","Douglas",206916,"Infirmary"
-"Alaska",2018,"October","2018-10-27","SCCC",27,"M","Alaska Native","Jennings","Doran",533125,"House 1 Seg Cmod"
-"Alaska",2018,"October","2018-10-28","HMCC",38,"F","Alaska Native","Analoak","Nancy Grace",745591,"MHU"
-"Alaska",2018,"November","2018-11-05","GCCC",77,"M","Caucasian","Hunter","Kenneth",98790,"Infirmary"
-"Alaska",2018,"November","2018-11-17","ACC W",22,"M","Alaska Native","Shanigan","Chaz",661680,"Delta"
-"Alaska",2018,"December","2018-12-13","ACC E",58,"M","Caucasian","Sizemore","Rickey",515201,"Infirmary"
-"Alaska",2019,"March","2019-03-28","ACC",51,"M","Alaska Native","Pritchard","Jason",317364,"MHU"
-"Alaska",2019,"June","2019-06-26","WW",23,"M","Caucasian","Price","Noah",656295,"WWPT"
-"Alaska",2019,"November","2019-11-23","GCCC",69,"M","Caucasian","Tucker","Dennis",293601,"Infirmary"
-"Alaska",2019,"December","2019-12-01","OUT OF STATE",69,"M","Black","Alexander","Michael",35526,"Hudson, Colorado"
-"Alaska",2020,"March","2020-03-18","MSPT",38,"M","Caucasian","Clawson","Edward",488708,NA
-"Alaska",2020,"March","2020-03-19","CRC",40,"M","Caucasian","Norris","Nyreal",468255,"Glacier Manor"
-"Alaska",2020,"April","2020-04-19","ACC",77,"F","Caucasian","Oshea- Grantham","Shawn",658450,"ARH"
-"Alaska",2020,"June","2020-06-06","SCCC",41,"M","Caucasian","Rogers","Christopher",419889,"Kilo Mod"
-"Alaska",2020,"June","2020-06-09","AMCC",61,"M","Caucasian","Habros","Zenon",233289,NA
-"Alaska",2020,"July","2020-07-13","ACC",27,"M","Alaska
-Native","Lamont","Aaron",608580,"ACCW"
-"Alaska",2020,"December","2020-12-04","HMCC",27,"F","Alaska
-Native","Andreaknoff","Natalia",575035,"Seg"
-"Alaska",2020,"November","2020-11-25","ACC",48,"M","Alaska
-Native","Olsen, Jr","William",259563,NA
-"Alaska",2020,"November","2020-11-22","GCCC",69,"M","Asian","Moua","Leng",506302,"Infirmary"
-"Alaska",2020,"November","2020-11-30","GCCC",57,"M","Alaska Native","Littlefield","Robert",660945,NA
-"Alaska",2020,"December","2020-12-07","OUT OF STATE",61,"M","Alaska Native","Nelson","Horace",11607,"Federal Prison"
-"Alaska",2020,"December","2020-12-08","ACC",78,"M","Native American","Powell","Harry",290721,NA
-"Alaska",2020,"December","2020-12-22","GCCC",60,"M","Alaska Native","Allen","Theodore",35616,"MSRH"
-"Alaska",2020,"December","2020-12-26","GCCC",76,"M","Alaska Native","Tony","Peter",63531,"MSRH"
-"Alaska",2021,"March","2021-03-25","ACC",58,"M","Caucasian","Ellingsworth","Chopper",750549,"Infirmary"
-"Alaska",2021,"January","2021-01-16","GCCC",40,"M","Caucasian","Carter","Walter",709165,NA
-"Alaska",2021,"March","2021-03-19","GCCC",72,"M","Alaska Native","Kobuk","Lawrence",40734,"Infirmary"
-"Alaska",2021,"April","2021-04-27","GCCC",72,"M","Caucasian","Tickner","Rand",737771,"Infirmary"
-"Alaska",2021,"May","2021-05-13","MSPT",39,"M","Hispanic","Rendon- Duarte","Gregory",448551,"Segregation"
-"Alaska",2021,"May","2021-05-19","GCCC",77,"M","Alaska Native","Dayton","Andrew",1929,"Providence Hospital"
-"Alaska",2021,"July","2021-07-14","LCCC",43,"M","Caucasian","Manzanares","Kenneth",739811,"Charlie"
-"Alaska",2021,"August","2021-08-09","ACC",76,"F","Caucasian","Peterson","Berne",572695,"Infirmary"
+State,Year,Month,Death.Date,Facility,Death.Age,Sex,Race,Last.Name,First.Name,ID.No,Location
+Alaska,2000,January,2000-01-28,SCCC,55,Male,Caucasian,Risinger,Jerry,NA,NA
+Alaska,2000,August,2000-08-06,HMCC,35,Female,Alaska Native,Tobin,Gail,NA,NA
+Alaska,2000,September,2000-09-10,SCCC,35,Male,Alaska Native,Gregory,Bruce,NA,NA
+Alaska,2000,September,2000-09-21,WW,18,Male,Caucasian,Brown,Anthony,NA,NA
+Alaska,2000,November,2000-11-22,Out of State,36,Male,Caucasian,Shank,Michael,NA,NA
+Alaska,2000,December,2000-12-16,ACC-W,70,Male,Native American,Smithart,Charles,NA,NA
+Alaska,2000,December,2000-12-17,6th Ave,26,Male,Native American,Paton,Andrew,NA,NA
+Alaska,2000,December,2000-12-20,ACC-W,30,Male,Native American,Thompson,Terrence,NA,NA
+Alaska,2000,December,2000-12-30,6th Ave,49,Male,Alaska Native,Sage,Elijah,NA,NA
+Alaska,2000,December,2000-12-31,KCC,38,Male,Caucasian,Ebling,John,NA,NA
+Alaska,2001,January,2001-01-08,PCC,50,Male,Alaska Native,Kozevnikoff,Paul,NA,NA
+Alaska,2001,February,2001-02-10,HMCC,72,Male,Alaska Native,Okakok,Roy,NA,NA
+Alaska,2001,February,2001-02-11,6th Ave,46,Female,Alaska Native,Lake,Rose,NA,NA
+Alaska,2001,April,2001-04-01,Out of State,39,Male,Alaska Native,Tukle,Alfred,NA,NA
+Alaska,2001,May,2001-05-14,Out of State,37,Male,Alaska Native,James,Stacy,NA,NA
+Alaska,2001,October,2001-10-12,SCCC,67,Male,Alaska Native,Esmailka,Ernie,NA,NA
+Alaska,2001,October,2001-10-21,MSPT,47,Male,Caucasian,France,John,NA,NA
+Alaska,2001,October,2001-10-26,ACC-E,44,Male,Asian,Kim,Soo Tae,NA,NA
+Alaska,2002,January,2002-01-11,SCCC,84,Male,Asian,Rivera,Juan,NA,NA
+Alaska,2002,January,2002-01-14,CRC,61,Male,Caucasian,Montgomery,Alben,NA,NA
+Alaska,2002,January,2002-01-17,WW,43,Male,Alaska Native,Morgan,Ernest,NA,NA
+Alaska,2002,February,2002-02-01,LCCC,40,Male,Caucasian,Norris,Larry,NA,NA
+Alaska,2002,March,2002-03-11,ACC-E,49,Male,Black,Ross,Robert,NA,NA
+Alaska,2002,April,2002-04-28,ACC-W,51,Male,Black,Robinson,George,NA,NA
+Alaska,2002,May,2002-05-02,ACC-W,42,Male,Caucasian,Sandson,Larry,NA,NA
+Alaska,2002,May,2002-05-12,SCCC,21,Male,Alaska Native,Okhtokiyuk,Richard,NA,NA
+Alaska,2002,August,2002-08-03,KCC,44,Male,Black,Mitchell,Hanif,NA,NA
+Alaska,2002,October,2002-10-01,Out of State,61,Male,Caucasian,Patterson,Atlas,NA,NA
+Alaska,2002,November,2002-11-15,Out of State,30,Male,Black,Gipson,Douglas,NA,NA
+Alaska,2002,November,2002-11-17,ACC-E,42,Male,Native American,Price,James,NA,NA
+Alaska,2002,November,2002-11-19,In Transit,24,Male,Alaska Native,Damian,Alphonsis,NA,NA
+Alaska,2002,November,2002-11-19,In Transit,33,Male,Black,Martin,Fife,NA,NA
+Alaska,2002,November,2002-11-19,In Transit,39,Male,Alaska Native,Olanna,William,NA,NA
+Alaska,2002,November,2002-11-19,In Transit,39,Male,Native American,Usugan,Moses,NA,NA
+Alaska,2003,February,2003-02-11,Out of State,36,Male,Caucasian,Ridgley,James,NA,NA
+Alaska,2003,February,2003-02-14,MSPT,34,Male,Caucasian,MacDonald,David,NA,NA
+Alaska,2003,April,2003-04-14,YKCC,26,Male,Alaska Native,Sugar,Nicholas,NA,NA
+Alaska,2003,May,2003-05-24,FCC,71,Male,Caucasian,Hodges,Richard,NA,NA
+Alaska,2003,August,2003-08-22,SCCC,51,Male,Caucasian,Ames,Patrick,NA,NA
+Alaska,2003,October,2003-10-27,ACC-E,57,Male,Alaska Native,Komakhuk,Ralph,NA,NA
+Alaska,2003,December,2003-12-08,Out of State,78,Male,Caucasian,Turner,Everett,NA,NA
+Alaska,2004,January,2004-01-08,ACC-W,27,Male,Native American,Mierkt,James Edward,NA,NA
+Alaska,2004,February,2004-02-07,ACC-E,79,Male,Native American,Friendly,Sam,NA,NA
+Alaska,2004,April,2004-04-18,ACC-E,36,Male,Caucasian,Kieffer,Steven,NA,NA
+Alaska,2004,July,2004-07-06,Out of State,38,Male,Caucasian,Edwards,Mark,NA,NA
+Alaska,2004,July,2004-07-24,KCC,31,Male,Caucasian,Wallace,Troy,NA,NA
+Alaska,2004,July,2004-07-25,Out of State,43,Male,Caucasian,Huffman,Roscoe,NA,NA
+Alaska,2004,August,2004-08-22,SCCC,26,Male,Caucasian,Beaudoin,Gregory,NA,NA
+Alaska,2004,October,2004-10-09,ACC-E,35,Female,Caucasian,Austin,Tammy,NA,NA
+Alaska,2004,November,2004-11-22,Out of State,25,Male,Caucasian,Douglas,Jamie,NA,NA
+Alaska,2004,December,2004-12-10,ACC-W,57,Male,Caucasian,Meach,Charles,NA,NA
+Alaska,2004,December,2004-12-15,ACC-E/MSU,56,Male,Caucasian,Stanton,Alan,NA,NA
+Alaska,2005,January,2005-01-08,KCC,41,Male,Alaska Native,Kennedy,William H.,NA,NA
+Alaska,2005,March,2005-03-01,FCC,49,Male,Caucasian,Simonsma,Robert A.,NA,NA
+Alaska,2005,July,2005-07-07,ACC/MSU,55,Male,Black,Harris,David,NA,NA
+Alaska,2005,August,2005-08-30,ACC-E,65,Male,Native American,Elachik,Jerry P.,NA,NA
+Alaska,2005,September,2005-09-20,CRC-Parkview,30,Male,Caucasian,Foss,Kristopher,NA,NA
+Alaska,2005,November,2005-11-10,ACC/MSU,61,Male,Caucasian,Gieffels,Timothy LeRoy,NA,NA
+Alaska,2006,April,2006-04-19,"ACC-E, Booking",39,Female,Caucasian,Gardner,Jennifer,NA,NA
+Alaska,2006,May,2006-05-12,Out of State,58,Male,Caucasian,Kim,Kwang Ok,NA,NA
+Alaska,2006,September,2006-09-13,Out of State,45,Male,Alaska Native,Henry,Duffy,NA,NA
+Alaska,2006,September,2006-09-13,ACC-E/MSU,57,Male,Caucasian,Sunberg,Russell,NA,NA
+Alaska,2006,December,2006-12-19,PCC,50,Male,Alaska Native,Nicholi,Charles,NA,NA
+Alaska,2006,December,2006-12-30,Out of State,45,Male,Caucasian,Donley,Marvin,NA,NA
+Alaska,2007,March,2007-03-08,Out of State,59,Male,Alaska Native,Kvasnikoff,Paul,NA,NA
+Alaska,2007,March,2007-03-09,FCC,32,Male,Caucasian,Webb,David,NA,NA
+Alaska,2007,June,2007-06-30,ACC-E/MSU,51,Male,Caucasian,Forshee,Michael,NA,NA
+Alaska,2007,July,2007-07-04,ACC-E,24,Male,Alaska Native,Jackson,Allen,NA,NA
+Alaska,2007,September,2007-09-17,Out of State,36,Male,Caucasian,Hightower,Rusty,NA,NA
+Alaska,2007,November,2007-11-11,HMCC (ARH),40,Female,Caucasian,Simmons,Monica,NA,NA
+Alaska,2007,November,2007-11-28,ACC-E,32,Female,Native American,Edwards,Bertha,NA,NA
+Alaska,2007,November,2007-11-29,HMCC,42,Female,Caucasian,Porterfield,Michelle,NA,NA
+Alaska,2007,December,2007-12-10,ACC-E/MSU,72,Male,Alaska Native,Alexie,Ephrem,NA,NA
+Alaska,2007,December,2007-12-19,ACC-E/MSU,46,Male,Caucasian,Powers,Michael,NA,NA
+Alaska,2008,January,2008-01-10,ACC-E/MSU,41,Female,Alaska Native,Spud,Brenda,NA,NA
+Alaska,2008,January,2008-01-25,Out of State,60,Male,Caucasian,Olson,George,NA,NA
+Alaska,2008,February,2008-02-29,ACC-E/MSU,72,Male,Caucasian,Perkins,Billy Joe,NA,NA
+Alaska,2008,April,2008-04-07,ACC-E,47,Female,Caucasian,Lewis,Annie,NA,NA
+Alaska,2008,April,2008-04-26,ACC-E,49,Male,Caucasian,Ritchie,Ronald,NA,NA
+Alaska,2008,May,2008-05-02,ACC-E / MSU,59,Male,Caucasian,Pieroni,Stephan,NA,NA
+Alaska,2008,May,2008-05-13,ACC-E,42,Male,Caucasian,Newman,Christopher,NA,NA
+Alaska,2008,May,2008-05-24,ACC-E/MSU,67,Male,Caucasian,Hale,Robert,NA,NA
+Alaska,2008,June,2008-06-14,Pt Mac,49,Male,Caucasian,Wagner,Mark,NA,NA
+Alaska,2008,June,2008-06-19,ACC-E/MSU,56,Male,Caucasian,Rocereta,Mark,NA,NA
+Alaska,2008,September,2008-09-06,LCCC,47,Male,Caucasian,Medlin,Myron Lloyd,NA,NA
+Alaska,2008,October,2008-10-03,ACC,51,Male,Asian,Meneses,John,NA,NA
+Alaska,2008,October,2008-10-13,ACC-W,46,Male,Caucasian,McKinney,Charles,NA,NA
+Alaska,2008,October,2008-10-28,SCCC,51,Male,Caucasian,Carlin,John,NA,NA
+Alaska,2008,December,2008-12-09,Out of State,26,Male,Alaska Native,Alexie,Joseph,NA,NA
+Alaska,2009,January,2009-01-06,MSPT,42,Male,Caucasian,Mcinelly,Robert,NA,NA
+Alaska,2009,January,2009-01-14,WW,52,Male,Caucasian,Edgar,Carle,NA,NA
+Alaska,2009,February,2009-02-06,ACCE,31,Male,Asian,Saafi,Osaiasi,NA,NA
+Alaska,2009,April,2009-04-28,ACCE,44,Male,Black,Jackson,Roderick,NA,NA
+Alaska,2009,July,2009-07-25,CRC-Cordova Center,50,Male,Black,Washington,Donald,NA,NA
+Alaska,2009,October,2009-10-23,Out of State,44,Male,Alaska Native,Rice,Ray,NA,NA
+Alaska,2009,December,2009-12-01,SCCC,77,Male,Alaska Native,Larsen,Isaac,NA,NA
+Alaska,2010,January,2010-01-11,SCCC,64,Male,Caucasian,Dale,Jimmie,NA,NA
+Alaska,2010,January,2010-01-29,Out of State,60,Male,Caucasian,Horsey,William,NA,NA
+Alaska,2010,February,2010-02-18,PCC,47,Male,Caucasian,Willis,Anthony,NA,NA
+Alaska,2010,July,2010-07-06,ACC-W/Mike Mod,23,Male,Alaska Native,McKinnon,Charles,NA,NA
+Alaska,2010,July,2010-07-14,ACC-E,51,Male,Caucasian,Smith,John,NA,NA
+Alaska,2010,July,2010-07-16,ACC-E,53,Male,Hispanic,Flores,Carlos,NA,NA
+Alaska,2010,July,2010-07-25,ACC-E,49,Male,Alaska Native,Moses,Earnest,NA,NA
+Alaska,2010,August,2010-08-16,Out of State,44,Male,Caucasian,Shandy,Wesley,NA,NA
+Alaska,2010,September,2010-09-04,WW,43,Male,Alaska Native,Toolie,Vincent,NA,NA
+Alaska,2010,October,2010-10-07,Out of State,55,Male,Black,Carter,James,NA,NA
+Alaska,2010,October,2010-10-18,SCCC,41,Male,Caucasian,Curro,Anthony,NA,NA
+Alaska,2010,November,2010-11-16,ACC-E,45,Male,Caucasian,Contestablie,Anthony,NA,NA
+Alaska,2010,November,2010-11-25,ACC-E,46,Male,Alaska Native,Foster,Harry,NA,NA
+Alaska,2011,January,2011-01-01,ACC-E,44,Male,Alaska Native,Kosbruk,Ralph Peter,NA,NA
+Alaska,2011,January,2011-01-15,WW,27,Male,Caucasian,Sparks,Brandon,NA,NA
+Alaska,2011,April,2011-04-26,Out of State,46,Male,Caucasian,Scott,Sheldon,NA,NA
+Alaska,2011,May,2011-05-20,ACC-E,43,Male,Caucasian,Andrews,Charles,NA,NA
+Alaska,2011,July,2011-07-02,ACC-E,46,Male,Alaska Native,Morse,Samuel,NA,NA
+Alaska,2011,July,2011-07-21,ACC-E,66,Male,Caucasian,Lowry,Edward,NA,NA
+Alaska,2011,July,2011-07-30,ACC-E,50,Male,Alaska Native,Pitka,Peter,NA,NA
+Alaska,2011,August,2011-08-31,SCCC,24,Male,Alaska Native,Tommy,Egan,NA,NA
+Alaska,2011,October,2011-10-12,ACCE,37,Male,Caucasian,St. Amand,Brian Charles,NA,NA
+Alaska,2011,October,2011-10-13,Out of State,20,Male,Black,Binbon,Jonathan,NA,NA
+Alaska,2011,November,2011-11-03,FCC,25,Male,Black,Simpson,Moses,NA,NA
+Alaska,2011,November,2011-11-28,Out of State,64,Male,Alaska Native,Krufoff,Condrat,NA,NA
+Alaska,2012,February,2012-02-04,ACC-E,57,Male,Caucasian,Bales,Rodney,NA,NA
+Alaska,2012,February,2012-02-16,SCCC,60,Male,Alaska Native,Nukapigak,Clifford,NA,NA
+Alaska,2012,March,2012-03-12,SCCC,34,Male,Caucasian,Wagner,Joshua,NA,NA
+Alaska,2012,May,2012-05-02,ACC-E,46,Male,Caucasian,Goldsmith,David,NA,NA
+Alaska,2012,May,2012-05-19,Out of State,52,Male,Caucasian,Hall,Kraig,NA,NA
+Alaska,2012,July,2012-07-25,ACC-E,58,Male,Alaska Native,Kelly,Francis Xavier,NA,NA
+Alaska,2012,September,2012-09-18,PCC-Med,55,Male,Caucasian,Hoffman,Leonard,NA,NA
+Alaska,2012,October,2012-10-18,ACC-E,43,Male,Black,Cofey,Adrian,NA,NA
+Alaska,2012,October,2012-10-20,Out of State,56,Male,Alaska Native,Ahsoak,Conrad,NA,NA
+Alaska,2012,December,2012-12-02,ACC-W,34,Male,Caucasian,Keyes,Israel,NA,NA
+Alaska,2012,December,2012-12-16,ACC-E,71,Male,Caucasian,Freeman,Robert,NA,NA
+Alaska,2013,January,2013-01-05,ACC (ARH),55,Male,Alaska Native,Sovalik,Thomas,NA,NA
+Alaska,2013,January,2013-01-10,Out of State,77,Male,Alaska Native,Angapak,Eddie,NA,NA
+Alaska,2013,January,2013-01-13,ACC-E/MSU,58,Male,Caucasian,Seaman,Donald,NA,NA
+Alaska,2013,June,2013-06-06,ACC/MSU,62,Male,Caucasian,Callahan,Robert,NA,NA
+Alaska,2013,June,2013-06-27,ACC,53,Male,Alaska Native,Cleveland,Steven,NA,NA
+Alaska,2013,July,2013-07-22,CRC-Parkview**,41,Male,Caucasian,Geurin,Christian,NA,NA
+Alaska,2013,September,2013-09-11,SCCC,66,Male,Alaska Native,One,Rudy,NA,NA
+Alaska,2013,October,2013-10-04,ACC/MSU,45,Male,Caucasian,Kelly,Timothy,NA,NA
+Alaska,2014,January,2014-01-03,ACC-E MSU,46,Male,Alaska Native,Voyles,Earl,NA,NA
+Alaska,2014,April,2014-04-04,ACC-E,20,Male,Black,Mosley,Davon,NA,NA
+Alaska,2014,April,2014-04-10,HMCC,24,Female,Alaska Native,Kernak,Amanda,NA,NA
+Alaska,2014,May,2014-05-13,ACC-E (ARH),24,Male,Caucasian,Bolus,Mark,NA,NA
+Alaska,2014,June,2014-06-06,ACC-E,33,Female,Caucasian,Simon,Kirsten,NA,NA
+Alaska,2014,June,2014-06-29,SCCC,29,Male,Black,Gillespie,Elihu,NA,NA
+Alaska,2014,July,2014-07-15,ACC-E MSU,65,Male,Caucasian,Hanson,Ronald,NA,NA
+Alaska,2014,August,2014-08-21,ACC (ARH),75,Male,Caucasian,Hansen,Robert,NA,NA
+Alaska,2014,August,2014-08-25,MSPT,37,Female,Caucasian,Rochdi,Tisha,NA,NA
+Alaska,2014,October,2014-10-29,ACC (ARH),59,Male,Caucasian,Allen,Rick,NA,NA
+Alaska,2014,November,2014-11-05,ACC (MSU),71,Male,Caucasian,Rudden,Joseph,NA,NA
+Alaska,2014,December,2014-12-19,ACC-E Booking,28,Male,Alaska Native,Alexie,Robert,NA,NA
+Alaska,2015,January,2015-01-17,KCC,20,M,Caucasian,Sample,Brendon,690275,Main Housing Unit Cell 123 A123B
+Alaska,2015,January,2015-01-28,ACC BOOKING,33,M,Native American,Kobuk,Larry,431991,Booking Cell 3 XM8A
+Alaska,2015,March,2015-03-28,GCCC (DIED AT ARH),41,M,Caucasian,Brant,Joseph,474391,ARH
+Alaska,2015,April,2015-04-11,PCC,55,M,Caucasian,Simmons,Grant,448410,"Palmer Minimum, dining hall"
+Alaska,2015,May,2015-05-21,ACC EAST,26,M,Alaska Native,Hathaway,Alexis,526756,"Echo, 10B"
+Alaska,2015,May,2015-05-23,ACC E,33,F,Native American,Kotton,Dana,696190,"Alpha, 15T"
+Alaska,2015,June,2015-06-07,FCC,87,M,Caucasian,Murphy,Don,535112,Fairbanks Memorial Hospital
+Alaska,2015,July,2015-07-13,CRC NORTHSTAR,36,M,Caucasian,Wallace,Dustin,437706,Fairbanks Memorial Hospital
+Alaska,2015,July,2015-07-18,ACC,70,M,Alaska Native,Tinker Sr,Yako,284853,ARH
+Alaska,2015,July,2015-07-25,ACC E,74,M,Black,Wilson,William,95850,Echo
+Alaska,2015,August,2015-08-14,LCCC,49,M,Alaska Native,Murphy,Joseph,185931,Booking (SP)
+Alaska,2015,August,2015-08-27,FCC,57,M,Alaska Native,Joseph,Gilbert,3369,Booking
+Alaska,2015,October,2015-10-04,WW,45,M,Caucasian,Heppner,Paul,296718,Transitional Program
+Alaska,2015,October,2015-10-10,ACC E,42,M,Caucasian,Jones,Charles Jr,464247,MSU (Obsv Room)
+Alaska,2015,December,2015-12-11,ACC E,53,M,Native American,Canul,Mark,368283,Seg
+Alaska,2016,January,2016-01-10,ACC E,24,F,Caucasian,Green,Kellsie,683700,Alpha
+Alaska,2016,January,2016-01-28,ACC E,70,M,Caucasian,Morrell,Clayton,1544,ARH
+Alaska,2016,March,2016-03-03,SCCC,26,M,Pacific Islander,Tautua,Mavaega Brandon,517116,ARH
+Alaska,2016,April,2016-04-21,ACC E,36,M,Caucasian,Pinkerton,Brian,491257,Echo
+Alaska,2016,July,2016-07-06,ACC E,48,F,Caucasian,Hunter,Laurel,493093,Booking
+Alaska,2016,August,2016-08-14,WW,56,M,Caucasian,Talcott,Michael,168108,Rm 319
+Alaska,2016,September,2016-09-02,FCC,40,M,Alaska Native,Titus,Joel,325203,Booking
+Alaska,2016,September,2016-09-06,WW,30,M,Alaska Native,Shade,Walter,572230,Bldg 10  restroom
+Alaska,2016,November,2016-11-21,ACC,37,M,Caucasian,Reuer,Kristoffer,359451,Infirmary
+Alaska,2016,November,2016-11-23,GCCC,71,M,Caucasian,Ferguson,Jim,484226,Infirmary
+Alaska,2017,January,2017-01-10,HMCC,22,F,Alaska Native,Alexie,Nina,642530,Seg
+Alaska,2017,May,2017-05-20,GCCC,60,M,Caucasian,Brusehaber,Daniel,338160,Seg
+Alaska,2017,June,2017-06-10,FCC,40,M,Alaska Native,Olson,Arlo,348891,Seg
+Alaska,2017,August,2017-08-21,SCCC,38,M,Caucasian,Roberson,Antonio,370026,Echo Seg
+Alaska,2017,September,2017-09-23,ACC,74,M,Caucasian,Miller,Richard,520838,ARH
+Alaska,2017,October,2017-10-11,GCCC,41,M,Black,Southhall,Derrick,311340,Providence Hospital
+Alaska,2017,November,2017-11-13,ACC,40,M,Hispanic,Ibarra,Eliu,536066,ARH
+Alaska,2017,November,2017-11-14,HMCC,79,M,Caucasian,Tanner,Warren,665905,House 5
+Alaska,2017,December,2017-12-15,GCCC,77,M,Caucasian,Boyd,Bobby,489698,MSRH
+Alaska,2018,February,2018-02-24,SCCC,30,M,Alaska Native,Iyapana,Romeo,503697,arh
+Alaska,2018,May,2018-05-11,"ACC EAST, SEG 15",29,M,Alaska Native,Kehoe,Brenton,516646,arh
+Alaska,2018,May,2018-05-23,WW,57,M,Alaska Native,Aveogana,Leslie,117519,3rd floor
+Alaska,2018,July,2018-07-30,GCCC,73,M,Alaska Native,Kelila,Golga,108441,arh
+Alaska,2018,August,2018-08-14,WW,33,M,Caucasian,Barrett,Kendall,555345,Dorm
+Alaska,2018,September,2018-09-04,GCCC,48,M,Alaska Native,Artemie,Douglas,206916,Infirmary
+Alaska,2018,October,2018-10-27,SCCC,27,M,Alaska Native,Jennings,Doran,533125,House 1 Seg Cmod
+Alaska,2018,October,2018-10-28,HMCC,38,F,Alaska Native,Analoak,Nancy Grace,745591,MHU
+Alaska,2018,November,2018-11-05,GCCC,77,M,Caucasian,Hunter,Kenneth,98790,Infirmary
+Alaska,2018,November,2018-11-17,ACC W,22,M,Alaska Native,Shanigan,Chaz,661680,Delta
+Alaska,2018,December,2018-12-13,ACC E,58,M,Caucasian,Sizemore,Rickey,515201,Infirmary
+Alaska,2019,March,2019-03-28,ACC,51,M,Alaska Native,Pritchard,Jason,317364,MHU
+Alaska,2019,June,2019-06-26,WW,23,M,Caucasian,Price,Noah,656295,WWPT
+Alaska,2019,November,2019-11-23,GCCC,69,M,Caucasian,Tucker,Dennis,293601,Infirmary
+Alaska,2019,December,2019-12-01,OUT OF STATE,69,M,Black,Alexander,Michael,35526,"Hudson, Colorado"
+Alaska,2020,March,2020-03-18,MSPT,38,M,Caucasian,Clawson,Edward,488708,NA
+Alaska,2020,March,2020-03-19,CRC,40,M,Caucasian,Norris,Nyreal,468255,Glacier Manor
+Alaska,2020,April,2020-04-19,ACC,77,F,Caucasian,Oshea- Grantham,Shawn,658450,ARH
+Alaska,2020,June,2020-06-06,SCCC,41,M,Caucasian,Rogers,Christopher,419889,Kilo Mod
+Alaska,2020,June,2020-06-09,AMCC,61,M,Caucasian,Habros,Zenon,233289,NA
+Alaska,2020,July,2020-07-13,ACC,27,M,"Alaska
+Native",Lamont,Aaron,608580,ACCW
+Alaska,2020,December,2020-12-04,HMCC,27,F,"Alaska
+Native",Andreaknoff,Natalia,575035,Seg
+Alaska,2020,November,2020-11-25,ACC,48,M,"Alaska
+Native","Olsen, Jr",William,259563,NA
+Alaska,2020,November,2020-11-22,GCCC,69,M,Asian,Moua,Leng,506302,Infirmary
+Alaska,2020,November,2020-11-30,GCCC,57,M,Alaska Native,Littlefield,Robert,660945,NA
+Alaska,2020,December,2020-12-07,OUT OF STATE,61,M,Alaska Native,Nelson,Horace,11607,Federal Prison
+Alaska,2020,December,2020-12-08,ACC,78,M,Native American,Powell,Harry,290721,NA
+Alaska,2020,December,2020-12-22,GCCC,60,M,Alaska Native,Allen,Theodore,35616,MSRH
+Alaska,2020,December,2020-12-26,GCCC,76,M,Alaska Native,Tony,Peter,63531,MSRH
+Alaska,2021,March,2021-03-25,ACC,58,M,Caucasian,Ellingsworth,Chopper,750549,Infirmary
+Alaska,2021,January,2021-01-16,GCCC,40,M,Caucasian,Carter,Walter,709165,NA
+Alaska,2021,March,2021-03-19,GCCC,72,M,Alaska Native,Kobuk,Lawrence,40734,Infirmary
+Alaska,2021,April,2021-04-27,GCCC,72,M,Caucasian,Tickner,Rand,737771,Infirmary
+Alaska,2021,May,2021-05-13,MSPT,39,M,Hispanic,Rendon- Duarte,Gregory,448551,Segregation
+Alaska,2021,May,2021-05-19,GCCC,77,M,Alaska Native,Dayton,Andrew,1929,Providence Hospital
+Alaska,2021,July,2021-07-14,LCCC,43,M,Caucasian,Manzanares,Kenneth,739811,Charlie
+Alaska,2021,August,2021-08-09,ACC,76,F,Caucasian,Peterson,Berne,572695,Infirmary
