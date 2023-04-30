@@ -1,4 +1,890 @@
 State,Year,Month,Death.Date,Facility,Location,Full.Name,Sex,Race,Death.Age,Circumstance.Specific,CMP.ID
+Kentucky,2000,January,2000-01-02,RCC,NA,NA,NA,NA,NA,Natural Causes,NA
+Kentucky,2000,January,2000-01-04,KSR,NA,NA,NA,NA,NA,Urosepsis (Kidney Failure),NA
+Kentucky,2000,January,2000-01-08,KSR,NA,NA,NA,NA,NA,Respiratory Distress,NA
+Kentucky,2000,January,2000-01-12,KSR,NA,NA,NA,NA,NA,Lung Cancer,NA
+Kentucky,2000,January,2000-01-13,KCIW,NA,NA,NA,NA,NA,Cardio Pulmonary arrest,NA
+Kentucky,2000,January,2000-01-20,PCDC,NA,NA,NA,NA,NA,Pending Autopsy,NA
+Kentucky,2000,January,2000-01-22,KSR,NA,NA,NA,NA,NA,Pending Autopsy,NA
+Kentucky,2000,January,2000-01-25,NTC,NA,NA,NA,NA,NA,Pending Autopsy,NA
+Kentucky,2000,February,2000-02-02,KSR,NA,NA,NA,NA,NA,Heart Failure,NA
+Kentucky,2000,February,2000-02-03,KSR,NA,NA,NA,NA,NA,malignant neoplasm of the pharynx,NA
+Kentucky,2000,February,2000-02-08,KCIW,NA,NA,NA,NA,NA,pending autopsy,NA
+Kentucky,2000,February,2000-02-11,LLCC,NA,NA,NA,NA,NA,Lung Cancer,NA
+Kentucky,2000,March,2000-03-03,KSR,NA,NA,NA,NA,NA,Heart and Bladder Failure,NA
+Kentucky,2000,March,2000-03-05,KSR,NA,NA,NA,NA,NA,Cardio Pulmonary Arrest,NA
+Kentucky,2000,March,2000-03-06,BCDC,NA,NA,NA,NA,NA,Pending Autopsy,NA
+Kentucky,2000,March,2000-03-19,KSR,NA,NA,NA,NA,NA,Heart Attack,NA
+Kentucky,2000,March,2000-03-19,KSR,NA,NA,NA,NA,NA,Chronic Lung Disease,NA
+Kentucky,2000,March,2000-03-23,GRCC,NA,NA,NA,NA,NA,Pending Autopsy,NA
+Kentucky,2000,March,2000-03-30,KSR,NA,NA,NA,NA,NA,Natural Causes,NA
+Kentucky,2000,March,2000-03-31,LLCC,NA,NA,NA,NA,NA,Massive Brain Stem Stroke,NA
+Kentucky,2000,April,2000-04-07,KSR,NA,NA,NA,NA,NA,Liver Failure and Multiple Symptoms,NA
+Kentucky,2000,April,2000-04-16,KSR,NA,NA,NA,NA,NA,Metastatic Cancer of the Colon and Multi-System Organ Failure,NA
+Kentucky,2000,May,2000-05-04,KSR,NA,NA,NA,NA,NA,Multile Organ Shutdown,NA
+Kentucky,2000,May,2000-05-22,KSR,NA,NA,NA,NA,NA,Suicide,NA
+Kentucky,2000,May,2000-05-30,KSR,NA,NA,NA,NA,NA,Heart Attack,NA
+Kentucky,2000,June,2000-06-03,KSR,NA,NA,NA,NA,NA,Preliminary Seizure Disorder,NA
+Kentucky,2000,June,2000-06-04,KSR,NA,NA,NA,NA,NA,Pending Autopsy Results,NA
+Kentucky,2000,June,2000-06-05,KSR,NA,NA,NA,NA,NA,Esophageal Cancer with Metastasis,NA
+Kentucky,2000,June,2000-06-14,KSR,NA,NA,NA,NA,NA,Cardiopulmonary Arrest secondary to generalized Metastatic Cancer,NA
+Kentucky,2000,June,2000-06-14,KSR,NA,NA,NA,NA,NA,Congestive Heart Failure,NA
+Kentucky,2000,June,2000-06-17,EKCC,NA,NA,NA,NA,NA,Cardio Pulmonary Arrest,NA
+Kentucky,2000,July,2000-07-04,MCDC,NA,NA,NA,NA,NA,Suicide by hanging,NA
+Kentucky,2000,July,2000-07-07,KSP,NA,NA,NA,NA,NA,pending autopsy,NA
+Kentucky,2000,July,2000-07-22,KSR,NA,NA,NA,NA,NA,Cardiac Arrest,NA
+Kentucky,2000,July,2000-07-24,KSP,NA,NA,NA,NA,NA,Suicide,NA
+Kentucky,2000,July,2000-07-30,KSR,NA,NA,NA,NA,NA,Respiratory Failure due to Lung Cancer,NA
+Kentucky,2000,August,2000-08-08,EKCC,NA,NA,NA,NA,NA,Multi-System Organ Failure and Psendamonas Septicemia,NA
+Kentucky,2000,August,2000-08-09,KSR,NA,NA,NA,NA,NA,Lung Cancer with Metastasis,NA
+Kentucky,2000,August,2000-08-15,KSR,NA,NA,NA,NA,NA,Pulmonary Embolism,NA
+Kentucky,2000,August,2000-08-15,BCC,NA,NA,NA,NA,NA,pending autopsy,NA
+Kentucky,2000,August,2000-08-29,KSR,NA,NA,NA,NA,NA,Cardiac Arrest,NA
+Kentucky,2000,September,2000-09-12,BCC,NA,NA,NA,NA,NA,Natural Causes,NA
+Kentucky,2000,October,2000-10-02,EKCC,NA,NA,NA,NA,NA,Suicide by hanging,NA
+Kentucky,2000,October,2000-10-05,NTC,NA,NA,NA,NA,NA,Apparent Heart Failure,NA
+Kentucky,2000,October,2000-10-25,KSR,NA,NA,NA,NA,NA,Esophageal Cancer,NA
+Kentucky,2000,October,2000-10-30,RCC,NA,NA,NA,NA,NA,Heart Attack,NA
+Kentucky,2000,November,2000-11-04,NCDC-escap,NA,NA,NA,NA,NA,suicide by gunshot to head,NA
+Kentucky,2000,November,2000-11-17,KSR,NA,NA,NA,NA,NA,Cardiac Failure following a major open-heart procedure performed the week before,NA
+Kentucky,2000,November,2000-11-26,RCC,NA,NA,NA,NA,NA,Apparent Heart Attack,NA
+Kentucky,2000,November,2000-11-29,KSR,NA,NA,NA,NA,NA,Lung Cancer with Metastasis of the lower spine,NA
+Kentucky,2001,January,2001-01-05,BLACKBURN CORRECTIONAL COMPLEX,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Heart Attack,NA
+Kentucky,2001,January,2001-01-22,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Full Cardiopulminary Arrest,NA
+Kentucky,2001,January,2001-01-31,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,Lung Cancer and Brain Metestasis,NA
+Kentucky,2001,February,2001-02-04,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Cardiac Heart Failure,NA
+Kentucky,2001,February,2001-02-10,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,"Multi System Failure, Cancer",NA
+Kentucky,2001,February,2001-02-14,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Liver Cancer,NA
+Kentucky,2001,February,2001-02-15,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Cardiac Arrest,NA
+Kentucky,2001,February,2001-02-19,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,Pancreatic & Liver Cancer with Metastasis to bone,NA
+Kentucky,2001,February,2001-02-21,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Heart Failure,NA
+Kentucky,2001,March,2001-03-03,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,"Heart Failure, liver failure, Hep. C,",NA
+Kentucky,2001,March,2001-03-03,LEE ADJUSTMENT CENTER,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Cardiac Arrest,NA
+Kentucky,2001,March,2001-03-09,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Cirrhosis of the liver,NA
+Kentucky,2001,April,2001-04-02,KENTUCKY CORRECTIONAL INSTITUTION FOR WOMEN,In medical facility outside prison,NA,Female,"White, non‐Hispanic",NA,"Cardiac Arrest, Cancer",NA
+Kentucky,2001,April,2001-04-11,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Acute Respiratory Distress,NA
+Kentucky,2001,April,2001-04-11,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Heart Failure,NA
+Kentucky,2001,May,2001-05-07,LUTHER LUCKETT CORRECTIONAL COMPLEX,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Stroke,NA
+Kentucky,2001,June,2001-06-04,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Heart Failure,NA
+Kentucky,2001,June,2001-06-04,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Pulmonary Distress,NA
+Kentucky,2001,July,2001-07-02,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Cardiac Arrest,NA
+Kentucky,2001,July,2001-07-03,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Complications of Lung Cancer,NA
+Kentucky,2001,July,2001-07-10,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Renal Failure,NA
+Kentucky,2001,July,2001-07-19,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,NA,NA
+Kentucky,2001,July,2001-07-21,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,"Parkinson Disease, Lou Gehig Dis. Cardio Pulmonary",NA
+Kentucky,2001,July,2001-07-28,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Liver/Kidney Failure,NA
+Kentucky,2001,July,2001-07-28,LUTHER LUCKETT CORRECTIONAL COMPLEX,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,Heart Attack,NA
+Kentucky,2001,August,2001-08-03,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,Cancer,NA
+Kentucky,2001,August,2001-08-09,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"Black, non‐Hispanic",NA,Cancer,NA
+Kentucky,2001,August,2001-08-22,KENTUCKY STATE PENITENTIARY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,NA,NA
+Kentucky,2001,October,2001-10-11,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Cardiac Arrest,NA
+Kentucky,2001,November,2001-11-04,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,history of non‐hodgkins lymphoma,NA
+Kentucky,2001,November,2001-11-16,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,NA,NA
+Kentucky,2001,November,2001-11-19,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Coronary Artery Disease,NA
+Kentucky,2001,November,2001-11-20,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Septic/Cardiac,NA
+Kentucky,2001,December,2001-12-07,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Heart Attack,NA
+Kentucky,2001,December,2001-12-08,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,NA,NA
+Kentucky,2001,December,2001-12-17,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,heart attack,NA
+Kentucky,2002,January,2002-01-15,ROEDERER CORRECTIONAL COMPLEX,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,Multiple Organ Failure‐History of Heart Problems,NA
+Kentucky,2002,January,2002-01-18,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,Respiratory Failure,NA
+Kentucky,2002,February,2002-02-01,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,"Lung Cancer, Hep A, B,C",NA
+Kentucky,2002,February,2002-02-05,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Respiratory Failure,NA
+Kentucky,2002,February,2002-02-06,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,NA,NA
+Kentucky,2002,February,2002-02-18,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Complications related to cancer,NA
+Kentucky,2002,February,2002-02-23,EASTERN KY CORRECTIONAL COMPLEX,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Cardiac Arrest,NA
+Kentucky,2002,February,2002-02-28,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,"Cardiac Arrest, Hap C",NA
+Kentucky,2002,March,2002-03-01,LUTHER LUCKETT CORRECTIONAL COMPLEX,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Natural,NA
+Kentucky,2002,March,2002-03-03,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,Lung Cancer,NA
+Kentucky,2002,March,2002-03-06,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Complications with Hepatitis C,NA
+Kentucky,2002,March,2002-03-07,LUTHER LUCKETT CORRECTIONAL COMPLEX,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Heart Attack,NA
+Kentucky,2002,March,2002-03-12,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Septic Shock,NA
+Kentucky,2002,April,2002-04-16,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2002,May,2002-05-03,WESTERN KENTUCKY CORRECTIONAL COMPLEX,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Cardiac Arrest,NA
+Kentucky,2002,May,2002-05-14,GREEN RIVER CORRECTIONAL COMPLEX,In general housing unit in the facility or on prison grounds,NA,Male,"Black, non‐Hispanic",NA,Natural Causes,NA
+Kentucky,2002,May,2002-05-22,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Hepatitis C,NA
+Kentucky,2002,June,2002-06-05,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,"Complications related to end stages of liver, CA",NA
+Kentucky,2002,June,2002-06-16,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,MULTIPLE SYSTEM FAILURE,NA
+Kentucky,2002,June,2002-06-20,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Cardiac Arrest,NA
+Kentucky,2002,June,2002-06-21,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,Lung Cancer,NA
+Kentucky,2002,June,2002-06-28,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Cancer,NA
+Kentucky,2002,July,2002-07-05,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,cardiac arrest,NA
+Kentucky,2002,July,2002-07-17,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,Small cell carcinoma lung cancer,NA
+Kentucky,2002,July,2002-07-31,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,cardiac arrest,NA
+Kentucky,2002,August,2002-08-02,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,Liver Cancer,NA
+Kentucky,2002,August,2002-08-03,KENTUCKY STATE REFOMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Complications of liver disease,NA
+Kentucky,2002,August,2002-08-04,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,NA,NA
+Kentucky,2002,August,2002-08-11,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Complications related to lung cancer,NA
+Kentucky,2002,August,2002-08-25,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,Neck and lung cancer,NA
+Kentucky,2002,August,2002-08-25,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Lung and Neck Cancer,NA
+Kentucky,2002,September,2002-09-02,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,Multiple organ failure due to cancer,NA
+Kentucky,2002,September,2002-09-15,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,Complications due to cancer,NA
+Kentucky,2002,September,2002-09-27,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Hepatitis C,NA
+Kentucky,2002,October,2002-10-18,KENTUCKY STATE REFORMATORY,In general housing unit in the facility or on prison grounds,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2002,October,2002-10-31,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,Complications due to cancer,NA
+Kentucky,2002,November,2002-11-03,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,NA,NA
+Kentucky,2002,November,2002-11-30,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2002,December,2002-12-02,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2002,December,2002-12-12,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,Septic Pneumonia,NA
+Kentucky,2002,December,2002-12-16,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2002,December,2002-12-20,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Complications due to recent heart surgery,NA
+Kentucky,2003,January,2003-01-15,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,COMPLICATIONS DUE TO CANCER,NA
+Kentucky,2003,January,2003-01-18,KENTUCKY STATE PENITENTIARY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,MYOCARDAL INFRACTION,NA
+Kentucky,2003,February,2003-02-03,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,COPD. CHRON. CONST. PULM. DISEASE,NA
+Kentucky,2003,February,2003-02-04,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,COMP. DUE TO LUNG CANCER,NA
+Kentucky,2003,February,2003-02-04,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,END STAGES OF LUNG CANCER,NA
+Kentucky,2003,February,2003-02-20,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,"RENAL FAILURE, CARDIAC ARREST",NA
+Kentucky,2003,March,2003-03-04,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,CHRON. OBSTRUC. PULM. DISEASE,NA
+Kentucky,2003,March,2003-03-06,KENTUCKY STATE REFORMATORY,In general housing unit in the facility or on prison grounds,NA,Male,"White, non‐Hispanic",NA,CARDIAC ARREST,NA
+Kentucky,2003,March,2003-03-16,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,CARDIAC ARREST,NA
+Kentucky,2003,March,2003-03-17,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,COMP. FROM CANCER,NA
+Kentucky,2003,March,2003-03-21,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Female,"White, non‐Hispanic",NA,COMP OF LUNG CANCER,NA
+Kentucky,2003,March,2003-03-30,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,CARDIAC RESP. FAILURE,NA
+Kentucky,2003,April,2003-04-02,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,COMP. FROM CANCER,NA
+Kentucky,2003,April,2003-04-06,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,CANCER,NA
+Kentucky,2003,April,2003-04-08,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,MASSIVE HEART ATTACK,NA
+Kentucky,2003,April,2003-04-14,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,SEPSIS,NA
+Kentucky,2003,April,2003-04-15,EASTERN KY CORRECTIONAL COMPLEX,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,HEART ATTACK,NA
+Kentucky,2003,May,2003-05-21,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,PNEUMONIA,NA
+Kentucky,2003,June,2003-06-02,GREEN RIVER CORRECTIONAL COMPLEX,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,HEART FAILURE,NA
+Kentucky,2003,June,2003-06-08,KENTUCKY CORRECTIONAL INSTITUTION FOR WOMEN,In medical facility outside prison,NA,Female,"White, non‐Hispanic",NA,HEART ATTACK,NA
+Kentucky,2003,June,2003-06-08,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,"LIVER CIRRHOSIS, HEP C",NA
+Kentucky,2003,June,2003-06-09,EASTERN KY CORRECTIONAL COMPLEX,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2003,June,2003-06-25,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,END STAGE COPD/LUNG CANCER,NA
+Kentucky,2003,June,2003-06-25,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NECROTIZING PANCREATIS,NA
+Kentucky,2003,June,2003-06-26,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Female,"White, non‐Hispanic",NA,END STAGE OF LIVER DISEASE,NA
+Kentucky,2003,July,2003-07-15,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,CARDIAC ARREST,NA
+Kentucky,2003,July,2003-07-17,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,CARDIAC ARREST,NA
+Kentucky,2003,July,2003-07-18,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,LYMPHOMA‐CANCER,NA
+Kentucky,2003,July,2003-07-23,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,"HEART FAILURE, KIDNEY COMPLICATIONS",NA
+Kentucky,2003,July,2003-07-30,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,COMP. FROM SICKLE CELL ANEMIA,NA
+Kentucky,2003,August,2003-08-04,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,NA,NA
+Kentucky,2003,September,2003-09-08,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,RESP. FAILURE‐LUNG CANCER,NA
+Kentucky,2003,September,2003-09-22,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,SYS. FAILURE‐EFFECTS OF TERM. CANCER,NA
+Kentucky,2003,September,2003-09-29,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,SEPSIS‐RECTAL CARC. SURGERY 8DYS PRIOR,NA
+Kentucky,2003,October,2003-10-04,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,COMPLICATIONS FROM BYPASS SURGERY,NA
+Kentucky,2003,October,2003-10-10,BLACKBURN CORRECTIONAL COMPLEX,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,HEART ATTACK BROUGHT ON BY LOSS OF BLOOD,NA
+Kentucky,2003,October,2003-10-12,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,CARDIAC ARREST/RESPIRATORY FAILURE,NA
+Kentucky,2003,October,2003-10-18,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,"DIABETIC KETOACIDOSIS, SEVERE SEPSIS, HYPOTENSION,",NA
+Kentucky,2003,November,2003-11-01,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,CARDIAC ARREST/RESPIRATORY FAILURE,NA
+Kentucky,2003,November,2003-11-14,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,CARDIAC ARREST,NA
+Kentucky,2003,November,2003-11-26,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,END STAGE OF CHRONIC OBSTRUCTIVE PULMONARY DISEASE,NA
+Kentucky,2003,December,2003-12-07,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,RENAL/RESPIRATORY FAILURE,NA
+Kentucky,2003,December,2003-12-18,KENTUCKY CORRECTIONAL INSTITUTION FOR WOMEN,In medical facility outside prison,NA,Female,"White, non‐Hispanic",NA,HEART FAILURE,NA
+Kentucky,2003,December,2003-12-25,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,CARDIAC ARREST BROUGHT ON BY ISCHEMIC HEART DISEAS,NA
+Kentucky,2004,January,2004-01-08,KENTUCKY CORRECTIONAL INSTITUTION FOR WOMEN,In medical facility outside prison,NA,Female,"Black, non‐Hispanic",NA,ILLNESS,NA
+Kentucky,2004,January,2004-01-17,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,LUNG CANCER,NA
+Kentucky,2004,January,2004-01-22,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2004,January,2004-01-25,KENTUCKY STATE REFORMATORY,In general housing unit in the facility or on prison grounds,NA,Male,"White, non‐Hispanic",NA,NATURAL CAUSES,NA
+Kentucky,2004,February,2004-02-06,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,LIVER CIRROHSIS,NA
+Kentucky,2004,February,2004-02-10,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,LIVER AND RENAL FAILURE,NA
+Kentucky,2004,March,2004-03-01,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,CARDIAC ARREST,NA
+Kentucky,2004,March,2004-03-24,KENTUCKY CORRECTIONAL INSTITUTION FOR WOMEN,In medical facility outside prison,NA,Female,"White, non‐Hispanic",NA,CANCER,NA
+Kentucky,2004,March,2004-03-27,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,SEPSIS,NA
+Kentucky,2004,April,2004-04-02,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,MULTIPLE MYELOMA,NA
+Kentucky,2004,April,2004-04-07,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,END STAGE DIALYSIS (RENAL FAILURE),NA
+Kentucky,2004,April,2004-04-09,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,SYSTEM FAILURE/CARDIAC ARREST,NA
+Kentucky,2004,May,2004-05-06,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,COMPLICATIONS RESULTING FROM LUNG CANCER,NA
+Kentucky,2004,May,2004-05-06,MARION ADJUSTMENT CENTER,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,"ISCHEMIC HEART DISEASE, SEIZURE DISORDER",NA
+Kentucky,2004,May,2004-05-28,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,LIVER FAILURE,NA
+Kentucky,2004,June,2004-06-08,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,VENTRICULAR FIBULATION,NA
+Kentucky,2004,June,2004-06-13,EASTERN KY CORRECTIONAL COMPLEX,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,RENAL FAILURE SECONDARY TO HEMORAGE,NA
+Kentucky,2004,June,2004-06-14,KENTUCKY STATE PENITENTIARY,In segregation unit,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2004,June,2004-06-21,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,HEART FAILURE,NA
+Kentucky,2004,July,2004-07-24,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,COMPLICATIONS DUE TO CANCER,NA
+Kentucky,2004,July,2004-07-27,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,ADVANCED CARDOMYOPATHY,NA
+Kentucky,2004,July,2004-07-28,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,CARDIAC ARREST,NA
+Kentucky,2004,August,2004-08-08,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,COMPLICATIONS DUE TO CANCER,NA
+Kentucky,2004,August,2004-08-15,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,"HEPATITIS C, LIVER FAILURE AND CIRROHSIS",NA
+Kentucky,2004,August,2004-08-30,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,CARDIAC ARREST DUE TO END STAGE OF TERMINAL METAST,NA
+Kentucky,2004,September,2004-09-01,EASTERN KENUTCKY CORRECTIONAL COMPLEX,In general housing unit in the facility or on prison grounds,NA,Male,"White, non‐Hispanic",NA,MYOCARDIAL INFRACTION,NA
+Kentucky,2004,September,2004-09-11,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,CARDIO RESPIRATORY ARREST/ RENAL CELL CARCINOMA,NA
+Kentucky,2004,September,2004-09-11,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,HEART ATTACK,NA
+Kentucky,2004,September,2004-09-14,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"Black, non‐Hispanic",NA,ASPHYXIATION SECONDARY TO THROAT CANCER,NA
+Kentucky,2004,September,2004-09-18,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,RESPIRATORY DISTRESS AND SEPTIC SHOCK,NA
+Kentucky,2004,September,2004-09-25,EASTERN KENTUCKY CORRECTIONAL COMPLEX,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,COMPLICATIONS DUE TO DIABETES,NA
+Kentucky,2004,October,2004-10-02,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,Hispanic or Latino,NA,ADVANCE LIVER FAILURE,NA
+Kentucky,2004,October,2004-10-14,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,COMPLICATIONS FROM CANCER,NA
+Kentucky,2004,October,2004-10-18,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,TERMINAL STAGE RENAL CELL CARCINOMA,NA
+Kentucky,2004,November,2004-11-04,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,HEART ATTACK,NA
+Kentucky,2004,November,2004-11-05,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,ILLNESS,NA
+Kentucky,2004,November,2004-11-14,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,RESPIRATORY FAILURE DUE TO CANCER,NA
+Kentucky,2004,December,2004-12-10,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,HEART ATTACK,NA
+Kentucky,2004,December,2004-12-14,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,CONGESTIVE HEART FAILURE,NA
+Kentucky,2004,December,2004-12-21,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2004,December,2004-12-21,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,RENAL CELL CANCER WITH METASTASIS,NA
+Kentucky,2004,December,2004-12-26,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,"RESPIRATORY FAILURE, TONGUE CANCER",NA
+Kentucky,2005,January,2005-01-15,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Female,"White, non‐Hispanic",NA,SEVERE ANOXIC ENCEPHALOPATHY,NA
+Kentucky,2005,January,2005-01-19,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,CARDIAC EVENT,NA
+Kentucky,2005,January,2005-01-21,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,CARDIO MYOPATHY,NA
+Kentucky,2005,January,2005-01-23,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,CARDIAC ARREST,NA
+Kentucky,2005,January,2005-01-23,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,CARDIOPULMONARY ARREST,NA
+Kentucky,2005,February,2005-02-07,LEE ADJUSTMENT CENTER,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,MYOCARDIAL INFARCTION,NA
+Kentucky,2005,February,2005-02-10,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,COMPLICATIONS DUE TO LUNG CANCER,NA
+Kentucky,2005,February,2005-02-14,ROEDERER CORRECTIONAL COMPLEX,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,MYOCARDIAL INFARCTION,NA
+Kentucky,2005,February,2005-02-21,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,CARDIAC ARREST,NA
+Kentucky,2005,March,2005-03-03,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,MULTI‐SYSTEM FAILURE,NA
+Kentucky,2005,March,2005-03-24,KENTUCKY STATE REFORMATORY,In general housing unit in the facility or on prison grounds,NA,Male,"White, non‐Hispanic",NA,CARDIAC ARREST,NA
+Kentucky,2005,March,2005-03-30,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,CARDIAC ARREST,NA
+Kentucky,2005,April,2005-04-07,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,ASPIRATION‐PHENOMENA,NA
+Kentucky,2005,April,2005-04-07,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,COMPLICATIONS DUE TO BRAIN TUMOR,NA
+Kentucky,2005,April,2005-04-22,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,VENTRICULAR TACHYCARDIA WITH CARDIOPULMONARY ARRES,NA
+Kentucky,2005,April,2005-04-24,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2005,April,2005-04-25,NORTHPOINT TRAINING CENTER,Elsewhere,NA,Male,"Black, non‐Hispanic",NA,NA,NA
+Kentucky,2005,May,2005-05-15,KENTUCKY STATE REFORMATORY,In general housing unit in the facility or on prison grounds,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2005,May,2005-05-16,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,MYOCARDIAL INFARCTION,NA
+Kentucky,2005,June,2005-06-13,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,COMPLICATIONS FROM LUNG CANCER,NA
+Kentucky,2005,June,2005-06-16,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,MULTI‐MYELOMO & RENAL FAILURE,NA
+Kentucky,2005,June,2005-06-28,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,MULTI ORGAN FAILURE,NA
+Kentucky,2005,July,2005-07-07,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,CARDIAC ARREST,NA
+Kentucky,2005,July,2005-07-07,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,RESPIRATORY FAILURE,NA
+Kentucky,2005,July,2005-07-07,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,CARDIAC ARREST,NA
+Kentucky,2005,July,2005-07-13,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2005,July,2005-07-14,KENTUCKY STATE REFORMATORY,Elsewhere,NA,Male,"Black, non‐Hispanic",NA,MULTI‐CRUSHING INJURIES,NA
+Kentucky,2005,July,2005-07-14,KENTUCKY STATE REFORMATORY,Elsewhere,NA,Male,"White, non‐Hispanic",NA,MULTI‐CRUSHING INJURIES,NA
+Kentucky,2005,July,2005-07-31,KENTUCKY STATE PENITENTIARY,In general housing unit in the facility or on prison grounds,NA,Male,"White, non‐Hispanic",NA,ISCHEMIC CARDIOVASCULAR DISEASE,NA
+Kentucky,2005,August,2005-08-11,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,SEPTIC AND ENDOCARDITIS,NA
+Kentucky,2005,August,2005-08-16,KY CORRECTIONAL INSTITUTION FOR WOMEN,In medical facility outside prison,NA,Female,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2005,August,2005-08-29,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,GI BLEED,NA
+Kentucky,2005,August,2005-08-29,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Female,"White, non‐Hispanic",NA,CARDIAC ARREST,NA
+Kentucky,2005,September,2005-09-20,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,COMPLICATIONS DUE TO BRAIN CANCER,NA
+Kentucky,2005,September,2005-09-22,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,COMPLICATIONS DUE TO LUNG CANCER,NA
+Kentucky,2005,September,2005-09-30,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,SEPSIS AND ORGAN FAILURE,NA
+Kentucky,2005,October,2005-10-16,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,COMPLICATIONS DUE TO CANCER,NA
+Kentucky,2005,October,2005-10-17,KY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,COMPLICATIONS DUE TO ABDOMINAL CANCER,NA
+Kentucky,2005,November,2005-11-17,KY STATE REFORMATORY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,THROMBOCYTOPENIA,NA
+Kentucky,2005,November,2005-11-18,KY STATE REFORMATORY,In general housing unit in the facility or on prison grounds,NA,Male,"White, non‐Hispanic",NA,COMPLICATIONS DUE TO THROAT CANCER,NA
+Kentucky,2005,December,2005-12-17,KY STATE REFORMATORY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,CARDIAC ARREST,NA
+Kentucky,2005,December,2005-12-22,KY STATE REFORMATORY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,CANCER,NA
+Kentucky,2005,December,2005-12-29,KY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,RENAL FAILURE AND SEPSIS,NA
+Kentucky,2006,January,2006-01-08,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,CANCER OF THE ABDOMIN,NA
+Kentucky,2006,January,2006-01-09,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,HEPTOCELLULAR CARCINOMA,NA
+Kentucky,2006,January,2006-01-21,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,RENAL FAILURE,NA
+Kentucky,2006,January,2006-01-29,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,CANCER,NA
+Kentucky,2006,February,2006-02-09,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,END STAGE LIVER/RENAL FAILURE,NA
+Kentucky,2006,February,2006-02-13,KENTUCKY CORRECTIONAL INSTITUTION FOR WOMEN,In medical facility outside prison,NA,Female,"Black, non‐Hispanic",NA,"MYCARDIAL INFARCTION, ASTHMA, OBESITY & SLE",NA
+Kentucky,2006,February,2006-02-28,KENTUCKY STATE REFORMATORY,In general housing unit in the facility or on prison grounds,NA,Male,"White, non‐Hispanic",NA,ACUTE MYOCARDIAL INFARCTION,NA
+Kentucky,2006,February,2006-02-28,BLACKBURN CORRECTIONAL COMPLEX,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,HEART ATTACK,NA
+Kentucky,2006,March,2006-03-12,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,END STAGE LIVER CIRRHOSIS & SEPSIS,NA
+Kentucky,2006,March,2006-03-17,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,ACUTE RESPIRATORY FAILURE,NA
+Kentucky,2006,March,2006-03-26,KENTUCKY STATE REFORMATORY,In general housing unit in the facility or on prison grounds,NA,Male,"White, non‐Hispanic",NA,END STAGE CARDIO MYOPATHY,NA
+Kentucky,2006,April,2006-04-04,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,NON HODGKINS LYMPHOMA,NA
+Kentucky,2006,May,2006-05-12,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,CARDIAC ARREST,NA
+Kentucky,2006,May,2006-05-18,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NYOCARDIAL INFRACTION,NA
+Kentucky,2006,May,2006-05-24,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,CARDIAC EVENT,NA
+Kentucky,2006,May,2006-05-25,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,HEMERAGING PANCREATITIS,NA
+Kentucky,2006,May,2006-05-25,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"Black, non‐Hispanic",NA,IN‐STAGE CIRRHOSIS,NA
+Kentucky,2006,June,2006-06-01,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,THROAT CANCER METASTATIC SIZED TO LIVER,NA
+Kentucky,2006,June,2006-06-03,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,HEPATIC FAILURE,NA
+Kentucky,2006,August,2006-08-02,KENTUCKY CORRECTIONAL INSTITUTE FOR WOMEN,In medical facility outside prison,NA,Female,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2006,August,2006-08-08,KENTUCKY STATE REFORMATORY,In general housing unit in the facility or on prison grounds,NA,Male,"White, non‐Hispanic",NA,RENAL FAILURE,NA
+Kentucky,2006,August,2006-08-15,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,CARDIO PULMONARY ARREST,NA
+Kentucky,2006,August,2006-08-18,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,CARDIAC ARREST AS RESULT OF END STAGE LIVER DISEAS,NA
+Kentucky,2006,September,2006-09-03,EASTERN KENTUCKY CORRECTIONAL COMPLEX,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,CARDIAC ARREST,NA
+Kentucky,2006,September,2006-09-03,KENTUCKY STATE PENITENTIARY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,PULMINARY EMBOLISM,NA
+Kentucky,2006,September,2006-09-10,LITTLE SANDY CORRECTIONAL COMPLEX,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,CARDIAC ARREST,NA
+Kentucky,2006,September,2006-09-14,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,CARDIO‐PULMONARY ARREST,NA
+Kentucky,2006,September,2006-09-19,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,CARDIO‐PULMONARY ARREST,NA
+Kentucky,2006,September,2006-09-19,BLACKBURN CORRECTIONAL COMPLEX,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,HEART ATTACK,NA
+Kentucky,2006,September,2006-09-19,MARION ADJUSTMENT CENTER,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,RUPTURED ANEURISM,NA
+Kentucky,2006,September,2006-09-21,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,SEPSIS WITH MULTI‐SYSTEM ORGAN FAILURE & END STATE,NA
+Kentucky,2006,October,2006-10-07,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,METASTATIC ADENOCARCINOMA,NA
+Kentucky,2006,November,2006-11-04,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,CARDIAC ARREST DUE TO END STAGE CARDIOMYOPATHY,NA
+Kentucky,2006,November,2006-11-09,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,MULTI‐SYSTEM ORGAN FAILURE SECONDARY TO METASTIC C,NA
+Kentucky,2006,November,2006-11-19,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,ADENOCARCINOMA OF THE COLON,NA
+Kentucky,2006,November,2006-11-19,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,LUNG CANCER,NA
+Kentucky,2006,November,2006-11-23,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,CARDIAC ARREST,NA
+Kentucky,2006,November,2006-11-23,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,PULMONARY EMBOLISM,NA
+Kentucky,2006,November,2006-11-26,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,ADENO CARCINOMA OF THE STOMACH,NA
+Kentucky,2006,December,2006-12-07,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,SUDDEN DEATH ASYSTOLE DUE TO LUNG CANCER,NA
+Kentucky,2006,December,2006-12-08,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,MYOCARDIAL INFARCTION,NA
+Kentucky,2006,December,2006-12-09,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,METASTIC LUNG CANCER,NA
+Kentucky,2006,December,2006-12-12,ROEDERER CORRECTIONAL COMPLEX,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,RESPIRATORY FAILURE,NA
+Kentucky,2006,December,2006-12-13,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,CARDIO‐PULMONARY ARREST DUE TO END STAGE LIVER DIS,NA
+Kentucky,2006,December,2006-12-17,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,ISCHEMIC HEART DISEASE & DIABETES,NA
+Kentucky,2006,December,2006-12-25,KENTUCKY STATE REFORMATORY,In general housing unit in the facility or on prison grounds,NA,Male,"White, non‐Hispanic",NA,MYOCARDIAL ISCHEMIA,NA
+Kentucky,2007,January,2007-01-19,BLACKBURN CORRECTIONAL COMPLEX,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Burkitt`s Lymphoma/Sepsis/Cardiopulmonary Arrest,NA
+Kentucky,2007,February,2007-02-05,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,Cardiac Arrest,NA
+Kentucky,2007,February,2007-02-10,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,Methicillin‐Resistant Staphylococcus Aureus (MRSA),NA
+Kentucky,2007,February,2007-02-25,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Acute Myocardial Infarction,NA
+Kentucky,2007,February,2007-02-27,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,Cancer of the Bladder with Metastasis,NA
+Kentucky,2007,February,2007-02-27,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Acute Renal Failure,NA
+Kentucky,2007,February,2007-02-28,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,GI Bleed,NA
+Kentucky,2007,March,2007-03-11,GREEN RIVER CORRECTIONAL COMPLEX,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Hepatitis C Induced Liver Failure,NA
+Kentucky,2007,March,2007-03-12,KENTUCKY STATE REFORMATORY,In general housing unit in the facility or on prison grounds,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2007,March,2007-03-27,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Right hemispheric cerebral infarct with hemorrhage,NA
+Kentucky,2007,March,2007-03-27,KENTUCKY STATE PENITENTIARY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Multiple Organ Failure/Sepsis,NA
+Kentucky,2007,March,2007-03-30,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Pneumonia Complications & Alzheimer`s Disease,NA
+Kentucky,2007,March,2007-03-31,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Cryptococcal Meningtits,NA
+Kentucky,2007,April,2007-04-13,DISMAS‐PORTLAND COMMUNITY SERVICE CENTER,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,Ischemic & hypertensive heart disease,NA
+Kentucky,2007,April,2007-04-13,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,Cardiac Arrest/Respiratory Failure,NA
+Kentucky,2007,April,2007-04-17,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"Black, non‐Hispanic",NA,NA,NA
+Kentucky,2007,April,2007-04-27,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,Cancer,NA
+Kentucky,2007,April,2007-04-27,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,Cardiac Arrest,NA
+Kentucky,2007,June,2007-06-06,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,NA,NA
+Kentucky,2007,June,2007-06-14,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,"Leukemia, Acute/Organ Failure",NA
+Kentucky,2007,June,2007-06-17,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Status asthmaticus (asthma),NA
+Kentucky,2007,June,2007-06-19,KENTUCKY STATE PENITENTIARY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,"Ischemic Heart Disease, Hypertensive Heart Disease",NA
+Kentucky,2007,June,2007-06-24,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Myocardial Infarction,NA
+Kentucky,2007,June,2007-06-27,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"Black, non‐Hispanic",NA,Cancer,NA
+Kentucky,2007,July,2007-07-23,EASTERN KY. CORRECTIONAL COMPLEX,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Lung Cancer,NA
+Kentucky,2007,July,2007-07-27,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,Diabetes & Dementia Complications,NA
+Kentucky,2007,August,2007-08-06,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Esophagial Cancer Metastised,NA
+Kentucky,2007,August,2007-08-09,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,Cardio Pulmonary Arrest,NA
+Kentucky,2007,August,2007-08-27,KENTUCKY STATE PENITENTIARY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,Complications of acute tubular Necrosis and Renal,NA
+Kentucky,2007,August,2007-08-27,OTTER CREEK CORRECTIONAL COMPLEX,In general housing unit in the facility or on prison grounds,NA,Female,"Black, non‐Hispanic",NA,Hypertensive Cardiovascular Disease,NA
+Kentucky,2007,September,2007-09-07,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Sepsis and Liver Failure,NA
+Kentucky,2007,September,2007-09-13,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,Hepatic encephalopathy d/t end stage liver disease,NA
+Kentucky,2007,October,2007-10-01,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"Black, non‐Hispanic",NA,Cardiopulmonary arrest / Secondary to sepsis,NA
+Kentucky,2007,October,2007-10-03,ROEDERER CORRECTIONAL COMPLEX,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Cancer of upper central lung  cancer of large left,NA
+Kentucky,2007,October,2007-10-04,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Finding consistent with seizure disorder,NA
+Kentucky,2007,October,2007-10-17,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,Respiratory Failure Secondary to Congenital Heart,NA
+Kentucky,2007,October,2007-10-22,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,End Stage Lung Cancer with Liver Metastasis,NA
+Kentucky,2007,October,2007-10-24,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Ventricular Fibrillation due to Cardio Myopathy,NA
+Kentucky,2007,October,2007-10-27,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,Sepsis and Chronic Renal Failure,NA
+Kentucky,2007,November,2007-11-01,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Cardiac Pulmonary Arrest,NA
+Kentucky,2007,November,2007-11-10,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,Sepsis,NA
+Kentucky,2007,November,2007-11-22,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Ischemic Cardio Myopathy,NA
+Kentucky,2007,November,2007-11-29,ROEDERER CORRECTIONAL COMPLEX,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Hepatic Encephalitis,NA
+Kentucky,2007,November,2007-11-30,KENTUCKY STATE REFORMATORY,In general housing unit in the facility or on prison grounds,NA,Male,"White, non‐Hispanic",NA,Myocardial Infarction,NA
+Kentucky,2007,December,2007-12-05,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Cardio Pulmonary Arrest,NA
+Kentucky,2007,December,2007-12-16,ROEDERER CORRECTIONAL COMPLEX,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Small Cell Lung Cancer,NA
+Kentucky,2008,January,2008-01-01,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Multiple Myeloma,NA
+Kentucky,2008,January,2008-01-04,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,Metastatic Adenocarcinoma og Unknown Origin,NA
+Kentucky,2008,January,2008-01-29,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Disseminated Adenocarcinoma of the Lung,NA
+Kentucky,2008,February,2008-02-04,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Cardiorespiratory arrest d/t myocardial infarction,NA
+Kentucky,2008,February,2008-02-08,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Cardiac Arrest with Longstanding Coronary Artery D,NA
+Kentucky,2008,February,2008-02-14,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,End Stage Liver Disease,NA
+Kentucky,2008,February,2008-02-14,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Metastatic cancer of unknown origin as inmate coul,NA
+Kentucky,2008,February,2008-02-28,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,Adenocarcinoma of Distal Esophagus with Extension,NA
+Kentucky,2008,March,2008-03-02,GREEN RIVER CORRECTIONAL COMPLEX,In general housing unit in the facility or on prison grounds,NA,Male,"White, non‐Hispanic",NA,Ruptured cerebral aneurysm.,NA
+Kentucky,2008,March,2008-03-03,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Small Cell Carcinoma of the Lung,NA
+Kentucky,2008,March,2008-03-11,COMMUNITY SERVICE CENTER DISMAS‐PORTLAND,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Metastatic B cell lymphoma resulting in spinal cor,NA
+Kentucky,2008,March,2008-03-25,ROEDERER CORRECTIONAL COMPLEX,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,Acute Bronchopneumonia,NA
+Kentucky,2008,March,2008-03-30,NORTHPOINT TRAINING CENTER,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Anoxic Brain Damage,NA
+Kentucky,2008,April,2008-04-04,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Diabetes Melitus,NA
+Kentucky,2008,April,2008-04-05,LITTLE SANDY CORRECTIONAL COMPLEX,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Acute coronary insufficiency ‐ consequence of cons,NA
+Kentucky,2008,April,2008-04-07,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Sepsis,NA
+Kentucky,2008,April,2008-04-13,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,Metastatic Melanoma,NA
+Kentucky,2008,April,2008-04-13,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Sepsis and Multi‐Organ Failure,NA
+Kentucky,2008,April,2008-04-16,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,End Stage Esophageal Carcinoma with Mediastinal In,NA
+Kentucky,2008,April,2008-04-16,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,Respiratory Failure Secondary to Non‐Small Cell Ca,NA
+Kentucky,2008,April,2008-04-18,ROEDERER CORRECTIONAL COMPLEX,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,Hypoglycemia Secondary to Insulin‐Dependent Diabet,NA
+Kentucky,2008,April,2008-04-22,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Bilateral Pneumonia Secondary to Squamous Cell Can,NA
+Kentucky,2008,April,2008-04-29,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Sepsis Secondary to Bacterial Pneumonia,NA
+Kentucky,2008,May,2008-05-10,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,Seizure Disorder,NA
+Kentucky,2008,May,2008-05-28,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Cardiopulmonary Arrest Secondary to End Stage Card,NA
+Kentucky,2008,May,2008-05-30,WESTERN KENTUCKY CORRECTIONAL COMPLEX,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,Esophageal Varices,NA
+Kentucky,2008,May,2008-05-30,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Sepsis  Multiple Myeloma,NA
+Kentucky,2008,June,2008-06-03,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,Chronic systolic congestive heart failure ‐ conseq,NA
+Kentucky,2008,June,2008-06-04,KENTUCKY CORRECTIONAL INSTITUTION FOR WOMEN,In segregation unit,NA,Female,"Black, non‐Hispanic",NA,Seizures,NA
+Kentucky,2008,June,2008-06-05,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"Black, non‐Hispanic",NA,"Multi‐Drug Resistant Sepsis, Secondary Bacterial P",NA
+Kentucky,2008,June,2008-06-06,KENTUCKY STATE REFORMATORY,In segregation unit,NA,Male,"White, non‐Hispanic",NA,Asphyxia  ligature hanging,NA
+Kentucky,2008,June,2008-06-18,OTTER CREEK CORRECTIONAL COMPLEX,In medical facility outside prison,NA,Female,"Black, non‐Hispanic",NA,Hypertensive & atherosclerotic cardiovascular dise,NA
+Kentucky,2008,June,2008-06-20,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Sepsis secondary to gastric perforation as result,NA
+Kentucky,2008,June,2008-06-24,LUTHER LUCKETT CORRECTIONAL COMPLEX,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Acute cardiac arrest,NA
+Kentucky,2008,July,2008-07-05,EASTERN KENTUCKY CORRECTIONAL COMPLEX,In general housing unit in the facility or on prison grounds,NA,Male,"Black, non‐Hispanic",NA,"Acute cardiac dysrhythmia, acute myocardial infarc",NA
+Kentucky,2008,July,2008-07-08,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Myocardial infarction as consequence of chronic pu,NA
+Kentucky,2008,July,2008-07-08,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Acute myocardial infarction,NA
+Kentucky,2008,July,2008-07-08,EASTERN KENTUCKY CORRECTIONAL COMPLEX,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2008,July,2008-07-09,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,Cardiopulmonary arrest secondary to gastric adenoc,NA
+Kentucky,2008,July,2008-07-10,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,Pancreatic Cancer,NA
+Kentucky,2008,July,2008-07-13,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Osteomyelitic sepsis secondary to decubitus ulcers,NA
+Kentucky,2008,July,2008-07-14,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,End stage liver disease  hepatitis C,NA
+Kentucky,2008,July,2008-07-21,ROEDERER CORRECTIONAL COMPLEX,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Acute myocardial infarction,NA
+Kentucky,2008,July,2008-07-30,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,Pancreatic cancer with liver metastasis,NA
+Kentucky,2008,August,2008-08-12,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"Black, non‐Hispanic",NA,"Sepsis, gangrene/perforation of intestines, adhesi",NA
+Kentucky,2008,August,2008-08-17,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Endocarditis,NA
+Kentucky,2008,August,2008-08-21,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,Mantle cell lymphoma,NA
+Kentucky,2008,September,2008-09-10,EASTERN KENTUCKY CORRECTIONAL COMPLEX,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Anoxic brain injury due to suicide by hanging. Inmate found hanging in cel,NA
+Kentucky,2008,September,2008-09-10,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,Squamous cell carcinoma of the neck with metastasi,NA
+Kentucky,2008,September,2008-09-15,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Acute Myocardial Infarction,NA
+Kentucky,2008,September,2008-09-15,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,G. I. Bleed ‐ inmate had known adenocarcinoma of t,NA
+Kentucky,2008,September,2008-09-19,LUTHER LUCKETT CORRECTIONAL COMPLEX,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Acute Myocardial Infarction,NA
+Kentucky,2008,September,2008-09-25,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Acute Myocardial Infarction,NA
+Kentucky,2008,September,2008-09-26,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,End Stage Liver Disease,NA
+Kentucky,2008,October,2008-10-23,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,Cancer of the pyriform sinus,NA
+Kentucky,2008,November,2008-11-09,OTTER CREEK CORRECTIONAL COMPLEX,In medical facility outside prison,NA,Female,"White, non‐Hispanic",NA,Ruptured cerebral aneurysm,NA
+Kentucky,2008,November,2008-11-12,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,MRSA pneumonia secondary to Parkinson s disease,NA
+Kentucky,2008,November,2008-11-15,ROEDERER CORRECTIONAL COMPLEX,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Ischemic Heart Disease,NA
+Kentucky,2008,November,2008-11-15,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,Hepatocellular Cancer,NA
+Kentucky,2008,November,2008-11-19,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Cirrhosis of the liver,NA
+Kentucky,2008,November,2008-11-21,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Adenocarcinoma of the esophagus,NA
+Kentucky,2008,November,2008-11-25,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Metastatic adenocarcinoma of unknown primary,NA
+Kentucky,2008,December,2008-12-09,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Global Hypoxic Brain Injury,NA
+Kentucky,2008,December,2008-12-15,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2008,December,2008-12-22,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,Pneumonia secondary to Muscular Dystrophy,NA
+Kentucky,2008,December,2008-12-25,NORTHPOINT TRANING CENTER,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Hypovolemic shock secondary to gastrointestinal bl,NA
+Kentucky,2008,December,2008-12-28,BELL COUNTY FORESTRY CAMP,In general housing unit in the facility or on prison grounds,NA,Male,"White, non‐Hispanic",NA,Acute Cardiac Dysrhythmia due to Ischematic Heart,NA
+Kentucky,2008,December,2008-12-31,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,Lung Cancer,NA
+Kentucky,2009,January,2009-01-05,KY STATE REFORMATORY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,Myocardial Infarction,NA
+Kentucky,2009,January,2009-01-16,EASTERN KY CORRECTIONAL COMPLEX,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,Status Epilepticus with Cardiopulmonary Arrest  Seisure Disorder,NA
+Kentucky,2009,January,2009-01-22,KY CORRECTIONAL INSTITUTION FOR WOMEN,In medical facility outside prison,NA,Female,"White, non‐Hispanic",NA,Hemoperitoneum  Splenic Artery Dissection w/Rupture  Intrauterine Preg,NA
+Kentucky,2009,January,2009-01-23,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Sepsis  Spontaneous Bacterial Peritonitis  Cirrhosis of the Liver  Hepatitis C,NA
+Kentucky,2009,January,2009-01-25,KY STATE REFORMATORY,Unknown,NA,Male,"White, non‐Hispanic",NA,Lung Cancer,NA
+Kentucky,2009,January,2009-01-30,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Squamous Cell Carcinoma of the Lung,NA
+Kentucky,2009,February,2009-02-05,GREEN RIVER CORRECTIONAL COMPLEX,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,Pneumonia  HIV  Sepsis  Diabetes  Respiratory Failure,NA
+Kentucky,2009,February,2009-02-13,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Metastatic Malignant Melanoma,NA
+Kentucky,2009,February,2009-02-18,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,Adenocarcinoma of Large Intestine,NA
+Kentucky,2009,March,2009-03-17,KENTUCKY STATE REFORMATORY,In segregation unit,NA,Male,"Black, non‐Hispanic",NA,Physiologically Stenotic Bicuspid Aortic Disease,NA
+Kentucky,2009,March,2009-03-20,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,Renal Failure (hx Chronic Renal Failure and End Stage Liver Disease),NA
+Kentucky,2009,March,2009-03-28,LUTHER LUCKETT CORRECTIONAL COMPLEX,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Ischemic Heart Disease,NA
+Kentucky,2009,March,2009-03-30,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Part I a. Anoxic Brain Injury b. Acute Myocardial Infarction  Part II Diabete,NA
+Kentucky,2009,April,2009-04-04,KY STATE REFORMATORY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,Part I a. Sepsis and Acute Renal Failure b. Bronch‐pleural Fistula c. Non‐Sm,NA
+Kentucky,2009,April,2009-04-09,EASTERN KY CORRECTIONAL COMPLEX,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Acute myarcardial ischemia  thrombosis of left circumflex artery  atherosc,NA
+Kentucky,2009,April,2009-04-09,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,Osteosarcoma,NA
+Kentucky,2009,April,2009-04-15,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Pancreatic Cancer,NA
+Kentucky,2009,April,2009-04-20,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,"Pneumonia, sepsis",NA
+Kentucky,2009,May,2009-05-05,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,Nasopharyngeal Cancer,NA
+Kentucky,2009,May,2009-05-07,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Adenocarcinoma of the Lung,NA
+Kentucky,2009,May,2009-05-23,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,Multiple Lacunar Infarcts,NA
+Kentucky,2009,June,2009-06-03,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,Sepsis,NA
+Kentucky,2009,June,2009-06-14,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,"Sepsis  poorly differentiated cancer w/metastasis to brain, primary site un",NA
+Kentucky,2009,June,2009-06-14,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,Anoxic brain injury secondary to acute upper gastrointestinal hemorrhage,NA
+Kentucky,2009,June,2009-06-28,ROEDERER CORRECTIONAL COMPLEX,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,"Complications from hypertension, probable MI",NA
+Kentucky,2009,July,2009-07-01,NORTHPOINT TRAINING CENTER,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,Pulmonary Thrombosis  Deep Vein Thrombosis Left Leg,NA
+Kentucky,2009,July,2009-07-03,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,"Inoperable end‐stage ischemic cardiomyopathy, congestive heart failure",NA
+Kentucky,2009,July,2009-07-27,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,NA,NA
+Kentucky,2009,August,2009-08-06,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,NA,NA
+Kentucky,2009,August,2009-08-09,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,End‐stage Cirrhosis of the Liver,NA
+Kentucky,2009,August,2009-08-10,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Metastatic Lung Cancer,NA
+Kentucky,2009,August,2009-08-15,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,NA,NA
+Kentucky,2009,August,2009-08-16,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Hepatocellular Cancer,NA
+Kentucky,2009,August,2009-08-21,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,Esophageal Cancer,NA
+Kentucky,2009,August,2009-08-24,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,NA,NA
+Kentucky,2009,August,2009-08-25,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Adenocarcinoma of the Rectum,NA
+Kentucky,2009,September,2009-09-06,BLACKBURN CORRECTIONAL COMPLEX,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,Intracranial hemorrhage as a result of ruptured cerebral aneurysm,NA
+Kentucky,2009,September,2009-09-06,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,Cirrhosis of the Liver,NA
+Kentucky,2009,September,2009-09-19,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Sepsis  MRSA  HCV/Cirrhosis and renal failure,NA
+Kentucky,2009,September,2009-09-26,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Sepsis,NA
+Kentucky,2009,September,2009-09-29,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,Liver Carcinoma  HCV,NA
+Kentucky,2009,October,2009-10-05,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Sepsis,NA
+Kentucky,2009,October,2009-10-08,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,Multiple Myeloma,NA
+Kentucky,2009,October,2009-10-25,KENTUCKY STATE PENITENTIARY,In segregation unit,NA,Male,"Black, non‐Hispanic",NA,NA,NA
+Kentucky,2009,October,2009-10-28,KY CORRECTIONAL INSTITUTION FOR WOMEN,In medical facility outside prison,NA,Female,"Black, non‐Hispanic",NA,Heart related condition,NA
+Kentucky,2009,October,2009-10-30,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"Black, non‐Hispanic",NA,Advanced Alzheimers Disease,NA
+Kentucky,2009,November,2009-11-07,KENTUCKY STATE PENITENTIARY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Ischemic Cardiovascular Disease,NA
+Kentucky,2009,November,2009-11-17,GREEN RIVER CORRECTIONAL COMPLEX,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,Hemmorhage of Lower Gastrointestinal Tract,NA
+Kentucky,2009,November,2009-11-18,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,Esophageal Cancer,NA
+Kentucky,2009,November,2009-11-19,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Esophageal Cancer,NA
+Kentucky,2009,November,2009-11-24,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Sepsis status post coronary artery bypass grafting,NA
+Kentucky,2009,November,2009-11-26,KY CORRECTIONAL INSTITUTION FOR WOMEN,In medical facility outside prison,NA,Female,"Black, non‐Hispanic",NA,Respiratory Failure  Sepsis  Cardiomyopathy  Renal Failure,NA
+Kentucky,2009,November,2009-11-29,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Acute Myocardial Infarction,NA
+Kentucky,2009,November,2009-11-29,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,Congestive Heart Failure,NA
+Kentucky,2009,December,2009-12-13,KY CORRECTIONAL INSTITUTION FOR WOMEN,In medical facility outside prison,NA,Female,"Black, non‐Hispanic",NA,Cardiorespiratory Arrest,NA
+Kentucky,2009,December,2009-12-23,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,End‐stage Liver Disease  Bleeding Esophageal Varices  Hypovolemia,NA
+Kentucky,2009,December,2009-12-25,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Cardiac Arrest,NA
+Kentucky,2010,January,2010-01-02,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,"a. Sepsis, Methicillin Resistant Staph aureus, b. Hepatitis C",NA
+Kentucky,2010,January,2010-01-08,KY CORRECTIONAL INSTITUTION FOR WOMEN,In medical facility outside prison,NA,Female,"White, non‐Hispanic",NA,Myocardial Infarction,NA
+Kentucky,2010,January,2010-01-11,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Cancer of the Larynx,NA
+Kentucky,2010,January,2010-01-11,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Cardiomyopathy,NA
+Kentucky,2010,January,2010-01-14,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Lung Cancer,NA
+Kentucky,2010,January,2010-01-26,DISMAS CHARITIES PORTLAND HOUSE,While in transit,NA,Male,"White, non‐Hispanic",NA,Vehicular Accident During Transport,NA
+Kentucky,2010,February,2010-02-12,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,"Widespread Metastatic Cancer of Unknown Primary, Likely Colon",NA
+Kentucky,2010,February,2010-02-15,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,Lung Cancer,NA
+Kentucky,2010,February,2010-02-15,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Cirrhosis of the Liver,NA
+Kentucky,2010,February,2010-02-18,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,Cardiac Arrest with Contributing Illnesses,NA
+Kentucky,2010,February,2010-02-23,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"Black, non‐Hispanic",NA,"Renal Cancer with Metastasis to Lung, Liver and Bowel",NA
+Kentucky,2010,April,2010-04-07,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,End Stage Cirrhosis of the Liver,NA
+Kentucky,2010,April,2010-04-08,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,Lung Cancer with Metastatic Lesions in the Abdomen,NA
+Kentucky,2010,April,2010-04-13,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,Alzheimers Disease,NA
+Kentucky,2010,April,2010-04-22,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,Cardiomyopathy,NA
+Kentucky,2010,April,2010-04-24,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Lung Cancer,NA
+Kentucky,2010,April,2010-04-26,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,"Endstage Cirrhosis, Hepatic Encephalopathy, Acute Kidney Injury Seconda",NA
+Kentucky,2010,May,2010-05-01,MARION ADJUSTMENT CENTER,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,"Endstage Liver Disease, Cirrhosis, Chronic Hepatitis C Infection, Drug & Alc",NA
+Kentucky,2010,May,2010-05-02,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Esophageal Hemorrhage,NA
+Kentucky,2010,May,2010-05-07,KENTUCKY CORRECTIONAL INSTITUTION FOR WOMEN,In medical facility outside prison,NA,Female,"White, non‐Hispanic",NA,Intracranial Hemorrhage Post Unsuccessful Coiling of Arterial Aneurysm,NA
+Kentucky,2010,May,2010-05-31,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Ventricular Fibrillation,NA
+Kentucky,2010,June,2010-06-01,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Cirrhosis of the Liver,NA
+Kentucky,2010,June,2010-06-03,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Acute Myocardial Infarction,NA
+Kentucky,2010,June,2010-06-14,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,NA,NA
+Kentucky,2010,June,2010-06-20,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,Bacterial Endocarditis,NA
+Kentucky,2010,June,2010-06-23,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,Lung Cancer,NA
+Kentucky,2010,June,2010-06-26,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Endstage Hepatic Disease,NA
+Kentucky,2010,July,2010-07-24,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"Black, non‐Hispanic",NA,Hepatocellular Carcinoma,NA
+Kentucky,2010,July,2010-07-24,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Cirrhosis,NA
+Kentucky,2010,August,2010-08-03,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,"Cardiorespiratory Arrest, Hypotension and Upper Gastrointestinal Bleed",NA
+Kentucky,2010,September,2010-09-02,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,Ventricular Arrhythmia,NA
+Kentucky,2010,September,2010-09-09,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"Black, non‐Hispanic",NA,NA,NA
+Kentucky,2010,September,2010-09-12,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Pancreatic Cancer,NA
+Kentucky,2010,September,2010-09-18,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Complications from Small Bowel Infarction,NA
+Kentucky,2010,October,2010-10-16,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Acute Myocardial Infarction,NA
+Kentucky,2010,October,2010-10-21,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"Black, non‐Hispanic",NA,Metastatic Adenocarcinoma of Unknown Primary Site,NA
+Kentucky,2010,October,2010-10-23,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Metastatic Carcinoma of the Lung,NA
+Kentucky,2010,October,2010-10-27,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,Myocardial Infarction,NA
+Kentucky,2010,December,2010-12-04,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,Cardiac Arrest Resulting in Anoxic Brain Injury,NA
+Kentucky,2010,December,2010-12-13,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Metastatic Adenocarcinoma of Right Lung,NA
+Kentucky,2010,December,2010-12-14,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Myocardial Infarction,NA
+Kentucky,2010,December,2010-12-30,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Kidney Cancer,NA
+Kentucky,2011,January,2011-01-03,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Sepsis secondary to surgical intervention in the treatment of Prostate Can,NA
+Kentucky,2011,January,2011-01-19,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Cancer of the Lung,NA
+Kentucky,2011,January,2011-01-22,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Stroke,NA
+Kentucky,2011,January,2011-01-28,BLACKBURN CORRECTIONAL COMPLEX,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Cardic Arrest secondary to Respiratory and Renal Failure,NA
+Kentucky,2011,January,2011-01-31,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Cancer of the Lung,NA
+Kentucky,2011,February,2011-02-04,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,Cancer of the Lung,NA
+Kentucky,2011,February,2011-02-06,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,End Stage Liver Disease,NA
+Kentucky,2011,February,2011-02-07,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,Cardiomyopathy,NA
+Kentucky,2011,February,2011-02-09,LITTLE SANDY CORRECTIONAL COMPLEX,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Organizing Bronchopneumonia with Early Diffuse Alveolar Damage,NA
+Kentucky,2011,February,2011-02-12,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,Stroke,NA
+Kentucky,2011,February,2011-02-20,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Cirrhosis of the Liver,NA
+Kentucky,2011,February,2011-02-28,LUTHER LUCKETT CORRECTIONAL COMPLEX,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Myocardial Infarction,NA
+Kentucky,2011,February,2011-02-28,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Cardiomyopathy,NA
+Kentucky,2011,April,2011-04-03,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,Acute Renal Failure,NA
+Kentucky,2011,April,2011-04-14,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,Metastatic Renal Cell Carcinoma,NA
+Kentucky,2011,April,2011-04-16,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Congestive Heart Failure,NA
+Kentucky,2011,May,2011-05-01,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Lung Cancer,NA
+Kentucky,2011,May,2011-05-02,"KENTUCKY STATE REFORMATORY,",In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,End Stage Liver Disease,NA
+Kentucky,2011,May,2011-05-15,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,Liver Cancer,NA
+Kentucky,2011,May,2011-05-15,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Esophageal Cancer,NA
+Kentucky,2011,May,2011-05-15,EASTERN KENTUCKY CORRECTIONAL COMPLEX,In general housing unit in the facility or on prison grounds,NA,Male,"Black, non‐Hispanic",NA,Acute and chronic myocardial ischemia  constrictive atherosclerotic coron,NA
+Kentucky,2011,May,2011-05-18,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,"Myocardial Infarction, Acute",NA
+Kentucky,2011,May,2011-05-18,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,Metastatic Cancer,NA
+Kentucky,2011,May,2011-05-19,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"Black, non‐Hispanic",NA,Liver Cancer,NA
+Kentucky,2011,May,2011-05-22,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Cerebral Hemorrhage,NA
+Kentucky,2011,June,2011-06-11,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Cardiac Arrest,NA
+Kentucky,2011,June,2011-06-25,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"Black, non‐Hispanic",NA,Congestive Heart Failure,NA
+Kentucky,2011,June,2011-06-28,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,Metastatic Lung Cancer,NA
+Kentucky,2011,July,2011-07-02,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Cardiomyopathy,NA
+Kentucky,2011,July,2011-07-02,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Renal Failure  Diabetes Mellitus,NA
+Kentucky,2011,July,2011-07-15,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,Hispanic or Latino,NA,Metastatic Lung Cancer,NA
+Kentucky,2011,July,2011-07-26,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Gastrointestinal bleed secondary to end stage cirrhosis of the liver,NA
+Kentucky,2011,August,2011-08-05,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Cancer of the neck,NA
+Kentucky,2011,August,2011-08-05,LUTHER LUCKETT CORRECTIONAL COMPLEX,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Cancer of the lung(s),NA
+Kentucky,2011,September,2011-09-01,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Myocardial Infarction,NA
+Kentucky,2011,September,2011-09-02,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Cancer of the lung,NA
+Kentucky,2011,September,2011-09-03,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,End Stage Liver Disease,NA
+Kentucky,2011,September,2011-09-06,KENTUCKY STATE PENITENTIARY,In segregation unit,NA,Male,"Black, non‐Hispanic",NA,Cardiac arrhythmia secondary to dehydration and hypertensive cardiac di,NA
+Kentucky,2011,September,2011-09-09,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Pneumonia,NA
+Kentucky,2011,September,2011-09-18,KENTUCKY CORRECTIONAL INSTITUTION FOR WOMEN,In medical facility outside prison,NA,Female,Asian,NA,Cardio pulmonary arrest,NA
+Kentucky,2011,September,2011-09-22,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,Chronic renal failure secondary to diabetes melitus type II,NA
+Kentucky,2011,September,2011-09-24,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Cardiac arrest,NA
+Kentucky,2011,September,2011-09-26,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Cancer of the lung,NA
+Kentucky,2011,October,2011-10-02,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,Respiratory Failure,NA
+Kentucky,2011,October,2011-10-06,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,Adinocarcinoma of the Lung,NA
+Kentucky,2011,October,2011-10-09,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Kidney Cancer,NA
+Kentucky,2011,October,2011-10-14,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,Lung Cancer,NA
+Kentucky,2011,October,2011-10-21,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Anoxic Brain Injury,NA
+Kentucky,2011,October,2011-10-22,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Pancreatic Cancer,NA
+Kentucky,2011,November,2011-11-08,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,"Multiple strokes, coronary heart disease, hypertension",NA
+Kentucky,2011,November,2011-11-08,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Food aspiration while eating,NA
+Kentucky,2011,December,2011-12-07,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Renal Cell Carcinoma,NA
+Kentucky,2011,December,2011-12-09,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Brain Tumor,NA
+Kentucky,2011,December,2011-12-12,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Sepsis,NA
+Kentucky,2011,December,2011-12-15,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"Black, non‐Hispanic",NA,Anoxic Brain Damage,NA
+Kentucky,2011,December,2011-12-19,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Cardiomyopathy,NA
+Kentucky,2011,December,2011-12-21,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Acute Myocardial Infarction,NA
+Kentucky,2011,December,2011-12-23,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,Acute Myelogenous Leukemia,NA
+Kentucky,2011,December,2011-12-25,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Acute Myocardial Infarction,NA
+Kentucky,2011,December,2011-12-30,NORTHPOINT TRAINING CENTER,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Heart‐Related Natural Cause,NA
+Kentucky,2012,January,2012-01-20,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,End Stage Liver Disease,NA
+Kentucky,2012,January,2012-01-23,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Liver Failure,NA
+Kentucky,2012,January,2012-01-31,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,"Lung Cancer, Metastatic",NA
+Kentucky,2012,February,2012-02-03,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Sclerosis of the Liver,NA
+Kentucky,2012,February,2012-02-06,LITTLE SANDY CORRECTIONAL COMPLEX,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Cardiac Arrest,NA
+Kentucky,2012,February,2012-02-08,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Colon Cancer,NA
+Kentucky,2012,February,2012-02-10,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,Lung Cancer,NA
+Kentucky,2012,February,2012-02-18,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Liver Cancer,NA
+Kentucky,2012,February,2012-02-25,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,Cardiomyopathy,NA
+Kentucky,2012,February,2012-02-28,EASTERN KY CORRECTIONAL COMPLEX,In general housing unit in the facility or on prison grounds,NA,Female,"Black, non‐Hispanic",NA,Complications of Sarcoidosis,NA
+Kentucky,2012,February,2012-02-29,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,Pulmonary Embolism,NA
+Kentucky,2012,March,2012-03-08,EASTERN KY CORRECTIONAL COMPLEX,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Myocardial Infarction,NA
+Kentucky,2012,March,2012-03-09,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Spontaneous Ventricular Fibrillation,NA
+Kentucky,2012,March,2012-03-17,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Pulmonary Fibrosis,NA
+Kentucky,2012,March,2012-03-21,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,Cardiac Arrest,NA
+Kentucky,2012,March,2012-03-23,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Pneumonia,NA
+Kentucky,2012,March,2012-03-25,ROEDERER CORRECTIONAL COMPLEX,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Sepsis Due to Bacterial Pneumonia,NA
+Kentucky,2012,April,2012-04-04,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Metastatic Renal Cell Carcinoma,NA
+Kentucky,2012,April,2012-04-14,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Lung and Esophageal Cancer,NA
+Kentucky,2012,April,2012-04-17,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Lung Cancer,NA
+Kentucky,2012,April,2012-04-23,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Stroke,NA
+Kentucky,2012,April,2012-04-26,KENTUCKY STATE REFORMATORY,in medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Acute Myelogenous Leukemia,NA
+Kentucky,2012,April,2012-04-27,KENTUCKY STATE REFORMATORY,in medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Lung Cancer,NA
+Kentucky,2012,May,2012-05-02,KENTUCKY STATE REFORMATORY,in medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,Sepsis,NA
+Kentucky,2012,May,2012-05-05,KENTUCKY CORRECTIONAL INSTITUTION FOR WOMEN,in medical facility outside prison,NA,Female,"White, non‐Hispanic",NA,Sepsis,NA
+Kentucky,2012,May,2012-05-10,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Myocardial Infarction,NA
+Kentucky,2012,May,2012-05-15,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Pancreatic Cancer,NA
+Kentucky,2012,May,2012-05-16,EASTERN KENTUCKY CORRECTIONAL COMPLEX,in medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,Sudden cardiac arrest during exercise  marked concentric left ventricular,NA
+Kentucky,2012,May,2012-05-31,DISMAS CHARITIES PORTLAND HOUSE,in medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Infective Bacterial Endocarditis,NA
+Kentucky,2012,June,2012-06-02,KENTUCKY STATE REFORMATORY,in special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,Adenocarcinoma of the Sigmoid Colon,NA
+Kentucky,2012,June,2012-06-04,KENTUCKY STATE REFORMATORY,in medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Liver Cancer,NA
+Kentucky,2012,June,2012-06-14,LUTHER LUCKETT CORRECTIONAL COMPLEX,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Respiratory Failure Secondary to Cardiac Arrest,NA
+Kentucky,2012,June,2012-06-15,KENTUCKY STATE REFORMATORY,in medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Septicemia secondary to infection of Percutaneous Endoscopic Gastrosto,NA
+Kentucky,2012,June,2012-06-30,KENTUCKY STATE REFORMATORY,in medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,Cirrhosis of the Liver,NA
+Kentucky,2012,July,2012-07-09,KENTUCKY STATE REFORMATORY,in medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Congestive Heart Failure,NA
+Kentucky,2012,July,2012-07-12,KENTUCKY STATE REFORMATORY,in medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Acute Peritonitis,NA
+Kentucky,2012,July,2012-07-28,KENTUCKY STATE REFORMATORY,in medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Myocardial Infarction,NA
+Kentucky,2012,August,2012-08-13,LITTLE SANDY CORRECTIONAL COMPLEX,in general housing unit in the facility or on prison grounds,NA,Male,"Black, non‐Hispanic",NA,Acute Cardiorespiratory Failure Due to Coronary Disease,NA
+Kentucky,2012,August,2012-08-21,KENTUCKY STATE REFORMATORY,in medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Cirrhosis,NA
+Kentucky,2012,September,2012-09-03,KENTUCKY STATE REFORMATORY,in medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Acute Myocardial Infarction,NA
+Kentucky,2012,September,2012-09-06,BLACKBURN CORRECTIONAL COMPLEX,in medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Cardiac Arrest,NA
+Kentucky,2012,September,2012-09-19,KENTUCKY STATE REFORMATORY,in medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Esophageal Cancer,NA
+Kentucky,2012,September,2012-09-24,KENTUCKY STATE REFORMATORY,in special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,Adenacarcinoma of the Esophagus,NA
+Kentucky,2012,October,2012-10-04,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,Metastatic Adenocarcinoma of the Lung,NA
+Kentucky,2012,October,2012-10-19,805 MARY STREET,in general housing unit in the facility or on prison grounds,NA,Male,"White, non‐Hispanic",NA,Alcohol/Drug Intoxication,NA
+Kentucky,2012,November,2012-11-16,KENTUCKY STATE REFORMATORY,in medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Malignant Melanoma,NA
+Kentucky,2012,November,2012-11-20,KENTUCKY STATE REFORMATORY,in medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,Cardiac Arrest Due to Cardiomyopathy,NA
+Kentucky,2012,November,2012-11-25,KENTUCKY STATE REFORMATORY,in medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,End Stage Liver Disease,NA
+Kentucky,2012,November,2012-11-29,LUTHER LUCKETT CORRECTIONAL COMPLEX,in medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Liver Failure and Hepatocellular Carcinoma,NA
+Kentucky,2012,November,2012-11-29,KENTUCKY STATE REFORMATORY,in medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,"Metastatic Cancer, Primary Lesion Unknown",NA
+Kentucky,2012,December,2012-12-13,KENTUCKY STATE REFORMATORY,in medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Metastatic Pancreatic Cancer,NA
+Kentucky,2012,December,2012-12-17,GREEN RIVER CORRECTIONAL COMPLEX,in medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,Pulmonary Thromboemboli Secondary to Deep Vein Thrombosis,NA
+Kentucky,2012,December,2012-12-25,KENTUCKY STATE REFORMATORY,in medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,End Stage Liver Disease,NA
+Kentucky,2012,December,2012-12-28,KENTUCKY STATE REFORMATORY,in medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Recurrent Squamous Cell Carcinoma of the Larynx,NA
+Kentucky,2012,December,2012-12-30,KENTUCKY STATE REFORMATORY,in medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Cardiac Arrest,NA
+Kentucky,2013,January,2013-01-15,LUTHER LUCKETT CORRECTIONAL COMPLEX,in medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Liver Cancer,NA
+Kentucky,2013,January,2013-01-16,KENTUCKY STATE REFORMATORY,in medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Undetermined per Chief Medical Examiner,NA
+Kentucky,2013,January,2013-01-20,KENTUCKY STATE PENITENTIARY,in medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,Undetermined  autopsy revealed old brain injury. History of seizures & alt,NA
+Kentucky,2013,February,2013-02-09,KENTUCKY STATE REFORMATORY,in medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Acute Myocardial Infarction,NA
+Kentucky,2013,February,2013-02-15,KENTUCKY STATE REFORMATORY,in medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Metastatic Lung Cancer,NA
+Kentucky,2013,February,2013-02-15,KENTUCKY CORRECTIONAL INSTITUTION FOR WOMEN,in medical facility outside prison,NA,Female,"White, non‐Hispanic",NA,Atypical Pneumonia,NA
+Kentucky,2013,March,2013-03-20,KENTUCKY STATE REFORMATORY,in medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Cardiomyapathy ‐ Congestive Heart Failure,NA
+Kentucky,2013,March,2013-03-21,KENTUCKY STATE PENITENTIARY,in special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,Metastic Poorly‐Differentiated Adenocarcinoma,NA
+Kentucky,2013,April,2013-04-22,EASTERN KENTUCKY CORRECTIONAL COMPLEX,in medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Homicide Committed by Another Inmate,NA
+Kentucky,2013,April,2013-04-26,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Hepatocellular Carcinoma (Liver Cancer),NA
+Kentucky,2013,May,2013-05-27,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Upper GI Bleed and Hypobolmic Shock,NA
+Kentucky,2013,May,2013-05-27,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Refractory Hypozemia Secondary to Interstital Lung Disease & MRSA Pneu,NA
+Kentucky,2013,June,2013-06-03,EASTERN KENTUCKY CORRECTIONAL COMPLEX,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Suicide,NA
+Kentucky,2013,June,2013-06-09,KY CORRECTIONAL INSTITUTION FOR WOMEN,In medical facility outside prison,NA,Female,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2013,June,2013-06-17,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Brain Stem Stroke & Prostate Cancer,NA
+Kentucky,2013,June,2013-06-19,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Cirrhosis of the Liver,NA
+Kentucky,2013,June,2013-06-26,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Lung Cancer,NA
+Kentucky,2013,July,2013-07-12,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Renal Failure,NA
+Kentucky,2013,July,2013-07-13,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Acute Myocardial Infarction,NA
+Kentucky,2013,July,2013-07-15,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Cardio Myopathy,NA
+Kentucky,2013,August,2013-08-07,KY CORRECTIONAL INSTITUTION FOR WOMEN,In medical facility outside prison,NA,Female,"White, non‐Hispanic",NA,Lung Cancer,NA
+Kentucky,2013,August,2013-08-23,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Septic Shock/Cardiomyopathy,NA
+Kentucky,2013,August,2013-08-29,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Sepsis and Multi‐Organ Failure,NA
+Kentucky,2013,September,2013-09-01,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Hepatitis C ‐ Liver Cirrhosis,NA
+Kentucky,2013,September,2013-09-14,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Amyotropic Lateral Sclerosis ‐ Lou Gehrigs Disease,NA
+Kentucky,2013,September,2013-09-23,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Squamous Cell Carcinoma of Tongue,NA
+Kentucky,2013,October,2013-10-02,ROEDERER ASSESSMENT CENTER,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Cirrhosis of the Liver,NA
+Kentucky,2013,October,2013-10-04,EASTERN KY CORRECTIONAL COMPLEX,In general housing unit in the facility or on prison grounds,NA,Male,"White, non‐Hispanic",NA,Suicide by Hanging,NA
+Kentucky,2013,October,2013-10-21,KENTUCKY STATE PENITENTIARY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Cardiac Arrest,NA
+Kentucky,2013,October,2013-10-23,KENTUCKY STATE PENITENTIARY,In general housing unit in the facility or on prison grounds,NA,Male,"White, non‐Hispanic",NA,Suicide by Hanging,NA
+Kentucky,2013,October,2013-10-27,NORTHPOINT TRAINING CENTER,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Multi‐Organ Sysfunction Syndrome,NA
+Kentucky,2013,October,2013-10-30,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Mulitfocal Hepatocellular Carcinoma,NA
+Kentucky,2013,November,2013-11-05,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,Cardiomyopathy ‐ Congestive Heart Failure,NA
+Kentucky,2013,November,2013-11-10,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,Lung Cancer,NA
+Kentucky,2013,November,2013-11-16,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Acute Leukemia,NA
+Kentucky,2013,November,2013-11-28,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,"Cancer of Lung, Brain, Pancreas and Spleen",NA
+Kentucky,2013,November,2013-11-29,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,Cardiac Arrest,NA
+Kentucky,2013,December,2013-12-03,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Lung Cancer,NA
+Kentucky,2013,December,2013-12-10,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Respiratory Failure/Stroke,NA
+Kentucky,2013,December,2013-12-25,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,"Respiratory Failure due to Chronic COPD, Diabetes, Prostate Cancer & Hep",NA
+Kentucky,2014,January,2014-01-06,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,Liver Cancer,NA
+Kentucky,2014,January,2014-01-14,KENTUCKY STATE PENITENTIARY,In segregation unit,NA,Male,"White, non‐Hispanic",NA,Suicide‐Hunger Strike,NA
+Kentucky,2014,February,2014-02-12,KENTUCKY CORRECTIONAL INSTITUTION FOR WOMEN,In segregation unit,NA,Female,"White, non‐Hispanic",NA,Suicide,NA
+Kentucky,2014,February,2014-02-18,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Lung Cancer,NA
+Kentucky,2014,February,2014-02-21,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,Lung Cancer,NA
+Kentucky,2014,March,2014-03-03,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Cardiac Arrest,NA
+Kentucky,2014,March,2014-03-11,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Renal Cancer,NA
+Kentucky,2014,March,2014-03-11,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Acute Leukemia,NA
+Kentucky,2014,March,2014-03-12,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Complications from Renal Failure,NA
+Kentucky,2014,March,2014-03-17,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,Colon Cancer,NA
+Kentucky,2014,March,2014-03-25,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,End Stage Liver Disease,NA
+Kentucky,2014,April,2014-04-07,NORTHPOINT TRAINING CENTER,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,Acute Cardiorespiratory Failure,NA
+Kentucky,2014,April,2014-04-12,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Septic Shock,NA
+Kentucky,2014,April,2014-04-25,ROEDERER CORRECTIONAL COMPLEX,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Cardiac Arrest,NA
+Kentucky,2014,May,2014-05-04,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,End Stage Liver Disease,NA
+Kentucky,2014,May,2014-05-06,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,Cardiomyopathy,NA
+Kentucky,2014,May,2014-05-16,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Pneumonia,NA
+Kentucky,2014,May,2014-05-30,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Acute Myocardial Infarction,NA
+Kentucky,2014,May,2014-05-31,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Complications due to Aspiration Pneumonia,NA
+Kentucky,2014,June,2014-06-02,ROEDERER CORRECTIONAL COMPLEX,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,"Acute Respiratory Failure, Sepsis",NA
+Kentucky,2014,June,2014-06-05,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,Sepsis,NA
+Kentucky,2014,June,2014-06-06,ROEDERER CORRECTIONAL COMPLEX,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Liver Cancer,NA
+Kentucky,2014,July,2014-07-04,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Lung Cancer,NA
+Kentucky,2014,July,2014-07-24,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Intracranial Hemorrhage,NA
+Kentucky,2014,July,2014-07-28,EASTERN KENTUCKY CORRECTIONAL COMPLEX,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Myocardial Infarction,NA
+Kentucky,2014,August,2014-08-14,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Septic Shock,NA
+Kentucky,2014,August,2014-08-17,EASTERN KENTUCKY CORRECTIONAL COMPLEX,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Asphyxiation,NA
+Kentucky,2014,August,2014-08-22,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Congestive Heart Failure,NA
+Kentucky,2014,August,2014-08-27,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,Chronic Lymphoid Leukemia & Lung Cancer,NA
+Kentucky,2014,September,2014-09-01,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Intercranial Hemorrhage,NA
+Kentucky,2014,September,2014-09-05,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,COPD,NA
+Kentucky,2014,September,2014-09-19,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,End stage COPD‐Respiratory Failure,NA
+Kentucky,2014,September,2014-09-29,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,CVA/Cardic Arrest,NA
+Kentucky,2014,October,2014-10-12,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Respiratory Failure,NA
+Kentucky,2014,November,2014-11-09,EASTERN KY CORR. COMPLEX,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,Acute cardiac Dysrhythmia d/t Constrictive Atherosclerotic Coronary Ater,NA
+Kentucky,2014,November,2014-11-12,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Respiratory Failure,NA
+Kentucky,2014,November,2014-11-21,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Lung cancer,NA
+Kentucky,2014,November,2014-11-25,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,Metastatic Esphageal Cancer,NA
+Kentucky,2014,November,2014-11-29,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Hepatocellular Carcinoma,NA
+Kentucky,2014,December,2014-12-14,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,Pneumonia complicated by Dementia,NA
+Kentucky,2014,December,2014-12-18,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,Respiratory Failure,NA
+Kentucky,2014,December,2014-12-22,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,Liver and Renal Failure,NA
+Kentucky,2014,December,2014-12-28,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,End Stage Liver Disease,NA
+Kentucky,2015,January,2015-01-17,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2015,January,2015-01-19,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2015,January,2015-01-21,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2015,January,2015-01-23,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2015,February,2015-02-09,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2015,February,2015-02-09,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2015,February,2015-02-19,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"Black, non‐Hispanic",NA,NA,NA
+Kentucky,2015,February,2015-02-26,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"Black, non‐Hispanic",NA,NA,NA
+Kentucky,2015,March,2015-03-03,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2015,March,2015-03-04,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2015,March,2015-03-07,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2015,March,2015-03-12,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2015,March,2015-03-18,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,NA,NA
+Kentucky,2015,March,2015-03-21,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2015,March,2015-03-31,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2015,April,2015-04-01,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2015,April,2015-04-04,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2015,April,2015-04-07,KENTUCKY CORRECTIONAL INSTITUTION FOR WOMEN,In medical facility outside prison,NA,Female,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2015,April,2015-04-12,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2015,April,2015-04-14,ROEDERER CORRECTIONAL COMPLEX,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2015,May,2015-05-03,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2015,May,2015-05-06,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2015,May,2015-05-06,KENTUCKY STATE PENITENTIARY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,NA,NA
+Kentucky,2015,May,2015-05-12,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2015,May,2015-05-13,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,NA,NA
+Kentucky,2015,May,2015-05-15,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2015,May,2015-05-21,LITTLE SANDY CORRECTIONAL COMPLEX,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2015,May,2015-05-25,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2015,June,2015-06-07,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2015,June,2015-06-09,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2015,June,2015-06-16,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2015,June,2015-06-20,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2015,June,2015-06-21,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2015,June,2015-06-25,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2015,July,2015-07-14,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2015,July,2015-07-14,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2015,July,2015-07-15,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2015,July,2015-07-19,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2015,July,2015-07-22,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2015,July,2015-07-26,KENTUCKY CORRECTIONAL INSTITUTION FOR WOMEN,In medical facility outside prison,NA,Female,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2015,August,2015-08-05,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2015,August,2015-08-06,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2015,August,2015-08-12,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2015,August,2015-08-29,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2015,September,2015-09-16,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2015,September,2015-09-27,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2015,September,2015-09-30,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"Black, non‐Hispanic",NA,NA,NA
+Kentucky,2015,October,2015-10-14,KENTUCKY CORRECTIONAL INSTITUTION FOR WOMEN,In medical facility outside prison,NA,Female,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2015,October,2015-10-19,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2015,October,2015-10-23,DISMAS PORTLAND,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2015,November,2015-11-01,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"Black, non‐Hispanic",NA,NA,NA
+Kentucky,2015,November,2015-11-03,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2015,November,2015-11-24,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2015,December,2015-12-05,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2015,December,2015-12-05,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2015,December,2015-12-09,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,NA,NA
+Kentucky,2015,December,2015-12-11,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2015,December,2015-12-11,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2015,December,2015-12-21,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2015,December,2015-12-23,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2016,January,2016-01-11,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2016,January,2016-01-21,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2016,January,2016-01-23,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2016,January,2016-01-26,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2016,January,2016-01-29,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2016,February,2016-02-15,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2016,March,2016-03-28,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2016,April,2016-04-04,BLACKBURN CORRECTIONAL COMPLEX,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2016,April,2016-04-05,KENTUCKY CORRECTIONAL INSTITUTION FOR WOMEN,In medical facility outside prison,NA,Female,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2016,May,2016-05-11,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2016,May,2016-05-15,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2016,June,2016-06-02,EASTERN KENTUCKY CORRECTIONAL COMPLEX,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2016,June,2016-06-13,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2016,June,2016-06-18,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2016,June,2016-06-26,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2016,June,2016-06-30,LITTLE SANDY CORRECTIONAL COMPLEX,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2016,July,2016-07-03,KENTUCKY STATE PENITENTIARY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2016,July,2016-07-03,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2016,July,2016-07-12,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2016,July,2016-07-16,LITTLE SANDY CORRECTIONAL COMPLEX,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2016,July,2016-07-19,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2016,August,2016-08-07,BLACKBURN CORRECTIONAL COMPLEX,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,NA,NA
+Kentucky,2016,August,2016-08-10,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2016,August,2016-08-12,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2016,August,2016-08-18,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2016,August,2016-08-27,LUTHER LUCKETT CORRECTIONAL COMPLEX,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2016,September,2016-09-03,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2016,September,2016-09-04,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2016,September,2016-09-08,EASTERN KENTUCKY CORRECTIONAL COMPLEX,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2016,September,2016-09-18,LITTLE SANDY CORRECTIONAL COMPLEX,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,NA,NA
+Kentucky,2016,September,2016-09-20,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2016,October,2016-10-07,EASTERN KENTUCKY CORRECTIONAL COMPLEX,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2016,October,2016-10-19,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2016,October,2016-10-22,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,NA,NA
+Kentucky,2016,November,2016-11-02,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2016,November,2016-11-04,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2016,November,2016-11-20,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2016,November,2016-11-26,KENTUCKY CORRECTIONAL INSTITUTION FOR WOMEN,In medical facility outside prison,NA,Female,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2016,December,2016-12-05,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2016,December,2016-12-24,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2016,December,2016-12-27,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2016,December,2016-12-30,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2017,January,2017-01-05,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,NA,NA
+Kentucky,2017,January,2017-01-11,ROEDERER CORRECTIONAL COMPLEX,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2017,January,2017-01-11,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2017,January,2017-01-12,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2017,January,2017-01-19,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2017,January,2017-01-25,LUTHER LUCKETT CORRECTIONAL COMPLEX,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2017,January,2017-01-31,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2017,February,2017-02-02,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2017,February,2017-02-09,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2017,February,2017-02-11,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,NA,NA
+Kentucky,2017,February,2017-02-22,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2017,March,2017-03-01,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2017,March,2017-03-04,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2017,March,2017-03-09,LITTLE SANDY CORRECTIONAL COMPLEX,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,NA,NA
+Kentucky,2017,March,2017-03-16,KENTUCKY STATE PENITENTIARY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2017,March,2017-03-18,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2017,March,2017-03-27,GREEN RIVER CORRECTIONAL COMPLEX,In general housing unit in the facility or on prison grounds,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2017,March,2017-03-28,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2017,April,2017-04-21,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2017,April,2017-04-25,KENTUCKY STATE PENITENTIARY,In general housing unit in the facility or on prison grounds,NA,Male,"Black, non‐Hispanic",NA,NA,NA
+Kentucky,2017,April,2017-04-26,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2017,May,2017-05-01,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2017,May,2017-05-06,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2017,May,2017-05-12,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2017,May,2017-05-25,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2017,June,2017-06-11,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2017,June,2017-06-13,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2017,June,2017-06-21,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2017,June,2017-06-23,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2017,June,2017-06-24,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2017,June,2017-06-28,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2017,July,2017-07-03,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2017,July,2017-07-05,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2017,July,2017-07-07,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2017,July,2017-07-11,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2017,July,2017-07-19,ROEDERER CORRECTIONAL COMPLEX,In medical facility outside prison,NA,Male,Hispanic or Latino,NA,NA,NA
+Kentucky,2017,July,2017-07-26,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2017,July,2017-07-29,LUTHER LUCKETT CORRECTIONAL COMPLEX,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,NA,NA
+Kentucky,2017,July,2017-07-30,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2017,August,2017-08-02,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2017,August,2017-08-05,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2017,August,2017-08-11,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2017,August,2017-08-15,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2017,August,2017-08-19,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2017,August,2017-08-26,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2017,August,2017-08-28,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2017,August,2017-08-29,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2017,September,2017-09-05,KENTUCKY CORRECTIONAL INSTITUTION FOR WOMEN,In medical facility outside prison,NA,Female,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2017,September,2017-09-10,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2017,September,2017-09-21,KENTUCKY STATE REFORMATORY,In special mental health services unit within prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2017,September,2017-09-22,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2017,September,2017-09-25,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2017,September,2017-09-30,NORTHPOINT TRAINING CENTER,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2017,October,2017-10-01,ROEDERER CORRECTIONAL COMPLEX,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2017,October,2017-10-02,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2017,October,2017-10-14,ROEDERER CORRECTIONAL COMPLEX,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2017,October,2017-10-15,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2017,October,2017-10-25,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2017,October,2017-10-26,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"Black, non‐Hispanic",NA,NA,NA
+Kentucky,2017,November,2017-11-04,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2017,November,2017-11-05,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2017,November,2017-11-14,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2017,November,2017-11-21,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2017,December,2017-12-05,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2017,December,2017-12-15,KENTUCKY STATE REFORMATORY,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2017,December,2017-12-15,BLUEGRASS CAREER DEVELOPMENT CENTER,In general housing unit in the facility or on prison grounds,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2017,December,2017-12-20,KENTUCKY CORRECTIONAL INSTITUTION FOR WOMEN,In medical facility outside prison,NA,Female,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2017,December,2017-12-24,NORTHPOINT TRAINING CENTER,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2017,December,2017-12-28,LUTHER LUCKETT CORRECTIONAL COMPLEX,In medical facility outside prison,NA,Male,"White, non‐Hispanic",NA,NA,NA
+Kentucky,2017,December,2017-12-31,KENTUCKY STATE REFORMATORY,In special medical unit/infirmary within your facility,NA,Male,"White, non‐Hispanic",NA,NA,NA
 Kentucky,2018,January,2018-01-04,NA,NA,"Robbins, Mark",M,NA,NA,NA,NA
 Kentucky,2018,January,2018-01-04,NA,NA,"Coontz, Billy",M,NA,NA,NA,NA
 Kentucky,2018,January,2018-01-07,NA,NA,"Parr, Roosevelt",M,NA,NA,NA,NA
