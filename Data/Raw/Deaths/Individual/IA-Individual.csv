@@ -1,420 +1,472 @@
-State,Year,Month,Death.Date,Facility,Death.Age,Sex,Full.Name,Location,Circumstance.General,Circumstance.Specific
-Iowa,2001,January,2001-01-11,5JD,NA,NA,Dirk McEnearney,NA,NA,NA
-Iowa,2001,February,2001-02-05,4JD,NA,NA,Richard Henriksen,NA,NA,NA
-Iowa,2001,July,2001-07-07,4JD,NA,NA,Jamie Piepe,NA,NA,NA
-Iowa,2001,August,2001-08-14,7JD,NA,NA,Darell Williams,NA,NA,NA
-Iowa,2001,October,2001-10-10,5JD,NA,NA,Allison Fausett,NA,NA,NA
-Iowa,2002,July,2002-07-26,5JD,NA,NA,John Miller,NA,NA,NA
-Iowa,2002,October,2002-10-18,4JD,NA,NA,Steven Blakeman,NA,NA,NA
-Iowa,2002,October,2002-10-28,IMCC,NA,NA,Gary Snow,NA,NA,NA
-Iowa,2002,November,2002-11-17,ISP,NA,NA,Terry Alderman,NA,NA,NA
-Iowa,2002,November,2002-11-25,CCF,NA,NA,William Hook,NA,NA,NA
-Iowa,2002,November,2002-11-27,IMCC,NA,NA,Robert Thompson,NA,NA,NA
-Iowa,2003,January,2003-01-01,ISP,NA,NA,Isaiah Gathright,NA,NA,NA
-Iowa,2003,January,2003-01-07,ASP,NA,NA,Carroll Sydness,NA,NA,NA
-Iowa,2003,March,2003-03-23,ASP,NA,NA,Raymond Love,NA,NA,NA
-Iowa,2003,April,2003-04-13,ASP,NA,NA,Warren Mundy,NA,NA,NA
-Iowa,2003,May,2003-05-03,ISP,NA,NA,Michael Madigan,NA,NA,NA
-Iowa,2003,May,2003-05-23,IMCC,NA,NA,Joseph Hargrave,NA,NA,NA
-Iowa,2003,June,2003-06-22,7JD,NA,NA,James Gallion,NA,NA,NA
-Iowa,2003,June,2003-06-27,IMCC,NA,NA,Dexter Hughes,NA,NA,NA
-Iowa,2003,July,2003-07-22,IMCC,NA,NA,Martin Halbach,NA,NA,NA
-Iowa,2003,October,2003-10-01,ICIW,NA,NA,Marsha Mattson,NA,NA,NA
-Iowa,2003,October,2003-10-11,1JD,NA,NA,Derrick Haverland,NA,NA,NA
-Iowa,2003,November,2003-11-09,ISP,NA,NA,Ralph Reynolds,NA,NA,NA
-Iowa,2003,December,2003-12-04,6JD,NA,NA,Robert Hodgkin,NA,NA,NA
-Iowa,2003,December,2003-12-24,IMCC,NA,NA,Bryan May,NA,NA,NA
-Iowa,2003,December,2003-12-27,ISP,NA,NA,Jimmy James,NA,NA,NA
-Iowa,2004,January,2004-01-15,IMCC,NA,NA,Wilfred Rice,NA,NA,NA
-Iowa,2004,February,2004-02-13,ISP,NA,NA,Kenneth Mattox,NA,NA,NA
-Iowa,2004,March,2004-03-01,NCF,NA,NA,Lloyd Urich,NA,NA,NA
-Iowa,2004,March,2004-03-13,IMCC,NA,NA,Lee Sheets,NA,NA,NA
-Iowa,2004,June,2004-06-29,1JD,NA,NA,Roger Anderson,NA,NA,NA
-Iowa,2004,July,2004-07-12,ISP,NA,NA,Jack Evans,NA,NA,NA
-Iowa,2004,August,2004-08-07,3JD,NA,NA,Leticia Flores,NA,NA,NA
-Iowa,2004,August,2004-08-24,ISP,NA,NA,Alan Leak,NA,NA,NA
-Iowa,2004,August,2004-08-29,MPCF,NA,NA,Doreen Kneipp,NA,NA,NA
-Iowa,2004,September,2004-09-04,ISP,NA,NA,Dennis Rosenbloom,NA,NA,NA
-Iowa,2004,October,2004-10-02,ISP,NA,NA,Kenneth Gordon,NA,NA,NA
-Iowa,2004,October,2004-10-04,IMCC,NA,NA,Vertis Garnmeister,NA,NA,NA
-Iowa,2004,October,2004-10-10,1JD,NA,NA,Eli Conaway,NA,NA,NA
-Iowa,2004,October,2004-10-17,IMCC,NA,NA,Robert Jackson,NA,NA,NA
-Iowa,2004,October,2004-10-25,MPCF,NA,NA,Larry Bowdry,NA,NA,NA
-Iowa,2004,November,2004-11-01,ISP,NA,NA,Nathan Watson,NA,NA,NA
-Iowa,2004,November,2004-11-06,IMCC,NA,NA,Neal Voelkers,NA,NA,NA
-Iowa,2004,December,2004-12-11,ISP,NA,NA,Christopher Greer,NA,NA,NA
-Iowa,2005,January,2005-01-22,FDCF,NA,NA,Irvin Halterman,NA,NA,NA
-Iowa,2005,January,2005-01-27,IMCC,NA,NA,Richard Sheldon,NA,NA,NA
-Iowa,2005,January,2005-01-28,ASP,NA,NA,Ralph Doughty,NA,NA,NA
-Iowa,2005,February,2005-02-07,MPCF,NA,NA,Jason Mahony,NA,NA,NA
-Iowa,2005,February,2005-02-19,ASP,NA,NA,Larry Davis,NA,NA,NA
-Iowa,2005,March,2005-03-02,ISP,NA,NA,Herbert Schnee,NA,NA,NA
-Iowa,2005,March,2005-03-15,IMCC,NA,NA,Frank Chewning,NA,NA,NA
-Iowa,2005,March,2005-03-15,ISP,NA,NA,Merlin Long,NA,NA,NA
-Iowa,2005,April,2005-04-24,ASP,NA,NA,Thomas Cooper,NA,NA,NA
-Iowa,2005,May,2005-05-10,ISP,NA,NA,James Green,NA,NA,NA
-Iowa,2005,May,2005-05-16,ISP,NA,NA,Gayno Smith,NA,NA,NA
-Iowa,2005,May,2005-05-17,ASP,NA,NA,Blaire Cockerham,NA,NA,NA
-Iowa,2005,October,2005-10-04,IMCC,NA,NA,Jerrold Baker,NA,NA,NA
-Iowa,2005,October,2005-10-10,ICIW,NA,NA,Kristi Anderson,NA,NA,NA
-Iowa,2005,October,2005-10-12,ASP,NA,NA,Charles Nelson,NA,NA,NA
-Iowa,2005,October,2005-10-14,ISP,NA,NA,Jerry Emerson,NA,NA,NA
-Iowa,2005,October,2005-10-17,ASP,NA,NA,Robert Fletcher,NA,NA,NA
-Iowa,2005,November,2005-11-10,ISP,NA,NA,Angelo Palmer,NA,NA,NA
-Iowa,2005,November,2005-11-15,MPCF,NA,NA,Clement Bogan,NA,NA,NA
-Iowa,2005,December,2005-12-06,ISP,NA,NA,Joseph Fowler,NA,NA,NA
-Iowa,2006,February,2006-02-14,ISP,NA,NA,Albert Galvan,NA,NA,NA
-Iowa,2006,March,2006-03-09,IMCC,NA,NA,Lonnie Rogers,NA,NA,NA
-Iowa,2006,March,2006-03-18,ASP,NA,NA,Robert Mullery,NA,NA,NA
-Iowa,2006,April,2006-04-12,IMCC,NA,NA,Theodore Tolan,NA,NA,NA
-Iowa,2006,April,2006-04-15,5JD,NA,NA,Leonard Bucklin,NA,NA,NA
-Iowa,2006,June,2006-06-01,NCF,NA,NA,Timothy Burrows,NA,NA,NA
-Iowa,2006,June,2006-06-10,CCF,NA,NA,Anthony Morris,NA,NA,NA
-Iowa,2006,June,2006-06-21,CCF,NA,NA,Conrad Taylor,NA,NA,NA
-Iowa,2006,August,2006-08-16,ISP,NA,NA,Esley Nock,NA,NA,NA
-Iowa,2006,August,2006-08-31,IMCC,NA,NA,Albert Conklin,NA,NA,NA
-Iowa,2006,September,2006-09-09,ISP,NA,NA,George Hall,NA,NA,NA
-Iowa,2006,September,2006-09-24,5JD,NA,NA,Calvin Coplend,NA,NA,NA
-Iowa,2006,October,2006-10-25,ICC,NA,NA,Charles Gully,NA,NA,NA
-Iowa,2006,October,2006-10-25,ISP,NA,NA,Charles Gully,NA,NA,NA
-Iowa,2006,December,2006-12-29,ASP,NA,NA,Jesus Moreno,NA,NA,NA
-Iowa,2007,January,2007-01-15,MPCF,NA,NA,Stanley Erickson,NA,NA,NA
-Iowa,2007,February,2007-02-24,ISP,NA,NA,Robert Kearney,NA,NA,NA
-Iowa,2007,March,2007-03-11,ISP,NA,NA,Richard Wheeler,NA,NA,NA
-Iowa,2007,March,2007-03-16,8JD,NA,NA,Paul Betzing,NA,NA,NA
-Iowa,2007,April,2007-04-05,ASP,NA,NA,Maurice Wilson,NA,NA,NA
-Iowa,2007,April,2007-04-09,ISP,NA,NA,Stephen Gaffney,NA,NA,NA
-Iowa,2007,May,2007-05-04,1JD,NA,NA,Gary Reed,NA,NA,NA
-Iowa,2007,June,2007-06-15,1JD,NA,NA,Peggy Johnson,NA,NA,NA
-Iowa,2007,June,2007-06-19,NCF,NA,NA,Clifton Townsell,NA,NA,NA
-Iowa,2007,June,2007-06-24,ICIW,NA,NA,Patricia Williams,NA,NA,NA
-Iowa,2007,June,2007-06-27,IMCC,NA,NA,Edward Henning,NA,NA,NA
-Iowa,2007,July,2007-07-03,2JD,NA,NA,Ricky Glenney,NA,NA,NA
-Iowa,2007,August,2007-08-10,MPCF,NA,NA,Willis Shepherd,NA,NA,NA
-Iowa,2007,August,2007-08-26,ISP,NA,NA,Robert Knupp,NA,NA,NA
-Iowa,2007,August,2007-08-31,5JD,NA,NA,Ronald Humphrey,NA,NA,NA
-Iowa,2007,September,2007-09-04,IMCC,NA,NA,Donald Corwin,NA,NA,NA
-Iowa,2007,September,2007-09-09,IMCC,NA,NA,Richard Bostock,NA,NA,NA
-Iowa,2007,September,2007-09-16,ASP,NA,NA,Leslie Hollenbeck,NA,NA,NA
-Iowa,2007,November,2007-11-08,NCF,NA,NA,Ray Kelly,NA,NA,NA
-Iowa,2007,November,2007-11-23,7JD,NA,NA,Martha McClurg,NA,NA,NA
-Iowa,2007,December,2007-12-12,NCCF,NA,NA,Shane Olcott,NA,NA,NA
-Iowa,2007,December,2007-12-25,ISP,NA,NA,Ronald Ramsey,NA,NA,NA
-Iowa,2007,December,2007-12-30,ISP,NA,NA,David Rodamaker,NA,NA,NA
-Iowa,2008,January,2008-01-12,7JD,NA,NA,Solomon Stradt,NA,NA,NA
-Iowa,2008,January,2008-01-17,ISP,NA,NA,Billy Armento,NA,NA,NA
-Iowa,2008,January,2008-01-29,ASP,NA,NA,Norman Smith,NA,NA,NA
-Iowa,2008,January,2008-01-30,ISP,NA,NA,Joseph Garriott,NA,NA,NA
-Iowa,2008,February,2008-02-17,ISP,NA,NA,Ryan Wichhart,NA,NA,NA
-Iowa,2008,March,2008-03-18,IMCC,NA,NA,Steven Burg,NA,NA,NA
-Iowa,2008,March,2008-03-18,ISP,NA,NA,Ronald Brewer,NA,NA,NA
-Iowa,2008,March,2008-03-31,ASP,NA,NA,Larry Armstrong,NA,NA,NA
-Iowa,2008,April,2008-04-04,5JD,NA,NA,Theresa Ritter,NA,NA,NA
-Iowa,2008,May,2008-05-07,IMCC,NA,NA,Manuel Perez,NA,NA,NA
-Iowa,2008,May,2008-05-29,5JD,NA,NA,Joseph Taylor,NA,NA,NA
-Iowa,2008,June,2008-06-08,ISP,NA,NA,Dennis Sievert,NA,NA,NA
-Iowa,2008,June,2008-06-17,IMCC,NA,NA,Raymond Keever,NA,NA,NA
-Iowa,2008,June,2008-06-26,NCF,NA,NA,Stephen Mayerchak,NA,NA,NA
-Iowa,2008,July,2008-07-08,FDCF,NA,NA,Christopher Oaks,NA,NA,NA
-Iowa,2008,July,2008-07-09,IMCC,NA,NA,James Whited,NA,NA,NA
-Iowa,2008,July,2008-07-13,MPCF,NA,NA,John Martin,NA,NA,NA
-Iowa,2008,July,2008-07-21,ICC,NA,NA,Norbert Rundel,NA,NA,NA
-Iowa,2008,July,2008-07-30,ASP,NA,NA,Felton Riles-EL,NA,NA,NA
-Iowa,2008,August,2008-08-11,5JD,NA,NA,Jonathan Dings,NA,NA,NA
-Iowa,2008,August,2008-08-16,IMCC,NA,NA,Ronald Wood,NA,NA,NA
-Iowa,2008,September,2008-09-08,ASP,NA,NA,Gottlieb Baumann,NA,NA,NA
-Iowa,2008,September,2008-09-11,IMCC,NA,NA,Richard Lichty,NA,NA,NA
-Iowa,2008,September,2008-09-23,IMCC,NA,NA,Kim Mark,NA,NA,NA
-Iowa,2008,September,2008-09-28,IMCC,NA,NA,Gary Stattelman,NA,NA,NA
-Iowa,2008,October,2008-10-10,ISP,NA,NA,Jesse Masterson,NA,NA,NA
-Iowa,2008,December,2008-12-21,IMCC,NA,NA,Kent Junkman,NA,NA,NA
-Iowa,2009,January,2009-01-18,ISP,NA,NA,Michael Deere,NA,NA,NA
-Iowa,2009,January,2009-01-18,ISP,NA,NA,Michael Hood,NA,NA,NA
-Iowa,2009,January,2009-01-25,8JD,NA,NA,Kaleb Kaiser,NA,NA,NA
-Iowa,2009,February,2009-02-15,IMCC,NA,NA,Charles Haver,NA,NA,NA
-Iowa,2009,March,2009-03-11,IMCC,NA,NA,Walter Smith,NA,NA,NA
-Iowa,2009,April,2009-04-23,IMCC,NA,NA,Ralph Calhoon,NA,NA,NA
-Iowa,2009,April,2009-04-27,IMCC,NA,NA,Ronald Gates,NA,NA,NA
-Iowa,2009,April,2009-04-28,ISP,NA,NA,Fred Purdy,NA,NA,NA
-Iowa,2009,May,2009-05-16,IMCC,NA,NA,Jeffery Larson,NA,NA,NA
-Iowa,2009,June,2009-06-05,IMCC,NA,NA,William Kunze,NA,NA,NA
-Iowa,2009,June,2009-06-25,ASP,NA,NA,William Parker,NA,NA,NA
-Iowa,2009,July,2009-07-02,ISP,NA,NA,Nath Inthaboun,NA,NA,NA
-Iowa,2009,July,2009-07-20,IMCC,NA,NA,Jackie Bendickson,NA,NA,NA
-Iowa,2009,September,2009-09-07,1JD,NA,NA,Jermaris West,NA,NA,NA
-Iowa,2009,September,2009-09-09,IMCC,NA,NA,Maury Wilkerson,NA,NA,NA
-Iowa,2009,September,2009-09-11,ISP,NA,NA,Tony Walker,NA,NA,NA
-Iowa,2009,September,2009-09-12,IMCC,NA,NA,Anthony Reese,NA,NA,NA
-Iowa,2009,October,2009-10-07,2JD,NA,NA,Angenaldo Bailey,NA,NA,NA
-Iowa,2009,October,2009-10-13,IMCC,NA,NA,Robert Armagost,NA,NA,NA
-Iowa,2009,November,2009-11-24,1JD,NA,NA,Chad Koelker,NA,NA,NA
-Iowa,2009,November,2009-11-27,4JD,NA,NA,Shane Niesen,NA,NA,NA
-Iowa,2010,January,2010-01-23,ISP,NA,NA,William Groscost,NA,NA,NA
-Iowa,2010,January,2010-01-28,IMCC,NA,NA,Ernest Robrts,NA,NA,NA
-Iowa,2010,April,2010-04-15,5JD,NA,NA,William Lane,NA,NA,NA
-Iowa,2010,April,2010-04-28,IMCC,NA,NA,Michael Burrows,NA,NA,NA
-Iowa,2010,May,2010-05-12,MPCF,NA,NA,James Kuehn,NA,NA,NA
-Iowa,2010,May,2010-05-19,IMCC,NA,NA,Luel Robinson,NA,NA,NA
-Iowa,2010,May,2010-05-22,1JD,NA,NA,Ryne Zellner,NA,NA,NA
-Iowa,2010,May,2010-05-28,7JD,NA,NA,Timmy Tucker,NA,NA,NA
-Iowa,2010,June,2010-06-14,CCF,NA,NA,Alfred Myre,NA,NA,NA
-Iowa,2010,June,2010-06-23,ASP,NA,NA,Timothy Sohler,NA,NA,NA
-Iowa,2010,June,2010-06-27,IMCC,NA,NA,Jeffrey Clark,NA,NA,NA
-Iowa,2010,June,2010-06-28,ASP,NA,NA,Kevin Barnes,NA,NA,NA
-Iowa,2010,June,2010-06-28,IMCC,NA,NA,Kevin Barnes,NA,NA,NA
-Iowa,2010,September,2010-09-01,IMCC,NA,NA,Steven Deitz,NA,NA,NA
-Iowa,2010,September,2010-09-01,ISP,NA,NA,Steven Deitz,NA,NA,NA
-Iowa,2010,October,2010-10-09,IMCC,NA,NA,Jeffrey Wittler,NA,NA,NA
-Iowa,2010,October,2010-10-09,ISP,NA,NA,Jeffrey Wittler,NA,NA,NA
-Iowa,2010,November,2010-11-20,IMCC,NA,NA,Gary Thompson,NA,NA,NA
-Iowa,2010,December,2010-12-15,1JD,NA,NA,Anthony Marchese,NA,NA,NA
-Iowa,2010,December,2010-12-18,IMCC,NA,NA,John Boland,NA,NA,NA
-Iowa,2010,December,2010-12-20,2JD,NA,NA,Edward Mitchell,NA,NA,NA
-Iowa,2011,January,2011-01-10,ASP,NA,NA,George Eason,NA,NA,NA
-Iowa,2011,March,2011-03-16,IMCC,NA,NA,Larry Agee,NA,NA,NA
-Iowa,2011,April,2011-04-07,NCF,NA,NA,Michael Lefler,NA,NA,NA
-Iowa,2011,April,2011-04-18,NCF,NA,NA,Allan Fattig,NA,NA,NA
-Iowa,2011,May,2011-05-08,IMCC,NA,NA,Robert Heather,NA,NA,NA
-Iowa,2011,May,2011-05-15,8JD,NA,NA,Gary Johnson,NA,NA,NA
-Iowa,2011,May,2011-05-20,IMCC,NA,NA,Richard Freitas,NA,NA,NA
-Iowa,2011,May,2011-05-26,3JD,NA,NA,Heath Cooper,NA,NA,NA
-Iowa,2011,June,2011-06-09,ISP,NA,NA,Andrew Williams,NA,NA,NA
-Iowa,2011,June,2011-06-17,ICC,NA,NA,John Kyle,NA,NA,NA
-Iowa,2011,June,2011-06-23,IMCC,NA,NA,William Heskett,NA,NA,NA
-Iowa,2011,June,2011-06-27,ISP,NA,NA,David Penwell,NA,NA,NA
-Iowa,2011,July,2011-07-10,ISP,NA,NA,Jack Franks,NA,NA,NA
-Iowa,2011,July,2011-07-28,1JD,NA,NA,Jamie Pottebaum,NA,NA,NA
-Iowa,2011,August,2011-08-11,NCF,NA,NA,Leslie Richardson,NA,NA,NA
-Iowa,2011,August,2011-08-18,ISP,NA,NA,Larry Westlund,NA,NA,NA
-Iowa,2011,September,2011-09-03,IMCC,NA,NA,Dale White,NA,NA,NA
-Iowa,2011,December,2011-12-21,1JD,NA,NA,Raymond Pitz,NA,NA,NA
-Iowa,2012,January,2012-01-15,ISP,NA,NA,Dennis McKee,NA,NA,NA
-Iowa,2012,January,2012-01-15,NCF,NA,NA,Virgil Wilson,NA,NA,NA
-Iowa,2012,January,2012-01-21,1JD,NA,NA,Blaine Wright,NA,NA,NA
-Iowa,2012,January,2012-01-27,IMCC,NA,NA,Lonnie Porter,NA,NA,NA
-Iowa,2012,February,2012-02-15,5JD,NA,NA,David Trapp,NA,NA,NA
-Iowa,2012,February,2012-02-16,ISP,NA,NA,Hubert Hardesty,NA,NA,NA
-Iowa,2012,March,2012-03-07,CCF,NA,NA,Eris Barbieri,NA,NA,NA
-Iowa,2012,March,2012-03-18,IMCC,NA,NA,George Bennett,NA,NA,NA
-Iowa,2012,March,2012-03-25,ASP,NA,NA,Darrell Alderton,NA,NA,NA
-Iowa,2012,April,2012-04-03,IMCC,NA,NA,Roy Bales,NA,NA,NA
-Iowa,2012,April,2012-04-15,IMCC,NA,NA,Michael Howell,NA,NA,NA
-Iowa,2012,April,2012-04-18,7JD,NA,NA,Lee Tate,NA,NA,NA
-Iowa,2012,May,2012-05-21,IMCC,NA,NA,Charles Parker,NA,NA,NA
-Iowa,2012,June,2012-06-07,IMCC,NA,NA,Danny Beason,NA,NA,NA
-Iowa,2012,June,2012-06-26,ISP,NA,NA,Rick Nebinger,NA,NA,NA
-Iowa,2012,June,2012-06-27,2JD,NA,NA,Devin Sexton,NA,NA,NA
-Iowa,2012,July,2012-07-16,IMCC,NA,NA,Robert Dicks,NA,NA,NA
-Iowa,2012,July,2012-07-26,1JD,NA,NA,Lisa Gallaher,NA,NA,NA
-Iowa,2012,July,2012-07-27,1JD,NA,NA,Elizabeth Ellsworth,NA,NA,NA
-Iowa,2012,August,2012-08-10,IMCC,NA,NA,Jeffrey Williamsen,NA,NA,NA
-Iowa,2012,August,2012-08-23,ASP,NA,NA,Kent Roe,NA,NA,NA
-Iowa,2012,August,2012-08-24,ASP,NA,NA,Jerry Proctor,NA,NA,NA
-Iowa,2012,September,2012-09-09,IMCC,NA,NA,Wilbert Eickert,NA,NA,NA
-Iowa,2012,September,2012-09-14,ISP,NA,NA,James Henderson,NA,NA,NA
-Iowa,2012,September,2012-09-18,IMCC,NA,NA,Robert Moore,NA,NA,NA
-Iowa,2012,September,2012-09-24,IMCC,NA,NA,Paul Blakey,NA,NA,NA
-Iowa,2012,October,2012-10-09,ICC,NA,NA,Wesley Betts,NA,NA,NA
-Iowa,2013,January,2013-01-23,ISP,NA,NA,Rick Nederhoff,NA,NA,NA
-Iowa,2013,February,2013-02-08,5JD,NA,NA,Thomas McNerney,NA,NA,NA
-Iowa,2013,March,2013-03-22,IMCC,NA,NA,Chantez Thornton,NA,NA,NA
-Iowa,2013,April,2013-04-14,IMCC,NA,NA,Laurence Johannsen,NA,NA,NA
-Iowa,2013,April,2013-04-17,ASP,NA,NA,Joshua Puffinbarger,NA,NA,NA
-Iowa,2013,April,2013-04-20,7JD,NA,NA,Louis Johnson,NA,NA,NA
-Iowa,2013,April,2013-04-25,FDCF,NA,NA,Larry Siemer,NA,NA,NA
-Iowa,2013,April,2013-04-25,IMCC,NA,NA,Larry Siemer,NA,NA,NA
-Iowa,2013,May,2013-05-31,IMCC,NA,NA,Brian Boyer,NA,NA,NA
-Iowa,2013,June,2013-06-01,IMCC,NA,NA,Alex Mabe,NA,NA,NA
-Iowa,2013,June,2013-06-26,ISP,NA,NA,Adam Moss,NA,NA,NA
-Iowa,2013,August,2013-08-20,CCF,NA,NA,Rodney Long,NA,NA,NA
-Iowa,2013,August,2013-08-20,IMCC,NA,NA,Rodney Long,NA,NA,NA
-Iowa,2013,August,2013-08-20,IMCC,NA,NA,Edward Marshall,NA,NA,NA
-Iowa,2013,September,2013-09-05,ASP,NA,NA,Howard Russell,NA,NA,NA
-Iowa,2013,September,2013-09-10,ICC,NA,NA,Robert Carter,NA,NA,NA
-Iowa,2013,October,2013-10-18,FDCF,NA,NA,Claude Middlebrooks,NA,NA,NA
-Iowa,2013,November,2013-11-16,IMCC,NA,NA,Vernon McEndree,NA,NA,NA
-Iowa,2013,November,2013-11-22,ISP,NA,NA,Mark Wallin,NA,NA,NA
-Iowa,2013,December,2013-12-15,MPCF,NA,NA,David Wise,NA,NA,NA
-Iowa,2013,December,2013-12-19,IMCC,NA,NA,Steven Hancock,NA,NA,NA
-Iowa,2013,December,2013-12-23,FDCF,NA,NA,Dennis Lass,NA,NA,NA
-Iowa,2014,January,2014-01-08,IMCC,NA,NA,Steven Daniels,NA,NA,NA
-Iowa,2014,January,2014-01-15,1JD,NA,NA,James Young,NA,NA,NA
-Iowa,2014,January,2014-01-21,NCF,NA,NA,Willie Mercer,NA,NA,NA
-Iowa,2014,February,2014-02-19,2JD,NA,NA,Clyde Parker,NA,NA,NA
-Iowa,2014,March,2014-03-09,IMCC,NA,NA,Allen Hall,NA,NA,NA
-Iowa,2014,March,2014-03-18,ISP,NA,NA,James Taylor,NA,NA,NA
-Iowa,2014,May,2014-05-11,IMCC,NA,NA,Hani Khouri,NA,NA,NA
-Iowa,2014,May,2014-05-17,IMCC,NA,NA,Lonnie Griffiths,NA,NA,NA
-Iowa,2014,May,2014-05-31,IMCC,NA,NA,Scott Mankin,NA,NA,NA
-Iowa,2014,June,2014-06-09,IMCC,NA,NA,Earl Kirklin,NA,NA,NA
-Iowa,2014,August,2014-08-06,IMCC,NA,NA,Kenneth Pappas,NA,NA,NA
-Iowa,2014,September,2014-09-04,IMCC,NA,NA,Gary Good,NA,NA,NA
-Iowa,2014,September,2014-09-05,IMCC,NA,NA,Lewis Grant,NA,NA,NA
-Iowa,2014,October,2014-10-08,ISP,NA,NA,Michael Titus,NA,NA,NA
-Iowa,2014,October,2014-10-17,ASP,NA,NA,Darrell Starkey,NA,NA,NA
-Iowa,2014,November,2014-11-05,ISP,NA,NA,Jimmy Gordon,NA,NA,NA
-Iowa,2014,November,2014-11-25,IMCC,NA,NA,Kenneth Bod,NA,NA,NA
-Iowa,2014,December,2014-12-05,ICC,NA,NA,James Brock,NA,NA,NA
-Iowa,2015,January,2015-01-03,IMCC,NA,NA,Leroy Basham,NA,NA,NA
-Iowa,2015,January,2015-01-03,ISP,NA,NA,Leonard Berg,NA,NA,NA
-Iowa,2015,February,2015-02-04,4JD,NA,NA,Carter Bennett,NA,NA,NA
-Iowa,2015,February,2015-02-20,IMCC,NA,NA,Lucas Faulkner,NA,NA,NA
-Iowa,2015,March,2015-03-17,ISP,NA,NA,Robert Padgett,NA,NA,NA
-Iowa,2015,March,2015-03-23,ICIW,NA,NA,Rebecca Beyer,NA,NA,NA
-Iowa,2015,April,2015-04-03,IMCC,NA,NA,Steven Helfer,NA,NA,NA
-Iowa,2015,April,2015-04-26,IMCC,NA,NA,Michael Rouse,NA,NA,NA
-Iowa,2015,May,2015-05-13,ISP,NA,NA,Christopher Lujan,NA,NA,NA
-Iowa,2015,May,2015-05-23,IMCC,NA,NA,William Crawford,NA,NA,NA
-Iowa,2015,June,2015-06-24,IMCC,NA,NA,Mahendrakumar Paterl,NA,NA,NA
-Iowa,2015,August,2015-08-17,IMCC,NA,NA,William Bloedel,NA,NA,NA
-Iowa,2015,September,2015-09-20,IMCC,NA,NA,Raymond Harker,NA,NA,NA
-Iowa,2015,September,2015-09-25,IMCC,NA,NA,Donald Newman,NA,NA,NA
-Iowa,2015,October,2015-10-08,IMCC,NA,NA,Harvey Spence,NA,NA,NA
-Iowa,2015,October,2015-10-10,CCF,NA,NA,Todd Hamann,NA,NA,NA
-Iowa,2015,November,2015-11-09,5JD,NA,NA,Michael Chandler,NA,NA,NA
-Iowa,2015,November,2015-11-12,ASP,NA,NA,Lawrence Dawson,NA,NA,NA
-Iowa,2015,November,2015-11-24,IMCC,NA,NA,Estell Dunsmore,NA,NA,NA
-Iowa,2015,December,2015-12-01,2JD,NA,NA,Dacota Witham,NA,NA,NA
-Iowa,2015,December,2015-12-23,IMCC,NA,NA,John Wilson,NA,NA,NA
-Iowa,2015,December,2015-12-25,IMCC,NA,NA,Dennis Rchards,NA,NA,NA
-Iowa,2016,January,2016-01-16,ISP,NA,NA,Robert Kern,NA,NA,NA
-Iowa,2016,January,2016-01-24,MPCF,NA,NA,Mark Olsen,NA,NA,NA
-Iowa,2016,January,2016-01-26,IMCC,NA,NA,Justin Robuck,NA,NA,NA
-Iowa,2016,February,2016-02-02,3JD,NA,NA,Mario Santamaria,NA,NA,NA
-Iowa,2016,February,2016-02-03,IMCC,NA,NA,Matthew Irving,NA,NA,NA
-Iowa,2016,February,2016-02-04,IMCC,NA,NA,David Freeman,NA,NA,NA
-Iowa,2016,February,2016-02-07,IMCC,NA,NA,George Menter,NA,NA,NA
-Iowa,2016,February,2016-02-11,IMCC,NA,NA,Jerry Dillinger,NA,NA,NA
-Iowa,2016,March,2016-03-02,CCF,NA,NA,Gregory Simmons,NA,NA,NA
-Iowa,2016,March,2016-03-21,ASP,NA,NA,Carroll Calhon,NA,NA,NA
-Iowa,2016,April,2016-04-09,MPCF,NA,NA,William Johnson,NA,NA,NA
-Iowa,2016,May,2016-05-02,IMCC,NA,NA,Clayton Manning,NA,NA,NA
-Iowa,2016,May,2016-05-11,IMCC,NA,NA,Roland Fulton,NA,NA,NA
-Iowa,2016,May,2016-05-16,IMCC,NA,NA,Myron Boyd,NA,NA,NA
-Iowa,2016,May,2016-05-31,IMCC,NA,NA,Donald Mishler,NA,NA,NA
-Iowa,2016,June,2016-06-03,NCF,NA,NA,Dennis Brown,NA,NA,NA
-Iowa,2016,June,2016-06-09,IMCC,NA,NA,Wayne Gander,NA,NA,NA
-Iowa,2016,June,2016-06-19,IMCC,NA,NA,Steven Cooley,NA,NA,NA
-Iowa,2016,June,2016-06-19,IMCC,NA,NA,Jeffrey Rumelhart,NA,NA,NA
-Iowa,2016,July,2016-07-11,IMCC,NA,NA,Michael Perkovich,NA,NA,NA
-Iowa,2016,July,2016-07-17,6JD,NA,NA,Jesse Aarhus,NA,NA,NA
-Iowa,2016,August,2016-08-06,CCF,NA,NA,Christopher Langley,NA,NA,NA
-Iowa,2016,September,2016-09-15,IMCC,NA,NA,Christopher Cretin,NA,NA,NA
-Iowa,2016,September,2016-09-18,IMCC,NA,NA,Albert Winfrey,NA,NA,NA
-Iowa,2016,October,2016-10-02,ASP,NA,NA,Atwell Conner,NA,NA,NA
-Iowa,2016,October,2016-10-17,ISP,NA,NA,Elbert Hinkle,NA,NA,NA
-Iowa,2016,October,2016-10-27,NCF,NA,NA,Ernest Christensen,NA,NA,NA
-Iowa,2016,October,2016-10-31,IMCC,NA,NA,Michael Whitworth,NA,NA,NA
-Iowa,2016,November,2016-11-13,IMCC,NA,NA,Henry Schmidt,NA,NA,NA
-Iowa,2016,December,2016-12-02,IMCC,NA,NA,George Kimble,NA,NA,NA
-Iowa,2016,December,2016-12-21,ICC,NA,NA,Justin Kestner,NA,NA,NA
-Iowa,2017,December,2017-12-28,IOWA MEDICAL AND CLASSIFICATION CENTER,79,M,Eddie Chest,NA,Natural Causes,Chronic Illness
-Iowa,2017,December,2017-12-20,IOWA STATE PENITENTIARY,73,M,Robert Anthony Williams,Hospice Room,Natural Causes,Chronic Illness
-Iowa,2017,November,2017-11-27,NA,30,M,Adam Andrew Nolz,University of Iowa Hospitals and Clinics,Unknown Causes,Medical Emergency
-Iowa,2017,November,2017-11-05,IOWA MEDICAL AND CLASSIFICATION CENTER,83,M,Robert Milton Inman,Hospice Room,Natural Causes,Chronic Illness
-Iowa,2017,October,2017-10-21,ANAMOSA STATE PENITENTIARY,63,M,Raymond Metz,Hospice Room,Natural Causes,NA
-Iowa,2017,October,2017-10-11,IOWA MEDICAL AND CLASSIFICATION CENTER,74,M,Robert Jean Robinson,Hospice Room,Natural Causes,Chronic Illness
-Iowa,2017,September,2017-09-29,IOWA MEDICAL AND CLASSIFICATION CENTER,58,M,Randy Lee Noland,Hospice Room,Natural Causes,Chronic Illness
-Iowa,2017,July,2017-07-22,NA,67,M,Paeng Saengaroun,NA,Natural Causes,NA
-Iowa,2017,May,2017-05-23,IOWA MEDICAL AND CLASSIFICATION CENTER,67,M,James William Allen,Hospice Room,NA,Chronic Illness
-Iowa,2017,March,2017-03-21,IOWA STATE PENITENTIARY,72,M,Lawrence T Gladson,Hospice Room,NA,Chronic Illness
-Iowa,2017,March,2017-03-18,IOWA MEDICAL AND CLASSIFICATION CENTER,26,M,Ryan Stephen Bordenaro,NA,Suicide,NA
-Iowa,2017,March,2017-03-17,ANAMOSA STATE PENITENTIARY,50,M,Wayne Shelton,Hospice Room,NA,Chronic Illness
-Iowa,2017,March,2017-03-03,IOWA MEDICAL AND CLASSIFICATION CENTER,52,M,Joseph J Koncel,Hospice Room,NA,Chronic Illness
-Iowa,2018,December,2018-12-31,NA,56,F,Anna Marie Bunch,Mercy Medical Center,Not Listed,Medical Emergency
-Iowa,2018,December,2018-12-31,IOWA MEDICAL AND CLASSIFICATION CENTER,64,M,Kevin Richard Johnson,NA,Natural Causes,Chronic Illness
-Iowa,2018,December,2018-12-22,NA,28,M,Ryan Nicholas Trowbridge,University of Iowa Hospitals and Clinics,Suicide,Suspected Suicide
-Iowa,2018,December,2018-12-16,NA,61,M,Charles Edward Lasage,University of Iowa Hospital,NA,Chronic Illness
-Iowa,2018,December,2018-12-14,IOWA MEDICAL AND CLASSIFICATION CENTER,52,M,Paul Scott Kissel,NA,Unknown Causes,Not considered suspicious
-Iowa,2018,November,2018-11-09,IOWA MEDICAL AND CLASSIFICATION CENTER,69,M,Henry Lee Whitfield,NA,Natural Causes,Chronic Illness
-Iowa,2018,November,2018-11-05,NA,79,M,Donald Warner Brammer,University of Iowa Hospital,Natural Causes,Chronic Illness
-Iowa,2018,November,2018-11-03,NA,65,M,Russell Kenneth Fidler,University of Iowa Hospitals and Clinics,Natural Causes,Medical Emergency
-Iowa,2018,October,2018-10-15,NA,31,M,Matthew Earl Rausch,Unity Point Hospital,Suicide,Suspected Suicide
-Iowa,2018,October,2018-10-08,NA,53,M,Michael Allen Kennedy,Unity Point Emergency Room,NA,Medical Emergency
-Iowa,2018,September,2018-09-30,NA,73,M,Robert James Carter,Ft. Madison Community Hospital,NA,Medical Emergency
-Iowa,2018,August,2018-08-20,DAVENPORT WORK RELEASE CENTER,63,M,James Olyn Shell Jr,NA,NA,Medical Emergency - not considered suspicious
-Iowa,2018,August,2018-08-12,IOWA MEDICAL AND CLASSIFICATION CENTER,74,M,Robert Charles Richey,Hospice Room,Natural Causes,Chronic Illness
-Iowa,2018,July,2018-07-30,IOWA MEDICAL AND CLASSIFICATION CENTER,69,M,Gary Dean Nixon,University of Iowa Hospitals and Clinics,NA,Chronic Illness
-Iowa,2018,July,2018-07-26,IOWA MEDICAL AND CLASSIFICATION CENTER,79,M,Ralph Phillip Carlson,Hospice Room,NA,Chronic Illness
-Iowa,2018,July,2018-07-14,IOWA MEDICAL AND CLASSIFICATION CENTER,62,M,Harold Leroy Page,Hospice Room,Natural Causes,Chronic Illness
-Iowa,2018,June,2018-06-30,NA,58,F,Yvonne Myrna Joshua,University of Iowa Hospital,NA,Acute medical complications
-Iowa,2018,May,2018-05-05,IOWA STATE PENITENTIARY,66,M,Lacy Laverne Kelley,NA,NA,Chronic Illness
-Iowa,2018,April,2018-04-04,IOWA MEDICAL AND CLASSIFICATION CENTER,65,M,Thomas James Morney,NA,Natural Causes,Chronic Illness
-Iowa,2018,February,2018-02-01,NA,29,M,Rashod Develt Aldridge,University of Iowa Hospitals and Clinics,NA,"Cardiac arrest, chronic disease, and flu"
-Iowa,2019,December,2019-12-18,IOWA CORRECTIONAL INSTITUTE FOR WOMEN,27,F,Kimerly Nicole Battle,NA,Suicide,Suspected Suicide
-Iowa,2019,November,2019-11-13,IOWA MEDICAL AND CLASSIFICATION CENTER,71,M,Irvin Eugene Johnson,NA,Natural Causes,NA
-Iowa,2019,October,2019-10-17,CLARINDA CORRECTIONAL FACILITY,69,M,Thomas Earl Seehan,NA,Natural Causes,Pending investigation by state medical examiner
-Iowa,2019,August,2019-08-29,NA,67,M,George Jochem Hettinga,University of Iowa Hospitals and Clinics,NA,Chronic Illness
-Iowa,2019,February,2019-02-23,IOWA MEDICAL AND CLASSIFICATION CENTER,54,M,David Gene Lewis Jr,Hospice Room,Natural Causes,NA
-Iowa,2019,August,2019-08-04,ANAMOSA STATE PENITENTIARY,51,M,Roger Scott Sellers,NA,NA,Chronic Illness
-Iowa,2019,July,2019-07-19,NA,70,M,Martin Paul Wilkinson,University of Iowa Hospitals and Clinics,NA,Chronic Illness
-Iowa,2019,July,2019-07-13,ANAMOSA STATE PENITENTIARY,52,M,Wayne Eugene Sinclair,NA,Suicide,Suspected Suicide
-Iowa,2019,July,2019-07-06,NA,59,M,Larry Gene Nugent,University of Iowa Hospitals and Clinics,Natural Causes,NA
-Iowa,2019,July,2019-07-09,MOUNT PLEASANT CORRECTIONAL FACILITY,63,M,Kevin Todd Bishop,University of Iowa Hospitals and Clinics,NA,NA
-Iowa,2019,May,2019-05-22,NA,74,M,Albert Lemoine Collins,University of Iowa Hospitals and Clinics,Natural Causes,NA
-Iowa,2019,May,2019-05-14,ANAMOSA STATE PENITENTIARY,52,M,Calvin Pearson,Jones Regional Medical Center,Suicide,Suspected Suicide
-Iowa,2019,May,2019-05-02,IOWA CORRECTIONAL INSTITUTE FOR WOMEN,63,F,Debi Olson,NA,Natural Causes,Chronic Illness
-Iowa,2019,March,2019-03-25,NA,88,M,Richard Edison Johnson,University of Iowa Hospitals and Clinics,Natural Causes,NA
-Iowa,2019,March,2019-03-06,IOWA STATE PENITENTIARY,71,M,Charles Edward Robinson,Hospice Room,Natural Causes,Terminal Illness
-Iowa,2020,December,2020-12-26,NEWTON CORRECTIONAL FACILITY,77,M,Ronald James Calvert,NA,Not Listed,Medical Emergency
-Iowa,2020,December,2020-12-20,IOWA STATE PENITENTIARY,58,M,Dale Dean Viers,University of Iowa Hospitals and Clinics,NA,COVID-19 and other preexisting medical conditions
-Iowa,2020,December,2020-12-10,IOWA STATE PENITENTIARY,63,M,Mark Steven Bailey,University of Iowa Hospitals and Clinics,NA,COVID-19 and other preexisting medical conditions
-Iowa,2020,December,2020-12-05,ANAMOSA STATE PENITENTIARY,64,M,Larry Donell Whaley,University of Iowa Hospitals and Clinics,NA,COVID-19 and other preexisting medical conditions
-Iowa,2020,November,2020-11-23,ANAMOSA STATE PENITENTIARY,68,M,Frederick William Lewis,University of Iowa Hospitals and Clinics,NA,COVID-19 and other preexisting medical conditions
-Iowa,2020,November,2020-11-22,ANAMOSA STATE PENITENTIARY,59,M,Timothy Christopher Bryant,University of Iowa Hospitals and Clinics,NA,COVID-19 and other preexisting medical conditions
-Iowa,2020,November,2020-11-17,ANAMOSA STATE PENITENTIARY,64,M,Robert William Sirovy,University of Iowa Hospitals and Clinics,NA,COVID-19 and other preexisting medical conditions
-Iowa,2020,November,2020-11-16,ANAMOSA STATE PENITENTIARY,59,M,Jonathan William Strain,University of Iowa Hospitals and Clinics,NA,COVID-19 and other preexisting medical conditions
-Iowa,2020,November,2020-11-14,CLARINDA CORRECTIONAL FACILITY,72,M,Gene Edward Dryer,University of Iowa Hospitals and Clinics,NA,COVID-19 and other preexisting medical conditions
-Iowa,2020,November,2020-11-11,CLARINDA CORRECTIONAL FACILITY,28,M,Christopher James Rios,University of Iowa Hospitals and Clinics,Suicide,Suspected Suicide
-Iowa,2020,November,2020-11-08,ANAMOSA STATE PENITENTIARY,70,M,David Allen Streets,University of Iowa Hospitals and Clinics,NA,COVID-19 and other preexisting medical conditions
-Iowa,2020,November,2020-11-03,IOWA MEDICAL AND CLASSIFICATION CENTER,88,M,Clarence Christian Miller,NA,Natural Causes,Not COVID-19 related
-Iowa,2020,November,2020-11-02,NA,85,M,Freddie Owen Drinkard,University of Iowa Hospitals and Clinics,Natural Causes,Not COVID-19 related
-Iowa,2020,October,2020-10-22,NA,47,M,James Glen Merical,Unity Point Hospital,Not Listed,Medical Emergency
-Iowa,2020,September,2020-09-08,IOWA MEDICAL AND CLASSIFICATION CENTER,77,M,Richard Leroy Peters,NA,NA,COVID-19 and other preexisting medical conditions
-Iowa,2020,August,2020-08-07,IOWA MEDICAL AND CLASSIFICATION CENTER,75,M,David Michael Powers,NA,Natural Causes,Not COVID-19 related
-Iowa,2020,July,2020-07-27,NA,48,M,Timothy Louis McGhee Jr,University of Iowa Hospital,NA,COVID-19 and other preexisting medical conditions
-Iowa,2020,July,2020-07-25,IOWA MEDICAL AND CLASSIFICATION CENTER,70,M,Dennis Ray Meyer,NA,Not Listed,Medical Emergency
-Iowa,2020,July,2020-07-11,FORT DODGE CORRECTIONAL FACILITY,62,M,Ronald Eugene Holdsworth,Unity Point Hospital,NA,COVID-19 and other preexisting medical conditions
-Iowa,2020,July,2020-07-06,FORT DODGE CORRECTIONAL FACILITY,71,M,Ray Allen Vanlengen,University of Iowa Hospital,NA,COVID-19 and other preexisting medical conditions
-Iowa,2020,June,2020-06-04,IOWA MEDICAL AND CLASSIFICATION CENTER,64,M,Dennis Ace Butrick,NA,Natural Causes,Not COVID-19 related
-Iowa,2020,May,2020-05-17,NEWTON CORRECTIONAL FACILITY,65,M,Roger Paul Brierly,Mercy Hospital,Natural Causes,NA
-Iowa,2020,April,2020-04-28,NA,58,M,Timothy Leroy Douglas,University of Iowa Hospitals and Clinics,Natural Causes,Not COVID-19 related
-Iowa,2020,April,2020-04-18,IOWA MEDICAL AND CLASSIFICATION CENTER,61,M,Roni Kachanes,Hospice Room,Natural Causes,NA
-Iowa,2020,April,2020-04-07,NA,69,M,Randal Ray Norgaard,University of Iowa Hospitals and Clinics,Natural Causes,NA
-Iowa,2020,March,2020-03-04,NA,71,M,Everett Roy Lyon,Great River Medical Center,Natural Causes,Heart Attack
-Iowa,2020,February,2020-02-07,IOWA MEDICAL AND CLASSIFICATION CENTER,39,M,Justin Lee Dewitt,NA,Pending Investigation,NA
-Iowa,2020,January,2020-01-03,NA,59,M,Delbert Duane Anderson,University of Iowa Hospitals and Clinics,Natural Causes,NA
-Iowa,2020,January,2020-01-01,NA,72,M,Rick Fay Bird,University of Iowa Hospitals and Clinics,Natural Causes,NA
-Iowa,2021,December,2021-12-26,IOWA MEDICAL AND CLASSIFICATION CENTER,54,M,Kenneth Ray Sharp,NA,Natural Causes,Chronic Illness
-Iowa,2021,December,2021-12-08,IOWA STATE PENITENTIARY,84,M,Warren John Nutter,Hospice Room,Natural Causes,Chronic Illness
-Iowa,2021,October,2021-10-22,NA,46,M,Timothy Keith Palmer,University of Iowa Hospitals and Clinics,Not Listed,Prolonged Illness (not COVID-19 related)
-Iowa,2021,October,2021-10-10,IOWA CORRECTIONAL INSTITUTE FOR WOMEN,59,F,Stephanie Leigh Davis,NA,Not Listed,NA
-Iowa,2021,September,2021-09-28,IOWA STATE PENITENTIARY,60,M,Stephen Lee Tryon,Hospice Room,NA,Cancer
-Iowa,2021,September,2021-09-18,ANAMOSA STATE PENITENTIARY,69,M,Robert David Wilcoxen,NA,Not Listed,NA
-Iowa,2021,September,2021-09-15,IOWA STATE PENITENTIARY,57,M,Ray Gene Triplett,University of Iowa Hospitals and Clinics,NA,COVID-19 and other preexisting medical conditions
-Iowa,2021,September,2021-09-04,IOWA STATE PENITENTIARY,81,M,Phillip Benito Cuevas,Hospice Room,NA,COVID-19 and other preexisting medical conditions
-Iowa,2021,August,2021-08-27,IOWA STATE PENITENTIARY,61,M,James Lee Blair,University of Iowa Hospitals and Clinics,NA,COVID-19 and other preexisting medical conditions
-Iowa,2021,August,2021-08-25,IOWA MEDICAL AND CLASSIFICATION CENTER,74,M,Ronald K Hendricks,NA,NA,Cancer
-Iowa,2021,August,2021-08-16,CLARINDA CORRECTIONAL FACILITY,32,M,Joshua Michael Pierce,University of Nebraska Medical Center,Pending Investigation,The cause of death will be determined by the State of Iowa Medical Examiner's Office
-Iowa,2021,August,2021-08-07,IOWA MEDICAL AND CLASSIFICATION CENTER,28,M,Anthony William Geltz,NA,Suicide,NA
-Iowa,2021,August,2021-08-03,NA,47,M,Chico Mario Newman,Jones Regional Medical Center,Not Listed,Medical Emergency
-Iowa,2021,July,2021-07-29,IOWA MEDICAL AND CLASSIFICATION CENTER,70,M,Michael John Ryan,NA,Natural Causes,NA
-Iowa,2021,July,2021-07-27,IOWA MEDICAL AND CLASSIFICATION CENTER,75,M,Vincent Duncan,NA,Natural Causes,NA
-Iowa,2021,July,2021-07-19,IOWA STATE PENITENTIARY,66,M,Ular Lee Winfun,NA,Natural Causes,NA
-Iowa,2021,July,2021-07-18,IOWA MEDICAL AND CLASSIFICATION CENTER,75,M,Carmon Lyon Lyddon,NA,Natural Causes,NA
-Iowa,2021,May,2021-05-25,NEWTON CORRECTIONAL FACILITY,59,M,Tracy Lee Earles,Mercy One Hospital,Not Listed,Medical Emergency
-Iowa,2021,May,2021-05-28,IOWA STATE PENITENTIARY,87,M,Robert Overstreet Sr.,NA,NA,NA
-Iowa,2021,May,2021-05-21,IOWA STATE PENITENTIARY,54,M,Christopher Michael Phipps Sr,University of Iowa Hospitals and Clinics,Natural Causes,NA
-Iowa,2021,May,2021-05-19,ANAMOSA STATE PENITENTIARY,68,M,Michael Cecil Craney,NA,Natural Causes,Not COVID-19 related
-Iowa,2021,May,2021-05-12,CLARINDA CORRECTIONAL FACILITY,80,M,Ronald Harris Brown,NA,Suicide,Suspected Suicide
-Iowa,2021,April,2021-04-02,ANAMOSA STATE PENITENTIARY,44,M,Terry Scott Dudley,University of Iowa Hospitals and Clinics,Suicide,Suspected Suicide
-Iowa,2021,April,2021-04-07,IOWA MEDICAL AND CLASSIFICATION CENTER,81,M,James Dean Blum,University of Iowa Hospitals and Clinics,Natural Causes,NA
-Iowa,2021,March,2021-03-05,IOWA MEDICAL AND CLASSIFICATION CENTER,73,M,Harry Edward Pederson,NA,Natural Causes,Not COVID-19 related
-Iowa,2021,February,2021-02-23,NEWTON CORRECTIONAL FACILITY,63,M,Kevin John McDonnell,University of Iowa Hospitals and Clinics,NA,COVID-19 and other preexisting medical conditions
-Iowa,2021,February,2021-02-08,ANAMOSA STATE PENITENTIARY,69,M,Bryan Kirby Barrett,NA,NA,Medical Emergency
-Iowa,2021,February,2021-02-04,IOWA MEDICAL AND CLASSIFICATION CENTER,63,M,Steven James Van Riper,University of Iowa Hospitals and Clinics,NA,COVID-19 and other preexisting medical conditions
-Iowa,2021,January,2021-01-31,IOWA MEDICAL AND CLASSIFICATION CENTER,72,M,Robert Frank Taylor,University of Iowa Hospitals and Clinics,NA,COVID-19 and other preexisting medical conditions
-Iowa,2021,January,2021-01-28,IOWA MEDICAL AND CLASSIFICATION CENTER,79,M,James Charles Kleppe,NA,NA,COVID-19 and other preexisting medical conditions
-Iowa,2021,January,2021-01-26,IOWA MEDICAL AND CLASSIFICATION CENTER,89,M,Harold Arthur Duncan,NA,NA,COVID-19 and other preexisting medical conditions
-Iowa,2021,January,2021-01-07,FORT DODGE CORRECTIONAL FACILITY,67,M,Jessie Joseph Gonzales,University of Iowa Hospitals and Clinics,NA,COVID-19 and other preexisting medical conditions
-Iowa,2021,January,2021-01-08,IOWA MEDICAL AND CLASSIFICATION CENTER,70,M,William James Gibson,NA,Natural Causes,Not COVID-19 related
+State,Year,Month,Death.Date,Facility,Full.Name,Last.Name,First.Name,Middle.Name,Sex,Race,Ethnicity,Death.Age,Circumstance.General,Circumstance.Specific,Location
+Iowa,2001,January,2001-01-11T00:00:00Z,5JD,Dirk McEnearney,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2001,February,2001-02-05T00:00:00Z,4JD,Richard Henriksen,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2001,July,2001-07-07T00:00:00Z,4JD,Jamie Piepe,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2001,August,2001-08-14T00:00:00Z,7JD,Darell Williams,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2001,October,2001-10-10T00:00:00Z,5JD,Allison Fausett,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2002,July,2002-07-26T00:00:00Z,5JD,John Miller,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2002,October,2002-10-18T00:00:00Z,4JD,Steven Blakeman,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2002,October,2002-10-28T00:00:00Z,IMCC,Gary Snow,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2002,November,2002-11-17T00:00:00Z,ISP,Terry Alderman,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2002,November,2002-11-25T00:00:00Z,CCF,William Hook,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2002,November,2002-11-27T00:00:00Z,IMCC,Robert Thompson,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2003,January,2003-01-01T00:00:00Z,ISP,Isaiah Gathright,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2003,January,2003-01-07T00:00:00Z,ASP,Carroll Sydness,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2003,March,2003-03-23T00:00:00Z,ASP,Raymond Love,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2003,April,2003-04-13T00:00:00Z,ASP,Warren Mundy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2003,May,2003-05-03T00:00:00Z,ISP,Michael Madigan,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2003,May,2003-05-23T00:00:00Z,IMCC,Joseph Hargrave,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2003,June,2003-06-22T00:00:00Z,7JD,James Gallion,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2003,June,2003-06-27T00:00:00Z,IMCC,Dexter Hughes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2003,July,2003-07-22T00:00:00Z,IMCC,Martin Halbach,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2003,October,2003-10-01T00:00:00Z,ICIW,Marsha Mattson,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2003,October,2003-10-11T00:00:00Z,1JD,Derrick Haverland,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2003,November,2003-11-09T00:00:00Z,ISP,Ralph Reynolds,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2003,December,2003-12-04T00:00:00Z,6JD,Robert Hodgkin,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2003,December,2003-12-24T00:00:00Z,IMCC,Bryan May,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2003,December,2003-12-27T00:00:00Z,ISP,Jimmy James,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2004,January,2004-01-15T00:00:00Z,IMCC,Wilfred Rice,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2004,February,2004-02-13T00:00:00Z,ISP,Kenneth Mattox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2004,March,2004-03-01T00:00:00Z,NCF,Lloyd Urich,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2004,March,2004-03-13T00:00:00Z,IMCC,Lee Sheets,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2004,June,2004-06-29T00:00:00Z,1JD,Roger Anderson,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2004,July,2004-07-12T00:00:00Z,ISP,Jack Evans,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2004,August,2004-08-07T00:00:00Z,3JD,Leticia Flores,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2004,August,2004-08-24T00:00:00Z,ISP,Alan Leak,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2004,August,2004-08-29T00:00:00Z,MPCF,Doreen Kneipp,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2004,September,2004-09-04T00:00:00Z,ISP,Dennis Rosenbloom,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2004,October,2004-10-02T00:00:00Z,ISP,Kenneth Gordon,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2004,October,2004-10-04T00:00:00Z,IMCC,Vertis Garnmeister,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2004,October,2004-10-10T00:00:00Z,1JD,Eli Conaway,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2004,October,2004-10-17T00:00:00Z,IMCC,Robert Jackson,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2004,October,2004-10-25T00:00:00Z,MPCF,Larry Bowdry,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2004,November,2004-11-01T00:00:00Z,ISP,Nathan Watson,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2004,November,2004-11-06T00:00:00Z,IMCC,Neal Voelkers,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2004,December,2004-12-11T00:00:00Z,ISP,Christopher Greer,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2005,January,2005-01-22T00:00:00Z,FDCF,Irvin Halterman,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2005,January,2005-01-27T00:00:00Z,IMCC,Richard Sheldon,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2005,January,2005-01-28T00:00:00Z,ASP,Ralph Doughty,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2005,February,2005-02-07T00:00:00Z,MPCF,Jason Mahony,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2005,February,2005-02-19T00:00:00Z,ASP,Larry Davis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2005,March,2005-03-02T00:00:00Z,ISP,Herbert Schnee,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2005,March,2005-03-15T00:00:00Z,IMCC,Frank Chewning,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2005,March,2005-03-15T00:00:00Z,ISP,Merlin Long,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2005,April,2005-04-24T00:00:00Z,ASP,Thomas Cooper,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2005,May,2005-05-10T00:00:00Z,ISP,James Green,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2005,May,2005-05-16T00:00:00Z,ISP,Gayno Smith,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2005,May,2005-05-17T00:00:00Z,ASP,Blaire Cockerham,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2005,October,2005-10-04T00:00:00Z,IMCC,Jerrold Baker,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2005,October,2005-10-10T00:00:00Z,ICIW,Kristi Anderson,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2005,October,2005-10-12T00:00:00Z,ASP,Charles Nelson,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2005,October,2005-10-14T00:00:00Z,ISP,Jerry Emerson,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2005,October,2005-10-17T00:00:00Z,ASP,Robert Fletcher,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2005,November,2005-11-10T00:00:00Z,ISP,Angelo Palmer,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2005,November,2005-11-15T00:00:00Z,MPCF,Clement Bogan,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2005,December,2005-12-06T00:00:00Z,ISP,Joseph Fowler,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2006,February,2006-02-14T00:00:00Z,ISP,Albert Galvan,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2006,March,2006-03-09T00:00:00Z,IMCC,Lonnie Rogers,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2006,March,2006-03-18T00:00:00Z,ASP,Robert Mullery,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2006,April,2006-04-12T00:00:00Z,IMCC,Theodore Tolan,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2006,April,2006-04-15T00:00:00Z,5JD,Leonard Bucklin,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2006,June,2006-06-01T00:00:00Z,NCF,Timothy Burrows,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2006,June,2006-06-10T00:00:00Z,CCF,Anthony Morris,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2006,June,2006-06-21T00:00:00Z,CCF,Conrad Taylor,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2006,August,2006-08-16T00:00:00Z,ISP,Esley Nock,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2006,August,2006-08-31T00:00:00Z,IMCC,Albert Conklin,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2006,September,2006-09-09T00:00:00Z,ISP,George Hall,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2006,September,2006-09-24T00:00:00Z,5JD,Calvin Coplend,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2006,October,2006-10-25T00:00:00Z,ICC,Charles Gully,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2006,October,2006-10-25T00:00:00Z,ISP,Charles Gully,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2006,December,2006-12-29T00:00:00Z,ASP,Jesus Moreno,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2007,January,2007-01-15T00:00:00Z,MPCF,Stanley Erickson,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2007,February,2007-02-24T00:00:00Z,ISP,Robert Kearney,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2007,March,2007-03-11T00:00:00Z,ISP,Richard Wheeler,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2007,March,2007-03-16T00:00:00Z,8JD,Paul Betzing,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2007,April,2007-04-05T00:00:00Z,ASP,Maurice Wilson,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2007,April,2007-04-09T00:00:00Z,ISP,Stephen Gaffney,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2007,May,2007-05-04T00:00:00Z,1JD,Gary Reed,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2007,June,2007-06-15T00:00:00Z,1JD,Peggy Johnson,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2007,June,2007-06-19T00:00:00Z,NCF,Clifton Townsell,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2007,June,2007-06-24T00:00:00Z,ICIW,Patricia Williams,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2007,June,2007-06-27T00:00:00Z,IMCC,Edward Henning,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2007,July,2007-07-03T00:00:00Z,2JD,Ricky Glenney,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2007,August,2007-08-10T00:00:00Z,MPCF,Willis Shepherd,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2007,August,2007-08-26T00:00:00Z,ISP,Robert Knupp,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2007,August,2007-08-31T00:00:00Z,5JD,Ronald Humphrey,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2007,September,2007-09-04T00:00:00Z,IMCC,Donald Corwin,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2007,September,2007-09-09T00:00:00Z,IMCC,Richard Bostock,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2007,September,2007-09-16T00:00:00Z,ASP,Leslie Hollenbeck,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2007,November,2007-11-08T00:00:00Z,NCF,Ray Kelly,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2007,November,2007-11-23T00:00:00Z,7JD,Martha McClurg,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2007,December,2007-12-12T00:00:00Z,NCCF,Shane Olcott,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2007,December,2007-12-25T00:00:00Z,ISP,Ronald Ramsey,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2007,December,2007-12-30T00:00:00Z,ISP,David Rodamaker,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2008,January,2008-01-12T00:00:00Z,7JD,Solomon Stradt,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2008,January,2008-01-17T00:00:00Z,ISP,Billy Armento,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2008,January,2008-01-29T00:00:00Z,ASP,Norman Smith,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2008,January,2008-01-30T00:00:00Z,ISP,Joseph Garriott,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2008,February,2008-02-17T00:00:00Z,ISP,Ryan Wichhart,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2008,March,2008-03-18T00:00:00Z,IMCC,Steven Burg,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2008,March,2008-03-18T00:00:00Z,ISP,Ronald Brewer,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2008,March,2008-03-31T00:00:00Z,ASP,Larry Armstrong,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2008,April,2008-04-04T00:00:00Z,5JD,Theresa Ritter,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2008,May,2008-05-07T00:00:00Z,IMCC,Manuel Perez,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2008,May,2008-05-29T00:00:00Z,5JD,Joseph Taylor,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2008,June,2008-06-08T00:00:00Z,ISP,Dennis Sievert,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2008,June,2008-06-17T00:00:00Z,IMCC,Raymond Keever,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2008,June,2008-06-26T00:00:00Z,NCF,Stephen Mayerchak,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2008,July,2008-07-08T00:00:00Z,FDCF,Christopher Oaks,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2008,July,2008-07-09T00:00:00Z,IMCC,James Whited,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2008,July,2008-07-13T00:00:00Z,MPCF,John Martin,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2008,July,2008-07-21T00:00:00Z,ICC,Norbert Rundel,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2008,July,2008-07-30T00:00:00Z,ASP,Felton Riles-EL,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2008,August,2008-08-11T00:00:00Z,5JD,Jonathan Dings,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2008,August,2008-08-16T00:00:00Z,IMCC,Ronald Wood,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2008,September,2008-09-08T00:00:00Z,ASP,Gottlieb Baumann,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2008,September,2008-09-11T00:00:00Z,IMCC,Richard Lichty,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2008,September,2008-09-23T00:00:00Z,IMCC,Kim Mark,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2008,September,2008-09-28T00:00:00Z,IMCC,Gary Stattelman,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2008,October,2008-10-10T00:00:00Z,ISP,Jesse Masterson,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2008,December,2008-12-21T00:00:00Z,IMCC,Kent Junkman,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2009,January,2009-01-18T00:00:00Z,ISP,Michael Deere,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2009,January,2009-01-18T00:00:00Z,ISP,Michael Hood,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2009,January,2009-01-25T00:00:00Z,8JD,Kaleb Kaiser,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2009,February,2009-02-15T00:00:00Z,IMCC,Charles Haver,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2009,March,2009-03-11T00:00:00Z,IMCC,Walter Smith,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2009,April,2009-04-23T00:00:00Z,IMCC,Ralph Calhoon,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2009,April,2009-04-27T00:00:00Z,IMCC,Ronald Gates,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2009,April,2009-04-28T00:00:00Z,ISP,Fred Purdy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2009,May,2009-05-16T00:00:00Z,IMCC,Jeffery Larson,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2009,June,2009-06-05T00:00:00Z,IMCC,William Kunze,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2009,June,2009-06-25T00:00:00Z,ASP,William Parker,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2009,July,2009-07-02T00:00:00Z,ISP,Nath Inthaboun,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2009,July,2009-07-20T00:00:00Z,IMCC,Jackie Bendickson,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2009,September,2009-09-07T00:00:00Z,1JD,Jermaris West,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2009,September,2009-09-09T00:00:00Z,IMCC,Maury Wilkerson,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2009,September,2009-09-11T00:00:00Z,ISP,Tony Walker,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2009,September,2009-09-12T00:00:00Z,IMCC,Anthony Reese,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2009,October,2009-10-07T00:00:00Z,2JD,Angenaldo Bailey,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2009,October,2009-10-13T00:00:00Z,IMCC,Robert Armagost,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2009,November,2009-11-24T00:00:00Z,1JD,Chad Koelker,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2009,November,2009-11-27T00:00:00Z,4JD,Shane Niesen,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2010,January,2010-01-23T00:00:00Z,ISP,William Groscost,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2010,January,2010-01-28T00:00:00Z,IMCC,Ernest Robrts,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2010,April,2010-04-15T00:00:00Z,5JD,William Lane,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2010,April,2010-04-28T00:00:00Z,IMCC,Michael Burrows,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2010,May,2010-05-12T00:00:00Z,MPCF,James Kuehn,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2010,May,2010-05-19T00:00:00Z,IMCC,Luel Robinson,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2010,May,2010-05-22T00:00:00Z,1JD,Ryne Zellner,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2010,May,2010-05-28T00:00:00Z,7JD,Timmy Tucker,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2010,June,2010-06-14T00:00:00Z,CCF,Alfred Myre,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2010,June,2010-06-23T00:00:00Z,ASP,Timothy Sohler,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2010,June,2010-06-27T00:00:00Z,IMCC,Jeffrey Clark,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2010,June,2010-06-28T00:00:00Z,ASP,Kevin Barnes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2010,June,2010-06-28T00:00:00Z,IMCC,Kevin Barnes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2010,September,2010-09-01T00:00:00Z,IMCC,Steven Deitz,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2010,September,2010-09-01T00:00:00Z,ISP,Steven Deitz,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2010,October,2010-10-09T00:00:00Z,IMCC,Jeffrey Wittler,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2010,October,2010-10-09T00:00:00Z,ISP,Jeffrey Wittler,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2010,November,2010-11-20T00:00:00Z,IMCC,Gary Thompson,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2010,December,2010-12-15T00:00:00Z,1JD,Anthony Marchese,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2010,December,2010-12-18T00:00:00Z,IMCC,John Boland,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2010,December,2010-12-20T00:00:00Z,2JD,Edward Mitchell,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2011,January,2011-01-10T00:00:00Z,ASP,George Eason,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2011,March,2011-03-16T00:00:00Z,IMCC,Larry Agee,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2011,April,2011-04-07T00:00:00Z,NCF,Michael Lefler,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2011,April,2011-04-18T00:00:00Z,NCF,Allan Fattig,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2011,May,2011-05-08T00:00:00Z,IMCC,Robert Heather,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2011,May,2011-05-15T00:00:00Z,8JD,Gary Johnson,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2011,May,2011-05-20T00:00:00Z,IMCC,Richard Freitas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2011,May,2011-05-26T00:00:00Z,3JD,Heath Cooper,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2011,June,2011-06-09T00:00:00Z,ISP,Andrew Williams,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2011,June,2011-06-17T00:00:00Z,ICC,John Kyle,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2011,June,2011-06-23T00:00:00Z,IMCC,William Heskett,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2011,June,2011-06-27T00:00:00Z,ISP,David Penwell,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2011,July,2011-07-10T00:00:00Z,ISP,Jack Franks,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2011,July,2011-07-28T00:00:00Z,1JD,Jamie Pottebaum,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2011,August,2011-08-11T00:00:00Z,NCF,Leslie Richardson,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2011,August,2011-08-18T00:00:00Z,ISP,Larry Westlund,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2011,September,2011-09-03T00:00:00Z,IMCC,Dale White,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2011,December,2011-12-21T00:00:00Z,1JD,Raymond Pitz,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2012,January,2012-01-15T00:00:00Z,ISP,Dennis McKee,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2012,January,2012-01-15T00:00:00Z,NCF,Virgil Wilson,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2012,January,2012-01-21T00:00:00Z,1JD,Blaine Wright,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2012,January,2012-01-27T00:00:00Z,IMCC,Lonnie Porter,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2012,February,2012-02-15T00:00:00Z,5JD,David Trapp,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2012,February,2012-02-16T00:00:00Z,ISP,Hubert Hardesty,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2012,March,2012-03-07T00:00:00Z,CCF,Eris Barbieri,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2012,March,2012-03-18T00:00:00Z,IMCC,George Bennett,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2012,March,2012-03-25T00:00:00Z,ASP,Darrell Alderton,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2012,April,2012-04-03T00:00:00Z,IMCC,Roy Bales,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2012,April,2012-04-15T00:00:00Z,IMCC,Michael Howell,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2012,April,2012-04-18T00:00:00Z,7JD,Lee Tate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2012,May,2012-05-21T00:00:00Z,IMCC,Charles Parker,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2012,June,2012-06-07T00:00:00Z,IMCC,Danny Beason,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2012,June,2012-06-26T00:00:00Z,ISP,Rick Nebinger,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2012,June,2012-06-27T00:00:00Z,2JD,Devin Sexton,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2012,July,2012-07-16T00:00:00Z,IMCC,Robert Dicks,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2012,July,2012-07-26T00:00:00Z,1JD,Lisa Gallaher,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2012,July,2012-07-27T00:00:00Z,1JD,Elizabeth Ellsworth,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2012,August,2012-08-10T00:00:00Z,IMCC,Jeffrey Williamsen,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2012,August,2012-08-23T00:00:00Z,ASP,Kent Roe,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2012,August,2012-08-24T00:00:00Z,ASP,Jerry Proctor,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2012,September,2012-09-09T00:00:00Z,IMCC,Wilbert Eickert,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2012,September,2012-09-14T00:00:00Z,ISP,James Henderson,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2012,September,2012-09-18T00:00:00Z,IMCC,Robert Moore,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2012,September,2012-09-24T00:00:00Z,IMCC,Paul Blakey,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2012,October,2012-10-09T00:00:00Z,ICC,Wesley Betts,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2013,January,2013-01-23T00:00:00Z,ISP,Rick Nederhoff,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2013,February,2013-02-08T00:00:00Z,5JD,Thomas McNerney,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2013,March,2013-03-22T00:00:00Z,IMCC,Chantez Thornton,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2013,April,2013-04-14T00:00:00Z,IMCC,Laurence Johannsen,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2013,April,2013-04-17T00:00:00Z,ASP,Joshua Puffinbarger,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2013,April,2013-04-20T00:00:00Z,7JD,Louis Johnson,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2013,April,2013-04-25T00:00:00Z,FDCF,Larry Siemer,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2013,April,2013-04-25T00:00:00Z,IMCC,Larry Siemer,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2013,May,2013-05-31T00:00:00Z,IMCC,Brian Boyer,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2013,June,2013-06-01T00:00:00Z,IMCC,Alex Mabe,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2013,June,2013-06-26T00:00:00Z,ISP,Adam Moss,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2013,August,2013-08-20T00:00:00Z,CCF,Rodney Long,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2013,August,2013-08-20T00:00:00Z,IMCC,Rodney Long,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2013,August,2013-08-20T00:00:00Z,IMCC,Edward Marshall,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2013,September,2013-09-05T00:00:00Z,ASP,Howard Russell,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2013,September,2013-09-10T00:00:00Z,ICC,Robert Carter,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2013,October,2013-10-18T00:00:00Z,FDCF,Claude Middlebrooks,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2013,November,2013-11-16T00:00:00Z,IMCC,Vernon McEndree,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2013,November,2013-11-22T00:00:00Z,ISP,Mark Wallin,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2013,December,2013-12-15T00:00:00Z,MPCF,David Wise,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2013,December,2013-12-19T00:00:00Z,IMCC,Steven Hancock,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2013,December,2013-12-23T00:00:00Z,FDCF,Dennis Lass,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2014,January,2014-01-08T00:00:00Z,IMCC,Steven Daniels,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2014,January,2014-01-15T00:00:00Z,1JD,James Young,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2014,January,2014-01-21T00:00:00Z,NCF,Willie Mercer,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2014,February,2014-02-19T00:00:00Z,2JD,Clyde Parker,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2014,March,2014-03-09T00:00:00Z,IMCC,Allen Hall,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2014,March,2014-03-18T00:00:00Z,ISP,James Taylor,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2014,May,2014-05-11T00:00:00Z,IMCC,Hani Khouri,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2014,May,2014-05-17T00:00:00Z,IMCC,Lonnie Griffiths,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2014,May,2014-05-31T00:00:00Z,IMCC,Scott Mankin,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2014,June,2014-06-09T00:00:00Z,IMCC,Earl Kirklin,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2014,August,2014-08-06T00:00:00Z,IMCC,Kenneth Pappas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2014,September,2014-09-04T00:00:00Z,IMCC,Gary Good,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2014,September,2014-09-05T00:00:00Z,IMCC,Lewis Grant,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2014,October,2014-10-08T00:00:00Z,ISP,Michael Titus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2014,October,2014-10-17T00:00:00Z,ASP,Darrell Starkey,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2014,November,2014-11-05T00:00:00Z,ISP,Jimmy Gordon,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2014,November,2014-11-25T00:00:00Z,IMCC,Kenneth Bod,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2014,December,2014-12-05T00:00:00Z,ICC,James Brock,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2015,January,2015-01-03T00:00:00Z,IMCC,Leroy Basham,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2015,January,2015-01-03T00:00:00Z,ISP,Leonard Berg,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2015,February,2015-02-04T00:00:00Z,4JD,Carter Bennett,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2015,February,2015-02-20T00:00:00Z,IMCC,Lucas Faulkner,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2015,March,2015-03-17T00:00:00Z,ISP,Robert Padgett,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2015,March,2015-03-23T00:00:00Z,ICIW,Rebecca Beyer,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2015,April,2015-04-03T00:00:00Z,IMCC,Steven Helfer,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2015,April,2015-04-26T00:00:00Z,IMCC,Michael Rouse,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2015,May,2015-05-13T00:00:00Z,ISP,Christopher Lujan,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2015,May,2015-05-23T00:00:00Z,IMCC,William Crawford,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2015,June,2015-06-24T00:00:00Z,IMCC,Mahendrakumar Paterl,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2015,August,2015-08-17T00:00:00Z,IMCC,William Bloedel,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2015,September,2015-09-20T00:00:00Z,IMCC,Raymond Harker,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2015,September,2015-09-25T00:00:00Z,IMCC,Donald Newman,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2015,October,2015-10-08T00:00:00Z,IMCC,Harvey Spence,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2015,October,2015-10-10T00:00:00Z,CCF,Todd Hamann,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2015,November,2015-11-09T00:00:00Z,5JD,Michael Chandler,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2015,November,2015-11-12T00:00:00Z,ASP,Lawrence Dawson,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2015,November,2015-11-24T00:00:00Z,IMCC,Estell Dunsmore,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2015,December,2015-12-01T00:00:00Z,2JD,Dacota Witham,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2015,December,2015-12-23T00:00:00Z,IMCC,John Wilson,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2015,December,2015-12-25T00:00:00Z,IMCC,Dennis Rchards,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2016,January,2016-01-16T00:00:00Z,ISP,Robert Kern,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2016,January,2016-01-24T00:00:00Z,MPCF,Mark Olsen,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2016,January,2016-01-26T00:00:00Z,IMCC,Justin Robuck,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2016,February,2016-02-02T00:00:00Z,3JD,Mario Santamaria,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2016,February,2016-02-03T00:00:00Z,IMCC,Matthew Irving,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2016,February,2016-02-04T00:00:00Z,IMCC,David Freeman,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2016,February,2016-02-07T00:00:00Z,IMCC,George Menter,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2016,February,2016-02-11T00:00:00Z,IMCC,Jerry Dillinger,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2016,March,2016-03-02T00:00:00Z,CCF,Gregory Simmons,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2016,March,2016-03-21T00:00:00Z,ASP,Carroll Calhon,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2016,April,2016-04-09T00:00:00Z,MPCF,William Johnson,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2016,May,2016-05-02T00:00:00Z,IMCC,Clayton Manning,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2016,May,2016-05-11T00:00:00Z,IMCC,Roland Fulton,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2016,May,2016-05-16T00:00:00Z,IMCC,Myron Boyd,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2016,May,2016-05-31T00:00:00Z,IMCC,Donald Mishler,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2016,June,2016-06-03T00:00:00Z,NCF,Dennis Brown,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2016,June,2016-06-09T00:00:00Z,IMCC,Wayne Gander,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2016,June,2016-06-19T00:00:00Z,IMCC,Steven Cooley,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2016,June,2016-06-19T00:00:00Z,IMCC,Jeffrey Rumelhart,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2016,July,2016-07-11T00:00:00Z,IMCC,Michael Perkovich,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2016,July,2016-07-17T00:00:00Z,6JD,Jesse Aarhus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2016,August,2016-08-06T00:00:00Z,CCF,Christopher Langley,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2016,September,2016-09-15T00:00:00Z,IMCC,Christopher Cretin,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2016,September,2016-09-18T00:00:00Z,IMCC,Albert Winfrey,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2016,October,2016-10-02T00:00:00Z,ASP,Atwell Conner,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2016,October,2016-10-17T00:00:00Z,ISP,Elbert Hinkle,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2016,October,2016-10-27T00:00:00Z,NCF,Ernest Christensen,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2016,October,2016-10-31T00:00:00Z,IMCC,Michael Whitworth,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2016,November,2016-11-13T00:00:00Z,IMCC,Henry Schmidt,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2016,December,2016-12-02T00:00:00Z,IMCC,George Kimble,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2016,December,2016-12-21T00:00:00Z,ICC,Justin Kestner,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa,2017,March,2017-03-03T00:00:00Z,IOWA MEDICAL AND CLASSIFICATION CENTER,Joseph J Koncel,NA,NA,NA,M,NA,NA,52,NA,Chronic Illness,Hospice Room
+Iowa,2017,March,2017-03-17T00:00:00Z,ANAMOSA STATE PENITENTIARY,Wayne Shelton,NA,NA,NA,M,NA,NA,50,NA,Chronic Illness,Hospice Room
+Iowa,2017,March,2017-03-18T00:00:00Z,IOWA MEDICAL AND CLASSIFICATION CENTER,Ryan Stephen Bordenaro,NA,NA,NA,M,NA,NA,26,Suicide,NA,NA
+Iowa,2017,March,2017-03-21T00:00:00Z,IOWA STATE PENITENTIARY,Lawrence T Gladson,NA,NA,NA,M,NA,NA,72,NA,Chronic Illness,Hospice Room
+Iowa,2017,May,2017-05-23T00:00:00Z,IOWA MEDICAL AND CLASSIFICATION CENTER,James William Allen,NA,NA,NA,M,NA,NA,67,NA,Chronic Illness,Hospice Room
+Iowa,2017,July,2017-07-22T00:00:00Z,NA,Paeng Saengaroun,NA,NA,NA,M,NA,NA,67,Natural Causes,NA,NA
+Iowa,2017,September,2017-09-29T00:00:00Z,IOWA MEDICAL AND CLASSIFICATION CENTER,Randy Lee Noland,NA,NA,NA,M,NA,NA,58,Natural Causes,Chronic Illness,Hospice Room
+Iowa,2017,October,2017-10-11T00:00:00Z,IOWA MEDICAL AND CLASSIFICATION CENTER,Robert Jean Robinson,NA,NA,NA,M,NA,NA,74,Natural Causes,Chronic Illness,Hospice Room
+Iowa,2017,October,2017-10-21T00:00:00Z,ANAMOSA STATE PENITENTIARY,Raymond Metz,NA,NA,NA,M,NA,NA,63,Natural Causes,NA,Hospice Room
+Iowa,2017,November,2017-11-05T00:00:00Z,IOWA MEDICAL AND CLASSIFICATION CENTER,Robert Milton Inman,NA,NA,NA,M,NA,NA,83,Natural Causes,Chronic Illness,Hospice Room
+Iowa,2017,November,2017-11-27T00:00:00Z,NA,Adam Andrew Nolz,NA,NA,NA,M,NA,NA,30,Unknown Causes,Medical Emergency,University of Iowa Hospitals and Clinics
+Iowa,2017,December,2017-12-20T00:00:00Z,IOWA STATE PENITENTIARY,Robert Anthony Williams,NA,NA,NA,M,NA,NA,73,Natural Causes,Chronic Illness,Hospice Room
+Iowa,2017,December,2017-12-28T00:00:00Z,IOWA MEDICAL AND CLASSIFICATION CENTER,Eddie Chest,NA,NA,NA,M,NA,NA,79,Natural Causes,Chronic Illness,NA
+Iowa,2018,February,2018-02-01T00:00:00Z,NA,Rashod Develt Aldridge,NA,NA,NA,M,NA,NA,29,NA,"Cardiac arrest, chronic disease, and flu",University of Iowa Hospitals and Clinics
+Iowa,2018,April,2018-04-04T00:00:00Z,IOWA MEDICAL AND CLASSIFICATION CENTER,Thomas James Morney,NA,NA,NA,M,NA,NA,65,Natural Causes,Chronic Illness,NA
+Iowa,2018,May,2018-05-05T00:00:00Z,IOWA STATE PENITENTIARY,Lacy Laverne Kelley,NA,NA,NA,M,NA,NA,66,NA,Chronic Illness,NA
+Iowa,2018,June,2018-06-30T00:00:00Z,NA,Yvonne Myrna Joshua,NA,NA,NA,F,NA,NA,58,NA,Acute medical complications,University of Iowa Hospital
+Iowa,2018,July,2018-07-14T00:00:00Z,IOWA MEDICAL AND CLASSIFICATION CENTER,Harold Leroy Page,NA,NA,NA,M,NA,NA,62,Natural Causes,Chronic Illness,Hospice Room
+Iowa,2018,July,2018-07-26T00:00:00Z,IOWA MEDICAL AND CLASSIFICATION CENTER,Ralph Phillip Carlson,NA,NA,NA,M,NA,NA,79,NA,Chronic Illness,Hospice Room
+Iowa,2018,July,2018-07-30T00:00:00Z,IOWA MEDICAL AND CLASSIFICATION CENTER,Gary Dean Nixon,NA,NA,NA,M,NA,NA,69,NA,Chronic Illness,University of Iowa Hospitals and Clinics
+Iowa,2018,August,2018-08-12T00:00:00Z,IOWA MEDICAL AND CLASSIFICATION CENTER,Robert Charles Richey,NA,NA,NA,M,NA,NA,74,Natural Causes,Chronic Illness,Hospice Room
+Iowa,2018,August,2018-08-20T00:00:00Z,DAVENPORT WORK RELEASE CENTER,James Olyn Shell Jr,NA,NA,NA,M,NA,NA,63,NA,Medical Emergency - not considered suspicious,NA
+Iowa,2018,September,2018-09-30T00:00:00Z,NA,Robert James Carter,NA,NA,NA,M,NA,NA,73,NA,Medical Emergency,Ft. Madison Community Hospital
+Iowa,2018,October,2018-10-08T00:00:00Z,NA,Michael Allen Kennedy,NA,NA,NA,M,NA,NA,53,NA,Medical Emergency,Unity Point Emergency Room
+Iowa,2018,October,2018-10-15T00:00:00Z,NA,Matthew Earl Rausch,NA,NA,NA,M,NA,NA,31,Suicide,Suspected Suicide,Unity Point Hospital
+Iowa,2018,November,2018-11-03T00:00:00Z,NA,Russell Kenneth Fidler,NA,NA,NA,M,NA,NA,65,Natural Causes,Medical Emergency,University of Iowa Hospitals and Clinics
+Iowa,2018,November,2018-11-05T00:00:00Z,NA,Donald Warner Brammer,NA,NA,NA,M,NA,NA,79,Natural Causes,Chronic Illness,University of Iowa Hospital
+Iowa,2018,November,2018-11-09T00:00:00Z,IOWA MEDICAL AND CLASSIFICATION CENTER,Henry Lee Whitfield,NA,NA,NA,M,NA,NA,69,Natural Causes,Chronic Illness,NA
+Iowa,2018,December,2018-12-14T00:00:00Z,IOWA MEDICAL AND CLASSIFICATION CENTER,Paul Scott Kissel,NA,NA,NA,M,NA,NA,52,Unknown Causes,Not considered suspicious,NA
+Iowa,2018,December,2018-12-16T00:00:00Z,NA,Charles Edward Lasage,NA,NA,NA,M,NA,NA,61,NA,Chronic Illness,University of Iowa Hospital
+Iowa,2018,December,2018-12-22T00:00:00Z,NA,Ryan Nicholas Trowbridge,NA,NA,NA,M,NA,NA,28,Suicide,Suspected Suicide,University of Iowa Hospitals and Clinics
+Iowa,2018,December,2018-12-31T00:00:00Z,NA,Anna Marie Bunch,NA,NA,NA,F,NA,NA,56,Not Listed,Medical Emergency,Mercy Medical Center
+Iowa,2018,December,2018-12-31T00:00:00Z,IOWA MEDICAL AND CLASSIFICATION CENTER,Kevin Richard Johnson,NA,NA,NA,M,NA,NA,64,Natural Causes,Chronic Illness,NA
+Iowa,2019,February,2019-02-23T00:00:00Z,IOWA MEDICAL AND CLASSIFICATION CENTER,David Gene Lewis Jr,NA,NA,NA,M,NA,NA,54,Natural Causes,NA,Hospice Room
+Iowa,2019,March,2019-03-06T00:00:00Z,IOWA STATE PENITENTIARY,Charles Edward Robinson,NA,NA,NA,M,NA,NA,71,Natural Causes,Terminal Illness,Hospice Room
+Iowa,2019,March,2019-03-25T00:00:00Z,NA,Richard Edison Johnson,NA,NA,NA,M,NA,NA,88,Natural Causes,NA,University of Iowa Hospitals and Clinics
+Iowa,2019,May,2019-05-02T00:00:00Z,IOWA CORRECTIONAL INSTITUTE FOR WOMEN,Debi Olson,NA,NA,NA,F,NA,NA,63,Natural Causes,Chronic Illness,NA
+Iowa,2019,May,2019-05-14T00:00:00Z,ANAMOSA STATE PENITENTIARY,Calvin Pearson,NA,NA,NA,M,NA,NA,52,Suicide,Suspected Suicide,Jones Regional Medical Center
+Iowa,2019,May,2019-05-22T00:00:00Z,NA,Albert Lemoine Collins,NA,NA,NA,M,NA,NA,74,Natural Causes,NA,University of Iowa Hospitals and Clinics
+Iowa,2019,July,2019-07-06T00:00:00Z,NA,Larry Gene Nugent,NA,NA,NA,M,NA,NA,59,Natural Causes,NA,University of Iowa Hospitals and Clinics
+Iowa,2019,July,2019-07-09T00:00:00Z,MOUNT PLEASANT CORRECTIONAL FACILITY,Kevin Todd Bishop,NA,NA,NA,M,NA,NA,63,NA,NA,University of Iowa Hospitals and Clinics
+Iowa,2019,July,2019-07-13T00:00:00Z,ANAMOSA STATE PENITENTIARY,Wayne Eugene Sinclair,NA,NA,NA,M,NA,NA,52,Suicide,Suspected Suicide,NA
+Iowa,2019,July,2019-07-19T00:00:00Z,NA,Martin Paul Wilkinson,NA,NA,NA,M,NA,NA,70,NA,Chronic Illness,University of Iowa Hospitals and Clinics
+Iowa,2019,August,2019-08-04T00:00:00Z,ANAMOSA STATE PENITENTIARY,Roger Scott Sellers,NA,NA,NA,M,NA,NA,51,NA,Chronic Illness,NA
+Iowa,2019,August,2019-08-29T00:00:00Z,NA,George Jochem Hettinga,NA,NA,NA,M,NA,NA,67,NA,Chronic Illness,University of Iowa Hospitals and Clinics
+Iowa,2019,October,2019-10-17T00:00:00Z,CLARINDA CORRECTIONAL FACILITY,Thomas Earl Seehan,NA,NA,NA,M,NA,NA,69,Natural Causes,Pending investigation by state medical examiner,NA
+Iowa,2019,November,2019-11-13T00:00:00Z,IOWA MEDICAL AND CLASSIFICATION CENTER,Irvin Eugene Johnson,NA,NA,NA,M,NA,NA,71,Natural Causes,NA,NA
+Iowa,2019,December,2019-12-18T00:00:00Z,IOWA CORRECTIONAL INSTITUTE FOR WOMEN,Kimerly Nicole Battle,NA,NA,NA,F,NA,NA,27,Suicide,Suspected Suicide,NA
+Iowa,2020,January,2020-01-01T00:00:00Z,NA,Rick Fay Bird,NA,NA,NA,M,NA,NA,72,Natural Causes,NA,University of Iowa Hospitals and Clinics
+Iowa,2020,January,2020-01-03T00:00:00Z,NA,Delbert Duane Anderson,NA,NA,NA,M,NA,NA,59,Natural Causes,NA,University of Iowa Hospitals and Clinics
+Iowa,2020,February,2020-02-07T00:00:00Z,IOWA MEDICAL AND CLASSIFICATION CENTER,Justin Lee Dewitt,NA,NA,NA,M,NA,NA,39,Pending Investigation,NA,NA
+Iowa,2020,March,2020-03-04T00:00:00Z,NA,Everett Roy Lyon,NA,NA,NA,M,NA,NA,71,Natural Causes,Heart Attack,Great River Medical Center
+Iowa,2020,April,2020-04-07T00:00:00Z,NA,Randal Ray Norgaard,NA,NA,NA,M,NA,NA,69,Natural Causes,NA,University of Iowa Hospitals and Clinics
+Iowa,2020,April,2020-04-18T00:00:00Z,IOWA MEDICAL AND CLASSIFICATION CENTER,Roni Kachanes,NA,NA,NA,M,NA,NA,61,Natural Causes,NA,Hospice Room
+Iowa,2020,April,2020-04-28T00:00:00Z,NA,Timothy Leroy Douglas,NA,NA,NA,M,NA,NA,58,Natural Causes,Not COVID-19 related,University of Iowa Hospitals and Clinics
+Iowa,2020,May,2020-05-17T00:00:00Z,NEWTON CORRECTIONAL FACILITY,Roger Paul Brierly,NA,NA,NA,M,NA,NA,65,Natural Causes,NA,Mercy Hospital
+Iowa,2020,June,2020-06-04T00:00:00Z,IOWA MEDICAL AND CLASSIFICATION CENTER,Dennis Ace Butrick,NA,NA,NA,M,NA,NA,64,Natural Causes,Not COVID-19 related,NA
+Iowa,2020,July,2020-07-06T00:00:00Z,FORT DODGE CORRECTIONAL FACILITY,Ray Allen Vanlengen,NA,NA,NA,M,NA,NA,71,NA,COVID-19 and other preexisting medical conditions,University of Iowa Hospital
+Iowa,2020,July,2020-07-11T00:00:00Z,FORT DODGE CORRECTIONAL FACILITY,Ronald Eugene Holdsworth,NA,NA,NA,M,NA,NA,62,NA,COVID-19 and other preexisting medical conditions,Unity Point Hospital
+Iowa,2020,July,2020-07-25T00:00:00Z,IOWA MEDICAL AND CLASSIFICATION CENTER,Dennis Ray Meyer,NA,NA,NA,M,NA,NA,70,Not Listed,Medical Emergency,NA
+Iowa,2020,July,2020-07-27T00:00:00Z,NA,Timothy Louis McGhee Jr,NA,NA,NA,M,NA,NA,48,NA,COVID-19 and other preexisting medical conditions,University of Iowa Hospital
+Iowa,2020,August,2020-08-07T00:00:00Z,IOWA MEDICAL AND CLASSIFICATION CENTER,David Michael Powers,NA,NA,NA,M,NA,NA,75,Natural Causes,Not COVID-19 related,NA
+Iowa,2020,September,2020-09-08T00:00:00Z,IOWA MEDICAL AND CLASSIFICATION CENTER,Richard Leroy Peters,NA,NA,NA,M,NA,NA,77,NA,COVID-19 and other preexisting medical conditions,NA
+Iowa,2020,October,2020-10-22T00:00:00Z,NA,James Glen Merical,NA,NA,NA,M,NA,NA,47,Not Listed,Medical Emergency,Unity Point Hospital
+Iowa,2020,November,2020-11-02T00:00:00Z,NA,Freddie Owen Drinkard,NA,NA,NA,M,NA,NA,85,Natural Causes,Not COVID-19 related,University of Iowa Hospitals and Clinics
+Iowa,2020,November,2020-11-03T00:00:00Z,IOWA MEDICAL AND CLASSIFICATION CENTER,Clarence Christian Miller,NA,NA,NA,M,NA,NA,88,Natural Causes,Not COVID-19 related,NA
+Iowa,2020,November,2020-11-08T00:00:00Z,ANAMOSA STATE PENITENTIARY,David Allen Streets,NA,NA,NA,M,NA,NA,70,NA,COVID-19 and other preexisting medical conditions,University of Iowa Hospitals and Clinics
+Iowa,2020,November,2020-11-11T00:00:00Z,CLARINDA CORRECTIONAL FACILITY,Christopher James Rios,NA,NA,NA,M,NA,NA,28,Suicide,Suspected Suicide,University of Iowa Hospitals and Clinics
+Iowa,2020,November,2020-11-14T00:00:00Z,CLARINDA CORRECTIONAL FACILITY,Gene Edward Dryer,NA,NA,NA,M,NA,NA,72,NA,COVID-19 and other preexisting medical conditions,University of Iowa Hospitals and Clinics
+Iowa,2020,November,2020-11-16T00:00:00Z,ANAMOSA STATE PENITENTIARY,Jonathan William Strain,NA,NA,NA,M,NA,NA,59,NA,COVID-19 and other preexisting medical conditions,University of Iowa Hospitals and Clinics
+Iowa,2020,November,2020-11-17T00:00:00Z,ANAMOSA STATE PENITENTIARY,Robert William Sirovy,NA,NA,NA,M,NA,NA,64,NA,COVID-19 and other preexisting medical conditions,University of Iowa Hospitals and Clinics
+Iowa,2020,November,2020-11-22T00:00:00Z,ANAMOSA STATE PENITENTIARY,Timothy Christopher Bryant,NA,NA,NA,M,NA,NA,59,NA,COVID-19 and other preexisting medical conditions,University of Iowa Hospitals and Clinics
+Iowa,2020,November,2020-11-23T00:00:00Z,ANAMOSA STATE PENITENTIARY,Frederick William Lewis,NA,NA,NA,M,NA,NA,68,NA,COVID-19 and other preexisting medical conditions,University of Iowa Hospitals and Clinics
+Iowa,2020,December,2020-12-05T00:00:00Z,ANAMOSA STATE PENITENTIARY,Larry Donell Whaley,NA,NA,NA,M,NA,NA,64,NA,COVID-19 and other preexisting medical conditions,University of Iowa Hospitals and Clinics
+Iowa,2020,December,2020-12-10T00:00:00Z,IOWA STATE PENITENTIARY,Mark Steven Bailey,NA,NA,NA,M,NA,NA,63,NA,COVID-19 and other preexisting medical conditions,University of Iowa Hospitals and Clinics
+Iowa,2020,December,2020-12-20T00:00:00Z,IOWA STATE PENITENTIARY,Dale Dean Viers,NA,NA,NA,M,NA,NA,58,NA,COVID-19 and other preexisting medical conditions,University of Iowa Hospitals and Clinics
+Iowa,2020,December,2020-12-26T00:00:00Z,NEWTON CORRECTIONAL FACILITY,Ronald James Calvert,NA,NA,NA,M,NA,NA,77,Not Listed,Medical Emergency,NA
+Iowa,2021,January,2021-01-07T00:00:00Z,FORT DODGE CORRECTIONAL FACILITY,Jessie Joseph Gonzales,NA,NA,NA,M,NA,NA,67,NA,COVID-19 and other preexisting medical conditions,University of Iowa Hospitals and Clinics
+Iowa,2021,January,2021-01-08T00:00:00Z,IOWA MEDICAL AND CLASSIFICATION CENTER,William James Gibson,NA,NA,NA,M,NA,NA,70,Natural Causes,Not COVID-19 related,NA
+Iowa,2021,January,2021-01-26T00:00:00Z,IOWA MEDICAL AND CLASSIFICATION CENTER,Harold Arthur Duncan,NA,NA,NA,M,NA,NA,89,NA,COVID-19 and other preexisting medical conditions,NA
+Iowa,2021,January,2021-01-28T00:00:00Z,IOWA MEDICAL AND CLASSIFICATION CENTER,James Charles Kleppe,NA,NA,NA,M,NA,NA,79,NA,COVID-19 and other preexisting medical conditions,NA
+Iowa,2021,January,2021-01-31T00:00:00Z,IOWA MEDICAL AND CLASSIFICATION CENTER,Robert Frank Taylor,NA,NA,NA,M,NA,NA,72,NA,COVID-19 and other preexisting medical conditions,University of Iowa Hospitals and Clinics
+Iowa,2021,February,2021-02-04T00:00:00Z,IOWA MEDICAL AND CLASSIFICATION CENTER,Steven James Van Riper,NA,NA,NA,M,NA,NA,63,NA,COVID-19 and other preexisting medical conditions,University of Iowa Hospitals and Clinics
+Iowa,2021,February,2021-02-08T00:00:00Z,ANAMOSA STATE PENITENTIARY,Bryan Kirby Barrett,NA,NA,NA,M,NA,NA,69,NA,Medical Emergency,NA
+Iowa,2021,February,2021-02-23T00:00:00Z,NEWTON CORRECTIONAL FACILITY,Kevin John McDonnell,NA,NA,NA,M,NA,NA,63,NA,COVID-19 and other preexisting medical conditions,University of Iowa Hospitals and Clinics
+Iowa,2021,March,2021-03-05T00:00:00Z,IOWA MEDICAL AND CLASSIFICATION CENTER,Harry Edward Pederson,NA,NA,NA,M,NA,NA,73,Natural Causes,Not COVID-19 related,NA
+Iowa,2021,April,2021-04-02T00:00:00Z,ANAMOSA STATE PENITENTIARY,Terry Scott Dudley,NA,NA,NA,M,NA,NA,44,Suicide,Suspected Suicide,University of Iowa Hospitals and Clinics
+Iowa,2021,April,2021-04-07T00:00:00Z,IOWA MEDICAL AND CLASSIFICATION CENTER,James Dean Blum,NA,NA,NA,M,NA,NA,81,Natural Causes,NA,University of Iowa Hospitals and Clinics
+Iowa,2021,May,2021-05-12T00:00:00Z,CLARINDA CORRECTIONAL FACILITY,Ronald Harris Brown,NA,NA,NA,M,NA,NA,80,Suicide,Suspected Suicide,NA
+Iowa,2021,May,2021-05-19T00:00:00Z,ANAMOSA STATE PENITENTIARY,Michael Cecil Craney,NA,NA,NA,M,NA,NA,68,Natural Causes,Not COVID-19 related,NA
+Iowa,2021,May,2021-05-21T00:00:00Z,IOWA STATE PENITENTIARY,Christopher Michael Phipps Sr,NA,NA,NA,M,NA,NA,54,Natural Causes,NA,University of Iowa Hospitals and Clinics
+Iowa,2021,May,2021-05-25T00:00:00Z,NEWTON CORRECTIONAL FACILITY,Tracy Lee Earles,NA,NA,NA,M,NA,NA,59,Not Listed,Medical Emergency,Mercy One Hospital
+Iowa,2021,May,2021-05-28T00:00:00Z,IOWA STATE PENITENTIARY,Robert Overstreet Sr.,NA,NA,NA,M,NA,NA,87,NA,NA,NA
+Iowa,2021,July,2021-07-18T00:00:00Z,IOWA MEDICAL AND CLASSIFICATION CENTER,Carmon Lyon Lyddon,NA,NA,NA,M,NA,NA,75,Natural Causes,NA,NA
+Iowa,2021,July,2021-07-19T00:00:00Z,IOWA STATE PENITENTIARY,Ular Lee Winfun,NA,NA,NA,M,NA,NA,66,Natural Causes,NA,NA
+Iowa,2021,July,2021-07-27T00:00:00Z,IOWA MEDICAL AND CLASSIFICATION CENTER,Vincent Duncan,NA,NA,NA,M,NA,NA,75,Natural Causes,NA,NA
+Iowa,2021,July,2021-07-29T00:00:00Z,IOWA MEDICAL AND CLASSIFICATION CENTER,Michael John Ryan,NA,NA,NA,M,NA,NA,70,Natural Causes,NA,NA
+Iowa,2021,August,2021-08-03T00:00:00Z,NA,Chico Mario Newman,NA,NA,NA,M,NA,NA,47,Not Listed,Medical Emergency,Jones Regional Medical Center
+Iowa,2021,August,2021-08-07T00:00:00Z,IOWA MEDICAL AND CLASSIFICATION CENTER,Anthony William Geltz,NA,NA,NA,M,NA,NA,28,Suicide,NA,NA
+Iowa,2021,August,2021-08-16T00:00:00Z,CLARINDA CORRECTIONAL FACILITY,Joshua Michael Pierce,NA,NA,NA,M,NA,NA,32,Pending Investigation,The cause of death will be determined by the State of Iowa Medical Examiner's Office,University of Nebraska Medical Center
+Iowa,2021,August,2021-08-25T00:00:00Z,IOWA MEDICAL AND CLASSIFICATION CENTER,Ronald K Hendricks,NA,NA,NA,M,NA,NA,74,NA,Cancer,NA
+Iowa,2021,August,2021-08-27T00:00:00Z,IOWA STATE PENITENTIARY,James Lee Blair,NA,NA,NA,M,NA,NA,61,NA,COVID-19 and other preexisting medical conditions,University of Iowa Hospitals and Clinics
+Iowa,2021,September,2021-09-04T00:00:00Z,IOWA STATE PENITENTIARY,Phillip Benito Cuevas,NA,NA,NA,M,NA,NA,81,NA,COVID-19 and other preexisting medical conditions,Hospice Room
+Iowa,2021,September,2021-09-15T00:00:00Z,IOWA STATE PENITENTIARY,Ray Gene Triplett,NA,NA,NA,M,NA,NA,57,NA,COVID-19 and other preexisting medical conditions,University of Iowa Hospitals and Clinics
+Iowa,2021,September,2021-09-18T00:00:00Z,ANAMOSA STATE PENITENTIARY,Robert David Wilcoxen,NA,NA,NA,M,NA,NA,69,Not Listed,NA,NA
+Iowa,2021,September,2021-09-28T00:00:00Z,IOWA STATE PENITENTIARY,Stephen Lee Tryon,NA,NA,NA,M,NA,NA,60,NA,Cancer,Hospice Room
+Iowa,2021,October,2021-10-10T00:00:00Z,IOWA CORRECTIONAL INSTITUTE FOR WOMEN,Stephanie Leigh Davis,NA,NA,NA,F,NA,NA,59,Not Listed,NA,NA
+Iowa,2021,October,2021-10-22T00:00:00Z,NA,Timothy Keith Palmer,NA,NA,NA,M,NA,NA,46,Not Listed,Prolonged Illness (not COVID-19 related),University of Iowa Hospitals and Clinics
+Iowa,2021,December,2021-12-08T00:00:00Z,IOWA STATE PENITENTIARY,Warren John Nutter,NA,NA,NA,M,NA,NA,84,Natural Causes,Chronic Illness,Hospice Room
+Iowa,2021,December,2021-12-26T00:00:00Z,IOWA MEDICAL AND CLASSIFICATION CENTER,Kenneth Ray Sharp,NA,NA,NA,M,NA,NA,54,Natural Causes,Chronic Illness,NA
+Iowa,2022,January,2022-01-16T00:00:00Z,IMCC,NA,Lanphier,Donald,Edward,M,White,Non-Hispanic,84.54757015742642,COVID-19,NA,NA
+Iowa,2022,January,2022-01-16T00:00:00Z,IMCC,NA,Thompson,Charles,Earl,M,White,Non-Hispanic,65.8754277891855,Natural Causes,NA,NA
+Iowa,2022,January,2022-01-23T00:00:00Z,CCF,NA,Howell,Kenneth,Louis,M,White,Non-Hispanic,59.89048596851472,Natural Causes,NA,NA
+Iowa,2022,January,2022-01-31T00:00:00Z,IMCC,NA,Fransen,Kenneth,David,M,White,Non-Hispanic,74.5845311430527,Natural Causes,NA,NA
+Iowa,2022,February,2022-02-11T00:00:00Z,IMCC,NA,Howell,James,Clyde,M,White,Non-Hispanic,70.46132785763176,Natural Causes,NA,NA
+Iowa,2022,February,2022-02-22T00:00:00Z,IMCC,NA,Zipprich,Charles,Leroy,M,White,Non-Hispanic,70.71047227926078,Natural Causes,NA,NA
+Iowa,2022,February,2022-02-22T00:00:00Z,IMCC,NA,Boylan,Keith,Brian,M,White,Non-Hispanic,66.36824093086926,Natural Causes,NA,NA
+Iowa,2022,March,2022-03-23T00:00:00Z,ISP,NA,Schlumbohm,Lloyd,Harlan,M,White,Non-Hispanic,75.51540041067761,Natural Causes,NA,NA
+Iowa,2022,April,2022-04-02T00:00:00Z,IMCC,NA,Lueth,Amel,Frederick,M,White,Non-Hispanic,73.2539356605065,Natural Causes,NA,NA
+Iowa,2022,April,2022-04-18T00:00:00Z,ASP,NA,Spurgeon,Anthony,Steven,M,White,Non-Hispanic,31.98904859685147,Suicide,NA,NA
+Iowa,2022,May,2022-05-07T00:00:00Z,ISP,NA,Shaffer,Garland,Charles,M,White,Non-Hispanic,96.04380561259411,Natural Causes,NA,NA
+Iowa,2022,May,2022-05-14T00:00:00Z,ASP,NA,Denney,Taylor,Bradley,M,White,Non-Hispanic,30.1492128678987,Suicide,NA,NA
+Iowa,2022,May,2022-05-20T00:00:00Z,IMCC,NA,Wadsworth,Norman,Charles,M,Black,Non-Hispanic,82.22039698836413,Natural Causes,NA,NA
+Iowa,2022,June,2022-06-27T00:00:00Z,ISP,NA,Gilroy,Elvin,NA,M,White,Non-Hispanic,82.652977412731,Natural Causes,NA,NA
+Iowa,2022,July,2022-07-16T00:00:00Z,FDCF,NA,Barbee,William,Harrison,M,White,Non-Hispanic,56.446269678302535,Natural Causes,NA,NA
+Iowa,2022,July,2022-07-18T00:00:00Z,IMCC,NA,Rosenow,Robert,LeRoy,M,White,Non-Hispanic,64.66529774127311,Natural Causes,NA,NA
+Iowa,2022,July,2022-07-24T00:00:00Z,IMCC,NA,Gilchrist,Albert,Leland,M,White,Non-Hispanic,70.33812457221082,Natural Causes,NA,NA
+Iowa,2022,September,2022-09-03T00:00:00Z,ISP,NA,Barrett,John,L,M,White,Non-Hispanic,82.99520876112251,Natural Causes,NA,NA
+Iowa,2022,September,2022-09-14T00:00:00Z,IMCC,NA,Smith,Keyote,Dean,M,White,Non-Hispanic,21.43463381245722,Natural Causes,NA,NA
+Iowa,2022,October,2022-10-03T00:00:00Z,IMCC,NA,Vantrece,George,NA,M,Black,Non-Hispanic,72.46269678302532,Natural Causes,NA,NA
+Iowa,2022,October,2022-10-06T00:00:00Z,IMCC,NA,VanDusseldorp,Keith,Randall,M,White,Non-Hispanic,65.52498288843258,Natural Causes,NA,NA
+Iowa,2022,October,2022-10-17T00:00:00Z,IMCC,NA,Gonterman,Ronald,Gene,M,White,Non-Hispanic,71.94524298425736,Natural Causes,NA,NA
+Iowa,2022,October,2022-10-22T00:00:00Z,IMCC,NA,Tunstall,Simon,Curtis,M,Black,Non-Hispanic,66.74332648870636,Natural Causes,NA,NA
+Iowa,2022,October,2022-10-23T00:00:00Z,IMCC,NA,Davidson,Steve,Lee,M,White,Non-Hispanic,64.92265571526352,Natural Causes,NA,NA
+Iowa,2022,December,2022-12-09T00:00:00Z,IMCC,NA,Stockdall,Floyd,Eugene,M,American Indian or Alaska Native,Non-Hispanic,57.61806981519507,Natural Causes,NA,NA
+Iowa,2022,December,2022-12-11T00:00:00Z,IMCC,NA,Jones,Jessie,James,M,Black,Non-Hispanic,70.85557837097878,Natural Causes,NA,NA
+Iowa,2023,January,2023-01-08T00:00:00Z,IMCC,NA,Brandes,Rick,NA,M,White,Non-Hispanic,60.86789869952088,Natural Causes,NA,NA
+Iowa,2023,January,2023-01-19T00:00:00Z,IMCC,NA,Knapp,Thomas,NA,M,White,Non-Hispanic,84.62696783025325,Natural Causes,NA,NA
+Iowa,2023,February,2023-02-13T00:00:00Z,IMCC,NA,Davis,Richard,NA,M,White,Non-Hispanic,85.91649555099247,Natural Causes,NA,NA
+Iowa,2023,March,2023-03-23T00:00:00Z,IMCC,NA,Fetters,Donald,NA,M,White,Non-Hispanic,84.82135523613962,Natural Causes,NA,NA
+Iowa,2023,March,2023-03-24T00:00:00Z,NCCF,NA,Cockerham,Mark,NA,M,White,Non-Hispanic,53.53867214236824,Natural Causes,NA,NA
+Iowa,2023,April,2023-04-05T00:00:00Z,ASP,NA,Thompson,Owens,NA,M,Black,Non-Hispanic,49.637234770705,Suicide,NA,NA
+Iowa,2023,April,2023-04-07T00:00:00Z,FDCF,NA,Schreiber,Benjamin,NA,M,White,Non-Hispanic,70.37645448323066,Natural Causes,NA,NA
+Iowa,2023,April,2023-04-17T00:00:00Z,IMCC,NA,Arnot,Bruce,NA,M,White,Non-Hispanic,69.47843942505133,Natural Causes,NA,NA
+Iowa,2023,April,2023-04-21T00:00:00Z,IMCC,NA,Roth,John,NA,M,White,Non-Hispanic,74.2861054072553,Natural Causes,NA,NA
+Iowa,2023,April,2023-04-27T00:00:00Z,IMCC,NA,Widner,Clarence,NA,M,White,Non-Hispanic,65.51403148528405,Natural Causes,NA,NA
+Iowa,2023,May,2023-05-19T00:00:00Z,IMCC,NA,Hannah,Jeffrey,NA,M,White,Non-Hispanic,75.49349760438056,Natural Causes,NA,NA
+Iowa,2023,June,2023-06-10T00:00:00Z,MPCF,NA,James,Jesse,NA,M,White,Non-Hispanic,67.20328542094455,Natural Causes,NA,NA
+Iowa,2023,June,2023-06-23T00:00:00Z,ISP,NA,Bailey,Scott,NA,M,White,Non-Hispanic,62.548939082819984,Pending,NA,NA
+Iowa,2023,July,2023-07-21T00:00:00Z,IMCC,NA,McDuffie,James,NA,M,White,Non-Hispanic,72.95277207392198,Natural Causes,NA,NA
+Iowa,2023,July,2023-07-23T00:00:00Z,ISP,NA,Hardin,Romeo,NA,M,Black,Non-Hispanic,42.42573579739904,Drugs - other than Opioids,NA,NA
+Iowa,2023,July,2023-07-28T00:00:00Z,CCF,NA,Chevalier,Terry,NA,M,White,Non-Hispanic,65.54140999315537,Natural Causes,NA,NA
+Iowa,2023,August,2023-08-04T00:00:00Z,IMCC,NA,Mauck,Steven,NA,M,White,Non-Hispanic,41.946611909650926,Natural Causes,NA,NA
+Iowa,2023,August,2023-08-04T00:00:00Z,IMCC,NA,Beaudrie,James,NA,M,White,Non-Hispanic,48.03285420944559,Natural Causes,NA,NA
+Iowa,2023,August,2023-08-12T00:00:00Z,ICIW,NA,Grau,Georgia,NA,F,White,Non-Hispanic,60.05749486652977,Natural Causes,NA,NA
+Iowa,2023,August,2023-08-20T00:00:00Z,IMCC,NA,Brant,Duane,NA,M,White,Non-Hispanic,66.7460643394935,Natural Causes,NA,NA
+Iowa,2023,September,2023-09-15T00:00:00Z,IMCC,NA,Dodge,Donald,NA,M,White,Non-Hispanic,48.7501711156742,Natural Causes,NA,NA
+Iowa,2023,October,2023-10-13T00:00:00Z,IMCC,NA,Wieling,David,NA,M,White,Non-Hispanic,62.8911704312115,Natural Causes,NA,NA
+Iowa,2023,October,2023-10-18T00:00:00Z,ISP,NA,Garrison,Howard,NA,M,White,Non-Hispanic,66.17385352498289,Natural Causes,NA,NA
+Iowa,2023,November,2023-11-19T00:00:00Z,ISP,NA,Heggebo,Marvin,NA,M,White,Non-Hispanic,74.39288158795345,Natural Causes,NA,NA
+Iowa,2023,December,2023-12-21T00:00:00Z,ICIW,NA,Cox,Julia,NA,F,White,Non-Hispanic,58.25598904859685,Natural Causes,NA,NA
+Iowa,2023,December,2023-12-27T00:00:00Z,CCF,NA,Pray,Joseph,NA,M,White,Non-Hispanic,66.46132785763176,Natural Causes,NA,NA
