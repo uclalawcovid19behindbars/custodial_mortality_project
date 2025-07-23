@@ -1097,6 +1097,85 @@ interpolate_vera_dem <- function() {
     
 }
 
+# test change
+
+interpolate_vera_dem_updated <- function() {
+    vera.cols.1 <- c('State.Abb', 'State', 'December.2018', 'December.2019',
+                   'March.2020', 'May.2020', 'July.2020', 'October.2020',
+                   'January.2021', 'April.2021')
+    suppressWarnings(
+        vera.pop.1 <- 'Data/External/vera_pjp_s2021_appendix.csv' %>%
+            read_csv() %>%
+            set_colnames(vera.cols.1) %>%
+            subset(!is.na(December.2018) &
+                       State.Abb != 'State') %>%
+            melt(id.vars = c('State.Abb', 'State')) %>%
+            mutate(variable = as.character(variable),
+                   Date = case_when(
+                       str_detect('December.2018', variable) ~ '2018-12-31',
+                       str_detect('December.2019', variable) ~ '2019-12-31',
+                       str_detect('March.2020', variable) ~ '2020-03-31',
+                       str_detect('May.2020', variable) ~ '2020-05-31',
+                       str_detect('July.2020', variable) ~ '2020-07-31',
+                       str_detect('October.2020', variable) ~ '2020-10-31',
+                       str_detect('January.2021', variable) ~ '2021-01-31',
+                       str_detect('April.2021', variable) ~ '2021-04-30'
+                   ),
+                   Date = as.Date(Date, format = '%Y-%m-%d'),
+                   Population = value
+            ) %>%
+            select(State.Abb, State, Date, Population) %>%
+            arrange(State, Date) 
+    )
+        
+        vera.cols.2 <- c('State', 'State.Abb', 'September.2022', 'December.2022',
+                       'March.2023', 'June.2023', 'September.2023', 'December.2023',
+                       'March.2024')
+        suppressWarnings(
+            vera.pop.2 <- 'Data/External/vera_pjp_s2024_appendix.csv' %>%
+                read_csv() %>%
+                set_colnames(vera.cols.2) %>%
+                subset(!is.na(September.2022) &
+                           State != 'state_name') %>%
+                melt(id.vars = c('State.Abb', 'State')) %>%
+                mutate(variable = as.character(variable),
+                       Date = case_when(
+                           str_detect('September.2022', variable) ~ '2022-09-30',
+                           str_detect('December.2022', variable) ~ '2022-12-31',
+                           str_detect('March.2023', variable) ~ '2023-03-31',
+                           str_detect('June.2023', variable) ~ '2023-06-30',
+                           str_detect('September.2023', variable) ~ '2023-09-30',
+                           str_detect('December.2023', variable) ~ '2023-12-31',
+                           str_detect('March.2024', variable) ~ '2024-03-31'
+                       ),
+                       Date = as.Date(Date, format = '%Y-%m-%d'),
+                       Population = value
+                ) %>%
+                select(State.Abb, State, Date, Population) %>%
+                subset(!is.na(Population)) %>%
+                mutate(Population = as.numeric(str_replace_all(Population,',',''))) %>%
+                arrange(State, Date) 
+)
+        
+        vera.pop.out <- vera.pop.1 %>%
+            plyr::rbind.fill(vera.pop.2) %>%
+            tidyr::complete(State, Date = seq(as.Date('2018-12-31', format = '%Y-%m-%d'), 
+                                              as.Date('2024-03-31', format = '%Y-%m-%d'),
+                                              by = 'day')) %>%
+            group_by(State) %>%
+            mutate(Population = na.approx(Population, na.rm = FALSE),
+                   Population = as.integer(Population),
+                   Month = month.name[month(Date)],
+                   Year = year(Date)) %>%
+            select(-c(State.Abb))
+    
+    
+    return(vera.pop.out)
+    
+    
+}
+
+
 calculate_annual_facility_rate <- function() {
     summary <- summarize_CMP_data()
     
