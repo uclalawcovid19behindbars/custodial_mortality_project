@@ -1,169 +1,188 @@
-State,Year,Month,Death.Date,Facility,Full.Name,Circumstance.General,Sex,DoB,Location
-Wyoming,1992,January,1992-01-02,NA,"Fondren, James",Natural,M,NA,NA
-Wyoming,1992,January,1992-01-16,NA,"Trombley, Clyde M",Natural,M,NA,NA
-Wyoming,1992,January,1992-01-22,NA,"Hopkinson, Mark",Execution,M,NA,NA
-Wyoming,1992,June,1992-06-08,NA,"Tampa, George",Natural,M,NA,NA
-Wyoming,1992,October,1992-10-24,NA,"Scharen, Joseph B",Suicide,M,NA,NA
-Wyoming,1992,December,1992-12-13,NA,"Barron, Stephen L",Natural,M,NA,NA
-Wyoming,1993,January,1993-01-12,NA,"Coldman, Kenneth",Natural,M,NA,NA
-Wyoming,1993,May,1993-05-10,NA,"White, James T",Natural,M,NA,NA
-Wyoming,1993,October,1993-10-01,NA,"Boyd, Brent Allen",Suicide,M,NA,NA
-Wyoming,1993,November,1993-11-03,NA,"Long, Royal Russell",Natural,M,NA,NA
-Wyoming,1993,December,1993-12-15,NA,"Ruybal, Pablo",Natural,M,NA,NA
-Wyoming,1994,January,1994-01-22,NA,"Kimsey, Robert R",Natural,M,NA,NA
-Wyoming,1994,January,1994-01-29,NA,"Walden, James K",Natural,M,NA,NA
-Wyoming,1994,March,1994-03-17,NA,"Blackcrow, Austin",Homicide,M,NA,NA
-Wyoming,1994,April,1994-04-25,NA,"Coleman, Terry",Suicide,M,NA,NA
-Wyoming,1994,July,1994-07-16,NA,"Hallberg, John C",Natural,M,NA,NA
-Wyoming,1995,April,1995-04-14,NA,"Mayne, Billy R",Natural,M,NA,NA
-Wyoming,1996,January,1996-01-05,NA,"Kearns, Daryl E",Boiler Incident,M,NA,NA
-Wyoming,1996,January,1996-01-05,NA,"Sheet, James",Boiler Incident,M,NA,NA
-Wyoming,1996,January,1996-01-14,NA,"Wilson, Doug",Boiler Incident,M,NA,NA
-Wyoming,1996,January,1996-01-28,NA,"Engle, Mark",Suicide,M,NA,NA
-Wyoming,1996,April,1996-04-17,NA,"Lansdown, Donald",Natural,M,NA,NA
-Wyoming,1996,June,1996-06-26,NA,"Edge, Dewey Lee",Natural,M,NA,NA
-Wyoming,1996,August,1996-08-30,NA,"Smith, Richard L",Natural,M,NA,NA
-Wyoming,1997,May,1997-05-06,NA,"Gentner, Charles R",Natural,M,NA,NA
-Wyoming,1997,July,1997-07-21,NA,"Lewis, Clarence W",Natural,M,NA,NA
-Wyoming,1998,February,1998-02-08,NA,"Ortega, Edward",Natural,M,NA,NA
-Wyoming,1998,August,1998-08-26,NA,"Scott, Steven",Un-natural (drowned),M,NA,NA
-Wyoming,1998,October,1998-10-29,NA,"Jenkins, Jerry L",Natural,M,NA,NA
-Wyoming,1998,October,1998-10-31,NA,"Mapp, Jody",Natural,M,NA,NA
-Wyoming,1999,January,1999-01-30,NA,"Smethurst, Gerald",Suicide,M,NA,NA
-Wyoming,1999,June,1999-06-08,NA,"Stone, Russell E",Natural,M,NA,NA
-Wyoming,1999,December,1999-12-15,NA,"Lopez, Frank R",Natural,M,NA,NA
-Wyoming,2000,March,2000-03-22,NA,"Kennedy, Ellis",Homicide,M,NA,NA
-Wyoming,2000,April,2000-04-24,NA,"Wagoner, Robert",Natural,M,NA,NA
-Wyoming,2000,July,2000-07-03,NA,"Roan Eagle, Orlando",Suicide,M,NA,NA
-Wyoming,2000,November,2000-11-15,NA,"Cobler, Bruce",Suicide,M,NA,NA
-Wyoming,2000,November,2000-11-20,NA,"Howard, Lawrence",Suicide,M,NA,NA
-Wyoming,2001,May,2001-05-04,NA,"Smith, Clarence",Natural,M,NA,NA
-Wyoming,2001,May,2001-05-08,NA,"Smith, Frank",Natural,M,NA,NA
-Wyoming,2001,June,2001-06-06,WSP,"Waters, Richard",Suicide,M,NA,NA
-Wyoming,2001,August,2001-08-31,NA,"Olguin, Juan",Undetermined,M,NA,NA
-Wyoming,2001,November,2001-11-07,CROWLEY,"Darrow, Mark",Undetermined,M,NA,NA
-Wyoming,2002,June,2002-06-19,WSP,"Devine, Hubert Charles",Natural,M,NA,NA
-Wyoming,2002,December,2002-12-24,WSP,"Brown, Virgil",Natural (Cancer),M,NA,NA
-Wyoming,2002,December,2002-12-31,WSP,"Fredrick, Shane",Natural (Stroke),M,NA,NA
-Wyoming,2003,May,2003-05-18,WSP,"Armstrong, Arthur",Natural (Cancer),M,NA,NA
-Wyoming,2004,January,2004-01-09,WSP,"Bobich, Terry",Natural (Stroke),M,NA,NA
-Wyoming,2004,May,2004-05-30,CCMH (RAWLINS),"Spencer, Charles",Natural,M,NA,NA
-Wyoming,2004,November,2004-11-16,"HIGH DESERT, NV","Sullivan, John",Natural,M,NA,NA
-Wyoming,2005,January,2005-01-15,CCMH (RAWLINS),"Padilla, Telesforo R",Natural,M,NA,NA
-Wyoming,2005,March,2005-03-20,WMC IN CASPER,"Johnson, Kirk Jay",Natural,M,NA,NA
-Wyoming,2005,June,2005-06-15,WSP,"Coffelt, Larry Ray",Natural,M,NA,NA
-Wyoming,2005,August,2005-08-02,MH IN RIVERTON,"Sanchez, Joseph Blaz",Natural,M,NA,NA
-Wyoming,2005,October,2005-10-09,"SWEAT LODGE AREA, BILL CLAYTON, LITTLEFIELD, TX","Patrick, Ralph Douglas",Natural (CPA),M,NA,NA
-Wyoming,2005,October,2005-10-18,CCMH (RAWLINS),"Harper, Dale",Natural,M,NA,NA
-Wyoming,2005,November,2005-11-26,CCMH (RAWLINS),"Large, Reuben Adolph",Natural,M,NA,NA
-Wyoming,2006,January,2006-01-18,CCMH (RAWLINS),"Dean, Charles Emery",Natural,M,NA,NA
-Wyoming,2006,January,2006-01-24,WMC IN CASPER,"Totterdell, Burnett",Natural,M,NA,NA
-Wyoming,2006,April,2006-04-14,HOSPITAL IN TX,"Geesaman, Dale",Natural,M,NA,NA
-Wyoming,2006,August,2006-08-29,WSP INFIRMARY,"Adkins, Paul",Natural,M,NA,NA
-Wyoming,2007,January,2007-01-12,(WSP) WMC IN CASPER,"Brooks, William H.",Natural,M,NA,NA
-Wyoming,2007,February,2007-02-19,"NORTH FORK CORRECTIONAL FACILITY, SAYRE, OKLAHOMA","Birr, Charles",Natural,M,NA,NA
-Wyoming,2007,April,2007-04-23,WSP INFIRMARY,"Lee, John Wesley",Natural,M,NA,NA
-Wyoming,2007,July,2007-07-10,WSP H-UNIT INFIRMARY,"Shannon, Lawrence",Natural,M,NA,NA
-Wyoming,2007,August,2007-08-01,"MIDWEST REGIONAL MEDICAL CENTER, OK (NFCF)","Cardenas, Thomas",Natural,M,NA,NA
-Wyoming,2007,December,2007-12-16,WHF,"Peterson, John",Natural,M,NA,NA
-Wyoming,2008,February,2008-02-06,WHF,"Blankinship, John",Suicide,M,NA,NA
-Wyoming,2008,May,2008-05-03,CASPER MEDICAL CENTER,"Clawson, Clyde",Natural,M,NA,NA
-Wyoming,2008,June,2008-06-11,WSP,"Rice, George",Natural,M,NA,NA
-Wyoming,2008,June,2008-06-16,CARBON COUNTY MEMORIAL HOSPITAL,"Vernier, Gilbert",Natural,M,NA,NA
-Wyoming,2008,July,2008-07-21,"SAYRE MEMORIAL HOSPITAL,  OK (NFCF)","Brown, James",Natural (CA),M,NA,NA
-Wyoming,2008,August,2008-08-05,WSP,"Maher, David",Natural (Emphysema),M,NA,NA
-Wyoming,2008,August,2008-08-05,WHCC,"Matousek, Gary",Natural (cardiac),M,NA,NA
-Wyoming,2009,January,2009-01-16,WSP,"Evans, Billy",Natural (cancer),M,NA,NA
-Wyoming,2009,January,2009-01-24,WMC CASPER,"Bell, Lawrence",Natural,M,NA,NA
-Wyoming,2009,April,2009-04-14,WSP,"Robertson, Brian",Natural (HIV/AIDS),M,NA,NA
-Wyoming,2009,April,2009-04-16,WSP,"Tee, Henry",Natural (cancer),M,NA,NA
-Wyoming,2009,April,2009-04-23,WSP,"Kearns, Jerald",Natural (cardiac),M,NA,NA
-Wyoming,2009,May,2009-05-14,WMC CASPER,"Edwards, Harold",Natural (Multi System Failure),M,NA,NA
-Wyoming,2009,October,2009-10-13,OREGON,"Brown, Earl",Natural,M,NA,NA
-Wyoming,2009,October,2009-10-26,WSP,"Garner, Thomas",Natural,M,NA,NA
-Wyoming,2010,December,2010-12-04,WMCI,"Starr, Jason",Natural (cancer),M,NA,NA
-Wyoming,2011,June,2011-06-05,WMCI,"Horton, Raymond",Natural (cardiac),M,NA,NA
-Wyoming,2011,November,2011-11-14,WMCI,"Ronshaugen, Scott",Natural,M,NA,NA
-Wyoming,2011,December,2011-12-02,REGIONAL WEST,"Wallace, Kevin",Natural,M,NA,NA
-Wyoming,2012,January,2012-01-31,WMCI,"Davis, Jeffrey",Natural (cancer),M,NA,NA
-Wyoming,2012,March,2012-03-07,WMCI,"Miller, Charles",Natural,M,NA,NA
-Wyoming,2012,October,2012-10-22,CARBON COUNTY HOSPITAL,"Ford, Rodger",Natural,M,NA,NA
-Wyoming,2013,June,2013-06-17,CARBON COUNTY HOSPITAL,"Derrickson, Michael",Natural,M,NA,NA
-Wyoming,2013,July,2013-07-25,TORRINGTON COMM. HOSP.,"Hawkes, John",Natural,M,NA,NA
-Wyoming,2013,November,2013-11-23,WMCI,"Bell, Vern",Natural,M,NA,NA
-Wyoming,2014,February,2014-02-14,WMCI,"Loomer, David",Natural,M,NA,NA
-Wyoming,2014,February,2014-02-19,WMCI,"Rude, Jack",Natural,M,NA,NA
-Wyoming,2014,April,2014-04-14,WSP,"Vigil, Travis",Accidental (heroin Intoxication),M,NA,NA
-Wyoming,2014,June,2014-06-02,CARBON COUNTY. MEMORIAL HOSP.,"Simmers, Thomas",Natural,M,NA,NA
-Wyoming,2014,June,2014-06-05,TORRINGTON COMM. HOSP.,"Freyda, Glen",Natural,M,NA,NA
-Wyoming,2014,June,2014-06-12,TORRINGTON COMM. HOSP.,"Vena, Joseph",Natural,M,NA,NA
-Wyoming,2014,June,2014-06-26,TORRINGTON COMM. HOSP.,"Griswold, Homer",Natural,M,NA,NA
-Wyoming,2014,July,2014-07-24,WSP,"Humphrey, Lee",Suicide,M,NA,NA
-Wyoming,2014,September,2014-09-29,WMCI,"Triplett, Donald",Natural,M,NA,NA
-Wyoming,2014,November,2014-11-09,WMCI,"Wilson, Wesley",Natural,M,NA,NA
-Wyoming,2014,November,2014-11-27,WMCI,"Flores, Jose",Natural,M,NA,NA
-Wyoming,2014,December,2014-12-11,WMCI,"Byrd, Charles",Natural,M,NA,NA
-Wyoming,2015,January,2015-01-10,WMCI,"Beverly, Thomas",Natural,M,NA,NA
-Wyoming,2015,February,2015-02-01,WMCI,"Whiting, Gary",Natural,M,NA,NA
-Wyoming,2015,April,2015-04-20,WSP,"Heath, Glenmore",Natural,M,NA,NA
-Wyoming,2015,May,2015-05-07,WMCI,"Slater, Donald",Natural,M,NA,NA
-Wyoming,2015,July,2015-07-21,WMCI,"Broomfield, Bruce",Natural,M,NA,NA
-Wyoming,2015,November,2015-11-20,WMCI,"Burg, Larry",Natural,M,NA,NA
-Wyoming,2015,December,2015-12-04,WMCI,"Sanchez, Jose",Natural,M,NA,NA
-Wyoming,2016,January,2016-01-12,WMCI,"Bell, Robert",Natural,M,NA,NA
-Wyoming,2016,January,2016-01-25,WMCI,"Romo, Rodney",Natural,M,NA,NA
-Wyoming,2016,January,2016-01-31,WMCI,"Crook, William",Natural,M,NA,NA
-Wyoming,2016,February,2016-02-05,WSP,"Ascherin, Alex",Suicide,M,NA,NA
-Wyoming,2016,March,2016-03-26,WMCI,"Craft, Douglas",Natural,M,NA,NA
-Wyoming,2016,June,2016-06-22,MEMORIAL HOSPITAL,"Gorseth, Ronald",Natural,M,NA,NA
-Wyoming,2016,July,2016-07-23,REGIONAL WEST MEDICAL CENTER,"Martinez, Marcos",Natural,M,NA,NA
-Wyoming,2016,October,2016-10-17,WMCI,"Benbo, Arlo",Natural,M,NA,NA
-Wyoming,2016,November,2016-11-06,WMCI,"Peters, Roy",Natural,M,NA,NA
-Wyoming,2016,December,2016-12-17,BANNER HEALTH COMM. HOSP,"Triplett, Monty",Natural,M,NA,NA
-Wyoming,2016,December,2016-12-28,WSP,"Hack, William",Natural,M,NA,NA
-Wyoming,2017,February,2017-02-02,WMCI,"Shamblen, Charles",Natural,M,NA,NA
-Wyoming,2017,February,2017-02-25,WMCI,"Anderson, Ronald",Natural,M,NA,NA
-Wyoming,2017,June,2017-06-02,WMCI,"Fletcher, Chester",Natural,M,NA,NA
-Wyoming,2017,August,2017-08-26,WSP,"Davis, Benjamin",Suicide,M,NA,NA
-Wyoming,2017,September,2017-09-15,WHF,"Wamser, Jason",Suicide,M,NA,NA
-Wyoming,2017,December,2017-12-10,WMCI,"Alberts, Paul",Natural,M,NA,NA
-Wyoming,2017,December,2017-12-24,WSP,"Champion, Franklin",Natural,M,NA,NA
-Wyoming,2018,January,2018-01-29,WMCI,"Jenkins, Curtis",Natural,M,NA,NA
-Wyoming,2018,March,2018-03-08,WMCI,"Rutland, Terrance",Natural,M,NA,NA
-Wyoming,2018,April,2018-04-18,WMCI,"Randall, Alfonso",Natural,M,NA,NA
-Wyoming,2018,July,2018-07-01,WMCI,"Villarreal, Frank",Natural,M,NA,NA
-Wyoming,2018,September,2018-09-27,WHCC,"Lane, Tyler",Natural,M,NA,NA
-Wyoming,2018,October,2018-10-21,WHF,"Shaw, Charles",Natural,M,NA,NA
-Wyoming,2019,January,2019-01-16,WMCI,"Garcia, John",Suicide,M,NA,NA
-Wyoming,2019,February,2019-02-09,"TALLAHATCHIE, MS","Jones, Charles",Suicide,M,NA,NA
-Wyoming,2019,February,2019-02-17,WMCI,"Wigfield, Gene",Natural,M,NA,NA
-Wyoming,2019,July,2019-07-16,WMCI,"Montez, Lorenzo",Natural,M,NA,NA
-Wyoming,2019,August,2019-08-15,REGIONAL WEST MED CNTR,"Brown, Leland",Natural,M,NA,NA
-Wyoming,2019,August,2019-08-27,WMCI,"Suliber, Alan",Natural,M,NA,NA
-Wyoming,2019,August,2019-08-31,WMCI,"Tolar, Galen",Natural,M,NA,NA
-Wyoming,2019,October,2019-10-09,WSP,"Stewart, Carl",Natural,M,NA,NA
-Wyoming,2019,December,2019-12-15,WMCI,"Miller, John",Natural,M,NA,NA
-Wyoming,2020,March,2020-03-21,WMCI,"Brown, Jeffrey",Suicide,M,NA,NA
-Wyoming,2020,October,2020-10-03,WMCI,"Mayhew, William",Natural,M,NA,NA
-Wyoming,2020,October,2020-10-29,WMCI,"Zack, Cody",Suicide,M,NA,NA
-Wyoming,2020,November,2020-11-26,WMCI,"Tygart, John",Suicide,M,NA,NA
-Wyoming,2020,December,2020-12-22,LDS HOSP. UTAH,"Newport, Steven",Natural- Covid Respiratory Failure,M,NA,NA
-Wyoming,1996,March,1996-03-10,WWC,"Maher, Carrie",Suicide,F,NA,NA
-Wyoming,2003,June,2003-06-26,WWC,"Roff, Laurie",Suicide by hanging,F,NA,NA
-Wyoming,2007,August,2007-08-02,WYOMING MEDICAL CENTER - CASPER,"Weis, Cheryl",Natural‚ Lung Disease,F,NA,NA
-Wyoming,2008,February,2008-02-04,WWC,"Smith, Cathy",Natural,F,NA,NA
-Wyoming,2008,February,2008-02-09,WYOMING MEDICAL CENTER - CASPER,"Hadley, Susan",Natural,F,NA,NA
-Wyoming,2012,April,2012-04-21,WYOMING MEDICAL CENTER ‚ÄÌ CASPER,"Garcia, Eulalia",Suicide by hanging,F,NA,NA
-Wyoming,2013,February,2013-02-05,WMCI,"Sanchez, Mary","Natural, End stage Liver disease",F,NA,NA
-Wyoming,2017,January,2017-01-15,WMCI,"Pendleton, Brandy","Natural, Metastatic carcinoma",F,NA,NA
-Wyoming,2019,June,2019-06-12,WMCI,"Uden, Alice",Natural,F,NA,NA
-Wyoming,2021,February,2021-02-08,NA,"Green, Stephen Franklin",NA,M,1948-01-27,Carbon County Hospital
-Wyoming,2021,February,2021-02-15,NA,"Belden, Gray Lee",NA,M,1953-06-27,Carbon County Hospital
-Wyoming,2021,March,2021-03-27,NA,"Hinckley, Clarence",NA,M,1964-02-14,Wyoming Medical Center
-Wyoming,2021,May,2021-05-29,Wyoming Medium Correctional Institution,"Leslie, Bruce Charles",NA,M,1952-04-14,Wyoming Medium Correctional Institution
-Wyoming,2021,September,2021-09-17,Wyoming Medium Correctional Institution,"Jones, James Ray",NA,M,1956-04-27,Wyoming Medium Correctional Institution
-Wyoming,2021,October,2021-10-04,NA,"Tapp, Jerry Thomas",NA,M,1942-05-23,Community Hospital
-Wyoming,2021,October,2021-10-20,NA,"Triplett, Desmond Otto",NA,M,1950-05-14,Regional West Medical Center
-Wyoming,2021,October,2021-10-28,NA,"Alford, Harry",NA,M,1956-05-08,Northern Colorado Medical Center
-Wyoming,2021,November,2021-11-03,NA,"Apodaca, Frank Lee",NA,M,1955-01-18,Community Hospital
-Wyoming,2021,November,2021-11-05,NA,"Montoya, Chris Jasper",NA,M,1968-08-19,Wyoming Medical Center
+State,Year,Month,Death.Date,Facility,Full.Name,Circumstance.General,Sex,DoB,Location,First.Name,Last.Name,ID.No,Race
+Wyoming,1992,January,1992-01-02,NA,"Fondren, James",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,1992,January,1992-01-16,NA,"Trombley, Clyde M",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,1992,January,1992-01-22,NA,"Hopkinson, Mark",Execution,M,NA,NA,NA,NA,NA,NA
+Wyoming,1992,June,1992-06-08,NA,"Tampa, George",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,1992,October,1992-10-24,NA,"Scharen, Joseph B",Suicide,M,NA,NA,NA,NA,NA,NA
+Wyoming,1992,December,1992-12-13,NA,"Barron, Stephen L",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,1993,January,1993-01-12,NA,"Coldman, Kenneth",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,1993,May,1993-05-10,NA,"White, James T",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,1993,October,1993-10-01,NA,"Boyd, Brent Allen",Suicide,M,NA,NA,NA,NA,NA,NA
+Wyoming,1993,November,1993-11-03,NA,"Long, Royal Russell",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,1993,December,1993-12-15,NA,"Ruybal, Pablo",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,1994,January,1994-01-22,NA,"Kimsey, Robert R",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,1994,January,1994-01-29,NA,"Walden, James K",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,1994,March,1994-03-17,NA,"Blackcrow, Austin",Homicide,M,NA,NA,NA,NA,NA,NA
+Wyoming,1994,April,1994-04-25,NA,"Coleman, Terry",Suicide,M,NA,NA,NA,NA,NA,NA
+Wyoming,1994,July,1994-07-16,NA,"Hallberg, John C",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,1995,April,1995-04-14,NA,"Mayne, Billy R",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,1996,January,1996-01-05,NA,"Kearns, Daryl E",Boiler Incident,M,NA,NA,NA,NA,NA,NA
+Wyoming,1996,January,1996-01-05,NA,"Sheet, James",Boiler Incident,M,NA,NA,NA,NA,NA,NA
+Wyoming,1996,January,1996-01-14,NA,"Wilson, Doug",Boiler Incident,M,NA,NA,NA,NA,NA,NA
+Wyoming,1996,January,1996-01-28,NA,"Engle, Mark",Suicide,M,NA,NA,NA,NA,NA,NA
+Wyoming,1996,April,1996-04-17,NA,"Lansdown, Donald",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,1996,June,1996-06-26,NA,"Edge, Dewey Lee",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,1996,August,1996-08-30,NA,"Smith, Richard L",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,1997,May,1997-05-06,NA,"Gentner, Charles R",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,1997,July,1997-07-21,NA,"Lewis, Clarence W",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,1998,February,1998-02-08,NA,"Ortega, Edward",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,1998,August,1998-08-26,NA,"Scott, Steven",Un-natural (drowned),M,NA,NA,NA,NA,NA,NA
+Wyoming,1998,October,1998-10-29,NA,"Jenkins, Jerry L",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,1998,October,1998-10-31,NA,"Mapp, Jody",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,1999,January,1999-01-30,NA,"Smethurst, Gerald",Suicide,M,NA,NA,NA,NA,NA,NA
+Wyoming,1999,June,1999-06-08,NA,"Stone, Russell E",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,1999,December,1999-12-15,NA,"Lopez, Frank R",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,2000,March,2000-03-22,NA,"Kennedy, Ellis",Homicide,M,NA,NA,NA,NA,NA,NA
+Wyoming,2000,April,2000-04-24,NA,"Wagoner, Robert",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,2000,July,2000-07-03,NA,"Roan Eagle, Orlando",Suicide,M,NA,NA,NA,NA,NA,NA
+Wyoming,2000,November,2000-11-15,NA,"Cobler, Bruce",Suicide,M,NA,NA,NA,NA,NA,NA
+Wyoming,2000,November,2000-11-20,NA,"Howard, Lawrence",Suicide,M,NA,NA,NA,NA,NA,NA
+Wyoming,2001,May,2001-05-04,NA,"Smith, Clarence",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,2001,May,2001-05-08,NA,"Smith, Frank",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,2001,June,2001-06-06,WSP,"Waters, Richard",Suicide,M,NA,NA,NA,NA,NA,NA
+Wyoming,2001,August,2001-08-31,NA,"Olguin, Juan",Undetermined,M,NA,NA,NA,NA,NA,NA
+Wyoming,2001,November,2001-11-07,CROWLEY,"Darrow, Mark",Undetermined,M,NA,NA,NA,NA,NA,NA
+Wyoming,2002,June,2002-06-19,WSP,"Devine, Hubert Charles",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,2002,December,2002-12-24,WSP,"Brown, Virgil",Natural (Cancer),M,NA,NA,NA,NA,NA,NA
+Wyoming,2002,December,2002-12-31,WSP,"Fredrick, Shane",Natural (Stroke),M,NA,NA,NA,NA,NA,NA
+Wyoming,2003,May,2003-05-18,WSP,"Armstrong, Arthur",Natural (Cancer),M,NA,NA,NA,NA,NA,NA
+Wyoming,2004,January,2004-01-09,WSP,"Bobich, Terry",Natural (Stroke),M,NA,NA,NA,NA,NA,NA
+Wyoming,2004,May,2004-05-30,CCMH (RAWLINS),"Spencer, Charles",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,2004,November,2004-11-16,"HIGH DESERT, NV","Sullivan, John",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,2005,January,2005-01-15,CCMH (RAWLINS),"Padilla, Telesforo R",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,2005,March,2005-03-20,WMC IN CASPER,"Johnson, Kirk Jay",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,2005,June,2005-06-15,WSP,"Coffelt, Larry Ray",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,2005,August,2005-08-02,MH IN RIVERTON,"Sanchez, Joseph Blaz",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,2005,October,2005-10-09,"SWEAT LODGE AREA, BILL CLAYTON, LITTLEFIELD, TX","Patrick, Ralph Douglas",Natural (CPA),M,NA,NA,NA,NA,NA,NA
+Wyoming,2005,October,2005-10-18,CCMH (RAWLINS),"Harper, Dale",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,2005,November,2005-11-26,CCMH (RAWLINS),"Large, Reuben Adolph",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,2006,January,2006-01-18,CCMH (RAWLINS),"Dean, Charles Emery",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,2006,January,2006-01-24,WMC IN CASPER,"Totterdell, Burnett",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,2006,April,2006-04-14,HOSPITAL IN TX,"Geesaman, Dale",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,2006,August,2006-08-29,WSP INFIRMARY,"Adkins, Paul",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,2007,January,2007-01-12,(WSP) WMC IN CASPER,"Brooks, William H.",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,2007,February,2007-02-19,"NORTH FORK CORRECTIONAL FACILITY, SAYRE, OKLAHOMA","Birr, Charles",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,2007,April,2007-04-23,WSP INFIRMARY,"Lee, John Wesley",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,2007,July,2007-07-10,WSP H-UNIT INFIRMARY,"Shannon, Lawrence",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,2007,August,2007-08-01,"MIDWEST REGIONAL MEDICAL CENTER, OK (NFCF)","Cardenas, Thomas",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,2007,December,2007-12-16,WHF,"Peterson, John",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,2008,February,2008-02-06,WHF,"Blankinship, John",Suicide,M,NA,NA,NA,NA,NA,NA
+Wyoming,2008,May,2008-05-03,CASPER MEDICAL CENTER,"Clawson, Clyde",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,2008,June,2008-06-11,WSP,"Rice, George",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,2008,June,2008-06-16,CARBON COUNTY MEMORIAL HOSPITAL,"Vernier, Gilbert",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,2008,July,2008-07-21,"SAYRE MEMORIAL HOSPITAL,  OK (NFCF)","Brown, James",Natural (CA),M,NA,NA,NA,NA,NA,NA
+Wyoming,2008,August,2008-08-05,WSP,"Maher, David",Natural (Emphysema),M,NA,NA,NA,NA,NA,NA
+Wyoming,2008,August,2008-08-05,WHCC,"Matousek, Gary",Natural (cardiac),M,NA,NA,NA,NA,NA,NA
+Wyoming,2009,January,2009-01-16,WSP,"Evans, Billy",Natural (cancer),M,NA,NA,NA,NA,NA,NA
+Wyoming,2009,January,2009-01-24,WMC CASPER,"Bell, Lawrence",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,2009,April,2009-04-14,WSP,"Robertson, Brian",Natural (HIV/AIDS),M,NA,NA,NA,NA,NA,NA
+Wyoming,2009,April,2009-04-16,WSP,"Tee, Henry",Natural (cancer),M,NA,NA,NA,NA,NA,NA
+Wyoming,2009,April,2009-04-23,WSP,"Kearns, Jerald",Natural (cardiac),M,NA,NA,NA,NA,NA,NA
+Wyoming,2009,May,2009-05-14,WMC CASPER,"Edwards, Harold",Natural (Multi System Failure),M,NA,NA,NA,NA,NA,NA
+Wyoming,2009,October,2009-10-13,OREGON,"Brown, Earl",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,2009,October,2009-10-26,WSP,"Garner, Thomas",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,2010,December,2010-12-04,WMCI,"Starr, Jason",Natural (cancer),M,NA,NA,NA,NA,NA,NA
+Wyoming,2011,June,2011-06-05,WMCI,"Horton, Raymond",Natural (cardiac),M,NA,NA,NA,NA,NA,NA
+Wyoming,2011,November,2011-11-14,WMCI,"Ronshaugen, Scott",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,2011,December,2011-12-02,REGIONAL WEST,"Wallace, Kevin",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,2012,January,2012-01-31,WMCI,"Davis, Jeffrey",Natural (cancer),M,NA,NA,NA,NA,NA,NA
+Wyoming,2012,March,2012-03-07,WMCI,"Miller, Charles",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,2012,October,2012-10-22,CARBON COUNTY HOSPITAL,"Ford, Rodger",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,2013,June,2013-06-17,CARBON COUNTY HOSPITAL,"Derrickson, Michael",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,2013,July,2013-07-25,TORRINGTON COMM. HOSP.,"Hawkes, John",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,2013,November,2013-11-23,WMCI,"Bell, Vern",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,2014,February,2014-02-14,WMCI,"Loomer, David",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,2014,February,2014-02-19,WMCI,"Rude, Jack",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,2014,April,2014-04-14,WSP,"Vigil, Travis",Accidental (heroin Intoxication),M,NA,NA,NA,NA,NA,NA
+Wyoming,2014,June,2014-06-02,CARBON COUNTY. MEMORIAL HOSP.,"Simmers, Thomas",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,2014,June,2014-06-05,TORRINGTON COMM. HOSP.,"Freyda, Glen",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,2014,June,2014-06-12,TORRINGTON COMM. HOSP.,"Vena, Joseph",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,2014,June,2014-06-26,TORRINGTON COMM. HOSP.,"Griswold, Homer",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,2014,July,2014-07-24,WSP,"Humphrey, Lee",Suicide,M,NA,NA,NA,NA,NA,NA
+Wyoming,2014,September,2014-09-29,WMCI,"Triplett, Donald",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,2014,November,2014-11-09,WMCI,"Wilson, Wesley",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,2014,November,2014-11-27,WMCI,"Flores, Jose",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,2014,December,2014-12-11,WMCI,"Byrd, Charles",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,2015,January,2015-01-10,WMCI,"Beverly, Thomas",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,2015,February,2015-02-01,WMCI,"Whiting, Gary",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,2015,April,2015-04-20,WSP,"Heath, Glenmore",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,2015,May,2015-05-07,WMCI,"Slater, Donald",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,2015,July,2015-07-21,WMCI,"Broomfield, Bruce",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,2015,November,2015-11-20,WMCI,"Burg, Larry",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,2015,December,2015-12-04,WMCI,"Sanchez, Jose",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,2016,January,2016-01-12,WMCI,"Bell, Robert",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,2016,January,2016-01-25,WMCI,"Romo, Rodney",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,2016,January,2016-01-31,WMCI,"Crook, William",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,2016,February,2016-02-05,WSP,"Ascherin, Alex",Suicide,M,NA,NA,NA,NA,NA,NA
+Wyoming,2016,March,2016-03-26,WMCI,"Craft, Douglas",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,2016,June,2016-06-22,MEMORIAL HOSPITAL,"Gorseth, Ronald",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,2016,July,2016-07-23,REGIONAL WEST MEDICAL CENTER,"Martinez, Marcos",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,2016,October,2016-10-17,WMCI,"Benbo, Arlo",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,2016,November,2016-11-06,WMCI,"Peters, Roy",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,2016,December,2016-12-17,BANNER HEALTH COMM. HOSP,"Triplett, Monty",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,2016,December,2016-12-28,WSP,"Hack, William",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,2017,February,2017-02-02,WMCI,"Shamblen, Charles",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,2017,February,2017-02-25,WMCI,"Anderson, Ronald",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,2017,June,2017-06-02,WMCI,"Fletcher, Chester",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,2017,August,2017-08-26,WSP,"Davis, Benjamin",Suicide,M,NA,NA,NA,NA,NA,NA
+Wyoming,2017,September,2017-09-15,WHF,"Wamser, Jason",Suicide,M,NA,NA,NA,NA,NA,NA
+Wyoming,2017,December,2017-12-10,WMCI,"Alberts, Paul",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,2017,December,2017-12-24,WSP,"Champion, Franklin",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,2018,January,2018-01-29,WMCI,"Jenkins, Curtis",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,2018,March,2018-03-08,WMCI,"Rutland, Terrance",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,2018,April,2018-04-18,WMCI,"Randall, Alfonso",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,2018,July,2018-07-01,WMCI,"Villarreal, Frank",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,2018,September,2018-09-27,WHCC,"Lane, Tyler",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,2018,October,2018-10-21,WHF,"Shaw, Charles",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,2019,January,2019-01-16,WMCI,"Garcia, John",Suicide,M,NA,NA,NA,NA,NA,NA
+Wyoming,2019,February,2019-02-09,"TALLAHATCHIE, MS","Jones, Charles",Suicide,M,NA,NA,NA,NA,NA,NA
+Wyoming,2019,February,2019-02-17,WMCI,"Wigfield, Gene",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,2019,July,2019-07-16,WMCI,"Montez, Lorenzo",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,2019,August,2019-08-15,REGIONAL WEST MED CNTR,"Brown, Leland",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,2019,August,2019-08-27,WMCI,"Suliber, Alan",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,2019,August,2019-08-31,WMCI,"Tolar, Galen",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,2019,October,2019-10-09,WSP,"Stewart, Carl",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,2019,December,2019-12-15,WMCI,"Miller, John",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,2020,March,2020-03-21,WMCI,"Brown, Jeffrey",Suicide,M,NA,NA,NA,NA,NA,NA
+Wyoming,2020,October,2020-10-03,WMCI,"Mayhew, William",Natural,M,NA,NA,NA,NA,NA,NA
+Wyoming,2020,October,2020-10-29,WMCI,"Zack, Cody",Suicide,M,NA,NA,NA,NA,NA,NA
+Wyoming,2020,November,2020-11-26,WMCI,"Tygart, John",Suicide,M,NA,NA,NA,NA,NA,NA
+Wyoming,2020,December,2020-12-22,LDS HOSP. UTAH,"Newport, Steven",Natural- Covid Respiratory Failure,M,NA,NA,NA,NA,NA,NA
+Wyoming,1996,March,1996-03-10,WWC,"Maher, Carrie",Suicide,F,NA,NA,NA,NA,NA,NA
+Wyoming,2003,June,2003-06-26,WWC,"Roff, Laurie",Suicide by hanging,F,NA,NA,NA,NA,NA,NA
+Wyoming,2007,August,2007-08-02,WYOMING MEDICAL CENTER - CASPER,"Weis, Cheryl",Natural‚ Lung Disease,F,NA,NA,NA,NA,NA,NA
+Wyoming,2008,February,2008-02-04,WWC,"Smith, Cathy",Natural,F,NA,NA,NA,NA,NA,NA
+Wyoming,2008,February,2008-02-09,WYOMING MEDICAL CENTER - CASPER,"Hadley, Susan",Natural,F,NA,NA,NA,NA,NA,NA
+Wyoming,2012,April,2012-04-21,WYOMING MEDICAL CENTER ‚ÄÌ CASPER,"Garcia, Eulalia",Suicide by hanging,F,NA,NA,NA,NA,NA,NA
+Wyoming,2013,February,2013-02-05,WMCI,"Sanchez, Mary","Natural, End stage Liver disease",F,NA,NA,NA,NA,NA,NA
+Wyoming,2017,January,2017-01-15,WMCI,"Pendleton, Brandy","Natural, Metastatic carcinoma",F,NA,NA,NA,NA,NA,NA
+Wyoming,2019,June,2019-06-12,WMCI,"Uden, Alice",Natural,F,NA,NA,NA,NA,NA,NA
+Wyoming,2021,February,2021-02-08,NA,"Green, Stephen Franklin",NA,M,1948-01-27,Carbon County Hospital,NA,NA,NA,NA
+Wyoming,2021,February,2021-02-15,NA,"Belden, Gray Lee",NA,M,1953-06-27,Carbon County Hospital,NA,NA,NA,NA
+Wyoming,2021,March,2021-03-27,NA,"Hinckley, Clarence",NA,M,1964-02-14,Wyoming Medical Center,NA,NA,NA,NA
+Wyoming,2021,May,2021-05-29,Wyoming Medium Correctional Institution,"Leslie, Bruce Charles",NA,M,1952-04-14,Wyoming Medium Correctional Institution,NA,NA,NA,NA
+Wyoming,2021,September,2021-09-17,Wyoming Medium Correctional Institution,"Jones, James Ray",NA,M,1956-04-27,Wyoming Medium Correctional Institution,NA,NA,NA,NA
+Wyoming,2021,October,2021-10-04,NA,"Tapp, Jerry Thomas",NA,M,1942-05-23,Community Hospital,NA,NA,NA,NA
+Wyoming,2021,October,2021-10-20,NA,"Triplett, Desmond Otto",NA,M,1950-05-14,Regional West Medical Center,NA,NA,NA,NA
+Wyoming,2021,October,2021-10-28,NA,"Alford, Harry",NA,M,1956-05-08,Northern Colorado Medical Center,NA,NA,NA,NA
+Wyoming,2021,November,2021-11-03,NA,"Apodaca, Frank Lee",NA,M,1955-01-18,Community Hospital,NA,NA,NA,NA
+Wyoming,2021,November,2021-11-05,NA,"Montoya, Chris Jasper",NA,M,1968-08-19,Wyoming Medical Center,NA,NA,NA,NA
+Wyoming,2022,NA,2022-02-10,WSP,NA,NA,M,4/10/1959,Hosptial,Dale,Dean,21549,I
+Wyoming,2022,NA,2022-02-15,ACC- Gillette,NA,NA,M,6/18/1990,ACC- Gillette,Steven,Stice,32407,W
+Wyoming,2022,NA,2022-02-28,WMCI,NA,NA,M,9/28/1947,WMCI,Thomas,Redenbaugh,30581,W
+Wyoming,2022,NA,2022-03-02,WMCI,NA,NA,M,8/1/1952,WMCI,Louis,Cosco,12910,W
+Wyoming,2022,NA,2022-04-17,WMCI,NA,NA,M,10/14/1964,WMCI,Daniel,Harris,17785,W
+Wyoming,2022,NA,2022-05-06,WMCI,NA,NA,M,6/19/1960,WMCI,David,Tarver,26981,W
+Wyoming,2022,NA,2022-05-07,WMCI,NA,NA,M,8/30/1972,WMCI,Francis,Eckman,29689,W
+Wyoming,2022,NA,2022-07-21,WMCI,NA,NA,M,6/27/1934,HOSP,Fred,Foley,29632,W
+Wyoming,2022,NA,2022-08-13,WMCI,NA,NA,M,4/10/1971,WMCI,Harry,Ballard,33283,B
+Wyoming,2022,NA,2022-09-04,WMCI,NA,NA,M,10/4/1946,WMCI,Donald,Souter,12763,W
+Wyoming,2023,NA,2023-01-11,WMCI,NA,NA,M,1/19/1951,WMCI,Phillip,Taylor,12552,W
+Wyoming,2023,NA,2023-04-06,WMCI,NA,NA,M,2/23/1944,WMCI,Richard,Edwards,18747,W
+Wyoming,2023,NA,2023-05-04,WMCI,NA,NA,M,10/8/1960,WMCI,Steve,Weldon,15397,W
+Wyoming,2023,NA,2023-06-08,WMCI,NA,NA,F,1/19/1969,WMCI,Tana,Kimber,3645,W
+Wyoming,2023,NA,2023-06-23,Iowa,NA,NA,M,12/4/1960,Iowa,Scott,Bailey,12973,W
+Wyoming,2023,NA,2023-07-23,WMCI,NA,NA,M,11/12/1957,WMCI,Leopoldo,Montoya,21607,H
+Wyoming,2023,NA,2023-11-05,WMCI,NA,NA,M,12/7/1951,WMCI,Carl,Pearson,34285,W
+Wyoming,2023,NA,2023-11-16,WSP,NA,NA,M,7/7/1959,Hospital,James,Bollig,34452,W
+Wyoming,2023,NA,2023-11-21,WMCI,NA,NA,M,3/20/1951,WMCI,Max,Louderback,31538,W
