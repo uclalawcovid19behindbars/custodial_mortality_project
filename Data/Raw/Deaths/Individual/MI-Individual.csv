@@ -2598,3 +2598,256 @@ Michigan,2021,December,2021-12-18,RGC,HFA,1961-11-29,Male,Black or African Ameri
 Michigan,2021,December,2021-12-21,RGC,HFA,1951-12-20,Male,Black or African American,COVID-19; RESPIRATORY FAILURE; PNEUMONIA,Acute Respiratory Failure. COVID19 Infection,NA,656
 Michigan,2021,December,2021-12-25,JCF,DWHC,1953-03-19,Male,Black or African American,LIVER FAILURE,Complications of Hepatocellular Carcinoma,NA,668
 Michigan,2021,December,2021-12-28,RGC,DWH,1941-11-26,Male,White,COPD,Complications of Chronic Obstructive Pulmonary Disease,NA,656
+Michigan,2022,January,2022-01-05T00:00:00Z,JCF,HFA,NA,NA,NA,Hemorrhagic and Cardiogenic Shock,NA,NA,NA
+Michigan,2022,January,2022-01-01T00:00:00Z,RGC,DWH,NA,NA,NA,Complications of Metastatic Prostate Cancer,NA,NA,NA
+Michigan,2022,January,2022-01-02T00:00:00Z,LCF,HFA,NA,NA,NA,Complications of COVID19 Pneumonia,NA,NA,NA
+Michigan,2022,January,2022-01-01T00:00:00Z,LCF,PROMEDICA COLDWATER,NA,NA,NA,Hypoxic encephalopathy due to acute methamphetamine toxicity,NA,NA,NA
+Michigan,2022,January,2022-01-01T00:00:00Z,MTU,HFA,NA,NA,NA,"Cardiac Arrythmia, Hyperkalemia, Acute Kidney Injury, Coronary Artery Disease",NA,NA,NA
+Michigan,2022,January,2022-01-05T00:00:00Z,LCF,HFA,NA,NA,NA,"Acute NSTEMI, Complications of chronic lymphocytic leukemia with tumor lysis syndrome",NA,NA,NA
+Michigan,2022,January,2022-01-06T00:00:00Z,RGC,DWH,NA,NA,NA,Complications of COPD,NA,NA,NA
+Michigan,2022,January,2022-01-09T00:00:00Z,RGC,DWH,NA,NA,NA,Complications of Cholangiocarcinoma,NA,NA,NA
+Michigan,2022,January,2022-01-14T00:00:00Z,RMI,RMI,NA,NA,NA,Hanging,NA,NA,NA
+Michigan,2022,January,2022-01-17T00:00:00Z,DRF,DWH,NA,NA,NA,Complications of Metastatic Colon Cancer,NA,NA,NA
+Michigan,2022,January,2022-01-24T00:00:00Z,MTU,HFA,NA,NA,NA,Ischemic Embolic Stroke. Occulsion of Right Vertebral Artery,NA,NA,NA
+Michigan,2022,January,2022-01-24T00:00:00Z,URF,WAR MEMORIAL HOSPITAL,NA,NA,NA,Myocardial Infraction. Atherosclerotic Cardiovascular Disease. Hypertensive Cardiovascular Disease.,NA,NA,NA
+Michigan,2022,January,2022-01-26T00:00:00Z,SLF,SLF,NA,NA,NA,Hypertensive Cardiovascular Disease complicated by COVID-19 Pneumonia,NA,NA,NA
+Michigan,2022,January,2022-01-26T00:00:00Z,MRF,MRF,NA,NA,NA,Atherosclerotic and Hypertensive Cardiovascular Disease,NA,NA,NA
+Michigan,2022,January,2022-01-27T00:00:00Z,MRF,HFA,NA,NA,NA,"Septic Shock, Urinary Tract Infection and bacteremia",NA,NA,NA
+Michigan,2022,January,2022-01-27T00:00:00Z,MCF,MERCY HOSPITAL-MUSKEGON,NA,NA,NA,"Combined toxic effects of fentanyl, xylazine and hydroxyzine",NA,NA,NA
+Michigan,2022,January,2022-01-27T00:00:00Z,SRF,SRF,NA,NA,NA,Atherosclerotic coronary artery disease,NA,NA,NA
+Michigan,2022,January,2022-01-29T00:00:00Z,LCF,LCF,NA,NA,NA,Complications of CAD,NA,NA,NA
+Michigan,2022,January,2022-01-29T00:00:00Z,WHV,ST JOSEPH MERCY-ANN ARBOR,NA,NA,NA,COVID-19,NA,NA,NA
+Michigan,2022,February,2022-02-04T00:00:00Z,RGC,DWH,NA,NA,NA,End Stage Liver Cancer and Complications Thereof,NA,NA,NA
+Michigan,2022,February,2022-02-11T00:00:00Z,RMI,RMI,NA,NA,NA,"Multifactorial Cardiovascular Disease (Cardiomegaly, Coronary Artery Atherosclerosis, and mycardial inflammation)",NA,NA,NA
+Michigan,2022,February,2022-02-13T00:00:00Z,RGC,DWHC,NA,NA,NA,End Stage Thyroid Cancer and complications Thereof,NA,NA,NA
+Michigan,2022,February,2022-02-13T00:00:00Z,SMT,HF,NA,NA,NA,Complications of COVID-19 Infection,NA,NA,NA
+Michigan,2022,March,2022-03-01T00:00:00Z,LCF,HFA,NA,NA,NA,Retroperitoneal Hemorrhage and Complications Thereof,NA,NA,NA
+Michigan,2022,March,2022-03-05T00:00:00Z,WHV,WHV,NA,NA,NA,Spontaneous Dissection of the Right Coronary Artery,NA,NA,NA
+Michigan,2022,March,2022-03-21T00:00:00Z,LCF,LCF,NA,NA,NA,Complications of End Stage Prostate Cancer,NA,NA,NA
+Michigan,2022,March,2022-03-19T00:00:00Z,RGC,HFA,NA,NA,NA,Complications of Sepsis,NA,NA,NA
+Michigan,2022,March,2022-03-23T00:00:00Z,MRF,MCCLAREN HOSPITAL-MT CLEMENS,NA,NA,NA,Thalamic and Midbrain Intraparenchymal Hemorrhage,NA,NA,NA
+Michigan,2022,March,2022-03-29T00:00:00Z,MRF,MRF,NA,NA,NA,"Intoxication by the combined effects of Heroin, Fentanyl and Methamphetamine",NA,NA,NA
+Michigan,2022,April,2022-04-03T00:00:00Z,SLF,MMMC-ALMA,NA,NA,NA,Acute Fentanayl Intoxication,NA,NA,NA
+Michigan,2022,April,2022-04-11T00:00:00Z,RGC,DWHC,NA,NA,NA,Metastatic Lung Cancer and Complications Thereof (Cell type Unknown),NA,NA,NA
+Michigan,2022,April,2022-04-18T00:00:00Z,RGC,DWHC,NA,NA,NA,Metastatic Multiple Myeloma and Complications,NA,NA,NA
+Michigan,2022,April,2022-04-21T00:00:00Z,RGC,DWHC,NA,NA,NA,Cardiac Arrhythmia; Cardiomyopathy and End Stage Congestive Heart Failure,NA,NA,NA
+Michigan,2022,April,2022-04-27T00:00:00Z,STF,DWH,NA,NA,NA,Complications of Pancretic Cancer with Mets,NA,NA,NA
+Michigan,2022,April,2022-04-26T00:00:00Z,DWH,HFA,NA,NA,NA,Complications of Congestive Heart Failure. Cardiomyopathy,NA,NA,NA
+Michigan,2022,April,2022-04-30T00:00:00Z,RGC,DWH,NA,NA,NA,Complications of a Cerebrovascular Infarction,NA,NA,NA
+Michigan,2022,May,2022-05-03T00:00:00Z,MRF,MCLAREN-LANSING,NA,NA,NA,Cardiac Arrest. MRSA Pneumonia. COPD. Coronary Artery Disease,NA,NA,NA
+Michigan,2022,April,2022-04-04T00:00:00Z,LCF,HFA,NA,NA,NA,Acute Ischemic Stroke and Complications thereof,NA,NA,NA
+Michigan,2022,May,2022-05-07T00:00:00Z,SLF,SLF,NA,NA,NA,Pulmonary Embolus,NA,NA,NA
+Michigan,2022,May,2022-05-11T00:00:00Z,RGC,HFA,NA,NA,NA,Acute Hypoxia. Pulmonary Edema. Congestive Heart Failure,NA,NA,NA
+Michigan,2022,May,2022-05-18T00:00:00Z,RGC,DWH,NA,NA,NA,Malignant Neoplasm of the Prostate with Mets. Unspecified Neoplasm of the Lymph node.,NA,NA,NA
+Michigan,2022,May,2022-05-17T00:00:00Z,RGC,HFJ,NA,NA,NA,Complications of COPD & Multifocal pneumonia,NA,NA,NA
+Michigan,2022,May,2022-05-19T00:00:00Z,MTU,SPARROW-LANSING,NA,NA,NA,Cerebrovascular Accident,NA,NA,NA
+Michigan,2022,May,2022-05-21T00:00:00Z,JCS,HFJ,NA,NA,NA,Complications of AIDS,NA,NA,NA
+Michigan,2022,May,2022-05-21T00:00:00Z,RGC,HFA,NA,NA,NA,Complications of Stage III Lung Cancer with COVID Pneumonia,NA,NA,NA
+Michigan,2022,May,2022-05-30T00:00:00Z,MRF,MRF,NA,NA,NA,Stab Wound of the Neck,NA,NA,NA
+Michigan,2022,May,2022-05-30T00:00:00Z,RGC,DWH,NA,NA,NA,Metastatic Melanoma & Complications Therof ( Unclear Primary site),NA,NA,NA
+Michigan,2022,June,2022-06-02T00:00:00Z,KCF,DWH,NA,NA,NA,Cerebrovascular Infarction and Complications Therof,NA,NA,NA
+Michigan,2022,June,2022-06-02T00:00:00Z,RGC,DWH,NA,NA,NA,High Grade Malignancy Metastatic to Lungs ( Unknown Primary),NA,NA,NA
+Michigan,2022,May,2022-05-23T00:00:00Z,MRF,MCLAREN-LANSING,NA,NA,NA,Cardiac Arrest. Coronary Artery Disease,NA,NA,NA
+Michigan,2022,June,2022-06-03T00:00:00Z,DRF,SPARROW-CARSON CITY,NA,NA,NA,Multiple blunt Force Injuries,NA,NA,NA
+Michigan,2022,June,2022-06-06T00:00:00Z,RGC,DWH,NA,NA,NA,Metastatic Poorly Differential Non-Small Cell Lung Cancer & Complications Therof,NA,NA,NA
+Michigan,2022,June,2022-06-07T00:00:00Z,RGC,DWH,NA,NA,NA,Complications of Cardiomyopathy. Hypertensive & Arteriosclerotic Cardiovascular Disease,NA,NA,NA
+Michigan,2022,June,2022-06-12T00:00:00Z,LRF,LRF,NA,NA,NA,Acute Cornoary artery thrombosis,NA,NA,NA
+Michigan,2022,June,2022-06-13T00:00:00Z,DRF,DRF,NA,NA,NA,Sudden Cardiac Arrest due to Cardiomegaly. Due to Hypertensive and Artherosclertic cardiovascular disease,NA,NA,NA
+Michigan,2022,June,2022-06-14T00:00:00Z,LCF,PROMEDICA COLDWATER REGIONAL HOSPITAL,NA,NA,NA,Ruptured Abdominal Aneurysm,NA,NA,NA
+Michigan,2022,June,2022-06-19T00:00:00Z,RGC,DWH,NA,NA,NA,Chronic Obstructive Pulmonary Disease & Complications,NA,NA,NA
+Michigan,2022,June,2022-06-19T00:00:00Z,MRF,MRF,NA,NA,NA,Hanging,NA,NA,NA
+Michigan,2022,June,2022-06-20T00:00:00Z,DWH,DWH,NA,NA,NA,Adenocarcinoma of Lung with Mets,NA,NA,NA
+Michigan,2022,June,2022-06-24T00:00:00Z,RGC,HFJ,NA,NA,NA,COPD & Complications,NA,NA,NA
+Michigan,2022,June,2022-06-30T00:00:00Z,LRF,MERCY HOSPITAL,NA,NA,NA,Hanging,NA,NA,NA
+Michigan,2022,July,2022-07-01T00:00:00Z,SMT,HFA,NA,NA,NA,Blunt Force Head Trauma with complications,NA,NA,NA
+Michigan,2022,July,2022-07-06T00:00:00Z,LRF,MERCY HOSPITAL,NA,NA,NA,Multiple Sharp Force Injuries,NA,NA,NA
+Michigan,2022,July,2022-07-14T00:00:00Z,RGC,RGV,NA,NA,NA,Hypertensive Atherosclerotic Cardiovascular Disease,NA,NA,NA
+Michigan,2022,July,2022-07-19T00:00:00Z,SRF,HFJ,NA,NA,NA,Hypertensive Intracerebral Hemorrhage & complications,NA,NA,NA
+Michigan,2022,August,2022-08-01T00:00:00Z,DRF,SPARROW-LANSING,NA,NA,NA,Pending,NA,NA,NA
+Michigan,2022,July,2022-07-06T00:00:00Z,SRF,NA,NA,NA,NA,Ligature asphyxiation. Hanging,NA,NA,NA
+Michigan,2022,July,2022-07-23T00:00:00Z,MTU,NA,NA,NA,NA,"Pulmonary Thromboembolus, bilateral. Deep vein Thrombosis of Lower Extremities",NA,NA,NA
+Michigan,2022,August,2022-08-12T00:00:00Z,RGC,DWH,NA,NA,NA,Huntingtons Disease  and complications Thereof,NA,NA,NA
+Michigan,2022,August,2022-08-11T00:00:00Z,RGC,DWHC,NA,NA,NA,Complications of Pancreatic Cancer with Metastasis,NA,NA,NA
+Michigan,2022,August,2022-08-17T00:00:00Z,JCF,JCF,NA,NA,NA,Pending,NA,NA,NA
+Michigan,2022,August,2022-08-20T00:00:00Z,RGC,DWHC,NA,NA,NA,Hypertensive Atherosclerotic Cardiovascular Disease,NA,NA,NA
+Michigan,2022,August,2022-08-23T00:00:00Z,RGC,DWH,NA,NA,NA,Unspecified Dementia without Behavioral Disturbances,NA,NA,NA
+Michigan,2022,August,2022-08-24T00:00:00Z,STF,DWH,NA,NA,NA,Hepatocellular Carcinoma (Liver Cancer) and comlications Thereof,NA,NA,NA
+Michigan,2022,August,2022-08-25T00:00:00Z,STF,GRATIOT MED CENTER,NA,NA,NA,Athersoclerotic Cardiovascular disease,NA,NA,NA
+Michigan,2022,August,2022-08-27T00:00:00Z,IBC,IBC,NA,NA,NA,Indeterminate,NA,NA,NA
+Michigan,2022,August,2022-08-27T00:00:00Z,LCF,DWH,NA,NA,NA,Hypertensive Atherosclerotic Cardiovascular disease,NA,NA,NA
+Michigan,2022,August,2022-08-29T00:00:00Z,WHV,ST. JOSEPH MED HOSPITAL,NA,NA,NA,Acute on Chronic Congestive Heart Failure. Hypertensive Cardiovascular Disease,NA,NA,NA
+Michigan,2022,August,2022-08-31T00:00:00Z,RGC,DWH,NA,NA,NA,End Stage Chronic Obstructive Pulmonary Disease,NA,NA,NA
+Michigan,2022,August,2022-08-20T00:00:00Z,RGC,DWH,NA,NA,NA,Lung Cancer with Metastasis and complications Thereof ( cell type unknown),NA,NA,NA
+Michigan,2022,September,2022-09-08T00:00:00Z,ICF,NA,NA,NA,NA,Perscription Drug (Including Nifedipine) Intoxication,NA,NA,NA
+Michigan,2022,September,2022-09-10T00:00:00Z,RGC,DWH,NA,NA,NA,Congestive Heart failure,NA,NA,NA
+Michigan,2022,September,2022-09-11T00:00:00Z,RGC,DWH,NA,NA,NA,Glioblastoma with Mets,NA,NA,NA
+Michigan,2022,September,2022-09-08T00:00:00Z,RGC,U OF M HOSPITAL,NA,NA,NA,Complications of Abdomnial Aortic Aneurysm status post repair,NA,NA,NA
+Michigan,2022,September,2022-09-18T00:00:00Z,RGC,DWH,NA,NA,NA,Chronic  Obstructive Pulmonary Disease,NA,NA,NA
+Michigan,2022,September,2022-09-18T00:00:00Z,MRF,MCLAREN MACOMB,NA,NA,NA,Multiple Sharp Force Trauma,NA,NA,NA
+Michigan,2022,September,2022-09-21T00:00:00Z,RGC,C-UNIT,NA,NA,NA,Hypertensive Atherosclerotic Cardiovascular Disease,NA,NA,NA
+Michigan,2022,September,2022-09-20T00:00:00Z,JCS,DWH,NA,NA,NA,Congestive Heart Failure,NA,NA,NA
+Michigan,2022,September,2022-09-19T00:00:00Z,MRF,MCLAREN-MACOMB,NA,NA,NA,Hanging,NA,NA,NA
+Michigan,2022,September,2022-09-26T00:00:00Z,RGC,DWHC,NA,NA,NA,Prostate Cancer with Metastasis,NA,NA,NA
+Michigan,2022,September,2022-09-24T00:00:00Z,WHV,ST JOSEPH MERCY HOSPITAL,NA,NA,NA,Hanging,NA,NA,NA
+Michigan,2022,September,2022-09-24T00:00:00Z,RGC,DWH,NA,NA,NA,Hepatic Cancer and Complications Thereof,NA,NA,NA
+Michigan,2022,October,2022-10-02T00:00:00Z,MRF,MRF,NA,NA,NA,Intoxication by Fentanyl,NA,NA,NA
+Michigan,2022,October,2022-10-01T00:00:00Z,MCF,MCF,NA,NA,NA,Ruptured Aortic dissection,NA,NA,NA
+Michigan,2022,October,2022-10-01T00:00:00Z,LRF,MERCY HOSPITAL,NA,NA,NA,Cardiomegaly,NA,NA,NA
+Michigan,2022,September,2022-09-30T00:00:00Z,JCS,HFA,NA,NA,NA,Hanging,NA,NA,NA
+Michigan,2022,October,2022-10-01T00:00:00Z,RGC,DWH,NA,NA,NA,Complications of Metastatic Multifocal Hepatocellular Carcinoma,NA,NA,NA
+Michigan,2022,October,2022-10-06T00:00:00Z,RGC,FORD HOSPITAL-JACKSON,NA,NA,NA,Adenocarcinoma of the Pleura,NA,NA,NA
+Michigan,2022,October,2022-10-06T00:00:00Z,SMT,HFA,NA,NA,NA,Intraventricular Hemorrhage,NA,NA,NA
+Michigan,2022,October,2022-10-09T00:00:00Z,RGC,HFA,NA,NA,NA,Multilobar Pneumonia with Sepsis,NA,NA,NA
+Michigan,2022,October,2022-10-08T00:00:00Z,RGC,DWH,NA,NA,NA,Liver Cancer with Metastasis,NA,NA,NA
+Michigan,2022,October,2022-10-17T00:00:00Z,RGC,DWH,NA,NA,NA,Colorectal Cancer with Metastais,NA,NA,NA
+Michigan,2022,October,2022-10-17T00:00:00Z,WHV,MCLAREN-LANSING,NA,NA,NA,Acute on Chronic Systolic and Diastolic Heart Failure. Coronary Artery Disease,NA,NA,NA
+Michigan,2022,October,2022-10-18T00:00:00Z,MRF,MRF,NA,NA,NA,Asphyxiation due to Strangulation/Suffocation,NA,NA,NA
+Michigan,2022,October,2022-10-20T00:00:00Z,RGC,HFA,NA,NA,NA,Prescription Medication Overdose & complications thereof,NA,NA,NA
+Michigan,2022,October,2022-10-19T00:00:00Z,ARF,ST JOSEPH MERCY HOSPITAL,NA,NA,NA,Hanging,NA,NA,NA
+Michigan,2022,October,2022-10-25T00:00:00Z,RGC,DWH,NA,NA,NA,Coronary Artery Disease,NA,NA,NA
+Michigan,2022,October,2022-10-24T00:00:00Z,MRF,MCLAREN-MACOMB,NA,NA,NA,Intoxication by the combined effects of fentanyl and heroin,NA,NA,NA
+Michigan,2022,October,2022-10-25T00:00:00Z,LCF,MCLAREN-LANSING,NA,NA,NA,Cholangiocarcinoma,NA,NA,NA
+Michigan,2022,October,2022-10-25T00:00:00Z,SMT,HFA,NA,NA,NA,Myocardial Infarction. Hypertensive Atherosclerotic Cardiovascular Disease,NA,NA,NA
+Michigan,2022,October,2022-10-30T00:00:00Z,RGC,DWH,NA,NA,NA,End Stage Lover Disease. Cirrhosis of the Liver,NA,NA,NA
+Michigan,2022,November,2022-11-06T00:00:00Z,MRF,MCLAREN MACOMB,NA,NA,NA,"Acute Ischemic Stroke. Atrial Fibrillation, Chronic, . Hypertensive Cardiovascular Disease",NA,NA,NA
+Michigan,2022,November,2022-11-06T00:00:00Z,DWH,DWH,NA,NA,NA,Stage IV Lung Cancer and Adenocarcinoma with Bony Mets,NA,NA,NA
+Michigan,2022,November,2022-11-02T00:00:00Z,RGC,HFA,NA,NA,NA,Metastatic Right Lung Carcinoma with Complications,NA,NA,NA
+Michigan,2022,November,2022-11-04T00:00:00Z,WCC,HFA,NA,NA,NA,Acute Hypoxic Respiratory Failure; Aspiration Pneumonia; Complications of Neuroendocrine Colonic Tumor,NA,NA,NA
+Michigan,2022,November,2022-11-14T00:00:00Z,DWH,DWH,NA,NA,NA,Congestive Heart Failure. Non-Ischemic Cardiomyopathy,NA,NA,NA
+Michigan,2022,November,2022-11-14T00:00:00Z,MBP,MCCLAREN-LANSING,NA,NA,NA,"Cardiac arrest, Acute hypoxemic respiratory failure, pulmonary edema, acute myeloid leukemia",NA,NA,NA
+Michigan,2022,November,2022-11-15T00:00:00Z,TCF,MGL,NA,NA,NA,"Non St Elevation Myocardial Infraction, Coronary Aftery Disease, Severe Aortic Stenosis",NA,NA,NA
+Michigan,2022,November,2022-11-17T00:00:00Z,ECF,ECF,NA,NA,NA,Subtentorial Neoplasm of Brain with Compression of Brainstem,NA,NA,NA
+Michigan,2022,November,2022-11-21T00:00:00Z,MRF,MRF,NA,NA,NA,High grade round cell sarcoma with peritoneal metastases,NA,NA,NA
+Michigan,2022,November,2022-11-27T00:00:00Z,RGC,DWH,NA,NA,NA,Chronic Obstructive Pulmonary Disease,NA,NA,NA
+Michigan,2022,November,2022-11-25T00:00:00Z,WCC,DWH,NA,NA,NA,End Stage Renal Failure; Chronic Kidney Disease,NA,NA,NA
+Michigan,2022,December,2022-12-04T00:00:00Z,RGC,DWH,NA,NA,NA,Complications of a Acute Cerebrovascular Infarction,NA,NA,NA
+Michigan,2022,December,2022-12-06T00:00:00Z,WCC,HFA,NA,NA,NA,Altered Mental Status; Liver Cancer with Mets ( Cell Type Unknown),NA,NA,NA
+Michigan,2022,December,2022-12-09T00:00:00Z,RGC,MCLAREN-LANSING,NA,NA,NA,Metastatic nueroendocrine carcinoma of rectum,NA,NA,NA
+Michigan,2022,December,2022-12-11T00:00:00Z,SRF,SRF,NA,NA,NA,Asphyxia by hanging,NA,NA,NA
+Michigan,2022,December,2022-12-11T00:00:00Z,RGC,DWH,NA,NA,NA,Urothelial Cell Cancer with Mets,NA,NA,NA
+Michigan,2022,December,2022-12-11T00:00:00Z,RGC,RGC,NA,NA,NA,Multiple blunt force injuries,NA,NA,NA
+Michigan,2022,December,2022-12-13T00:00:00Z,RGC,DWH,NA,NA,NA,Sepsis. Complications of paraplegia,NA,NA,NA
+Michigan,2022,December,2022-12-16T00:00:00Z,RGC,HFA,NA,NA,NA,Cardiac Arrest,NA,NA,NA
+Michigan,2022,December,2022-12-11T00:00:00Z,RGC,DWHC,NA,NA,NA,Urothelial cancer with Mets,NA,NA,NA
+Michigan,2023,January,2023-01-04T00:00:00Z,WHV,WHV,NA,NA,NA,Uterine Cancer,NA,NA,NA
+Michigan,2023,January,2023-01-03T00:00:00Z,RGC,DWHC,NA,NA,NA,Metastatic Prostate Cancer,NA,NA,NA
+Michigan,2023,January,2023-01-06T00:00:00Z,DRF,SPARROW-LANSING,NA,NA,NA,Accute hypoxic respiratory failure. Pericardial Effusion. Lung Cancer,NA,NA,NA
+Michigan,2023,January,2023-01-16T00:00:00Z,ARF,ARF,NA,NA,NA,Hanging,NA,NA,NA
+Michigan,2023,January,2023-01-14T00:00:00Z,LCF,LCF,NA,NA,NA,Complications of coronary artery disease,NA,NA,NA
+Michigan,2023,January,2023-01-14T00:00:00Z,MCF,MCLAREN HOSPITAL,NA,NA,NA,"Acute Respiratory Distress syndrome, Influenza A",NA,NA,NA
+Michigan,2023,January,2023-01-13T00:00:00Z,RGC,HFA,NA,NA,NA,"Congestive heart failure, dilated cardiomyopathy",NA,NA,NA
+Michigan,2023,January,2023-01-09T00:00:00Z,WHV,WHV,NA,NA,NA,Pulmonary adenocarcinoma (cancer) with osseous and brain metastases,NA,NA,NA
+Michigan,2023,January,2023-01-31T00:00:00Z,LCF,U OF M HOSPITAL,NA,NA,NA,Subdural hematoma,NA,NA,NA
+Michigan,2023,January,2023-01-30T00:00:00Z,WCC,U OF M HOSPITAL,NA,NA,NA,"Traumatic Head injury, fall",NA,NA,NA
+Michigan,2023,January,2023-01-29T00:00:00Z,RGC,DWHC,NA,NA,NA,Prostate Cancer with metastasis,NA,NA,NA
+Michigan,2023,February,2023-02-04T00:00:00Z,LCF,HFA,NA,NA,NA,Complications of Arteriosclerotic Cardiovascular disease,NA,NA,NA
+Michigan,2023,February,2023-02-07T00:00:00Z,TCF,TCF,NA,NA,NA,Left Pulmonary Artery Thrombo-Embolism,NA,NA,NA
+Michigan,2023,February,2023-02-08T00:00:00Z,WHV,WHV,NA,NA,NA,Oropharyngeal Squamous Cell Carcinoma (Cancer) with Suspected Metastases to Lymph Nodes and Right Lung,NA,NA,NA
+Michigan,2023,February,2023-02-15T00:00:00Z,RGC,RGC,NA,NA,NA,Esophageal Cancer and Complications,NA,NA,NA
+Michigan,2023,February,2023-02-22T00:00:00Z,RGC,DWH,NA,NA,NA,Stage IV Prostate Cancer and complications thereof,NA,NA,NA
+Michigan,2023,February,2023-02-26T00:00:00Z,WHV,ST JOSEPH MERCY HOSPITAL-ANN ARBOR,NA,NA,NA,Hanging,NA,NA,NA
+Michigan,2023,February,2023-02-27T00:00:00Z,MBP,UP HSM ED,NA,NA,NA,Congestive Heart Failure Exacerbation,NA,NA,NA
+Michigan,2023,March,2023-03-01T00:00:00Z,RGC,DWH,NA,NA,NA,"Complications of end state renal failure, chronic kidney disease",NA,NA,NA
+Michigan,2023,March,2023-03-05T00:00:00Z,MTU,MCLAREN,NA,NA,NA,Metastatic Adenocarcinoma of unknown primary with cardiac tamponade,NA,NA,NA
+Michigan,2023,March,2023-03-14T00:00:00Z,RGC,DWHC,NA,NA,NA,Chronic Obstructive Pulmonary Disease and Complications,NA,NA,NA
+Michigan,2023,March,2023-03-18T00:00:00Z,RGC,DWH,NA,NA,NA,End Stage Prostate Cancer with Metastasis,NA,NA,NA
+Michigan,2023,March,2023-03-16T00:00:00Z,RGC,HFJ,NA,NA,NA,"Acute Myocardial Infraction, Hypertensive Cardiovascular Disease",NA,NA,NA
+Michigan,2023,March,2023-03-21T00:00:00Z,RGC,DWH,NA,NA,NA,End Stage Dementia and Complications Thereof,NA,NA,NA
+Michigan,2023,March,2023-03-23T00:00:00Z,MTU,HFJ,NA,NA,NA,"Hypoxic Respiratory Failure, Pneumonia, Complications of Lung Cancer",NA,NA,NA
+Michigan,2023,March,2023-03-26T00:00:00Z,TCF,MCLAREN-LANSING,NA,NA,NA,"Acute on Chronic Decompensated Heart Failure, Acute Renal Failure, Acute Liver Failure",NA,NA,NA
+Michigan,2023,March,2023-03-26T00:00:00Z,RGC,HFJ,NA,NA,NA,"Sepsis, Multiple Skin Ulcers, T Cell Lymphoma",NA,NA,NA
+Michigan,2023,March,2023-03-30T00:00:00Z,SMT,SMT,NA,NA,NA,Hypertensive Atherosclerotic Cardiovascular disease,NA,NA,NA
+Michigan,2023,April,2023-04-02T00:00:00Z,JCS,JCS,NA,NA,NA,"Acute Coronary Artery Thrombus, Hypertensive Atherosclerotic Cardiovascular Disease",NA,NA,NA
+Michigan,2023,April,2023-04-02T00:00:00Z,RGC,DWH,NA,NA,NA,Laryngeal Cancer and Complications thereof,NA,NA,NA
+Michigan,2023,March,2023-03-31T00:00:00Z,SMT,HFA-JACKSON,NA,NA,NA,Metastatic Liver Carcinoma and complications,NA,NA,NA
+Michigan,2023,March,2023-03-03T00:00:00Z,ARF,ARF,NA,NA,NA,Hypertensive Cardiovascular Disease,NA,NA,NA
+Michigan,2023,April,2023-04-05T00:00:00Z,RGC,DWH,NA,NA,NA,Stage IV Adenocarcinoma of Right Lung with Mets to Bone,NA,NA,NA
+Michigan,2023,April,2023-04-04T00:00:00Z,RGC,DWH,NA,NA,NA,End Stage Dementia and Complications Thereof,NA,NA,NA
+Michigan,2023,April,2023-04-19T00:00:00Z,MRF,MRF,NA,NA,NA,Intoxication by the combined effects of multiple medications,NA,NA,NA
+Michigan,2023,April,2023-04-20T00:00:00Z,RGC,DWH,NA,NA,NA,Complications of tongue and throat cancer,NA,NA,NA
+Michigan,2023,April,2023-04-21T00:00:00Z,MTU,SPARROW-LANSING,NA,NA,NA,Sharp Force Injuries (incised wounds) of left upper extremity,NA,NA,NA
+Michigan,2023,April,2023-04-23T00:00:00Z,RGC,DWH,NA,NA,NA,Stage IV Gastric Adenocarcinoma with Mets and Complcations thereof,NA,NA,NA
+Michigan,2023,April,2023-04-25T00:00:00Z,MBP,MBP,NA,NA,NA,Hanging,NA,NA,NA
+Michigan,2023,April,2023-04-26T00:00:00Z,WCC,WCC,NA,NA,NA,ESRD Complications,NA,NA,NA
+Michigan,2023,April,2023-04-29T00:00:00Z,RGC,DWHC,NA,NA,NA,Metastatic Rectal Cancer and Complications thereof,NA,NA,NA
+Michigan,2023,April,2023-04-28T00:00:00Z,RGC,DWHC,NA,NA,NA,End Stage Dementia and Complications thereof,NA,NA,NA
+Michigan,2023,April,2023-04-27T00:00:00Z,RGC,HFJ,NA,NA,NA,"Hypoxia, Aspiration Pneumonia",NA,NA,NA
+Michigan,2023,April,2023-04-14T00:00:00Z,TCF,MCLAREN-LAPEER,NA,NA,NA,"Acute Congestive Heart Failure, Hypertensive and arteriosclerotic cardiovascular disease",NA,NA,NA
+Michigan,2023,May,2023-05-04T00:00:00Z,RGC,DWHC,NA,NA,NA,Complications of Lung Cancer with metastases,NA,NA,NA
+Michigan,2023,May,2023-05-07T00:00:00Z,NCF,NCF,NA,NA,NA,"Aortic Valve Stenosis, Bicuspid aortic valve",NA,NA,NA
+Michigan,2023,May,2023-05-07T00:00:00Z,RGC,DWHC,NA,NA,NA,Complications of multiple myeloma,NA,NA,NA
+Michigan,2023,May,2023-05-15T00:00:00Z,MBP,HFA-DETROIT,NA,NA,NA,Seizure Disorder due to Brain Glioma,NA,NA,NA
+Michigan,2023,May,2023-05-12T00:00:00Z,RGC,RGC,NA,NA,NA,Hanging,NA,NA,NA
+Michigan,2023,May,2023-05-21T00:00:00Z,STF,STF,NA,NA,NA,Hypertensive and Atherosclerotic cardiovascular disease,NA,NA,NA
+Michigan,2023,May,2023-05-29T00:00:00Z,RGC,DWH,NA,NA,NA,Prostate cancer with a malignant prostrate neoplasm and complications thereof,NA,NA,NA
+Michigan,2023,May,2023-05-29T00:00:00Z,RGC,HFJ,NA,NA,NA,"Complications of Sepsis, Multifocal Pneumonia of the lungs",NA,NA,NA
+Michigan,2023,May,2023-05-30T00:00:00Z,RGC,DWHC,NA,NA,NA,Lung Cancer with Metastasis and complications thereof,NA,NA,NA
+Michigan,2023,June,2023-06-01T00:00:00Z,WCC,U OF M HOSPITAL,NA,NA,NA,Atherosclerotic Cardiovascular disease,NA,NA,NA
+Michigan,2023,June,2023-06-01T00:00:00Z,MTU,MTU,NA,NA,NA,Atherosclerotic and hypertensive cardiovascular disease,NA,NA,NA
+Michigan,2023,June,2023-06-05T00:00:00Z,WCC,DWHC,NA,NA,NA,"Malnutrition, Severe Dementia, Drug Induced Parkinsonism, Schizophrenia",NA,NA,NA
+Michigan,2023,June,2023-06-21T00:00:00Z,RGC,HFJ,NA,NA,NA,"Complications of Sepsis, Multifocal pneumonia and pulmonary emboli, complications of large B-Cell lymphoma with Mets",NA,NA,NA
+Michigan,2023,July,2023-07-04T00:00:00Z,SMT,HFJ,NA,NA,NA,Pulmonary Embolism,NA,NA,NA
+Michigan,2023,June,2023-06-29T00:00:00Z,RGC,DWHC,NA,NA,NA,End stage congestive heart failure,NA,NA,NA
+Michigan,2023,July,2023-07-06T00:00:00Z,RGC,HFJ,NA,NA,NA,"Congestive Heart Failure, Dilated Cardiomyopathy",NA,NA,NA
+Michigan,2023,July,2023-07-23T00:00:00Z,RGC,DWH,NA,NA,NA,Malignant Neoplasm of Lung,NA,NA,NA
+Michigan,2023,July,2023-07-29T00:00:00Z,RGC,DWHC,NA,NA,NA,End Stage Congestive Heart Failure,NA,NA,NA
+Michigan,2023,July,2023-07-29T00:00:00Z,SLF,NA,NA,NA,NA,Hanging,NA,NA,NA
+Michigan,2023,August,2023-08-02T00:00:00Z,IBC,HFJ,NA,NA,NA,Metastatic Liver Carcinoma,NA,NA,NA
+Michigan,2023,August,2023-08-03T00:00:00Z,ARF,ARF,NA,NA,NA,Congestive heart failure due to hypertensive and arteriosclerotic cardiovascular disease,NA,NA,NA
+Michigan,2023,August,2023-08-02T00:00:00Z,RGC,DWHC,NA,NA,NA,End Stage Gioblastoma and Complications Thereof,NA,NA,NA
+Michigan,2023,August,2023-08-03T00:00:00Z,RGC,DWHC,NA,NA,NA,End Stage Prostrate Cancer and Complications Thereof,NA,NA,NA
+Michigan,2023,August,2023-08-05T00:00:00Z,RGC,HFJ,NA,NA,NA,"Respiratory Failure with Hypoxia, Severe Chronic Obstructive Pulmonary Disease with Recurrent Pneumonia",NA,NA,NA
+Michigan,2023,August,2023-08-07T00:00:00Z,TCF,MCLAREN HOSPITAL-LAPEER,NA,NA,NA,Metastatic Liver Carinoma,NA,NA,NA
+Michigan,2023,August,2023-08-08T00:00:00Z,SLF,SLF,NA,NA,NA,Aortic Dissection,NA,NA,NA
+Michigan,2023,August,2023-08-12T00:00:00Z,ARF,HFA,NA,NA,NA,Hypertensive Atherosclerotic Cardiovascular Disease,NA,NA,NA
+Michigan,2023,August,2023-08-13T00:00:00Z,KCF,SPARROW HOSPITAL-LANSING,NA,NA,NA,Complications of cardiac arrest associated with sedation for excisional biopsy of posterior neck mass,NA,NA,NA
+Michigan,2023,August,2023-08-26T00:00:00Z,RGC,DWHC,NA,NA,NA,Malignant neoplasm of the intestinal tract with mets to left kidney,NA,NA,NA
+Michigan,2023,August,2023-08-27T00:00:00Z,RGC,DWHC,NA,NA,NA,Colon Cancer and Complications thereof,NA,NA,NA
+Michigan,2023,August,2023-08-29T00:00:00Z,RGC,DWHC,NA,NA,NA,Lung Cancer with Mets and Complications Thereof,NA,NA,NA
+Michigan,2023,August,2023-08-09T00:00:00Z,WHV,WHV,NA,NA,NA,Adenocarcinoma of the lung with metastasis to the brain,NA,NA,NA
+Michigan,2023,September,2023-09-05T00:00:00Z,RGC,DWHC,NA,NA,NA,Complications of End Stage Congestive Heart Failure (systolic and diastolic),NA,NA,NA
+Michigan,2023,September,2023-09-04T00:00:00Z,TCF,TCF,NA,NA,NA,"Congestive Heart Failure, Hypertensive Arteriosclerotic Cardiovascular Disease",NA,NA,NA
+Michigan,2023,September,2023-09-02T00:00:00Z,RGC,DWHC,NA,NA,NA,End Stage Liver Cancer and Complications thereof,NA,NA,NA
+Michigan,2023,August,2023-08-27T00:00:00Z,LCF,MCLAREN HOSPITAL,NA,NA,NA,Pancreatic Cancer,NA,NA,NA
+Michigan,2023,September,2023-09-10T00:00:00Z,RGC,DWH,NA,NA,NA,Ruptured Traumatic Aortic Dissection,NA,NA,NA
+Michigan,2023,September,2023-09-10T00:00:00Z,KCF,MCLAREN-LANSING,NA,NA,NA,"Cardiac arrest, ventricular tachycardia, small bowel obstruction, colonic polyposis",NA,NA,NA
+Michigan,2023,September,2023-09-13T00:00:00Z,ARF,HFA-JACKSON,NA,NA,NA,Hypertensive Intracerebral Hemorrhage with complications,NA,NA,NA
+Michigan,2023,September,2023-09-12T00:00:00Z,WHV,ST. JOSEPH-TRINITY HEALTH ANN ARBOR,NA,NA,NA,"Complications of End Stage Renal Failure, Type I Diabetes Mellitus",NA,NA,NA
+Michigan,2023,September,2023-09-21T00:00:00Z,URF,URF,NA,NA,NA,Acute Fentanyl Toxicity,NA,NA,NA
+Michigan,2023,September,2023-09-14T00:00:00Z,DRF,DRF,NA,NA,NA,Hanging,NA,NA,NA
+Michigan,2023,September,2023-09-17T00:00:00Z,ARF,CHARLES/VIRGINIA HICKMAN HOSPITAL,NA,NA,NA,Bronchial Asthma,NA,NA,NA
+Michigan,2023,September,2023-09-24T00:00:00Z,RGC,HFJ,NA,NA,NA,"Brain hemorrhage, Acute Hypoxic respiratory failure
+Sepsis , NSTEMI, Severe Aortic stenosis, HTN",NA,NA,NA
+Michigan,2023,September,2023-09-29T00:00:00Z,MTU,SPARROW HOSPITAL-IONIA,NA,NA,NA,Ruptured Aortic Aneurysm,NA,NA,NA
+Michigan,2023,October,2023-10-02T00:00:00Z,RGC,DWHC,NA,NA,NA,Mucinous Adenocarcinoma of the Bladder and Complications Thereof,NA,NA,NA
+Michigan,2023,October,2023-10-12T00:00:00Z,RGC,DWHC,NA,NA,NA,End Stage Rectal Cancer and Complications Thereof,NA,NA,NA
+Michigan,2023,October,2023-10-16T00:00:00Z,MTU,MTU,NA,NA,NA,Diabetic ketoacidosis,NA,NA,NA
+Michigan,2023,October,2023-10-23T00:00:00Z,MTU,MTU,NA,NA,NA,Hanging,NA,NA,NA
+Michigan,2023,October,2023-10-24T00:00:00Z,RGC,DWHC,NA,NA,NA,"Complications of Malignant Hepatocellular Carcinoma, Cirrhosis, Alcoholism",NA,NA,NA
+Michigan,2023,October,2023-10-30T00:00:00Z,RGC,DWHC,NA,NA,NA,Chronic Obstructive Pulmonary Disease and Complications thereof,NA,NA,NA
+Michigan,2023,October,2023-10-29T00:00:00Z,LCF,LCF,NA,NA,NA,Acute Methamphetamine Overdose,NA,NA,NA
+Michigan,2023,November,2023-11-02T00:00:00Z,MBP,HFA,NA,NA,NA,Non Small Cell Lung Cancer with Mets and Complications thereof,NA,NA,NA
+Michigan,2023,October,2023-10-19T00:00:00Z,DRF,DRF,NA,NA,NA,Acute ethanol and fentanyl toxicity,NA,NA,NA
+Michigan,2023,November,2023-11-07T00:00:00Z,RGC,DWHC,NA,NA,NA,Complications of Metastatic Lung Cancer (cell type unknown),NA,NA,NA
+Michigan,2023,November,2023-11-12T00:00:00Z,SRF,SRF,NA,NA,NA,Arteriosclerotic & hypertensive heart disease w/ congestive heart failure,NA,NA,NA
+Michigan,2023,November,2023-11-09T00:00:00Z,ICF,SPARROW HOSPITAL-LANSING,NA,NA,NA,Complications of Cerebral Venous Sinus Thrombosis,NA,NA,NA
+Michigan,2023,November,2023-11-19T00:00:00Z,URF,MCLAREN NORTHERN MICHIGAN,NA,NA,NA,Craniocerebral Trauma,NA,NA,NA
+Michigan,2023,November,2023-11-20T00:00:00Z,RGC,HFA,NA,NA,NA,"Acute Chronic Hypoxia, Covid 19 Pneumonia",NA,NA,NA
+Michigan,2023,November,2023-11-27T00:00:00Z,RGC,DWHC,NA,NA,NA,Lung Cancer with Mets and Complications thereof,NA,NA,NA
+Michigan,2023,November,2023-11-27T00:00:00Z,URF,MGL,NA,NA,NA,"Sepsis, Cellulitis Left Leg, Acute Renal Failure, Acute Myeloid Leukemia",NA,NA,NA
+Michigan,2023,November,2023-11-28T00:00:00Z,ECF,ECF,NA,NA,NA,"Acute myocardial infraction, plaque rupture w occlusive coronary artery disease, atherosclerotic artery disease",NA,NA,NA
+Michigan,2023,December,2023-12-02T00:00:00Z,JCF,HFA,NA,NA,NA,Congestive Heart Failure & Hypertensive Atherosclerotic Cardiovascular Disease,NA,NA,NA
+Michigan,2023,December,2023-12-04T00:00:00Z,STF,MCLAREN HOSPITAL-LANSING,NA,NA,NA,"Heart failure, End stage renal disease, covid pneumonia",NA,NA,NA
+Michigan,2023,December,2023-12-07T00:00:00Z,IBC,IBC,NA,NA,NA,Fentanyl Intoxication,NA,NA,NA
+Michigan,2023,December,2023-12-07T00:00:00Z,LCF,PROMEDICA COLDWATER HOSPITAL,NA,NA,NA,Complications of Sepsis,NA,NA,NA
+Michigan,2023,December,2023-12-09T00:00:00Z,LCF,LCF,NA,NA,NA,Complications of Coronary Artery Disease,NA,NA,NA
+Michigan,2023,December,2023-12-12T00:00:00Z,RGC,DWHC,NA,NA,NA,Dementia,NA,NA,NA
+Michigan,2023,December,2023-12-22T00:00:00Z,RGC,RGC,NA,NA,NA,Multiple Blunt Force Injuries,NA,NA,NA
+Michigan,2023,December,2023-12-31T00:00:00Z,WCC,U OF M ANN ARBOR,NA,NA,NA,Hypertensive Heart Disease,NA,NA,NA
+Michigan,2023,December,2023-12-28T00:00:00Z,RGC,DWHC,NA,NA,NA,End Stage Lung Cancer (Cell Type Unknown) and Complications thereof,NA,NA,NA
+Michigan,2023,November,2023-11-13T00:00:00Z,RGC,DWHC,NA,NA,NA,Metastatic Prostrate Cancer with mets to Liver,NA,NA,NA
+Michigan,2023,December,2023-12-23T00:00:00Z,ARF,HICKMAN PROMEDICA HOSPITAL,NA,NA,NA,"Hypertensive Arteriosclerotic Cardiovascular Disease, Obesity",NA,NA,NA
+Michigan,2023,December,2023-12-19T00:00:00Z,JCF,JCF,NA,NA,NA,Hypertensive Arteriosclerotic Cardiovascular Disease,NA,NA,NA
+Michigan,2023,December,2023-12-16T00:00:00Z,IBC,MCLAREN,NA,NA,NA,"Neuroendocrine Carcinoma Liver, Fulminant Hepatic Failure",NA,NA,NA
+Michigan,2023,December,2023-12-17T00:00:00Z,RGC,DWHC,NA,NA,NA,Colon Cancer and Complications Thereof,NA,NA,NA
+Michigan,2023,February,2023-02-24T00:00:00Z,RGC,DWHC,NA,NA,NA,Pending,NA,NA,NA
