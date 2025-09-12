@@ -1109,7 +1109,7 @@ interpolate_vera_dem_updated <- function() {
             set_colnames(vera.cols.1) %>%
             subset(!is.na(December.2018) &
                        State.Abb != 'State') %>%
-            melt(id.vars = c('State.Abb', 'State')) %>%
+            reshape2::melt(id.vars = c('State.Abb', 'State')) %>%
             mutate(variable = as.character(variable),
                    Date = case_when(
                        str_detect('December.2018', variable) ~ '2018-12-31',
@@ -1137,7 +1137,7 @@ interpolate_vera_dem_updated <- function() {
                 set_colnames(vera.cols.2) %>%
                 subset(!is.na(September.2022) &
                            State != 'state_name') %>%
-                melt(id.vars = c('State.Abb', 'State')) %>%
+                reshape2::melt(id.vars = c('State.Abb', 'State')) %>%
                 mutate(variable = as.character(variable),
                        Date = case_when(
                            str_detect('September.2022', variable) ~ '2022-09-30',
