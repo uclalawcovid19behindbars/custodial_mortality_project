@@ -80,144 +80,15 @@ Vermont,2022,August,2022-08-28T00:00:00Z,SSCF,"ROY, RONALD",Male,Ronald,NA,Roy,1
 Vermont,2022,October,2022-10-25T00:00:00Z,SSCF,"GRISWOLD, DAN M",Male,Dan,M,Griswold,44896,White,No,68,Medical - Unknown,Declared deceased at facility
 Vermont,2022,November,2022-11-30T00:00:00Z,SSCF,"MOULD, CHARLES FRANCIS",Male,Charles,Francis,Mould,15369,White,No,75,Medical - Unknown,Declared deceased at facility
 Vermont,2022,December,2022-12-11T00:00:00Z,MVRCF,"MARTIN, JACK P",Male,Jack,P,Martin,13944,White,No,49,Medical - Unknown,Transferred to Rutland Regional Medical Center - never regained consciousness
-Vermont,2022,July,2022-07-27T00:00:00Z,BAPP,"PFAFF, BRIAN RUSSELL",Male,Brian,Russell,Pfaff,165007,Some other Race,No,45,Unknown,Found deceased
-Vermont,2022,August,2022-08-16T00:00:00Z,BAPP,"GIBBS, HEATHER",Female,Heather,NA,Gibbs,89916,White,No,35,Accident,Car Accident
-Vermont,2022,September,2022-09-08T00:00:00Z,BAPP,"JARVIS, TRAVIS MICHAEL",Male,Travis,Michael,Jarvis,113484,White,No,33,Overdose,Overdose
-Vermont,2022,September,2022-09-26T00:00:00Z,BEPP,"ANGELIDES, TAFANA R",Female,Tafana,R,Angelides,160113,White,No,29,Medical - Natural,Transported to UVMMC ICU
-Vermont,2022,June,2022-06-08T00:00:00Z,BRPP,"STUART, MARTIN EUGENE",Male,Martin,Eugene,Stuart,85961,White,No,70,Medical - Pneumonia,"Admitted to Brattleboro Mem Hos from transitional housing, transferred to Cheshire Med Ctr in NH"
-Vermont,2022,October,2022-10-07T00:00:00Z,BRPP,"DEJESUS, OSVALDO",Male,Osvaldo,NA,Dejesus,71776,White,Yes,37,Unknown,Found deceased in residence
-Vermont,2022,January,2022-01-16T00:00:00Z,BUPP,"VANARTSDALEN, WILLIAM MARK",Male,William,Mark,Vanartsdalen,163240,White,No,67,Medical - Natural,Found deceased in residence
-Vermont,2022,February,2022-02-26T00:00:00Z,BUPP,"RUSSELL, DEANNA MARIE",Female,Deanna,Marie,Russell,162247,White,No,49,Unknown,Found deceased in hotel
-Vermont,2022,February,2022-02-26T00:00:00Z,BUPP,"MERCY, WESLEY HARLAN",Male,Wesley,Harlan,Mercy,114554,White,No,32,Unknown - Suspected Overdose,Found deceased in residence
-Vermont,2022,March,2022-03-24T00:00:00Z,BUPP,"LINDSAY, ISAAC ROBENSON",Male,Isaac,Robenson,Lindsay,12953,Black or African American,No,50,Medical - Natural,Deceased while in hospice for illness
-Vermont,2022,April,2022-04-25T00:00:00Z,BUPP,"CURTIS, GREGORY HEBERT",Male,Gregory,Hebert,Curtis,5148,White,Yes,63,Medical - Unknown,Admitted to UVMMC from transitional housing and died in hospital
-Vermont,2022,July,2022-07-09T00:00:00Z,BUPP,"LADUE-BUSHEY, JOY N",Female,Joy,N,Ladue-Bushey,93553,White,No,36,Unknown - Suspected Overdose,Found deceased in residence
-Vermont,2022,August,2022-08-20T00:00:00Z,BUPP,"DAVIS, DANIEL JAMES",Male,Daniel,James,Davis,85661,White,No,42,Unknown - Suspected Overdose,Found deceased in Burlington
-Vermont,2022,August,2022-08-26T00:00:00Z,BUPP,"WATKINS, RILEY",Male,Riley,NA,Watkins,148812,White,No,31,Unknown - Suspected Overdose,Found deceased in residence in IN
-Vermont,2022,September,2022-09-08T00:00:00Z,BUPP,"TINKELPAUGH, MARK SCOTT",Male,Mark,Scott,Tinkelpaugh,163605,White,No,63,Unknown,Found deceased in Winooski VT
-Vermont,2022,September,2022-09-11T00:00:00Z,BUPP,"GAY II, JEFFREY RAYMOND",Male,Jeffrey,Raymond,Gay Ii,8296,White,No,49,Unknown,Found deceased in residence
-Vermont,2022,November,2022-11-07T00:00:00Z,BUPP,"TROMBLEY, JASON PETER",Male,Jason,Peter,Trombley,78240,White,No,42,Unknown,Found deceased in transitional housing
-Vermont,2022,December,2022-12-03T00:00:00Z,BUPP,"SHARROW, THOMAS",Male,Thomas,NA,Sharrow,19437,White,No,52,Unknown - Suspected Overdose,Found deceased in residence
-Vermont,2022,March,2022-03-13T00:00:00Z,HAPP,"GURSKY, ASHLEIGH MARIE",Female,Ashleigh,Marie,Gursky,139517,White,No,24,Unknown,Found deceased in mother's residence
-Vermont,2022,May,2022-05-05T00:00:00Z,HAPP,"FRAZIER JR, BRYAN PAUL",Transgender - Female,Bryan,Paul,Frazier Jr,128659,American Indian or Alaskan Native,No,39,Unknown,Found deceased in hotel
-Vermont,2022,July,2022-07-03T00:00:00Z,HAPP,"JENKS, JOSHUA",Male,Joshua,NA,Jenks,160925,White,No,33,Unknown - Suspected Overdose,Found deceased in residence
-Vermont,2022,September,2022-09-17T00:00:00Z,HAPP,"DODGE, THOMAS",Male,Thomas,NA,Dodge,6091,White,No,54,Unknown - Suspected Overdose,Found deceased in hotel
-Vermont,2022,September,2022-09-28T00:00:00Z,HAPP,"TREMBLAY, BARBARA M",Female,Barbara,M,Tremblay,17335,White,No,60,Unknown - Suspected Overdose,Found deceased in residence
-Vermont,2022,October,2022-10-31T00:00:00Z,HAPP,"FERULLO, MEGAL VALERIE",Female,Megal,Valerie,Ferullo,158396,White,No,61,Unknown,Found deceased in residence
-Vermont,2022,April,2022-04-28T00:00:00Z,NEPP,"WILLIS, GREGORY ALLEN",Male,Gregory,Allen,Willis,5001509,White,No,44,Accident,Car Accident
-Vermont,2022,April,2022-04-29T00:00:00Z,NEPP,"FLANNERY, STEVEN PATRICK",Male,Steven,Patrick,Flannery,152703,White,No,32,Unknown - Suspected Overdose,Found deceased in Franklin County House of Corrections in MA
-Vermont,2022,May,2022-05-20T00:00:00Z,NEPP,"ANDRES, CHRISTOPHER",Male,Christopher,NA,Andres,142935,White,Yes,74,Medical - Natural,Deceased after illness
-Vermont,2022,September,2022-09-21T00:00:00Z,NEPP,"BENJAMIN, MARK P",Male,Mark,P,Benjamin,67694,White,No,43,Homicide,Homicide
-Vermont,2022,March,2022-03-25T00:00:00Z,RUPP,"CLINTON-AMIABLE, HENRY",Male,Henry,NA,Clinton-Amiable,146447,Black or African American,No,32,Drowning,Deceased in Puerto Rico
-Vermont,2022,April,2022-04-13T00:00:00Z,RUPP,"MCPHEE, NATHAN A",Male,Nathan,A,Mcphee,76580,White,No,41,Accident,Car Accident
-Vermont,2022,June,2022-06-16T00:00:00Z,RUPP,"POGUE, JUSTIN T",Male,Justin,T,Pogue,146850,White,No,28,Unknown,Found deceased in residence
-Vermont,2022,July,2022-07-06T00:00:00Z,RUPP,"CADORETTE, TERRY M",Male,Terry,M,Cadorette,3284,White,No,63,Unknown,Found deceased in residence
-Vermont,2022,July,2022-07-12T00:00:00Z,RUPP,"FULLEM, PATRICK J",Male,Patrick,J,Fullem,87992,White,Yes,67,Unknown,Found deceased in residence
-Vermont,2022,August,2022-08-01T00:00:00Z,RUPP,"DAVIS, GRANT ROY",Male,Grant,Roy,Davis,79302,White,Yes,74,Medical - Natural,Deceased in elder care facility
-Vermont,2022,August,2022-08-22T00:00:00Z,RUPP,"DELONG, ANDREW JOSEPH",Male,Andrew,Joseph,Delong,15001633,White,Yes,43,Unknown - Suspected Overdose,Found deceased in residence
-Vermont,2022,September,2022-09-05T00:00:00Z,RUPP,"MUZZY, GARY",Male,Gary,NA,Muzzy,35180,White,No,60,Medical - Unknown,Deceased at UVMMC
-Vermont,2022,September,2022-09-14T00:00:00Z,RUPP,"VANOVERBEKE, ALAN ROBERT",Male,Alan,Robert,Vanoverbeke,140598,White,No,71,Unknown,Deceased
-Vermont,2022,March,2022-03-08T00:00:00Z,SAPP,"BARTEMY, ERIC DEAN",Male,Eric,Dean,Bartemy,49417,White,No,43,Unknown,Found deceased in residence
-Vermont,2022,April,2022-04-02T00:00:00Z,SAPP,"EMERSON, DENNIS W",Male,Dennis,W,Emerson,116169,White,No,62,Unknown,Found deceased in residence
-Vermont,2022,May,2022-05-08T00:00:00Z,SAPP,"PRATT, LOGAN MICHAEL",Transgender - Female,Logan,Michael,Pratt,77655,White,No,34,Homicide,Deceased at UVMMC after shooting
-Vermont,2022,June,2022-06-01T00:00:00Z,SAPP,"EDSON, MAX F",Male,Max,F,Edson,56189,White,No,40,Unknown,Found deceased in residence
-Vermont,2022,June,2022-06-26T00:00:00Z,SAPP,"CAMERON, DAVID WAYNE",Male,David,Wayne,Cameron,3350,White,No,57,Unknown,Found deceased in residence
-Vermont,2022,August,2022-08-04T00:00:00Z,SAPP,"BRANCHAUD, SHANE M",Male,Shane,M,Branchaud,59263,White,No,40,Unknown,Found deceased in residence
-Vermont,2022,August,2022-08-31T00:00:00Z,SAPP,"LUCIER, BARBARA J",Female,Barbara,J,Lucier,134425,White,No,74,Medical - Unknown,Deceased at Northwestern Medical Center
-Vermont,2022,September,2022-09-05T00:00:00Z,SAPP,"EDGERLY, TIMOTHY CARL",Male,Timothy,Carl,Edgerly,73464,White,No,37,Unknown - Suspected Overdose,Found deceased
-Vermont,2022,November,2022-11-08T00:00:00Z,SAPP,"BLOUIN, NATASHA R",Female,Natasha,R,Blouin,112885,White,No,29,Medical - Unknown,Admitted to UVMMC 11/5
-Vermont,2022,December,2022-12-07T00:00:00Z,SAPP,"CADIEUX, STEVEN N",Male,Steven,N,Cadieux,61501,White,No,47,Unknown,Notified of death by housemate
-Vermont,2022,November,2022-11-27T00:00:00Z,SJPP,"COUGHLIN, CHRISTOPHER WAYLON",Male,Christopher,Waylon,Coughlin,65997,White,No,43,Unknown,Found deceased in residence
-Vermont,2022,December,2022-12-11T00:00:00Z,SJPP,"HEDDING, BRANDON LEE",Male,Brandon,Lee,Hedding,95047,White,No,35,Medical - Natural,"Admitted to NVRH, transferred to Cheshire Medical Center in NH"
-Vermont,2022,December,2022-12-17T00:00:00Z,SJPP,"GARFIELD JR, MARK RUSSELL SCOTT",Male,Mark,Russell,Garfield Jr,58095,White,No,39,Unknown - Suspected Overdose,Found deceased in a vehicle
-Vermont,2022,January,2022-01-06T00:00:00Z,SPPP,"DOUGLAS, JAMIE D",Male,Jamie,D,Douglas,146194,White,No,25,Unknown - Suspected Overdose,Notified of death by father
-Vermont,2022,January,2022-01-08T00:00:00Z,SPPP,"BANKER, NEIL E",Male,Neil,E,Banker,906,White,No,72,Medical - Natural,Admitted to Springfield Hospital on 12/28/2022
-Vermont,2022,May,2022-05-15T00:00:00Z,SPPP,"TYRRELL JR, KEITH JESSEY",Male,Keith,Jessey,Tyrrell Jr,75235,White,No,35,Unknown - Suspected Overdose,"Brought by associate to Springfield Hospital, declared deceased upon arrival"
-Vermont,2022,May,2022-05-24T00:00:00Z,SPPP,"SCOTT III, MALCOLM",Male,Malcolm,NA,Scott Iii,94409,White,Yes,68,Unknown,Found deceased in residence
-Vermont,2022,August,2022-08-03T00:00:00Z,SPPP,"MULLINNEX, PATRICK JAMES",Male,Patrick,James,Mullinnex,69932,White,No,39,Homicide,Found deceased
-Vermont,2022,August,2022-08-25T00:00:00Z,SPPP,"MILLS, MICHAEL PAUL",Male,Michael,Paul,Mills,80388,White,No,36,Homicide,"Shot by Ludlow PD, hospitalized and died 10 days later"
-Vermont,2022,September,2022-09-17T00:00:00Z,SPPP,"DANIELS, NINA MARIE",Female,Nina,Marie,Daniels,155511,White,Yes,42,Unknown - Suspected Overdose,Found deceased
 Vermont,2023,January,2023-01-01T14:18:00Z,SSCF,"BUTSON, HENRY G.",M,NA,NA,NA,NA,NA,NA,NA,NA,Deceased at Springfield Hospital Springfield VT
-Vermont,2023,January,2023-01-04T15:59:00Z,BUPP,"WILBERT, MATTHEW RICHARD",M,NA,NA,NA,NA,NA,NA,NA,NA,Deceased 1/4/2023
-Vermont,2023,January,2023-01-05T13:00:00Z,BEPP,"CRANDALL, SHAWN M",M,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Vermont,2023,January,2023-01-05T14:13:00Z,HAPP,"BLANCHARD, PAUL R",M,NA,NA,NA,NA,NA,NA,NA,NA,Early discharge per court.
-Vermont,2023,January,2023-01-07T15:58:00Z,BUPP,"VERRASTRO, ROBERT JAMES",M,NA,NA,NA,NA,NA,NA,NA,NA,Deceased 1/7/23
-Vermont,2023,January,2023-01-09T09:46:00Z,BUPP,"MONTY, AMBER GAIL",F,NA,NA,NA,NA,NA,NA,NA,NA,Deceased 1/9/2023
 Vermont,2023,January,2023-01-17T11:41:00Z,NWSCF,"GERO-DREW, SHAWN DOUGLAS",M,NA,NA,NA,NA,NA,NA,NA,NA,Released deceased on 1/17/23 at 1141
-Vermont,2023,January,2023-01-20T10:53:00Z,RUPP,"PALAZZI, FRANCIS RAYMOND",M,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Vermont,2023,January,2023-01-23T12:08:00Z,RUPP,"CARROCCIA, KRISTOPHER M",M,NA,NA,NA,NA,NA,NA,NA,NA,DECEASED: CASE CLOSED: 01/23/23
-Vermont,2023,January,2023-01-30T00:00:00Z,SJPP,"LUKSHA III, JOSEPH MICHAEL",M,NA,NA,NA,NA,NA,NA,NA,NA,Deceased
-Vermont,2023,January,2023-01-30T10:18:00Z,RUPP,"VANDENBURGH, TREVOR J",M,NA,NA,NA,NA,NA,NA,NA,NA,DECEASED: 01/30/23
-Vermont,2023,January,2023-01-31T15:04:00Z,BEPP,"NICKLAW, MATTHEW C",M,NA,NA,NA,NA,NA,NA,NA,NA,See BPD narrative
-Vermont,2023,February,2023-02-01T14:08:00Z,SAPP,"SCHREINER, HOPE B",F,NA,NA,NA,NA,NA,NA,NA,NA,SI passed away on 2/1/23
-Vermont,2023,February,2023-02-03T11:02:00Z,BUPP,"DOUGLAS, MARLON E",M,NA,NA,NA,NA,NA,NA,NA,NA,Deceased 2/3/23
-Vermont,2023,February,2023-02-04T09:14:00Z,SAPP,"RODRIGUEZ, JEREMY",M,NA,NA,NA,NA,NA,NA,NA,NA,SI passed away 2/4/23
-Vermont,2023,February,2023-02-09T13:04:00Z,MIPP,"DOWNEY-TEACHOUT, JACKSON",M,NA,NA,NA,NA,NA,NA,NA,NA,Death
-Vermont,2023,February,2023-02-09T14:41:00Z,BUPP,"SHORTSLEEVE, RICKY J",M,NA,NA,NA,NA,NA,NA,NA,NA,Deceased on 2/6/23
-Vermont,2023,February,2023-02-21T08:23:00Z,RUPP,"ROSS, SCOTT ALAN",M,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Vermont,2023,February,2023-02-21T15:42:00Z,SSCF,"BOGLIOLI, DAVID CELESTE",M,NA,NA,NA,NA,NA,NA,NA,NA,Deceased @ DHMC
-Vermont,2023,March,2023-03-03T13:13:00Z,RUPP,"SHEEHAN, LAWRENCE",M,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Vermont,2023,March,2023-03-09T11:34:00Z,SJPP,"DEMASI, CRYSTAL",F,NA,NA,NA,NA,NA,NA,NA,NA,04/17/22 deceased
 Vermont,2023,March,2023-03-14T06:21:00Z,SSCF,"KELLEY, ALEXANDER",M,NA,NA,NA,NA,NA,NA,NA,NA,Released Deceased
-Vermont,2023,March,2023-03-20T16:05:00Z,SJPP,"FULLER, JONATHAN MICHAEL",M,NA,NA,NA,NA,NA,NA,NA,NA,deceased
-Vermont,2023,March,2023-03-21T13:23:00Z,HAPP,"WARREN, WALTER NEAL",M,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Vermont,2023,March,2023-03-22T06:32:00Z,SSCF,"REOME, ROMEO VERNON III",M,NA,NA,NA,NA,NA,NA,NA,NA,Deceased
-Vermont,2023,March,2023-03-22T15:43:00Z,RUPP,"VOLLINGER, THOMAS RYAN",M,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Vermont,2023,April,2023-04-05T11:44:00Z,BEPP,"Mayhle, Frank J",M,NA,NA,NA,NA,NA,NA,NA,NA,Order of discharge from probation
 Vermont,2023,April,2023-04-07T16:25:00Z,SSCF,"GIALLELLA, ANTHONY",M,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Vermont,2023,April,2023-04-08T14:55:00Z,SAPP,"ALERS, LAWRENCE",M,NA,NA,NA,NA,NA,NA,NA,NA,SI passed away 4/8/23
-Vermont,2023,April,2023-04-09T14:33:00Z,SAPP,"COMSTOCK, THOMAS EDWARD",M,NA,NA,NA,NA,NA,NA,NA,NA,SI passed away on 4/9/23
-Vermont,2023,April,2023-04-14T09:22:00Z,RUPP,"WHITE, WILLIAM A",M,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Vermont,2023,April,2023-04-14T10:21:00Z,HAPP,"WOOD, DONOVAN JAMES",M,NA,NA,NA,NA,NA,NA,NA,NA,HAPP
 Vermont,2023,April,2023-04-17T12:12:00Z,SSCF,"MITCHELL, DAVID J",M,NA,NA,NA,NA,NA,NA,NA,NA,Released Deceased
-Vermont,2023,April,2023-04-18T14:18:00Z,SJPP,"ARGYLE, JONATHON LAWRENCE",M,NA,NA,NA,NA,NA,NA,NA,NA,Deceased
-Vermont,2023,April,2023-04-19T10:00:00Z,HAPP,"PERRA, STEVEN MARK",M,NA,NA,NA,NA,NA,NA,NA,NA,Deceased.
-Vermont,2023,April,2023-04-19T11:08:00Z,SPPP,"BEAM JR, DONALD Lloyd",M,NA,NA,NA,NA,NA,NA,NA,NA,Case Closed-Male subject Deceased as of 04/11/23. SPFS
-Vermont,2023,April,2023-04-25T16:13:00Z,BRPP,"GAY, STEVEN D.",M,NA,NA,NA,NA,NA,NA,NA,NA,Deceased 4/25/2023 PAROLE AW ISSUED BY MARYJANE
-Vermont,2023,May,2023-05-08T14:24:00Z,SAPP,"HUNT, ANTHONY CHARLES",M,NA,NA,NA,NA,NA,NA,NA,NA,si passed away 5/8/23
-Vermont,2023,May,2023-05-19T07:50:00Z,BAPP,"SARDI, JUNE",F,NA,NA,NA,NA,NA,NA,NA,NA,S/I decesed 5/3/23
-Vermont,2023,May,2023-05-19T09:04:00Z,SAPP,"JARVIS, JENNIFER LEE",F,NA,NA,NA,NA,NA,NA,NA,NA,SI passed away 5/19/23
-Vermont,2023,May,2023-05-27T16:03:00Z,SAPP,"TANNER, NICOLAS A",M,NA,NA,NA,NA,NA,NA,NA,NA,SI passed away on 5/27/23
-Vermont,2023,May,2023-05-29T08:15:00Z,HAPP,"BARROWS, RAHEL EUGENE",M,NA,NA,NA,NA,NA,NA,NA,NA,Passed away at hospital. Med furlough from facility.
-Vermont,2023,June,2023-06-05T10:22:00Z,BEPP,"BROWNELL, SANDRA LEE",F,NA,NA,NA,NA,NA,NA,NA,NA,Deceased 6/3/2023; per phone call from daughter.
-Vermont,2023,June,2023-06-09T11:59:00Z,MOPP,"PEETS, JENAYA LYNN",F,NA,NA,NA,NA,NA,NA,NA,NA,Deceased 6/9/23
-Vermont,2023,June,2023-06-11T12:00:00Z,RUPP,"WILLIAMS, MATTHEW JAMES",M,NA,NA,NA,NA,NA,NA,NA,NA,Per death review
-Vermont,2023,June,2023-06-13T08:46:00Z,BUPP,"MCCUSKER, DEBORAH Lee",F,NA,NA,NA,NA,NA,NA,NA,NA,Deceased on 6/13/23
-Vermont,2023,June,2023-06-15T11:58:00Z,BUPP,"KELLEHER, SEAN T.",M,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Vermont,2023,June,2023-06-19T08:15:00Z,SAPP,"INGRAM, KELLY S",F,NA,NA,NA,NA,NA,NA,NA,NA,SI passed away 6/19
-Vermont,2023,June,2023-06-20T15:20:00Z,RUPP,"BARBER, KENNETH W",M,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Vermont,2023,June,2023-06-27T08:50:00Z,HAPP,"MOUNKES, DAVID T",M,NA,NA,NA,NA,NA,NA,NA,NA,VOP cancelled/ Discharged. Warrant canceled.
-Vermont,2023,July,2023-07-11T10:07:00Z,BAPP,"LAMSON, THOMAS JOSEPH",M,NA,NA,NA,NA,NA,NA,NA,NA,SI passed away on 7-11-23.
-Vermont,2023,July,2023-07-14T10:04:00Z,SPPP,"WILCOX, MICHAEL C",M,NA,NA,NA,NA,NA,NA,NA,NA,SPFS
-Vermont,2023,July,2023-07-17T08:39:00Z,NEPP,"Okros, William",M,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Vermont,2023,July,2023-07-18T10:31:00Z,SPPP,"CLOUART, JUSTIN L",M,NA,NA,NA,NA,NA,NA,NA,NA,Male Subject Deceased as of 07/18/23
-Vermont,2023,July,2023-07-20T13:25:00Z,BEPP,"VAZQUEZ JR, CARLOS JUAN",M,NA,NA,NA,NA,NA,NA,NA,NA,Deceased 7/20/2023
-Vermont,2023,July,2023-07-24T09:26:00Z,BUPP,"KRAUSE, KEVIN CHARLES",M,NA,NA,NA,NA,NA,NA,NA,NA,Deceased 7/21/23
 Vermont,2023,July,2023-07-26T21:43:00Z,NWSCF,"GARDNER, SHAWN MATTHEW",M,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Vermont,2023,July,2023-07-31T15:04:00Z,HAPP,"MAGOON, ROLAND T",M,NA,NA,NA,NA,NA,NA,NA,NA,HAPP
-Vermont,2023,August,2023-08-01T09:33:00Z,RUPP,"SANVILLE, JEREMY",M,NA,NA,NA,NA,NA,NA,NA,NA,CLOSED CASE: DECEASED: 08/01/23
-Vermont,2023,August,2023-08-03T09:29:00Z,SAPP,"ROBTOY, BERNARD EDWARD",M,NA,NA,NA,NA,NA,NA,NA,NA,Si passed away on 8/3/23
-Vermont,2023,August,2023-08-08T10:51:00Z,BRPP,"BARBOUR, TIMOTHY P",M,NA,NA,NA,NA,NA,NA,NA,NA,Deceased 08042023
-Vermont,2023,August,2023-08-11T08:47:00Z,HAPP,"LUCE, JAMES R",M,NA,NA,NA,NA,NA,NA,NA,NA,HAPP
-Vermont,2023,August,2023-08-18T10:20:00Z,BUPP,"MEJIA, EDWIN",M,NA,NA,NA,NA,NA,NA,NA,NA,Deceased 8/5/23
 Vermont,2023,September,2023-09-10T09:56:00Z,NWSCF,"NICHOLS, JEFFERY TIMOTHY",M,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Vermont,2023,September,2023-09-27T10:36:00Z,RUPP,"MALONE, DOUGLAS E",M,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Vermont,2023,September,2023-09-28T10:33:00Z,RUPP,"KITTREDGE, ROGER G",M,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Vermont,2023,September,2023-09-29T10:59:00Z,SAPP,"GREENWOOD, JUDY A",F,NA,NA,NA,NA,NA,NA,NA,NA,Date of death 09/29/2023
-Vermont,2023,October,2023-10-04T08:25:00Z,SPPP,"BRENNAN, ROBERT J",M,NA,NA,NA,NA,NA,NA,NA,NA,Per Windsor PD male subject found deceased on 10/04/23 of unknown Medical.
-Vermont,2023,October,2023-10-08T09:55:00Z,NEPP,"BEDARD, ADAM",M,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Vermont,2023,October,2023-10-09T15:05:00Z,MOPP,"ALLEN, DEAN L",M,NA,NA,NA,NA,NA,NA,NA,NA,s/i died 10/9/23
-Vermont,2023,October,2023-10-13T14:51:00Z,SAPP,"ST FRANCIS, REBECCA LYNN",F,NA,NA,NA,NA,NA,NA,NA,NA,Date of Death 10/13/23.
-Vermont,2023,October,2023-10-17T13:43:00Z,BUPP,"ROCHELEAU, SHAWN LEE",M,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Vermont,2023,October,2023-10-25T00:00:00Z,SJPP,"OBOYLE, EDWARD C",M,NA,NA,NA,NA,NA,NA,NA,NA,deceased 08/07/23
-Vermont,2023,November,2023-11-01T13:22:00Z,BEPP,"REYNOLDS, BILLIE-JEAN",F,NA,NA,NA,NA,NA,NA,NA,NA,Certificate of Death dated 10/10/2023
 Vermont,2023,November,2023-11-05T16:32:00Z,SSCF,"MAYOTTE, DENNIS J",M,NA,NA,NA,NA,NA,NA,NA,NA,Deceased
-Vermont,2023,November,2023-11-11T14:43:00Z,BAPP,"SMITH, HOMER SCOTT",M,NA,NA,NA,NA,NA,NA,NA,NA,11/11/2023
-Vermont,2023,November,2023-11-12T15:38:00Z,SAPP,"GERAW, JONATHAN THOMAS",M,NA,NA,NA,NA,NA,NA,NA,NA,SI passed away on 11/12/23
-Vermont,2023,November,2023-11-14T11:00:00Z,HAPP,"LEE, ANTHONY THOMAS",M,NA,NA,NA,NA,NA,NA,NA,NA,HAPP
-Vermont,2023,November,2023-11-15T08:18:00Z,SJPP,"MARCHETERRE, ALBERT C",M,NA,NA,NA,NA,NA,NA,NA,NA,11/07/23 deceased
-Vermont,2023,December,2023-12-11T13:06:00Z,BRPP,"OBRIEN, GLENN Robert",M,NA,NA,NA,NA,NA,NA,NA,NA,DECEASED: 12/11/2023
-Vermont,2023,December,2023-12-12T09:47:00Z,SAPP,"HAKEY, LESTER J",M,NA,NA,NA,NA,NA,NA,NA,NA,SI has passed away on 12/12/23
-Vermont,2023,December,2023-12-18T08:30:00Z,BAPP,"PERRY, NOLAN SCOTT",M,NA,NA,NA,NA,NA,NA,NA,NA,Notified by BTPD SI was deceased 12-18-23.
-Vermont,2023,December,2023-12-18T08:50:00Z,BAPP,"ABBOTT, CINDY",F,NA,NA,NA,NA,NA,NA,NA,NA,Passed away on 12-18-23.
-Vermont,2023,December,2023-12-22T12:39:00Z,BUPP,"GARCIA, CARLOS E",T,NA,NA,NA,NA,NA,NA,NA,NA,Deceased on: 12/05/2023 Parole death report signed: 12/22/23
+Vermont,2024,April,2024-04-22T00:00:00Z,SSCF,"PATTEN, ROY",M,NA,NA,NA,16537,NA,NA,NA,NA,NA
+Vermont,2024,September,2024-09-18T00:00:00Z,SSCF,"PARTRIDGE, GARY LEE",M,NA,NA,NA,105007834,NA,NA,NA,NA,NA
