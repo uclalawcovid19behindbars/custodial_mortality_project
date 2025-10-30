@@ -1,0 +1,874 @@
+State,Facility,Year,Month,Death.Date,First.Name,Last.Name,Full.Name,ID.No,Death.Age,Sex,Race,Ethnicity,Circumstance.General,Circumstance.Specific,Circumstance.Other,source_year
+VA,,2015,January,,,,,,,,,,,,,
+VA,,2015,January,,,,,,,,,,,,,
+VA,,2015,January,,,,,,,,,,,,,
+VA,,2015,January,,,,,,,,,,,,,
+VA,,2015,January,,,,,,,,,,,,,
+VA,,2015,January,,,,,,,,,,,,,
+VA,,2015,January,,,,,,,,,,,,,
+VA,,2015,January,,,,,,,,,,,,,
+VA,,2015,January,,,,,,,,,,,,,
+VA,,2015,February,,,,,,,,,,,,,
+VA,,2015,February,,,,,,,,,,,,,
+VA,,2015,February,,,,,,,,,,,,,
+VA,,2015,February,,,,,,,,,,,,,
+VA,,2015,February,,,,,,,,,,,,,
+VA,,2015,February,,,,,,,,,,,,,
+VA,,2015,February,,,,,,,,,,,,,
+VA,,2015,February,,,,,,,,,,,,,
+VA,,2015,February,,,,,,,,,,,,,
+VA,,2015,February,,,,,,,,,,,,,
+VA,,2015,March,,,,,,,,,,,,,
+VA,,2015,March,,,,,,,,,,,,,
+VA,,2015,March,,,,,,,,,,,,,
+VA,,2015,March,,,,,,,,,,,,,
+VA,,2015,April,,,,,,,,,,,,,
+VA,,2015,April,,,,,,,,,,,,,
+VA,,2015,April,,,,,,,,,,,,,
+VA,,2015,April,,,,,,,,,,,,,
+VA,,2015,April,,,,,,,,,,,,,
+VA,,2015,April,,,,,,,,,,,,,
+VA,,2015,April,,,,,,,,,,,,,
+VA,,2015,April,,,,,,,,,,,,,
+VA,,2015,May,,,,,,,,,,,,,
+VA,,2015,May,,,,,,,,,,,,,
+VA,,2015,May,,,,,,,,,,,,,
+VA,,2015,May,,,,,,,,,,,,,
+VA,,2015,May,,,,,,,,,,,,,
+VA,,2015,May,,,,,,,,,,,,,
+VA,,2015,May,,,,,,,,,,,,,
+VA,,2015,June,,,,,,,,,,,,,
+VA,,2015,June,,,,,,,,,,,,,
+VA,,2015,June,,,,,,,,,,,,,
+VA,,2015,June,,,,,,,,,,,,,
+VA,,2015,June,,,,,,,,,,,,,
+VA,,2015,June,,,,,,,,,,,,,
+VA,,2015,June,,,,,,,,,,,,,
+VA,,2015,June,,,,,,,,,,,,,
+VA,,2015,June,,,,,,,,,,,,,
+VA,,2015,July,,,,,,,,,,,,,
+VA,,2015,July,,,,,,,,,,,,,
+VA,,2015,July,,,,,,,,,,,,,
+VA,,2015,July,,,,,,,,,,,,,
+VA,,2015,July,,,,,,,,,,,,,
+VA,,2015,July,,,,,,,,,,,,,
+VA,,2015,July,,,,,,,,,,,,,
+VA,,2015,July,,,,,,,,,,,,,
+VA,,2015,August,,,,,,,,,,,,,
+VA,,2015,August,,,,,,,,,,,,,
+VA,,2015,August,,,,,,,,,,,,,
+VA,,2015,August,,,,,,,,,,,,,
+VA,,2015,August,,,,,,,,,,,,,
+VA,,2015,August,,,,,,,,,,,,,
+VA,,2015,August,,,,,,,,,,,,,
+VA,,2015,August,,,,,,,,,,,,,
+VA,,2015,August,,,,,,,,,,,,,
+VA,,2015,August,,,,,,,,,,,,,
+VA,,2015,September,,,,,,,,,,,,,
+VA,,2015,September,,,,,,,,,,,,,
+VA,,2015,September,,,,,,,,,,,,,
+VA,,2015,September,,,,,,,,,,,,,
+VA,,2015,September,,,,,,,,,,,,,
+VA,,2015,September,,,,,,,,,,,,,
+VA,,2015,October,,,,,,,,,,,,,
+VA,,2015,October,,,,,,,,,,,,,
+VA,,2015,October,,,,,,,,,,,,,
+VA,,2015,October,,,,,,,,,,,,,
+VA,,2015,October,,,,,,,,,,,,,
+VA,,2015,November,,,,,,,,,,,,,
+VA,,2015,November,,,,,,,,,,,,,
+VA,,2015,November,,,,,,,,,,,,,
+VA,,2015,November,,,,,,,,,,,,,
+VA,,2015,November,,,,,,,,,,,,,
+VA,,2015,December,,,,,,,,,,,,,
+VA,,2015,December,,,,,,,,,,,,,
+VA,,2015,December,,,,,,,,,,,,,
+VA,,2015,December,,,,,,,,,,,,,
+VA,,2015,December,,,,,,,,,,,,,
+VA,,2015,December,,,,,,,,,,,,,
+VA,,2015,December,,,,,,,,,,,,,
+VA,,2015,December,,,,,,,,,,,,,
+VA,,2015,December,,,,,,,,,,,,,
+VA,,2015,December,,,,,,,,,,,,,
+VA,,2016,January,,,,,,,,,,,,,
+VA,,2016,January,,,,,,,,,,,,,
+VA,,2016,January,,,,,,,,,,,,,
+VA,,2016,February,,,,,,,,,,,,,
+VA,,2016,February,,,,,,,,,,,,,
+VA,,2016,February,,,,,,,,,,,,,
+VA,,2016,February,,,,,,,,,,,,,
+VA,,2016,February,,,,,,,,,,,,,
+VA,,2016,February,,,,,,,,,,,,,
+VA,,2016,February,,,,,,,,,,,,,
+VA,,2016,February,,,,,,,,,,,,,
+VA,,2016,February,,,,,,,,,,,,,
+VA,,2016,March,,,,,,,,,,,,,
+VA,,2016,March,,,,,,,,,,,,,
+VA,,2016,March,,,,,,,,,,,,,
+VA,,2016,March,,,,,,,,,,,,,
+VA,,2016,March,,,,,,,,,,,,,
+VA,,2016,March,,,,,,,,,,,,,
+VA,,2016,March,,,,,,,,,,,,,
+VA,,2016,March,,,,,,,,,,,,,
+VA,,2016,March,,,,,,,,,,,,,
+VA,,2016,April,,,,,,,,,,,,,
+VA,,2016,April,,,,,,,,,,,,,
+VA,,2016,April,,,,,,,,,,,,,
+VA,,2016,April,,,,,,,,,,,,,
+VA,,2016,April,,,,,,,,,,,,,
+VA,,2016,May,,,,,,,,,,,,,
+VA,,2016,May,,,,,,,,,,,,,
+VA,,2016,May,,,,,,,,,,,,,
+VA,,2016,May,,,,,,,,,,,,,
+VA,,2016,May,,,,,,,,,,,,,
+VA,,2016,May,,,,,,,,,,,,,
+VA,,2016,May,,,,,,,,,,,,,
+VA,,2016,May,,,,,,,,,,,,,
+VA,,2016,May,,,,,,,,,,,,,
+VA,,2016,May,,,,,,,,,,,,,
+VA,,2016,May,,,,,,,,,,,,,
+VA,,2016,June,,,,,,,,,,,,,
+VA,,2016,July,,,,,,,,,,,,,
+VA,,2016,July,,,,,,,,,,,,,
+VA,,2016,July,,,,,,,,,,,,,
+VA,,2016,July,,,,,,,,,,,,,
+VA,,2016,July,,,,,,,,,,,,,
+VA,,2016,July,,,,,,,,,,,,,
+VA,,2016,July,,,,,,,,,,,,,
+VA,,2016,July,,,,,,,,,,,,,
+VA,,2016,July,,,,,,,,,,,,,
+VA,,2016,July,,,,,,,,,,,,,
+VA,,2016,August,,,,,,,,,,,,,
+VA,,2016,August,,,,,,,,,,,,,
+VA,,2016,August,,,,,,,,,,,,,
+VA,,2016,August,,,,,,,,,,,,,
+VA,,2016,August,,,,,,,,,,,,,
+VA,,2016,August,,,,,,,,,,,,,
+VA,,2016,August,,,,,,,,,,,,,
+VA,,2016,August,,,,,,,,,,,,,
+VA,,2016,August,,,,,,,,,,,,,
+VA,,2016,September,,,,,,,,,,,,,
+VA,,2016,September,,,,,,,,,,,,,
+VA,,2016,September,,,,,,,,,,,,,
+VA,,2016,September,,,,,,,,,,,,,
+VA,,2016,September,,,,,,,,,,,,,
+VA,,2016,September,,,,,,,,,,,,,
+VA,,2016,September,,,,,,,,,,,,,
+VA,,2016,September,,,,,,,,,,,,,
+VA,,2016,October,,,,,,,,,,,,,
+VA,,2016,October,,,,,,,,,,,,,
+VA,,2016,October,,,,,,,,,,,,,
+VA,,2016,October,,,,,,,,,,,,,
+VA,,2016,October,,,,,,,,,,,,,
+VA,,2016,October,,,,,,,,,,,,,
+VA,,2016,November,,,,,,,,,,,,,
+VA,,2016,November,,,,,,,,,,,,,
+VA,,2016,November,,,,,,,,,,,,,
+VA,,2016,November,,,,,,,,,,,,,
+VA,,2016,November,,,,,,,,,,,,,
+VA,,2016,November,,,,,,,,,,,,,
+VA,,2016,November,,,,,,,,,,,,,
+VA,,2016,December,,,,,,,,,,,,,
+VA,,2016,December,,,,,,,,,,,,,
+VA,,2016,December,,,,,,,,,,,,,
+VA,,2016,December,,,,,,,,,,,,,
+VA,,2016,December,,,,,,,,,,,,,
+VA,,2016,December,,,,,,,,,,,,,
+VA,,2016,December,,,,,,,,,,,,,
+VA,,2016,December,,,,,,,,,,,,,
+VA,,2016,December,,,,,,,,,,,,,
+VA,,2016,December,,,,,,,,,,,,,
+VA,,2016,December,,,,,,,,,,,,,
+VA,,2016,December,,,,,,,,,,,,,
+VA,,2017,January,,,,,,,,,,,,,
+VA,,2017,January,,,,,,,,,,,,,
+VA,,2017,January,,,,,,,,,,,,,
+VA,,2017,January,,,,,,,,,,,,,
+VA,,2017,January,,,,,,,,,,,,,
+VA,,2017,January,,,,,,,,,,,,,
+VA,,2017,January,,,,,,,,,,,,,
+VA,,2017,January,,,,,,,,,,,,,
+VA,,2017,January,,,,,,,,,,,,,
+VA,,2017,February,,,,,,,,,,,,,
+VA,,2017,February,,,,,,,,,,,,,
+VA,,2017,February,,,,,,,,,,,,,
+VA,,2017,February,,,,,,,,,,,,,
+VA,,2017,February,,,,,,,,,,,,,
+VA,,2017,February,,,,,,,,,,,,,
+VA,,2017,March,,,,,,,,,,,,,
+VA,,2017,March,,,,,,,,,,,,,
+VA,,2017,March,,,,,,,,,,,,,
+VA,,2017,March,,,,,,,,,,,,,
+VA,,2017,March,,,,,,,,,,,,,
+VA,,2017,March,,,,,,,,,,,,,
+VA,,2017,March,,,,,,,,,,,,,
+VA,,2017,March,,,,,,,,,,,,,
+VA,,2017,March,,,,,,,,,,,,,
+VA,,2017,March,,,,,,,,,,,,,
+VA,,2017,April,,,,,,,,,,,,,
+VA,,2017,April,,,,,,,,,,,,,
+VA,,2017,April,,,,,,,,,,,,,
+VA,,2017,April,,,,,,,,,,,,,
+VA,,2017,April,,,,,,,,,,,,,
+VA,,2017,April,,,,,,,,,,,,,
+VA,,2017,April,,,,,,,,,,,,,
+VA,,2017,April,,,,,,,,,,,,,
+VA,,2017,April,,,,,,,,,,,,,
+VA,,2017,April,,,,,,,,,,,,,
+VA,,2017,April,,,,,,,,,,,,,
+VA,,2017,May,,,,,,,,,,,,,
+VA,,2017,May,,,,,,,,,,,,,
+VA,,2017,May,,,,,,,,,,,,,
+VA,,2017,June,,,,,,,,,,,,,
+VA,,2017,June,,,,,,,,,,,,,
+VA,,2017,June,,,,,,,,,,,,,
+VA,,2017,June,,,,,,,,,,,,,
+VA,,2017,June,,,,,,,,,,,,,
+VA,,2017,June,,,,,,,,,,,,,
+VA,,2017,June,,,,,,,,,,,,,
+VA,,2017,June,,,,,,,,,,,,,
+VA,,2017,June,,,,,,,,,,,,,
+VA,,2017,July,,,,,,,,,,,,,
+VA,,2017,July,,,,,,,,,,,,,
+VA,,2017,July,,,,,,,,,,,,,
+VA,,2017,July,,,,,,,,,,,,,
+VA,,2017,July,,,,,,,,,,,,,
+VA,,2017,August,,,,,,,,,,,,,
+VA,,2017,August,,,,,,,,,,,,,
+VA,,2017,August,,,,,,,,,,,,,
+VA,,2017,August,,,,,,,,,,,,,
+VA,,2017,August,,,,,,,,,,,,,
+VA,,2017,August,,,,,,,,,,,,,
+VA,,2017,August,,,,,,,,,,,,,
+VA,,2017,August,,,,,,,,,,,,,
+VA,,2017,September,,,,,,,,,,,,,
+VA,,2017,September,,,,,,,,,,,,,
+VA,,2017,September,,,,,,,,,,,,,
+VA,,2017,September,,,,,,,,,,,,,
+VA,,2017,September,,,,,,,,,,,,,
+VA,,2017,September,,,,,,,,,,,,,
+VA,,2017,September,,,,,,,,,,,,,
+VA,,2017,September,,,,,,,,,,,,,
+VA,,2017,September,,,,,,,,,,,,,
+VA,,2017,September,,,,,,,,,,,,,
+VA,,2017,October,,,,,,,,,,,,,
+VA,,2017,October,,,,,,,,,,,,,
+VA,,2017,October,,,,,,,,,,,,,
+VA,,2017,October,,,,,,,,,,,,,
+VA,,2017,October,,,,,,,,,,,,,
+VA,,2017,October,,,,,,,,,,,,,
+VA,,2017,October,,,,,,,,,,,,,
+VA,,2017,November,,,,,,,,,,,,,
+VA,,2017,November,,,,,,,,,,,,,
+VA,,2017,November,,,,,,,,,,,,,
+VA,,2017,November,,,,,,,,,,,,,
+VA,,2017,November,,,,,,,,,,,,,
+VA,,2017,November,,,,,,,,,,,,,
+VA,,2017,November,,,,,,,,,,,,,
+VA,,2017,December,,,,,,,,,,,,,
+VA,,2017,December,,,,,,,,,,,,,
+VA,,2017,December,,,,,,,,,,,,,
+VA,,2017,December,,,,,,,,,,,,,
+VA,,2017,December,,,,,,,,,,,,,
+VA,,2017,December,,,,,,,,,,,,,
+VA,,2017,December,,,,,,,,,,,,,
+VA,,2018,January,,,,,,,,,,,,,
+VA,,2018,January,,,,,,,,,,,,,
+VA,,2018,January,,,,,,,,,,,,,
+VA,,2018,January,,,,,,,,,,,,,
+VA,,2018,January,,,,,,,,,,,,,
+VA,,2018,January,,,,,,,,,,,,,
+VA,,2018,January,,,,,,,,,,,,,
+VA,,2018,January,,,,,,,,,,,,,
+VA,,2018,January,,,,,,,,,,,,,
+VA,,2018,February,,,,,,,,,,,,,
+VA,,2018,February,,,,,,,,,,,,,
+VA,,2018,February,,,,,,,,,,,,,
+VA,,2018,February,,,,,,,,,,,,,
+VA,,2018,February,,,,,,,,,,,,,
+VA,,2018,February,,,,,,,,,,,,,
+VA,,2018,February,,,,,,,,,,,,,
+VA,,2018,February,,,,,,,,,,,,,
+VA,,2018,March,,,,,,,,,,,,,
+VA,,2018,March,,,,,,,,,,,,,
+VA,,2018,March,,,,,,,,,,,,,
+VA,,2018,March,,,,,,,,,,,,,
+VA,,2018,March,,,,,,,,,,,,,
+VA,,2018,March,,,,,,,,,,,,,
+VA,,2018,March,,,,,,,,,,,,,
+VA,,2018,March,,,,,,,,,,,,,
+VA,,2018,April,,,,,,,,,,,,,
+VA,,2018,April,,,,,,,,,,,,,
+VA,,2018,April,,,,,,,,,,,,,
+VA,,2018,April,,,,,,,,,,,,,
+VA,,2018,April,,,,,,,,,,,,,
+VA,,2018,April,,,,,,,,,,,,,
+VA,,2018,April,,,,,,,,,,,,,
+VA,,2018,April,,,,,,,,,,,,,
+VA,,2018,May,,,,,,,,,,,,,
+VA,,2018,May,,,,,,,,,,,,,
+VA,,2018,May,,,,,,,,,,,,,
+VA,,2018,May,,,,,,,,,,,,,
+VA,,2018,May,,,,,,,,,,,,,
+VA,,2018,May,,,,,,,,,,,,,
+VA,,2018,May,,,,,,,,,,,,,
+VA,,2018,May,,,,,,,,,,,,,
+VA,,2018,May,,,,,,,,,,,,,
+VA,,2018,May,,,,,,,,,,,,,
+VA,,2018,May,,,,,,,,,,,,,
+VA,,2018,May,,,,,,,,,,,,,
+VA,,2018,June,,,,,,,,,,,,,
+VA,,2018,June,,,,,,,,,,,,,
+VA,,2018,June,,,,,,,,,,,,,
+VA,,2018,June,,,,,,,,,,,,,
+VA,,2018,June,,,,,,,,,,,,,
+VA,,2018,June,,,,,,,,,,,,,
+VA,,2018,June,,,,,,,,,,,,,
+VA,,2018,June,,,,,,,,,,,,,
+VA,,2018,June,,,,,,,,,,,,,
+VA,,2018,June,,,,,,,,,,,,,
+VA,,2018,June,,,,,,,,,,,,,
+VA,,2018,July,,,,,,,,,,,,,
+VA,,2018,July,,,,,,,,,,,,,
+VA,,2018,July,,,,,,,,,,,,,
+VA,,2018,July,,,,,,,,,,,,,
+VA,,2018,July,,,,,,,,,,,,,
+VA,,2018,July,,,,,,,,,,,,,
+VA,,2018,July,,,,,,,,,,,,,
+VA,,2018,August,,,,,,,,,,,,,
+VA,,2018,August,,,,,,,,,,,,,
+VA,,2018,August,,,,,,,,,,,,,
+VA,,2018,August,,,,,,,,,,,,,
+VA,,2018,August,,,,,,,,,,,,,
+VA,,2018,August,,,,,,,,,,,,,
+VA,,2018,August,,,,,,,,,,,,,
+VA,,2018,August,,,,,,,,,,,,,
+VA,,2018,August,,,,,,,,,,,,,
+VA,,2018,August,,,,,,,,,,,,,
+VA,,2018,September,,,,,,,,,,,,,
+VA,,2018,September,,,,,,,,,,,,,
+VA,,2018,September,,,,,,,,,,,,,
+VA,,2018,September,,,,,,,,,,,,,
+VA,,2018,September,,,,,,,,,,,,,
+VA,,2018,September,,,,,,,,,,,,,
+VA,,2018,September,,,,,,,,,,,,,
+VA,,2018,September,,,,,,,,,,,,,
+VA,,2018,October,,,,,,,,,,,,,
+VA,,2018,October,,,,,,,,,,,,,
+VA,,2018,October,,,,,,,,,,,,,
+VA,,2018,October,,,,,,,,,,,,,
+VA,,2018,October,,,,,,,,,,,,,
+VA,,2018,October,,,,,,,,,,,,,
+VA,,2018,November,,,,,,,,,,,,,
+VA,,2018,November,,,,,,,,,,,,,
+VA,,2018,November,,,,,,,,,,,,,
+VA,,2018,November,,,,,,,,,,,,,
+VA,,2018,November,,,,,,,,,,,,,
+VA,,2018,November,,,,,,,,,,,,,
+VA,,2018,November,,,,,,,,,,,,,
+VA,,2018,December,,,,,,,,,,,,,
+VA,,2018,December,,,,,,,,,,,,,
+VA,,2018,December,,,,,,,,,,,,,
+VA,,2018,December,,,,,,,,,,,,,
+VA,,2018,December,,,,,,,,,,,,,
+VA,,2018,December,,,,,,,,,,,,,
+VA,,2018,December,,,,,,,,,,,,,
+VA,,2018,December,,,,,,,,,,,,,
+VA,,2018,December,,,,,,,,,,,,,
+VA,,2018,December,,,,,,,,,,,,,
+VA,,2018,December,,,,,,,,,,,,,
+VA,,2018,December,,,,,,,,,,,,,
+VA,,2019,January,,,,,,,,,,,,,
+VA,,2019,January,,,,,,,,,,,,,
+VA,,2019,January,,,,,,,,,,,,,
+VA,,2019,January,,,,,,,,,,,,,
+VA,,2019,January,,,,,,,,,,,,,
+VA,,2019,January,,,,,,,,,,,,,
+VA,,2019,February,,,,,,,,,,,,,
+VA,,2019,February,,,,,,,,,,,,,
+VA,,2019,February,,,,,,,,,,,,,
+VA,,2019,February,,,,,,,,,,,,,
+VA,,2019,February,,,,,,,,,,,,,
+VA,,2019,February,,,,,,,,,,,,,
+VA,,2019,March,,,,,,,,,,,,,
+VA,,2019,March,,,,,,,,,,,,,
+VA,,2019,March,,,,,,,,,,,,,
+VA,,2019,March,,,,,,,,,,,,,
+VA,,2019,March,,,,,,,,,,,,,
+VA,,2019,March,,,,,,,,,,,,,
+VA,,2019,March,,,,,,,,,,,,,
+VA,,2019,March,,,,,,,,,,,,,
+VA,,2019,March,,,,,,,,,,,,,
+VA,,2019,April,,,,,,,,,,,,,
+VA,,2019,April,,,,,,,,,,,,,
+VA,,2019,April,,,,,,,,,,,,,
+VA,,2019,April,,,,,,,,,,,,,
+VA,,2019,April,,,,,,,,,,,,,
+VA,,2019,April,,,,,,,,,,,,,
+VA,,2019,April,,,,,,,,,,,,,
+VA,,2019,April,,,,,,,,,,,,,
+VA,,2019,April,,,,,,,,,,,,,
+VA,,2019,April,,,,,,,,,,,,,
+VA,,2019,April,,,,,,,,,,,,,
+VA,,2019,April,,,,,,,,,,,,,
+VA,,2019,May,,,,,,,,,,,,,
+VA,,2019,May,,,,,,,,,,,,,
+VA,,2019,May,,,,,,,,,,,,,
+VA,,2019,May,,,,,,,,,,,,,
+VA,,2019,May,,,,,,,,,,,,,
+VA,,2019,May,,,,,,,,,,,,,
+VA,,2019,May,,,,,,,,,,,,,
+VA,,2019,May,,,,,,,,,,,,,
+VA,,2019,May,,,,,,,,,,,,,
+VA,,2019,May,,,,,,,,,,,,,
+VA,,2019,May,,,,,,,,,,,,,
+VA,,2019,May,,,,,,,,,,,,,
+VA,,2019,May,,,,,,,,,,,,,
+VA,,2019,June,,,,,,,,,,,,,
+VA,,2019,June,,,,,,,,,,,,,
+VA,,2019,June,,,,,,,,,,,,,
+VA,,2019,June,,,,,,,,,,,,,
+VA,,2019,June,,,,,,,,,,,,,
+VA,,2019,July,,,,,,,,,,,,,
+VA,,2019,July,,,,,,,,,,,,,
+VA,,2019,July,,,,,,,,,,,,,
+VA,,2019,July,,,,,,,,,,,,,
+VA,,2019,August,,,,,,,,,,,,,
+VA,,2019,August,,,,,,,,,,,,,
+VA,,2019,August,,,,,,,,,,,,,
+VA,,2019,August,,,,,,,,,,,,,
+VA,,2019,August,,,,,,,,,,,,,
+VA,,2019,August,,,,,,,,,,,,,
+VA,,2019,August,,,,,,,,,,,,,
+VA,,2019,September,,,,,,,,,,,,,
+VA,,2019,September,,,,,,,,,,,,,
+VA,,2019,September,,,,,,,,,,,,,
+VA,,2019,September,,,,,,,,,,,,,
+VA,,2019,September,,,,,,,,,,,,,
+VA,,2019,September,,,,,,,,,,,,,
+VA,,2019,September,,,,,,,,,,,,,
+VA,,2019,September,,,,,,,,,,,,,
+VA,,2019,October,,,,,,,,,,,,,
+VA,,2019,October,,,,,,,,,,,,,
+VA,,2019,October,,,,,,,,,,,,,
+VA,,2019,October,,,,,,,,,,,,,
+VA,,2019,October,,,,,,,,,,,,,
+VA,,2019,October,,,,,,,,,,,,,
+VA,,2019,October,,,,,,,,,,,,,
+VA,,2019,November,,,,,,,,,,,,,
+VA,,2019,November,,,,,,,,,,,,,
+VA,,2019,November,,,,,,,,,,,,,
+VA,,2019,November,,,,,,,,,,,,,
+VA,,2019,November,,,,,,,,,,,,,
+VA,,2019,November,,,,,,,,,,,,,
+VA,,2019,December,,,,,,,,,,,,,
+VA,,2019,December,,,,,,,,,,,,,
+VA,,2019,December,,,,,,,,,,,,,
+VA,,2019,December,,,,,,,,,,,,,
+VA,,2019,December,,,,,,,,,,,,,
+VA,,2019,December,,,,,,,,,,,,,
+VA,,2019,December,,,,,,,,,,,,,
+VA,,2020,January,,,,,,,,,,,,,
+VA,,2020,January,,,,,,,,,,,,,
+VA,,2020,January,,,,,,,,,,,,,
+VA,,2020,January,,,,,,,,,,,,,
+VA,,2020,January,,,,,,,,,,,,,
+VA,,2020,January,,,,,,,,,,,,,
+VA,,2020,January,,,,,,,,,,,,,
+VA,,2020,January,,,,,,,,,,,,,
+VA,,2020,January,,,,,,,,,,,,,
+VA,,2020,January,,,,,,,,,,,,,
+VA,,2020,January,,,,,,,,,,,,,
+VA,,2020,January,,,,,,,,,,,,,
+VA,,2020,February,,,,,,,,,,,,,
+VA,,2020,February,,,,,,,,,,,,,
+VA,,2020,February,,,,,,,,,,,,,
+VA,,2020,February,,,,,,,,,,,,,
+VA,,2020,February,,,,,,,,,,,,,
+VA,,2020,March,,,,,,,,,,,,,
+VA,,2020,April,,,,,,,,,,,,,
+VA,,2020,April,,,,,,,,,,,,,
+VA,,2020,April,,,,,,,,,,,,,
+VA,,2020,April,,,,,,,,,,,,,
+VA,,2020,April,,,,,,,,,,,,,
+VA,,2020,April,,,,,,,,,,,,,
+VA,,2020,April,,,,,,,,,,,,,
+VA,,2020,April,,,,,,,,,,,,,
+VA,,2020,April,,,,,,,,,,,,,
+VA,,2020,April,,,,,,,,,,,,,
+VA,,2020,April,,,,,,,,,,,,,
+VA,,2020,May,,,,,,,,,,,,,
+VA,,2020,May,,,,,,,,,,,,,
+VA,,2020,May,,,,,,,,,,,,,
+VA,,2020,May,,,,,,,,,,,,,
+VA,,2020,May,,,,,,,,,,,,,
+VA,,2020,May,,,,,,,,,,,,,
+VA,,2020,May,,,,,,,,,,,,,
+VA,,2020,May,,,,,,,,,,,,,
+VA,,2020,May,,,,,,,,,,,,,
+VA,,2020,May,,,,,,,,,,,,,
+VA,,2020,May,,,,,,,,,,,,,
+VA,,2020,May,,,,,,,,,,,,,
+VA,,2020,May,,,,,,,,,,,,,
+VA,,2020,May,,,,,,,,,,,,,
+VA,,2020,May,,,,,,,,,,,,,
+VA,,2020,May,,,,,,,,,,,,,
+VA,,2020,May,,,,,,,,,,,,,
+VA,,2020,May,,,,,,,,,,,,,
+VA,,2020,June,,,,,,,,,,,,,
+VA,,2020,June,,,,,,,,,,,,,
+VA,,2020,June,,,,,,,,,,,,,
+VA,,2020,June,,,,,,,,,,,,,
+VA,,2020,June,,,,,,,,,,,,,
+VA,,2020,June,,,,,,,,,,,,,
+VA,,2020,June,,,,,,,,,,,,,
+VA,,2020,June,,,,,,,,,,,,,
+VA,,2020,July,,,,,,,,,,,,,
+VA,,2020,July,,,,,,,,,,,,,
+VA,,2020,July,,,,,,,,,,,,,
+VA,,2020,July,,,,,,,,,,,,,
+VA,,2020,July,,,,,,,,,,,,,
+VA,,2020,July,,,,,,,,,,,,,
+VA,,2020,July,,,,,,,,,,,,,
+VA,,2020,July,,,,,,,,,,,,,
+VA,,2020,July,,,,,,,,,,,,,
+VA,,2020,July,,,,,,,,,,,,,
+VA,,2020,July,,,,,,,,,,,,,
+VA,,2020,August,,,,,,,,,,,,,
+VA,,2020,August,,,,,,,,,,,,,
+VA,,2020,August,,,,,,,,,,,,,
+VA,,2020,September,,,,,,,,,,,,,
+VA,,2020,September,,,,,,,,,,,,,
+VA,,2020,September,,,,,,,,,,,,,
+VA,,2020,September,,,,,,,,,,,,,
+VA,,2020,September,,,,,,,,,,,,,
+VA,,2020,September,,,,,,,,,,,,,
+VA,,2020,September,,,,,,,,,,,,,
+VA,,2020,September,,,,,,,,,,,,,
+VA,,2020,September,,,,,,,,,,,,,
+VA,,2020,September,,,,,,,,,,,,,
+VA,,2020,September,,,,,,,,,,,,,
+VA,,2020,September,,,,,,,,,,,,,
+VA,,2020,September,,,,,,,,,,,,,
+VA,,2020,September,,,,,,,,,,,,,
+VA,,2020,September,,,,,,,,,,,,,
+VA,,2020,September,,,,,,,,,,,,,
+VA,,2020,September,,,,,,,,,,,,,
+VA,,2020,September,,,,,,,,,,,,,
+VA,,2020,September,,,,,,,,,,,,,
+VA,,2020,September,,,,,,,,,,,,,
+VA,,2020,September,,,,,,,,,,,,,
+VA,,2020,September,,,,,,,,,,,,,
+VA,,2020,September,,,,,,,,,,,,,
+VA,,2020,September,,,,,,,,,,,,,
+VA,,2020,September,,,,,,,,,,,,,
+VA,,2020,October,,,,,,,,,,,,,
+VA,,2020,October,,,,,,,,,,,,,
+VA,,2020,October,,,,,,,,,,,,,
+VA,,2020,October,,,,,,,,,,,,,
+VA,,2020,October,,,,,,,,,,,,,
+VA,,2020,November,,,,,,,,,,,,,
+VA,,2020,November,,,,,,,,,,,,,
+VA,,2020,November,,,,,,,,,,,,,
+VA,,2020,November,,,,,,,,,,,,,
+VA,,2020,November,,,,,,,,,,,,,
+VA,,2020,November,,,,,,,,,,,,,
+VA,,2020,November,,,,,,,,,,,,,
+VA,,2020,November,,,,,,,,,,,,,
+VA,,2020,November,,,,,,,,,,,,,
+VA,,2020,November,,,,,,,,,,,,,
+VA,,2020,December,,,,,,,,,,,,,
+VA,,2020,December,,,,,,,,,,,,,
+VA,,2020,December,,,,,,,,,,,,,
+VA,,2020,December,,,,,,,,,,,,,
+VA,,2020,December,,,,,,,,,,,,,
+VA,,2020,December,,,,,,,,,,,,,
+VA,,2020,December,,,,,,,,,,,,,
+VA,,2020,December,,,,,,,,,,,,,
+VA,,2020,December,,,,,,,,,,,,,
+VA,,2020,December,,,,,,,,,,,,,
+VA,,2020,December,,,,,,,,,,,,,
+VA,,2020,December,,,,,,,,,,,,,
+VA,,2020,December,,,,,,,,,,,,,
+VA,,2020,December,,,,,,,,,,,,,
+VA,,2020,December,,,,,,,,,,,,,
+VA,,2020,December,,,,,,,,,,,,,
+VA,,2020,December,,,,,,,,,,,,,
+VA,,2020,December,,,,,,,,,,,,,
+VA,,2020,December,,,,,,,,,,,,,
+Virginia,Augusta CC,2022,,,,,,,,,,,,,,2022
+Virginia,Augusta CC,2022,,,,,,,,,,,,,,2022
+Virginia,Bland CC,2022,,,,,,,,,,,,,,2022
+Virginia,Buckingham CC,2022,,,,,,,,,,,,,,2022
+Virginia,Buckingham CC,2022,,,,,,,,,,,,,,2022
+Virginia,Buckingham CC,2022,,,,,,,,,,,,,,2022
+Virginia,Coffeewood CC,2022,,,,,,,,,,,,,,2022
+Virginia,Deerfield CC,2022,,,,,,,,,,,,,,2022
+Virginia,Deerfield CC,2022,,,,,,,,,,,,,,2022
+Virginia,Deerfield CC,2022,,,,,,,,,,,,,,2022
+Virginia,Deerfield CC,2022,,,,,,,,,,,,,,2022
+Virginia,Deerfield CC,2022,,,,,,,,,,,,,,2022
+Virginia,Deerfield CC,2022,,,,,,,,,,,,,,2022
+Virginia,Deerfield CC,2022,,,,,,,,,,,,,,2022
+Virginia,Deerfield CC,2022,,,,,,,,,,,,,,2022
+Virginia,Deerfield CC,2022,,,,,,,,,,,,,,2022
+Virginia,Deerfield CC,2022,,,,,,,,,,,,,,2022
+Virginia,Deerfield CC,2022,,,,,,,,,,,,,,2022
+Virginia,Deerfield CC,2022,,,,,,,,,,,,,,2022
+Virginia,Deerfield CC,2022,,,,,,,,,,,,,,2022
+Virginia,Dillwyn CC,2022,,,,,,,,,,,,,,2022
+Virginia,Dillwyn CC,2022,,,,,,,,,,,,,,2022
+Virginia,Dillwyn CC,2022,,,,,,,,,,,,,,2022
+Virginia,Dillwyn CC,2022,,,,,,,,,,,,,,2022
+Virginia,Dillwyn CC,2022,,,,,,,,,,,,,,2022
+Virginia,Fluvanna CC,2022,,,,,,,,,,,,,,2022
+Virginia,Fluvanna CC,2022,,,,,,,,,,,,,,2022
+Virginia,Green Rock CC,2022,,,,,,,,,,,,,,2022
+Virginia,Green Rock CC,2022,,,,,,,,,,,,,,2022
+Virginia,Green Rock CC,2022,,,,,,,,,,,,,,2022
+Virginia,Green Rock CC,2022,,,,,,,,,,,,,,2022
+Virginia,Green Rock CC,2022,,,,,,,,,,,,,,2022
+Virginia,Green Rock CC,2022,,,,,,,,,,,,,,2022
+Virginia,Green Rock CC,2022,,,,,,,,,,,,,,2022
+Virginia,Greensville CC,2022,,,,,,,,,,,,,,2022
+Virginia,Greensville CC,2022,,,,,,,,,,,,,,2022
+Virginia,Greensville CC,2022,,,,,,,,,,,,,,2022
+Virginia,Greensville CC,2022,,,,,,,,,,,,,,2022
+Virginia,Greensville CC,2022,,,,,,,,,,,,,,2022
+Virginia,Greensville CC,2022,,,,,,,,,,,,,,2022
+Virginia,Greensville CC,2022,,,,,,,,,,,,,,2022
+Virginia,Greensville CC,2022,,,,,,,,,,,,,,2022
+Virginia,Greensville CC,2022,,,,,,,,,,,,,,2022
+Virginia,Greensville CC,2022,,,,,,,,,,,,,,2022
+Virginia,Greensville CC,2022,,,,,,,,,,,,,,2022
+Virginia,Haynesville CC,2022,,,,,,,,,,,,,,2022
+Virginia,Haynesville CC,2022,,,,,,,,,,,,,,2022
+Virginia,Haynesville CC,2022,,,,,,,,,,,,,,2022
+Virginia,Haynesville CC,2022,,,,,,,,,,,,,,2022
+Virginia,Haynesville CC,2022,,,,,,,,,,,,,,2022
+Virginia,Indian Creek CC,2022,,,,,,,,,,,,,,2022
+Virginia,Keen Mountain CC,2022,,,,,,,,,,,,,,2022
+Virginia,Keen Mountain CC,2022,,,,,,,,,,,,,,2022
+Virginia,Keen Mountain CC,2022,,,,,,,,,,,,,,2022
+Virginia,Lawrenceville CC,2022,,,,,,,,,,,,,,2022
+Virginia,Lawrenceville CC,2022,,,,,,,,,,,,,,2022
+Virginia,Lawrenceville CC,2022,,,,,,,,,,,,,,2022
+Virginia,Lawrenceville CC,2022,,,,,,,,,,,,,,2022
+Virginia,Lawrenceville CC,2022,,,,,,,,,,,,,,2022
+Virginia,Lawrenceville CC,2022,,,,,,,,,,,,,,2022
+Virginia,Lawrenceville CC,2022,,,,,,,,,,,,,,2022
+Virginia,Marion CTC,2022,,,,,,,,,,,,,,2022
+Virginia,Marion CTC,2022,,,,,,,,,,,,,,2022
+Virginia,Nottoway CC,2022,,,,,,,,,,,,,,2022
+Virginia,Nottoway CC,2022,,,,,,,,,,,,,,2022
+Virginia,Nottoway CC,2022,,,,,,,,,,,,,,2022
+Virginia,Pocahontas State CC,2022,,,,,,,,,,,,,,2022
+Virginia,Pocahontas State CC,2022,,,,,,,,,,,,,,2022
+Virginia,Red Onion SP,2022,,,,,,,,,,,,,,2022
+Virginia,River North CC,2022,,,,,,,,,,,,,,2022
+Virginia,River North CC,2022,,,,,,,,,,,,,,2022
+Virginia,State Farm EU,2022,,,,,,,,,,,,,,2022
+Virginia,State Farm EU,2022,,,,,,,,,,,,,,2022
+Virginia,State Farm EU,2022,,,,,,,,,,,,,,2022
+Virginia,State Farm EU,2022,,,,,,,,,,,,,,2022
+Virginia,State Farm EU,2022,,,,,,,,,,,,,,2022
+Virginia,State Farm EU,2022,,,,,,,,,,,,,,2022
+Virginia,State Farm EU,2022,,,,,,,,,,,,,,2022
+Virginia,State Farm EU,2022,,,,,,,,,,,,,,2022
+Virginia,Sussex I SP,2022,,,,,,,,,,,,,,2022
+Virginia,Sussex I SP,2022,,,,,,,,,,,,,,2022
+Virginia,Sussex I SP,2022,,,,,,,,,,,,,,2022
+Virginia,Sussex I SP,2022,,,,,,,,,,,,,,2022
+Virginia,Sussex II SP,2022,,,,,,,,,,,,,,2022
+Virginia,Sussex II SP,2022,,,,,,,,,,,,,,2022
+Virginia,Sussex II SP,2022,,,,,,,,,,,,,,2022
+Virginia,Wallens Ridge SP,2022,,,,,,,,,,,,,,2022
+Virginia,Wallens Ridge SP,2022,,,,,,,,,,,,,,2022
+Virginia,Wallens Ridge SP,2022,,,,,,,,,,,,,,2022
+Virginia,Wallens Ridge SP,2022,,,,,,,,,,,,,,2022
+Virginia,Wallens Ridge SP,2022,,,,,,,,,,,,,,2022
+Virginia,Wise CU,2022,,,,,,,,,,,,,,2022
+Virginia,Augusta CC,2023,,,,,,,,,,,,,,2023
+Virginia,Beaumont CC,2023,,,,,,,,,,,,,,2023
+Virginia,Beaumont CC,2023,,,,,,,,,,,,,,2023
+Virginia,Buckingham CC,2023,,,,,,,,,,,,,,2023
+Virginia,Buckingham CC,2023,,,,,,,,,,,,,,2023
+Virginia,Buckingham CC,2023,,,,,,,,,,,,,,2023
+Virginia,Buckingham CC,2023,,,,,,,,,,,,,,2023
+Virginia,Buckingham CC,2023,,,,,,,,,,,,,,2023
+Virginia,Buckingham CC,2023,,,,,,,,,,,,,,2023
+Virginia,Deerfield CC,2023,,,,,,,,,,,,,,2023
+Virginia,Deerfield CC,2023,,,,,,,,,,,,,,2023
+Virginia,Deerfield CC,2023,,,,,,,,,,,,,,2023
+Virginia,Deerfield CC,2023,,,,,,,,,,,,,,2023
+Virginia,Deerfield CC,2023,,,,,,,,,,,,,,2023
+Virginia,Deerfield CC,2023,,,,,,,,,,,,,,2023
+Virginia,Deerfield CC,2023,,,,,,,,,,,,,,2023
+Virginia,Dillwyn CC,2023,,,,,,,,,,,,,,2023
+Virginia,Fluvanna CC,2023,,,,,,,,,,,,,,2023
+Virginia,Fluvanna CC,2023,,,,,,,,,,,,,,2023
+Virginia,Fluvanna CC,2023,,,,,,,,,,,,,,2023
+Virginia,Green Rock CC,2023,,,,,,,,,,,,,,2023
+Virginia,Greensville CC,2023,,,,,,,,,,,,,,2023
+Virginia,Greensville CC,2023,,,,,,,,,,,,,,2023
+Virginia,Greensville CC,2023,,,,,,,,,,,,,,2023
+Virginia,Greensville CC,2023,,,,,,,,,,,,,,2023
+Virginia,Greensville CC,2023,,,,,,,,,,,,,,2023
+Virginia,Greensville CC,2023,,,,,,,,,,,,,,2023
+Virginia,Greensville CC,2023,,,,,,,,,,,,,,2023
+Virginia,Greensville CC,2023,,,,,,,,,,,,,,2023
+Virginia,Greensville CC,2023,,,,,,,,,,,,,,2023
+Virginia,Greensville CC,2023,,,,,,,,,,,,,,2023
+Virginia,Greensville CC,2023,,,,,,,,,,,,,,2023
+Virginia,Greensville CC,2023,,,,,,,,,,,,,,2023
+Virginia,Greensville CC,2023,,,,,,,,,,,,,,2023
+Virginia,Greensville CC,2023,,,,,,,,,,,,,,2023
+Virginia,Greensville CC,2023,,,,,,,,,,,,,,2023
+Virginia,Greensville CC,2023,,,,,,,,,,,,,,2023
+Virginia,Greensville CC,2023,,,,,,,,,,,,,,2023
+Virginia,Greensville CC,2023,,,,,,,,,,,,,,2023
+Virginia,Greensville CC,2023,,,,,,,,,,,,,,2023
+Virginia,Greensville CC,2023,,,,,,,,,,,,,,2023
+Virginia,Greensville CC,2023,,,,,,,,,,,,,,2023
+Virginia,Lawrenceville CC,2023,,,,,,,,,,,,,,2023
+Virginia,Lawrenceville CC,2023,,,,,,,,,,,,,,2023
+Virginia,Lawrenceville CC,2023,,,,,,,,,,,,,,2023
+Virginia,Lawrenceville CC,2023,,,,,,,,,,,,,,2023
+Virginia,Lawrenceville CC,2023,,,,,,,,,,,,,,2023
+Virginia,Lawrenceville CC,2023,,,,,,,,,,,,,,2023
+Virginia,Lawrenceville CC,2023,,,,,,,,,,,,,,2023
+Virginia,Lawrenceville CC,2023,,,,,,,,,,,,,,2023
+Virginia,Marion CTC,2023,,,,,,,,,,,,,,2023
+Virginia,Marion CTC,2023,,,,,,,,,,,,,,2023
+Virginia,Nottoway CC,2023,,,,,,,,,,,,,,2023
+Virginia,Nottoway CC,2023,,,,,,,,,,,,,,2023
+Virginia,Pocahontas State CC,2023,,,,,,,,,,,,,,2023
+Virginia,Pocahontas State CC,2023,,,,,,,,,,,,,,2023
+Virginia,Red Onion SP,2023,,,,,,,,,,,,,,2023
+Virginia,Red Onion SP,2023,,,,,,,,,,,,,,2023
+Virginia,River North CC,2023,,,,,,,,,,,,,,2023
+Virginia,State Farm CC,2023,,,,,,,,,,,,,,2023
+Virginia,State Farm CC,2023,,,,,,,,,,,,,,2023
+Virginia,State Farm CC,2023,,,,,,,,,,,,,,2023
+Virginia,State Farm EU,2023,,,,,,,,,,,,,,2023
+Virginia,State Farm EU,2023,,,,,,,,,,,,,,2023
+Virginia,State Farm EU,2023,,,,,,,,,,,,,,2023
+Virginia,State Farm EU,2023,,,,,,,,,,,,,,2023
+Virginia,State Farm EU,2023,,,,,,,,,,,,,,2023
+Virginia,State Farm EU,2023,,,,,,,,,,,,,,2023
+Virginia,State Farm EU,2023,,,,,,,,,,,,,,2023
+Virginia,State Farm EU,2023,,,,,,,,,,,,,,2023
+Virginia,State Farm EU,2023,,,,,,,,,,,,,,2023
+Virginia,State Farm EU,2023,,,,,,,,,,,,,,2023
+Virginia,State Farm EU,2023,,,,,,,,,,,,,,2023
+Virginia,State Farm EU,2023,,,,,,,,,,,,,,2023
+Virginia,State Farm EU,2023,,,,,,,,,,,,,,2023
+Virginia,Sussex I SP,2023,,,,,,,,,,,,,,2023
+Virginia,Sussex I SP,2023,,,,,,,,,,,,,,2023
+Virginia,Sussex I SP,2023,,,,,,,,,,,,,,2023
+Virginia,Sussex I SP,2023,,,,,,,,,,,,,,2023
+Virginia,Sussex I SP,2023,,,,,,,,,,,,,,2023
+Virginia,Sussex II SP,2023,,,,,,,,,,,,,,2023
+Virginia,Sussex II SP,2023,,,,,,,,,,,,,,2023
+Virginia,Sussex II SP,2023,,,,,,,,,,,,,,2023
+Virginia,Sussex II SP,2023,,,,,,,,,,,,,,2023
+Virginia,Sussex II SP,2023,,,,,,,,,,,,,,2023
+Virginia,Sussex II SP,2023,,,,,,,,,,,,,,2023
+Virginia,Sussex II SP,2023,,,,,,,,,,,,,,2023
+Virginia,,2024,,,,,,,,,,,Accidental,,,2024
+Virginia,,2024,,,,,,,,,,,Accidental,,,2024
+Virginia,,2024,,,,,,,,,,,Accidental,,,2024
+Virginia,,2024,,,,,,,,,,,Homicide,,,2024
+Virginia,,2024,,,,,,,,,,,Natural Causes,,,2024
+Virginia,,2024,,,,,,,,,,,Natural Causes,,,2024
+Virginia,,2024,,,,,,,,,,,Natural Causes,,,2024
+Virginia,,2024,,,,,,,,,,,Natural Causes,,,2024
+Virginia,,2024,,,,,,,,,,,Natural Causes,,,2024
+Virginia,,2024,,,,,,,,,,,Natural Causes,,,2024
+Virginia,,2024,,,,,,,,,,,Natural Causes,,,2024
+Virginia,,2024,,,,,,,,,,,Natural Causes,,,2024
+Virginia,,2024,,,,,,,,,,,Natural Causes,,,2024
+Virginia,,2024,,,,,,,,,,,Natural Causes,,,2024
+Virginia,,2024,,,,,,,,,,,Natural Causes,,,2024
+Virginia,,2024,,,,,,,,,,,Natural Causes,,,2024
+Virginia,,2024,,,,,,,,,,,Natural Causes,,,2024
+Virginia,,2024,,,,,,,,,,,Natural Causes,,,2024
+Virginia,,2024,,,,,,,,,,,Natural Causes,,,2024
+Virginia,,2024,,,,,,,,,,,Natural Causes,,,2024
+Virginia,,2024,,,,,,,,,,,Natural Causes,,,2024
+Virginia,,2024,,,,,,,,,,,Natural Causes,,,2024
+Virginia,,2024,,,,,,,,,,,Natural Causes,,,2024
+Virginia,,2024,,,,,,,,,,,Natural Causes,,,2024
+Virginia,,2024,,,,,,,,,,,Natural Causes,,,2024
+Virginia,,2024,,,,,,,,,,,Natural Causes,,,2024
+Virginia,,2024,,,,,,,,,,,Natural Causes,,,2024
+Virginia,,2024,,,,,,,,,,,Natural Causes,,,2024
+Virginia,,2024,,,,,,,,,,,Natural Causes,,,2024
+Virginia,,2024,,,,,,,,,,,Natural Causes,,,2024
+Virginia,,2024,,,,,,,,,,,Natural Causes,,,2024
+Virginia,,2024,,,,,,,,,,,Natural Causes,,,2024
+Virginia,,2024,,,,,,,,,,,Natural Causes,,,2024
+Virginia,,2024,,,,,,,,,,,Natural Causes,,,2024
+Virginia,,2024,,,,,,,,,,,Natural Causes,,,2024
+Virginia,,2024,,,,,,,,,,,Natural Causes,,,2024
+Virginia,,2024,,,,,,,,,,,Natural Causes,,,2024
+Virginia,,2024,,,,,,,,,,,Natural Causes,,,2024
+Virginia,,2024,,,,,,,,,,,Natural Causes,,,2024
+Virginia,,2024,,,,,,,,,,,Natural Causes,,,2024
+Virginia,,2024,,,,,,,,,,,Natural Causes,,,2024
+Virginia,,2024,,,,,,,,,,,Natural Causes,,,2024
+Virginia,,2024,,,,,,,,,,,Natural Causes,,,2024
+Virginia,,2024,,,,,,,,,,,Natural Causes,,,2024
+Virginia,,2024,,,,,,,,,,,Natural Causes,,,2024
+Virginia,,2024,,,,,,,,,,,Natural Causes,,,2024
+Virginia,,2024,,,,,,,,,,,Natural Causes,,,2024
+Virginia,,2024,,,,,,,,,,,Natural Causes,,,2024
+Virginia,,2024,,,,,,,,,,,Natural Causes,,,2024
+Virginia,,2024,,,,,,,,,,,Natural Causes,,,2024
+Virginia,,2024,,,,,,,,,,,Natural Causes,,,2024
+Virginia,,2024,,,,,,,,,,,Natural Causes,,,2024
+Virginia,,2024,,,,,,,,,,,Natural Causes,,,2024
+Virginia,,2024,,,,,,,,,,,Natural Causes,,,2024
+Virginia,,2024,,,,,,,,,,,Natural Causes,,,2024
+Virginia,,2024,,,,,,,,,,,Natural Causes,,,2024
+Virginia,,2024,,,,,,,,,,,Natural Causes,,,2024
+Virginia,,2024,,,,,,,,,,,Suicide,,,2024
+Virginia,,2024,,,,,,,,,,,Suicide,,,2024
+Virginia,,2024,,,,,,,,,,,Suicide,,,2024
+Virginia,,2024,,,,,,,,,,,Suicide,,,2024
+Virginia,,2024,,,,,,,,,,,Suicide,,,2024
+Virginia,,2024,,,,,,,,,,,Suicide,,,2024
+Virginia,,2024,,,,,,,,,,,"Unavailable, Pending Investigation",,,2024
+Virginia,,2024,,,,,,,,,,,"Unavailable, Pending Investigation",,,2024
+Virginia,,2024,,,,,,,,,,,"Unavailable, Pending Investigation",,,2024
+Virginia,,2024,,,,,,,,,,,"Unavailable, Pending Investigation",,,2024
+Virginia,,2024,,,,,,,,,,,"Unavailable, Pending Investigation",,,2024
+Virginia,,2024,,,,,,,,,,,"Unavailable, Pending Investigation",,,2024
+Virginia,,2024,,,,,,,,,,,"Unavailable, Pending Investigation",,,2024
+Virginia,,2024,,,,,,,,,,,"Unavailable, Pending Investigation",,,2024
+Virginia,,2024,,,,,,,,,,,"Unavailable, Pending Investigation",,,2024
+Virginia,,2024,,,,,,,,,,,"Unavailable, Pending Investigation",,,2024
+Virginia,,2024,,,,,,,,,,,"Unavailable, Pending Investigation",,,2024
+Virginia,,2024,,,,,,,,,,,"Unavailable, Pending Investigation",,,2024
+Virginia,,2024,,,,,,,,,,,"Unavailable, Pending Investigation",,,2024
+Virginia,,2024,,,,,,,,,,,"Unavailable, Pending Investigation",,,2024
+Virginia,,2024,,,,,,,,,,,"Unavailable, Pending Investigation",,,2024
+Virginia,,2024,,,,,,,,,,,"Unavailable, Pending Investigation",,,2024
+Virginia,,2024,,,,,,,,,,,"Unavailable, Pending Investigation",,,2024
+Virginia,,2024,,,,,,,,,,,"Unavailable, Pending Investigation",,,2024
+Virginia,,2024,,,,,,,,,,,"Unavailable, Pending Investigation",,,2024
+Virginia,,2024,,,,,,,,,,,"Unavailable, Pending Investigation",,,2024
+Virginia,,2024,,,,,,,,,,,"Unavailable, Pending Investigation",,,2024
+Virginia,,2024,,,,,,,,,,,"Unavailable, Pending Investigation",,,2024
+Virginia,,2024,,,,,,,,,,,"Unavailable, Pending Investigation",,,2024
+Virginia,,2024,,,,,,,,,,,"Unavailable, Pending Investigation",,,2024
+Virginia,,2024,,,,,,,,,,,"Unavailable, Pending Investigation",,,2024
+Virginia,,2024,,,,,,,,,,,"Unavailable, Pending Investigation",,,2024
+Virginia,,2024,,,,,,,,,,,"Unavailable, Pending Investigation",,,2024
+Virginia,,2024,,,,,,,,,,,"Unavailable, Pending Investigation",,,2024
+Virginia,,2024,,,,,,,,,,,"Unavailable, Pending Investigation",,,2024
+Virginia,,2024,,,,,,,,,,,Drug Overdose,,,2024
+Virginia,,2024,,,,,,,,,,,Drug Overdose,,,2024
+Virginia,,2024,,,,,,,,,,,Drug Overdose,,,2024
+Virginia,,2024,,,,,,,,,,,Drug Overdose,,,2024
+Virginia,,2024,,,,,,,,,,,Drug Overdose,,,2024

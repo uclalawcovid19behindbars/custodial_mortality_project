@@ -1,0 +1,750 @@
+State,Facility,Year,Month,Death.Date,First.Name,Last.Name,Full.Name,ID.No,Death.Age,Sex,Race,Ethnicity,Circumstance.General,Circumstance.Specific,Circumstance.Other,source_year
+TN,,2020,December,,,,,,,,,,Natural,,,
+TN,,2020,December,,,,,,,,,,Natural,,,
+TN,,2020,December,,,,,,,,,,Natural,,,
+TN,,2020,December,,,,,,,,,,Natural,,,
+TN,,2020,December,,,,,,,,,,Natural,,,
+TN,,2020,December,,,,,,,,,,Natural,,,
+TN,,2020,December,,,,,,,,,,Natural,,,
+TN,,2020,December,,,,,,,,,,Natural,,,
+TN,,2020,December,,,,,,,,,,Natural,,,
+TN,,2020,December,,,,,,,,,,Natural,,,
+TN,,2020,December,,,,,,,,,,Natural,,,
+TN,,2020,December,,,,,,,,,,Natural,,,
+TN,,2020,December,,,,,,,,,,Natural,,,
+TN,,2020,December,,,,,,,,,,Natural,,,
+TN,,2020,December,,,,,,,,,,Homicide,,,
+TN,,2020,December,,,,,,,,,,Suicide,,,
+TN,,2020,December,,,,,,,,,,Suicide,,,
+TN,,2020,December,,,,,,,,,,Accident,,,
+TN,,2020,November,,,,,,,,,,Natural,,,
+TN,,2020,November,,,,,,,,,,Natural,,,
+TN,,2020,November,,,,,,,,,,Natural,,,
+TN,,2020,November,,,,,,,,,,Natural,,,
+TN,,2020,November,,,,,,,,,,Natural,,,
+TN,,2020,November,,,,,,,,,,Suicide,,,
+TN,,2020,November,,,,,,,,,,Suicide,,,
+TN,,2020,November,,,,,,,,,,Suicide,,,
+TN,,2020,November,,,,,,,,,,Accident,,,
+TN,,2020,November,,,,,,,,,,Accident,,,
+TN,,2020,November,,,,,,,,,,Accident,,,
+TN,,2020,October,,,,,,,,,,Natural,,,
+TN,,2020,October,,,,,,,,,,Natural,,,
+TN,,2020,October,,,,,,,,,,Natural,,,
+TN,,2020,October,,,,,,,,,,Natural,,,
+TN,,2020,October,,,,,,,,,,Natural,,,
+TN,,2020,October,,,,,,,,,,Natural,,,
+TN,,2020,October,,,,,,,,,,Natural,,,
+TN,,2020,October,,,,,,,,,,Natural,,,
+TN,,2020,October,,,,,,,,,,Natural,,,
+TN,,2020,October,,,,,,,,,,Natural,,,
+TN,,2020,October,,,,,,,,,,Natural,,,
+TN,,2020,October,,,,,,,,,,Natural,,,
+TN,,2020,October,,,,,,,,,,Natural,,,
+TN,,2020,October,,,,,,,,,,Natural,,,
+TN,,2020,October,,,,,,,,,,Natural,,,
+TN,,2020,October,,,,,,,,,,Natural,,,
+TN,,2020,October,,,,,,,,,,Natural,,,
+TN,,2020,October,,,,,,,,,,Suicide,,,
+TN,,2020,October,,,,,,,,,,Accident,,,
+TN,,2020,October,,,,,,,,,,Accident,,,
+TN,,2020,October,,,,,,,,,,Accident,,,
+TN,,2020,September,,,,,,,,,,Natural,,,
+TN,,2020,September,,,,,,,,,,Natural,,,
+TN,,2020,September,,,,,,,,,,Natural,,,
+TN,,2020,September,,,,,,,,,,Natural,,,
+TN,,2020,September,,,,,,,,,,Natural,,,
+TN,,2020,September,,,,,,,,,,Natural,,,
+TN,,2020,September,,,,,,,,,,Natural,,,
+TN,,2020,September,,,,,,,,,,Natural,,,
+TN,,2020,September,,,,,,,,,,Natural,,,
+TN,,2020,September,,,,,,,,,,Natural,,,
+TN,,2020,September,,,,,,,,,,Natural,,,
+TN,,2020,September,,,,,,,,,,Natural,,,
+TN,,2020,September,,,,,,,,,,Natural,,,
+TN,,2020,September,,,,,,,,,,Accident,,,
+TN,,2020,September,,,,,,,,,,Accident,,,
+TN,,2020,August,,,,,,,,,,Natural,,,
+TN,,2020,August,,,,,,,,,,Natural,,,
+TN,,2020,August,,,,,,,,,,Natural,,,
+TN,,2020,August,,,,,,,,,,Natural,,,
+TN,,2020,August,,,,,,,,,,Natural,,,
+TN,,2020,August,,,,,,,,,,Natural,,,
+TN,,2020,August,,,,,,,,,,Natural,,,
+TN,,2020,August,,,,,,,,,,Natural,,,
+TN,,2020,August,,,,,,,,,,Natural,,,
+TN,,2020,August,,,,,,,,,,Natural,,,
+TN,,2020,August,,,,,,,,,,Natural,,,
+TN,,2020,August,,,,,,,,,,Natural,,,
+TN,,2020,August,,,,,,,,,,Natural,,,
+TN,,2020,August,,,,,,,,,,Natural,,,
+TN,,2020,August,,,,,,,,,,Natural,,,
+TN,,2020,August,,,,,,,,,,Manner Pending,,,
+TN,,2020,August,,,,,,,,,,Accident,,,
+TN,,2020,July,,,,,,,,,,Natural,,,
+TN,,2020,July,,,,,,,,,,Natural,,,
+TN,,2020,July,,,,,,,,,,Natural,,,
+TN,,2020,July,,,,,,,,,,Accident,,,
+TN,,2020,July,,,,,,,,,,Accident,,,
+TN,,2020,June,,,,,,,,,,Natural,,,
+TN,,2020,June,,,,,,,,,,Natural,,,
+TN,,2020,June,,,,,,,,,,Natural,,,
+TN,,2020,June,,,,,,,,,,Natural,,,
+TN,,2020,June,,,,,,,,,,Natural,,,
+TN,,2020,June,,,,,,,,,,Natural,,,
+TN,,2020,June,,,,,,,,,,Natural,,,
+TN,,2020,June,,,,,,,,,,Natural,,,
+TN,,2020,June,,,,,,,,,,Natural,,,
+TN,,2020,June,,,,,,,,,,Natural,,,
+TN,,2020,June,,,,,,,,,,Natural,,,
+TN,,2020,June,,,,,,,,,,Manner Pending,,,
+TN,,2020,June,,,,,,,,,,Accident,,,
+TN,,2020,June,,,,,,,,,,Accident,,,
+TN,,2020,June,,,,,,,,,,Accident,,,
+TN,,2020,June,,,,,,,,,,Accident,,,
+TN,,2020,May,,,,,,,,,,Natural,,,
+TN,,2020,May,,,,,,,,,,Natural,,,
+TN,,2020,May,,,,,,,,,,Natural,,,
+TN,,2020,May,,,,,,,,,,Natural,,,
+TN,,2020,May,,,,,,,,,,Natural,,,
+TN,,2020,May,,,,,,,,,,Natural,,,
+TN,,2020,May,,,,,,,,,,Natural,,,
+TN,,2020,May,,,,,,,,,,Natural,,,
+TN,,2020,May,,,,,,,,,,Natural,,,
+TN,,2020,May,,,,,,,,,,Natural,,,
+TN,,2020,May,,,,,,,,,,Natural,,,
+TN,,2020,May,,,,,,,,,,Suicide,,,
+TN,,2020,May,,,,,,,,,,Accident,,,
+TN,,2020,May,,,,,,,,,,Accident,,,
+TN,,2020,April,,,,,,,,,,Natural,,,
+TN,,2020,April,,,,,,,,,,Natural,,,
+TN,,2020,April,,,,,,,,,,Natural,,,
+TN,,2020,April,,,,,,,,,,Natural,,,
+TN,,2020,April,,,,,,,,,,Natural,,,
+TN,,2020,April,,,,,,,,,,Natural,,,
+TN,,2020,April,,,,,,,,,,Natural,,,
+TN,,2020,April,,,,,,,,,,Natural,,,
+TN,,2020,April,,,,,,,,,,Natural,,,
+TN,,2020,April,,,,,,,,,,Accident,,,
+TN,,2020,April,,,,,,,,,,Accident,,,
+TN,,2020,April,,,,,,,,,,Accident,,,
+TN,,2020,March,,,,,,,,,,Natural,,,
+TN,,2020,March,,,,,,,,,,Natural,,,
+TN,,2020,March,,,,,,,,,,Natural,,,
+TN,,2020,March,,,,,,,,,,Natural,,,
+TN,,2020,March,,,,,,,,,,Natural,,,
+TN,,2020,March,,,,,,,,,,Natural,,,
+TN,,2020,March,,,,,,,,,,Natural,,,
+TN,,2020,March,,,,,,,,,,Natural,,,
+TN,,2020,March,,,,,,,,,,Natural,,,
+TN,,2020,March,,,,,,,,,,Natural,,,
+TN,,2020,March,,,,,,,,,,Natural,,,
+TN,,2020,March,,,,,,,,,,Suicide,,,
+TN,,2020,March,,,,,,,,,,Accident,,,
+TN,,2020,February,,,,,,,,,,Natural,,,
+TN,,2020,February,,,,,,,,,,Natural,,,
+TN,,2020,February,,,,,,,,,,Natural,,,
+TN,,2020,February,,,,,,,,,,Natural,,,
+TN,,2020,February,,,,,,,,,,Execution - Electric Chair,,,
+TN,,2020,February,,,,,,,,,,Homicide,,,
+TN,,2020,February,,,,,,,,,,Suicide,,,
+TN,,2020,January,,,,,,,,,,Natural,,,
+TN,,2020,January,,,,,,,,,,Natural,,,
+TN,,2020,January,,,,,,,,,,Natural,,,
+TN,,2020,January,,,,,,,,,,Natural,,,
+TN,,2020,January,,,,,,,,,,Natural,,,
+TN,,2020,January,,,,,,,,,,Natural,,,
+TN,,2020,January,,,,,,,,,,Natural,,,
+TN,,2020,January,,,,,,,,,,Natural,,,
+TN,,2020,January,,,,,,,,,,Natural,,,
+TN,,2020,January,,,,,,,,,,Natural,,,
+TN,,2020,January,,,,,,,,,,Homicide,,,
+TN,,2020,January,,,,,,,,,,Suicide,,,
+TN,,2020,January,,,,,,,,,,Suicide,,,
+TN,,2020,January,,,,,,,,,,Suicide,,,
+TN,,2020,January,,,,,,,,,,Accident,,,
+TN,,2019,December,,,,,,,,,,Natural,,,
+TN,,2019,December,,,,,,,,,,Natural,,,
+TN,,2019,December,,,,,,,,,,Natural,,,
+TN,,2019,December,,,,,,,,,,Natural,,,
+TN,,2019,December,,,,,,,,,,Natural,,,
+TN,,2019,December,,,,,,,,,,Natural,,,
+TN,,2019,December,,,,,,,,,,Natural,,,
+TN,,2019,December,,,,,,,,,,Execution - Electric Chair,,,
+TN,,2019,December,,,,,,,,,,Suicide,,,
+TN,,2019,December,,,,,,,,,,Suicide,,,
+TN,,2019,November,,,,,,,,,,Natural,,,
+TN,,2019,November,,,,,,,,,,Natural,,,
+TN,,2019,November,,,,,,,,,,Natural,,,
+TN,,2019,November,,,,,,,,,,Natural,,,
+TN,,2019,November,,,,,,,,,,Natural,,,
+TN,,2019,November,,,,,,,,,,Natural,,,
+TN,,2019,November,,,,,,,,,,Natural,,,
+TN,,2019,November,,,,,,,,,,Natural,,,
+TN,,2019,November,,,,,,,,,,Natural,,,
+TN,,2019,November,,,,,,,,,,Natural,,,
+TN,,2019,November,,,,,,,,,,Natural,,,
+TN,,2019,November,,,,,,,,,,Manner Pending,,,
+TN,,2019,November,,,,,,,,,,Suicide,,,
+TN,,2019,October,,,,,,,,,,Natural,,,
+TN,,2019,October,,,,,,,,,,Natural,,,
+TN,,2019,October,,,,,,,,,,Natural,,,
+TN,,2019,October,,,,,,,,,,Natural,,,
+TN,,2019,October,,,,,,,,,,Natural,,,
+TN,,2019,October,,,,,,,,,,Natural,,,
+TN,,2019,October,,,,,,,,,,Suicide,,,
+TN,,2019,September,,,,,,,,,,Natural,,,
+TN,,2019,September,,,,,,,,,,Natural,,,
+TN,,2019,September,,,,,,,,,,Natural,,,
+TN,,2019,September,,,,,,,,,,Homicide,,,
+TN,,2019,August,,,,,,,,,,Natural,,,
+TN,,2019,August,,,,,,,,,,Natural,,,
+TN,,2019,August,,,,,,,,,,Natural,,,
+TN,,2019,August,,,,,,,,,,Natural,,,
+TN,,2019,August,,,,,,,,,,Natural,,,
+TN,,2019,August,,,,,,,,,,Natural,,,
+TN,,2019,August,,,,,,,,,,Natural,,,
+TN,,2019,August,,,,,,,,,,Natural,,,
+TN,,2019,August,,,,,,,,,,Natural,,,
+TN,,2019,August,,,,,,,,,,Natural,,,
+TN,,2019,August,,,,,,,,,,Natural,,,
+TN,,2019,August,,,,,,,,,,Execution - Electric Chair,,,
+TN,,2019,August,,,,,,,,,,Suicide,,,
+TN,,2019,August,,,,,,,,,,Suicide,,,
+TN,,2019,August,,,,,,,,,,Suicide,,,
+TN,,2019,August,,,,,,,,,,Accident,,,
+TN,,2019,July,,,,,,,,,,Natural,,,
+TN,,2019,July,,,,,,,,,,Natural,,,
+TN,,2019,July,,,,,,,,,,Natural,,,
+TN,,2019,July,,,,,,,,,,Natural,,,
+TN,,2019,July,,,,,,,,,,Natural,,,
+TN,,2019,July,,,,,,,,,,Suicide,,,
+TN,,2019,June,,,,,,,,,,Natural,,,
+TN,,2019,June,,,,,,,,,,Natural,,,
+TN,,2019,June,,,,,,,,,,Natural,,,
+TN,,2019,June,,,,,,,,,,Natural,,,
+TN,,2019,June,,,,,,,,,,Natural,,,
+TN,,2019,June,,,,,,,,,,Homicide,,,
+TN,,2019,May,,,,,,,,,,Natural,,,
+TN,,2019,May,,,,,,,,,,Natural,,,
+TN,,2019,May,,,,,,,,,,Natural,,,
+TN,,2019,May,,,,,,,,,,Natural,,,
+TN,,2019,May,,,,,,,,,,Natural,,,
+TN,,2019,May,,,,,,,,,,Natural,,,
+TN,,2019,May,,,,,,,,,,Natural,,,
+TN,,2019,May,,,,,,,,,,Homicide,,,
+TN,,2019,May,,,,,,,,,,Execution - Lethal Injection,,,
+TN,,2019,May,,,,,,,,,,Suicide,,,
+TN,,2019,May,,,,,,,,,,Accident,,,
+TN,,2019,April,,,,,,,,,,Natural,,,
+TN,,2019,April,,,,,,,,,,Natural,,,
+TN,,2019,April,,,,,,,,,,Natural,,,
+TN,,2019,April,,,,,,,,,,Natural,,,
+TN,,2019,April,,,,,,,,,,Natural,,,
+TN,,2019,April,,,,,,,,,,Natural,,,
+TN,,2019,April,,,,,,,,,,Accident,,,
+TN,,2019,April,,,,,,,,,,Accident,,,
+TN,,2019,April,,,,,,,,,,Accident,,,
+TN,,2019,March,,,,,,,,,,Natural,,,
+TN,,2019,March,,,,,,,,,,Natural,,,
+TN,,2019,March,,,,,,,,,,Natural,,,
+TN,,2019,March,,,,,,,,,,Natural,,,
+TN,,2019,March,,,,,,,,,,Natural,,,
+TN,,2019,March,,,,,,,,,,Natural,,,
+TN,,2019,March,,,,,,,,,,Natural,,,
+TN,,2019,March,,,,,,,,,,Natural,,,
+TN,,2019,March,,,,,,,,,,Homicide,,,
+TN,,2019,March,,,,,,,,,,Homicide,,,
+TN,,2019,March,,,,,,,,,,Accident,,,
+TN,,2019,February,,,,,,,,,,Natural,,,
+TN,,2019,February,,,,,,,,,,Natural,,,
+TN,,2019,February,,,,,,,,,,Natural,,,
+TN,,2019,January,,,,,,,,,,Natural,,,
+TN,,2019,January,,,,,,,,,,Natural,,,
+TN,,2019,January,,,,,,,,,,Natural,,,
+TN,,2019,January,,,,,,,,,,Natural,,,
+TN,,2019,January,,,,,,,,,,Natural,,,
+TN,,2019,January,,,,,,,,,,Natural,,,
+TN,,2019,January,,,,,,,,,,Natural,,,
+TN,,2019,January,,,,,,,,,,Homicide,,,
+TN,,2019,January,,,,,,,,,,Suicide,,,
+,NWCX,2022,January,2022-01-02,,,"Hamilton, Joseph",629919,36,M,B,,Accidental/ Injury self,,,2022
+,NECX,2022,January,2022-01-03,,,"Arnold, Brandon",338734,39,M,W,,Accidental/ Injury self,,,2022
+,NECX,2022,January,2022-01-04,,,"Boyd, Devin",626764,22,M,B,,Accidental/ Injury self,,,2022
+,SCCF,2022,January,2022-01-06,,,"Muirhead, Ronald",168381,68,M,W,,Natural Illness,,,2022
+,NWCX,2022,January,2022-01-06,,,"Lowe, Samuel",578137,27,M,W,,Accidental/ Injury self,,,2022
+,DJRC,2022,January,2022-01-11,,,"Jones, Hattie",465775,79,F,W,,Natural Illness,,,2022
+,BCCX,2022,January,2022-01-12,,,"Stone, Nathan",222192,56,M,W,,Natural Illness,,,2022
+,DSNF,2022,January,2022-01-13,,,"Woolfork, Johnny",629960,66,M,B,,Natural Illness,,,2022
+,NECX,2022,January,2022-01-14,,,"Miller, Clarence",398076,52,M,B,,Natural Illness,,,2022
+,DJRC,2022,January,2022-01-14,,,"Vance, Tammy",352767,64,F,W,,Natural Illness,,,2022
+,DSNF,2022,January,2022-01-19,,,"Williams, Thomas",553389,73,M,W,,Natural Illness,,,2022
+,SCCF,2022,January,2022-01-23,,,"Lloyd, Joshua",568034,30,M,W,,Homicide,,,2022
+,TTCC,2022,January,2022-01-25,,,"Nash, Jason",226408,49,M,W,,Natural Illness,,,2022
+,SCCF,2022,January,2022-01-25,,,"Frame, Jewell",588923,75,M,W,,Natural Illness,,,2022
+,HCCF,2022,January,2022-01-27,,,"Lynch, James",477280,31,M,W,,Accidental/ Injury self,,,2022
+,DSNF,2022,January,2022-01-28,,,"Armstrong, Ronnie",506853,59,M,W,,Natural Illness,,,2022
+,DJRC,2022,January,2022-01-28,,,"Savage, Sharle",10935,64,F,W,,Natural Illness,,,2022
+,TTCC,2022,January,2022-01-28,,,"Chadwick, Roderick",136748,52,M,B,,Natural Illness,,,2022
+,SCCF,2022,January,2022-01-30,,,"Bailey, John",531910,56,M,W,,Natural Illness,,,2022
+,WCFA,2022,February,2022-02-01,,,"Yazel, Anthony",472155,31,M,W,,Homicide,,,2022
+,WCFA,2022,February,2022-02-01,,,"Petty, David",96798,60,M,W,,Natural Illness,,,2022
+,TTCC,2022,February,2022-02-01,,,"Bates, Michael",549107,60,M,W,,Natural Illness,,,2022
+,NWCX,2022,February,2022-02-02,,,"Dial, Anthony",203197,61,M,W,,Natural Illness,,,2022
+,DJRC,2022,February,2022-02-03,,,"Bristow, Yvonne",613729,57,F,W,,Natural Illness,,,2022
+,MCCX,2022,February,2022-02-06,,,"Sneed, Kenneth",510223,74,M,W,,Natural Illness,,,2022
+,DSNF,2022,February,2022-02-07,,,"Cantrell, David",107327,78,M,W,,Natural Illness,,,2022
+,WTSP,2022,February,2022-02-10,,,"Reynolds, Brian",369037,40,M,W,,Accidental/ Injury self,,,2022
+,DJRC,2022,February,2022-02-11,,,"Huckelby, Raychell",587860,55,F,W,,Natural Illness,,,2022
+,TTCC,2022,February,2022-02-14,,,"Fritts, Matthew",571141,45,M,W,,Natural Illness,,,2022
+,WTSP,2022,February,2022-02-17,,,"Kaupman, Christopher",602391,47,M,W,,Natural Illness,,,2022
+,RMSI,2022,February,2022-02-18,,,"Johnson, Bradley",346779,40,M,W,,Homicide,,,2022
+,RMSI,2022,February,2022-02-19,,,"Page, Norman",106865,63,M,W,,Accidental/ Injury self,,,2022
+,TTCC,2022,February,2022-02-20,,,"Rutherford, Tommy",162006,61,M,W,,Accidental/ Injury self,,,2022
+,DSNF,2022,February,2022-02-21,,,"Cothran, Thomas",369666,80,M,W,,Natural Illness,,,2022
+,DSNF,2022,February,2022-02-21,,,"Wade, Robert",100216,58,M,B,,Natural Illness,,,2022
+,DSNF,2022,February,2022-02-21,,,"McKnight, Brian",631036,41,M,B,,Natural Illness,,,2022
+,NECX,2022,February,2022-02-22,,,"Wade, Rickey",628025,55,M,W,,Natural Illness,,,2022
+,DSNF,2022,February,2022-02-23,,,"Shelton, Jeffery",360343,59,M,W,,Natural Illness,,,2022
+,DSNF,2022,February,2022-02-24,,,"Ellison, Lonnie",529113,61,M,W,,Natural Illness,,,2022
+,NWCX,2022,February,2022-02-26,,,"Martin, William",571263,45,M,W,,Accidental/ Injury self,,,2022
+,MCCX,2022,February,2022-02-28,,,"Greer, Bobby",94759,70,M,W,,Natural Illness,,,2022
+,DSNF,2022,March,2022-03-01,,,"Jones, Jessie",357286,57,M,B,,Natural Illness,,,2022
+,WCFA,2022,March,2022-03-08,,,"Stanley, Thomas",362932,47,M,W,,Accidental/ Injury self,,,2022
+,HCCF,2022,March,2022-03-08,,,"Collins, Keith",363289,37,M,B,,Homicide,,,2022
+,DSNF,2022,March,2022-03-09,,,"Jones, Paul",405852,44,M,B,,Natural Illness,,,2022
+,HCCF,2022,March,2022-03-10,,,"Jackson, John",450743,32,M,B,,Accident,,,2022
+,TTCC,2022,March,2022-03-14,,,"Torres, Jose",537880,39,M,H,,Homicide,,,2022
+,DSNF,2022,March,2022-03-15,,,"Creason, Timmy",301718,57,M,W,,Natural Illness,,,2022
+,TCIX,2022,March,2022-03-16,,,"Brown, Joshua",511266,30,M,W,,Accidental/ Injury self,,,2022
+,DSNF,2022,March,2022-03-17,,,"Talley, Michael",286156,43,M,B,,Natural Illness,,,2022
+,DSNF,2022,March,2022-03-17,,,"Combs, David",598099,70,M,W,,Natural Illness,,,2022
+,DSNF,2022,March,2022-03-18,,,"Parks, Bobby",210279,49,M,B,,Natural Illness,,,2022
+,DJRC,2022,March,2022-03-19,,,"Brown, Myeisha",623916,21,F,B,,Suicide,,,2022
+,HCCF,2022,March,2022-03-24,,,"Jones, Cornelius",386270,34,M,B,,Accidental/ Injury self,,,2022
+,TTCC,2022,March,2022-03-28,,,"Jameson, Edward",396713,51,M,W,,Accidental/ Injury self,,,2022
+,TTCC,2022,March,2022-03-28,,,"Twilley, Marktavious",528772,28,M,B,,Homicide,,,2022
+,DSNF,2022,March,2022-03-28,,,"Nobles, Jeremy",430800,39,M,W,,Natural Illness,,,2022
+,MCCX,2022,April,2022-04-01,,,"Harris, Jacob",609824,35,M,W,,Suicide,,,2022
+,WCFA,2022,April,2022-04-01,,,"Rush, Andrew",409018,34,M,W,,Suicide,,,2022
+,BCCX,2022,April,2022-04-06,,,"Waddell, Barry",275036,69,M,W,,Natural Illness,,,2022
+,DSNF,2022,April,2022-04-06,,,"Simpson, Gary",578505,63,M,W,,Natural Illness,,,2022
+,DSNF,2022,April,2022-04-09,,,"Henderson, Jonathon",517677,50,M,W,,Natural Illness,,,2022
+,NWCX,2022,April,2022-04-11,,,"Waller, Ronald",205287,53,M,W,,Natural Illness,,,2022
+,NWCX,2022,April,2022-04-12,,,"Cummins, James",570384,56,M,W,,Natural Illness,,,2022
+,WTRC,2022,April,2022-04-13,,,"Shaw, Jessica",468494,37,F,W,,Could not be Determined,,,2022
+,WCFA,2022,April,2022-04-23,,,"Dorsey, Travis",468070,31,M,B,,Could not be Determined,,,2022
+,RMSI,2022,April,2022-04-24,,,"Rittenberry, L.B.",165294,60,M,W,,Natural Illness,,,2022
+,WTSP,2022,April,2022-04-26,,,"Parker, Christopher",564680,27,M,W,,Accidental/ Injury self,,,2022
+,TTCC,2022,April,2022-04-26,,,"Conner, Charles",382196,41,M,W,,Natural Illness,,,2022
+,RMSI,2022,April,2022-04-27,,,"Walters, Justin",584556,26,M,W,,Homicide,,,2022
+,DSNF,2022,April,2022-04-30,,,"Johnson, Gabriele",351655,39,M,B,,Natural Illness,,,2022
+,HCCF,2022,April,2022-04-30,,,"Cathey, Joshua",482687,36,M,W,,Accidental/ Injury self,,,2022
+,NWCX,2022,April,2022-04-30,,,"Bowers, Mitchell",285195,66,M,B,,Natural Illness,,,2022
+,DSNF,2022,May,2022-05-02,,,"Tomlison, Michael",130177,59,M,W,,Natural Illness,,,2022
+,NWCX,2022,May,2022-05-03,,,"Streeter, Stanley",165591,49,M,B,,Accidental/ Injury self,,,2022
+,HCCF,2022,May,2022-05-04,,,"Carver, Nathan",516962,29,M,W,,Suicide,,,2022
+,TTCC,2022,May,2022-05-05,,,"Granderson, Kerry",484892,31,M,B,,Accidental/ Injury self,,,2022
+,HCCF,2022,May,2022-05-10,,,"Stewart, Kenneth",88018,68,M,W,,Natural Illness,,,2022
+,WCFA,2022,May,2022-05-11,,,"Weeks, Aaron",545404,47,M,W,,Suicide,,,2022
+,DSNF,2022,May,2022-05-13,,,"Cartwright, Joshua",603244,38,M,B,,Accidental/ Injury self,,,2022
+,WTSP,2022,May,2022-05-13,,,"Webb, Christopher",627817,32,M,W,,Accidental/ Injury self,,,2022
+,DSNF,2022,May,2022-05-14,,,"Dunn, Horace",422170,49,M,B,,Natural Illness,,,2022
+,DSNF,2022,May,2022-05-15,,,"Brown, Peter",589778,57,M,W,,Accidental/ Injury self,,,2022
+,WCFA,2022,May,2022-05-17,,,"Ammons, Stephen",456313,32,M,W,,Accidental/ Injury self,,,2022
+,DSNF,2022,May,2022-05-19,,,"Ledesma, Casimiro",520777,76,M,H,,Natural Illness,,,2022
+,WCFA,2022,May,2022-05-25,,,"Craighead, Terry",634509,32,M,B,,Accidental/ Injury self,,,2022
+,WCFA,2022,May,2022-05-25,,,"Warren, Shane",301942,41,M,W,,Accidental/ Injury self,,,2022
+,DSNF,2022,May,2022-05-27,,,"Cooper, Don",580727,76,M,W,,Natural Illness,,,2022
+,NWCX,2022,May,2022-05-27,,,"Mack, Cedric",271821,45,M,B,,Accidental/ Injury self,,,2022
+,WCFA,2022,June,2022-06-02,,,"Lanier, Julius",525927,28,M,B,,Homicide,,,2022
+,RMSI,2022,June,2022-06-06,,,"Garrett, James",462209,31,M,W,,Accidental/ Injury self,,,2022
+,DSNF,2022,June,2022-06-07,,,"Sullivan, Jerry",128583,72,M,W,,Natural Illness,,,2022
+,TCIX,2022,June,2022-06-09,,,"Moore, Jamie",572645,45,M,W,,Natural Illness,,,2022
+,NECX,2022,June,2022-06-10,,,"Wooten, Edward",221531,61,M,W,,Natural Illness,,,2022
+,HCCF,2022,June,2022-06-12,,,"Hunt, Robert",431399,42,M,W,,Accidental/ Injury self,,,2022
+,DSNF,2022,June,2022-06-12,,,"Minefield, Virgil",540362,60,M,B,,Natural Illness,,,2022
+,TTCC,2022,June,2022-06-16,,,"Walker, David",313789,42,M,W,,Natural Illness,,,2022
+,DJRC,2022,June,2022-06-17,,,"Kirksey, Stephany",573210,45,F,W,,Natural Illness,,,2022
+,WTSP,2022,June,2022-06-22,,,"Monfort, Antwain",596716,22,M,B,,Accidental/ Injury self,,,2022
+,HCCF,2022,June,2022-06-22,,,"Morgan, Mario",449635,45,M,H,,Accidental/ Injury self,,,2022
+,TTCC,2022,June,2022-06-23,,,"Russell, Bradley",519632,50,M,W,,Natural Illness,,,2022
+,NECX,2022,June,2022-06-26,,,"Transou, Mack",132974,63,M,B,,Accidental/ Injury self,,,2022
+,NECX,2022,June,2022-06-28,,,"Mayberry, Coy",589972,45,M,W,,Suicide,,,2022
+,TTCC,2022,June,2022-06-30,,,"Lowe, Hobart",556400,58,M,W,,Natural Illness,,,2022
+,DSNF,2022,July,2022-07-01,,,"Rollins, Cory",263357,51,M,W,,Natural Illness,,,2022
+,WCFA,2022,July,2022-07-01,,,"Hooper, Willie",282787,65,M,B,,Natural Illness,,,2022
+,TTCC,2022,July,2022-07-06,,,"Martin, Benton",498522,29,M,W,,Natural Illness,,,2022
+,TTCC,2022,July,2022-07-07,,,"Sherles, Matthew",555048,36,M,W,,Accidental/ Injury self,,,2022
+,NECX,2022,July,2022-07-10,,,"Adams, Bradley",419865,40,M,W,,Accidental/ Injury self,,,2022
+,DSNF,2022,July,2022-07-15,,,"Mullins, James",272909,53,M,W,,Accidental/ Injury self,,,2022
+,DSNF,2022,July,2022-07-17,,,"Brooks, Terry",469279,59,M,W,,Natural Illness,,,2022
+,TTCC,2022,July,2022-07-20,,,"Mince-Dies, Joshua",328394,39,M,W,,Accidental/ Injury self,,,2022
+,NECX,2022,July,2022-07-24,,,"James, Reggie",238803,50,M,B,,Accidental/ Injury self,,,2022
+,TTCC,2022,July,2022-07-27,,,"Edmond, Dennis",487363,33,M,B,,Accidental/ Injury self,,,2022
+,DSNF,2022,July,2022-07-28,,,"Elks, Brandon",611387,40,M,W,,Accidental/ Injury self,,,2022
+,WCFA,2022,July,2022-07-30,,,"Metcalf, Jerry",533736,29,M,W,,Accidental/ Injury self,,,2022
+,BCCX,2022,August,2022-08-02,,,"Bates, Earl",133460,57,M,B,,Natural Illness,,,2022
+,TTCC,2022,August,2022-08-02,,,"Stewart, Antonio",407366,37,M,B,,Accidental/ Injury self,,,2022
+,DSNF,2022,August,2022-08-08,,,"Buckner, Dennis",607323,74,M,W,,Natural Illness,,,2022
+,SCCF,2022,August,2022-08-08,,,"Conner, Byron",576707,57,M,W,,Natural Illness,,,2022
+,RMSI,2022,August,2022-08-09,,,"Woodruff, John",116823,53,M,B,,Accidental/ Injury self,,,2022
+,MCCX,2022,August,2022-08-12,,,"Tidwell, Keydre",637953,19,M,B,,Accidental/ Injury self,,,2022
+,WCFA,2022,August,2022-08-22,,,"Deem, Scott",117976,59,M,W,,Natural Illness,,,2022
+,HCCF,2022,August,2022-08-27,,,"Pyle, Roland",623607,33,M,W,,Accidental/ Injury self,,,2022
+,RMSI,2022,August,2022-08-27,,,"Kado, Jacob",327965,43,M,W,,Accidental/ Injury self,,,2022
+,DSNF,2022,August,2022-08-29,,,"Williamson, Phillip",632736,58,M,W,,Natural Illness,,,2022
+,BCCX,2022,August,2022-08-31,,,"Wampler, Freddie",334648,74,M,W,,Natural Illness,,,2022
+,DSNF,2022,September,2022-09-03,,,"Starks, Jessie",168570,65,M,B,,Natural Illness,,,2022
+,DSNF,2022,September,2022-09-07,,,"Vance, Dennis",124243,54,M,W,,Natural Illness,,,2022
+,BCCX,2022,September,2022-09-07,,,"Atchison, Brett",568734,33,M,W,,Suicide,,,2022
+,TTCC,2022,September,2022-09-13,,,"Bell, James",619076,63,M,W,,Natural Illness,,,2022
+,DSNF,2022,September,2022-09-14,,,"McCoy, James",231958,63,M,W,,Natural Illness,,,2022
+,NWCX,2022,September,2022-09-18,,,"Johnson, James",95249,73,M,B,,Natural Illness,,,2022
+,WCFA,2022,September,2022-09-19,,,"Beddingfield, David",573628,44,M,W,,Natural Illness,,,2022
+,DSNF,2022,September,2022-09-20,,,"Campbell, Virgil",588449,51,M,W,,Natural Illness,,,2022
+,DSNF,2022,September,2022-09-22,,,"Crocker, Bobby",403907,81,M,W,,Natural Illness,,,2022
+,DSNF,2022,October,2022-10-01,,,"Anderson, Leonard",464234,68,M,W,,Natural Illness,,,2022
+,TTCC,2022,October,2022-10-02,,,"Simerly, Robert",262128,47,M,W,,Accidental/ Injury self,,,2022
+,DSNF,2022,October,2022-10-04,,,"Wilson, Daniel",280074,44,M,W,,Natural Illness,,,2022
+,NECX,2022,October,2022-10-04,,,"Bunting, Angelo",628020,24,M,B,,Accidental/ Injury self,,,2022
+,DSNF,2022,October,2022-10-09,,,"Beneke, Robert",100030,64,M,W,,Natural Illness,,,2022
+,DSNF,2022,October,2022-10-09,,,"Dickerson, James",533957,80,M,B,,Natural Illness,,,2022
+,TTCC,2022,October,2022-10-11,,,"Plummer, Steven",588225,34,M,W,,Accidental/ Injury self,,,2022
+,TTCC,2022,October,2022-10-11,,,"Walton, Joey",347029,40,M,B,,Accidental/ Injury self,,,2022
+,TTCC,2022,October,2022-10-12,,,"Mayse, Ricardo",581411,35,M,W,,Accidental/ Injury self,,,2022
+,SCCF,2022,October,2022-10-18,,,"Mccaleb, Brandon",542917,30,M,B,,Accidental/ Injury self,,,2022
+,DSNF,2022,October,2022-10-18,,,"Vann, Darren",636177,52,M,W,,Natural Illness,,,2022
+,HCCF,2022,October,2022-10-18,,,"Thomas-Trudo, William",601097,51,M,W,,Suicide,,,2022
+,WCFA,2022,October,2022-10-19,,,"Prettyman, Brendon",601757,23,M,B,,Homicide,,,2022
+,HCCF,2022,October,2022-10-19,,,"Hardin, Cortez",413074,35,M,B,,Accidental/ Injury self,,,2022
+,HCCF,2022,October,2022-10-20,,,"Moss, James",400026,37,M,B,,Accidental/ Injury self,,,2022
+,DSNF,2022,October,2022-10-29,,,"Damron, Bobby",115744,68,M,W,,Natural Illness,,,2022
+,WCFA,2022,October,2022-10-31,,,"Fuller, Micheal",601295,29,M,W,,Accidental/ Injury self,,,2022
+,DJRC,2022,November,2022-11-02,,,"Shelton, Misty",160805,58,F,W,,Natural Illness,,,2022
+,TTCC,2022,November,2022-11-02,,,"Cathey, Dustin",590320,35,M,W,,Accidental/ Injury self,,,2022
+,SCCF,2022,November,2022-11-09,,,"Lambert, James",134319,60,M,W,,Natural Illness,,,2022
+,TTCC,2022,November,2022-11-11,,,"Swader, Jerry",113155,72,M,B,,Natural Illness,,,2022
+,DSNF,2022,November,2022-11-13,,,"Laird, Christopher",601342,49,M,W,,Natural Illness,,,2022
+,DSNF,2022,November,2022-11-16,,,"Dugger, William",134200,75,M,W,,Natural Illness,,,2022
+,WCFA,2022,November,2022-11-18,,,"Reynolds, Brandon",561451,28,M,W,,Accidental/ Injury self,,,2022
+,WCFA,2022,November,2022-11-20,,,"Gordon, Charles",476784,32,M,B,,Homicide,,,2022
+,DSNF,2022,November,2022-11-26,,,"Price, Joseph",310824,71,M,W,,Natural Illness,,,2022
+,HCCF,2022,November,2022-11-30,,,"Jones, Ervin",503245,29,M,B,,Accidental/ Injury self,,,2022
+,NECX,2022,December,2022-12-04,,,"Anderson, Billy",68938,71,M,W,,Natural Illness,,,2022
+,HCCF,2022,December,2022-12-06,,,"Thomas, Derrick",557062,25,M,B,,Accidental/ Injury self,,,2022
+,SCCF,2022,December,2022-12-06,,,"Rose, Keith",459175,33,M,B,,Natural Illness,,,2022
+,HCCF,2022,December,2022-12-07,,,"Cardwell, Daishaun",599490,20,M,B,,Accidental/ Injury self,,,2022
+,BCCX,2022,December,2022-12-07,,,"Mallard, Kerry",635406,56,M,W,,Natural Illness,,,2022
+,WTSP,2022,December,2022-12-08,,,"Lee, Shawn",611645,26,M,W,,Accidental/ Injury self,,,2022
+,SCCF,2022,December,2022-12-13,,,"Reynolds, Justin",533507,32,M,W,,Accidental/ Injury self,,,2022
+,BCCX,2022,December,2022-12-14,,,"Johnson, Anthony",618132,22,M,W,,Accidental/ Injury self,,,2022
+,TTCC,2022,December,2022-12-15,,,"Patterson, Jeremy",514626,38,M,B,,Suicide,,,2022
+,DJRC,2022,December,2022-12-21,,,"Arnold, Angela",450452,46,F,W,,Natural Illness,,,2022
+,WCFA,2022,December,2022-12-22,,,"Tate, Daeshawn",488311,36,M,B,,Suicide,,,2022
+,NECX,2022,December,2022-12-23,,,"Thomas, Matthew",466379,34,M,B,,Homicide,,,2022
+,TTCC,2022,December,2022-12-23,,,Gately Dannie,220116,46,M,W,,Accidental/ Injury self,,,2022
+,TTCC,2022,December,2022-12-24,,,"Mason, Walter",233688,47,M,W,,Homicide,,,2022
+,NECX,2022,December,2022-12-24,,,"McHaney, Ellis",229242,63,M,B,,Accidental/ Injury self,,,2022
+,MCCX,2022,December,2022-12-25,,,"Barnett, Gary",590574,67,M,W,,Natural Illness,,,2022
+,NWCX,2022,December,2022-12-29,,,"Sherill, Kevon",612204,23,M,B,,Accidental/ Injury self,,,2022
+,HCCF,2022,December,2022-12-31,,,"Moore, Keith",399961,40,M,W,,Accidental/ Injury self,,,2022
+,DSNF,2022,December,2022-12-31,,,"Young, Stephen",439508,79,M,W,,Natural Illness,,,2022
+,NECX,2023,January,2023-01-02,,,"Vinson, Johnny",88363,72,M,W,,Natural/Illness,,,2023
+,TTCC,2023,January,2023-01-13,,,"Cooper, Darrell",112121,61,M,W,,Natural/Illness,,,2023
+,RMSI,2023,January,2023-01-16,,,"Dellinger, James",218365,71,M,W,,Natural/Illness,,,2023
+,NWCX,2023,January,2023-01-17,,,"Hutton, Timothy",443897,36,M,W,,Accidental injury to self,,,2023
+,NWCX,2023,January,2023-01-19,,,"Gilkey, Teriaco",613890,22,M,B,,Homicide,,,2023
+,BCCX,2023,January,2023-01-19,,,"Wallen, Terry",453683,67,M,W,,Natural/Illness,,,2023
+,NECX,2023,January,2023-01-25,,,"Hicks, Robert",572268,70,M,W,,Homicide,,,2023
+,TTCC,2023,January,2023-01-27,,,"Sanders, David",233101,65,M,B,,Homicide,,,2023
+,TTCC,2023,January,2023-01-28,,,"Jordan,Larry",596882,44,M,W,,Natural/Illness,,,2023
+,DSNF,2023,January,2023-01-29,,,"Shelley, Jerry",153456,58,M,W,,Natural/Illness,,,2023
+,SCCF,2023,January,2023-01-31,,,"Tripp, Patrick",451869,56,M,W,,Natural/Illness,,,2023
+,NWCX,2023,February,2023-02-01,,,"Poplar, Jarvis",612162,22,M,B,,Accidental injury to self,,,2023
+,HCCF,2023,February,2023-02-02,,,"Barton, Luke",560345,29,M,W,,Accidental injury to self,,,2023
+,WTSP,2023,February,2023-02-14,,,"Williams, James",646732,44,M,W,,Natural/Illness,,,2023
+,DJRC,2023,February,2023-02-15,,,"Kirby, Helen",305472,68,F,W,,Natural/Illness,,,2023
+,DSNF,2023,February,2023-02-17,,,"Loveday, Jackie",113362,59,M,W,,Natural/Illness,,,2023
+,DSNF,2023,February,2023-02-20,,,"Beasley, George",646058,71,M,B,,Natural/Illness,,,2023
+,DSNF,2023,February,2023-02-20,,,"Ely, Gary",531320,63,M,W,,Natural/Illness,,,2023
+,DSNF,2023,February,2023-02-21,,,"Yelton, Wayne",587341,74,M,W,,Accidental injury to self,,,2023
+,NECX,2023,March,2023-03-03,,,"Frazier, Dewey",79977,79,M,W,,Natural/Illness,,,2023
+,WCFA,2023,March,2023-03-04,,,"Smith, Jackie",568084,44,M,W,,Accidental injury to self,,,2023
+,SCCF,2023,March,2023-03-06,,,"Chamberlain, Shawnee",550658,29,M,W,,Homicide,,,2023
+,WCFA,2023,March,2023-03-10,,,"Knight, Devin",616211,47,M,W,,Could not be determined,,,2023
+,HCCF,2023,March,2023-03-14,,,"Duncan, David",314464,43,M,W,,Accidental injury to self,,,2023
+,TTCC,2023,March,2023-03-20,,,"McClellan, Rickie",310591,45,M,W,,Accidental injury to self,,,2023
+,HCCF,2023,March,2023-03-24,,,"Holt, Joshua",548475,38,M,W,,Suicide,,,2023
+,DSNF,2023,March,2023-03-26,,,"Suggs, Rodney",96142,59,M,B,,Natural/Illness,,,2023
+,TTCC,2023,March,2023-03-28,,,"Wooten, Leroy",567535,33,M,B,,Accidental injury to self,,,2023
+,DJRC,2023,March,2023-03-29,,,"Laughlin, Christie",625414,50,F,W,,Natural/Illness,,,2023
+,DSNF,2023,March,2023-03-29,,,"Sipe, Bruce",646708,54,M,W,,Natural/Illness,,,2023
+,RMSI,2023,March,2023-03-31,,,"Hardy, Gerald",588635,27,M,B,,Accidental injury to self,,,2023
+,NECX,2023,April,2023-04-01,,,"Rutledge, Jimmy",97315,69,M,W,,Natural/Illness,,,2023
+,HCCF,2023,April,2023-04-01,,,"Russell, Michael",109766,63,M,W,,Accidental injury to self,,,2023
+,SCCF,2023,April,2023-04-03,,,"Stewart, Joshua",450610,40,M,W,,Could not be determined,,,2023
+,WCFA,2023,April,2023-04-03,,,"Cole, Sylvaninus",473343,35,M,B,,Accidental injury to self,,,2023
+,TTCC,2023,April,2023-04-07,,,"Gray, Richard",501803,33,M,W,,Accidental injury to self,,,2023
+,TTCC,2023,April,2023-04-10,,,"Graves, Josh",575090,38,M,W,,Accidental injury to self,,,2023
+,TTCC,2023,April,2023-04-10,,,"Lowrance, Danny",446293,40,M,W,,Natural/Illness,,,2023
+,HCCF,2023,April,2023-04-11,,,"Booth, Thomas",485663,37,M,W,,Accidental injury to self,,,2023
+,TTCC,2023,April,2023-04-12,,,"Nelson, Charles",325068,41,M,W,,Accidental injury to self,,,2023
+,HCCF,2023,April,2023-04-13,,,"Meza, Ignacio",609022,61,M,H,,Natural/Illness,,,2023
+,DJRC,2023,April,2023-04-15,,,"Sealock, Suzan",612043,60,F,W,,Natural/Illness,,,2023
+,DSNF,2023,April,2023-04-18,,,"Brooks, James",495935,66,M,W,,Natural/Illness,,,2023
+,DSNF,2023,April,2023-04-18,,,"Burch, Roy",108105,57,M,W,,Natural/Illness,,,2023
+,DSNF,2023,April,2023-04-19,,,"Powell, Garland",78312,75,M,B,,Natural/Illness,,,2023
+,WCFA,2023,April,2023-04-27,,,"Rodriguez-Coceres, Jose",633740,34,M,H,,Accidental injury to self,,,2023
+,HCCF,2023,May,2023-05-04,,,"Mooneyhan, Stacy",397953,53,M,W,,Natural/Illness,,,2023
+,NWCX,2023,May,2023-05-10,,,"Cole, James",158261,66,M,B,,Accidental injury to self,,,2023
+,DSNF,2023,May,2023-05-10,,,"Goudy, Isreal",536980,42,M,W,,Suicide,,,2023
+,TTCC,2023,May,2023-05-13,,,"White, Curtis",521342,38,M,W,,Suicide,,,2023
+,WTSP,2023,May,2023-05-17,,,"King, James",484021,37,M,W,,Accidental injury to self,,,2023
+,WTSP,2023,May,2023-05-19,,,"Mitchell, Richard",589948,35,M,W,,Accidental injury to self,,,2023
+,SCCF,2023,May,2023-05-25,,,"Maness, David",243077,66,M,W,,Accidental injury to self,,,2023
+,NWCX,2023,May,2023-05-27,,,"Dixon, Joe",561108,78,M,W,,Natural/Illness,,,2023
+,HCCF,2023,May,2023-05-28,,,"Vick, Jasper",139471,68,M,B,,Natural/Illness,,,2023
+,DSNF,2023,May,2023-05-29,,,"Beene, Charlie",614226,64,M,B,,Natural/Illness,,,2023
+,DSNF,2023,May,2023-05-30,,,"Hadley, Christopher",442356,48,M,W,,Natural/Illness,,,2023
+,TTCC,2023,June,2023-06-05,,,"McDuffie, Deantaun",464956,32,M,B,,Accidental injury to self,,,2023
+,HCCF,2023,June,2023-06-06,,,"Bond, Roddarous",576002,28,M,B,,Accidental injury to self,,,2023
+,DSNF,2023,June,2023-06-08,,,"Rendon, Jose",580611,74,M,W,,Natural/Illness,,,2023
+,TTCC,2023,June,2023-06-10,,,"Williams, Joshua",620806,43,M,B,,Accidental injury to self,,,2023
+,NWCX,2023,June,2023-06-12,,,"Wallace, Jerry",573383,25,M,W,,Accidental injury to self,,,2023
+,WCFA,2023,June,2023-06-14,,,"Higgs, Trione",440066,33,M,B,,Accidental injury to self,,,2023
+,DSNF,2023,June,2023-06-15,,,"Long, William",562067,81,M,W,,Accidental injury to self,,,2023
+,NECX,2023,June,2023-06-25,,,"Holston, James",618394,63,M,B,,Natural/Illness,,,2023
+,BCCX,2023,June,2023-06-27,,,"Nash, Ernest",282845,52,M,W,,Natural/Illness,,,2023
+,WCFA,2023,June,2023-06-28,,,"Richardson, Brent",439504,32,M,B,,Accidental injury to self,,,2023
+,TTCC,2023,June,2023-06-29,,,"Boyer, John",559412,66,M,W,,Natural/Illness,,,2023
+,HCCF,2023,July,2023-07-02,,,"Jacques, Anthony",496099,36,M,W,,Homicide,,,2023
+,HCCF,2023,July,2023-07-03,,,"Hernandez, Ruben",435699,55,M,H,,Natural/Illness,,,2023
+,WCFA,2023,July,2023-07-06,,,"Turner, Spurray",151100,54,M,B,,Accidental injury to self,,,2023
+,WCFA,2023,July,2023-07-07,,,"Isma, Peleg",577975,26,M,B,,Accidental injury to self,,,2023
+,NWCX,2023,July,2023-07-09,,,"Cason, Stephen",399001,36,M,B,,Accidental injury to self,,,2023
+,DSNF,2023,July,2023-07-11,,,"Brown, Keith",209154,49,M,B,,Natural/Illness,,,2023
+,DSNF,2023,July,2023-07-16,,,"Houston, Nicholas",388719,37,M,B,,Natural/Illness,,,2023
+,DSNF,2023,July,2023-07-16,,,"Monk, David",536220,53,M,B,,Natural/Illness,,,2023
+,DSNF,2023,July,2023-07-17,,,"Cooper, Ralph",155275,55,M,W,,Natural/Illness,,,2023
+,WCFA,2023,July,2023-07-24,,,"Grindstaff, Porter",270607,45,M,W,,Accidental injury to self,,,2023
+,WTSP,2023,July,2023-07-27,,,"Goode, Walter",146850,61,M,B,,Natural/Illness,,,2023
+,MCCX,2023,July,2023-07-29,,,"Dickerson, Tim",146740,57,M,B,,Natural/Illness,,,2023
+,WCFA,2023,July,2023-07-30,,,"Mays, Shanthony",530866,30,M,B,,Accidental injury to self,,,2023
+,DSNF,2023,July,2023-07-31,,,"Sykes, Elgie",335285,50,M,B,,Natural/Illness,,,2023
+,HCCF,2023,August,2023-08-02,,,"Smith, Paul",489091,75,M,W,,Natural/Illness,,,2023
+,NWCX,2023,August,2023-08-05,,,"Young, Jeremy",397854,37,M,W,,Accidental injury to self,,,2023
+,TTCC,2023,August,2023-08-05,,,"Ferris, William",348288,69,M,W,,Natural/Illness,,,2023
+,DSNF,2023,August,2023-08-08,,,"Angus, Terry",118210,70,M,W,,Natural/Illness,,,2023
+,MCCX,2023,August,2023-08-11,,,"Smith, David",155758,63,M,W,,Natural/Illness,,,2023
+,TTCC,2023,August,2023-08-13,,,"Griggs, Dendrea",544644,32,M,B,,Accidental injury to self,,,2023
+,WTSP,2023,August,2023-08-14,,,"Tucker, Christopher",374416,43,M,W,,Natural/Illness,,,2023
+,WTSP,2023,August,2023-08-24,,,"Pearson, Harry",378678,46,M,W,,Accidental injury to self,,,2023
+,WCFA,2023,August,2023-08-25,,,"Bonds, Jimmy",373882,40,M,W,,Natural/Illness,,,2023
+,HCCF,2023,August,2023-08-26,,,"Klein, Raymond",541150,48,M,W,,Could not be determined,,,2023
+,MCCX,2023,August,2023-08-27,,,"Swango, Todd",511220,44,M,W,,Suicide,,,2023
+,MCCX,2023,September,2023-09-01,,,"Pruitt, John",481287,66,M,W,,Accidental injury to self,,,2023
+,WCFA,2023,September,2023-09-06,,,"Atkins, Tyler",590199,24,M,W,,Suicide,,,2023
+,NWCX,2023,September,2023-09-09,,,"Hansard, Bobby",573673,29,M,W,,Accidental injury to self,,,2023
+,HCCF,2023,September,2023-09-10,,,"Hannah, Michael",378643,43,M,W,,Accidental injury to self,,,2023
+,WCFA,2023,September,2023-09-11,,,"Shumate, Bobby",503293,35,M,W,,Accidental injury to self,,,2023
+,WCFA,2023,September,2023-09-11,,,"Jackson, Joshua",624137,21,M,B,,Accidental injury to self,,,2023
+,NECX,2023,September,2023-09-13,,,"Tipton, Michael",610664,55,M,W,,Natural/Illness,,,2023
+,NWCX,2023,September,2023-09-14,,,"Jones, Jotham",518805,32,M,W,,Suicide,,,2023
+,NECX,2023,September,2023-09-16,,,"Frazer, Ducas",565410,29,M,W,,Accidental injury to self,,,2023
+,DSNF,2023,September,2023-09-16,,,"Warlick, Antonio",379857,39,M,B,,Accidental injury to self,,,2023
+,WTSP,2023,September,2023-09-17,,,"Walker, Jordan",612201,22,M,B,,Accidental injury to self,,,2023
+,BCCX,2023,September,2023-09-17,,,"Good, Norman",575760,85,M,W,,Natural/Illness,,,2023
+,WTSP,2023,September,2023-09-19,,,"Mata, Cory",515418,34,M,W,,Suicide,,,2023
+,HCCF,2023,September,2023-09-21,,,"Pack, Thomas",350897,41,M,W,,Could not be determined,,,2023
+,MCCX,2023,September,2023-09-23,,,"Tackett, Roger",149914,51,M,W,,Natural/Illness,,,2023
+,DSNF,2023,September,2023-09-25,,,"Murray, James",318344,44,M,W,,Natural/Illness,,,2023
+,MCCX,2023,September,2023-09-27,,,"Wilson, Ronnie",483905,37,M,W,,Suicide,,,2023
+,SCCF,2023,September,2023-09-27,,,"Brown, John",110932,58,M,B,,Accidental injury to self,,,2023
+,DSNF,2023,September,2023-09-30,,,"Spurlock, Robert",122566,81,M,W,,Natural/Illness,,,2023
+,HCCF,2023,October,2023-10-04,,,"Haley, Roy",291499,53,M,W,,Accidental injury to self,,,2023
+,MCCX,2023,October,2023-10-05,,,"Baggot, Gabriel",286355,44,M,W,,Accidental injury to self,,,2023
+,TTCC,2023,October,2023-10-06,,,"Leeper, Kylan",594759,25,M,W,,Accidental injury to self,,,2023
+,HCCF,2023,October,2023-10-09,,,"Royal, Douglas",306211,44,M,W,,Accidental injury to self,,,2023
+,MCCX,2023,October,2023-10-10,,,"Goodman, Jamarcus",599309,25,M,B,,Accidental injury to self,,,2023
+,TTCC,2023,October,2023-10-10,,,"Marshall, Billy",119785,55,M,W,,Accidental injury to self,,,2023
+,DJRC,2023,October,2023-10-14,,,"Wilkey, Patricia",614717,56,F,W,,Could not be determined,,,2023
+,HCCF,2023,October,2023-10-15,,,"Holub, Charles",337186,45,M,W,,Accidental injury to self,,,2023
+,SCCF,2023,October,2023-10-17,,,"Howard, John",427289,82,M,W,,Natural/Illness,,,2023
+,WCFA,2023,October,2023-10-24,,,"Newsome, Matthew",372602,42,M,W,,Natural/Illness,,,2023
+,SCCF,2023,October,2023-10-25,,,"Wal, Duol",521238,33,M,B,,Natural/Illness,,,2023
+,RMSI,2023,October,2023-10-26,,,"Elledge, Eric",491586,45,M,W,,Suicide,,,2023
+,NWCX,2023,October,2023-10-28,,,"Vanderpool, Ethen",645627,20,M,W,,Pending,,,2023
+,WCFA,2023,November,2023-11-01,,,"Gagne, Thomas",279549,49,M,W,,Accidental injury to self,,,2023
+,HCCF,2023,November,2023-11-05,,,"Allen, Christopher",348151,41,M,W,,Accidental injury to self,,,2023
+,HCCF,2023,November,2023-11-12,,,"Thornton, Robert",549877,57,M,W,,Natural/Illness,,,2023
+,TTCC,2023,November,2023-11-15,,,"Abbott, Lucas",632412,35,M,W,,Homicide,,,2023
+,HCCF,2023,November,2023-11-16,,,"Rounsaville, Alfonso",104709,65,M,B,,Accidental injury to self,,,2023
+,DSNF,2023,November,2023-11-19,,,"Daniels, Henry",112877,61,M,B,,Natural/Illness,,,2023
+,WCFA,2023,November,2023-11-22,,,"Putbrease, Joseph",603059,23,M,W,,Accidental injury to self,,,2023
+,DSNF,2023,November,2023-11-26,,,"Orfield, Dakota",618500,32,M,W,,Natural/Illness,,,2023
+,NECX,2023,November,2023-11-29,,,"Washington, Anthony",220018,57,M,B,,Natural/Illness,,,2023
+,RMSI,2023,December,2023-12-02,,,"Eaton, Timothy",159252,53,M,W,,Pending,,,2023
+,DSNF,2023,December,2023-12-02,,,"Nealy, Gary",654827,66,M,W,,Natural/Illness,,,2023
+,TTCC,2023,December,2023-12-03,,,"Allen, John",260007,46,M,B,,Natural/Illness,,,2023
+,NWCX,2023,December,2023-12-03,,,"York, James",433529,37,M,W,,Natural/Illness,,,2023
+,DSNF,2023,December,2023-12-04,,,"Ridley, Fredrick",90395,78,M,B,,Natural/Illness,,,2023
+,TTCC,2023,December,2023-12-04,,,"Wilt, Jeremy",641841,39,M,W,,Natural/Illness,,,2023
+,NWCX,2023,December,2023-12-06,,,"Carr, Charles",554429,42,M,B,,Accidental injury to self,,,2023
+,HCCF,2023,December,2023-12-10,,,"Gearing, Rodney",365332,54,M,B,,Accidental injury to self,,,2023
+,MCCX,2023,December,2023-12-10,,,"McCray, Frank",127104,72,M,B,,Natural/Illness,,,2023
+,HCCF,2023,December,2023-12-10,,,"Whitmore, Kenneth",347070,42,M,B,,Accidental injury to self,,,2023
+,DSNF,2023,December,2023-12-12,,,"Johnson, Terry",525499,52,M,W,,Natural/Illness,,,2023
+,TTCC,2023,December,2023-12-13,,,"Rudder, Bryan",419595,47,M,W,,Accidental injury to self,,,2023
+,NECX,2023,December,2023-12-13,,,"Stack, Christopher",611147,26,M,W,,Could not be determined,,,2023
+,HCCF,2023,December,2023-12-24,,,"Sanders, Jerry",209894,58,M,B,,Accidental injury to self,,,2023
+,TTCC,2023,December,2023-12-26,,,"Jones, Michael",534929,54,M,W,,Natural/Illness,,,2023
+,WCFA,2023,December,2023-12-26,,,"Massey, Jawaune",510657,48,M,B,,Natural/Illness,,,2023
+,HCCF,2023,December,2023-12-31,,,"Denim, Lloyd",369718,39,M,W,,Accidental injury to self,,,2023
+,TTCC,2023,December,2023-12-31,,,"Newberry, Jessie",620984,29,M,W,,Accidental injury to self,,,2023
+,TTCC,2024,January,2024-01-02,,,"Morris, William",106991,67,M,B,,Natural/Illness,,,2024
+,WCFA,2024,January,2024-01-06,,,"Brown, Christopher",115975,60,M,W,,Natural/Illness,,,2024
+,WTSP,2024,January,2024-01-08,,,"Holmes, Adam",347175,38,M,B,,Homicide,,,2024
+,NWCX,2024,January,2024-01-12,,,"Corn, Jonathan",407751,44,M,W,,Homicide,,,2024
+,DSNF,2024,January,2024-01-12,,,"Hodge, Roger",74811,68,M,W,,Natural/Illness,,,2024
+,DSNF,2024,January,2024-01-12,,,"Hardin, Ellis",536341,88,M,W,,Natural/Illness,,,2024
+,HCCF,2024,January,2024-01-12,,,"Jackson, Shannon",607337,23,M,B,,Accidental injury to self,,,2024
+,DSNF,2024,January,2024-01-16,,,"Erickson, Mark",631051,78,M,W,,Natural/Illness,,,2024
+,WTSP,2024,January,2024-01-21,,,"Newman, Tarik",595654,26,M,B,,Suicide,,,2024
+,DSNF,2024,January,2024-01-24,,,"Tschantz, Timothy",591514,45,M,W,,Natural/Illness,,,2024
+,BCCX,2024,January,2024-01-24,,,"Cooper, Vernon",107122,73,M,W,,Natural/Illness,,,2024
+,TTCC,2024,January,2024-01-26,,,"Maccallum, Ronald",580498,30,M,B,,Accidental injury to self,,,2024
+,DSNF,2024,January,2024-01-27,,,"Wright, Larry",227109,76,M,W,,Natural/Illness,,,2024
+,TTCC,2024,January,2024-01-31,,,"Rose, Phillip",487004,32,M,B,,Accidental injury to self,,,2024
+,DSNF,2024,February,2024-02-16,,,"Richardson, Jimmy",78627,72,M,B,,Natural/Illness,,,2024
+,DSNF,2024,February,2024-02-17,,,"Hill, George",539888,60,M,W,,Natural/Illness,,,2024
+,DSNF,2024,February,2024-02-17,,,"Phillips, Luther",230821,77,M,W,,Natural/Illness,,,2024
+,HCCF,2024,February,2024-02-18,,,"Fleming, Jeremy",514609,34,M,W,,Accidental injury to self,,,2024
+,DSNF,2024,February,2024-02-21,,,"Bush, James",142493,55,M,B,,Natural/Illness,,,2024
+,MCCX,2024,February,2024-02-24,,,"Plummer, Justin",397326,42,M,W,,Suicide,,,2024
+,WCFA,2024,February,2024-02-27,,,"Galmore, Javante",629265,23,M,B,,Accidental injury to self,,,2024
+,WCFA,2024,February,2024-02-27,,,"Baker, Jesse",623719,28,M,W,,Accidental injury to self,,,2024
+,WCFA,2024,February,2024-02-28,,,"Harris, Jesse",116733,71,M,B,,Natural/Illness,,,2024
+,DSNF,2024,February,2024-02-29,,,"Evans, Norman",533959,59,M,W,,Natural/Illness,,,2024
+,BCCX,2024,March,2024-03-02,,,"Wood, Gary",581923,77,M,W,,Natural/Illness,,,2024
+,DSNF,2024,March,2024-03-02,,,"Cauthern, Ronnie",120258,56,M,W,,Natural/Illness,,,2024
+,WTRC,2024,March,2024-03-08,,,"Waller, Glenda",425537,69,F,W,,Natural/Illness,,,2024
+,RMSI,2024,March,2024-03-08,,,"Halicel, Donald",631493,46,M,W,,Accidental injury to self,,,2024
+,TTCC,2024,March,2024-03-11,,,"Ware, Joseph",346751,41,M,B,,Accidental injury to self,,,2024
+,HCCF,2024,March,2024-03-12,,,"Colburn, Billy Joe",456278,33,M,W,,Accidental injury to self,,,2024
+,TTCC,2024,March,2024-03-14,,,"Davenport, Tramond",556868,33,M,B,,Accidental injury to self,,,2024
+,NWCX,2024,March,2024-03-14,,,"Hawkins, Garry",375638,47,M,B,,Accidental injury to self,,,2024
+,NECX,2024,March,2024-03-17,,,"Moore, Rasche",280561,48,M,B,,Natural/Illness,,,2024
+,DSNF,2024,March,2024-03-18,,,"Meeks, Charles",240039,69,M,W,,Natural/Illness,,,2024
+,RMSI,2024,March,2024-03-21,,,"Milks, Arthur",420714,51,M,W,,Accidental injury to self,,,2024
+,WCFA,2024,April,2024-04-05,,,"Ortega, Bryan",618326,24,M,H,,Accidental injury to self,,,2024
+,HCCF,2024,April,2024-04-06,,,"Oliver, Antonio",263359,51,M,B,,Natural/Illness,,,2024
+,BCCX,2024,April,2024-04-08,,,"Murphy, Jeffery",487166,57,M,W,,Natural/Illness,,,2024
+,SCCF,2024,April,2024-04-09,,,"Childress, John",321683,42,M,W,,Homicide,,,2024
+,MCCX,2024,April,2024-04-10,,,"Fisher, Terry",549483,30,M,B,,Suicide,,,2024
+,RMSI,2024,April,2024-04-19,,,"McMahan, William",120296,57,M,W,,Accidental injury to self,,,2024
+,SCCF,2024,April,2024-04-20,,,"Williams, Karis",133563,58,M,B,,Accidental injury to self,,,2024
+,BCCX,2024,April,2024-04-21,,,"Cunningham, Ronnie",645589,61,M,B,,Natural/Illness,,,2024
+,DSNF,2024,April,2024-04-24,,,"Simmons, John",205092,58,M,B,,Homicide,,,2024
+,WTSP,2024,April,2024-04-24,,,"Whitworth, Jason",238895,48,M,W,,Natural/Illness,,,2024
+,SCCF,2024,April,2024-04-25,,,"Baker, Jason",334659,43,M,W,,Accidental injury to self,,,2024
+,SCCF,2024,May,2024-05-02,,,"Knight, Bryon",237733,50,M,W,,Natural/Illness,,,2024
+,WCFA,2024,May,2024-05-08,,,"Brown, Courtney",371374,40,M,B,,Accidental injury to self,,,2024
+,RMSI,2024,May,2024-05-08,,,"Cates, Dearice",410297,38,M,B,,Accidental injury to self,,,2024
+,DJRC,2024,May,2024-05-10,,,"Brooks, Emily",616954,33,F,W,,Suicide,,,2024
+,TTCC,2024,May,2024-05-11,,,"Carpenter, Ronald",521816,61,M,W,,Natural/Illness,,,2024
+,TCIX,2024,May,2024-05-14,,,"Deskins, Steven",341576,65,M,W,,Natural/Illness,,,2024
+,MCCX,2024,May,2024-05-15,,,"Winebrinner, Lance",337879,52,M,W,,Natural/Illness,,,2024
+,BCCX,2024,May,2024-05-16,,,"Fletcher, Robert",454254,68,M,W,,Natural/Illness,,,2024
+,HCCF,2024,May,2024-05-17,,,"Pruitt, Pernell",136839,57,M,B,,Pending,,,2024
+,DSNF,2024,May,2024-05-21,,,"Pritchard, Clinton",485740,40,M,W,,Natural/Illness,,,2024
+,WCFA,2024,May,2024-05-23,,,"Brooks, John",510994,77,M,W,,Natural/Illness,,,2024
+,NWCX,2024,May,2024-05-24,,,"Hassell, Eddie",226185,54,M,B,,Natural/Illness,,,2024
+,NWCX,2024,May,2024-05-26,,,"McMillan, Franklin",330694,59,M,W,,Natural/Illness,,,2024
+,DJRC,2024,May,2024-05-26,,,"Harris, Betty",132549,68,F,B,,Natural/Illness,,,2024
+,SCCF,2024,May,2024-05-27,,,"Crittenden, Frank",244405,81,M,W,,Pending,,,2024
+,DSNF,2024,May,2024-05-28,,,"Green, Willie",635726,75,M,B,,Natural/Illness,,,2024
+,NWCX,2024,May,2024-05-28,,,"Bowens, Nikia",318169,48,M,B,,Accidental injury to self,,,2024
+,MCCX,2024,May,2024-05-30,,,"Thompson, Mack",121535,59,M,B,,Accidental injury to self,,,2024
+,RMSI,2024,May,2024-05-30,,,"Branch, Emonnie",522906,30,M,B,,Suicide,,,2024
+,HCCF,2024,June,2024-06-01,,,"McKenzie, John",331527,42,M,W,,Accidental injury to self,,,2024
+,BCCX,2024,June,2024-06-01,,,"Redman, Randall",505064,56,M,W,,Natural/Illness,,,2024
+,DSNF,2024,June,2024-06-01,,,"Mayberry, Charles",214799,51,M,W,,Natural/Illness,,,2024
+,HCCF,2024,June,2024-06-03,,,"Blair, Rielly",493014,38,M,W,,Accidental injury to self,,,2024
+,DSNF,2024,June,2024-06-10,,,"Beasley, Kevin",548662,42,M,B,,Natural/Illness,,,2024
+,TTCC,2024,June,2024-06-13,,,"Ewing, Charles",459313,66,M,W,,Natural/Illness,,,2024
+,TTCC,2024,June,2024-06-23,,,"Brown, Arvester",584736,39,M,B,,Accidental injury to self,,,2024
+,WCFA,2024,June,2024-06-24,,,"Bruner, Thomas",587154,28,M,W,,Accidental injury to self,,,2024
+,WCFA,2024,June,2024-06-27,,,"Cox, Dylan",431214,38,M,W,,Accidental injury to self,,,2024
+,NECX,2024,June,2024-06-28,,,"Bechard, Chad",611236,49,M,W,,Natural/Illness,,,2024
+,WTRC,2024,June,2024-06-28,,,"Greene, Angela",510071,59,F,W,,Natural/Illness,,,2024
+,DSNF,2024,June,2024-06-30,,,"Petty, Larry",527370,53,M,W,,Could not be determined,,,2024
+,BCCX,2024,July,2024-07-04,,,"Harris, Allen",448095,46,M,W,,Suicide,,,2024
+,RMSI,2024,July,2024-07-04,,,"Leggett, James",523019,29,M,B,,Accidental injury to self,,,2024
+,DSNF,2024,July,2024-07-09,,,"Barr, Darrell",238525,62,M,B,,Natural/Illness,,,2024
+,HCCF,2024,July,2024-07-10,,,"Peak, Daniel",358298,41,M,W,,Accidental injury to self,,,2024
+,DSNF,2024,July,2024-07-11,,,"Cope, Tracy",146978,55,M,B,,Natural/Illness,,,2024
+,TTCC,2024,July,2024-07-13,,,"Fincher, Paul",644886,56,M,W,,Homicide,,,2024
+,TCIX,2024,July,2024-07-18,,,"Shultz, Timothy",472527,63,M,W,,Natural/Illness,,,2024
+,DSNF,2024,July,2024-07-24,,,"Follis, Norman",565659,60,M,W,,Natural/Illness,,,2024
+,DSNF,2024,July,2024-07-25,,,"Marcus, James",591467,78,M,W,,Natural/Illness,,,2024
+,NWCX,2024,July,2024-07-27,,,"Sollis, Terry",268526,46,M,W,,Accidental injury to self,,,2024
+,MCCX,2024,August,2024-08-03,,,"Burns, Brenden",505529,31,M,B,,Pending,,,2024
+,NWCX,2024,August,2024-08-03,,,"Desue, Zachary",560126,33,M,B,,Natural/Illness,,,2024
+,WCFA,2024,August,2024-08-04,,,"Vaughn, Ben",605428,72,M,B,,Natural/Illness,,,2024
+,BCCX,2024,August,2024-08-06,,,"Davis, Kenneth",213143,59,M,W,,Natural/Illness,,,2024
+,SCCF,2024,August,2024-08-07,,,"Vogel, Matthew",575259,39,M,B,,Homicide,,,2024
+,DSNF,2024,August,2024-08-07,,,"Gray, Greg",134943,59,M,W,,Natural/Illness,,,2024
+,DSNF,2024,August,2024-08-14,,,"Crawley, Henry",289662,74,M,B,,Natural/Illness,,,2024
+,WTSP,2024,August,2024-08-14,,,"Lister, Dalton",398874,51,M,B,,Natural/Illness,,,2024
+,RMSI,2024,August,2024-08-18,,,"Zonneville, Anthony",381491,38,M,W,,Accidental injury to self,,,2024
+,RMSI,2024,August,2024-08-21,,,"Presley, Daniel",431160,36,M,W,,Accidental injury to self,,,2024
+,DJRC,2024,August,2024-08-22,,,"Haynie, Patricia",581485,57,F,W,,Natural/Illness,,,2024
+,SCCF,2024,August,2024-08-27,,,"Stephens, Randall",125513,59,M,W,,Accidental injury to self,,,2024
+,WCFA,2024,August,2024-08-27,,,"Benson, Derrick",549478,32,M,B,,Accidental injury to self,,,2024
+,NECX,2024,August,2024-08-27,,,"Molette, William",600303,50,M,B,,Natural/Illness,,,2024
+,TCIX,2024,August,2024-08-29,,,"Martin, Richard",417945,68,M,W,,Natural/Illness,,,2024
+,MCCX,2024,August,2024-08-30,,,"Jones, Darrell",349892,43,M,B,,Accidental injury to self,,,2024
+,HCCF,2024,August,2024-08-30,,,"Givens, Phennix",618592,49,M,B,,Natural/Illness,,,2024
+,NWCX,2024,September,2024-09-04,,,"Woods, Kuyakin",532113,30,M,B,,Homicide,,,2024
+,WCFA,2024,September,2024-09-04,,,"Dean, Michael",555209,36,M,B,,Accidental injury to self,,,2024
+,RMSI,2024,September,2024-09-09,,,"Varno, Jacob",567905,27,M,W,,Accidental injury to self,,,2024
+,NECX,2024,September,2024-09-15,,,"Hughes, Jacob",557779,34,M,W,,Could not be determined,,,2024
+,RMSI,2024,September,2024-09-16,,,"Corum, James",166161,54,M,W,,Natural/Illness,,,2024
+,DSNF,2024,September,2024-09-17,,,"Ross, Carl",107454,60,M,B,,Natural/Illness,,,2024
+,NECX,2024,September,2024-09-20,,,"Weathers, Bruce",375917,71,M,W,,Natural/Illness,,,2024
+,RMSI,2024,September,2024-09-23,,,"Robinson, Bradley",593492,26,M,B,,Accidental injury to self,,,2024
+,WCFA,2024,September,2024-09-25,,,"Ware, Bradley",632778,29,M,W,,Homicide,,,2024
+,NECX,2024,October,2024-10-03,,,"Wiley, William",304178,57,M,W,,Natural/Illness,,,2024
+,DSNF,2024,October,2024-10-05,,,"Stockton, Donald",312631,43,M,W,,Natural/Illness,,,2024
+,DSNF,2024,October,2024-10-17,,,"Tassmer, Toby",594192,61,M,W,,Natural/Illness,,,2024
+,WTSP,2024,October,2024-10-17,,,"Stepputat, Daniel",286323,51,M,W,,Pending,,,2024
+,DSNF,2024,October,2024-10-19,,,"Crawford, Terry",548578,67,M,W,,Natural/Illness,,,2024
+,WTSP,2024,October,2024-10-23,,,"Fisher, Arnold",564509,47,M,B,,Accidental injury to self,,,2024
+,DSNF,2024,October,2024-10-26,,,"Russell, Aumick",431047,71,M,W,,Accident,,,2024
+,TCIX,2024,October,2024-10-27,,,"Grigsby, Walter",140905,56,M,W,,Pending,,,2024
+,TTCC,2024,October,2024-10-27,,,"Pettit, Adrian",232688,53,M,W,,Homicide,,,2024
+,DSNF,2024,November,2024-11-04,,,"Nance, John",335926,64,M,W,,Pending,,,2024
+,MCCX,2024,November,2024-11-07,,,"Morgan, Donnie",387025,40,M,W,,Pending,,,2024
+,DSNF,2024,November,2024-11-08,,,"Tate, Marshall",101695,70,M,B,,Pending,,,2024
+,DJRC,2024,November,2024-11-15,,,"Hampton, Sandra",640955,58,F,W,,Pending,,,2024
+,DSNF,2024,November,2024-11-16,,,"Landers, Calvin",417289,79,M,B,,Pending,,,2024
+,TTCC,2024,November,2024-11-16,,,"Williams, Wesley",256569,53,M,W,,Pending,,,2024
+,NECX,2024,November,2024-11-17,,,"Brown, Bryon",642582,34,M,B,,Pending,,,2024
+,DSNF,2024,November,2024-11-19,,,"Cook, Troy",121914,82,M,W,,Pending,,,2024
+,WCFA,2024,November,2024-11-22,,,"Jordan, Anthony",259174,48,M,B,,Pending,,,2024
+,NECX,2024,November,2024-11-26,,,"Griffis, Phillip",238338,69,M,W,,Pending,,,2024
+,TTCC,2024,November,2024-11-28,,,"Anderson, Brian",554552,36,M,W,,Pending,,,2024
+,HCCF,2024,November,2024-11-28,,,"Taylor, Kevin",327895,57,M,B,,Pending,,,2024
+,DSNF,2024,December,2024-12-01,,,"Anderson, Marcus",422065,35,M,B,,Pending,,,2024
+,TCIX,2024,December,2024-12-03,,,"Henry, Harry",524249,66,M,W,,Pending,,,2024
+,NWCX,2024,December,2024-12-04,,,"Carrier, Howard",483279,61,M,W,,Pending,,,2024
+,TCIX,2024,December,2024-12-04,,,"Vasquez-Monoz, Ricardo",660701,35,M,H,,Pending,,,2024
+,HCCF,2024,December,2024-12-05,,,"Andrews, Clay",365597,40,M,B,,Pending,,,2024
+,DSNF,2024,December,2024-12-09,,,"Wolfe, Tony",306736,45,M,B,,Pending,,,2024
+,DSNF,2024,December,2024-12-16,,,"Hogan, Zonell",85688,76,M,B,,Pending,,,2024
+,NWCX,2024,December,2024-12-16,,,"Luksch, William",607043,61,M,W,,Pending,,,2024
+,MCCX,2024,December,2024-12-19,,,"Cooper, Cody",559783,32,M,W,,Pending,,,2024
+,SCCF,2024,December,2024-12-22,,,"Garcia, Edward",534753,43,M,H,,Pending,,,2024
+,RMSI,2024,December,2024-12-24,,,"Wagoner, Benjie",377766,44,M,W,,Pending,,,2024
+,MCCX,2024,December,2024-12-28,,,"Roddy, Robert",396511,71,M,W,,Pending,,,2024

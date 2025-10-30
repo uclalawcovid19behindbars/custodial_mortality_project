@@ -1,0 +1,1204 @@
+State,Facility,Year,Month,Death.Date,First.Name,Last.Name,Full.Name,ID.No,Death.Age,Sex,Race,Ethnicity,Circumstance.General,Circumstance.Specific,Circumstance.Other,source_year
+AL,HOLMAN,2020,December,,,,,,,,,,,,,
+AL,HOLMAN DEATH ROW,2020,December,,,,,,,,,,,,,
+AL,HOLMAN DEATH ROW,2020,December,,,,,,,,,,,,,
+AL,HOLMAN DEATH ROW,2020,December,,,,,,,,,,,,,
+AL,HOLMAN DEATH ROW,2020,December,,,,,,,,,,,,,
+AL,HOLMAN DEATH ROW,2020,December,,,,,,,,,,,,,
+AL,KILBY,2020,December,,,,,,,,,,,,,
+AL,KILBY,2020,December,,,,,,,,,,,,,
+AL,KILBY,2020,December,,,,,,,,,,,,,
+AL,KILBY,2020,December,,,,,,,,,,,,,
+AL,BIBB,2020,December,,,,,,,,,,,,,
+AL,BIBB,2020,December,,,,,,,,,,,,,
+AL,BULLOCK,2020,December,,,,,,,,,,,,,
+AL,BULLOCK,2020,December,,,,,,,,,,,,,
+AL,BULLOCK,2020,December,,,,,,,,,,,,,
+AL,FOUNTAIN,2020,December,,,,,,,,,,,,,
+AL,FOUNTAIN,2020,December,,,,,,,,,,,,,
+AL,HAMILTON AI,2020,December,,,,,,,,,,,,,
+AL,HAMILTON AI,2020,December,,,,,,,,,,,,,
+AL,HAMILTON AI,2020,December,,,,,,,,,,,,,
+AL,STATON,2020,December,,,,,,,,,,,,,
+AL,MOBILE WORK CENTER,2020,December,,,,,,,,,,,,,
+AL,MOBILE WORK CENTER,2020,December,,,,,,,,,,,,,
+AL,MOBILE WORK CENTER,2020,December,,,,,,,,,,,,,
+AL,KILBY,2020,November,,,,,,,,,,,,,
+AL,ST CLAIR,2020,November,,,,,,,,,,,,,
+AL,ST CLAIR,2020,November,,,,,,,,,,,,,
+AL,ST CLAIR,2020,November,,,,,,,,,,,,,
+AL,ST CLAIR,2020,November,,,,,,,,,,,,,
+AL,ST CLAIR,2020,November,,,,,,,,,,,,,
+AL,ST CLAIR,2020,November,,,,,,,,,,,,,
+AL,DONALDSON,2020,November,,,,,,,,,,,,,
+AL,DONALDSON,2020,November,,,,,,,,,,,,,
+AL,LIMESTONE,2020,November,,,,,,,,,,,,,
+AL,LIMESTONE,2020,November,,,,,,,,,,,,,
+AL,BIBB,2020,November,,,,,,,,,,,,,
+AL,BULLOCK,2020,November,,,,,,,,,,,,,
+AL,BULLOCK,2020,November,,,,,,,,,,,,,
+AL,FOUNTAIN,2020,November,,,,,,,,,,,,,
+AL,HAMILTON AI,2020,November,,,,,,,,,,,,,
+AL,HAMILTON AI,2020,November,,,,,,,,,,,,,
+AL,HAMILTON AI,2020,November,,,,,,,,,,,,,
+AL,HAMILTON WORK CENTER,2020,November,,,,,,,,,,,,,
+AL,KILBY,2020,October,,,,,,,,,,,,,
+AL,KILBY,2020,October,,,,,,,,,,,,,
+AL,KILBY,2020,October,,,,,,,,,,,,,
+AL,KILBY,2020,October,,,,,,,,,,,,,
+AL,KILBY,2020,October,,,,,,,,,,,,,
+AL,KILBY,2020,October,,,,,,,,,,,,,
+AL,ST CLAIR,2020,October,,,,,,,,,,,,,
+AL,ST CLAIR,2020,October,,,,,,,,,,,,,
+AL,DONALDSON,2020,October,,,,,,,,,,,,,
+AL,LIMESTONE,2020,October,,,,,,,,,,,,,
+AL,LIMESTONE,2020,October,,,,,,,,,,,,,
+AL,LIMESTONE,2020,October,,,,,,,,,,,,,
+AL,BIBB,2020,October,,,,,,,,,,,,,
+AL,BULLOCK,2020,October,,,,,,,,,,,,,
+AL,BULLOCK,2020,October,,,,,,,,,,,,,
+AL,BULLOCK,2020,October,,,,,,,,,,,,,
+AL,EASTERLING,2020,October,,,,,,,,,,,,,
+AL,EASTERLING,2020,October,,,,,,,,,,,,,
+AL,FOUNTAIN,2020,October,,,,,,,,,,,,,
+AL,HAMILTON AI,2020,October,,,,,,,,,,,,,
+AL,STATON,2020,October,,,,,,,,,,,,,
+AL,HOLMAN,2020,September,,,,,,,,,,,,,
+AL,HOLMAN DEATH ROW,2020,September,,,,,,,,,,,,,
+AL,KILBY,2020,September,,,,,,,,,,,,,
+AL,ST CLAIR,2020,September,,,,,,,,,,,,,
+AL,DONALDSON,2020,September,,,,,,,,,,,,,
+AL,BIBB,2020,September,,,,,,,,,,,,,
+AL,EASTERLING,2020,September,,,,,,,,,,,,,
+AL,FOUNTAIN,2020,September,,,,,,,,,,,,,
+AL,FOUNTAIN,2020,September,,,,,,,,,,,,,
+AL,HAMILTON AI,2020,September,,,,,,,,,,,,,
+AL,HAMILTON AI,2020,September,,,,,,,,,,,,,
+AL,HAMILTON WORK CENTER,2020,September,,,,,,,,,,,,,
+AL,KILBY,2020,August,,,,,,,,,,,,,
+AL,KILBY,2020,August,,,,,,,,,,,,,
+AL,KILBY,2020,August,,,,,,,,,,,,,
+AL,ST CLAIR,2020,August,,,,,,,,,,,,,
+AL,ST CLAIR,2020,August,,,,,,,,,,,,,
+AL,ST CLAIR,2020,August,,,,,,,,,,,,,
+AL,ST CLAIR,2020,August,,,,,,,,,,,,,
+AL,DONALDSON,2020,August,,,,,,,,,,,,,
+AL,DONALDSON,2020,August,,,,,,,,,,,,,
+AL,LIMESTONE,2020,August,,,,,,,,,,,,,
+AL,LIMESTONE,2020,August,,,,,,,,,,,,,
+AL,BIBB,2020,August,,,,,,,,,,,,,
+AL,BULLOCK,2020,August,,,,,,,,,,,,,
+AL,FOUNTAIN,2020,August,,,,,,,,,,,,,
+AL,VENTRESS,2020,August,,,,,,,,,,,,,
+AL,KILBY,2020,July,,,,,,,,,,,,,
+AL,KILBY,2020,July,,,,,,,,,,,,,
+AL,KILBY,2020,July,,,,,,,,,,,,,
+AL,KILBY,2020,July,,,,,,,,,,,,,
+AL,ST CLAIR,2020,July,,,,,,,,,,,,,
+AL,ST CLAIR,2020,July,,,,,,,,,,,,,
+AL,ST CLAIR,2020,July,,,,,,,,,,,,,
+AL,ST CLAIR,2020,July,,,,,,,,,,,,,
+AL,ST CLAIR,2020,July,,,,,,,,,,,,,
+AL,DONALDSON,2020,July,,,,,,,,,,,,,
+AL,LIMESTONE,2020,July,,,,,,,,,,,,,
+AL,EASTERLING,2020,July,,,,,,,,,,,,,
+AL,EASTERLING,2020,July,,,,,,,,,,,,,
+AL,KILBY,2020,June,,,,,,,,,,,,,
+AL,KILBY,2020,June,,,,,,,,,,,,,
+AL,KILBY,2020,June,,,,,,,,,,,,,
+AL,KILBY,2020,June,,,,,,,,,,,,,
+AL,ST CLAIR,2020,June,,,,,,,,,,,,,
+AL,ST CLAIR,2020,June,,,,,,,,,,,,,
+AL,ST CLAIR,2020,June,,,,,,,,,,,,,
+AL,TUTWILER,2020,June,,,,,,,,,,,,,
+AL,DONALDSON,2020,June,,,,,,,,,,,,,
+AL,DONALDSON,2020,June,,,,,,,,,,,,,
+AL,DONALDSON,2020,June,,,,,,,,,,,,,
+AL,DONALDSON,2020,June,,,,,,,,,,,,,
+AL,BIBB,2020,June,,,,,,,,,,,,,
+AL,BIBB,2020,June,,,,,,,,,,,,,
+AL,BULLOCK,2020,June,,,,,,,,,,,,,
+AL,ELMORE,2020,June,,,,,,,,,,,,,
+AL,STATON,2020,June,,,,,,,,,,,,,
+AL,HOLMAN DEATH ROW,2020,May,,,,,,,,,,,,,
+AL,KILBY,2020,May,,,,,,,,,,,,,
+AL,KILBY,2020,May,,,,,,,,,,,,,
+AL,KILBY,2020,May,,,,,,,,,,,,,
+AL,KILBY,2020,May,,,,,,,,,,,,,
+AL,KILBY,2020,May,,,,,,,,,,,,,
+AL,KILBY,2020,May,,,,,,,,,,,,,
+AL,ST CLAIR,2020,May,,,,,,,,,,,,,
+AL,ST CLAIR,2020,May,,,,,,,,,,,,,
+AL,ST CLAIR,2020,May,,,,,,,,,,,,,
+AL,ST CLAIR,2020,May,,,,,,,,,,,,,
+AL,DONALDSON,2020,May,,,,,,,,,,,,,
+AL,BULLOCK,2020,May,,,,,,,,,,,,,
+AL,BULLOCK,2020,May,,,,,,,,,,,,,
+AL,EASTERLING,2020,May,,,,,,,,,,,,,
+AL,ELMORE,2020,May,,,,,,,,,,,,,
+AL,FOUNTAIN,2020,May,,,,,,,,,,,,,
+AL,VENTRESS,2020,May,,,,,,,,,,,,,
+AL,BIRGMINGHAM WORK RELEASE,2020,May,,,,,,,,,,,,,
+AL,ST CLAIR,2020,April,,,,,,,,,,,,,
+AL,ST CLAIR,2020,April,,,,,,,,,,,,,
+AL,TUTWILER,2020,April,,,,,,,,,,,,,
+AL,DONALDSON,2020,April,,,,,,,,,,,,,
+AL,DONALDSON,2020,April,,,,,,,,,,,,,
+AL,LIMESTONE,2020,April,,,,,,,,,,,,,
+AL,BIBB,2020,April,,,,,,,,,,,,,
+AL,BULLOCK,2020,April,,,,,,,,,,,,,
+AL,FOUNTAIN,2020,April,,,,,,,,,,,,,
+AL,HAMILTON AI,2020,April,,,,,,,,,,,,,
+AL,HAMILTON AI,2020,April,,,,,,,,,,,,,
+AL,MONTGOMERY,2020,April,,,,,,,,,,,,,
+AL,VENTRESS,2020,April,,,,,,,,,,,,,
+AL,HOLMAN DEATH ROW,2020,March,,,,,,,,,,,,,
+AL,KILBY,2020,March,,,,,,,,,,,,,
+AL,KILBY,2020,March,,,,,,,,,,,,,
+AL,KILBY,2020,March,,,,,,,,,,,,,
+AL,ST CLAIR,2020,March,,,,,,,,,,,,,
+AL,DONALDSON,2020,March,,,,,,,,,,,,,
+AL,DONALDSON,2020,March,,,,,,,,,,,,,
+AL,LIMESTONE,2020,March,,,,,,,,,,,,,
+AL,LIMESTONE,2020,March,,,,,,,,,,,,,
+AL,BIBB,2020,March,,,,,,,,,,,,,
+AL,BIBB,2020,March,,,,,,,,,,,,,
+AL,FOUNTAIN,2020,March,,,,,,,,,,,,,
+AL,FOUNTAIN,2020,March,,,,,,,,,,,,,
+AL,FOUNTAIN,2020,March,,,,,,,,,,,,,
+AL,HAMILTON AI,2020,March,,,,,,,,,,,,,
+AL,VENTRESS,2020,March,,,,,,,,,,,,,
+AL,VENTRESS,2020,March,,,,,,,,,,,,,
+AL,HOLMAN,2020,February,,,,,,,,,,,,,
+AL,HOLMAN,2020,February,,,,,,,,,,,,,
+AL,HOLMAN DEATH ROW,2020,February,,,,,,,,,,,,,
+AL,KILBY,2020,February,,,,,,,,,,,,,
+AL,KILBY,2020,February,,,,,,,,,,,,,
+AL,ST CLAIR,2020,February,,,,,,,,,,,,,
+AL,ST CLAIR,2020,February,,,,,,,,,,,,,
+AL,ST CLAIR,2020,February,,,,,,,,,,,,,
+AL,DONALDSON,2020,February,,,,,,,,,,,,,
+AL,BULLOCK,2020,February,,,,,,,,,,,,,
+AL,EASTERLING,2020,February,,,,,,,,,,,,,
+AL,EASTERLING,2020,February,,,,,,,,,,,,,
+AL,STATON,2020,February,,,,,,,,,,,,,
+AL,HOLMAN,2020,January,,,,,,,,,,,,,
+AL,HOLMAN,2020,January,,,,,,,,,,,,,
+AL,DONALDSON,2020,January,,,,,,,,,,,,,
+AL,DONALDSON,2020,January,,,,,,,,,,,,,
+AL,DONALDSON,2020,January,,,,,,,,,,,,,
+AL,BIRMINGHAM WORK CENTER,2020,January,,,,,,,,,,,,,
+AL,HOLMAN,2019,December,,,,,,,,,,,,,
+AL,KILBY,2019,December,,,,,,,,,,,,,
+AL,DONALDSON,2019,December,,,,,,,,,,,,,
+AL,DONALDSON,2019,December,,,,,,,,,,,,,
+AL,LIMESTONE,2019,December,,,,,,,,,,,,,
+AL,BIBB,2019,December,,,,,,,,,,,,,
+AL,ELMORE,2019,December,,,,,,,,,,,,,
+AL,FOUNTAIN,2019,December,,,,,,,,,,,,,
+AL,HAMILTON AI,2019,December,,,,,,,,,,,,,
+AL,HAMILTON AI,2019,December,,,,,,,,,,,,,
+AL,HAMILTON AI,2019,December,,,,,,,,,,,,,
+AL,VENTRESS,2019,December,,,,,,,,,,,,,
+AL,NORTH ALABAMA WORK CENTER,2019,December,,,,,,,,,,,,,
+AL,KILBY,2019,November,,,,,,,,,,,,,
+AL,KILBY,2019,November,,,,,,,,,,,,,
+AL,KILBY,2019,November,,,,,,,,,,,,,
+AL,ST CLAIR,2019,November,,,,,,,,,,,,,
+AL,LIMESTONE,2019,November,,,,,,,,,,,,,
+AL,BIBB,2019,November,,,,,,,,,,,,,
+AL,ELMORE,2019,November,,,,,,,,,,,,,
+AL,STATON,2019,November,,,,,,,,,,,,,
+AL,HOLMAN,2019,October,,,,,,,,,,,,,
+AL,TUTWILER,2019,October,,,,,,,,,,,,,
+AL,DONALDSON,2019,October,,,,,,,,,,,,,
+AL,DONALDSON,2019,October,,,,,,,,,,,,,
+AL,DONALDSON,2019,October,,,,,,,,,,,,,
+AL,LIMESTONE,2019,October,,,,,,,,,,,,,
+AL,LIMESTONE,2019,October,,,,,,,,,,,,,
+AL,LIMESTONE,2019,October,,,,,,,,,,,,,
+AL,BULLOCK,2019,October,,,,,,,,,,,,,
+AL,ELMORE,2019,October,,,,,,,,,,,,,
+AL,FOUNTAIN,2019,October,,,,,,,,,,,,,
+AL,HAMILTON AI,2019,October,,,,,,,,,,,,,
+AL,VENTRESS,2019,October,,,,,,,,,,,,,
+AL,ELBA WORK CENTER,2019,October,,,,,,,,,,,,,
+AL,MOBILE WORK CENTER,2019,October,,,,,,,,,,,,,
+AL,KILBY,2019,September,,,,,,,,,,,,,
+AL,DONALDSON,2019,September,,,,,,,,,,,,,
+AL,DONALDSON,2019,September,,,,,,,,,,,,,
+AL,LIMESTONE,2019,September,,,,,,,,,,,,,
+AL,LIMESTONE,2019,September,,,,,,,,,,,,,
+AL,FOUNTAIN,2019,September,,,,,,,,,,,,,
+AL,VENTRESS,2019,September,,,,,,,,,,,,,
+AL,NORTH ALABAMA WORK CENTER,2019,September,,,,,,,,,,,,,
+AL,KILBY,2019,August,,,,,,,,,,,,,
+AL,KILBY,2019,August,,,,,,,,,,,,,
+AL,KILBY,2019,August,,,,,,,,,,,,,
+AL,ST CLAIR,2019,August,,,,,,,,,,,,,
+AL,ST CLAIR,2019,August,,,,,,,,,,,,,
+AL,DONALDSON,2019,August,,,,,,,,,,,,,
+AL,LIMESTONE,2019,August,,,,,,,,,,,,,
+AL,BULLOCK,2019,August,,,,,,,,,,,,,
+AL,EASTERLING,2019,August,,,,,,,,,,,,,
+AL,ELMORE,2019,August,,,,,,,,,,,,,
+AL,HOLMAN,2019,July,,,,,,,,,,,,,
+AL,KILBY,2019,July,,,,,,,,,,,,,
+AL,KILBY,2019,July,,,,,,,,,,,,,
+AL,KILBY,2019,July,,,,,,,,,,,,,
+AL,KILBY,2019,July,,,,,,,,,,,,,
+AL,ST CLAIR,2019,July,,,,,,,,,,,,,
+AL,DONALDSON,2019,July,,,,,,,,,,,,,
+AL,LIMESTONE,2019,July,,,,,,,,,,,,,
+AL,HAMILTON AI,2019,July,,,,,,,,,,,,,
+AL,LIMESTONE,2019,June,,,,,,,,,,,,,
+AL,LIMESTONE,2019,June,,,,,,,,,,,,,
+AL,FOUNTAIN,2019,June,,,,,,,,,,,,,
+AL,HAMILTON AI,2019,June,,,,,,,,,,,,,
+AL,HAMILTON AI,2019,June,,,,,,,,,,,,,
+AL,HAMILTON AI,2019,June,,,,,,,,,,,,,
+AL,STATON,2019,June,,,,,,,,,,,,,
+AL,HOLMAN,2019,May,,,,,,,,,,,,,
+AL,HOLMAN,2019,May,,,,,,,,,,,,,
+AL,KILBY,2019,May,,,,,,,,,,,,,
+AL,KILBY,2019,May,,,,,,,,,,,,,
+AL,KILBY,2019,May,,,,,,,,,,,,,
+AL,ST CLAIR,2019,May,,,,,,,,,,,,,
+AL,DONALDSON,2019,May,,,,,,,,,,,,,
+AL,DONALDSON,2019,May,,,,,,,,,,,,,
+AL,BULLOCK,2019,May,,,,,,,,,,,,,
+AL,ELMORE,2019,May,,,,,,,,,,,,,
+AL,FOUNTAIN,2019,May,,,,,,,,,,,,,
+AL,HAMILTON AI,2019,May,,,,,,,,,,,,,
+AL,KILBY,2019,April,,,,,,,,,,,,,
+AL,KILBY,2019,April,,,,,,,,,,,,,
+AL,ST CLAIR,2019,April,,,,,,,,,,,,,
+AL,DONALDSON,2019,April,,,,,,,,,,,,,
+AL,DONALDSON,2019,April,,,,,,,,,,,,,
+AL,DONALDSON,2019,April,,,,,,,,,,,,,
+AL,LIMESTONE,2019,April,,,,,,,,,,,,,
+AL,LIMESTONE,2019,April,,,,,,,,,,,,,
+AL,FOUNTAIN,2019,April,,,,,,,,,,,,,
+AL,FOUNTAIN,2019,April,,,,,,,,,,,,,
+AL,HAMILTON AI,2019,April,,,,,,,,,,,,,
+AL,KILBY,2019,March,,,,,,,,,,,,,
+AL,ST CLAIR,2019,March,,,,,,,,,,,,,
+AL,ST CLAIR,2019,March,,,,,,,,,,,,,
+AL,DONALDSON,2019,March,,,,,,,,,,,,,
+AL,DONALDSON,2019,March,,,,,,,,,,,,,
+AL,BIBB,2019,March,,,,,,,,,,,,,
+AL,BIBB,2019,March,,,,,,,,,,,,,
+AL,BIBB,2019,March,,,,,,,,,,,,,
+AL,ELMORE,2019,March,,,,,,,,,,,,,
+AL,FOUNTAIN,2019,March,,,,,,,,,,,,,
+AL,STATON,2019,March,,,,,,,,,,,,,
+AL,HOLMAN,2019,February,,,,,,,,,,,,,
+AL,HOLMAN DEATH ROW,2019,February,,,,,,,,,,,,,
+AL,KILBY,2019,February,,,,,,,,,,,,,
+AL,ST CLAIR,2019,February,,,,,,,,,,,,,
+AL,ST CLAIR,2019,February,,,,,,,,,,,,,
+AL,DONALDSON,2019,February,,,,,,,,,,,,,
+AL,DONALDSON,2019,February,,,,,,,,,,,,,
+AL,DONALDSON,2019,February,,,,,,,,,,,,,
+AL,LIMESTONE,2019,February,,,,,,,,,,,,,
+AL,LIMESTONE,2019,February,,,,,,,,,,,,,
+AL,BIBB,2019,February,,,,,,,,,,,,,
+AL,FOUNTAIN,2019,February,,,,,,,,,,,,,
+AL,HAMILTON AI,2019,February,,,,,,,,,,,,,
+AL,VENTRESS,2019,February,,,,,,,,,,,,,
+AL,KILBY,2019,January,,,,,,,,,,,,,
+AL,KILBY,2019,January,,,,,,,,,,,,,
+AL,KILBY,2019,January,,,,,,,,,,,,,
+AL,KILBY,2019,January,,,,,,,,,,,,,
+AL,ST CLAIR,2019,January,,,,,,,,,,,,,
+AL,ST CLAIR,2019,January,,,,,,,,,,,,,
+AL,ST CLAIR,2019,January,,,,,,,,,,,,,
+AL,DONALDSON,2019,January,,,,,,,,,,,,,
+AL,BIBB,2019,January,,,,,,,,,,,,,
+AL,BULLOCK,2019,January,,,,,,,,,,,,,
+AL,FOUNTAIN,2019,January,,,,,,,,,,,,,
+AL,STATON,2019,January,,,,,,,,,,,,,
+Alabama,Kilby CF,2022,January,2022-01-02,,,,,,,,,,,,2022
+Alabama,Kilby CF,2022,January,2022-01-05,,,,,,,,,,,,2022
+Alabama,Staton CF,2022,January,2022-01-05,,,,,,,,,,,,2022
+Alabama,Red Eagle CWC,2022,January,2022-01-08,,,,,,,,,,,,2022
+Alabama,Bibb CF,2022,January,2022-01-11,,,,,,,,,,,,2022
+Alabama,Fountain CF,2022,January,2022-01-11,,,,,,,,,,,,2022
+Alabama,Staton CF,2022,January,2022-01-18,,,,,,,,,,,,2022
+Alabama,Bullock CF,2022,January,2022-01-21,,,,,,,,,,,,2022
+Alabama,Donaldson CF,2022,January,2022-01-21,,,,,,,,,,,,2022
+Alabama,St. Clair CF,2022,January,2022-01-22,,,,,,,,,,,,2022
+Alabama,St. Clair CF,2022,January,2022-01-26,,,,,,,,,,,,2022
+Alabama,St. Clair CF,2022,January,2022-01-26,,,,,,,,,,,,2022
+Alabama,Holman CF,2022,January,2022-01-27,,,,,,,,,,,,2022
+Alabama,St. Clair CF,2022,January,2022-01-28,,,,,,,,,,,,2022
+Alabama,Limestone CF,2022,January,2022-01-29,,,,,,,,,,,,2022
+Alabama,Bibb CF,2022,January,2022-01-31,,,,,,,,,,,,2022
+Alabama,Kilby CF,2022,January,2022-01-31,,,,,,,,,,,,2022
+Alabama,Limestone CF,2022,January,2022-01-31,,,,,,,,,,,,2022
+Alabama,Staton CF,2022,January,2022-01-31,,,,,,,,,,,,2022
+Alabama,Fountain CF,2022,February,2022-02-01,,,,,,,,,,,,2022
+Alabama,Limestone CF,2022,February,2022-02-01,,,,,,,,,,,,2022
+Alabama,Ventress CF,2022,February,2022-02-05,,,,,,,,,,,,2022
+Alabama,Easterling CF,2022,February,2022-02-09,,,,,,,,,,,,2022
+Alabama,Bibb CF,2022,February,2022-02-13,,,,,,,,,,,,2022
+Alabama,Donaldson CF,2022,February,2022-02-13,,,,,,,,,,,,2022
+Alabama,Bibb CF,2022,February,2022-02-14,,,,,,,,,,,,2022
+Alabama,St. Clair CF,2022,February,2022-02-14,,,,,,,,,,,,2022
+Alabama,St. Clair CF,2022,February,2022-02-14,,,,,,,,,,,,2022
+Alabama,Ventress CF,2022,February,2022-02-14,,,,,,,,,,,,2022
+Alabama,Bibb CF,2022,February,2022-02-16,,,,,,,,,,,,2022
+Alabama,Kilby CF,2022,February,2022-02-16,,,,,,,,,,,,2022
+Alabama,Donaldson CF,2022,February,2022-02-18,,,,,,,,,,,,2022
+Alabama,Holman CF,2022,February,2022-02-19,,,,,,,,,,,,2022
+Alabama,Staton CF,2022,February,2022-02-21,,,,,,,,,,,,2022
+Alabama,Donaldson CF,2022,February,2022-02-22,,,,,,,,,,,,2022
+Alabama,Donaldson CF,2022,February,2022-02-23,,,,,,,,,,,,2022
+Alabama,Kilby CF,2022,February,2022-02-23,,,,,,,,,,,,2022
+Alabama,Limestone CF,2022,February,2022-02-26,,,,,,,,,,,,2022
+Alabama,Limestone CF,2022,February,2022-02-28,,,,,,,,,,,,2022
+Alabama,Easterling CF,2022,March,2022-03-01,,,,,,,,,,,,2022
+Alabama,Donaldson CF,2022,March,2022-03-02,,,,,,,,,,,,2022
+Alabama,Staton CF,2022,March,2022-03-02,,,,,,,,,,,,2022
+Alabama,Fountain CF,2022,March,2022-03-05,,,,,,,,,,,,2022
+Alabama,Tutwiler PFW,2022,March,2022-03-05,,,,,,,,,,,,2022
+Alabama,Fountain CF,2022,March,2022-03-10,,,,,,,,,,,,2022
+Alabama,St. Clair CF,2022,March,2022-03-11,,,,,,,,,,,,2022
+Alabama,Kilby CF,2022,March,2022-03-12,,,,,,,,,,,,2022
+Alabama,St. Clair CF,2022,March,2022-03-12,,,,,,,,,,,,2022
+Alabama,Staton CF,2022,March,2022-03-12,,,,,,,,,,,,2022
+Alabama,St. Clair CF,2022,March,2022-03-17,,,,,,,,,,,,2022
+Alabama,Kilby CF,2022,March,2022-03-29,,,,,,,,,,,,2022
+Alabama,Ventress CF,2022,March,2022-03-29,,,,,,,,,,,,2022
+Alabama,Bibb CF,2022,April,2022-04-03,,,,,,,,,,,,2022
+Alabama,Fountain CF,2022,April,2022-04-04,,,,,,,,,,,,2022
+Alabama,Limestone CF,2022,April,2022-04-06,,,,,,,,,,,,2022
+Alabama,Limestone CF,2022,April,2022-04-08,,,,,,,,,,,,2022
+Alabama,Fountain CF,2022,April,2022-04-12,,,,,,,,,,,,2022
+Alabama,Staton CF,2022,April,2022-04-13,,,,,,,,,,,,2022
+Alabama,Kilby CF,2022,April,2022-04-20,,,,,,,,,,,,2022
+Alabama,Kilby CF,2022,April,2022-04-20,,,,,,,,,,,,2022
+Alabama,Donaldson CF,2022,April,2022-04-23,,,,,,,,,,,,2022
+Alabama,Easterling CF,2022,April,2022-04-24,,,,,,,,,,,,2022
+Alabama,Bibb CF,2022,April,2022-04-27,,,,,,,,,,,,2022
+Alabama,Fountain CF,2022,April,2022-04-27,,,,,,,,,,,,2022
+Alabama,Limestone CF,2022,May,2022-05-01,,,,,,,,,,,,2022
+Alabama,Hamilton A&I,2022,May,2022-05-04,,,,,,,,,,,,2022
+Alabama,Kilby CF,2022,May,2022-05-04,,,,,,,,,,,,2022
+Alabama,Staton CF,2022,May,2022-05-06,,,,,,,,,,,,2022
+Alabama,Easterling CF,2022,May,2022-05-09,,,,,,,,,,,,2022
+Alabama,Donaldson CF,2022,May,2022-05-10,,,,,,,,,,,,2022
+Alabama,Bullock CF,2022,May,2022-05-11,,,,,,,,,,,,2022
+Alabama,Hamilton A&I,2022,May,2022-05-13,,,,,,,,,,,,2022
+Alabama,Hamilton W R,2022,May,2022-05-17,,,,,,,,,,,,2022
+Alabama,Ventress CF,2022,May,2022-05-17,,,,,,,,,,,,2022
+Alabama,Limestone CF,2022,May,2022-05-19,,,,,,,,,,,,2022
+Alabama,St. Clair CF,2022,May,2022-05-19,,,,,,,,,,,,2022
+Alabama,Limestone CF,2022,May,2022-05-23,,,,,,,,,,,,2022
+Alabama,Donaldson CF,2022,May,2022-05-25,,,,,,,,,,,,2022
+Alabama,Donaldson CF,2022,May,2022-05-25,,,,,,,,,,,,2022
+Alabama,Kilby CF,2022,May,2022-05-27,,,,,,,,,,,,2022
+Alabama,Limestone CF,2022,May,2022-05-27,,,,,,,,,,,,2022
+Alabama,Staton CF,2022,May,2022-05-28,,,,,,,,,,,,2022
+Alabama,Ventress CF,2022,May,2022-05-29,,,,,,,,,,,,2022
+Alabama,Donaldson CF,2022,May,2022-05-30,,,,,,,,,,,,2022
+Alabama,St. Clair CF,2022,May,2022-05-31,,,,,,,,,,,,2022
+Alabama,Fountain CF,2022,June,2022-06-02,,,,,,,,,,,,2022
+Alabama,Kilby CF,2022,June,2022-06-03,,,,,,,,,,,,2022
+Alabama,Elmore CF,2022,June,2022-06-06,,,,,,,,,,,,2022
+Alabama,Easterling CF,2022,June,2022-06-08,,,,,,,,,,,,2022
+Alabama,Donaldson CF,2022,June,2022-06-09,,,,,,,,,,,,2022
+Alabama,Bibb CF,2022,June,2022-06-14,,,,,,,,,,,,2022
+Alabama,Fountain CF,2022,June,2022-06-14,,,,,,,,,,,,2022
+Alabama,Donaldson CF,2022,June,2022-06-15,,,,,,,,,,,,2022
+Alabama,Donaldson CF,2022,June,2022-06-16,,,,,,,,,,,,2022
+Alabama,Limestone CF,2022,June,2022-06-17,,,,,,,,,,,,2022
+Alabama,Kilby CF,2022,June,2022-06-18,,,,,,,,,,,,2022
+Alabama,Tutwiler PFW,2022,June,2022-06-18,,,,,,,,,,,,2022
+Alabama,Donaldson CF,2022,June,2022-06-20,,,,,,,,,,,,2022
+Alabama,Childersburg WR,2022,June,2022-06-21,,,,,,,,,,,,2022
+Alabama,Staton CF,2022,June,2022-06-22,,,,,,,,,,,,2022
+Alabama,Draper Intake,2022,June,2022-06-26,,,,,,,,,,,,2022
+Alabama,Donaldson CF,2022,June,2022-06-28,,,,,,,,,,,,2022
+Alabama,Kilby CF,2022,June,2022-06-30,,,,,,,,,,,,2022
+Alabama,Donaldson CF,2022,July,2022-07-01,,,,,,,,,,,,2022
+Alabama,Donaldson CF,2022,July,2022-07-02,,,,,,,,,,,,2022
+Alabama,Kilby CF,2022,July,2022-07-02,,,,,,,,,,,,2022
+Alabama,Easterling CF,2022,July,2022-07-03,,,,,,,,,,,,2022
+Alabama,Fountain CF,2022,July,2022-07-04,,,,,,,,,,,,2022
+Alabama,Bibb CF,2022,July,2022-07-06,,,,,,,,,,,,2022
+Alabama,Elmore CF,2022,July,2022-07-06,,,,,,,,,,,,2022
+Alabama,Donaldson CF,2022,July,2022-07-07,,,,,,,,,,,,2022
+Alabama,Donaldson CF,2022,July,2022-07-08,,,,,,,,,,,,2022
+Alabama,Donaldson CF,2022,July,2022-07-09,,,,,,,,,,,,2022
+Alabama,Donaldson CF,2022,July,2022-07-10,,,,,,,,,,,,2022
+Alabama,Donaldson CF,2022,July,2022-07-11,,,,,,,,,,,,2022
+Alabama,Hamilton WR,2022,July,2022-07-11,,,,,,,,,,,,2022
+Alabama,Kilby CF,2022,July,2022-07-11,,,,,,,,,,,,2022
+Alabama,Ventress CF,2022,July,2022-07-11,,,,,,,,,,,,2022
+Alabama,Limestone CF,2022,July,2022-07-12,,,,,,,,,,,,2022
+Alabama,Kilby CF,2022,July,2022-07-13,,,,,,,,,,,,2022
+Alabama,Fountain CF,2022,July,2022-07-15,,,,,,,,,,,,2022
+Alabama,Tutwiler PFW,2022,July,2022-07-15,,,,,,,,,,,,2022
+Alabama,Donaldson CF,2022,July,2022-07-17,,,,,,,,,,,,2022
+Alabama,St. Clair CF,2022,July,2022-07-17,,,,,,,,,,,,2022
+Alabama,Bullock CF,2022,July,2022-07-19,,,,,,,,,,,,2022
+Alabama,Bullock CF,2022,July,2022-07-26,,,,,,,,,,,,2022
+Alabama,Easterling CF,2022,July,2022-07-26,,,,,,,,,,,,2022
+Alabama,Staton CF,2022,July,2022-07-26,,,,,,,,,,,,2022
+Alabama,Holman CF,2022,July,2022-07-28,,,,,,,,,,,,2022
+Alabama,Donaldson CF,2022,July,2022-07-29,,,,,,,,,,,,2022
+Alabama,Donaldson CF,2022,July,2022-07-30,,,,,,,,,,,,2022
+Alabama,Elmore CF,2022,July,2022-07-30,,,,,,,,,,,,2022
+Alabama,Ventress CF,2022,July,2022-07-30,,,,,,,,,,,,2022
+Alabama,Kilby CF,2022,July,2022-07-31,,,,,,,,,,,,2022
+Alabama,Elmore CF,2022,August,2022-08-02,,,,,,,,,,,,2022
+Alabama,Easterling CF,2022,August,2022-08-07,,,,,,,,,,,,2022
+Alabama,Staton CF,2022,August,2022-08-07,,,,,,,,,,,,2022
+Alabama,Bibb CF,2022,August,2022-08-09,,,,,,,,,,,,2022
+Alabama,Kilby CF,2022,August,2022-08-09,,,,,,,,,,,,2022
+Alabama,Fountain CF,2022,August,2022-08-10,,,,,,,,,,,,2022
+Alabama,St. Clair CF,2022,August,2022-08-10,,,,,,,,,,,,2022
+Alabama,Limestone CF,2022,August,2022-08-11,,,,,,,,,,,,2022
+Alabama,Easterling CF,2022,August,2022-08-12,,,,,,,,,,,,2022
+Alabama,Tutwiler PFW,2022,August,2022-08-15,,,,,,,,,,,,2022
+Alabama,Donaldson CF,2022,August,2022-08-16,,,,,,,,,,,,2022
+Alabama,Easterling CF,2022,August,2022-08-16,,,,,,,,,,,,2022
+Alabama,Kilby CF,2022,August,2022-08-16,,,,,,,,,,,,2022
+Alabama,St. Clair CF,2022,August,2022-08-17,,,,,,,,,,,,2022
+Alabama,St. Clair CF,2022,August,2022-08-17,,,,,,,,,,,,2022
+Alabama,Bullock CF,2022,August,2022-08-20,,,,,,,,,,,,2022
+Alabama,St. Clair CF,2022,August,2022-08-22,,,,,,,,,,,,2022
+Alabama,Staton CF,2022,August,2022-08-22,,,,,,,,,,,,2022
+Alabama,Staton CF,2022,August,2022-08-22,,,,,,,,,,,,2022
+Alabama,St. Clair CF,2022,August,2022-08-26,,,,,,,,,,,,2022
+Alabama,Easterling CF,2022,August,2022-08-27,,,,,,,,,,,,2022
+Alabama,Staton CF,2022,August,2022-08-29,,,,,,,,,,,,2022
+Alabama,St. Clair CF,2022,August,2022-08-30,,,,,,,,,,,,2022
+Alabama,Frank Lee WC,2022,August,2022-08-31,,,,,,,,,,,,2022
+Alabama,Donaldson CF,2022,September,2022-09-01,,,,,,,,,,,,2022
+Alabama,St. Clair CF,2022,September,2022-09-04,,,,,,,,,,,,2022
+Alabama,Bibb CF,2022,September,2022-09-08,,,,,,,,,,,,2022
+Alabama,St. Clair CF,2022,September,2022-09-08,,,,,,,,,,,,2022
+Alabama,Ventress CF,2022,September,2022-09-08,,,,,,,,,,,,2022
+Alabama,Loxley WR,2022,September,2022-09-09,,,,,,,,,,,,2022
+Alabama,St. Clair CF,2022,September,2022-09-13,,,,,,,,,,,,2022
+Alabama,Tutwiler PFW,2022,September,2022-09-14,,,,,,,,,,,,2022
+Alabama,Holman CF,2022,September,2022-09-15,,,,,,,,,,,,2022
+Alabama,St. Clair CF,2022,September,2022-09-16,,,,,,,,,,,,2022
+Alabama,Ventress CF,2022,September,2022-09-20,,,,,,,,,,,,2022
+Alabama,Bullock CF,2022,September,2022-09-21,,,,,,,,,,,,2022
+Alabama,Easterling CF,2022,September,2022-09-22,,,,,,,,,,,,2022
+Alabama,Ventress CF,2022,September,2022-09-22,,,,,,,,,,,,2022
+Alabama,Easterling CF,2022,September,2022-09-24,,,,,,,,,,,,2022
+Alabama,Limestone CF,2022,September,2022-09-25,,,,,,,,,,,,2022
+Alabama,St. Clair CF,2022,September,2022-09-26,,,,,,,,,,,,2022
+Alabama,St. Clair CF,2022,September,2022-09-27,,,,,,,,,,,,2022
+Alabama,Ventress CF,2022,September,2022-09-27,,,,,,,,,,,,2022
+Alabama,Donaldson CF,2022,September,2022-09-29,,,,,,,,,,,,2022
+Alabama,Donaldson CF,2022,September,2022-09-30,,,,,,,,,,,,2022
+Alabama,Donaldson CF,2022,October,2022-10-01,,,,,,,,,,,,2022
+Alabama,Ventress CF,2022,October,2022-10-01,,,,,,,,,,,,2022
+Alabama,Fountain CF,2022,October,2022-10-02,,,,,,,,,,,,2022
+Alabama,St. Clair CF,2022,October,2022-10-02,,,,,,,,,,,,2022
+Alabama,Bullock CF,2022,October,2022-10-03,,,,,,,,,,,,2022
+Alabama,Donaldson CF,2022,October,2022-10-03,,,,,,,,,,,,2022
+Alabama,Kilby CF,2022,October,2022-10-03,,,,,,,,,,,,2022
+Alabama,Elmore CF,2022,October,2022-10-05,,,,,,,,,,,,2022
+Alabama,St. Clair CF,2022,October,2022-10-05,,,,,,,,,,,,2022
+Alabama,Bullock CF,2022,October,2022-10-06,,,,,,,,,,,,2022
+Alabama,Staton CF,2022,October,2022-10-06,,,,,,,,,,,,2022
+Alabama,Donaldson CF,2022,October,2022-10-09,,,,,,,,,,,,2022
+Alabama,Bibb CF,2022,October,2022-10-13,,,,,,,,,,,,2022
+Alabama,Fountain CF,2022,October,2022-10-14,,,,,,,,,,,,2022
+Alabama,Kilby CF,2022,October,2022-10-14,,,,,,,,,,,,2022
+Alabama,Limestone CF,2022,October,2022-10-15,,,,,,,,,,,,2022
+Alabama,Limestone CF,2022,October,2022-10-16,,,,,,,,,,,,2022
+Alabama,Bibb CF,2022,October,2022-10-19,,,,,,,,,,,,2022
+Alabama,Hamilton Aged and Infirmed CF,2022,October,2022-10-22,,,,,,,,,,,,2022
+Alabama,St. Clair CF,2022,October,2022-10-22,,,,,,,,,,,,2022
+Alabama,Staton CF,2022,October,2022-10-22,,,,,,,,,,,,2022
+Alabama,Fountain CF,2022,October,2022-10-25,,,,,,,,,,,,2022
+Alabama,Limestone CF,2022,October,2022-10-25,,,,,,,,,,,,2022
+Alabama,Limestone CF,2022,October,2022-10-25,,,,,,,,,,,,2022
+Alabama,St. Clair CF,2022,October,2022-10-25,,,,,,,,,,,,2022
+Alabama,Ventress CF,2022,October,2022-10-25,,,,,,,,,,,,2022
+Alabama,Donaldson CF,2022,October,2022-10-28,,,,,,,,,,,,2022
+Alabama,Limestone CF,2022,October,2022-10-28,,,,,,,,,,,,2022
+Alabama,Easterling CF,2022,October,2022-10-30,,,,,,,,,,,,2022
+Alabama,Staton CF,2022,October,2022-10-31,,,,,,,,,,,,2022
+Alabama,Easterling,2022,November,2022-11-02,,,,,,,,,,,,2022
+Alabama,Elmore,2022,November,2022-11-04,,,,,,,,,,,,2022
+Alabama,Staton,2022,November,2022-11-05,,,,,,,,,,,,2022
+Alabama,Ventress,2022,November,2022-11-07,,,,,,,,,,,,2022
+Alabama,St. Clair,2022,November,2022-11-11,,,,,,,,,,,,2022
+Alabama,Fountain,2022,November,2022-11-13,,,,,,,,,,,,2022
+Alabama,Donaldson,2022,November,2022-11-14,,,,,,,,,,,,2022
+Alabama,Limestone,2022,November,2022-11-14,,,,,,,,,,,,2022
+Alabama,St. Clair,2022,November,2022-11-14,,,,,,,,,,,,2022
+Alabama,Bullock,2022,November,2022-11-15,,,,,,,,,,,,2022
+Alabama,Easterling,2022,November,2022-11-16,,,,,,,,,,,,2022
+Alabama,Fountain,2022,November,2022-11-16,,,,,,,,,,,,2022
+Alabama,Donaldson,2022,November,2022-11-17,,,,,,,,,,,,2022
+Alabama,Bibb,2022,November,2022-11-19,,,,,,,,,,,,2022
+Alabama,Kilby,2022,November,2022-11-19,,,,,,,,,,,,2022
+Alabama,Kilby,2022,November,2022-11-21,,,,,,,,,,,,2022
+Alabama,Elmore,2022,November,2022-11-22,,,,,,,,,,,,2022
+Alabama,Limestone,2022,November,2022-11-22,,,,,,,,,,,,2022
+Alabama,St. Clair,2022,November,2022-11-23,,,,,,,,,,,,2022
+Alabama,Bibb,2022,November,2022-11-24,,,,,,,,,,,,2022
+Alabama,Limestone,2022,November,2022-11-24,,,,,,,,,,,,2022
+Alabama,Limestone,2022,November,2022-11-24,,,,,,,,,,,,2022
+Alabama,Staton,2022,November,2022-11-24,,,,,,,,,,,,2022
+Alabama,Elmore,2022,November,2022-11-25,,,,,,,,,,,,2022
+Alabama,Limestone,2022,November,2022-11-25,,,,,,,,,,,,2022
+Alabama,St. Clair,2022,November,2022-11-25,,,,,,,,,,,,2022
+Alabama,Ventress,2022,November,2022-11-25,,,,,,,,,,,,2022
+Alabama,Ventress,2022,November,2022-11-26,,,,,,,,,,,,2022
+Alabama,Ventress,2022,November,2022-11-27,,,,,,,,,,,,2022
+Alabama,Ventress,2022,November,2022-11-27,,,,,,,,,,,,2022
+Alabama,Kilby,2022,November,2022-11-28,,,,,,,,,,,,2022
+Alabama,Ventress,2022,November,2022-11-29,,,,,,,,,,,,2022
+Alabama,Donaldson,2022,November,2022-11-30,,,,,,,,,,,,2022
+Alabama,Ventress,2022,December,2022-12-01,,,,,,,,,,,,2022
+Alabama,Bullock,2022,December,2022-12-02,,,,,,,,,,,,2022
+Alabama,Staton,2022,December,2022-12-04,,,,,,,,,,,,2022
+Alabama,Staton,2022,December,2022-12-05,,,,,,,,,,,,2022
+Alabama,Staton,2022,December,2022-12-05,,,,,,,,,,,,2022
+Alabama,Staton,2022,December,2022-12-05,,,,,,,,,,,,2022
+Alabama,Bullock,2022,December,2022-12-06,,,,,,,,,,,,2022
+Alabama,Donaldson,2022,December,2022-12-06,,,,,,,,,,,,2022
+Alabama,Elmore,2022,December,2022-12-06,,,,,,,,,,,,2022
+Alabama,Hamilton A&I,2022,December,2022-12-07,,,,,,,,,,,,2022
+Alabama,Kilby,2022,December,2022-12-10,,,,,,,,,,,,2022
+Alabama,Donaldson,2022,December,2022-12-11,,,,,,,,,,,,2022
+Alabama,Kilby,2022,December,2022-12-13,,,,,,,,,,,,2022
+Alabama,Donaldson,2022,December,2022-12-14,,,,,,,,,,,,2022
+Alabama,Bibb,2022,December,2022-12-15,,,,,,,,,,,,2022
+Alabama,Fountain,2022,December,2022-12-15,,,,,,,,,,,,2022
+Alabama,Bibb,2022,December,2022-12-17,,,,,,,,,,,,2022
+Alabama,Staton,2022,December,2022-12-18,,,,,,,,,,,,2022
+Alabama,Staton,2022,December,2022-12-18,,,,,,,,,,,,2022
+Alabama,Kilby,2022,December,2022-12-25,,,,,,,,,,,,2022
+Alabama,Kilby,2022,December,2022-12-25,,,,,,,,,,,,2022
+Alabama,Ventress,2022,December,2022-12-25,,,,,,,,,,,,2022
+Alabama,Staton,2022,December,2022-12-27,,,,,,,,,,,,2022
+Alabama,Bibb,2022,December,2022-12-29,,,,,,,,,,,,2022
+Alabama,Ventress,2022,December,2022-12-29,,,,,,,,,,,,2022
+Alabama,Bibb,2022,December,2022-12-31,,,,,,,,,,,,2022
+Alabama,Ventress,2022,December,2022-12-31,,,,,,,,,,,,2022
+Alabama,St. Clair CF,2022,January,2022-01-14,,,,,,,,,,,,2022
+Alabama,Holman CF,2022,July,2022-07-28,,,,,,,,,,,,2022
+Alabama,Staton,2023,January,2023-01-01,,,Bradley Keith Chaney,,,,White,,Accidental/overdose,Combined methamphetamine and synthetic cannabinoid toxicity.,,2023
+Alabama,Limestone,2023,January,2023-01-02,,,Carl Bernard Kennedy,,,,Black,,Natural,Sudden cardiac death likely due to coronary artery disease with recent infarction,,2023
+Alabama,Limestone,2023,January,2023-01-04,,,Ariene Kimbrough,,,,Black,,Homicide,Stab wound of the neck and chest.,,2023
+Alabama,Easterling,2023,January,2023-01-06,,,Marvin Ray Vining,,,,White,,Natural,Complications of metastatic colon cancer.,,2023
+Alabama,Staton,2023,January,2023-01-06,,,Lawrence Willie Jones Jr.,,,,Black,,Natural,,,2023
+Alabama,Donaldson,2023,January,2023-01-07,,,Kevin Marcus Ritter,,,,Black,,Accidental/overdose,Bromazolam toxicity.,,2023
+Alabama,Bullock,2023,January,2023-01-08,,,Dwight Dewey Williams,,,,White,,Natural,Complications of hypertensive cardiovascular disease.,,2023
+Alabama,Limestone,2023,January,2023-01-09,,,Ronald Richard Nowicki,,,,White,,Natural,Cardiac arrythmia due to atherosclerotic cardiovascular disease.,,2023
+Alabama,Bibb,2023,January,2023-01-10,,,Timothy Latty,,,,White,,Accidental/overdose,oversdose,,2023
+Alabama,Fountain,2023,January,2023-01-11,,,James Peoples,,,,Black,,Natural,Cirrhosis and Hepatocellular Carcinoma.,,2023
+Alabama,St. Clair,2023,January,2023-01-11,,,Corey J. Johnson,,,,Black,,Suicide,Hanging,,2023
+Alabama,St. Clair,2023,January,2023-01-11,,,Corey Jerome Johnson,,,,Black,,Suicide,Hanging,,2023
+Alabama,Staton,2023,January,2023-01-16,,,Charlie Jackson,,,,Black,,Natural,Complications of metastatic colorectal carcinoma.,,2023
+Alabama,Ventress,2023,January,2023-01-21,,,Brandon Edward Crosby,,,,White,,"Accidental (Officer on video htting him fired, then rehired.)",Blunt-force head trauma.,,2023
+Alabama,St. Clair,2023,January,2023-01-21,,,Aifiti Petaia,,,,Black,,Natural,Hypercalcemia due to parathyroid carcinoma.,,2023
+Alabama,Staton,2023,January,2023-01-21,,,Michael Alan Hughes,,,,White,,Natural,Carcinoma of the pancreas.,,2023
+Alabama,Kilby,2023,January,2023-01-21,,,John D. Flowers,,,,White,,Natural,Complications of hypertensive and atherosclerotic cardiovascular disease.,,2023
+Alabama,Limestone,2023,January,2023-01-22,,,Ira P. Parker,,,,White,,Natural,"Deceased was admitted to hospital for respiratory distress on January 18,2023. Cause of death pending LESD investigation and autopsy report. No gang affiliation known.
+",,2023
+Alabama,Bibb,2023,January,2023-01-26,,,Cameron Tyrese Doughty,,,,Black,,Accidental/overdose,Synthetic cannabinoids toxicity.,,2023
+Alabama,Staton,2023,January,2023-01-27,,,Lawrence W. Jones,,,,Black,,Natural,Intracerebral Hemorrhage.,,2023
+Alabama,Kilby,2023,January,2023-01-27,,,Roderick Lee,,,,Black,,Other,Deceased was acting bizarre. taken to healthcare unit. Given Narcan. Cause of death pending LESD investigation and final autopsy. Bloods affiliation.,,2023
+Alabama,Ventress,2023,January,2023-01-28,,,Justin Douglas Grubis,,,,White,,Accidental/overdose,"Combined toxic effects of fentanyl, methamphetamine, and mphetamine.",,2023
+Alabama,Bullock,2023,January,2023-01-28,,,Charles A. Allen,,,,Black,,Natural,Pulmonary embolism due to probable deep venous thromboses.,,2023
+Alabama,Donaldson,2023,January,2023-01-28,,,Trenton Jamario White,,,,Black,,Other,Undetermined per autopsy.,,2023
+Alabama,Donaldson,2023,January,2023-01-29,,,Michael Theodore Medders,,,,White,,Accidental/overdose,Chronic substance abuse.,,2023
+Alabama,Elmore,2023,January,2023-01-29,,,Christopher Shannon Fulmer,,,,White,,Accidental/overdose,Intoxication by synthetic cannabinoid and methamphetamine.,,2023
+Alabama,Bullock,2023,February,2023-02-03,,,Anthony Hannula,,,,White,,Accidental/overdose,Combined toxic effects of fentanyl and MDMB-4en-PINACA.,,2023
+Alabama,Hamilton A&I,2023,February,2023-02-03,,,James A. Roberson,,,,White,,Natural,Death was likely caused by hypertensive and atherosclerotic cardiovascular disease complicated by acute pneumonia.,,2023
+Alabama,St. Clair,2023,February,2023-02-04,,,Timothy Sanderson,,,,White,,Accidental/overdose,Acute methamphetamine and fentanyl intoxication.,,2023
+Alabama,Bullock,2023,February,2023-02-04,,,Brian Keith Wanner,,,,White,,Natural,Diabetic ketoacidosis.,,2023
+Alabama,Staton,2023,February,2023-02-04,,,Alfred Lee Williams,,,,Black,,Natural,Complications of metastatic renal cell carcinoma.,,2023
+Alabama,Staton,2023,February,2023-02-05,,,Craig Randall Lee,,,,White,,Accidental/overdose,Fentanyl toxicity.,,2023
+Alabama,Holman,2023,February,2023-02-05,,,William A. Marshall,,,,White,,Natural,Heart Failure,,2023
+Alabama,Kilby,2023,February,2023-02-06,,,James Earl Castleberry,,,,White,,Natural,Complication of intracerebral hemorrhage.,,2023
+Alabama,Ventress,2023,February,2023-02-06,,,Raul Mariano Del Toro,,,,White,,Natural,Complications of hypertensive atherosclerotic coronary artery disease.,,2023
+Alabama,St. Clair,2023,February,2023-02-08,,,Arthur Earl Thompson,,,,Black,,Natural,"Congestive cardiac failure secondary to severe coronary artery disease with remote myocardial infarction, hypertension, and end stage renal disease.",,2023
+Alabama,Donaldson,2023,February,2023-02-08,,,Michael Wayne Perry,,,,Black,,Natural,Complications of heart failure.,,2023
+Alabama,Holman,2023,February,2023-02-09,,,Edward Louis Pringle,,,,Black,,Natural,Hypertensive and arteriosclerotic Cardiovascular Disease.,,2023
+Alabama,St. Clair,2023,February,2023-02-09,,,David A. Waldrop,,,,White,,Natural,Bronchopneumonia in a patient with advanced cardiovascular and renal comorbidities.,,2023
+Alabama,Limestone,2023,February,2023-02-10,,,Charles Owen Lang,,,,White,,Natural,Aspiration pneumonia complicated by cirrhosis of the liver and remote cerebral infarction of the brain.,,2023
+Alabama,Fountain,2023,February,2023-02-13,,,Larry Dill,,,,Black,,Natural,Acute myocardial infarction.,,2023
+Alabama,Staton,2023,February,2023-02-13,,,Alvin A. Dunn,,,,White,,Natural,Acute exacerbation of chronic obstructive pulmonary disease.,,2023
+Alabama,Staton,2023,February,2023-02-15,,,Reginald Rashard Davis,,,,Black,,Natural,Atherosclerotic coronary artery disease.,,2023
+Alabama,Easterling,2023,February,2023-02-18,,,Gilbert Lee Miles,,,,Black,,Natural,Metastatic colon carcinoma.,,2023
+Alabama,St. Clair,2023,February,2023-02-19,,,James Marvin Farmer,,,,White,,Accidental/overdose,Acute fentanyl and xylazine intoxication.,,2023
+Alabama,Ventress,2023,February,2023-02-21,,,Christopher Bryan Melton,,,,White,,Homicide,Blunt force trauma to the head.,,2023
+Alabama,St. Clair,2023,February,2023-02-22,,,Michael Joe White,,,,Black,,Accidental/overdose,Drug overdose in a patient with cardiomegaly and biventricular hypertrophy,,2023
+Alabama,St. Clair,2023,February,2023-02-22,,,Michael James Hubbard,,,,White,,Accidental/overdose,Drug overdose in the setting of severe atherosclerotic disease and end-stage renal disease.,,2023
+Alabama,Bullock,2023,February,2023-02-23,,,Mason Kale Florence,,,,White,,Accidental/overdose,Combined fentanyl toxicity and synthetic cannabinoid toxicity.,,2023
+Alabama,Limestone,2023,February,2023-02-23,,,James Bibby,,,,White,,Natural,"Gallbladder carcinoma with extensive metastatic disease, bloody ascites, and gastrointestinal bleeding.",,2023
+Alabama,Hamilton Aged and Infirmed,2023,February,2023-02-23,,,James A. Roberson,,,,White,,Natural,Death was likely caused by hypertensive and atherosclerotic cardiovascular disease complicated by acute pneumonia.,,2023
+Alabama,Kilby,2023,February,2023-02-24,,,Anthony Olender,,,,Black,,Suicide,Hanging.,,2023
+Alabama,St. Clair,2023,February,2023-02-25,,,O. C. Borden Jr.,,,,,,Accidental/overdose,Overdose.,,2023
+Alabama,Easterling,2023,February,2023-02-27,,,Charles Waltman,,,,White,,Accidental/overdose,Fentanyl toxicity.,,2023
+Alabama,Easterling,2023,February,2023-02-27,,,Frederick Bishop,,,,Black,,Accidental/overdose,Intoxication by fentanyl and synthetic cannabinoid.,,2023
+Alabama,Limestone,2023,February,2023-02-27,,,Daniel Pilot,,,,White,,Accidental/overdose,Drug overdose in the setting of severe coronary artery disease including remote myocardial infarction,,2023
+Alabama,Tutwiler,2023,March,2023-03-01,,,Gladys Michelle Boyd,,,,Black,,Natural,Sudden cardiac death in a patient with severe atherosclerotic coronary disease including a remote myocardial infarction.,,2023
+Alabama,Ventress,2023,March,2023-03-02,,,Alex Justin Williams,,,,White,,Accidental/overdose,"Deceased found unresponsive in dorm. Narcan was administered. Track marks noticed on right arm. Cause of death: Combined fentanyl, methamphetamine, and synthetic cannabinoid (MDMB-4en-PINACA) toxicity.
+",,2023
+Alabama,Limestone,2023,March,2023-03-03,,,Mohamad Osman,,,,Black,,Accidental/overdose,Possible novel synthetic opioid intoxication.,,2023
+Alabama,Easterling,2023,March,2023-03-03,,,Gre'Darius Stefan Brooks,,,,Black,,Accidental/overdose,Intoxication by fentanyl and synthetic cannabinoid.,,2023
+Alabama,Limestone,2023,March,2023-03-03,,,Joshua Felton Ledlow,,,,White,,Accidental/overdose,"Deceased found in cell. Narcan administered twice. Cause of death was overdose from acute fentanyl and methamphetamine.
+",,2023
+Alabama,Easterling,2023,March,2023-03-03,,,Munk Willis,,,,Black,,Natural,Hypertensive and atherosclerotic cardiovascular disease with stroke.,,2023
+Alabama,Bullock,2023,March,2023-03-04,,,Joshua Strickland,,,,Black,,Accidental/overdose,Intoxication by fentanyl and methamphetamine.,,2023
+Alabama,Donaldson,2023,March,2023-03-04,,,Bobby Bradley,,,,White,,Natural,Congestive Heart Failure.,,2023
+Alabama,Bibbs,2023,March,2023-03-04,,,Bunyan Goodwin Jr.,,,,Black,,Natural,Complications of pulmonary emboli with respiratory failure.,,2023
+Alabama,Kilby,2023,March,2023-03-04,,,Melvin Kendricks,,,,Black,,Natural,Probable malignancy of unknown origin.,,2023
+Alabama,Bullock,2023,March,2023-03-05,,,James C. Brown,,,,White,,Accidental/overdose,Intoxication by fentanyl and synthetic cannabinoid.,,2023
+Alabama,Donaldson,2023,March,2023-03-05,,,Tony Edward Evans,,,,Black,,Other,Undetermined by coroner.,,2023
+Alabama,Elmore,2023,March,2023-03-08,,,Felix Ortega,,,,White,,Accidental/overdose,"Combined fentanyl, MDMB-4en-PINACA, amphetamine, and methamphetamine drug toxicity.",,2023
+Alabama,Limestone,2023,March,2023-03-09,,,Calvin Lewis Brown,,,,White,,Natural,Deceased was taken to Huntsville Hospital for respiratory failure. Cause of death: ischemic heart disease.,,2023
+Alabama,Bullock,2023,March,2023-03-12,,,Billy Sullivan,,,,White,,Accidental/overdose,"Combined drug toxicity (fentanyl, ADB-BUTINACA, MDMB-4en-PINACA)",,2023
+Alabama,Ventress,2023,March,2023-03-14,,,Toriano Richardson,,,,Black,,Accidental/overdose,Intoxication by fentanyl and synthetic cannabinoid.,,2023
+Alabama,Kilby,2023,March,2023-03-14,,,Alan Derrick Bumpers,,,,Black,,Natural,Complications of malignant epithelioid neoplasm.,,2023
+Alabama,Staton,2023,March,2023-03-14,,,Steve Cliff,,,,Black,,Other,Deceased found unresponsive on dorm floor. Narcan administered. Cause of death pending LESD investigation and final autopsy.,,2023
+Alabama,Limestone,2023,March,2023-03-15,,,Michael Anthony Blair,,,,Black,,Accidental/overdose,Fentanyl overdose.,,2023
+Alabama,St. Clair,2023,March,2023-03-19,,,Paul Lee,,,,Black,,Accidental/overdose,"Deceased found unresponsive in restrictive housing unit cell. Taken to health care unit where Narcan, CPR, and AED were used. Cause of death per autopsy is possible overdose.",,2023
+Alabama,Limestone,2023,March,2023-03-21,,,Raydrekous Satcher,,,,Black,,Accidental/overdose,"Deceased found unresponsive on assigned bed. Taken to health care unit by laundry cart. Given IV Narcan, CPR and AED but unsuccessful. Cause of death: acute fentanyl intoxication.",,2023
+Alabama,Staton,2023,March,2023-03-23,,,Joseph Allen Gaines,,,,White,,Accidental/overdose,"Intoxication by fentanyl, fluorofentanyl, and synthetic cannabinoid.",,2023
+Alabama,Staton,2023,March,2023-03-25,,,Scott Senn,,,,White,,Accidental/overdose,Fentanyl and methamphetamine toxicity.,,2023
+Alabama,Ventress,2023,March,2023-03-25,,,Brandon J. Elliot,,,,Black,,Accidental/overdose,"Multiple drug toxicity (fentanyl, fluorofentanyl, and MDMB-4en-PINACA).",,2023
+Alabama,Fountain,2023,March,2023-03-25,,,Wondlas Mark Givens,,,,White,,Natural,Hypertensive atherosclerotic cardiovascular disease.,,2023
+Alabama,Staton,2023,March,2023-03-25,,,Daniel B. Moore,,,,White,,Natural,Deceased taken to Jackson Hospital for respiratory failure. Cause of death pending LESD investigation and final autopsy.,,2023
+Alabama,Donaldson,2023,March,2023-03-28,,,James Clayton Nelson,,,,White,,Accidental/overdose,Fentanyl Toxicity.,,2023
+Alabama,Ventress,2023,April,2023-04-01,,,Chad Markham,,,,White,,Natural,Sepsis due to polymicrobial pneumonia.,,2023
+Alabama,Ventress,2023,April,2023-04-03,,,Ryan S. Allen,,,,white,,Natural,Cause of death: staphylococcus aureus sepsis.,,2023
+Alabama,Staton,2023,April,2023-04-03,,,Kevin Dewayne Bell,,,,Black,,Other,Cause of death pending final autopsy and LESD investigation.,,2023
+Alabama,Elmore,2023,April,2023-04-05,,,Riley Hayes,,,,White,,Natural,Atherosclerotic coronary artery disease.,,2023
+Alabama,Staton,2023,April,2023-04-06,,,Lucas Richardson,,,,White,,Accidental/overdose,"Toxic effects of methamphetamine, fentanyl flourofentanyl, and synthetic cannabinoids.",,2023
+Alabama,Easterling,2023,April,2023-04-11,,,Ryan Ogle,,,,White,,Accidental/overdose,"Combined drug toxicity (fentanyl, methamphetamine, fluorofentanyl, and MDMB-4en-PINACA)",,2023
+Alabama,Bullock,2023,April,2023-04-11,,,Carson Larry Carr III,,,,White,,Accidental/overdose,,,2023
+Alabama,St. Clair,2023,April,2023-04-12,,,Jonathan David Edwards,,,,White,,Natural,Acute pneumonia of the lungs.,,2023
+Alabama,Bibb,2023,April,2023-04-12,,,Sonny Steven Gibbs,,,,White,,Natural,Sepsis of unknown etiology.,,2023
+Alabama,Limestone,2023,April,2023-04-13,,,Jim Kennedy Jr.,,,,Black,,Natural,Adenocarcinoma of the lung.,,2023
+Alabama,Staton,2023,April,2023-04-14,,,Randy Tingle,,,,White,,Accidental/overdose,"Cause of death Intoxication by fentanyl, fluorofentanyl, and synthetic cannabinoid",,2023
+Alabama,Donaldson,2023,April,2023-04-16,,,Donald Gerald Simmons,,,,Black,,Natural,Arteriosclerotic cardiovascular disease contributed by COPD and congestive heart failure. Passed away in infirmary with no visible injury on body.,,2023
+Alabama,Elmore,2023,April,2023-04-18,,,Kelsey Tyrell Jones,,,,Black,,Accidental/overdose,"Cause of death: multiple drug toxicity (amphetamine, methamphetamine, and MDMB-4en-PINACA).",,2023
+Alabama,Staton,2023,April,2023-04-18,,,Willie Emmanuel Lewis,,,,Black,,Natural,Cause of death: complications of atherosclerotic disease.,,2023
+Alabama,Elmore,2023,April,2023-04-18,,,Robert Humboles,,,,Black,,Other,Cause of death pending final autopsy and LESD investigation.,,2023
+Alabama,Bullock,2023,April,2023-04-19,,,Gregory J. Woods,,,,Black,,Accidental/overdose,Suspected overdose. Cause of death: drug toxicity including fentanyl and mirtazapine.,,2023
+Alabama,Bullock,2023,April,2023-04-19,,,Brian Davenport,,,,White,,Natural,Cause of death hypertensive heart disease.,,2023
+Alabama,Bullock,2023,April,2023-04-24,,,Christopher Charles Robinson (Not in ADECA or DCRA. Only onADOC list.),,,,,,Accidental/overdose,,,2023
+Alabama,Staton,2023,April,2023-04-26,,,Nicholas Goble,,,,White,,Accidental/overdose,Fentanyl and synthetic cannabinoid (4F-MDMB-4en-PINACA) toxicity,,2023
+Alabama,Staton,2023,April,2023-04-26,,,Gregory Lucy,,,,Black,,Natural,Complications of cerebrovascular disease due to hypertension and atherosclerotic cardiovascular disease.,,2023
+Alabama,Ventress,2023,April,2023-04-26,,,Marcus Antonio Williams,,,,Black,,Natural,Bronchial asthma.,,2023
+Alabama,Kilby,2023,April,2023-04-27,,,Larry Dover,,,,Black,,Natural,Ruptured abdominal aortic aneurysm.,,2023
+Alabama,Tutwiler,2023,April,2023-04-28,,,Judy M. Haney,,,,White,,Other,Cause of death pending final autopsy and LESD investigation.,,2023
+Alabama,Easterling,2023,April,2023-04-29,,,JOSEPH ALLEN Tarvin,,,,White,,Other,Cause of death pending final autopsy and LESD investigation.,,2023
+Alabama,North Alabama Work Center,2023,April,2023-04-30,,,Bennie Ray Borden,,,,White,,Natural,Complications of cirrhosis and atherosclerotic cardiovascular disease,,2023
+Alabama,Mobile Work Release,2023,May,2023-05-03,,,Jonathan Clayton Delaney,,,,White,,Accidental/overdose,Cause of death: combined fentanyl and MDMB-4en-PINACA toxicity.,,2023
+Alabama,Tutwiler,2023,May,2023-05-03,,,Diane Downs,,,,White,,Natural,Widely metastatic mucinous producing lung adenocarcinoma.,,2023
+Alabama,Easterling,2023,May,2023-05-03,,,Patrick J.  McCrea,,,,White,,Natural,Cirrhosis of the liver.,,2023
+Alabama,Donaldson,2023,May,2023-05-04,,,Thomas Crowe,,,,White,,Accidental/overdose,Fentanyl Oversdose,,2023
+Alabama,Hamilton Aged and Infirmed,2023,May,2023-05-04,,,Donald Nichols,,,,White,,Natural,"Bronchopneumonia, likely secondary to aspiration.",,2023
+Alabama,Kilby,2023,May,2023-05-06,,,Johnny Jackson,,,,Black,,Natural,Hypertensive cardiovascular disease.,,2023
+Alabama,Hamilton Aged and Infirmed,2023,May,2023-05-11,,,Robin Marvin Williams,,,,White,,Natural,Bleeding esophageal varices.,,2023
+Alabama,Ventress,2023,May,2023-05-12,,,Eric Heath Price,,,,White,,Accidental/overdose,"Combined drug toxicity (fentanyl, MDMB-4en-PINACA)",,2023
+Alabama,Bullock,2023,May,2023-05-12,,,Gregory Feagin,,,,Black,,Natural,End-stage chronic obstructive pulmonary disease.,,2023
+Alabama,Staton,2023,May,2023-05-12,,,Eddie Roy Pope Jr.,,,,White,,Other,Cause of death pending final autopsy and LESD investigation.,,2023
+Alabama,Easterling,2023,May,2023-05-14,,,Christopher Mount,,,,White,,Homicide (Beaten and strangled),Cause of death pending final autopsy and LESD investigation. (Beaten and strangled),,2023
+Alabama,Easterling,2023,May,2023-05-14,,,James M. Brown,,,,White,,Natural,Multiple cerebral and brainstems infarctions.,,2023
+Alabama,Fountain,2023,May,2023-05-14,,,Jerre Chatom,,,,White,,Natural,Hypertensive Cardiovascular Disease,,2023
+Alabama,Bullock,2023,May,2023-05-14,,,Jason Chapman,,,,White,,Other,Cause of death pending final autopsy and LESD investigation. (Beaten and strangled),,2023
+Alabama,St. Clair,2023,May,2023-05-15,,,Jamal McCain,,,,Black,,Homicide,Cause of death: stab wound to neck.,,2023
+Alabama,Easterling,2023,May,2023-05-16,,,Colton Hall,,,,Black,,Homicide,Stab wound to the neck.,,2023
+Alabama,Elmore,2023,May,2023-05-16,,,Stephone Lvon Marshall,,,,Black,,Homicide,Cause of death pending final autopsy and LESD investigation.,,2023
+Alabama,Staton,2023,May,2023-05-16,,,Robert L. Brown,,,,Black,,Natural,Hypertensive and arteriosclerotic cardiovascular disease.,,2023
+Alabama,Bibb,2023,May,2023-05-18,,,Tommy Reed,,,,White,,Accidental/overdose (Per quarterly. DCRA was awaiting autopsy),Cause of death pending final autopsy and LESD investigation.,,2023
+Alabama,Donaldson,2023,May,2023-05-18,,,Charles Bracewell,,,,White,,Natural,pneumonia.,,2023
+Alabama,St. Clair,2023,May,2023-05-18,,,Elias Davila,,,,White,,Natural,Pneumonia.,,2023
+Alabama,Limestone,2023,May,2023-05-22,,,Roy Quates,,,,White,,Natural,Pontine infarction.,,2023
+Alabama,Donaldson,2023,May,2023-05-24,,,Yatowi Lesjuan Moore,,,,Black,,Accidental/overdose,Fentanyl toxicity.,,2023
+Alabama,Staton,2023,May,2023-05-26,,,Marcus M. Mack,,,,Black,,Accidental/overdose,Combined cocaine and fentanyl toxicity.,,2023
+Alabama,Kilby,2023,May,2023-05-26,,,Demarcus Cawthorne,,,,Black,,Homicide,Cause of death: complications of a remote gunshot wound.,,2023
+Alabama,Bibb,2023,May,2023-05-27,,,Jeffery Crumpton,,,,White,,Natural,Metastatic adenocarcinoma of the lung.,,2023
+Alabama,Bullock,2023,May,2023-05-28,,,Joseph Dennis Ingram,,,,White,,Accidental/overdose,Cause of death: fentanyl toxicity.,,2023
+Alabama,Kilby,2023,May,2023-05-29,,,Julius Ivan Williams Jr.,,,,White,,Natural,"Chronic obstructive pulmonary disease, hypertensive cardiovascular disease, complications of drug use including Hepatitis C virus.",,2023
+Alabama,Bullock,2023,May,2023-05-30,,,James Michael Writesman,,,,White,,Accidental/overdose,Cause of death: fentanyl toxicity.,,2023
+Alabama,Limestone,2023,May,2023-05-30,,,Demeco White,,,,Black,,Accidental/overdose,Acute fentanyl intoxication complicating concentric ventricular hypertrophy of the heart.,,2023
+Alabama,St. Clair,2023,May,2023-05-31,,,Tarrance Guyton,,,,Black,,Homicide,Cause of death pending final autopsy and LESD investigation. (Newsd acount notes he was stabbed and beaten.,,2023
+Alabama,Staton,2023,May,2023-05-31,,,Steven Ray Harris,,,,White,,Natural,Cause of death: complications of diabetes mellitus including chronic renal failure.,,2023
+Alabama,Donaldson,2023,June,2023-06-03,,,William Lynn Smith,,,,White,,Suicide,Asphyxia by hanging.,,2023
+Alabama,Donaldson,2023,June,2023-06-07,,,Bryam R. Joseph,,,,White,,Natural,Cause of death is Klebsiella pneumoniae sepsis,,2023
+Alabama,Kilby,2023,June,2023-06-09,,,Freddie Jackson,,,,Black,,Natural,Cirrhosis of the liver.,,2023
+Alabama,Holman,2023,June,2023-06-09,,,Leon Albert Prince,,,,White,,Natural,Cause of death Hypoxemic respiratory failure with bilateral pleural effusions.,,2023
+Alabama,Kilby,2023,June,2023-06-10,,,Jackie Barnett,,,,White,,Accidental/overdose,Cause of death fentanyl toxicity.,,2023
+Alabama,St. Clair,2023,June,2023-06-11,,,Steven Seay,,,,Black,,Suicide,Hanging.,,2023
+Alabama,Limestone,2023,June,2023-06-14,,,Frank Nix,,,,Black,,Natural,Non-small cell carcinoma of the left lower lobe of the lung with extensive metastatic disease.,,2023
+Alabama,Donaldson,2023,June,2023-06-17,,,Greg Leon Nard,,,,White,,Accidental/overdose,Methamphetamine and fentanyl toxicity.,,2023
+Alabama,Bibb,2023,June,2023-06-17,,,Terrell Teague,,,,Black,,Other (DCRA notes overdose),Cause of death: Combined fentanyl and synthetic cannabinoid (ADB-BUTINACA and MDMB-4en-PINACA) toxicity.,,2023
+Alabama,Ventress,2023,June,2023-06-21,,,Jason Chambers,,,,White,,Accidental/overdose,Combined fentanyl and synthetic cannabinoid toxicity (4FMDMB-BUTINACA and MDMB--4en-PINACA).,,2023
+Alabama,Donaldson,2023,June,2023-06-21,,,Joshua Aaron Odom,,,,White,,Suicide,Asphyxia by Hanging.,,2023
+Alabama,Donaldson,2023,June,2023-06-22,,,Steven Billiot,,,,White,,Accidental/overdose,Methamphetamine and fentanyl toxicity.,,2023
+Alabama,Birmingham Work Release,2023,June,2023-06-22,,,Mashell Mann (Female),,,,White,,Natural,Cause of death: complications of acute leukemia.,,2023
+Alabama,Easterling,2023,June,2023-06-23,,,Craig Blaine Lepper,,,,White,,Accidental/overdose,(Not listed in DCRA data),,2023
+Alabama,Limestone,2023,June,2023-06-23,,,Tristan Crawford,,,,White,,Natural,Pulmonary thromboemboli.,,2023
+Alabama,Ventress,2023,June,2023-06-24,,,Rodney Taylor,,,,White,,Accidental/overdose,Cause of death: combined drug toxicity of fentanyl and MDMB-4en-PINACA,,2023
+Alabama,Donaldson,2023,June,2023-06-24,,,Eric Tyrone Person,,,,Black,,Natural,Cause of death: Sepsis.,,2023
+Alabama,Elmore,2023,June,2023-06-26,,,Tommy L. Williams,,,,Black,,Natural,Scheduled Medical appointment when physician recommended him going to the hospital for low oxygen levels. Cause of death: complications of sarcoidosis.,,2023
+Alabama,Limestone,2023,June,2023-06-26,,,James Darrell Tabor,,,,White,,Suicide,"Combined drug toxicity (fentanyl, fluorofentanyl, and MDMB-4en-PINACA)",,2023
+Alabama,Limestone,2023,June,2023-06-28,,,Anthony Perez Brackins,,,,Black,,Accidental/overdose,Fentanyl and methamphetamine intoxication.,,2023
+Alabama,Hamilton Aged and Infirmed,2023,June,2023-06-28,,,Thomas Paul Bradley,,,,White,,Natural,Cause of death: pneumonia of the lungs complicated with a mixed neurodegenerative pathology of the brain.,,2023
+Alabama,Frank Lee Work Release,2023,June,2023-06-30,,,Tyfeeq Moore,,,,Black,,Accidental/overdose,Cause of death pending final autopsy and LESD investigation.,,2023
+Alabama,Staton,2023,June,2023-06-30,,,Victor Daughtery,,,,White,,Natural,Cause of death: cirrhosis of the liver.,,2023
+Alabama,Donaldson,2023,July,2023-07-01,,,Gerald Denorch Cochran Jr.,,,,Black,,Accidental/overdose,"Was found in his cell. Laceration above right eye due to the fall. Arteries narrowed due to atherosclerotic plaques. Lethal concentrations of methamphetamine and a trac amount mirtazapine were detected in blood. Findings surrounding autopsy, deceased expired due to methamphetamine and fentanyl toxicity.
+",,2023
+Alabama,Hamilton Aged and Infirmed,2023,July,2023-07-02,,,Eddie Lambert,,,,White,,Natural,Alzheimer disease with cerebral amyloid angiopathy leading to hemorrhagic infarction in the frontal lobe a superimposed pneumonia.,,2023
+Alabama,Fountain,2023,July,2023-07-04,,,Linzell Sykes III,,,,Black,,Accidental/overdose,"Cause of death: toxicity of fentanyl, methamphetamine 4F-MDMB-BUTINACA, and MDM-4en-PINACA.",,2023
+Alabama,Easterling,2023,July,2023-07-05,,,James L. Campbell,,,,Black,,Natural,Anoxic brain injury from seizure due to metastatic prostate cancer with anemia.,,2023
+Alabama,St. Clair,2023,July,2023-07-05,,,Tommie Cochran,,,,Black,,Natural,Ischemic Heart Disease.,,2023
+Alabama,Kilby,2023,July,2023-07-05,,,Kenneth Nelson,,,,White,,Other,Cause of death: staphylococcus aureus sepsis due to infective endocarditis.,,2023
+Alabama,Staton,2023,July,2023-07-10,,,Brian Clinite,,,,White,,Accidental/overdose,"Cause of death: intoxication by fentanyl, methamphetamine, and synthetic cannabinoid.",,2023
+Alabama,Holman,2023,July,2023-07-11,,,Charles Justo,,,,White,,Natural,Cause of death: dilated cardiomyopathy.,,2023
+Alabama,Limestone,2023,July,2023-07-11,,,John Collum,,,,White,,Natural,"Septic shock with multiorgan micro abscesses and gastrointestinal bleed in the setting of staphylococcus aureus sepsis, with hepatitis C cirrhosis as a major contributing factor.
+",,2023
+Alabama,Elmore,2023,July,2023-07-11,,,Jerry J. Butler,,,,Black,,Natural,Severe sepsis with shock due to ruptured appendix with retroperitoneal appendiceal abscess formation,,2023
+Alabama,Holman,2023,July,2023-07-11,,,Charles L. Justo Jr.,,,,White,,Natural,Cause of death: dilated cardiomyopathy.,,2023
+Alabama,Elmore,2023,July,2023-07-11,,,James Lynn Johnson,,,,White,,Natural,Complications of diabetes.,,2023
+Alabama,Kilby,2023,July,2023-07-12,,,David Vaughn,,,,White,,Natural,non small cell carcinoma,,2023
+Alabama,Staton,2023,July,2023-07-13,,,Keith Matthews,,,,Black,,Natural,Cause of death: probable sepsis due to pneumonia and right sided empyema.,,2023
+Alabama,St. Clair,2023,July,2023-07-16,,,Darves Thornton,,,,Black,,Natural,"Jaundice, history of alcohol abuse, heart attacks, strokes, and kidney disease. Cause of death was streptococcal pneumonia with sepsis.",,2023
+Alabama,Bullock,2023,July,2023-07-18,,,Michael Worsham,,,,White,,Suicide,Found hanging with sheet around his neck. Cause of death was suicide by hanging.,,2023
+Alabama,Limestone,2023,July,2023-07-18,,,Michael Dubuisson,,,,White,,Suicide,Cause of death suicide by hanging.,,2023
+Alabama,Limestone,2023,July,2023-07-20,,,Alfonso A. Brown,,,,Black,,Natural,Cause of death was streptococcal sepsis.,,2023
+Alabama,Limestone,2023,July,2023-07-21,,,Kelvin Lamar Moore,,,,Black,,Accidental/overdose,Cause of death was acute fentanyl overdose.,,2023
+Alabama,Holman,2023,July,2023-07-21,,,James Edward Barber,,,,White,,Execution,Cause of death: Combined toxicity of midazolam and rocuronium.,,2023
+Alabama,Tutwiler,2023,July,2023-07-21,,,Tamala Amos Trickey,,,,White,,Natural,Sent to hospital for lung cancer. Cause of death pending final autopsy and LESD investigation.,,2023
+Alabama,St. Clair,2023,July,2023-07-22,,,Stanley Williams,,,,Black,,Natural,Metastatic hepatocellular carcinoma.,,2023
+Alabama,Staton,2023,July,2023-07-22,,,Christopher Welch,,,,White,,Natural,Mass on inmates lungs. Cause of death: acute bacterial pneumonia.,,2023
+Alabama,Elmore,2023,July,2023-07-26,,,Rubyn James Murray,,,,Black,,Homicide (2 incarcerated men and an officer are charged with Murder.),Physical altercation with a Guard. Cause of death pending final autopsy and LESD investigation.,,2023
+Alabama,Bullock,2023,July,2023-07-28,,,Jarvis Abdul Dennis,,,,Black,,Accidental/overdose,Heart Disease and Synthetic Cannabinoids,,2023
+Alabama,Elmore,2023,July,2023-07-28,,,Javarious Q. Shepard,,,,Black,,Accidental/overdose,Cause of death pending final autopsy and LESD investigation.,,2023
+Alabama,Ventress,2023,July,2023-07-31,,,Mark Davis,,,,Black,,Accidental/overdose,Cause of death pending final autopsy and LESD investigation.,,2023
+Alabama,Donaldson,2023,August,2023-08-01,,,Mark Johnson,,,,White,,Natural,"Sent to hospital for pancreatitis. History of Heart issue, Hypertension, and blood clots. Cause of death: Arterioscleroti Cardiovascular Disease.",,2023
+Alabama,Easterling,2023,August,2023-08-01,,,Brian Earl Parker,,,,White,,Accidental/overdose,Fentanyl and synthetic cannabinoid,,2023
+Alabama,Hamilton work release,2023,August,2023-08-02,,,Colt Morris,,,,White,,Accident,Hit by a driver/vehicle while working with ALDOT. Cause of death: blunt force injuries.,,2023
+Alabama,Hamilton work release,2023,August,2023-08-02,,,Ronnie Cornelious,,,,White,,Accident,Hit by a driver/vehicle while working with ALDOT. Cause of death: blunt force injuries.,,2023
+Alabama,Limestone,2023,August,2023-08-03,,,William Weldon,,,,White,,Natural,Cause of death sudden cardiac death with coronary artery disease.,,2023
+Alabama,Staton,2023,August,2023-08-07,,,Keith Crishawn Holley,,,,Black,,Accidental/overdose,Cause of death mixed drug intoxication of methamphetamine and 4F-MDMB-BUTINACA.,,2023
+Alabama,Limestone,2023,August,2023-08-07,,,Martez Seay,,,,Black,,Accidental/overdose,Cause of death fentanyl overdose.,,2023
+Alabama,Donaldson,2023,August,2023-08-07,,,Lashun Cortez White,,,,Black,,Accidental/overdose,Inmate was found unresponsive in his cell by an officer. Narcan was given 4 times and CPR was administered. Fentanyl toxicity were the findings due to autopsy.,,2023
+Alabama,Limestone,2023,August,2023-08-07,,,Anthony Duane Kendrick,,,,Black,,Other,"Cause of death Acute fentanyl intoxication, pulmonary edema, vascular congestion of lungs dilation of heart.",,2023
+Alabama,Ventress,2023,August,2023-08-08,,,Christopher Streiff,,,,White,,Homicide,Cause of death exsanguination due to laceration of spleen due to blunt force trauma of torso.,,2023
+Alabama,Staton,2023,August,2023-08-08,,,Jerry Dean Riley,,,,White,,Natural,Hepatic Cirrhosis.,,2023
+Alabama,Bullock,2023,August,2023-08-08,,,Aaron Keith Hurst,,,,White,,Suicide,,,2023
+Alabama,Bullock,2023,August,2023-08-09,,,Michael D. Smith,,,,Black,,Other,Cause of death pending final autopsy and LESD investigation.,,2023
+Alabama,Bullock,2023,August,2023-08-11,,,Jerry Hyche,,,,White,,Natural,"Respiratory failure due to acute respiratory distress syndrome, respiratory failure, and pneumothorax.",,2023
+Alabama,Bullock,2023,August,2023-08-11,,,Lamar Angelo James,,,,Black,,Other,Supsected Overdose. Cause of death pending final autopsy and LESD investigation.,,2023
+Alabama,Kilby,2023,August,2023-08-12,,,Richard Larry Sanders,,,,White,,Natural,Cause of death undifferentiated pleomorphic spindle cell sarcoma metastatic to the lungs.,,2023
+Alabama,St. Clair,2023,August,2023-08-13,,,William Calvin Vinson,,,,White,,Natural,Cause of death: sudden cardiac death.,,2023
+Alabama,Easterling,2023,August,2023-08-13,,,Christopher Mason Riley,,,,White,,Accidental/overdose,Cause of death pending final autopsy and LESD investigation.,,2023
+Alabama,Bibb,2023,August,2023-08-14,,,Jason Lynn Cloud,,,,White,,Accidental/overdose,Cause of death: toxic effects of fentanyl and synthetic cannabinoid.,,2023
+Alabama,Donaldson,2023,August,2023-08-14,,,Gerald Denorch Cochran Jr.,,,,Black,,Accidental/overdose,"Was found in his cell. Laceration above right eye due to the fall. Arteries narrowed due to atherosclerotic plaques. Lethal concentrations methamphetamine and a trac amount of mirtazapine were detected in blood. Findings surrounding autopsy, deceased expired due to methamphetamine and fentanyl toxicity.",,2023
+Alabama,Bullock,2023,August,2023-08-14,,,Jarvis A. Dennis,,,,Black,,Accidental/overdose,Cause of death atherosclerotic coronary artery disease complicated by synthetic cannabinoid use.,,2023
+Alabama,Bibb,2023,August,2023-08-14,,,Mark Allen Jordan,,,,White,,Accidetal/overdose,Cause of death: fentanyl toxicity with methamphetamine use as a contributing factor.,,2023
+Alabama,Limestone,2023,August,2023-08-14,,,Danny R. Massey,,,,Black,,Accidetal/overdose,Cause of death acute fentanyl intoxication.,,2023
+Alabama,Limestone,2023,August,2023-08-14,,,Harold Frost,,,,White,,Natural,Cause of death was sudden cardiac arrest.,,2023
+Alabama,Elmore,2023,August,2023-08-14,,,James L. Johnson Jr.,,,,White,,Natural,Cause of death Renal failure due to Tubulointerstitial nephritis due to Diabetes mellitus,,2023
+Alabama,Limestone,2023,August,2023-08-14,,,Jack Lee Duff Jones,,,,Black,,Natural,Cause of death bacterial endocarditis due to staphylococcus aureus.,,2023
+Alabama,Ventress,2023,August,2023-08-14,,,Mark Wayne Davis,,,,Black,,Other,Cause of death pending final autopsy and LESD investigation.,,2023
+Alabama,Limestone,2023,August,2023-08-14,,,Antonio L. Jackson,,,,Black,,Other,Cause of death pending final autopsy and LESD investigation.,,2023
+Alabama,Limestone,2023,August,2023-08-15,,,Jackie Wilson,,,,White,,Natural,"Lung cancer. Cause of death: A poorly differentiated right adenocarcinoma with local invasion and distant (liver) metastases.
+",,2023
+Alabama,St. Clair,2023,August,2023-08-15,,,James Dorriety,,,,White,,Natural,Cause of death tricuspid valve endocarditis and sepsis.,,2023
+Alabama,St. Clair,2023,August,2023-08-16,,,Edward King,,,,Black,,Natural,"Cause of death severe coronary artery disease with remote myocardial infarction.
+",,2023
+Alabama,Fountain,2023,August,2023-08-16,,,Michael R. Fox,,,,White,,Suicide,Hanging from ceiling fan with state shirt. Cause of death: Asphyxia due to hanging.,,2023
+Alabama,Bibb,2023,August,2023-08-21,,,Artice Cooper,,,,Black,,Natural,Complications with pneumonia. Cause of death complications of perforated duodenal ulcer.,,2023
+Alabama,Bullock,2023,August,2023-08-21,,,Leslie Blankenship,,,,White,,Other,Cause of death pending final autopsy and LESD investigation.,,2023
+Alabama,Staton,2023,August,2023-08-23,,,James Floyd Bondurant Jr.,,,,White,,Natural,Liver cirrhosis under doctors care. Cause of death pending final autopsy and LESD investigation,,2023
+Alabama,Elmore,2023,August,2023-08-27,,,Michael Ledonne Allison,,,,Black,,Other,History of hep. C and depression. Cause of death pending final autopsy and LESD investigation.,,2023
+Alabama,Holman,2023,August,2023-08-28,,,Anthony Thompson,,,,White,,Accidental/overdose,"Cause of death: Toxicity of ethanol, fentanyl, and fluorofentanyl.",,2023
+Alabama,Staton,2023,August,2023-08-29,,,James Sims Jr.,,,,White,,Natural,"In infirmary due to cellulitis of legs and congestive heart failure. Cause of death: congestive heart failure due to hypertensive and atherosclerotic cardiovascular disease.
+",,2023
+Alabama,Hamilton A&I,2023,August,2023-08-29,,,Willie Pickett,,,,Black,,Natural,Complications of adenocarcinoma of the colon including liver metastases and pulmonary thromboemboli,,2023
+Alabama,St. Clair,2023,August,2023-08-30,,,Dustin Martin,,,,White,,Accidental/overdose,Cause of death Acute fentanyl and methamphetamine intoxication,,2023
+Alabama,Holman,2023,August,2023-08-30,,,John Ward,,,,White,,Natural,Cause of death: Metastatic colon carcinoma.,,2023
+Alabama,Kilby,2023,August,2023-08-30,,,Frank Rada,,,,White,,Other,Cause of death post-obstructive pneumonia due to probable lung cancer.,,2023
+Alabama,Fountain,2023,August,2023-08-31,,,Glen Sasser,,,,White,,Natural,Admitted due to lung cancer. Cause of death: secondary malignancy of liver.,,2023
+Alabama,Ventress,2023,August,2023-08-31,,,Charles Mack,,,,Black,,Other,Cause of death pending final autopsy and LESD investigation.,,2023
+Alabama,Elmore,2023,September,2023-09-01,,,Derwun Jervaor Kennemer,,,,Black,,Accidental/overdose,"Cause of death: Intoxication by synthetic cannabinoid, fentanyl, and fluorofentanyl.",,2023
+Alabama,Bibb,2023,September,2023-09-03,,,Jimmy Capps,,,,White,,Accidental/overdose,Cause of death pending final autopsy and LESD investigation.,,2023
+Alabama,Bibb,2023,September,2023-09-04,,,Christopher Lane,,,,White,,Natural,Cause of death: staphylococcus species sepsis due to bilateral necrotizing pneumonia.,,2023
+Alabama,Donldson,2023,September,2023-09-05,,,Samuel Cox,,,,White,,Natural,Had congestive heart failure. Cause of death arteriosclerotic cardiovascular disease.,,2023
+Alabama,Donaldson,2023,September,2023-09-07,,,Tommy Tunstall,,,,Black,,Suicide,Suicide by hanging,,2023
+Alabama,St. Clair,2023,September,2023-09-11,,,Damion Dean,,,,Black,,Accidental/overdose,Suspected overdose. Cause of death: Drug overdose with multiple drugs found in his system.,,2023
+Alabama,Staton,2023,September,2023-09-15,,,Michael Howard,,,,Black,,Natural,"Suffered from hypertension, Diabetes, Heart Disease, and had a Pacemaker. Cause of death hypertensive cardiovascular disease.",,2023
+Alabama,Staton,2023,September,2023-09-16,,,Edward A. King,,,,Black,,Natural,Cause of death severe coronary artery disease with remote myocardial infarction.,,2023
+Alabama,Easterling,2023,September,2023-09-21,,,Earnest Barron,,,,Black,,Other (DCRA notes overdose),Combined Fentanyl and Synthetic Cannabinoid (MDMB-4en-PINACA and 4F-MDMB-BUTINACA) toxicity,,2023
+Alabama,Limestone,2023,September,2023-09-21,,,Christopher Corson,,,,White,,Suicide,Suspected suicide by hanging. Cause of death pending final autopsy and LESD investigation.,,2023
+Alabama,Easterling,2023,September,2023-09-22,,,Bruce Macon,,,,Black,,Accidental/overdose,Cause of death pending final autopsy and LESD investigation.,,2023
+Alabama,Hamilton Aged and Infirmed,2023,September,2023-09-23,,,Arthur Olen Stapler,,,,White,,Natural,Admitted to hospital due to coronary artery disease.  Cause of death congested heart failure..,,2023
+Alabama,St. Clair,2023,September,2023-09-24,,,Sabastian Buckner,,,,Black,,Accidental/overdose,Suspected overdose. Cause of death acute MDMB-4en-PINACA intoxication.,,2023
+Alabama,Ventress,2023,September,2023-09-25,,,Charles Marlin Harris,,,,White,,Accidental/overdose,Combined Fentanyl and Methamphetamine toxicity,,2023
+Alabama,Bullock,2023,September,2023-09-26,,,Barry Montag,,,,White,,Natural,Hypertensive cardiovascular disease.,,2023
+Alabama,Staton,2023,September,2023-09-28,,,Adam Dale Johnson,,,,White,,Natural,Cause of death pending final autopsy and LESD investigation.,,2023
+Alabama,Limestone,2023,September,2023-09-30,,,Eddie Charles Chandler,,,,White,,Natural,Cause of death pending final autopsy and LESD investigation.,,2023
+Alabama,Staton,2023,September,2023-09-30,,,Timothy Neil Walden,,,,White,,Accidental/overdose,Suspected overdose. Cause of death pending final autopsy and LESD investigation.,,2023
+Alabama,Ventress,2023,October,2023-10-01,,,Brian Adam Malloy,,,,White,,Accidental/overdose,(Not in DCRA data),,2023
+Alabama,Ventress,2023,October,2023-10-01,,,Leo Watson,,,,,,Natural,(Not in DCRA data),,2023
+Alabama,Easterling,2023,October,2023-10-02,,,Pierre Jamal Yarbrough,,,,Black,,Accidental/overdose,(Not in DCRA data),,2023
+Alabama,Elmore,2023,October,2023-10-04,,,Brian Rigsby,,,,White,,Natural,(Not in DCRA data but autopsy shows Hepatitus C and liver failure.),,2023
+Alabama,Donaldson,2023,October,2023-10-05,,,Mitchell Crews,,,,Black,,Natural,(Not in DCRA data.),,2023
+Alabama,Staton,2023,October,2023-10-05,,,Marcelino Castillo,,,,White,,Natural,(Not in DCRA data.),,2023
+Alabama,Elmore,2023,October,2023-10-05,,,Anthony Ladell Ware,,,,Black,,Other,(Not in DCRA data),,2023
+Alabama,Limestone,2023,October,2023-10-06,,,Ronald Lane Green,,,,White,,Natural,(Not in DCRA data.),,2023
+Alabama,Limestone,2023,October,2023-10-06,,,Thomas Earl Douglas,,,,White,,Natural,(Not in DCRA data.),,2023
+Alabama,Kilby,2023,October,2023-10-07,,,Jason Kountz,,,,White,,Accidental/overdose,(Not in DCRA data.),,2023
+Alabama,Ventress,2023,October,2023-10-10,,,Louis Christopher Latham,,,,White,,Homicide,Blunt force trauma of head.,,2023
+Alabama,Easterling,2023,October,2023-10-13,,,Lajonas Deshane Powell,,,,Black,,Accidental/overdose,(Not in DCRA data.),,2023
+Alabama,Donaldson,2023,October,2023-10-13,,,Tommy Powell,,,,White,,Natural,(Not in DCRA data),,2023
+Alabama,KIlby,2023,October,2023-10-14,,,Demetric Horsley,,,,Black,,Accidental/overdose,,,2023
+Alabama,Donaldson,2023,October,2023-10-15,,,Cedric Watts,,,,Black,,Homicide,Stabbed.,,2023
+Alabama,Kilby,2023,October,2023-10-17,,,Aaron Watkins,,,,Black,,Undetermined,,,2023
+Alabama,Elmore,2023,October,2023-10-19,,,Christopher Rickman,,,,White,,Accidental/overdose,,,2023
+Alabama,Fountain,2023,October,2023-10-20,,,Robert Eaton,,,,White,,Natural,,,2023
+Alabama,Kilby,2023,October,2023-10-21,,,Brian  Wesley Johnson,,,,White,,Accidental/overdose,,,2023
+Alabama,Limestone,2023,October,2023-10-21,,,Wilson Carr,,,,White,,Natural,,,2023
+Alabama,Fountain,2023,October,2023-10-22,,,Zachary Ellis,,,,White,,Suicide,,,2023
+Alabama,Limestone,2023,October,2023-10-24,,,Carvin Eugene Richardson,,,,White,,Natural,,,2023
+Alabama,Fountain,2023,October,2023-10-25,,,William Gates,,,,White,,Natural,,,2023
+Alabama,Fountain,2023,October,2023-10-26,,,Anthony Harris,,,,Black,,Accidental/overdose,,,2023
+Alabama,Bibb,2023,October,2023-10-30,,,Harry Hamm,,,,White,,Natural,,,2023
+Alabama,Easterling,2023,October,2023-10-30,,,Jason Davis,,,,White,,Accidental/overdose,,,2023
+Alabama,Bullock,2023,October,2023-10-31,,,Titus Williams,,,,Black,,Natural,,,2023
+Alabama,Bibb,2023,November,2023-11-02,,,Isaac Thomas,,,,Black,,Accidental/overdose,,,2023
+Alabama,Hamilton Aged and Infirmed,2023,November,2023-11-04,,,GUISEPPO LOPORTO,,,,White,,Natural,,,2023
+Alabama,Easterling,2023,November,2023-11-04,,,Fred Carter,,,,Black,,Accidental/overdose,,,2023
+Alabama,Staton,2023,November,2023-11-05,,,Lawrence Swain,,,,Black,,Accidental/overdose,,,2023
+Alabama,Elmore,2023,November,2023-11-09,,,DEQUANDRE MARQUAVIOUS Addison,,,,Black,,Accidental/overdose,,,2023
+Alabama,Staton,2023,November,2023-11-09,,,Daniel Terry Williams,,,,White,,Homicide (IOI),Asphyxiation,,2023
+Alabama,Limestone,2023,November,2023-11-10,,,Charles McMillian,,,,Black,,Accidental/overdose,,,2023
+Alabama,Fountain,2023,November,2023-11-10,,,Michael Wade Nicholson,,,,White,,Accidental/overdose,,,2023
+Alabama,Kilby,2023,November,2023-11-12,,,George Edward Wilkinson,,,,White,,Natural,,,2023
+Alabama,Staton,2023,November,2023-11-12,,,Donald Stacey,,,,White,,Natural,,,2023
+Alabama,Kilby,2023,November,2023-11-13,,,Jarvis Felix Terry,,,,White,,Natural,,,2023
+Alabama,St. Clair,2023,November,2023-11-15,,,Randy Carlisle,,,,White,,Natural,,,2023
+Alabama,Ventress,2023,November,2023-11-16,,,Brandon Dotson,,,,White,,Accidental/overdose,,,2023
+Alabama,Holman,2023,November,2023-11-16,,,Casey McWhorter,,,,White,,Execution,Lethal injection,,2023
+Alabama,Staton,2023,November,2023-11-16,,,Darvin Ray Pruitt,,,,White,,natural,,,2023
+Alabama,Tutwiler,2023,November,2023-11-18,,,Betty Stroud Schultz,,,,White,,Natural,,,2023
+Alabama,Kilby,2023,November,2023-11-18,,,William Derek Caraway,,,,White,,Suicide,,,2023
+Alabama,Ventress,2023,November,2023-11-20,,,Robert Thomas Mays,,,,White,,Natural,,,2023
+Alabama,Elmore,2023,November,2023-11-20,,,Darrell Tidwell,,,,White,,Other,,,2023
+Alabama,Donaldson,2023,November,2023-11-22,,,Jason Wayne Brooks,,,,White,,Accidental/overdose,,,2023
+Alabama,Fountain,2023,November,2023-11-23,,,Brian Lowry,,,,White,,Natural,,,2023
+Alabama,Bibb,2023,November,2023-11-23,,,Jeffery Scott Moore,,,,White,,Accidental/overdose,,,2023
+Alabama,Hamilton Aged and Infirmed,2023,November,2023-11-25,,,Randy Galloway,,,,White,,Natural,,,2023
+Alabama,St. Clair,2023,November,2023-11-25,,,Kenneth Tabb,,,,Black,,Natural,,,2023
+Alabama,Bullock,2023,November,2023-11-26,,,Glen Edward Ball,,,,Black,,Accidental/overdose,,,2023
+Alabama,Easterling,2023,November,2023-11-29,,,Shane Allen Simmons,,,,White,,Natural,,,2023
+Alabama,Kilby,2023,December,2023-12-01,,,James Aaron Woodard,,,,White,,Natural,,,2023
+Alabama,Donaldson,2023,December,2023-12-03,,,Doyle Lee  Farr,,,,White,,Natural,,,2023
+Alabama,Kilby,2023,December,2023-12-05,,,Freddie Bryant  Haney,,,,White,,Natural,,,2023
+Alabama,Bullock,2023,December,2023-12-06,,,Billy Ronald East,,,,White,,Natural,,,2023
+Alabama,Bullock,2023,December,2023-12-08,,,Larrius Summers,,,,Black,,Accidental/overdose,,,2023
+Alabama,Bullock,2023,December,2023-12-11,,,Perry Cauthen,,,,Black,,Accidental/overdose,,,2023
+Alabama,Donaldson,2023,December,2023-12-11,,,Larry Amerson,,,,Black,,Accidental/overdose,,,2023
+Alabama,Elmore,2023,December,2023-12-12,,,Derreck Wendell Martin,,,,White,,Homicide,Beaten.,,2023
+Alabama,St. Clair,2023,December,2023-12-12,,,Brian Keith Preston,,,,Black,,Natural,,,2023
+Alabama,Easterling,2023,December,2023-12-12,,,John  B. Harris Jr.,,,,White,,Natural,,,2023
+Alabama,Donaldson,2023,December,2023-12-14,,,Keyonte Ikiem Arrington,,,,Black,,Accidental/overdose,,,2023
+Alabama,Ventress,2023,December,2023-12-15,,,Quenten Vahn Lewis Durgan,,,,Black,,Accidental/overdose,,,2023
+Alabama,Hamilton Aged and Infirmed,2023,December,2023-12-16,,,Reupert Bryan,,,,White,,Natural,,,2023
+Alabama,Bibb,2023,December,2023-12-18,,,Jamarcus Woodard,,,,Black,,Accidental/overdose,,,2023
+Alabama,Limestone,2023,December,2023-12-19,,,Johnny Rivers,,,,Black,,Accidental/overdose,,,2023
+Alabama,Fountain,2023,December,2023-12-20,,,Timothy Nix,,,,White,,Accidental/overdose,,,2023
+Alabama,Bullock,2023,December,2023-12-23,,,DAVID TINSLEY Underwood,,,,White,,Natural,,,2023
+Alabama,Bibb,2023,December,2023-12-24,,,Davon Jamall Warren,,,,Black,,Accidental/overdose,,,2023
+Alabama,Donaldson,2023,December,2023-12-26,,,Eric Payne,,,,Black,,Accidental/overdose,,,2023
+Alabama,Limestone,2023,December,2023-12-27,,,DEMARCUS JAMES McCLOUD,,,,Black,,Natural,,,2023
+Alabama,Bibb,2023,December,2023-12-30,,,Raymond James Phillips,,,,Black,,Accidental/overdose,,,2023
+Alabama,Tutwiler,2023,December,2023-12-30,,,Linda Sue Hooper,,,,White,,Natural,,,2023
+Alabama,Hamilton Aged and Infirmed,2023,December,2023-12-31,,,Bobby Ray Jones,,,,White,,Natural,,,2023
+Alabama,Bibb CF,2024,January,2024-01-01,,,,,,,,,,,,2024
+Alabama,Hamilton A&I,2024,January,2024-01-01,,,,,,,,,,,,2024
+Alabama,Donaldson CF,2024,January,2024-01-01,,,,,,,,,,,,2024
+Alabama,Ventress CF,2024,January,2024-01-02,,,,,,,,,,,,2024
+Alabama,St. Clair CF,2024,January,2024-01-04,,,,,,,,,,,,2024
+Alabama,Bullock CF,2024,January,2024-01-05,,,,,,,,,,,,2024
+Alabama,Hamilton A&I,2024,January,2024-01-07,,,,,,,,,,,,2024
+Alabama,St. Clair CF,2024,January,2024-01-09,,,,,,,,,,,,2024
+Alabama,Kilby CF,2024,January,2024-01-10,,,,,,,,,,,,2024
+Alabama,Bullock CF,2024,January,2024-01-11,,,,,,,,,,,,2024
+Alabama,Staton CF,2024,January,2024-01-12,,,,,,,,,,,,2024
+Alabama,Kilby CF,2024,January,2024-01-12,,,,,,,,,,,,2024
+Alabama,Bibb CF,2024,January,2024-01-13,,,,,,,,,,,,2024
+Alabama,Staton CF,2024,January,2024-01-13,,,,,,,,,,,,2024
+Alabama,Limestone CF,2024,January,2024-01-13,,,,,,,,,,,,2024
+Alabama,St. Clair CF,2024,January,2024-01-14,,,,,,,,,,,,2024
+Alabama,Fountain CF,2024,January,2024-01-17,,,,,,,,,,,,2024
+Alabama,Ventress CF,2024,January,2024-01-17,,,,,,,,,,,,2024
+Alabama,Limestone CF,2024,January,2024-01-20,,,,,,,,,,,,2024
+Alabama,Kilby CF,2024,January,2024-01-21,,,,,,,,,,,,2024
+Alabama,Kilby CF,2024,January,2024-01-23,,,,,,,,,,,,2024
+Alabama,Bullock CF,2024,January,2024-01-23,,,,,,,,,,,,2024
+Alabama,Donaldson CF,2024,January,2024-01-24,,,,,,,,,,,,2024
+Alabama,Donaldson CF,2024,January,2024-01-24,,,,,,,,,,,,2024
+Alabama,St. Clair CF,2024,January,2024-01-25,,,,,,,,,,,,2024
+Alabama,Bibb CF,2024,January,2024-01-25,,,,,,,,,,,,2024
+Alabama,Staton CF,2024,January,2024-01-25,,,,,,,,,,,,2024
+Alabama,Holman CF,2024,January,2024-01-25,,,,,,,,,,,,2024
+Alabama,Limestone CF,2024,January,2024-01-27,,,,,,,,,,,,2024
+Alabama,Bullock CF,2024,January,2024-01-27,,,,,,,,,,,,2024
+Alabama,Elba CWC,2024,January,2024-01-27,,,,,,,,,,,,2024
+Alabama,Easterling CF,2024,January,2024-01-28,,,,,,,,,,,,2024
+Alabama,Staton CF,2024,January,2024-01-28,,,,,,,,,,,,2024
+Alabama,Bullock CF,2024,January,2024-01-31,,,,,,,,,,,,2024
+Alabama,Bibb CF,2024,February,2024-02-01,,,,,,,,,,,,2024
+Alabama,Staton CF,2024,February,2024-02-06,,,,,,,,,,,,2024
+Alabama,Donaldson CF,2024,February,2024-02-10,,,,,,,,,,,,2024
+Alabama,Ventress CF,2024,February,2024-02-10,,,,,,,,,,,,2024
+Alabama,St. Clair CF,2024,February,2024-02-12,,,,,,,,,,,,2024
+Alabama,Limestone CF,2024,February,2024-02-13,,,,,,,,,,,,2024
+Alabama,Donaldson CF,2024,February,2024-02-15,,,,,,,,,,,,2024
+Alabama,Kilby CF,2024,February,2024-02-16,,,,,,,,,,,,2024
+Alabama,Fountain CF,2024,February,2024-02-16,,,,,,,,,,,,2024
+Alabama,Kilby CF,2024,February,2024-02-16,,,,,,,,,,,,2024
+Alabama,St. Clair CF,2024,February,2024-02-21,,,,,,,,,,,,2024
+Alabama,Donaldson CF,2024,February,2024-02-22,,,,,,,,,,,,2024
+Alabama,Donaldson CF,2024,February,2024-02-23,,,,,,,,,,,,2024
+Alabama,Elmore CF,2024,February,2024-02-24,,,,,,,,,,,,2024
+Alabama,Bibb CF,2024,February,2024-02-25,,,,,,,,,,,,2024
+Alabama,Fountain CF,2024,February,2024-02-25,,,,,,,,,,,,2024
+Alabama,Staton CF,2024,February,2024-02-28,,,,,,,,,,,,2024
+Alabama,Ventress CF,2024,February,2024-02-28,,,,,,,,,,,,2024
+Alabama,St. Clair CF,2024,February,2024-02-29,,,,,,,,,,,,2024
+Alabama,Hamilton A&I,2024,March,2024-03-01,,,,,,,,,,,,2024
+Alabama,Staton CF,2024,March,2024-03-02,,,,,,,,,,,,2024
+Alabama,Donaldson CF,2024,March,2024-03-03,,,,,,,,,,,,2024
+Alabama,Staton CF,2024,March,2024-03-05,,,,,,,,,,,,2024
+Alabama,Limestone CF,2024,March,2024-03-05,,,,,,,,,,,,2024
+Alabama,Easterling CF,2024,March,2024-03-06,,,,,,,,,,,,2024
+Alabama,Ventress CF,2024,March,2024-03-06,,,,,,,,,,,,2024
+Alabama,Easterling CF,2024,March,2024-03-07,,,,,,,,,,,,2024
+Alabama,Staton CF,2024,March,2024-03-11,,,,,,,,,,,,2024
+Alabama,Fountain CF,2024,March,2024-03-12,,,,,,,,,,,,2024
+Alabama,St. Clair CF,2024,March,2024-03-13,,,,,,,,,,,,2024
+Alabama,Staton CF,2024,March,2024-03-13,,,,,,,,,,,,2024
+Alabama,Easterling CF,2024,March,2024-03-14,,,,,,,,,,,,2024
+Alabama,North Alabama CWC,2024,March,2024-03-15,,,,,,,,,,,,2024
+Alabama,Staton CF,2024,March,2024-03-15,,,,,,,,,,,,2024
+Alabama,Kilby CF,2024,March,2024-03-15,,,,,,,,,,,,2024
+Alabama,St. Clair CF,2024,March,2024-03-19,,,,,,,,,,,,2024
+Alabama,Tutwiler PFW,2024,March,2024-03-20,,,,,,,,,,,,2024
+Alabama,Tutwiler PFW,2024,March,2024-03-21,,,,,,,,,,,,2024
+Alabama,Kilby CF,2024,March,2024-03-21,,,,,,,,,,,,2024
+Alabama,Kilby CF,2024,March,2024-03-21,,,,,,,,,,,,2024
+Alabama,Limestone CF,2024,March,2024-03-23,,,,,,,,,,,,2024
+Alabama,Hamilton A&I,2024,March,2024-03-23,,,,,,,,,,,,2024
+Alabama,Hamilton A&I,2024,March,2024-03-25,,,,,,,,,,,,2024
+Alabama,Limestone CF,2024,March,2024-03-26,,,,,,,,,,,,2024
+Alabama,Hamilton A&I,2024,March,2024-03-28,,,,,,,,,,,,2024
+Alabama,Limestone CF,2024,March,2024-03-29,,,,,,,,,,,,2024
+Alabama,Kilby CF,2024,March,2024-03-29,,,,,,,,,,,,2024
+Alabama,Donaldson CF,2024,March,2024-03-30,,,,,,,,,,,,2024
+Alabama,Kilby CF,2024,March,2024-03-30,,,,,,,,,,,,2024
+Alabama,Staton CF,2024,March,2024-03-30,,,,,,,,,,,,2024
+Alabama,Fountain CF,2024,April,2024-04-01,,,,,,,,,,,,2024
+Alabama,Limestone CF,2024,April,2024-04-01,,,,,,,,,,,,2024
+Alabama,Kilby CF,2024,April,2024-04-04,,,,,,,,,,,,2024
+Alabama,Tutwiler PFW,2024,April,2024-04-04,,,,,,,,,,,,2024
+Alabama,Ventress CF,2024,April,2024-04-05,,,,,,,,,,,,2024
+Alabama,Kilby CF,2024,April,2024-04-05,,,,,,,,,,,,2024
+Alabama,Limestone CF,2024,April,2024-04-05,,,,,,,,,,,,2024
+Alabama,St. Clair CF,2024,April,2024-04-06,,,,,,,,,,,,2024
+Alabama,Kilby CF,2024,April,2024-04-06,,,,,,,,,,,,2024
+Alabama,St. Clair CF,2024,April,2024-04-07,,,,,,,,,,,,2024
+Alabama,Bibb CF,2024,April,2024-04-10,,,,,,,,,,,,2024
+Alabama,Holman CF,2024,April,2024-04-10,,,,,,,,,,,,2024
+Alabama,Alex City CWC (Inmate 1),2024,April,2024-04-10,,,,,,,,,,,,2024
+Alabama,Alex City CWC (Inmate 2),2024,April,2024-04-10,,,,,,,,,,,,2024
+Alabama,Donaldson CF,2024,April,2024-04-13,,,,,,,,,,,,2024
+Alabama,Bullock CF,2024,April,2024-04-14,,,,,,,,,,,,2024
+Alabama,Limestone CF,2024,April,2024-04-14,,,,,,,,,,,,2024
+Alabama,St. Clair CF,2024,April,2024-04-18,,,,,,,,,,,,2024
+Alabama,Donaldson CF,2024,April,2024-04-20,,,,,,,,,,,,2024
+Alabama,Donaldson CF,2024,April,2024-04-20,,,,,,,,,,,,2024
+Alabama,Kilby CF,2024,April,2024-04-20,,,,,,,,,,,,2024
+Alabama,Bullock CF,2024,April,2024-04-20,,,,,,,,,,,,2024
+Alabama,Limestone CF,2024,April,2024-04-22,,,,,,,,,,,,2024
+Alabama,Limestone CF,2024,April,2024-04-24,,,,,,,,,,,,2024
+Alabama,Bullock CF,2024,April,2024-04-24,,,,,,,,,,,,2024
+Alabama,Kilby CF,2024,April,2024-04-24,,,,,,,,,,,,2024
+Alabama,Limestone CF,2024,April,2024-04-25,,,,,,,,,,,,2024
+Alabama,Donaldson CF,2024,April,2024-04-26,,,,,,,,,,,,2024
+Alabama,Donaldson CF,2024,May,2024-05-02,,,,,,,,,,,,2024
+Alabama,Bullock CF,2024,May,2024-05-03,,,,,,,,,,,,2024
+Alabama,Bullock CF,2024,May,2024-05-03,,,,,,,,,,,,2024
+Alabama,Kilby CF,2024,May,2024-05-04,,,,,,,,,,,,2024
+Alabama,Elmore CF,2024,May,2024-05-05,,,,,,,,,,,,2024
+Alabama,Limestone CF,2024,May,2024-05-08,,,,,,,,,,,,2024
+Alabama,Ventress CF,2024,May,2024-05-08,,,,,,,,,,,,2024
+Alabama,Bibb CF,2024,May,2024-05-08,,,,,,,,,,,,2024
+Alabama,Bullock CF,2024,May,2024-05-12,,,,,,,,,,,,2024
+Alabama,Donaldson CF,2024,May,2024-05-12,,,,,,,,,,,,2024
+Alabama,St. Clair CF,2024,May,2024-05-12,,,,,,,,,,,,2024
+Alabama,St. Clair CF,2024,May,2024-05-12,,,,,,,,,,,,2024
+Alabama,Bullock CF,2024,May,2024-05-13,,,,,,,,,,,,2024
+Alabama,Fountain CF,2024,May,2024-05-14,,,,,,,,,,,,2024
+Alabama,Limestone CF,2024,May,2024-05-15,,,,,,,,,,,,2024
+Alabama,Donaldson CF,2024,May,2024-05-15,,,,,,,,,,,,2024
+Alabama,St. Clair CF,2024,May,2024-05-17,,,,,,,,,,,,2024
+Alabama,Limestone CF,2024,May,2024-05-21,,,,,,,,,,,,2024
+Alabama,Fountain CF,2024,May,2024-05-23,,,,,,,,,,,,2024
+Alabama,Ventress CF,2024,May,2024-05-24,,,,,,,,,,,,2024
+Alabama,Limestone CF,2024,May,2024-05-24,,,,,,,,,,,,2024
+Alabama,Kilby CF,2024,May,2024-05-25,,,,,,,,,,,,2024
+Alabama,Limestone CF,2024,May,2024-05-29,,,,,,,,,,,,2024
+Alabama,Elmore CF,2024,May,2024-05-29,,,,,,,,,,,,2024
+Alabama,Holman CF,2024,May,2024-05-30,,,,,,,,,,,,2024
+Alabama,Bullock CF,2024,May,2024-05-31,,,,,,,,,,,,2024
+Alabama,Fountain CF,2024,June,2024-06-02,,,,,,,,,,,,2024
+Alabama,Staton CF,2024,June,2024-06-03,,,,,,,,,,,,2024
+Alabama,Bullock CF,2024,June,2024-06-04,,,,,,,,,,,,2024
+Alabama,Elmore CF,2024,June,2024-06-04,,,,,,,,,,,,2024
+Alabama,St. Clair CF,2024,June,2024-06-05,,,,,,,,,,,,2024
+Alabama,St. Clair CF,2024,June,2024-06-05,,,,,,,,,,,,2024
+Alabama,ATEF CF,2024,June,2024-06-06,,,,,,,,,,,,2024
+Alabama,Bullock CF,2024,June,2024-06-07,,,,,,,,,,,,2024
+Alabama,Ventress CF,2024,June,2024-06-07,,,,,,,,,,,,2024
+Alabama,Donaldson CF,2024,June,2024-06-07,,,,,,,,,,,,2024
+Alabama,Donaldson CF,2024,June,2024-06-07,,,,,,,,,,,,2024
+Alabama,Fountain CF,2024,June,2024-06-08,,,,,,,,,,,,2024
+Alabama,Donaldson CF,2024,June,2024-06-08,,,,,,,,,,,,2024
+Alabama,Kilby CF,2024,June,2024-06-09,,,,,,,,,,,,2024
+Alabama,Donaldson CF,2024,June,2024-06-09,,,,,,,,,,,,2024
+Alabama,St. Clair CF,2024,June,2024-06-12,,,,,,,,,,,,2024
+Alabama,Bullock CF,2024,June,2024-06-17,,,,,,,,,,,,2024
+Alabama,St. Clair CF,2024,June,2024-06-18,,,,,,,,,,,,2024
+Alabama,St. Clair CF,2024,June,2024-06-19,,,,,,,,,,,,2024
+Alabama,Bibb CF,2024,June,2024-06-19,,,,,,,,,,,,2024
+Alabama,Hamilton A&I,2024,June,2024-06-19,,,,,,,,,,,,2024
+Alabama,Kilby CF,2024,June,2024-06-19,,,,,,,,,,,,2024
+Alabama,Elmore CF,2024,June,2024-06-20,,,,,,,,,,,,2024
+Alabama,Kilby CF,2024,June,2024-06-26,,,,,,,,,,,,2024
+Alabama,Limestone CF,2024,June,2024-06-28,,,,,,,,,,,,2024
+Alabama,Kilby CF,2024,June,2024-06-30,,,,,,,,,,,,2024
+Alabama,Kilby CF,2024,July,2024-07-01,,,,,,,,,,,,2024
+Alabama,St. Clair CF,2024,July,2024-07-03,,,,,,,,,,,,2024
+Alabama,Holman CF,2024,July,2024-07-18,,,,,,,,,,,,2024
+Alabama,Elmore CF,2024,July,2024-07-19,,,,,,,,,,,,2024
+Alabama,Hamilton A&I,2024,July,2024-07-20,,,,,,,,,,,,2024
+Alabama,Ventress CF,2024,July,2024-07-23,,,,,,,,,,,,2024
+Alabama,St. Clair CF,2024,July,2024-07-23,,,,,,,,,,,,2024
+Alabama,Easterling CF,2024,July,2024-07-24,,,,,,,,,,,,2024
+Alabama,Kilby CF,2024,July,2024-07-25,,,,,,,,,,,,2024
+Alabama,Limestone CF,2024,July,2024-07-29,,,,,,,,,,,,2024
+Alabama,St. Clair CF,2024,August,2024-08-03,,,,,,,,,,,,2024
+Alabama,Limestone CF,2024,August,2024-08-04,,,,,,,,,,,,2024
+Alabama,Fountain CF,2024,August,2024-08-04,,,,,,,,,,,,2024
+Alabama,Tutwiler PFW CF,2024,August,2024-08-05,,,,,,,,,,,,2024
+Alabama,Kilby CF,2024,August,2024-08-06,,,,,,,,,,,,2024
+Alabama,St. Clair CF,2024,August,2024-08-09,,,,,,,,,,,,2024
+Alabama,Donaldson CF,2024,August,2024-08-12,,,,,,,,,,,,2024
+Alabama,Donaldson CF,2024,August,2024-08-14,,,,,,,,,,,,2024
+Alabama,St. Clair CF,2024,August,2024-08-14,,,,,,,,,,,,2024
+Alabama,Donaldson CF,2024,August,2024-08-18,,,,,,,,,,,,2024
+Alabama,Tutwiler PFW,2024,August,2024-08-18,,,,,,,,,,,,2024
+Alabama,Ventress CF,2024,August,2024-08-18,,,,,,,,,,,,2024
+Alabama,Kilby CF,2024,August,2024-08-19,,,,,,,,,,,,2024
+Alabama,Holman CF,2024,August,2024-08-20,,,,,,,,,,,,2024
+Alabama,Ventress CF,2024,August,2024-08-21,,,,,,,,,,,,2024
+Alabama,Limestone CF,2024,August,2024-08-21,,,,,,,,,,,,2024
+Alabama,Limestone CF,2024,August,2024-08-22,,,,,,,,,,,,2024
+Alabama,Elmore CF,2024,August,2024-08-25,,,,,,,,,,,,2024
+Alabama,Kilby CF,2024,August,2024-08-26,,,,,,,,,,,,2024
+Alabama,Bibb CF,2024,August,2024-08-27,,,,,,,,,,,,2024
+Alabama,Fountain CF,2024,August,2024-08-28,,,,,,,,,,,,2024
+Alabama,Ventress CF,2024,August,2024-08-29,,,,,,,,,,,,2024
+Alabama,Limestone CF,2024,September,2024-09-02,,,,,,,,,,,,2024
+Alabama,Fountain CF,2024,September,2024-09-08,,,,,,,,,,,,2024
+Alabama,Ventress CF,2024,September,2024-09-09,,,,,,,,,,,,2024
+Alabama,St. Clair CF,2024,September,2024-09-14,,,,,,,,,,,,2024
+Alabama,St. Clair CF,2024,September,2024-09-15,,,,,,,,,,,,2024
+Alabama,Limestone CF,2024,September,2024-09-17,,,,,,,,,,,,2024
+Alabama,Tutwiler PFW,2024,September,2024-09-17,,,,,,,,,,,,2024
+Alabama,Ventress CF,2024,September,2024-09-21,,,,,,,,,,,,2024
+Alabama,Fountain CF,2024,September,2024-09-23,,,,,,,,,,,,2024
+Alabama,Bullock CF,2024,September,2024-09-25,,,,,,,,,,,,2024
+Alabama,Bibb CF,2024,September,2024-09-26,,,,,,,,,,,,2024
+Alabama,Holman CF,2024,September,2024-09-26,,,,,,,,,,,,2024
+Alabama,Easterling CF,2024,September,2024-09-27,,,,,,,,,,,,2024
+Alabama,Bullock CF,2024,September,2024-09-28,,,,,,,,,,,,2024
+Alabama,Ventress CF,2024,September,2024-09-29,,,,,,,,,,,,2024
+Alabama,Limestone CF,2024,September,2024-09-30,,,,,,,,,,,,2024
+Alabama,Hamilton A&I,2024,September,2024-09-30,,,,,,,,,,,,2024
+Alabama,Bibb CF,2024,September,2024-09-30,,,,,,,,,,,,2024
+Alabama,Kilby CF,2024,October,2024-10-02,,,,,,,,,,,,2024
+Alabama,Bibb CF,2024,October,2024-10-02,,,,,,,,,,,,2024
+Alabama,Kilby CF,2024,October,2024-10-04,,,,,,,,,,,,2024
+Alabama,Bibb CF,2024,October,2024-10-05,,,,,,,,,,,,2024
+Alabama,Bullock CF,2024,October,2024-10-08,,,,,,,,,,,,2024
+Alabama,Staton CF,2024,October,2024-10-09,,,,,,,,,,,,2024
+Alabama,Mobile WR,2024,October,2024-10-10,,,,,,,,,,,,2024
+Alabama,Bullock CF,2024,October,2024-10-10,,,,,,,,,,,,2024
+Alabama,Fountain CF,2024,October,2024-10-15,,,,,,,,,,,,2024
+Alabama,Holman CF,2024,October,2024-10-17,,,,,,,,,,,,2024
+Alabama,Bullock CF,2024,October,2024-10-18,,,,,,,,,,,,2024
+Alabama,Ventress CF,2024,October,2024-10-18,,,,,,,,,,,,2024
+Alabama,St. Clair CF,2024,October,2024-10-20,,,,,,,,,,,,2024
+Alabama,Fountain CF,2024,October,2024-10-24,,,,,,,,,,,,2024
+Alabama,Limestone CF,2024,October,2024-10-26,,,,,,,,,,,,2024
+Alabama,Elmore CF,2024,October,2024-10-27,,,,,,,,,,,,2024
+Alabama,Easterling CF,2024,October,2024-10-27,,,,,,,,,,,,2024
+Alabama,St. Clair CF,2024,October,2024-10-28,,,,,,,,,,,,2024
+Alabama,Kilby CF,2024,October,2024-10-30,,,,,,,,,,,,2024
+Alabama,Kilby CF,2024,November,2024-11-01,,,,,,,,,,,,2024
+Alabama,Bullock CF,2024,November,2024-11-01,,,,,,,,,,,,2024
+Alabama,St. Clair CF,2024,November,2024-11-02,,,,,,,,,,,,2024
+Alabama,Fountain CF,2024,November,2024-11-05,,,,,,,,,,,,2024
+Alabama,Bibb CF,2024,November,2024-11-05,,,,,,,,,,,,2024
+Alabama,Donaldson CF,2024,November,2024-11-06,,,,,,,,,,,,2024
+Alabama,Limestone CF,2024,November,2024-11-07,,,,,,,,,,,,2024
+Alabama,St. Clair CF,2024,November,2024-11-09,,,,,,,,,,,,2024
+Alabama,Kilby CF,2024,November,2024-11-10,,,,,,,,,,,,2024
+Alabama,Bullock CF,2024,November,2024-11-12,,,,,,,,,,,,2024
+Alabama,Hamilton A&I,2024,November,2024-11-12,,,,,,,,,,,,2024
+Alabama,Limestone CF,2024,November,2024-11-13,,,,,,,,,,,,2024
+Alabama,Elmore CF,2024,November,2024-11-14,,,,,,,,,,,,2024
+Alabama,Limestone CF,2024,November,2024-11-14,,,,,,,,,,,,2024
+Alabama,Hamilton A&I,2024,November,2024-11-17,,,,,,,,,,,,2024
+Alabama,Limestone CF,2024,November,2024-11-17,,,,,,,,,,,,2024
+Alabama,St. Clair CF,2024,November,2024-11-18,,,,,,,,,,,,2024
+Alabama,Holman CF,2024,November,2024-11-21,,,,,,,,,,,,2024
+Alabama,Fountain CF,2024,November,2024-11-22,,,,,,,,,,,,2024
+Alabama,Bullock CF,2024,November,2024-11-23,,,,,,,,,,,,2024
+Alabama,Bibb CF,2024,November,2024-11-23,,,,,,,,,,,,2024
+Alabama,Limestone CF,2024,November,2024-11-23,,,,,,,,,,,,2024
+Alabama,St. Clair CF,2024,November,2024-11-24,,,,,,,,,,,,2024
+Alabama,Hamilton A&I,2024,November,2024-11-28,,,,,,,,,,,,2024
+Alabama,Kilby CF,2024,November,2024-11-29,,,,,,,,,,,,2024
+Alabama,Bibb CF,2024,November,2024-11-30,,,,,,,,,,,,2024
+Alabama,Easterling CF,2024,December,2024-12-02,,,,,,,,,,,,2024
+Alabama,Kilby CF,2024,December,2024-12-03,,,,,,,,,,,,2024
+Alabama,Kilby CF,2024,December,2024-12-04,,,,,,,,,,,,2024
+Alabama,Limestone CF,2024,December,2024-12-04,,,,,,,,,,,,2024
+Alabama,Bullock CF,2024,December,2024-12-09,,,,,,,,,,,,2024
+Alabama,St. Clair CF,2024,December,2024-12-11,,,,,,,,,,,,2024
+Alabama,Hamilton A&I,2024,December,2024-12-14,,,,,,,,,,,,2024
+Alabama,St. Clair CF,2024,December,2024-12-16,,,,,,,,,,,,2024
+Alabama,Tutwiler PFW,2024,December,2024-12-16,,,,,,,,,,,,2024
+Alabama,Fountain CF,2024,December,2024-12-16,,,,,,,,,,,,2024
+Alabama,Bullock CF,2024,December,2024-12-18,,,,,,,,,,,,2024
+Alabama,Kilby CF,2024,December,2024-12-19,,,,,,,,,,,,2024
+Alabama,Kilby CF,2024,December,2024-12-21,,,,,,,,,,,,2024
+Alabama,Holman CF,2024,December,2024-12-23,,,,,,,,,,,,2024
+Alabama,Ventress CF,2024,December,2024-12-23,,,,,,,,,,,,2024
+Alabama,Hamilton A&I,2024,December,2024-12-25,,,,,,,,,,,,2024
+Alabama,Staton CF,2024,December,2024-12-28,,,,,,,,,,,,2024
+Alabama,Bullock CF,2024,December,2024-12-29,,,,,,,,,,,,2024

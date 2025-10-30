@@ -19,15 +19,15 @@ read_mci_19 <- function() {
     
     suppressMessages(
         mci.19 <- 'Data/External/msfp0119stt14_cleaned.csv' %>%
-        read_csv()
+            read_csv()
     )
     mci.19
 }
 
 read_nps_20 <- function() {
     suppressMessages(
-    nps.20 <- 'Data/External/p20stt09_cleaned.csv' %>%
-        read_csv()
+        nps.20 <- 'Data/External/p20stt09_cleaned.csv' %>%
+            read_csv()
     )
     
     nps.20
@@ -43,8 +43,8 @@ read_bjs <- function(all.agencies, agencies, source) {
     
     ## Prep MCI Data
     if(source == 'NPS+MCI'){
-    mci.clean <- mci.19 %>%
-                 subset(Year != 2019)
+        mci.clean <- mci.19 %>%
+            subset(Year != 2019)
     }
     if(source == 'MCI'){
         mci.clean <- mci.19 
@@ -52,24 +52,24 @@ read_bjs <- function(all.agencies, agencies, source) {
     
     ## Prep NPS Data
     suppressMessages(suppressWarnings(
-    nps.clean <- nps.20 %>%
-                 select(State, Deaths.2019, Deaths.2020) %>%
-                 melt(id.vars = 'State', measure.vars = c('Deaths.2019', 'Deaths.2020')) %>%
-                 mutate(Year = as.numeric(str_replace_all(variable, '.*\\.', '')),
-                        Total.Deaths = value) %>%
-                 select(c(State, Year, Total.Deaths)) 
+        nps.clean <- nps.20 %>%
+            select(State, Deaths.2019, Deaths.2020) %>%
+            melt(id.vars = 'State', measure.vars = c('Deaths.2019', 'Deaths.2020')) %>%
+            mutate(Year = as.numeric(str_replace_all(variable, '.*\\.', '')),
+                   Total.Deaths = value) %>%
+            select(c(State, Year, Total.Deaths)) 
     ))  
     
     ## Combine Data
     if(source == 'NPS+MCI'){
-    bjs.data <- mci.clean %>%
-                rbind(nps.clean)
+        bjs.data <- mci.clean %>%
+            rbind(nps.clean)
     }
     if(source == 'MCI'){
         bjs.data <- mci.clean 
     }
     
-
+    
     ## Make State Dataframe
     states <- data.frame(State.Abb = state.abb,
                          State = state.name)
@@ -82,7 +82,7 @@ read_bjs <- function(all.agencies, agencies, source) {
     
     if(all.agencies == FALSE) {
         bjs.out <- bjs.data %>%
-                   left_join(., states, by = c('State')) 
+            left_join(., states, by = c('State')) 
         bjs.out <- bjs.out[bjs.out$State.Abb %in% agencies,]
     }
     
@@ -116,9 +116,9 @@ sum.to.year <- function(x) {
         as.data.frame() %>%
         plyr::rename(c('.' = 'cols')) %>%
         subset(cols != 'Month' & cols != 'Total.Deaths' & cols != 'Death.Date' &
-               cols != 'ID.No' & cols != 'Full.Name' & cols != 'Last.Name' & 
-               cols != 'First.Name' & cols != 'Death.Age' & cols != 'DoB.Year' &
-               cols != 'DoB' & cols != 'Location') 
+                   cols != 'ID.No' & cols != 'Full.Name' & cols != 'Last.Name' & 
+                   cols != 'First.Name' & cols != 'Death.Age' & cols != 'DoB.Year' &
+                   cols != 'DoB' & cols != 'Location') 
     group.cols <- group.cols$cols 
     if(!('Total.Deaths' %in% data.cols)) {
         out <- read %>%
@@ -130,7 +130,7 @@ sum.to.year <- function(x) {
         out <- read %>%
             group_by(across(all_of(group.cols))) %>%
             summarise(Total.Deaths = sum(Total.Deaths, na.rm = TRUE))
-            
+        
     }
     out
 }
@@ -218,8 +218,8 @@ only.year.individual <- function(x) {
 # Read to Year aggregate function (default operation)
 read_to_year <- function(file.base) {
     file.list <- file.base %>%
-                 mutate(Files = str_c('Data/Raw/Deaths/', Data.Type, '/', Files)) 
-                 
+        mutate(Files = str_c('Data/Raw/Deaths/', Data.Type, '/', Files)) 
+    
     # Prepare Annual Data
     year.data <- file.list %>%
         subset(Data.Type == 'Annual')
@@ -229,7 +229,7 @@ read_to_year <- function(file.base) {
     # Prepare Monthly Data
     month.data <- file.list %>%
         subset(Data.Type == 'Monthly')
-
+    
     month.list <- lapply(month.data$Files, only.year.month)
     month.out <- rbindlist(month.list, fill = TRUE)
     # Prepare Individual Data
@@ -251,25 +251,25 @@ read_CMP_deaths <- function(all.agencies = FALSE, agencies) {
     states <- data.frame(State.Abb = state.abb,
                          State.Name = state.name)
     annual.files <- 'Deaths/Annual' %>%
-                    pull_raw_files()
+        pull_raw_files()
     monthly.files <- 'Deaths/Monthly' %>%
-                     pull_raw_files()
+        pull_raw_files()
     individual.files <- 'Deaths/Individual' %>%
-                        pull_raw_files()
+        pull_raw_files()
     all.files <- annual.files %>%
-                 plyr::rbind.fill(monthly.files) %>%
-                 plyr::rbind.fill(individual.files) %>%
-                 mutate(State.Abb = str_replace_all(Files, '-.*', ''),
-                        Data.Type = str_replace_all(Files, '.*-', ''),
-                        Data.Type = str_replace_all(Data.Type, '\\..*', ''),
-                        Data.Type = ifelse(str_detect(Data.Type, 'Yearly'), 'Annual', Data.Type)) %>%
-                 left_join(., states, by = c('State.Abb')) 
+        plyr::rbind.fill(monthly.files) %>%
+        plyr::rbind.fill(individual.files) %>%
+        mutate(State.Abb = str_replace_all(Files, '-.*', ''),
+               Data.Type = str_replace_all(Files, '.*-', ''),
+               Data.Type = str_replace_all(Data.Type, '\\..*', ''),
+               Data.Type = ifelse(str_detect(Data.Type, 'Yearly'), 'Annual', Data.Type)) %>%
+        left_join(., states, by = c('State.Abb')) 
     
     # User wants all potential decedent data
     if(all.agencies == TRUE) {
-    suppressMessages(output.deaths <- all.files %>%
-                     read_to_year())
-    print('Summarized by years of data available for all agencies')
+        suppressMessages(output.deaths <- all.files %>%
+                             read_to_year())
+        print('Summarized by years of data available for all agencies')
     }
     
     # User wants decedent data from specific states
@@ -291,76 +291,76 @@ read_CMP_deaths <- function(all.agencies = FALSE, agencies) {
         ## Check for levels in data to aggregate to same level
         # For all three levels
         suppressMessages(
-        if(('Annual' %in% file.list$Data.Type) &
-           ('Monthly' %in% file.list$Data.Type) &
-           ('Individual' %in% file.list$Data.Type)) {
-           output.list <- lapply(file.list$Files, sum.to.year)
-           output.deaths <- rbindlist(output.list, fill = TRUE)
-           print(str_c('Aggregated annually: ', paste0(agencies, collapse = ', ')))
-        })
+            if(('Annual' %in% file.list$Data.Type) &
+               ('Monthly' %in% file.list$Data.Type) &
+               ('Individual' %in% file.list$Data.Type)) {
+                output.list <- lapply(file.list$Files, sum.to.year)
+                output.deaths <- rbindlist(output.list, fill = TRUE)
+                print(str_c('Aggregated annually: ', paste0(agencies, collapse = ', ')))
+            })
         # For yearly only
         suppressMessages(
-        if(('Annual' %in% file.list$Data.Type) &
-           !('Monthly' %in% file.list$Data.Type) &
-           !('Individual' %in% file.list$Data.Type)) {
-            output.list <- lapply(file.list$Files, sum.to.year)
-            output.deaths <- rbindlist(output.list, fill = TRUE)
-            print(str_c('Aggregated annually: ', paste0(agencies, collapse = ', ')))
-        })
+            if(('Annual' %in% file.list$Data.Type) &
+               !('Monthly' %in% file.list$Data.Type) &
+               !('Individual' %in% file.list$Data.Type)) {
+                output.list <- lapply(file.list$Files, sum.to.year)
+                output.deaths <- rbindlist(output.list, fill = TRUE)
+                print(str_c('Aggregated annually: ', paste0(agencies, collapse = ', ')))
+            })
         # For monthly only
         suppressMessages(
-        if(!('Annual' %in% file.list$Data.Type) &
-           ('Monthly' %in% file.list$Data.Type) &
-           !('Individual' %in% file.list$Data.Type)) {
-            output.list <- lapply(file.list$Files, sum.to.month)
-            output.deaths <- rbindlist(output.list, fill = TRUE)
-            print(str_c('Aggregated monthly: ', paste0(agencies, collapse = ', ')))
-        })
+            if(!('Annual' %in% file.list$Data.Type) &
+               ('Monthly' %in% file.list$Data.Type) &
+               !('Individual' %in% file.list$Data.Type)) {
+                output.list <- lapply(file.list$Files, sum.to.month)
+                output.deaths <- rbindlist(output.list, fill = TRUE)
+                print(str_c('Aggregated monthly: ', paste0(agencies, collapse = ', ')))
+            })
         # For individual only
         suppressMessages(
-        if(!('Annual' %in% file.list$Data.Type) &
-           !('Monthly' %in% file.list$Data.Type) &
-           ('Individual' %in% file.list$Data.Type)) {
-            output.list <- lapply(file.list$Files, read.csv)
-            output.deaths <- rbindlist(output.list, fill = TRUE)
-            print(str_c('All individual level, no aggregation: ', paste0(agencies, collapse = ', ')))
-        })
+            if(!('Annual' %in% file.list$Data.Type) &
+               !('Monthly' %in% file.list$Data.Type) &
+               ('Individual' %in% file.list$Data.Type)) {
+                output.list <- lapply(file.list$Files, read.csv)
+                output.deaths <- rbindlist(output.list, fill = TRUE)
+                print(str_c('All individual level, no aggregation: ', paste0(agencies, collapse = ', ')))
+            })
         # For yearly and monthly
         suppressMessages(
-        if(('Annual' %in% file.list$Data.Type) &
-           ('Monthly' %in% file.list$Data.Type) &
-           !('Individual' %in% file.list$Data.Type)){
-            output.list <- lapply(file.list$Files, sum.to.year)
-            output.deaths <- rbindlist(output.list, fill = TRUE)
-            print(str_c('Aggregated annually: : ', paste0(agencies, collapse = ', ')))
-        })
+            if(('Annual' %in% file.list$Data.Type) &
+               ('Monthly' %in% file.list$Data.Type) &
+               !('Individual' %in% file.list$Data.Type)){
+                output.list <- lapply(file.list$Files, sum.to.year)
+                output.deaths <- rbindlist(output.list, fill = TRUE)
+                print(str_c('Aggregated annually: : ', paste0(agencies, collapse = ', ')))
+            })
         # For monthly and individual
         suppressMessages(
-        if(!('Annual' %in% file.list$Data.Type) &
-           ('Monthly' %in% file.list$Data.Type) &
-           ('Individual' %in% file.list$Data.Type)) {
-            output.list <- lapply(file.list$Files, sum.to.month)
-            output.deaths <- rbindlist(output.list, fill = TRUE)
-            print(str_c('Aggregated monthly: : ', paste0(agencies, collapse = ', ')))
-        })
+            if(!('Annual' %in% file.list$Data.Type) &
+               ('Monthly' %in% file.list$Data.Type) &
+               ('Individual' %in% file.list$Data.Type)) {
+                output.list <- lapply(file.list$Files, sum.to.month)
+                output.deaths <- rbindlist(output.list, fill = TRUE)
+                print(str_c('Aggregated monthly: : ', paste0(agencies, collapse = ', ')))
+            })
     }
     output.deaths
 }
-    
+
 ## Compare Annual BJS Numbers with Aggregated CMP numbers -----------------
 
 compare_CMP_bjs <- function(source) {
     bjs.data <- read_bjs(all.agencies = TRUE, source = source) 
     bjs.data <- bjs.data %>%
-                plyr::rename(c('Total.Deaths' = 'BJS.Deaths'))
+        plyr::rename(c('Total.Deaths' = 'BJS.Deaths'))
     CMP.data <- read_CMP_deaths(all.agencies = TRUE) 
     CMP.data <- CMP.data %>%
-                 plyr::rename(c('Total.Deaths' = 'CMP.Deaths'))
+        plyr::rename(c('Total.Deaths' = 'CMP.Deaths'))
     joined.data <- CMP.data %>%
-                   left_join(., bjs.data, by = c('State', 'Year')) %>%
-                   mutate(Absolute.Difference = abs(CMP.Deaths-BJS.Deaths)) %>%
-                   subset(Year < 2021) %>%
-                   arrange(desc(Absolute.Difference))
+        left_join(., bjs.data, by = c('State', 'Year')) %>%
+        mutate(Absolute.Difference = abs(CMP.Deaths-BJS.Deaths)) %>%
+        subset(Year < 2021) %>%
+        arrange(desc(Absolute.Difference))
     joined.data
     
 }
@@ -377,7 +377,7 @@ read_CMP_dem <- function(all.agencies, agencies) {
         pull_raw_files()
     
     all.files <- combined.files %>%
-                 plyr::rbind.fill(distinct.files) %>%
+        plyr::rbind.fill(distinct.files) %>%
         mutate(State.Abb = str_replace_all(Files, '-.*', ''),
                Data.Type = str_replace_all(Files, '.*-', ''),
                Data.Type = str_replace_all(Data.Type, '\\.csv', ''),
@@ -386,10 +386,10 @@ read_CMP_dem <- function(all.agencies, agencies) {
         mutate(Files = str_c('Data/Raw/Demographics/', Data.Category, '/', Files)) 
     
     dem.pull <- all.files %>%
-                pull_dem() %>%
-                select(-c(State.Abb)) %>%
-                left_join(states, by = c('State')) %>%
-                select(State, State.Abb, Date, Sex.Group, Age.Group, Number, Origin.Type)
+        pull_dem() %>%
+        select(-c(State.Abb)) %>%
+        left_join(states, by = c('State')) %>%
+        select(State, State.Abb, Date, Sex.Group, Age.Group, Number, Origin.Type)
     
     if(all.agencies == TRUE){
         print('Pulling CMP demographic data for all agencies')
@@ -411,32 +411,32 @@ read_CMP_dem <- function(all.agencies, agencies) {
 pull_dem <- function(file.base) {
     states.clean <- data.frame(State = state.name, State.Abb = state.abb) 
     combined <- file.base %>%
-                subset(Data.Category == 'Combined')
+        subset(Data.Category == 'Combined')
     combined.list <- lapply(combined$Files, read.csv)
     combined.out <- rbindlist(combined.list, fill = TRUE)
     combined.out <- combined.out %>%
-                    mutate(Origin.Type = 'Combined') %>%
-                    select(-c(State.Abb)) %>%
-                    left_join(., states.clean, by = c('State'))
+        mutate(Origin.Type = 'Combined') %>%
+        select(-c(State.Abb)) %>%
+        left_join(., states.clean, by = c('State'))
     
     distinct <- file.base %>%
-                select(-c(State.Abb)) %>%
-                left_join(., states.clean, by = c('State')) %>%
-                subset(Data.Category == 'Distinct' & State.Abb != 'WV' & State.Abb != 'WA') 
+        select(-c(State.Abb)) %>%
+        left_join(., states.clean, by = c('State')) %>%
+        subset(Data.Category == 'Distinct' & State.Abb != 'WV' & State.Abb != 'WA') 
     # Currently excluding WV and WA for lack of explanatory value with non-demographic decedent data and differing dates for 
     # demographic data sources
     distinct.list <- lapply(distinct$Files, read.csv)
     distinct.out <- rbindlist(distinct.list, fill = TRUE)
     distinct.out <- distinct.out %>%
-                    #select(-c(State.Abb)) %>%
-                    left_join(., states.clean, by = c('State'))
+        #select(-c(State.Abb)) %>%
+        left_join(., states.clean, by = c('State'))
     
     sex.totals <- distinct.out %>%
-              subset(is.na(Age.Group) | is.na(Sex.Group)) %>%
-              mutate(Marker = ifelse(is.na(Age.Group), 'Sex', 'Age')) %>%
-              subset(Marker == 'Sex') %>%
-              group_by(Date, State) %>%
-              summarise(Total = sum(Number))
+        subset(is.na(Age.Group) | is.na(Sex.Group)) %>%
+        mutate(Marker = ifelse(is.na(Age.Group), 'Sex', 'Age')) %>%
+        subset(Marker == 'Sex') %>%
+        group_by(Date, State) %>%
+        summarise(Total = sum(Number))
     new.percent <- distinct.out %>%
         subset(is.na(Age.Group) | is.na(Sex.Group)) %>%
         mutate(Marker = ifelse(is.na(Age.Group), 'Sex', 'Age')) %>%
@@ -456,7 +456,7 @@ pull_dem <- function(file.base) {
         select(State, Date, Age.Group, Sex.Group, Number, Percent, Origin.Type, Source)
     
     demographics.combined <- combined.out %>%
-                             plyr::rbind.fill(distinct.clean)
+        plyr::rbind.fill(distinct.clean)
     demographics.combined
     
     
@@ -475,15 +475,15 @@ harmonize_CMP_deaths <- function(agencies) {
     
     if(!('Sex' %in% colnames(CMP.deaths))) {
         CMP.deaths <- CMP.deaths %>%
-                       mutate(Sex = NA)
+            mutate(Sex = NA)
     }
     
     CMP.deaths.i <- CMP.deaths %>%
-                    mutate(Sex = ifelse(str_detect(Sex, 'F'), 'Female', Sex),
-                           Sex = ifelse((Sex != 'Female' & !is.na(Sex)), 'Male', Sex)) # Harmonize sex
+        mutate(Sex = ifelse(str_detect(Sex, 'F'), 'Female', Sex),
+               Sex = ifelse((Sex != 'Female' & !is.na(Sex)), 'Male', Sex)) # Harmonize sex
     if(!('DoB.Year' %in% colnames(CMP.deaths.i)) & !('Death.Age' %in% colnames(CMP.deaths.i))) {
         CMP.deaths.i <- CMP.deaths.i %>%
-                         mutate(DoB.Year = NA)
+            mutate(DoB.Year = NA)
     } 
     
     if(!('DoB' %in% colnames(CMP.deaths.i)) & 'Death.Age' %in% colnames(CMP.deaths.i)) {
@@ -504,50 +504,50 @@ harmonize_CMP_deaths <- function(agencies) {
     
     if(!('Death.Age' %in% colnames(CMP.deaths.i))) {
         CMP.deaths.i <- CMP.deaths.i %>%
-                         mutate(Death.Age = NA) 
+            mutate(Death.Age = NA) 
     } 
     
     CMP.deaths.h <- CMP.deaths.i %>%
-                    mutate(DoB.Year = str_c(str_c(DoB.Year, '-01', '-01')),
-                           DoB.Combined = coalesce(DoB, DoB.Year)) %>%
-                    mutate(Death.Age = ifelse((is.na(Death.Age) & !is.na(DoB.Combined)), (as.Date(Death.Date, format = '%Y-%m-%d') - as.Date(DoB.Combined, format = '%Y-%m-%d'))/365, Death.Age))
+        mutate(DoB.Year = str_c(str_c(DoB.Year, '-01', '-01')),
+               DoB.Combined = coalesce(DoB, DoB.Year)) %>%
+        mutate(Death.Age = ifelse((is.na(Death.Age) & !is.na(DoB.Combined)), (as.Date(Death.Date, format = '%Y-%m-%d') - as.Date(DoB.Combined, format = '%Y-%m-%d'))/365, Death.Age))
     
     CMP.dem.h <- CMP.dem %>%
-                  plyr::rename(c('Sex.Group' = 'Sex')) %>%
-                  mutate(Sex = ifelse(str_detect(Sex, 'F'), 'Female', Sex),
-                         Sex = ifelse((Sex != 'Female' & Sex != 'B'), 'Male', Sex),
-                         Sex = ifelse(Sex == 'B', NA, Sex)) %>% # Harmonize sex
-                  plyr::rename(c('Age.Group' = 'Age')) %>%
-                  mutate(Start.Age = case_when(str_detect(Age, 'nder') ~ '0',
-                                               str_detect(Age, '-') ~ str_replace_all(Age, '-.*', ''),
-                                               str_detect(Age, 'bove') ~ str_replace_all(Age, '[^0-9.-]', ''),
-                                               str_detect(Age, 'ver') ~ str_replace_all(Age, '[^0-9.-]', ''),
-                                               str_detect(Age, '\\+') ~ str_replace_all(Age, '[^0-9.-]', ''),
-                                               (str_length(Age) == 2) ~ Age
-                                               ),
-                         Start.Age = as.numeric(Start.Age),
-                         End.Age = case_when(str_detect(Age, 'bove') ~ '120',
-                                             str_detect(Age, 'ver') ~ '120',
-                                             str_detect(Age, '\\+') ~'120',
-                                             str_detect(Age, 'Under') ~ str_replace_all(Age, '[^0-9.-]', ''),
-                                             str_detect(Age, 'under') ~ str_replace_all(Age, '[^0-9.-]', ''),
-                                             str_detect(Age, '-') ~ str_replace_all(Age, '.*-', ''),
-                                             (str_length(Age) == 2) ~ Age
-                                             ),
-                         End.Age = as.numeric(End.Age),
-                         Standard.Groups = str_c(as.character(Start.Age), '-', as.character(End.Age)))
+        plyr::rename(c('Sex.Group' = 'Sex')) %>%
+        mutate(Sex = ifelse(str_detect(Sex, 'F'), 'Female', Sex),
+               Sex = ifelse((Sex != 'Female' & Sex != 'B'), 'Male', Sex),
+               Sex = ifelse(Sex == 'B', NA, Sex)) %>% # Harmonize sex
+        plyr::rename(c('Age.Group' = 'Age')) %>%
+        mutate(Start.Age = case_when(str_detect(Age, 'nder') ~ '0',
+                                     str_detect(Age, '-') ~ str_replace_all(Age, '-.*', ''),
+                                     str_detect(Age, 'bove') ~ str_replace_all(Age, '[^0-9.-]', ''),
+                                     str_detect(Age, 'ver') ~ str_replace_all(Age, '[^0-9.-]', ''),
+                                     str_detect(Age, '\\+') ~ str_replace_all(Age, '[^0-9.-]', ''),
+                                     (str_length(Age) == 2) ~ Age
+        ),
+        Start.Age = as.numeric(Start.Age),
+        End.Age = case_when(str_detect(Age, 'bove') ~ '120',
+                            str_detect(Age, 'ver') ~ '120',
+                            str_detect(Age, '\\+') ~'120',
+                            str_detect(Age, 'Under') ~ str_replace_all(Age, '[^0-9.-]', ''),
+                            str_detect(Age, 'under') ~ str_replace_all(Age, '[^0-9.-]', ''),
+                            str_detect(Age, '-') ~ str_replace_all(Age, '.*-', ''),
+                            (str_length(Age) == 2) ~ Age
+        ),
+        End.Age = as.numeric(End.Age),
+        Standard.Groups = str_c(as.character(Start.Age), '-', as.character(End.Age)))
     
     dem.group.frame <- CMP.dem.h %>%
         select(State, Start.Age, End.Age, Standard.Groups) %>%
         unique()
     
     CMP.death.groups <- CMP.deaths.h %>%
-                         left_join(., dem.group.frame, by = c('State')) %>%
-                         mutate(Standard.Age.Group = ifelse((Death.Age <= End.Age & Death.Age >= Start.Age), Standard.Groups, 'Remove')) %>%
-                         subset(Standard.Age.Group != 'Remove') %>%
-                         select(-c(Start.Age, End.Age, Standard.Groups))
+        left_join(., dem.group.frame, by = c('State')) %>%
+        mutate(Standard.Age.Group = ifelse((Death.Age <= End.Age & Death.Age >= Start.Age), Standard.Groups, 'Remove')) %>%
+        subset(Standard.Age.Group != 'Remove') %>%
+        select(-c(Start.Age, End.Age, Standard.Groups))
     
-   CMP.death.groups
+    CMP.death.groups
     
 }
 
@@ -593,8 +593,8 @@ summarize_CMP_data <- function() {
         rbindlist()
     
     out.file <- summary.file %>%
-                left_join(., states, by = 'State.Abb') %>%
-                select(State.Name, everything())
+        left_join(., states, by = 'State.Abb') %>%
+        select(State.Name, everything())
     
     return(out.file)
 }
@@ -857,23 +857,23 @@ pull_CMP_age_rate <- function(state) {
     deaths <- harmonize_CMP_deaths(agencies = c(state))
     
     suppressMessages(
-    dem.load <- dem %>%
-        interpolate_CMP_dem() %>%
-        group_by(Year, Month, Date, Standard.Groups) %>%
-        summarise(Number = sum(Number, na.rm = TRUE)) %>%
-        arrange(Year, Month, Date, Standard.Groups) %>%
-        group_by(Year, Month, Standard.Groups) %>%
-        filter(row_number()==1) %>%
-        rename(Population = Number)
+        dem.load <- dem %>%
+            interpolate_CMP_dem() %>%
+            group_by(Year, Month, Date, Standard.Groups) %>%
+            summarise(Number = sum(Number, na.rm = TRUE)) %>%
+            arrange(Year, Month, Date, Standard.Groups) %>%
+            group_by(Year, Month, Standard.Groups) %>%
+            filter(row_number()==1) %>%
+            rename(Population = Number)
     )
     
     suppressMessages(
-    death.load <- deaths %>%
-        group_by(Year, Month, Standard.Age.Group) %>%
-        summarise(Deaths = n()) %>%
-        mutate(Date = ymd(str_c(Year, "-", Month, "-1"))) %>%
-        rename(Standard.Groups = Standard.Age.Group) %>%
-        subset(select = -c(Year, Month))
+        death.load <- deaths %>%
+            group_by(Year, Month, Standard.Age.Group) %>%
+            summarise(Deaths = n()) %>%
+            mutate(Date = ymd(str_c(Year, "-", Month, "-1"))) %>%
+            rename(Standard.Groups = Standard.Age.Group) %>%
+            subset(select = -c(Year, Month))
     )
     
     
@@ -882,13 +882,13 @@ pull_CMP_age_rate <- function(state) {
         mutate(Deaths = ifelse(is.na(Deaths), 0, Deaths)) %>%
         subset(select = -c(Year, Month))
     suppressMessages(
-    out <- join %>%
-        group_by(Date, Standard.Groups) %>%
-        summarise_all(sum) %>%
-        mutate(Rate = Deaths/Population*10000,
-               State.Abb = state) %>%
-        arrange(desc(Rate)) %>%
-        select(State.Abb, everything())
+        out <- join %>%
+            group_by(Date, Standard.Groups) %>%
+            summarise_all(sum) %>%
+            mutate(Rate = Deaths/Population*10000,
+                   State.Abb = state) %>%
+            arrange(desc(Rate)) %>%
+            select(State.Abb, everything())
     )
     
     return(out)
@@ -971,7 +971,7 @@ calculate_monthly_rate <- function(pop.source) {
             summarise(Population = sum(Population, na.rm = TRUE)) %>%
             group_by(State, Year, Month) %>%
             summarise(Avg.Population = round(mean(Population))) #%>%
-            #filter(State %in% states.w.dem$State.Name)
+        #filter(State %in% states.w.dem$State.Name)
         
         
     }
@@ -1082,8 +1082,8 @@ interpolate_vera_dem <- function() {
             select(State.Abb, State, Date, Population) %>%
             arrange(State, Date) %>%
             tidyr::complete(State, Date = seq(as.Date('2018-12-31', format = '%Y-%m-%d'), 
-                                       as.Date('2021-04-01', format = '%Y-%m-%d'),
-                                       by = 'day')) %>%
+                                              as.Date('2021-04-01', format = '%Y-%m-%d'),
+                                              by = 'day')) %>%
             group_by(State) %>%
             mutate(Population = na.approx(Population, na.rm = FALSE),
                    Population = as.integer(Population),
@@ -1101,15 +1101,15 @@ interpolate_vera_dem <- function() {
 
 interpolate_vera_dem_updated <- function() {
     vera.cols.1 <- c('State.Abb', 'State', 'December.2018', 'December.2019',
-                   'March.2020', 'May.2020', 'July.2020', 'October.2020',
-                   'January.2021', 'April.2021')
+                     'March.2020', 'May.2020', 'July.2020', 'October.2020',
+                     'January.2021', 'April.2021')
     suppressWarnings(
         vera.pop.1 <- 'Data/External/vera_pjp_s2021_appendix.csv' %>%
             read_csv() %>%
             set_colnames(vera.cols.1) %>%
             subset(!is.na(December.2018) &
                        State.Abb != 'State') %>%
-            melt(id.vars = c('State.Abb', 'State')) %>%
+            reshape2::melt(id.vars = c('State.Abb', 'State')) %>%
             mutate(variable = as.character(variable),
                    Date = case_when(
                        str_detect('December.2018', variable) ~ '2018-12-31',
@@ -1127,47 +1127,47 @@ interpolate_vera_dem_updated <- function() {
             select(State.Abb, State, Date, Population) %>%
             arrange(State, Date) 
     )
-        
-        vera.cols.2 <- c('State', 'State.Abb', 'September.2022', 'December.2022',
-                       'March.2023', 'June.2023', 'September.2023', 'December.2023',
-                       'March.2024')
-        suppressWarnings(
-            vera.pop.2 <- 'Data/External/vera_pjp_s2024_appendix.csv' %>%
-                read_csv() %>%
-                set_colnames(vera.cols.2) %>%
-                subset(!is.na(September.2022) &
-                           State != 'state_name') %>%
-                melt(id.vars = c('State.Abb', 'State')) %>%
-                mutate(variable = as.character(variable),
-                       Date = case_when(
-                           str_detect('September.2022', variable) ~ '2022-09-30',
-                           str_detect('December.2022', variable) ~ '2022-12-31',
-                           str_detect('March.2023', variable) ~ '2023-03-31',
-                           str_detect('June.2023', variable) ~ '2023-06-30',
-                           str_detect('September.2023', variable) ~ '2023-09-30',
-                           str_detect('December.2023', variable) ~ '2023-12-31',
-                           str_detect('March.2024', variable) ~ '2024-03-31'
-                       ),
-                       Date = as.Date(Date, format = '%Y-%m-%d'),
-                       Population = value
-                ) %>%
-                select(State.Abb, State, Date, Population) %>%
-                subset(!is.na(Population)) %>%
-                mutate(Population = as.numeric(str_replace_all(Population,',',''))) %>%
-                arrange(State, Date) 
-)
-        
-        vera.pop.out <- vera.pop.1 %>%
-            plyr::rbind.fill(vera.pop.2) %>%
-            tidyr::complete(State, Date = seq(as.Date('2018-12-31', format = '%Y-%m-%d'), 
-                                              as.Date('2024-03-31', format = '%Y-%m-%d'),
-                                              by = 'day')) %>%
-            group_by(State) %>%
-            mutate(Population = na.approx(Population, na.rm = FALSE),
-                   Population = as.integer(Population),
-                   Month = month.name[month(Date)],
-                   Year = year(Date)) %>%
-            select(-c(State.Abb))
+    
+    vera.cols.2 <- c('State', 'State.Abb', 'September.2022', 'December.2022',
+                     'March.2023', 'June.2023', 'September.2023', 'December.2023',
+                     'March.2024')
+    suppressWarnings(
+        vera.pop.2 <- 'Data/External/vera_pjp_s2024_appendix.csv' %>%
+            read_csv() %>%
+            set_colnames(vera.cols.2) %>%
+            subset(!is.na(September.2022) &
+                       State != 'state_name') %>%
+            reshape2::melt(id.vars = c('State.Abb', 'State')) %>%
+            mutate(variable = as.character(variable),
+                   Date = case_when(
+                       str_detect('September.2022', variable) ~ '2022-09-30',
+                       str_detect('December.2022', variable) ~ '2022-12-31',
+                       str_detect('March.2023', variable) ~ '2023-03-31',
+                       str_detect('June.2023', variable) ~ '2023-06-30',
+                       str_detect('September.2023', variable) ~ '2023-09-30',
+                       str_detect('December.2023', variable) ~ '2023-12-31',
+                       str_detect('March.2024', variable) ~ '2024-03-31'
+                   ),
+                   Date = as.Date(Date, format = '%Y-%m-%d'),
+                   Population = value
+            ) %>%
+            select(State.Abb, State, Date, Population) %>%
+            subset(!is.na(Population)) %>%
+            mutate(Population = as.numeric(str_replace_all(Population,',',''))) %>%
+            arrange(State, Date) 
+    )
+    
+    vera.pop.out <- vera.pop.1 %>%
+        plyr::rbind.fill(vera.pop.2) %>%
+        tidyr::complete(State, Date = seq(as.Date('2018-12-31', format = '%Y-%m-%d'), 
+                                          as.Date('2024-03-31', format = '%Y-%m-%d'),
+                                          by = 'day')) %>%
+        group_by(State) %>%
+        mutate(Population = na.approx(Population, na.rm = FALSE),
+               Population = as.integer(Population),
+               Month = month.name[month(Date)],
+               Year = year(Date)) %>%
+        select(-c(State.Abb))
     
     
     return(vera.pop.out)

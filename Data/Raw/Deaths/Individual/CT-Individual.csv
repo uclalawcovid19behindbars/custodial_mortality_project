@@ -1,151 +1,232 @@
-"State","Year","Month","Death.Date","Facility","DoB.Year","Sex","Race","Ethnicity","Circumstance.General","Circumstance.Specific"
-"Connecticut",2015,"January",2015-01-03,"BRIDGEPORT CORRECTIONAL CENTER",1961,"Male","White","non-Hispanic","Natural causes","Cardiopulmonary arrest"
-"Connecticut",2015,"January",2015-01-17,"YORK CORRECTIONAL INSTITUTION",1964,"Female","White","non-Hispanic","Natural causes","Pulmonary empysema, chronic bronchitis, ASCVD"
-"Connecticut",2015,"February",2015-02-02,"GARNER CORRECTIONAL INSTITUTION",1957,"Male","White","non-Hispanic","Natural causes","Atherosclerotic heart disease"
-"Connecticut",2015,"February",2015-02-24,"OSBORN CORRECTIONAL INSTITUTION",1961,"Male","White","non-Hispanic","Suicide","head trauma.  jump off top tier of housing unit"
-"Connecticut",2015,"March",2015-03-17,"OSBORN CORRECTIONAL INSTITUTION",1934,"Male","White","non-Hispanic","Natural causes","Cardiopulmonary failure"
-"Connecticut",2015,"March",2015-03-19,"MACDOUGALL-WALKER CORR INSTITUTION",1936,"Male","White","non-Hispanic","Natural causes","Atherosclerotic heart disease"
-"Connecticut",2015,"March",2015-03-30,"OSBORN CORRECTIONAL INSTITUTION",1961,"Male","White","non-Hispanic","Natural causes","acute bronchopneumonia complicating diabetes"
-"Connecticut",2015,"April",2015-04-29,"GARNER CORRECTIONAL INSTITUTION",1933,"Male","White","non-Hispanic","Natural causes","Hypertensive and atherosclerotic cardiovascular"
-"Connecticut",2015,"May",2015-05-21,"OSBORN CORRECTIONAL INSTITUTION",1950,"Male","Black","non-Hispanic","Natural causes","Metastatic lung cancer"
-"Connecticut",2015,"June",2015-06-02,"ROBINSON CORRECTIONAL INSTITUTION",1958,"Male","White","non-Hispanic","Natural causes","Coronary artery disease"
-"Connecticut",2015,"June",2015-06-20,"MACDOUGALL-WALKER CORR INSTITUTION",1950,"Male","Asian","non-Hispanic","Natural causes","intracranial hemorrhage"
-"Connecticut",2015,"June",2015-06-22,"NEW HAVEN CORRECTIONAL CENTER",1960,"Male","Hispanic or Latino","Hispanic","Natural causes","Cardiac arrest"
-"Connecticut",2015,"July",2015-07-14,"OSBORN CORRECTIONAL INSTITUTION",1972,"Male","Black","non-Hispanic","Natural causes","Metastatic gastrointestinal cancer"
-"Connecticut",2015,"July",2015-07-19,"WILLARD-CYBULSKI CORRECTIONAL INSTITUTION",1966,"Male","Black","non-Hispanic","Natural causes","acute myocardial infarction"
-"Connecticut",2015,"July",2015-07-21,"MACDOUGALL-WALKER CORR INSTITUTION",1947,"Male","White","non-Hispanic","Suicide","hemorrhage from transection of left cephalic - self-inflicted wound"
-"Connecticut",2015,"July",2015-07-27,"MANSON YOUTH INSTITUTION",1996,"Male","Black","non-Hispanic","Natural causes","Multi-system organ failure.  Sepsis, lupus, MAS, ARDs"
-"Connecticut",2015,"September",2015-09-09,"YORK CORRECTIONAL INSTITUTION",1976,"Female","White","non-Hispanic","Natural causes","hepatic failure"
-"Connecticut",2015,"September",2015-09-17,"OSBORN CORRECTIONAL INSTITUTION",1988,"Male","Black","non-Hispanic","Natural causes","Gunshot wound to head while on parole - traumatic brain injury"
-"Connecticut",2015,"September",2015-09-26,"OSBORN CORRECTIONAL INSTITUTION",1979,"Male","Black","non-Hispanic","Natural causes","Metastatic oral cancer"
-"Connecticut",2015,"October",2015-10-15,"OSBORN CORRECTIONAL INSTITUTION",1943,"Male","White","non-Hispanic","Natural causes","COPD"
-"Connecticut",2015,"December",2015-12-04,"ENFIELD CORRECTIONAL INSTITUTION",1962,"Male","White","non-Hispanic","Homicide","Homicide Blunt Force Head Trauma"
-"Connecticut",2015,"December",2015-12-19,"YORK CORRECTIONAL INSTITUTION",1962,"Female","White","non-Hispanic","Natural causes","Deep Vein Thrombosis DVT"
-"Connecticut",2015,"December",2015-12-23,"WILLARD-CYBULSKI CORRECTIONAL INSTITUTION",1971,"Male","White","non-Hispanic","Intox","Acute fentanyl overdose induced respiratory arrest"
-"Connecticut",2016,"January",2016-01-25,"YORK CORRECTIONAL INSTITUTION",1988,"Female","White","non-Hispanic","Suicide","Hanging from self-produced ligature"
-"Connecticut",2016,"March",2016-03-18,"OSBORN CORRECTIONAL INSTITUTION",1953,"Male","Black","non-Hispanic","Natural causes","Infectious Meningitis"
-"Connecticut",2016,"March",2016-03-22,"OSBORN CORRECTIONAL INSTITUTION",1968,"Male","Black","non-Hispanic","Natural causes","Cardiomyopathy leading to cardio-pulmonary arrest"
-"Connecticut",2016,"April",2016-04-10,"BRIDGEPORT CORRECTIONAL CENTER",1952,"Male","White","non-Hispanic","Natural causes","GI Bleed"
-"Connecticut",2016,"April",2016-04-17,"BRIDGEPORT CORRECTIONAL CENTER",1955,"Male","White","non-Hispanic","Natural causes","Small bowel obstruction, ischemic necrosis to small and large intestine"
-"Connecticut",2016,"May",2016-05-13,"ROBINSON CORRECTIONAL INSTITUTION",1964,"Male","White","non-Hispanic","Suicide","Suicide by hanging"
-"Connecticut",2016,"May",2016-05-21,"OSBORN CORRECTIONAL INSTITUTION",1974,"Male","White","non-Hispanic","Natural causes","Ruptured cerebral aneuryism"
-"Connecticut",2016,"July",2016-07-15,"MACDOUGALL-WALKER CORR INSTITUTION",1959,"Male","White","non-Hispanic","Natural causes","Large CVA Stroke"
-"Connecticut",2016,"July",2016-07-19,"MACDOUGALL-WALKER CORR INSTITUTION",1943,"Male","White","non-Hispanic","Natural causes","End-stage liver disease, Hepatitis C"
-"Connecticut",2016,"August",2016-08-06,"OSBORN CORRECTIONAL INSTITUTION",1943,"Male","White","non-Hispanic","Suicide","Hanging by a sheet"
-"Connecticut",2016,"September",2016-09-13,"MACDOUGALL-WALKER CORR INSTITUTION",1947,"Male","White","non-Hispanic","Natural causes","Metastatic Lung Cancer"
-"Connecticut",2016,"September",2016-09-17,"MACDOUGALL-WALKER CORR INSTITUTION",1982,"Male","White","non-Hispanic","Natural causes","Cardiac arrhythmia with cardiac hypertrophy of underdetermined etiology"
-"Connecticut",2016,"October",2016-10-31,"YORK CORRECTIONAL INSTITUTION",1987,"Female","White","non-Hispanic","Natural causes","Complications of chronic intravenous substance abuse"
-"Connecticut",2016,"October",2016-10-31,"YORK CORRECTIONAL INSTITUTION",1985,"Female","White","non-Hispanic","Natural causes","Complications of gastric perforation due to chronic gastritis"
-"Connecticut",2016,"December",2016-12-12,"MACDOUGALL-WALKER CORR INSTITUTION",1963,"Male","Hispanic or Latino","Hispanic","Natural causes","Hypertension and atherosclerotic cardiovascular disease"
-"Connecticut",2016,"December",2016-12-21,"YORK CORRECTIONAL INSTITUTION",1984,"Female","White","non-Hispanic","Suicide","Suicide by hanging"
-"Connecticut",2016,"December",2016-12-27,"MACDOUGALL-WALKER CORR INSTITUTION",1943,"Male","White","non-Hispanic","Natural causes","Large Pulmonary Embolus, myocardial infarction and end stage kidney disease"
-"Connecticut",2017,"February",2017-02-04,"CHESHIRE CORRECTIONAL INSTITUTION",1968,"Male","White","non-Hispanic","Natural causes","Cardiac arrest"
-"Connecticut",2017,"February",2017-02-27,"WILLARD-CYBULSKI CORRECTIONAL INSTITUTION",1965,"Male","Black","non-Hispanic","Other","Unexpected adverse reaction to medication  manner is undetermined"
-"Connecticut",2017,"March",2017-03-04,"OSBORN CORRECTIONAL INSTITUTION",1951,"Male","White","non-Hispanic","Natural causes","Cardiac arrest"
-"Connecticut",2017,"May",2017-05-08,"MACDOUGALL-WALKER CORR INSTITUTION",1938,"Male","Black","non-Hispanic","Natural causes","Dehydration due to metastatic prostate cancer"
-"Connecticut",2017,"June",2017-06-10,"HARTFORD CORRECTIONAL CENTER",1984,"Male","White","non-Hispanic","Suicide","Hanging"
-"Connecticut",2017,"June",2017-06-17,"OSBORN CORRECTIONAL INSTITUTION",1956,"Male","Black","non-Hispanic","Natural causes","Cardiac arrest due to end-stage liver disease"
-"Connecticut",2017,"July",2017-07-04,"OSBORN CORRECTIONAL INSTITUTION",1963,"Male","Black","non-Hispanic","Natural causes","Congestive heart failure"
-"Connecticut",2017,"July",2017-07-15,"OSBORN CORRECTIONAL INSTITUTION",1936,"Male","White","non-Hispanic","Natural causes","Cardiopulmonary arrest/dementia"
-"Connecticut",2017,"October",2017-10-07,"OSBORN CORRECTIONAL INSTITUTION",1943,"Male","White","non-Hispanic","Natural causes","MULTIPLE COMPLICATIONS DUE TO DUODENITIS WITH DUODENAL ULCER AND STRICTURE"
-"Connecticut",2017,"October",2017-10-31,"NEW HAVEN CORRECTIONAL CENTER",1963,"Male","Black","non-Hispanic","Natural causes","Pneumonia"
-"Connecticut",2017,"November",2017-11-03,"GARNER CORRECTIONAL INSTITUTION",1994,"Male","White","non-Hispanic","Suicide","Hanging"
-"Connecticut",2017,"November",2017-11-11,"OSBORN CORRECTIONAL INSTITUTION",1971,"Male","White","non-Hispanic","Natural causes","Head + Neck cancer (squamous cell)"
-"Connecticut",2017,"December",2017-12-10,"GARNER CORRECTIONAL INSTITUTION",1984,"Male","Black","non-Hispanic","Suicide","Hanging"
-"Connecticut",2017,"December",2017-12-11,"MACDOUGALL-WALKER CORR INSTITUTION",1972,"Male","White","non-Hispanic","Suicide","Hanging"
-"Connecticut",2018,"January",2018-01-25,"HARTFORD CORRECTIONAL CENTER",1975,"M","White","non-Hispanic","Suicide","Accidental drug overdose - Acute Fentanyl intoxication"
-"Connecticut",2018,"February",2018-02-03,"MACDOUGALL-WALKER CORR INSTITUTION",1967,"M","Hispanic","Hispanic","Natural causes","Congestive heart failure"
-"Connecticut",2018,"February",2018-02-08,"HARTFORD CORRECTIONAL CENTER",1963,"M","White","non-Hispanic","Natural causes","Septic shock"
-"Connecticut",2018,"February",2018-02-19,"MACDOUGALL-WALKER CORR INSTITUTION",1963,"M","Hispanic","Hispanic","Suicide","Acute heroin intoxication"
-"Connecticut",2018,"March",2018-03-08,"ROBINSON CORRECTIONAL INSTITUTION",1965,"M","Black","non-Hispanic","Natural causes","Gastrointestinal hemorrhage"
-"Connecticut",2018,"March",2018-03-25,"GARNER CORRECTIONAL INSTITUTION",1986,"M","Black","non-Hispanic","Homicide","Death during restraint and pepper spray exposure"
-"Connecticut",2018,"March",2018-03-28,"CORRIGAN-RADGOWSKI CORRECTIONAL CENTER",1988,"M","Black","non-Hispanic","Suicide","Suicide by hanging asphyxiation"
-"Connecticut",2018,"April",2018-04-12,"OSBORN CORRECTIONAL INSTITUTION",1955,"M","White","non-Hispanic","Natural causes","Respiratory failure"
-"Connecticut",2018,"May",2018-05-21,"MACDOUGALL-WALKER CORR INSTITUTION",1981,"M","Hispanic","Hispanic","Natural causes","Cardiomyopathy w/interstitial fibrosis"
-"Connecticut",2018,"May",2018-05-21,"MACDOUGALL-WALKER CORR INSTITUTION",1970,"M","White","non-Hispanic","Natural causes","Complications of diabetes and cancer"
-"Connecticut",2018,"May",2018-05-25,"OSBORN CORRECTIONAL INSTITUTION",1959,"M","White","non-Hispanic","Natural causes","Complications of peptic ulcer disease"
-"Connecticut",2018,"May",2018-05-28,"OSBORN CORRECTIONAL INSTITUTION",1948,"M","White","non-Hispanic","Natural causes","Complications of metastatic non-small cell lung carcinoma"
-"Connecticut",2018,"June",2018-06-03,"YORK CORRECTIONAL INSTITUTION",1965,"F","White","non-Hispanic","Natural causes","Pulmonary embolism with complications"
-"Connecticut",2018,"June",2018-06-05,"YORK CORRECTIONAL INSTITUTION",1948,"F","Hispanic","Hispanic","Natural causes","Chronic ethanolism and hypothyroidism"
-"Connecticut",2018,"June",2018-06-14,"CORRIGAN-RADGOWSKI CORRECTIONAL CENTER",1959,"M","White","non-Hispanic","Natural causes","Acute subdural hematoma"
-"Connecticut",2018,"June",2018-06-20,"MACDOUGALL-WALKER CORR INSTITUTION",1952,"M","White","non-Hispanic","Natural causes","Abdominal hemorrhage"
-"Connecticut",2018,"June",2018-06-22,"MACDOUGALL-WALKER CORR INSTITUTION",1933,"M","White","non-Hispanic","Natural causes","Aortic dissection."
-"Connecticut",2018,"July",2018-07-07,"OSBORN CORRECTIONAL INSTITUTION",1964,"M","Black","non-Hispanic","Natural causes","Respiratory failure and septic shock"
-"Connecticut",2018,"August",2018-08-22,"CORRIGAN-RADGOWSKI CORRECTIONAL CENTER",1961,"M","Black","non-Hispanic","Natural causes","Hypertensive and athersclerotic cardio disease"
-"Connecticut",2018,"August",2018-08-24,"CHESHIRE CORRECTIONAL INSTITUTION",1962,"M","Black","non-Hispanic","Suicide","Suicide by hanging /asphyxiation"
-"Connecticut",2018,"September",2018-09-19,"HARTFORD CORRECTIONAL CENTER",1950,"M","Black","non-Hispanic","Natural causes","Metastatic squamous cell carcinoma of the larynx"
-"Connecticut",2018,"September",2018-09-22,"OSBORN CORRECTIONAL INSTITUTION",1947,"M","Hispanic","Hispanic","Natural causes","Cardiac arrest  no autopsy"
-"Connecticut",2018,"September",2018-09-26,"HARTFORD CORRECTIONAL CENTER",1965,"M","Hispanic","Hispanic","Natural causes","Septic complications of osteomyelitis"
-"Connecticut",2018,"October",2018-10-17,"MACDOUGALL-WALKER CORR INSTITUTION",1957,"M","Hispanic","Hispanic","Natural causes","End stage liver disease"
-"Connecticut",2018,"October",2018-10-20,"OSBORN CORRECTIONAL INSTITUTION",1956,"M","White","non-Hispanic","Natural causes","acute bronchopneumonia"
-"Connecticut",2018,"November",2018-11-14,"GARNER CORRECTIONAL INSTITUTION",1967,"M","White","non-Hispanic","Natural causes","Hemorrhagic complication following transhepatic cholangiogram"
-"Connecticut",2018,"December",2018-12-21,"MACDOUGALL-WALKER CORR INSTITUTION",1968,"M","White","non-Hispanic","Suicide","Suicide: intentional drug overdose. Acute intoxication: Diphenhydramine, Trazadone, Valproic Acid."
-"Connecticut",2018,"December",2018-12-28,"MACDOUGALL-WALKER CORR INSTITUTION",1946,"M","White","non-Hispanic","Natural causes","Congestive heart failure"
-"Connecticut",2019,"January",2019-01-20,"MACDOUGALL-WALKER CORR INSTITUTION",1974,"M","Black","non-Hispanic","Suicide","Hanging - bedsheet"
-"Connecticut",2019,"January",2019-01-20,"CHESHIRE CORRECTIONAL INSTITUTION",1970,"M","Hispanic","Hispanic","Natural causes","Complication of perforated gastric ulcer due to peptic ulcer disease"
-"Connecticut",2019,"February",2019-02-14,"MACDOUGALL-WALKER CORR INSTITUTION",1943,"M","White","non-Hispanic","Natural causes","End stage metastatic lunch cancer"
-"Connecticut",2019,"March",2019-03-21,"NEW HAVEN CORRECTIONAL CENTER",1988,"M","White","non-Hispanic","Homicide","Homicide (Struggle/restraint involving corrections personnel)"
-"Connecticut",2019,"March",2019-03-28,"MACDOUGALL-WALKER CORR INSTITUTION",1953,"M","White","non-Hispanic","Suicide","Hanging"
-"Connecticut",2019,"April",2019-04-08,"HARTFORD CORRECTIONAL CENTER",1983,"M","White","non-Hispanic","Intox","Acute Fentanyl Intoxication"
-"Connecticut",2019,"April",2019-04-17,"BRIDGEPORT CORRECTIONAL CENTER",1960,"M","Hispanic","Hispanic","Natural causes","Cardiac respiratory arrest, secondary to decompensated liver cirrhosis"
-"Connecticut",2019,"May",2019-05-06,"MACDOUGALL-WALKER CORR INSTITUTION",1953,"M","Hispanic","Hispanic","Natural causes","Decompensated cirrhosis, hepatic encephalopathy due to chronic viral hepatitis C"
-"Connecticut",2019,"May",2019-05-09,"HARTFORD CORRECTIONAL CENTER",1988,"M","Hispanic","Hispanic","Suicide","Hanging"
-"Connecticut",2019,"May",2019-05-11,"NEW HAVEN CORRECTIONAL CENTER",1974,"M","Hispanic","Hispanic","Intox","Acute Fentanyl Intoxication"
-"Connecticut",2019,"July",2019-07-13,"OSBORN CORRECTIONAL INSTITUTION",1972,"M","Hispanic","Hispanic","Natural causes","Hypertensive + Atherosclerotic cardiovascular disease"
-"Connecticut",2019,"July",2019-07-21,"CORRIGAN-RADGOWSKI CORRECTIONAL CENTER",1954,"M","White","non-Hispanic","Natural causes","COPD DM2, Cirrhosis, Arterial insufficiency"
-"Connecticut",2019,"August",2019-08-09,"OSBORN CORRECTIONAL INSTITUTION",1967,"M","Hispanic","Hispanic","Natural causes","Complications of hepatic cirrhosis due to chronic viral hepatitis"
-"Connecticut",2019,"September",2019-09-03,"BRIDGEPORT CORRECTIONAL CENTER",1984,"M","White","non-Hispanic","Suicide","Hanging"
-"Connecticut",2019,"September",2019-09-19,"HARTFORD CORRECTIONAL CENTER",1954,"M","Black","non-Hispanic","Natural causes","Complications following ruptured saccular cerebral aneuryism (status-post repair)"
-"Connecticut",2019,"September",2019-09-22,"OSBORN CORRECTIONAL INSTITUTION",1961,"M","White","non-Hispanic","Natural causes","Pulmonary arrest stage 4 lung cancer with metastasis to spine/brain"
-"Connecticut",2019,"September",2019-09-23,"OSBORN CORRECTIONAL INSTITUTION",1951,"M","White","non-Hispanic","Natural causes","Bladder cancer with MET"
-"Connecticut",2019,"October",2019-10-11,"OSBORN CORRECTIONAL INSTITUTION",1987,"M","Hispanic","Hispanic","Natural causes","Metastatic esophageal cancer"
-"Connecticut",2019,"December",2019-12-08,"GARNER CORRECTIONAL INSTITUTION",1987,"M","White","non-Hispanic","Suicide","Hanging"
-"Connecticut",2020,"January",2020-01-01,"WILLARD-CYBULSKI CI",1963,"M","WHITE","non-Hispanic","Natural causes","Complications of Multiple Myeloma"
-"Connecticut",2020,"January",2020-01-03,"GARNER CORRECTIONAL INSTITUTION",1963,"M","WHITE","non-Hispanic","Natural causes","Complications of Metastatic Esophageal Adenocarcinoma"
-"Connecticut",2020,"January",2020-01-09,"OSBORN CORRECTIONAL INSTITUTION",1983,"M","HISPANIC","Hispanic","Accident","Pulmonary Thromboembolism due to deep venous thrombosis but to Achilles tendon injury"
-"Connecticut",2020,"January",2020-01-27,"BRIDGEPORT CORRECTIONAL CENTER",1976,"M","BLACK","non-Hispanic","Accident","Acute Intoxication due to Combined Effects of Fentanyl, Amitriptyline, Hydroxyzine, 10-Hydroxycarbazepine"
-"Connecticut",2020,"February",2020-02-17,"MACDOUGALL-WALKER CORR INSTITUTION",1937,"M","WHITE","non-Hispanic","Natural causes","Cardiac Arrest, Heart Disease and Hepatitis-C"
-"Connecticut",2020,"April",2020-04-13,"OSBORN CORRECTIONAL INSTITUTION",1957,"M","HISPANIC","Hispanic","Other","Covid-19"
-"Connecticut",2020,"April",2020-04-25,"WILLARD-CYBULSKI CORRECTIONAL INSTITUTION",1962,"M","BLACK","non-Hispanic","Other","Covid-19"
-"Connecticut",2020,"April",2020-04-28,"OSBORN CORRECTIONAL INSTITUTION",1945,"M","BLACK","non-Hispanic","Other","Covid-19"
-"Connecticut",2020,"May",2020-05-04,"NORTHERN CORRECTIONAL INSTITUTION",1969,"M","BLACK","non-Hispanic","Other","Covid-19"
-"Connecticut",2020,"May",2020-05-04,"OSBORN CORRECTIONAL INSTITUTION",1960,"M","BLACK","non-Hispanic","Other","Covid-19"
-"Connecticut",2020,"May",2020-05-05,"OSBORN CORRECTIONAL INSTITUTION",1945,"M","WHITE","non-Hispanic","Other","Covid-19"
-"Connecticut",2020,"May",2020-05-19,"BRIDGEPORT CORRECTIONAL CENTER",1977,"M","BLACK","non-Hispanic","Suicide","Hanging"
-"Connecticut",2020,"May",2020-05-26,"OSBORN CORRECTIONAL INSTITUTION",1960,"M","HISPANIC","Hispanic","Other","Covid-19"
-"Connecticut",2020,"June",2020-06-15,"OSBORN CORRECTIONAL INSTITUTION",1994,"M","BLACK","non-Hispanic","Suicide","Hanging"
-"Connecticut",2020,"July",2020-07-24,"CHESHIRE CORRECTIONAL INSTITUTION",1961,"M","BLACK","non-Hispanic","Natural causes","Hypertensive and atherosclerotic CVD, with contributory factor of obesity"
-"Connecticut",2020,"August",2020-08-01,"MACDOUGALL-WALKER CORR INSTITUTION",1949,"M","BLACK","non-Hispanic","Natural causes","COPD, Diabetes"
-"Connecticut",2020,"August",2020-08-02,"OSBORN CORRECTIONAL INSTITUTION",1946,"M","WHITE","non-Hispanic","Natural causes","Pneumonitis d/t Lung Ca, with underlying COPD"
-"Connecticut",2020,"August",2020-08-12,"CORRIGAN-RADGOWSKI CORRECTIONAL CENTER",1988,"M","HISPANIC","Hispanic","Suicide","Hanging"
-"Connecticut",2020,"August",2020-08-16,"OSBORN CORRECTIONAL INSTITUTION",1964,"M","WHITE","non-Hispanic","Natural causes","Septic Shock d/t mesenteric ischemia; Cremation Only"
-"Connecticut",2020,"September",2020-09-05,"HARTFORD CORRECTIONAL CENTER",1977,"M","WHITE","non-Hispanic","Suicide","Hanging"
-"Connecticut",2020,"November",2020-11-18,"OSBORN CORRECTIONAL INSTITUTION",1975,"M","BLACK","non-Hispanic","Other","Covid-19"
-"Connecticut",2020,"November",2020-11-27,"CORRIGAN-RADGOWSKI CORRECTIONAL CENTER",1994,"M","WHITE","non-Hispanic","Accident","Acute intoxication due to the combined effects of fentanyl and methadone"
-"Connecticut",2020,"November",2020-11-28,"OSBORN CORRECTIONAL INSTITUTION",1970,"M","BLACK","non-Hispanic","Natural causes","Parkinson's Disease"
-"Connecticut",2020,"December",2020-12-04,"MACDOUGALL-WALKER CORR INSTITUTION",1976,"M","BLACK","non-Hispanic","Other","Covid-19"
-"Connecticut",2020,"December",2020-12-06,"MACDOUGALL-WALKER CORR INSTITUTION",1953,"M","BLACK","non-Hispanic","Other","Covid-19"
-"Connecticut",2020,"December",2020-12-17,"MACDOUGALL-WALKER CORR INSTITUTION",1972,"M","HISPANIC","Hispanic","Other","Covid-19"
-"Connecticut",2020,"December",2020-12-21,"MACDOUGALL-WALKER CORR INSTITUTION",1951,"M","WHITE","non-Hispanic","Other","Covid-19"
-"Connecticut",2020,"December",2020-12-22,"MACDOUGALL-WALKER CORR INSTITUTION",1951,"M","WHITE","non-Hispanic","Other","Covid-19"
-"Connecticut",2020,"December",2020-12-31,"MACDOUGALL-WALKER CORR INSTITUTION",1997,"M","BLACK","non-Hispanic","Suicide","Hanging"
-"Connecticut",2021,"January",2021-01-02,"MACDOUGALL-WALKER CORR INSTITUTION",1951,"M","BLACK","non-Hispanic","Other","Covid-19"
-"Connecticut",2021,"January",2021-01-08,"MACDOUGALL-WALKER CORR INSTITUTION",1956,"M","BLACK","non-Hispanic","Other","Covid-19"
-"Connecticut",2021,"January",2021-01-09,"BRIDGEPORT CORRECTIONAL CENTER",1963,"M","HISPANIC","Hispanic","Other","Covid-19"
-"Connecticut",2021,"January",2021-01-11,"OSBORN CORRECTIONAL INSTITUTION",1967,"M","HISPANIC","Hispanic","Other","Covid-19"
-"Connecticut",2021,"January",2021-01-22,"MACDOUGALL-WALKER CORR INSTITUTION",1964,"M","BLACK","non-Hispanic","Other","Covid-19"
-"Connecticut",2021,"January",2021-01-24,"BRIDGEPORT CORRECTIONAL CENTER",1967,"M","WHITE","non-Hispanic","Other","Covid-19"
-"Connecticut",2021,"January",2021-01-31,"MACDOUGALL-WALKER CORR INSTITUTION",1964,"M","BLACK","non-Hispanic","Other","Covid-19"
-"Connecticut",2021,"February",2021-02-08,"MACDOUGALL-WALKER CORR INSTITUTION",2001,"M","BLACK","non-Hispanic","Natural causes","Sudden death with cardiac hypertrophy of indeterminate etiology"
-"Connecticut",2021,"March",2021-03-06,"BRIDGEPORT CORRECTIONAL CENTER",1974,"M","BLACK","non-Hispanic","Natural causes","Hypertension and Cardiovascular Disease"
-"Connecticut",2021,"March",2021-03-07,"BRIDGEPORT CORRECTIONAL CENTER",1960,"M","BLACK","non-Hispanic","Natural causes","Intracranial hemorrhage due to hypertensive and atherosclerotic disease"
-"Connecticut",2021,"September",2021-09-08,"MACDOUGALL-WALKER CORR INSTITUTION",1943,"M","WHITE","non-Hispanic","Other","Covid-19"
-"Connecticut",2021,"October",2021-10-01,"OSBORN CORRECTIONAL INSTITUTION",1956,"M","WHITE","non-Hispanic","Natural causes","Cardiac Arrhythmia with cardiac hypertrophy"
-"Connecticut",2021,"October",2021-10-09,"CORRIGAN-RADGOWSKI CORRECTIONAL CENTER",1993,"M","BLACK","non-Hispanic","Natural causes","cardiopulmonary arrest due to multiple myeloma"
-"Connecticut",2021,"October",2021-10-26,"MACDOUGALL-WALKER CORR INSTITUTION",1950,"M","WHITE","non-Hispanic","Natural causes","cardiopulmonary arrest due to multiple myeloma"
-"Connecticut",2021,"October",2021-10-29,"MACDOUGALL-WALKER CORR INSTITUTION",1978,"M","BLACK","non-Hispanic","Other","Covid-19"
-"Connecticut",2021,"November",2021-11-10,"CHESHIRE CORRECTIONAL INSTITUTION",1998,"M","BLACK","non-Hispanic","Suicide","Hanging"
-"Connecticut",2021,"November",2021-11-23,"MACDOUGALL-WALKER CORR INSTITUTION",1959,"M","WHITE","non-Hispanic","Other","Covid-19"
-"Connecticut",2021,"December",2021-12-02,"MACDOUGALL-WALKER CORR INSTITUTION",1961,"M","HISPANIC","Hispanic","Natural causes","Septic complications of urosepsis in the setting of diabetes mellities, hepatic cirrhosis and hypertensive cardiovascular disease"
-"Connecticut",2021,"December",2021-12-13,"MACDOUGALL-WALKER CORR INSTITUTION",1970,"M","BLACK","non-Hispanic","Other","Covid-19"
-"Connecticut",2021,"December",2021-12-17,"MACDOUGALL-WALKER CORR INSTITUTION",1960,"M","BLACK","non-Hispanic","Natural causes","Liver cancer"
+State,Facility,Year,Month,Death.Date,First.Name,Last.Name,Full.Name,ID.No,Death.Age,Sex,Race,Ethnicity,Circumstance.General,Circumstance.Specific,Circumstance.Other,source_year
+Connecticut,BRIDGEPORT CORRECTIONAL CENTER,2015,January,2015-01-03,,,,,,Male,White,non-Hispanic,Natural causes,Cardiopulmonary arrest,,
+Connecticut,YORK CORRECTIONAL INSTITUTION,2015,January,2015-01-17,,,,,,Female,White,non-Hispanic,Natural causes,"Pulmonary empysema, chronic bronchitis, ASCVD",,
+Connecticut,GARNER CORRECTIONAL INSTITUTION,2015,February,2015-02-02,,,,,,Male,White,non-Hispanic,Natural causes,Atherosclerotic heart disease,,
+Connecticut,OSBORN CORRECTIONAL INSTITUTION,2015,February,2015-02-24,,,,,,Male,White,non-Hispanic,Suicide,head trauma.  jump off top tier of housing unit,,
+Connecticut,OSBORN CORRECTIONAL INSTITUTION,2015,March,2015-03-17,,,,,,Male,White,non-Hispanic,Natural causes,Cardiopulmonary failure,,
+Connecticut,MACDOUGALL-WALKER CORR INSTITUTION,2015,March,2015-03-19,,,,,,Male,White,non-Hispanic,Natural causes,Atherosclerotic heart disease,,
+Connecticut,OSBORN CORRECTIONAL INSTITUTION,2015,March,2015-03-30,,,,,,Male,White,non-Hispanic,Natural causes,acute bronchopneumonia complicating diabetes,,
+Connecticut,GARNER CORRECTIONAL INSTITUTION,2015,April,2015-04-29,,,,,,Male,White,non-Hispanic,Natural causes,Hypertensive and atherosclerotic cardiovascular,,
+Connecticut,OSBORN CORRECTIONAL INSTITUTION,2015,May,2015-05-21,,,,,,Male,Black,non-Hispanic,Natural causes,Metastatic lung cancer,,
+Connecticut,ROBINSON CORRECTIONAL INSTITUTION,2015,June,2015-06-02,,,,,,Male,White,non-Hispanic,Natural causes,Coronary artery disease,,
+Connecticut,MACDOUGALL-WALKER CORR INSTITUTION,2015,June,2015-06-20,,,,,,Male,Asian,non-Hispanic,Natural causes,intracranial hemorrhage,,
+Connecticut,NEW HAVEN CORRECTIONAL CENTER,2015,June,2015-06-22,,,,,,Male,Hispanic or Latino,Hispanic,Natural causes,Cardiac arrest,,
+Connecticut,OSBORN CORRECTIONAL INSTITUTION,2015,July,2015-07-14,,,,,,Male,Black,non-Hispanic,Natural causes,Metastatic gastrointestinal cancer,,
+Connecticut,WILLARD-CYBULSKI CORRECTIONAL INSTITUTION,2015,July,2015-07-19,,,,,,Male,Black,non-Hispanic,Natural causes,acute myocardial infarction,,
+Connecticut,MACDOUGALL-WALKER CORR INSTITUTION,2015,July,2015-07-21,,,,,,Male,White,non-Hispanic,Suicide,hemorrhage from transection of left cephalic - self-inflicted wound,,
+Connecticut,MANSON YOUTH INSTITUTION,2015,July,2015-07-27,,,,,,Male,Black,non-Hispanic,Natural causes,"Multi-system organ failure.  Sepsis, lupus, MAS, ARDs",,
+Connecticut,YORK CORRECTIONAL INSTITUTION,2015,September,2015-09-09,,,,,,Female,White,non-Hispanic,Natural causes,hepatic failure,,
+Connecticut,OSBORN CORRECTIONAL INSTITUTION,2015,September,2015-09-17,,,,,,Male,Black,non-Hispanic,Natural causes,Gunshot wound to head while on parole - traumatic brain injury,,
+Connecticut,OSBORN CORRECTIONAL INSTITUTION,2015,September,2015-09-26,,,,,,Male,Black,non-Hispanic,Natural causes,Metastatic oral cancer,,
+Connecticut,OSBORN CORRECTIONAL INSTITUTION,2015,October,2015-10-15,,,,,,Male,White,non-Hispanic,Natural causes,COPD,,
+Connecticut,ENFIELD CORRECTIONAL INSTITUTION,2015,December,2015-12-04,,,,,,Male,White,non-Hispanic,Homicide,Homicide Blunt Force Head Trauma,,
+Connecticut,YORK CORRECTIONAL INSTITUTION,2015,December,2015-12-19,,,,,,Female,White,non-Hispanic,Natural causes,Deep Vein Thrombosis DVT,,
+Connecticut,WILLARD-CYBULSKI CORRECTIONAL INSTITUTION,2015,December,2015-12-23,,,,,,Male,White,non-Hispanic,Intox,Acute fentanyl overdose induced respiratory arrest,,
+Connecticut,YORK CORRECTIONAL INSTITUTION,2016,January,2016-01-25,,,,,,Female,White,non-Hispanic,Suicide,Hanging from self-produced ligature,,
+Connecticut,OSBORN CORRECTIONAL INSTITUTION,2016,March,2016-03-18,,,,,,Male,Black,non-Hispanic,Natural causes,Infectious Meningitis,,
+Connecticut,OSBORN CORRECTIONAL INSTITUTION,2016,March,2016-03-22,,,,,,Male,Black,non-Hispanic,Natural causes,Cardiomyopathy leading to cardio-pulmonary arrest,,
+Connecticut,BRIDGEPORT CORRECTIONAL CENTER,2016,April,2016-04-10,,,,,,Male,White,non-Hispanic,Natural causes,GI Bleed,,
+Connecticut,BRIDGEPORT CORRECTIONAL CENTER,2016,April,2016-04-17,,,,,,Male,White,non-Hispanic,Natural causes,"Small bowel obstruction, ischemic necrosis to small and large intestine",,
+Connecticut,ROBINSON CORRECTIONAL INSTITUTION,2016,May,2016-05-13,,,,,,Male,White,non-Hispanic,Suicide,Suicide by hanging,,
+Connecticut,OSBORN CORRECTIONAL INSTITUTION,2016,May,2016-05-21,,,,,,Male,White,non-Hispanic,Natural causes,Ruptured cerebral aneuryism,,
+Connecticut,MACDOUGALL-WALKER CORR INSTITUTION,2016,July,2016-07-15,,,,,,Male,White,non-Hispanic,Natural causes,Large CVA Stroke,,
+Connecticut,MACDOUGALL-WALKER CORR INSTITUTION,2016,July,2016-07-19,,,,,,Male,White,non-Hispanic,Natural causes,"End-stage liver disease, Hepatitis C",,
+Connecticut,OSBORN CORRECTIONAL INSTITUTION,2016,August,2016-08-06,,,,,,Male,White,non-Hispanic,Suicide,Hanging by a sheet,,
+Connecticut,MACDOUGALL-WALKER CORR INSTITUTION,2016,September,2016-09-13,,,,,,Male,White,non-Hispanic,Natural causes,Metastatic Lung Cancer,,
+Connecticut,MACDOUGALL-WALKER CORR INSTITUTION,2016,September,2016-09-17,,,,,,Male,White,non-Hispanic,Natural causes,Cardiac arrhythmia with cardiac hypertrophy of underdetermined etiology,,
+Connecticut,YORK CORRECTIONAL INSTITUTION,2016,October,2016-10-31,,,,,,Female,White,non-Hispanic,Natural causes,Complications of chronic intravenous substance abuse,,
+Connecticut,YORK CORRECTIONAL INSTITUTION,2016,October,2016-10-31,,,,,,Female,White,non-Hispanic,Natural causes,Complications of gastric perforation due to chronic gastritis,,
+Connecticut,MACDOUGALL-WALKER CORR INSTITUTION,2016,December,2016-12-12,,,,,,Male,Hispanic or Latino,Hispanic,Natural causes,Hypertension and atherosclerotic cardiovascular disease,,
+Connecticut,YORK CORRECTIONAL INSTITUTION,2016,December,2016-12-21,,,,,,Female,White,non-Hispanic,Suicide,Suicide by hanging,,
+Connecticut,MACDOUGALL-WALKER CORR INSTITUTION,2016,December,2016-12-27,,,,,,Male,White,non-Hispanic,Natural causes,"Large Pulmonary Embolus, myocardial infarction and end stage kidney disease",,
+Connecticut,CHESHIRE CORRECTIONAL INSTITUTION,2017,February,2017-02-04,,,,,,Male,White,non-Hispanic,Natural causes,Cardiac arrest,,
+Connecticut,WILLARD-CYBULSKI CORRECTIONAL INSTITUTION,2017,February,2017-02-27,,,,,,Male,Black,non-Hispanic,Other,Unexpected adverse reaction to medication  manner is undetermined,,
+Connecticut,OSBORN CORRECTIONAL INSTITUTION,2017,March,2017-03-04,,,,,,Male,White,non-Hispanic,Natural causes,Cardiac arrest,,
+Connecticut,MACDOUGALL-WALKER CORR INSTITUTION,2017,May,2017-05-08,,,,,,Male,Black,non-Hispanic,Natural causes,Dehydration due to metastatic prostate cancer,,
+Connecticut,HARTFORD CORRECTIONAL CENTER,2017,June,2017-06-10,,,,,,Male,White,non-Hispanic,Suicide,Hanging,,
+Connecticut,OSBORN CORRECTIONAL INSTITUTION,2017,June,2017-06-17,,,,,,Male,Black,non-Hispanic,Natural causes,Cardiac arrest due to end-stage liver disease,,
+Connecticut,OSBORN CORRECTIONAL INSTITUTION,2017,July,2017-07-04,,,,,,Male,Black,non-Hispanic,Natural causes,Congestive heart failure,,
+Connecticut,OSBORN CORRECTIONAL INSTITUTION,2017,July,2017-07-15,,,,,,Male,White,non-Hispanic,Natural causes,Cardiopulmonary arrest/dementia,,
+Connecticut,OSBORN CORRECTIONAL INSTITUTION,2017,October,2017-10-07,,,,,,Male,White,non-Hispanic,Natural causes,MULTIPLE COMPLICATIONS DUE TO DUODENITIS WITH DUODENAL ULCER AND STRICTURE,,
+Connecticut,NEW HAVEN CORRECTIONAL CENTER,2017,October,2017-10-31,,,,,,Male,Black,non-Hispanic,Natural causes,Pneumonia,,
+Connecticut,GARNER CORRECTIONAL INSTITUTION,2017,November,2017-11-03,,,,,,Male,White,non-Hispanic,Suicide,Hanging,,
+Connecticut,OSBORN CORRECTIONAL INSTITUTION,2017,November,2017-11-11,,,,,,Male,White,non-Hispanic,Natural causes,Head + Neck cancer (squamous cell),,
+Connecticut,GARNER CORRECTIONAL INSTITUTION,2017,December,2017-12-10,,,,,,Male,Black,non-Hispanic,Suicide,Hanging,,
+Connecticut,MACDOUGALL-WALKER CORR INSTITUTION,2017,December,2017-12-11,,,,,,Male,White,non-Hispanic,Suicide,Hanging,,
+Connecticut,HARTFORD CORRECTIONAL CENTER,2018,January,2018-01-25,,,,,,M,White,non-Hispanic,Suicide,Accidental drug overdose - Acute Fentanyl intoxication,,
+Connecticut,MACDOUGALL-WALKER CORR INSTITUTION,2018,February,2018-02-03,,,,,,M,Hispanic,Hispanic,Natural causes,Congestive heart failure,,
+Connecticut,HARTFORD CORRECTIONAL CENTER,2018,February,2018-02-08,,,,,,M,White,non-Hispanic,Natural causes,Septic shock,,
+Connecticut,MACDOUGALL-WALKER CORR INSTITUTION,2018,February,2018-02-19,,,,,,M,Hispanic,Hispanic,Suicide,Acute heroin intoxication,,
+Connecticut,ROBINSON CORRECTIONAL INSTITUTION,2018,March,2018-03-08,,,,,,M,Black,non-Hispanic,Natural causes,Gastrointestinal hemorrhage,,
+Connecticut,GARNER CORRECTIONAL INSTITUTION,2018,March,2018-03-25,,,,,,M,Black,non-Hispanic,Homicide,Death during restraint and pepper spray exposure,,
+Connecticut,CORRIGAN-RADGOWSKI CORRECTIONAL CENTER,2018,March,2018-03-28,,,,,,M,Black,non-Hispanic,Suicide,Suicide by hanging asphyxiation,,
+Connecticut,OSBORN CORRECTIONAL INSTITUTION,2018,April,2018-04-12,,,,,,M,White,non-Hispanic,Natural causes,Respiratory failure,,
+Connecticut,MACDOUGALL-WALKER CORR INSTITUTION,2018,May,2018-05-21,,,,,,M,Hispanic,Hispanic,Natural causes,Cardiomyopathy w/interstitial fibrosis,,
+Connecticut,MACDOUGALL-WALKER CORR INSTITUTION,2018,May,2018-05-21,,,,,,M,White,non-Hispanic,Natural causes,Complications of diabetes and cancer,,
+Connecticut,OSBORN CORRECTIONAL INSTITUTION,2018,May,2018-05-25,,,,,,M,White,non-Hispanic,Natural causes,Complications of peptic ulcer disease,,
+Connecticut,OSBORN CORRECTIONAL INSTITUTION,2018,May,2018-05-28,,,,,,M,White,non-Hispanic,Natural causes,Complications of metastatic non-small cell lung carcinoma,,
+Connecticut,YORK CORRECTIONAL INSTITUTION,2018,June,2018-06-03,,,,,,F,White,non-Hispanic,Natural causes,Pulmonary embolism with complications,,
+Connecticut,YORK CORRECTIONAL INSTITUTION,2018,June,2018-06-05,,,,,,F,Hispanic,Hispanic,Natural causes,Chronic ethanolism and hypothyroidism,,
+Connecticut,CORRIGAN-RADGOWSKI CORRECTIONAL CENTER,2018,June,2018-06-14,,,,,,M,White,non-Hispanic,Natural causes,Acute subdural hematoma,,
+Connecticut,MACDOUGALL-WALKER CORR INSTITUTION,2018,June,2018-06-20,,,,,,M,White,non-Hispanic,Natural causes,Abdominal hemorrhage,,
+Connecticut,MACDOUGALL-WALKER CORR INSTITUTION,2018,June,2018-06-22,,,,,,M,White,non-Hispanic,Natural causes,Aortic dissection.,,
+Connecticut,OSBORN CORRECTIONAL INSTITUTION,2018,July,2018-07-07,,,,,,M,Black,non-Hispanic,Natural causes,Respiratory failure and septic shock,,
+Connecticut,CORRIGAN-RADGOWSKI CORRECTIONAL CENTER,2018,August,2018-08-22,,,,,,M,Black,non-Hispanic,Natural causes,Hypertensive and athersclerotic cardio disease,,
+Connecticut,CHESHIRE CORRECTIONAL INSTITUTION,2018,August,2018-08-24,,,,,,M,Black,non-Hispanic,Suicide,Suicide by hanging /asphyxiation,,
+Connecticut,HARTFORD CORRECTIONAL CENTER,2018,September,2018-09-19,,,,,,M,Black,non-Hispanic,Natural causes,Metastatic squamous cell carcinoma of the larynx,,
+Connecticut,OSBORN CORRECTIONAL INSTITUTION,2018,September,2018-09-22,,,,,,M,Hispanic,Hispanic,Natural causes,Cardiac arrest  no autopsy,,
+Connecticut,HARTFORD CORRECTIONAL CENTER,2018,September,2018-09-26,,,,,,M,Hispanic,Hispanic,Natural causes,Septic complications of osteomyelitis,,
+Connecticut,MACDOUGALL-WALKER CORR INSTITUTION,2018,October,2018-10-17,,,,,,M,Hispanic,Hispanic,Natural causes,End stage liver disease,,
+Connecticut,OSBORN CORRECTIONAL INSTITUTION,2018,October,2018-10-20,,,,,,M,White,non-Hispanic,Natural causes,acute bronchopneumonia,,
+Connecticut,GARNER CORRECTIONAL INSTITUTION,2018,November,2018-11-14,,,,,,M,White,non-Hispanic,Natural causes,Hemorrhagic complication following transhepatic cholangiogram,,
+Connecticut,MACDOUGALL-WALKER CORR INSTITUTION,2018,December,2018-12-21,,,,,,M,White,non-Hispanic,Suicide,"Suicide: intentional drug overdose. Acute intoxication: Diphenhydramine, Trazadone, Valproic Acid.",,
+Connecticut,MACDOUGALL-WALKER CORR INSTITUTION,2018,December,2018-12-28,,,,,,M,White,non-Hispanic,Natural causes,Congestive heart failure,,
+Connecticut,MACDOUGALL-WALKER CORR INSTITUTION,2019,January,2019-01-20,,,,,,M,Black,non-Hispanic,Suicide,Hanging - bedsheet,,
+Connecticut,CHESHIRE CORRECTIONAL INSTITUTION,2019,January,2019-01-20,,,,,,M,Hispanic,Hispanic,Natural causes,Complication of perforated gastric ulcer due to peptic ulcer disease,,
+Connecticut,MACDOUGALL-WALKER CORR INSTITUTION,2019,February,2019-02-14,,,,,,M,White,non-Hispanic,Natural causes,End stage metastatic lunch cancer,,
+Connecticut,NEW HAVEN CORRECTIONAL CENTER,2019,March,2019-03-21,,,,,,M,White,non-Hispanic,Homicide,Homicide (Struggle/restraint involving corrections personnel),,
+Connecticut,MACDOUGALL-WALKER CORR INSTITUTION,2019,March,2019-03-28,,,,,,M,White,non-Hispanic,Suicide,Hanging,,
+Connecticut,HARTFORD CORRECTIONAL CENTER,2019,April,2019-04-08,,,,,,M,White,non-Hispanic,Intox,Acute Fentanyl Intoxication,,
+Connecticut,BRIDGEPORT CORRECTIONAL CENTER,2019,April,2019-04-17,,,,,,M,Hispanic,Hispanic,Natural causes,"Cardiac respiratory arrest, secondary to decompensated liver cirrhosis",,
+Connecticut,MACDOUGALL-WALKER CORR INSTITUTION,2019,May,2019-05-06,,,,,,M,Hispanic,Hispanic,Natural causes,"Decompensated cirrhosis, hepatic encephalopathy due to chronic viral hepatitis C",,
+Connecticut,HARTFORD CORRECTIONAL CENTER,2019,May,2019-05-09,,,,,,M,Hispanic,Hispanic,Suicide,Hanging,,
+Connecticut,NEW HAVEN CORRECTIONAL CENTER,2019,May,2019-05-11,,,,,,M,Hispanic,Hispanic,Intox,Acute Fentanyl Intoxication,,
+Connecticut,OSBORN CORRECTIONAL INSTITUTION,2019,July,2019-07-13,,,,,,M,Hispanic,Hispanic,Natural causes,Hypertensive + Atherosclerotic cardiovascular disease,,
+Connecticut,CORRIGAN-RADGOWSKI CORRECTIONAL CENTER,2019,July,2019-07-21,,,,,,M,White,non-Hispanic,Natural causes,"COPD DM2, Cirrhosis, Arterial insufficiency",,
+Connecticut,OSBORN CORRECTIONAL INSTITUTION,2019,August,2019-08-09,,,,,,M,Hispanic,Hispanic,Natural causes,Complications of hepatic cirrhosis due to chronic viral hepatitis,,
+Connecticut,BRIDGEPORT CORRECTIONAL CENTER,2019,September,2019-09-03,,,,,,M,White,non-Hispanic,Suicide,Hanging,,
+Connecticut,HARTFORD CORRECTIONAL CENTER,2019,September,2019-09-19,,,,,,M,Black,non-Hispanic,Natural causes,Complications following ruptured saccular cerebral aneuryism (status-post repair),,
+Connecticut,OSBORN CORRECTIONAL INSTITUTION,2019,September,2019-09-22,,,,,,M,White,non-Hispanic,Natural causes,Pulmonary arrest stage 4 lung cancer with metastasis to spine/brain,,
+Connecticut,OSBORN CORRECTIONAL INSTITUTION,2019,September,2019-09-23,,,,,,M,White,non-Hispanic,Natural causes,Bladder cancer with MET,,
+Connecticut,OSBORN CORRECTIONAL INSTITUTION,2019,October,2019-10-11,,,,,,M,Hispanic,Hispanic,Natural causes,Metastatic esophageal cancer,,
+Connecticut,GARNER CORRECTIONAL INSTITUTION,2019,December,2019-12-08,,,,,,M,White,non-Hispanic,Suicide,Hanging,,
+Connecticut,WILLARD-CYBULSKI CI,2020,January,2020-01-01,,,,,,M,WHITE,non-Hispanic,Natural causes,Complications of Multiple Myeloma,,
+Connecticut,GARNER CORRECTIONAL INSTITUTION,2020,January,2020-01-03,,,,,,M,WHITE,non-Hispanic,Natural causes,Complications of Metastatic Esophageal Adenocarcinoma,,
+Connecticut,OSBORN CORRECTIONAL INSTITUTION,2020,January,2020-01-09,,,,,,M,HISPANIC,Hispanic,Accident,Pulmonary Thromboembolism due to deep venous thrombosis but to Achilles tendon injury,,
+Connecticut,BRIDGEPORT CORRECTIONAL CENTER,2020,January,2020-01-27,,,,,,M,BLACK,non-Hispanic,Accident,"Acute Intoxication due to Combined Effects of Fentanyl, Amitriptyline, Hydroxyzine, 10-Hydroxycarbazepine",,
+Connecticut,MACDOUGALL-WALKER CORR INSTITUTION,2020,February,2020-02-17,,,,,,M,WHITE,non-Hispanic,Natural causes,"Cardiac Arrest, Heart Disease and Hepatitis-C",,
+Connecticut,OSBORN CORRECTIONAL INSTITUTION,2020,April,2020-04-13,,,,,,M,HISPANIC,Hispanic,Other,Covid-19,,
+Connecticut,WILLARD-CYBULSKI CORRECTIONAL INSTITUTION,2020,April,2020-04-25,,,,,,M,BLACK,non-Hispanic,Other,Covid-19,,
+Connecticut,OSBORN CORRECTIONAL INSTITUTION,2020,April,2020-04-28,,,,,,M,BLACK,non-Hispanic,Other,Covid-19,,
+Connecticut,NORTHERN CORRECTIONAL INSTITUTION,2020,May,2020-05-04,,,,,,M,BLACK,non-Hispanic,Other,Covid-19,,
+Connecticut,OSBORN CORRECTIONAL INSTITUTION,2020,May,2020-05-04,,,,,,M,BLACK,non-Hispanic,Other,Covid-19,,
+Connecticut,OSBORN CORRECTIONAL INSTITUTION,2020,May,2020-05-05,,,,,,M,WHITE,non-Hispanic,Other,Covid-19,,
+Connecticut,BRIDGEPORT CORRECTIONAL CENTER,2020,May,2020-05-19,,,,,,M,BLACK,non-Hispanic,Suicide,Hanging,,
+Connecticut,OSBORN CORRECTIONAL INSTITUTION,2020,May,2020-05-26,,,,,,M,HISPANIC,Hispanic,Other,Covid-19,,
+Connecticut,OSBORN CORRECTIONAL INSTITUTION,2020,June,2020-06-15,,,,,,M,BLACK,non-Hispanic,Suicide,Hanging,,
+Connecticut,CHESHIRE CORRECTIONAL INSTITUTION,2020,July,2020-07-24,,,,,,M,BLACK,non-Hispanic,Natural causes,"Hypertensive and atherosclerotic CVD, with contributory factor of obesity",,
+Connecticut,MACDOUGALL-WALKER CORR INSTITUTION,2020,August,2020-08-01,,,,,,M,BLACK,non-Hispanic,Natural causes,"COPD, Diabetes",,
+Connecticut,OSBORN CORRECTIONAL INSTITUTION,2020,August,2020-08-02,,,,,,M,WHITE,non-Hispanic,Natural causes,"Pneumonitis d/t Lung Ca, with underlying COPD",,
+Connecticut,CORRIGAN-RADGOWSKI CORRECTIONAL CENTER,2020,August,2020-08-12,,,,,,M,HISPANIC,Hispanic,Suicide,Hanging,,
+Connecticut,OSBORN CORRECTIONAL INSTITUTION,2020,August,2020-08-16,,,,,,M,WHITE,non-Hispanic,Natural causes,Septic Shock d/t mesenteric ischemia; Cremation Only,,
+Connecticut,HARTFORD CORRECTIONAL CENTER,2020,September,2020-09-05,,,,,,M,WHITE,non-Hispanic,Suicide,Hanging,,
+Connecticut,OSBORN CORRECTIONAL INSTITUTION,2020,November,2020-11-18,,,,,,M,BLACK,non-Hispanic,Other,Covid-19,,
+Connecticut,CORRIGAN-RADGOWSKI CORRECTIONAL CENTER,2020,November,2020-11-27,,,,,,M,WHITE,non-Hispanic,Accident,Acute intoxication due to the combined effects of fentanyl and methadone,,
+Connecticut,OSBORN CORRECTIONAL INSTITUTION,2020,November,2020-11-28,,,,,,M,BLACK,non-Hispanic,Natural causes,Parkinson's Disease,,
+Connecticut,MACDOUGALL-WALKER CORR INSTITUTION,2020,December,2020-12-04,,,,,,M,BLACK,non-Hispanic,Other,Covid-19,,
+Connecticut,MACDOUGALL-WALKER CORR INSTITUTION,2020,December,2020-12-06,,,,,,M,BLACK,non-Hispanic,Other,Covid-19,,
+Connecticut,MACDOUGALL-WALKER CORR INSTITUTION,2020,December,2020-12-17,,,,,,M,HISPANIC,Hispanic,Other,Covid-19,,
+Connecticut,MACDOUGALL-WALKER CORR INSTITUTION,2020,December,2020-12-21,,,,,,M,WHITE,non-Hispanic,Other,Covid-19,,
+Connecticut,MACDOUGALL-WALKER CORR INSTITUTION,2020,December,2020-12-22,,,,,,M,WHITE,non-Hispanic,Other,Covid-19,,
+Connecticut,MACDOUGALL-WALKER CORR INSTITUTION,2020,December,2020-12-31,,,,,,M,BLACK,non-Hispanic,Suicide,Hanging,,
+Connecticut,MACDOUGALL-WALKER CORR INSTITUTION,2021,January,2021-01-02,,,,,,M,BLACK,non-Hispanic,Other,Covid-19,,
+Connecticut,MACDOUGALL-WALKER CORR INSTITUTION,2021,January,2021-01-08,,,,,,M,BLACK,non-Hispanic,Other,Covid-19,,
+Connecticut,BRIDGEPORT CORRECTIONAL CENTER,2021,January,2021-01-09,,,,,,M,HISPANIC,Hispanic,Other,Covid-19,,
+Connecticut,OSBORN CORRECTIONAL INSTITUTION,2021,January,2021-01-11,,,,,,M,HISPANIC,Hispanic,Other,Covid-19,,
+Connecticut,MACDOUGALL-WALKER CORR INSTITUTION,2021,January,2021-01-22,,,,,,M,BLACK,non-Hispanic,Other,Covid-19,,
+Connecticut,BRIDGEPORT CORRECTIONAL CENTER,2021,January,2021-01-24,,,,,,M,WHITE,non-Hispanic,Other,Covid-19,,
+Connecticut,MACDOUGALL-WALKER CORR INSTITUTION,2021,January,2021-01-31,,,,,,M,BLACK,non-Hispanic,Other,Covid-19,,
+Connecticut,MACDOUGALL-WALKER CORR INSTITUTION,2021,February,2021-02-08,,,,,,M,BLACK,non-Hispanic,Natural causes,Sudden death with cardiac hypertrophy of indeterminate etiology,,
+Connecticut,BRIDGEPORT CORRECTIONAL CENTER,2021,March,2021-03-06,,,,,,M,BLACK,non-Hispanic,Natural causes,Hypertension and Cardiovascular Disease,,
+Connecticut,BRIDGEPORT CORRECTIONAL CENTER,2021,March,2021-03-07,,,,,,M,BLACK,non-Hispanic,Natural causes,Intracranial hemorrhage due to hypertensive and atherosclerotic disease,,
+Connecticut,MACDOUGALL-WALKER CORR INSTITUTION,2021,September,2021-09-08,,,,,,M,WHITE,non-Hispanic,Other,Covid-19,,
+Connecticut,OSBORN CORRECTIONAL INSTITUTION,2021,October,2021-10-01,,,,,,M,WHITE,non-Hispanic,Natural causes,Cardiac Arrhythmia with cardiac hypertrophy,,
+Connecticut,CORRIGAN-RADGOWSKI CORRECTIONAL CENTER,2021,October,2021-10-09,,,,,,M,BLACK,non-Hispanic,Natural causes,cardiopulmonary arrest due to multiple myeloma,,
+Connecticut,MACDOUGALL-WALKER CORR INSTITUTION,2021,October,2021-10-26,,,,,,M,WHITE,non-Hispanic,Natural causes,cardiopulmonary arrest due to multiple myeloma,,
+Connecticut,MACDOUGALL-WALKER CORR INSTITUTION,2021,October,2021-10-29,,,,,,M,BLACK,non-Hispanic,Other,Covid-19,,
+Connecticut,CHESHIRE CORRECTIONAL INSTITUTION,2021,November,2021-11-10,,,,,,M,BLACK,non-Hispanic,Suicide,Hanging,,
+Connecticut,MACDOUGALL-WALKER CORR INSTITUTION,2021,November,2021-11-23,,,,,,M,WHITE,non-Hispanic,Other,Covid-19,,
+Connecticut,MACDOUGALL-WALKER CORR INSTITUTION,2021,December,2021-12-02,,,,,,M,HISPANIC,Hispanic,Natural causes,"Septic complications of urosepsis in the setting of diabetes mellities, hepatic cirrhosis and hypertensive cardiovascular disease",,
+Connecticut,MACDOUGALL-WALKER CORR INSTITUTION,2021,December,2021-12-13,,,,,,M,BLACK,non-Hispanic,Other,Covid-19,,
+Connecticut,MACDOUGALL-WALKER CORR INSTITUTION,2021,December,2021-12-17,,,,,,M,BLACK,non-Hispanic,Natural causes,Liver cancer,,
+,MWCI MED ISOLATI,2022,January,2022-01-04,,,"HEATH,ANTHONY",155515,,M,BLACK,,Other,,,2022
+,MACDOUGALL,2022,January,2022-01-06,,,"NIMS,ALPHA WILLIAM",22460,,M,BLACK,,Natural Causes,,,2022
+,ST FRAN HOSP,2022,January,2022-01-09,,,"ALBIZU,HECTOR LUIS",81016,,M,HISPANIC,,Other,,,2022
+,ST FRAN HOSP,2022,January,2022-01-15,,,"HANNON,RUDY GLENN",310556,,M,WHITE,,Other,,,2022
+,ST FRAN HOSP,2022,January,2022-01-17,,,"EDWARDS,JASON",191853,,M,BLACK,,Other,,,2022
+,UCONN HOSP,2022,January,2022-01-30,,,"BATCHELOR,PATRICK L",281879,,M,BLACK,,Natural Causes,,,2022
+,ST FRAN HOSP,2022,January,2022-01-30,,,"BROWN,EUGENE",317508,,M,BLACK,,Other,,,2022
+,NEW HAVEN CC,2022,February,2022-02-24,,,"RIVERA,JAVIER SCOTT",179825,,M,HISPANIC,,Accident,,,2022
+,NEW HAVEN CC,2022,February,2022-02-24,,,"CASTRO,PAUL",438627,,M,HISPANIC,,Accident,,,2022
+,ST FRAN HOSP,2022,March,2022-03-04,,,"JESSOP,GERALD MCCARDY",434070,,M,BLACK,,Other,,,2022
+,ST FRAN HOSP,2022,March,2022-03-10,,,"MONROE,DOUGLAS",319945,,M,BLACK,,Other,,,2022
+,MACDOUGALL,2022,March,2022-03-13,,,"LAURIA,MARK",411354,,M,WHITE,,Suicide,,,2022
+,BRIDGEPORT CC,2022,June,2022-06-25,,,"BRACEY,ROBERT BAXTER",384335,,M,BLACK,,Accident,,,2022
+,DANBURY HOSP,2022,June,2022-06-05,,,"DEHANEY,ERROL",243012,,M,BLACK,,Natural Causes,,,2022
+,GARNER,2022,June,2022-06-13,,,"COWARD,ANTHONY T",245566,,M,BLACK,,Natural Causes,,,2022
+,HARTFORD CC,2022,May,2022-05-27,,,"ACOSTA,ALBERTO MANUEL",400769,,M,HISPANIC,,Accident,,,2022
+,MACDOUGALL,2022,April,2022-04-20,,,"ORTIZ,RAMON",308676,,M,HISPANIC,,Accident,,,2022
+,MACDOUGALL,2022,July,2022-07-16,,,"BELTRAN,MIGUEL",242061,,M,HISPANIC,,Natural Causes,,,2022
+,MACDOUGALL,2022,July,2022-07-31,,,"DINGLE,EDWARD E",265637,,M,BLACK,,Natural Causes,,,2022
+,MWCI MED ISOLATI,2022,July,2022-07-24,,,"ORTIZ,ANGEL",293080,,M,HISPANIC,,Suicide,,,2022
+,ST MARYS HOSP,2022,August,2022-08-07,,,"FARACI,MICHAEL A",161405,,M,WHITE,,Natural Causes,,,2022
+,YORK CI,2022,August,2022-08-17,,,"GRIFFIN,JANET",227424,,F,WHITE,,Natural Causes,,,2022
+,CORRIGAN CI,2022,July,2022-07-04,,,"CHOINIERE,JOSHUA EDWARD",281664,,M,WHITE,,Accident,,,2022
+,JOHNSON HOSP,2022,November,2022-11-29,,,"VERSTEGEN,COLLINS MICHAEL",143483,,M,WHITE,,Natural Causes,,,2022
+,HARTFORD CC,2022,December,2022-12-05,,,"DIAZ,RAMON",102362,,M,HISPANIC,,Natural Causes,,,2022
+,HARTFORD CC,2022,December,2022-12-12,,,"WRIGHT,DONALD BREON",227878,,M,BLACK,,Natural Causes,,,2022
+,BACKUS HOSP,2022,December,2022-12-14,,,"SINCLAIR,MATTHEW JOSEPH",392979,,M,WHITE,,Suicide,,,2022
+,HARTFORD HOSP,2022,December,2022-12-16,,,"RISI,ANTHONY",175009,,M,WHITE,,Natural Causes,,,2022
+,NEW HAVEN CC,2022,December,2022-12-30,,,"RIVERA,PABLO",348391,,M,HISPANIC,,Natural Causes,,,2022
+,ST FRAN HOSP,2023,January,2023-01-10,,,"HILL,JAMES",236840,,M,BLACK,,Natural,,,2023
+,HARTFORD HOSP,2023,January,2023-01-11,,,"SPRAGUE,MATTHEW",430823,,M,WHITE,,Suicide,,,2023
+,CORRIGAN CI,2023,February,2023-02-10,,,"SAIA,ANTHONY JOSEPH",25547,,M,WHITE,,Natural,,,2023
+,YORK CI,2023,February,2023-02-16,,,"KELLY,MARTHA F",419435,,F,WHITE,,Natural,,,2023
+,OSBORN CI,2023,May,2023-05-02,,,"BERRIOS,JOSE A",388772,,M,HISPANIC,,Natural,,,2023
+,WATERBRY HOSP,2023,May,2023-05-15,,,"SPENCER,DAMON LAMONT",221865,,M,BLACK,,Homicide,,,2023
+,GARNER,2023,May,2023-05-17,,,"TAMANG,PEMA",440438,,M,ASIAN,,Suicide,,,2023
+,ST VINC HOSP,2023,May,2023-05-29,,,"CATS,RICHARD",194915,,M,WHITE,,Pending Further Studies,,,2023
+,ST FRAN HOSP,2023,June,2023-06-24,,,"PALMER,DONALD",333474,,M,WHITE,,Pending Further Studies,,,2023
+,CORRIGAN CI,2023,July,2023-07-07,,,"BOUCHER,JAMES",227088,,M,WHITE,,Accident,,,2023
+,GARNER,2023,July,2023-07-10,,,"MEAGAN,ERIC R",444259,,M,WHITE,,Suicide,,,2023
+,GARNER,2023,September,2023-09-27,,,"WATSON,TREVOR CHASE",403787,,M,BLACK,,Suicide,,,2023
+,HARTFORD CC,2023,September,2023-09-01,,,"OYOLA,BENJAMIN",361147,,M,HISPANIC,,Unavailable,,,2023
+,JOHNSON HOSP,2023,July,2023-07-04,,,"POLLOCK,WILLIAM",104759,,M,WHITE,,Natural Causes,,,2023
+,MACDOUGALL,2023,July,2023-07-20,,,"BRETON,ROBERT",163703,,M,WHITE,,Natural Causes,,,2023
+,MACDOUGALL,2023,August,2023-08-24,,,"WOOD,STEVEN JOSEPH",111253,,M,WHITE,,Natural Causes,,,2023
+,NEW HAVEN CC,2023,September,2023-09-08,,,"KNIGHT,SHATEAC",405922,,M,BLACK,,Natural Causes,,,2023
+,CORRIGAN CI,2023,July,2023-07-07,,,"BOUCHER,JAMES",227088,,M,WHITE,,Accident,,,2023
+,GARNER,2023,July,2023-07-10,,,"MEAGAN,ERIC R",444259,,M,WHITE,,Suicide,,,2023
+,YALE NH HOSPITAL,2023,October,2023-10-27,,,"ESSON,SHARON D",445255,,F,BLACK,,Natural Causes,,,2023
+,OSBORN CI,2024,February,2024-02-04,,,"SMOAKES,ALPHONSO C",305991,,M,BLACK,,Natural,,,2024
+,YORK CI,2024,February,2024-02-17,,,"OLIVEIRA,ANA",446576,,F,WHITE,,Natural,,,2024
+,ST FRAN HOSP,2024,February,2024-02-23,,,"ROVELLI,FRANCESCO",446558,,M,WHITE,,Natural,,,2024
+,YORK CI,2024,March,2024-03-04,,,"ARDITO,MACKENZIE",435464,,F,WHITE,,Suicide,,,2024
+,ST FRAN HOSP,2024,March,2024-03-17,,,"BENDEL,ROBERT",440794,,M,WHITE,,Natural,,,2024
+,WALKER RC,2024,April,2024-04-22,,,"CATES,KENNETH L",104118,,M,BLACK,,Natural,,,2024
+,BRIDGEPORT CC,2024,April,2024-04-26,,,"GRAHAM,CHRISTOPHER",448122,,M,WHITE,,Accident,,,2024
+,ST FRAN HOSP,2024,April,2024-04-28,,,"RIVET,RONALD",309021,,M,WHITE,,Natural,,,2024
+,ST FRAN HOSP,2024,May,2024-05-15,,,"KENNISON,RICHARD ALAN",83356,,M,WHITE,,Natural,,,2024
+,CHESHIRE CI,2024,May,2024-05-22,,,"SIMMONS,KEVAN",369368,,M,BLACK,,Natural,,,2024
+,BRIDGEPORT CC,2024,May,2024-05-26,,,"BAILEY,STEVEN DAVID",428670,,M,WHITE,,Homicide,,,2024
+,GARNER,2024,June,2024-06-12,,,"GAMACHE,DENNIS",257388,,M,WHITE,,Natural,,,2024
+,MACDOUGALL,2024,June,2024-06-20,,,"TUCKER,ALBERT",205096,,M,BLACK,,Natural,,,2024
+,NEW HAVEN CC,2024,June,2024-06-22,,,"ZIMMITTI,MICHAEL VINCENT",388993,,M,WHITE,,Suicide,,,2024
+,CHESHIRE CI,2024,June,2024-06-24,,,"MORRISSETTE,WILLIAM PETER",85419,,M,WHITE,,Natural,,,2024
+,GARNER,2024,July,2024-07-19,,,"JOHNSON,RONALD L",429460,,M,BLACK,,Accident,,,2024
+,GARNER,2024,July,2024-07-21,,,"COLE,TYLER JOSEPH",385184,,M,BLACK,,Accident,,,2024
+,BRIDGEPORT CC,2024,July,2024-07-27,,,"BELL,EDWARD T",325557,,M,BLACK,,Natural,,,2024
+,GARNER,2024,August,2024-08-06,,,"ISMAIL,MARWAN",448631,,M,BLACK,,Suicide,,,2024
+,HARTFORD CC,2024,August,2024-08-07,,,"SANTANA,PEDRO D",285745,,M,HISPANIC,,Natural,,,2024
+,ROBINSON CI,2024,August,2024-08-11,,,"DAVIS,DARREN LEE",123895,,M,BLACK,,Natural,,,2024
+,HARTFORD CC,2024,August,2024-08-11,,,"BAENA,ANDRE BENJAMIN",394178,,M,WHITE,,Natural,,,2024
+,ST FRAN HOSP,2024,September,2024-09-14,,,"VELEZ-SERRANO,DIEGO",331545,,M,HISPANIC,,Natural,,,2024
+,ST VINC HOSP,2024,September,2024-09-21,,,"CARVALHO,RUI J",449837,,M,WHITE,,Suicide,,,2024
+,HARTFORD HOSP,2024,September,2024-09-25,,,"MINERY,SOREK O",426943,,M,WHITE,,Natural,,,2024
+,YORK CI,2024,August,2024-08-24,,,"MORIN,ASHLEY C",449515,,F,BLACK,,Accident,,,2024
+,WALKER RC,2024,October,2024-10-21,,,"SHORTER,RYAN",439409,,M,WHITE,,Suicide,,,2024
+,YALE/N.H.HOSP,2024,October,2024-10-29,,,"TKACS,WILLIAM A",425354,,M,WHITE,,Natural,,,2024
+,LAWRENCE HOSP,2024,November,2024-11-03,,,"ROMAN,ZULEICA",445924,,F,HISPANIC,,Natural,,,2024
+,ST FRAN HOSP,2024,November,2024-11-12,,,"PISKORSKI,RONALD FRANCIS",60598,,M,WHITE,,Natural,,,2024
+,MACDOUGALL,2024,December,2024-12-12,,,"MONTANER-BUSCAMPELL,KENNE",446599,,M,HISPANIC,,Homicide,,,2024
+,HARTFORD CC,2024,December,2024-12-14,,,"NYREN,TIMOTHY D",450918,,M,WHITE,,Suicide,,,2024

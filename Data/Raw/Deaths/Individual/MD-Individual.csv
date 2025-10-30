@@ -1,615 +1,676 @@
-State,Year,Month,Death.Date,Facility,First.Name,Last.Name,Death.Age,Sex,Race,Circumstance.General,CMP.ID,ID.No,DoB,DoB.Year,Circumstance.Specific,Location
-Maryland,2015,January,2015-01-16,JCI,Ellis,Douglas,71,M,NA,Natural,611,NA,NA,NA,NA,NA
-Maryland,2015,January,2015-01-16,MDC,Anthony,Roberts,60,M,NA,Natural,616,NA,NA,NA,NA,NA
-Maryland,2015,January,2015-01-18,MCTC,Cornell,Harris,48,M,NA,Natural,615,NA,NA,NA,NA,NA
-Maryland,2015,January,2015-01-18,WCI,Douglas,Teegarden,57,M,NA,Natural,627,NA,NA,NA,NA,NA
-Maryland,2015,January,2015-01-25,ECI,Daniel,Baynor,72,M,NA,Natural,608,NA,NA,NA,NA,NA
-Maryland,2015,February,2015-02-06,ECI,George,Robinson,62,M,NA,Natural,608,NA,NA,NA,NA,NA
-Maryland,2015,February,2015-02-10,MCTC,David,Synder,52,M,NA,Natural,615,NA,NA,NA,NA,NA
-Maryland,2015,February,2015-02-12,MCIH,Richard,Burke,47,M,NA,Natural,614,NA,NA,NA,NA,NA
-Maryland,2015,February,2015-02-14,JCI,Christopher,Williams,43,M,NA,Natural,611,NA,NA,NA,NA,NA
-Maryland,2015,February,2015-02-15,MCIH,Paul,McNeil,57,M,NA,Natural,614,NA,NA,NA,NA,NA
-Maryland,2015,February,2015-02-17,JCI,George,Slater,66,M,NA,Natural,611,NA,NA,NA,NA,NA
-Maryland,2015,February,2015-02-20,JCI,Louis,Leysath,34,M,NA,Accident,611,NA,NA,NA,NA,NA
-Maryland,2015,February,2015-02-25,ECI,Dan,Stallings,79,M,NA,Natural,608,NA,NA,NA,NA,NA
-Maryland,2015,February,2015-02-26,ECI,Lloyd,Adkins,64,M,NA,Natural,608,NA,NA,NA,NA,NA
-Maryland,2015,March,2015-03-01,NBCI,Martin,Bowling,67,M,NA,Natural,2182,NA,NA,NA,NA,NA
-Maryland,2015,March,2015-03-08,CMCF,Derrick,Saunders,43,M,NA,Natural,603,NA,NA,NA,NA,NA
-Maryland,2015,March,2015-03-13,BCF,Dwain,Allbright,55,M,NA,Natural,NA,NA,NA,NA,NA,NA
-Maryland,2015,March,2015-03-26,RCI,Jerry,Cooper,75,M,NA,Natural,621,NA,NA,NA,NA,NA
-Maryland,2015,March,2015-03-28,JCI,Rickey,Lewis,60,M,NA,Natural,611,NA,NA,NA,NA,NA
-Maryland,2015,April,2015-04-16,CMCF,Kevin,Lee,47,M,NA,Natural,603,NA,NA,NA,NA,NA
-Maryland,2015,April,2015-04-21,MCIH,Gregory,Stokes,39,M,NA,Undetermined,614,NA,NA,NA,NA,NA
-Maryland,2015,May,2015-05-05,JCI,Frank,Hackett,60,M,NA,Natural,611,NA,NA,NA,NA,NA
-Maryland,2015,May,2015-05-09,RCI,Christopher,Agunbiade,31,M,NA,Natural,621,NA,NA,NA,NA,NA
-Maryland,2015,May,2015-05-15,MCIJ,DeNorris,Davis,37,M,NA,Undetermined,2185,NA,NA,NA,NA,NA
-Maryland,2015,May,2015-05-28,MCIW,Catherine,Hudson,75,F,NA,Natural,613,NA,NA,NA,NA,NA
-Maryland,2015,June,2015-06-19,MCIH,Milford,Mason,67,M,NA,Natural,614,NA,NA,NA,NA,NA
-Maryland,2015,July,2015-07-15,RCI,Terry,Thomas,59,M,NA,Natural,621,NA,NA,NA,NA,NA
-Maryland,2015,July,2015-07-16,NBCI,Terrance,Cirata,59,M,NA,Homicide,2182,NA,NA,NA,NA,NA
-Maryland,2015,July,2015-07-25,WDC,George,Shelton,60,M,NA,Natural,NA,NA,NA,NA,NA,NA
-Maryland,2015,July,2015-07-27,JCI,Vernon,Griffin,54,M,NA,Natural,611,NA,NA,NA,NA,NA
-Maryland,2015,July,2015-07-29,WCI,Darrell,Murray,30,M,NA,Homicide,627,NA,NA,NA,NA,NA
-Maryland,2015,August,2015-08-11,MCIJ,Dan,Burley,54,M,NA,Natural,2185,NA,NA,NA,NA,NA
-Maryland,2015,August,2015-08-21,ECI,John,Rutherford,62,M,NA,Natural,608,NA,NA,NA,NA,NA
-Maryland,2015,August,2015-08-31,WCI,Ronald,Raines,60,M,NA,Natural,627,NA,NA,NA,NA,NA
-Maryland,2015,September,2015-09-05,ECI,James,Johnson,78,M,NA,Natural,608,NA,NA,NA,NA,NA
-Maryland,2015,September,2015-09-24,MCIH,James,Elliott,66,M,NA,Natural,614,NA,NA,NA,NA,NA
-Maryland,2015,September,2015-09-27,ECI,Terrell,Harrison,28,M,NA,Natural,608,NA,NA,NA,NA,NA
-Maryland,2015,October,2015-10-02,MCTC,Parris,Mason,48,M,NA,Natural,615,NA,NA,NA,NA,NA
-Maryland,2015,October,2015-10-06,DRCF,Aubrey,Wilder,32,M,NA,Natural,605,NA,NA,NA,NA,NA
-Maryland,2015,October,2015-10-14,NBCI,Rodney,Clinton,59,M,NA,Natural,2182,NA,NA,NA,NA,NA
-Maryland,2015,October,2015-10-15,PATX,Darnell,Cunningham,31,M,NA,Undetermined,620,NA,NA,NA,NA,NA
-Maryland,2015,October,2015-10-20,WCI,Edward,Hoffman,84,M,NA,Natural,627,NA,NA,NA,NA,NA
-Maryland,2015,October,2015-10-23,MCIH,Ronald,Brown,60,M,NA,Natural,614,NA,NA,NA,NA,NA
-Maryland,2015,October,2015-10-27,MCIJ,Ronald,Parham,52,M,NA,Natural,2185,NA,NA,NA,NA,NA
-Maryland,2015,November,2015-11-11,ECI,Tyree,Echols,39,M,NA,Natural,608,NA,NA,NA,NA,NA
-Maryland,2015,November,2015-11-13,WCI,Earl,Lawton,72,M,NA,Natural,627,NA,NA,NA,NA,NA
-Maryland,2015,November,2015-11-15,NBCI,Manuel,Higgins,26,M,NA,Suicide,2182,NA,NA,NA,NA,NA
-Maryland,2015,November,2015-11-22,MCIJ,Troy,Frazier,54,M,NA,Natural,2185,NA,NA,NA,NA,NA
-Maryland,2015,November,2015-11-26,JCI,John,Prince,58,M,NA,Natural,611,NA,NA,NA,NA,NA
-Maryland,2015,November,2015-11-27,JCI,Douglas,Minchillo,56,M,NA,Natural,611,NA,NA,NA,NA,NA
-Maryland,2015,November,2015-11-29,NBCI,Timothy,Howard,41,M,NA,Undetermined,2182,NA,NA,NA,NA,NA
-Maryland,2015,November,2015-11-30,MCIH,Ronald,Armstrong,60,M,NA,Natural,614,NA,NA,NA,NA,NA
-Maryland,2015,December,2015-12-07,MCIJ,Timothy,Robinson,53,M,NA,Natural,2185,NA,NA,NA,NA,NA
-Maryland,2015,December,2015-12-09,JCI,Franklin,Rankin,66,M,NA,Natural,611,NA,NA,NA,NA,NA
-Maryland,2015,December,2015-12-12,JCI,Daniel,Harney,56,M,NA,Natural,611,NA,NA,NA,NA,NA
-Maryland,2015,December,2015-12-14,RCI,Norman,Carroll,82,M,NA,Natural,621,NA,NA,NA,NA,NA
-Maryland,2015,December,2015-12-21,MCTC,Ray,Nelson,61,M,NA,Natural,615,NA,NA,NA,NA,NA
-Maryland,2015,December,2015-12-23,JCI,Wayne,Young,70,M,NA,Natural,611,NA,NA,NA,NA,NA
-Maryland,2015,December,2015-12-27,NBCI,Gilbert,Bacon,52,M,NA,Natural,2182,NA,NA,NA,NA,NA
-Maryland,2015,December,2015-12-30,BCCC,Aaron,Harris,54,M,NA,Natural,600,NA,NA,NA,NA,NA
-Maryland,2015,December,2015-12-30,MCIH,Herbert,Weare,60,M,NA,Natural,614,NA,NA,NA,NA,NA
-Maryland,2016,March,2016-03-27,JCI,Douglas,Arey,67,M,NA,Natural,611,NA,NA,NA,NA,NA
-Maryland,2016,September,2016-09-17,JCI,Ronald,Bell,61,M,NA,Undetermined,611,NA,NA,NA,NA,NA
-Maryland,2016,June,2016-06-22,WCI,Dwayne,Boyer,53,M,NA,Natural,627,NA,NA,NA,NA,NA
-Maryland,2016,February,2016-02-10,WCI,Rodney,Brittingham,57,M,NA,Natural,627,NA,NA,NA,NA,NA
-Maryland,2016,March,2016-03-09,JRI,Joseph,Brooks,61,M,NA,Natural,NA,NA,NA,NA,NA,NA
-Maryland,2016,November,2016-11-10,MRDCC,Bryant,Cain,29,M,NA,Suicide,616,NA,NA,NA,NA,NA
-Maryland,2016,August,2016-08-29,MCTC,Aaron,Carey,66,M,NA,Natural,615,NA,NA,NA,NA,NA
-Maryland,2016,June,2016-06-26,RCI,Joseph,Coleman,51,M,NA,Natural,621,NA,NA,NA,NA,NA
-Maryland,2016,December,2016-12-28,MCTC,Christopher,Cook,41,M,NA,Natural,615,NA,NA,NA,NA,NA
-Maryland,2016,November,2016-11-12,WCI,George,Dobson,52,M,NA,Undetermined,627,NA,NA,NA,NA,NA
-Maryland,2016,March,2016-03-10,NBCI,Corey,Edmonds,37,M,NA,Natural,2182,NA,NA,NA,NA,NA
-Maryland,2016,June,2016-06-13,MCIH,Fernando,Felix-Garcia,58,M,NA,Natural,614,NA,NA,NA,NA,NA
-Maryland,2016,May,2016-05-14,JCI,Derrick,Foskey,51,M,NA,Undetermined,611,NA,NA,NA,NA,NA
-Maryland,2016,February,2016-02-15,JCI,Lee,Gerhold,92,M,NA,Natural,611,NA,NA,NA,NA,NA
-Maryland,2016,June,2016-06-09,MCIJ,Kerry,Gilmer,58,M,NA,Natural,2185,NA,NA,NA,NA,NA
-Maryland,2016,May,2016-05-19,WCI,Davon,Golden,39,M,NA,NA,627,NA,NA,NA,NA,NA
-Maryland,2016,September,2016-09-27,DRCF,Paul,Goodwin,52,M,NA,Natural,605,NA,NA,NA,NA,NA
-Maryland,2016,October,2016-10-11,MCIH,Benjamin,Hall,26,M,NA,Homicide,614,NA,NA,NA,NA,NA
-Maryland,2016,May,2016-05-26,BCCC,Barry,Harris,36,M,NA,Natural,600,NA,NA,NA,NA,NA
-Maryland,2016,July,2016-07-18,MCTC,James,Hopkins,51,M,NA,Natural,615,NA,NA,NA,NA,NA
-Maryland,2016,October,2016-10-10,ICC,Lanteon,Houston,0,M,NA,N/A,NA,NA,NA,NA,NA,NA
-Maryland,2016,May,2016-05-05,BCCC,Ralph,Johnson,58,M,NA,Natural,600,NA,NA,NA,NA,NA
-Maryland,2016,April,2016-04-10,WDC,Toni,Lee,55,M,NA,Natural,NA,NA,NA,NA,NA,NA
-Maryland,2016,December,2016-12-07,MCIJ,Howard,Lieberman,56,M,NA,Natural,2185,NA,NA,NA,NA,NA
-Maryland,2016,May,2016-05-22,WCI,Marshall,Metz,71,M,NA,Natural,627,NA,NA,NA,NA,NA
-Maryland,2016,September,2016-09-16,MCIH,George,Middleton,0,M,NA,Natural,614,NA,NA,NA,NA,NA
-Maryland,2016,February,2016-02-09,JCI,Lee,Moore,77,M,NA,Natural,611,NA,NA,NA,NA,NA
-Maryland,2016,November,2016-11-26,JI,Durant,Moore,52,M,NA,Natural,2454,NA,NA,NA,NA,NA
-Maryland,2016,August,2016-08-14,JCI,John,O'Sullivan,43,M,NA,Homicide,611,NA,NA,NA,NA,NA
-Maryland,2016,March,2016-03-03,MCTC,William,Parker,65,M,NA,Natural,615,NA,NA,NA,NA,NA
-Maryland,2016,November,2016-11-02,RCI,Spurgeon,Peltzer,73,M,NA,Natural,621,NA,NA,NA,NA,NA
-Maryland,2016,May,2016-05-24,WCI,Lewis,Phares,62,M,NA,Natural,627,NA,NA,NA,NA,NA
-Maryland,2016,August,2016-08-19,NBCI,Howard,Ray,54,M,NA,Natural,2182,NA,NA,NA,NA,NA
-Maryland,2016,March,2016-03-14,ECI,James,Robinson,33,M,NA,Suicide,608,NA,NA,NA,NA,NA
-Maryland,2016,December,2016-12-17,JCI,Juan,Rodriguez,33,M,NA,Suicide,611,NA,NA,NA,NA,NA
-Maryland,2016,December,2016-12-29,MRDCC,Blas,Rosales-Cardona-Rosales,17,M,NA,Natural,616,NA,NA,NA,NA,NA
-Maryland,2016,February,2016-02-04,JCI,Bryant,Rose,58,M,NA,Natural,611,NA,NA,NA,NA,NA
-Maryland,2016,January,2016-01-10,ECI,Dallas,Ruark,53,M,NA,Natural,608,NA,NA,NA,NA,NA
-Maryland,2016,September,2016-09-28,NBCI,Shane,Simms,24,M,NA,Homicide,2182,NA,NA,NA,NA,NA
-Maryland,2016,October,2016-10-09,ECI,John,Simms,67,M,NA,Natural,608,NA,NA,NA,NA,NA
-Maryland,2016,August,2016-08-14,MCIJ,William,Skillman,55,M,NA,Natural,2185,NA,NA,NA,NA,NA
-Maryland,2016,January,2016-01-21,JCI,Glen,Smith,58,M,NA,Homicide,611,NA,NA,NA,NA,NA
-Maryland,2016,July,2016-07-24,JCI,George,Smith,59,M,NA,Natural,611,NA,NA,NA,NA,NA
-Maryland,2016,November,2016-11-16,WCI,Alan,Sullivan,38,M,NA,Natural,627,NA,NA,NA,NA,NA
-Maryland,2016,October,2016-10-13,PATX,David,Sweets,69,M,NA,Natural,620,NA,NA,NA,NA,NA
-Maryland,2016,April,2016-04-12,ECI,Hampton,Taylor,66,M,NA,Natural,608,NA,NA,NA,NA,NA
-Maryland,2016,September,2016-09-26,WCI,James,Tooles,48,M,NA,Undetermined,627,NA,NA,NA,NA,NA
-Maryland,2016,March,2016-03-04,JCI,John,Upchurch,48,M,NA,Natural,611,NA,NA,NA,NA,NA
-Maryland,2016,August,2016-08-26,JI,Cecil,Vincent,31,M,NA,Undetermined,2454,NA,NA,NA,NA,NA
-Maryland,2016,September,2016-09-08,BCF,James,Welsh,56,M,NA,Accident,NA,NA,NA,NA,NA,NA
-Maryland,2016,October,2016-10-21,MCTC,Marshall,Wilson,45,M,NA,Natural,615,NA,NA,NA,NA,NA
-Maryland,2016,December,2016-12-09,MCIH,Monroe,Wright,67,M,NA,Natural,614,NA,NA,NA,NA,NA
-Maryland,2016,December,2016-12-13,ECI,Michael,Young,39,M,NA,Natural,608,NA,NA,NA,NA,NA
-Maryland,2017,January,2017-01-04,JCI,Robert,Jones,59,M,NA,Natural,611,NA,NA,NA,NA,NA
-Maryland,2017,January,2017-01-13,ECI,Randolph,Mclean,46,M,NA,Natural,608,NA,NA,NA,NA,NA
-Maryland,2017,January,2017-01-14,MCIH,Darryl,Graves,56,M,NA,Natural,614,NA,NA,NA,NA,NA
-Maryland,2017,January,2017-01-17,MCIH,Michael,Grisson,59,M,NA,Natural,614,NA,NA,NA,NA,NA
-Maryland,2017,January,2017-01-18,NBCI,Gregory,Tilghman,33,M,NA,Natural,2182,NA,NA,NA,NA,NA
-Maryland,2017,January,2017-01-19,MRDCC,Anton,Sellers,44,M,NA,Natural,616,NA,NA,NA,NA,NA
-Maryland,2017,January,2017-01-24,JCI,Tuse,Liu,67,M,NA,Natural,611,NA,NA,NA,NA,NA
-Maryland,2017,February,2017-02-02,WCI,Robert,Scheidt,75,M,NA,Natural,627,NA,NA,NA,NA,NA
-Maryland,2017,February,2017-02-11,WCI,Roger,Largent,69,M,NA,Homicide,627,NA,NA,NA,NA,NA
-Maryland,2017,February,2017-02-12,JCI,Lawrence,Horn,76,M,NA,Natural,611,NA,NA,NA,NA,NA
-Maryland,2017,February,2017-02-12,MCTC,Donte,Pack,25,M,NA,Natural,615,NA,NA,NA,NA,NA
-Maryland,2017,February,2017-02-17,WCI,John,Martin,83,M,NA,Natural,627,NA,NA,NA,NA,NA
-Maryland,2017,February,2017-02-22,MCIW,Debra,Mariner,40,F,NA,Unnatural,613,NA,NA,NA,NA,NA
-Maryland,2017,March,2017-03-03,NBCI,John,Dean,36,M,NA,Natural,2182,NA,NA,NA,NA,NA
-Maryland,2017,March,2017-03-07,ECI,Anthony,Brown,55,M,NA,Natural,608,NA,NA,NA,NA,NA
-Maryland,2017,March,2017-03-10,WCI,Warner,Hill,72,M,NA,Natural,627,NA,NA,NA,NA,NA
-Maryland,2017,March,2017-03-17,WCI,Darrell,Williams,61,M,NA,Natural,627,NA,NA,NA,NA,NA
-Maryland,2017,March,2017-03-23,JCI,Floyd,Michaux,58,M,NA,Natural,611,NA,NA,NA,NA,NA
-Maryland,2017,March,2017-03-25,ECI,Lawrence,Kerr,69,M,NA,Natural,608,NA,NA,NA,NA,NA
-Maryland,2017,April,2017-04-13,DRCF,Ronald,Morris,52,M,NA,Natural,605,NA,NA,NA,NA,NA
-Maryland,2017,April,2017-04-15,WCI,Michael,Hall,30,M,NA,Homicide,627,NA,NA,NA,NA,NA
-Maryland,2017,April,2017-04-17,PATX,Charles,Strother,69,M,NA,Natural,620,NA,NA,NA,NA,NA
-Maryland,2017,April,2017-04-22,MCIH,Alvin,Hill,50,M,NA,Natural,614,NA,NA,NA,NA,NA
-Maryland,2017,May,2017-05-03,JCI,Robert,Schaedel,36,M,NA,Natural,611,NA,NA,NA,NA,NA
-Maryland,2017,May,2017-05-25,JCI,Scott,Sowell,80,M,NA,Natural,611,NA,NA,NA,NA,NA
-Maryland,2017,May,2017-05-25,WCI,Richard,Hurst,63,M,NA,Natural,627,NA,NA,NA,NA,NA
-Maryland,2017,June,2017-06-03,PATX,James,Graham,59,M,NA,Natural,620,NA,NA,NA,NA,NA
-Maryland,2017,June,2017-06-13,PATX,Jasper,Moore,76,M,NA,Natural,620,NA,NA,NA,NA,NA
-Maryland,2017,June,2017-06-16,WCI,Thomas,Zindar,61,M,NA,Natural,627,NA,NA,NA,NA,NA
-Maryland,2017,June,2017-06-25,WCI,Robert,Henry,70,M,NA,Natural,627,NA,NA,NA,NA,NA
-Maryland,2017,July,2017-07-02,ECI,William,Young,70,M,NA,Accident,608,NA,NA,NA,NA,NA
-Maryland,2017,July,2017-07-06,RCI,Malcolm,Turner,44,M,NA,Natural,621,NA,NA,NA,NA,NA
-Maryland,2017,July,2017-07-19,JCI,Mark,Watkins,45,M,NA,Natural,611,NA,NA,NA,NA,NA
-Maryland,2017,July,2017-07-26,MRDCC,Warren,Davidson,51,M,NA,Other,616,NA,NA,NA,NA,NA
-Maryland,2017,July,2017-07-29,JCI,Jeffrey,Dolch,40,M,NA,Suicide,611,NA,NA,NA,NA,NA
-Maryland,2017,August,2017-08-05,NBCI,Joseph,Metheny,61,M,NA,Natural,2182,NA,NA,NA,NA,NA
-Maryland,2017,August,2017-08-08,JCI,Charles,Doyle,70,M,NA,Natural,611,NA,NA,NA,NA,NA
-Maryland,2017,August,2017-08-09,ECI,Chad,Bozman,30,M,NA,Natural,608,NA,NA,NA,NA,NA
-Maryland,2017,August,2017-08-27,WCI,Charles,Boblit,84,M,NA,Natural,627,NA,NA,NA,NA,NA
-Maryland,2017,September,2017-09-22,MCIH,Richard,Holmes,0,M,NA,NA,614,NA,NA,NA,NA,NA
-Maryland,2017,September,2017-09-23,JCI,Rowland,Hudson,61,M,NA,Natural,611,NA,NA,NA,NA,NA
-Maryland,2017,September,2017-09-27,ECI,Albert,Turner,75,M,NA,Natural,608,NA,NA,NA,NA,NA
-Maryland,2017,October,2017-10-03,MCIH,James,Harris,63,M,NA,Natural,614,NA,NA,NA,NA,NA
-Maryland,2017,October,2017-10-03,MCIH,Umar,Muhammad,NA,M,NA,NA,614,NA,NA,NA,NA,NA
-Maryland,2017,October,2017-10-18,ECI,Robert,Adams,65,M,NA,NA,608,NA,NA,NA,NA,NA
-Maryland,2017,October,2017-10-18,MCIH,Eugene,Saunders,75,M,NA,Natural,614,NA,NA,NA,NA,NA
-Maryland,2017,November,2017-11-01,JCI,Tyrone,Graham,64,M,NA,NA,611,NA,NA,NA,NA,NA
-Maryland,2017,November,2017-11-10,ECI,Thomas,Higgs,74,M,NA,NA,608,NA,NA,NA,NA,NA
-Maryland,2017,November,2017-11-10,NBCI,Samuel,Cortijo,76,M,NA,NA,2182,NA,NA,NA,NA,NA
-Maryland,2017,November,2017-11-12,MCIW,Emily,Butler,28,F,NA,NA,613,NA,NA,NA,NA,NA
-Maryland,2017,November,2017-11-28,MCTC,Jose,Rodriguez,30,M,NA,NA,615,NA,NA,NA,NA,NA
-Maryland,2017,December,2017-12-15,JCI,George,Johnson,28,M,NA,Suicide,611,NA,NA,NA,NA,NA
-Maryland,2017,December,2017-12-23,WCI,James,Lightbourne,69,M,NA,NA,627,NA,NA,NA,NA,NA
-Maryland,2018,January,2018-01-21,WCI,John,Lutz,79,M,NA,Natural,627,NA,NA,NA,NA,NA
-Maryland,2018,January,2018-01-23,MCIW,Mary,Utley,70,F,NA,Natural,613,NA,NA,NA,NA,NA
-Maryland,2018,February,2018-02-01,JCI,Devin,Cooper,46,M,NA,Undetermined,611,NA,NA,NA,NA,NA
-Maryland,2018,February,2018-02-01,MCTC,Craig,Ison,56,M,NA,Natural,615,NA,NA,NA,NA,NA
-Maryland,2018,February,2018-02-16,ECI,Samuel,Glass,80,M,NA,Natural,608,NA,NA,NA,NA,NA
-Maryland,2018,February,2018-02-19,JCI,Tyrone,Harrell,69,M,NA,Undetermined,611,NA,NA,NA,NA,NA
-Maryland,2018,February,2018-02-24,JCI,Donald,Gross,57,M,NA,Accident,611,NA,NA,NA,NA,NA
-Maryland,2018,February,2018-02-24,WCI,Micheal,Mays,35,M,NA,Natural,627,NA,NA,NA,NA,NA
-Maryland,2018,March,2018-03-01,JCI,James,Malone,58,M,NA,Undetermined,611,NA,NA,NA,NA,NA
-Maryland,2018,March,2018-03-03,JCI,Franklin,Yon,58,M,NA,Natural,611,NA,NA,NA,NA,NA
-Maryland,2018,March,2018-03-08,JCI,Jeffrey,Allen,55,M,NA,NA,611,NA,NA,NA,NA,NA
-Maryland,2018,March,2018-03-10,PATX,Brandon,Royster,31,M,NA,Suicide,620,NA,NA,NA,NA,NA
-Maryland,2018,March,2018-03-10,WCI,Rudolph,Phelps,58,M,NA,Natural,627,NA,NA,NA,NA,NA
-Maryland,2018,March,2018-03-14,JCI,Ronald,Sweeney,37,M,NA,Suicide,611,NA,NA,NA,NA,NA
-Maryland,2018,March,2018-03-15,ECI,Robert,Enders,74,M,NA,Natural,608,NA,NA,NA,NA,NA
-Maryland,2018,March,2018-03-20,RCI,Kirk,Jennings,71,M,NA,Natural,621,NA,NA,NA,NA,NA
-Maryland,2018,March,2018-03-24,JCI,Guy,Shannon,49,M,NA,Natural,611,NA,NA,NA,NA,NA
-Maryland,2018,April,2018-04-12,WCI,Fernando,Asturizaga,51,M,NA,Suicide,627,NA,NA,NA,NA,NA
-Maryland,2018,April,2018-04-20,NBCI,Paul,Howard,54,M,NA,Natural,2182,NA,NA,NA,NA,NA
-Maryland,2018,April,2018-04-26,JCI,Curtis,Monroe,60,M,NA,Natural,611,NA,NA,NA,NA,NA
-Maryland,2018,April,2018-04-26,MCIH,Curtis,Long,59,M,NA,Natural,614,NA,NA,NA,NA,NA
-Maryland,2018,May,2018-05-09,WCI,Charles,Bell,83,M,NA,Natural,627,NA,NA,NA,NA,NA
-Maryland,2018,May,2018-05-30,NBCI,Carlos,Holcomb,46,M,NA,Natural,2182,NA,NA,NA,NA,NA
-Maryland,2018,June,2018-06-04,ECI,Terry,Kinzer,60,M,NA,Natural,608,NA,NA,NA,NA,NA
-Maryland,2018,June,2018-06-12,WCI,Ervin,Deans,36,M,NA,Suicide,627,NA,NA,NA,NA,NA
-Maryland,2018,June,2018-06-16,JCI,Herman,Shorter,48,M,NA,Natural,611,NA,NA,NA,NA,NA
-Maryland,2018,June,2018-06-23,JCI,Ronald,Wilson,61,M,NA,Natural,611,NA,NA,NA,NA,NA
-Maryland,2018,July,2018-07-09,ECIW,Chey,Jordan,27,M,NA,Suicide,608,NA,NA,NA,NA,NA
-Maryland,2018,July,2018-07-09,MCTC,Jeffrey,Holbrook,30,M,NA,Natural,615,NA,NA,NA,NA,NA
-Maryland,2018,July,2018-07-16,RCI,Michael,Taylor,33,M,NA,Natural,621,NA,NA,NA,NA,NA
-Maryland,2018,July,2018-07-18,ECI,William,Hamilton,71,M,NA,Natural,608,NA,NA,NA,NA,NA
-Maryland,2018,July,2018-07-22,MCIJ,David,Houck,52,M,NA,Natural,2185,NA,NA,NA,NA,NA
-Maryland,2018,July,2018-07-31,MRDC,Melvin,McDougald,55,M,NA,Natural,616,NA,NA,NA,NA,NA
-Maryland,2018,August,2018-08-04,WCI,Rodney,Solomon,52,M,NA,Natural,627,NA,NA,NA,NA,NA
-Maryland,2018,August,2018-08-11,ECI,Keith,Lomax,46,M,NA,Natural,608,NA,NA,NA,NA,NA
-Maryland,2018,September,2018-09-02,WCI,Teyquan,Wilson,23,M,NA,Homicide,627,NA,NA,NA,NA,NA
-Maryland,2018,September,2018-09-05,JCI,William,Robinson,81,M,NA,Natural,611,NA,NA,NA,NA,NA
-Maryland,2018,September,2018-09-06,NBCI,Antonio,Hutcherson,31,M,NA,Suicide,2182,NA,NA,NA,NA,NA
-Maryland,2018,September,2018-09-09,DRCF,Michael,Harris,33,M,NA,Natural,605,NA,NA,NA,NA,NA
-Maryland,2018,September,2018-09-14,JCI,Roger,Blake,58,M,NA,Natural,611,NA,NA,NA,NA,NA
-Maryland,2018,September,2018-09-17,WCI,Delonte,Taylor,59,M,NA,Natural,627,NA,NA,NA,NA,NA
-Maryland,2018,September,2018-09-21,JCI,James,Grimm,70,M,NA,Natural,611,NA,NA,NA,NA,NA
-Maryland,2018,September,2018-09-29,WCI,Stephen,Sellman,58,M,NA,Undetermined,627,NA,NA,NA,NA,NA
-Maryland,2018,September,2018-09-30,RCI,William,Taylor,33,M,NA,Natural,621,NA,NA,NA,NA,NA
-Maryland,2018,October,2018-10-03,WCI,Daniel,Rosales,67,M,NA,Natural,627,NA,NA,NA,NA,NA
-Maryland,2018,October,2018-10-08,ECI,Miles,Lopez,42,M,NA,Natural,608,NA,NA,NA,NA,NA
-Maryland,2018,October,2018-10-08,JCI,Dewalt,Stewart,50,M,NA,Natural,611,NA,NA,NA,NA,NA
-Maryland,2018,October,2018-10-15,WCI,Donnie,Robertson,50,M,NA,Natural,627,NA,NA,NA,NA,NA
-Maryland,2018,October,2018-10-19,RCI,Ernest,Murphy,46,M,NA,Natural,621,NA,NA,NA,NA,NA
-Maryland,2018,October,2018-10-23,JCI,Jeffrey,Cole,53,M,NA,Undetermined,611,NA,NA,NA,NA,NA
-Maryland,2018,November,2018-11-02,JCI,David,Stephenson,44,M,NA,Homicide,611,NA,NA,NA,NA,NA
-Maryland,2018,November,2018-11-04,JCI,Robert,Butler,52,M,NA,Natural,611,NA,NA,NA,NA,NA
-Maryland,2018,November,2018-11-14,ECI-W,Aaron,Million,27,M,NA,Undetermined,608,NA,NA,NA,NA,NA
-Maryland,2018,November,2018-11-15,JCI,Edward,Brown,50,M,NA,Natural,611,NA,NA,NA,NA,NA
-Maryland,2018,November,2018-11-27,MCTC,Milton,Pajak,34,M,NA,Accident,615,NA,NA,NA,NA,NA
-Maryland,2018,November,2018-11-29,WCI,Michael,Powell,56,M,NA,Undetermined,627,NA,NA,NA,NA,NA
-Maryland,2018,December,2018-12-04,MCIH,John,Brown,48,M,NA,Natural,614,NA,NA,NA,NA,NA
-Maryland,2018,December,2018-12-14,WCI,Billy,Burch,50,M,NA,Natural,627,NA,NA,NA,NA,NA
-Maryland,2018,December,2018-12-19,ECI,Tyrone,Williams,50,M,NA,Undetermined,608,NA,NA,NA,NA,NA
-Maryland,2019,January,2019-01-04,JCI/JRI,Anthony,Ligone,53,M,NA,Natural,611,NA,NA,NA,NA,NA
-Maryland,2019,January,2019-01-08,MCI-H,Fewell,Douglas,59,M,NA,Natural,614,NA,NA,NA,NA,NA
-Maryland,2019,January,2019-01-10,WCI,Clyde,Chew,83,M,NA,Natural,627,NA,NA,NA,NA,NA
-Maryland,2019,January,2019-01-13,JCI,Kenneth,Mackall,69,M,NA,Natural,611,NA,NA,NA,NA,NA
-Maryland,2019,January,2019-01-23,MCTC,Charles,Novak,43,M,NA,Natural,615,NA,NA,NA,NA,NA
-Maryland,2019,January,2019-01-25,JCI,Ronald,Lee,62,M,NA,Natural,611,NA,NA,NA,NA,NA
-Maryland,2019,February,2019-02-06,MCTC-H,Kacy,Queen,45,M,NA,Natural,615,NA,NA,NA,NA,NA
-Maryland,2019,February,2019-02-11,JCI/JRI,David,Goldstein,50,M,NA,Natural,611,NA,NA,NA,NA,NA
-Maryland,2019,February,2019-02-10,MCTC,Dwan,Brooks,60,M,NA,Natural,615,NA,NA,NA,NA,NA
-Maryland,2019,February,2019-02-23,NBCI,Dominic,Anderson,27,M,NA,Homicide,2182,NA,NA,NA,NA,NA
-Maryland,2019,February,2019-02-25,MCI-H,Robert,Blue,50,M,NA,Natural,614,NA,NA,NA,NA,NA
-Maryland,2019,February,2019-02-26,JCI,NA,Redfern,71,M,NA,Undetermined,611,NA,NA,NA,NA,NA
-Maryland,2019,February,2019-02-28,WCI,Bobby,Dupree,43,M,NA,Natural,627,NA,NA,NA,NA,NA
-Maryland,2019,March,2019-03-03,BCF,Marcus,Jones,28,M,NA,Natural,NA,NA,NA,NA,NA,NA
-Maryland,2019,March,2019-03-04,PATX,Akeel,Rice,28,M,NA,Undetermined,620,NA,NA,NA,NA,NA
-Maryland,2019,March,2019-03-24,WCI,Wilbur,Moyer,30,M,NA,Homicide,627,NA,NA,NA,NA,NA
-Maryland,2019,April,2019-04-06,WCI,Gerard,Diggs,59,M,NA,Natural,627,NA,NA,NA,NA,NA
-Maryland,2019,April,2019-04-14,JCI,Jerome,Miller-Bey,72,M,NA,Natural,611,NA,NA,NA,NA,NA
-Maryland,2019,April,2019-04-24,PATX/JRI,William,Harris,71,M,NA,Natural,620,NA,NA,NA,NA,NA
-Maryland,2019,April,2019-04-27,ECI,Chad,Miller,43,M,NA,Could Not Be Determined,608,NA,NA,NA,NA,NA
-Maryland,2019,April,2019-04-28,ECI,James,Tayman,51,M,NA,Natural,608,NA,NA,NA,NA,NA
-Maryland,2019,May,2019-05-10,RCI,Allen,Painter,54,M,NA,Natural,621,NA,NA,NA,NA,NA
-Maryland,2019,May,2019-05-13,JCI,Dennis,Wallace,67,M,NA,Natural,611,NA,NA,NA,NA,NA
-Maryland,2019,May,2019-05-16,ECI,Ricardo,Smith,40,M,NA,Undetermined,608,NA,NA,NA,NA,NA
-Maryland,2019,May,2019-05-17,MCIH,Derek,Birkhead,63,M,NA,Natural,614,NA,NA,NA,NA,NA
-Maryland,2019,May,2019-05-29,NBCI,Walter,Taylor,76,M,NA,Natural,2182,NA,NA,NA,NA,NA
-Maryland,2019,May,2019-05-30,MCTC,Ronnie,Harris,56,M,NA,Homicide,615,NA,NA,NA,NA,NA
-Maryland,2019,May,2019-05-30,JCI,Luke,Osei-Kwame,68,M,NA,Natural,611,NA,NA,NA,NA,NA
-Maryland,2019,May,2019-05-30,MCIJ,Daniel,Howard,32,M,NA,Undetermined,2185,NA,NA,NA,NA,NA
-Maryland,2019,June,2019-06-01,ECI,Adam,Melvin,45,M,NA,Natural,608,NA,NA,NA,NA,NA
-Maryland,2019,June,2019-06-02,MCIH,Joseph,Meeks,48,M,NA,Natural,614,NA,NA,NA,NA,NA
-Maryland,2019,June,2019-06-08,WCI,Herbert,Mayes,33,M,NA,Homicide,627,NA,NA,NA,NA,NA
-Maryland,2019,June,2019-06-22,MRDCC,Anthony,Chavis,44,M,NA,Unknown,616,NA,NA,NA,NA,NA
-Maryland,2019,July,2019-07-01,NBCI,Nathaniel,McKnight,37,M,NA,Unknown,2182,NA,NA,NA,NA,NA
-Maryland,2019,July,2019-07-06,WCI,Ricky,Hayden,59,M,NA,Natural,627,NA,NA,NA,NA,NA
-Maryland,2019,July,2019-07-07,PATX,Mekhael,Tyson,30,M,NA,Natural,620,NA,NA,NA,NA,NA
-Maryland,2019,July,2019-07-22,ECI,Troy,Miles,51,M,NA,Undetermined,608,NA,NA,NA,NA,NA
-Maryland,2019,July,2019-07-22,ECI,Patrick,Cullen,43,M,NA,Natural,608,NA,NA,NA,NA,NA
-Maryland,2019,July,2019-07-28,RCI,Michael,Nelson,57,M,NA,Natural,621,NA,NA,NA,NA,NA
-Maryland,2019,August,2019-08-03,WCI,James,Tyre,81,M,NA,Natural,627,NA,NA,NA,NA,NA
-Maryland,2019,August,2019-08-05,ECI-W,Dorian,Jones,49,M,NA,Undetermined,608,NA,NA,NA,NA,NA
-Maryland,2019,August,2019-08-15,MCIH,James,Sweeney,62,M,NA,Natural,614,NA,NA,NA,NA,NA
-Maryland,2019,August,2019-08-16,ECI,Edward,Shoemaker,72,M,NA,Natural,608,NA,NA,NA,NA,NA
-Maryland,2019,August,2019-08-17,RCI,Rocky,Hines,60,M,NA,Natural,621,NA,NA,NA,NA,NA
-Maryland,2019,August,2019-08-18,RCI,Sterling,Hollis,36,M,NA,Could Not Be Determined,621,NA,NA,NA,NA,NA
-Maryland,2019,August,2019-08-30,ECI,Edward,Holmes,64,M,NA,Natural,608,NA,NA,NA,NA,NA
-Maryland,2019,September,2019-09-01,WCI,Marvin,Vasquez-Juarez,22,M,NA,Suicide,627,NA,NA,NA,NA,NA
-Maryland,2019,September,2019-09-13,ECI,Alexander,Christopher,32,M,NA,Homicide,608,NA,NA,NA,NA,NA
-Maryland,2019,September,2019-09-26,JCI,Antonio,Medley,57,M,NA,Natural,611,NA,NA,NA,NA,NA
-Maryland,2019,October,2019-10-11,ECI-E,Michael,Moore,63,M,NA,Natural,608,NA,NA,NA,NA,NA
-Maryland,2019,October,2019-10-15,JCI,Samuel,Mason,36,M,NA,Suicide,611,NA,NA,NA,NA,NA
-Maryland,2019,November,2019-11-19,MCIJ,Raymond,Vanfield,82,M,NA,Natural,2185,NA,NA,NA,NA,NA
-Maryland,2019,December,2019-12-02,WCI,Darrell,Hicks,61,M,NA,Natural,627,NA,NA,NA,NA,NA
-Maryland,2019,December,2019-12-02,NBCI,Earl,McKnight,44,M,NA,Natural,2182,NA,NA,NA,NA,NA
-Maryland,2019,December,2019-12-10,MRDCC,Richard,Barrett,41,M,NA,Could Not Be Determined,616,NA,NA,NA,NA,NA
-Maryland,2019,December,2019-12-12,ECI,John,Davenport,48,M,NA,Natural,608,NA,NA,NA,NA,NA
-Maryland,2019,December,2019-12-26,WCI,Bernard,Winkleman,65,M,NA,Natural,627,NA,NA,NA,NA,NA
-Maryland,2020,January,2020-01-05,WCI,Bradley,Rinehart,52,M,NA,suspected Homicide,627,NA,NA,NA,NA,NA
-Maryland,2020,January,2020-01-08,WCI,Darryl,Green,52,M,NA,Could Not Be Determined,627,NA,NA,NA,NA,NA
-Maryland,2020,January,2020-01-10,MCTC,Travis,Floyd,32,M,NA,Natural,615,NA,NA,NA,NA,NA
-Maryland,2020,January,2020-01-11,JCI,Scott,Odham,55,M,NA,Natural,611,NA,NA,NA,NA,NA
-Maryland,2020,January,2020-01-17,ECI,George,Stokes,61,M,NA,Natural,608,NA,NA,NA,NA,NA
-Maryland,2020,January,2020-01-23,MCTC,Christopher,Dorsey,36,M,NA,suspected Homicide,615,NA,NA,NA,NA,NA
-Maryland,2020,March,2020-03-09,JCI,Samson,Jones,61,M,NA,Other,611,NA,NA,NA,NA,NA
-Maryland,2020,March,2020-03-18,NBCI,Adrian,Jones,60,M,NA,Other,2182,NA,NA,NA,NA,NA
-Maryland,2020,April,2020-04-08,MRDCC,Joseph,Colwill,45,M,NA,Suicide,616,NA,NA,NA,NA,NA
-Maryland,2020,April,2020-04-08,ECI-A,Shawn,Taylor,49,M,NA,Natural,608,NA,NA,NA,NA,NA
-Maryland,2020,April,2020-04-11,JCI,Charles,Wright,69,M,NA,Natural,611,NA,NA,NA,NA,NA
-Maryland,2020,April,2020-04-15,JCI,Adrian,Neal,37,M,NA,Suicide,611,NA,NA,NA,NA,NA
-Maryland,2020,April,2020-04-21,NBCI,Ahman,Driver,44,M,NA,Other,2182,NA,NA,NA,NA,NA
-Maryland,2020,April,2020-04-27,JCI,Andrew,Parker,61,M,NA,Natural,611,NA,NA,NA,NA,NA
-Maryland,2020,April,2020-04-28,MCIH,Daniel,Chadderton,69,M,NA,Natural,614,NA,NA,NA,NA,NA
-Maryland,2020,May,2020-05-06,RCI,Anthony,Blue,63,M,NA,Natural,621,NA,NA,NA,NA,NA
-Maryland,2020,May,2020-05-08,DRCF,Michael,Davis,57,M,NA,Natural,605,NA,NA,NA,NA,NA
-Maryland,2020,May,2020-05-12,PATX,Ted,Bryant,64,M,NA,Natural,620,NA,NA,NA,NA,NA
-Maryland,2020,May,2020-05-15,MCTC,Frederick,Blue,56,M,NA,Natural,615,NA,NA,NA,NA,NA
-Maryland,2020,May,2020-05-18,CMCF,Jason,McIntire,43,M,NA,Natural,603,NA,NA,NA,NA,NA
-Maryland,2020,May,2020-05-27,CMCF,Walter,Moore,61,M,NA,Natural,603,NA,NA,NA,NA,NA
-Maryland,2020,June,2020-06-06,MCTC,Earl,Gerald,44,M,NA,Natural,615,NA,NA,NA,NA,NA
-Maryland,2020,June,2020-06-11,RCI,John,Leach,52,M,NA,Other,621,NA,NA,NA,NA,NA
-Maryland,2020,June,2020-06-15,WCI,Robert,Eiseman,60,M,NA,Natural,627,NA,NA,NA,NA,NA
-Maryland,2020,June,2020-06-27,WCI,Kenneth,Diggs,51,M,NA,Natural,627,NA,NA,NA,NA,NA
-Maryland,2020,July,2020-07-16,WCI,William,Robinson,73,M,NA,Natural,627,NA,NA,NA,NA,NA
-Maryland,2020,July,2020-07-26,WCI,Richard,Sutton,70,M,NA,Natural,627,NA,NA,NA,NA,NA
-Maryland,2020,July,2020-07-28,WCI,James,Saylor,56,M,NA,Other,627,NA,NA,NA,NA,NA
-Maryland,2020,July,2020-07-30,ECI,David,Montgomery,64,M,NA,NA,608,NA,NA,NA,NA,NA
-Maryland,2020,August,2020-08-11,WCI,Vincent,Brown,57,M,NA,Natural,627,NA,NA,NA,NA,NA
-Maryland,2020,September,2020-09-04,MCTC,David,Willis,58,M,NA,Natural,615,NA,NA,NA,NA,NA
-Maryland,2020,September,2020-09-09,MCI-H,Gregory,Johnson,62,M,NA,Natural,614,NA,NA,NA,NA,NA
-Maryland,2020,September,2020-09-16,MCTC,Jerry,White,54,M,NA,Natural,615,NA,NA,NA,NA,NA
-Maryland,2020,September,2020-09-20,JCI,Stanley,Short,61,M,NA,Natural,611,NA,NA,NA,NA,NA
-Maryland,2020,September,2020-09-23,MCIH,Romas,Ray,73,M,NA,Natural,614,NA,NA,NA,NA,NA
-Maryland,2020,September,2020-09-23,MCIH,Henry,Wallace,66,M,NA,Natural,614,NA,NA,NA,NA,NA
-Maryland,2020,September,2020-09-25,ECI-E,Victor,Morrison,42,M,NA,Suicide,608,NA,NA,NA,NA,NA
-Maryland,2020,September,2020-09-29,WCI,Andrew,Sewell,59,M,NA,Natural,627,NA,NA,NA,NA,NA
-Maryland,2020,October,2020-10-10,RCI,Jason,Lewis,36,M,NA,Accident,621,NA,NA,NA,NA,NA
-Maryland,2020,October,2020-10-26,RCI,Daniel,Harris,62,M,NA,Natural,621,NA,NA,NA,NA,NA
-Maryland,2020,October,2020-10-26,RCI,Wilbert,Jones,53,M,NA,Natural,621,NA,NA,NA,NA,NA
-Maryland,2020,October,2020-10-28,MCIH,Alan,Hetrick,59,M,NA,Natural,614,NA,NA,NA,NA,NA
-Maryland,2020,October,2020-10-29,ECI,George,Curry,61,M,NA,Could Not Be Determined,608,NA,NA,NA,NA,NA
-Maryland,2020,November,2020-11-24,ECI,Hugh,McClaugherty,56,M,NA,Natural,608,NA,NA,NA,NA,NA
-Maryland,2020,November,2020-11-29,NBCI,Richard,Nicolas,55,M,NA,Natural,2182,NA,NA,NA,NA,NA
-Maryland,2020,December,2020-12-03,WCI,John,Malko,76,M,NA,Natural,627,NA,NA,NA,NA,NA
-Maryland,2020,December,2020-12-11,WCI,George,Green,64,M,NA,Natural,627,NA,NA,NA,NA,NA
-Maryland,2020,December,2020-12-12,NBCI,Bernard,Smith,67,M,NA,Natural,2182,NA,NA,NA,NA,NA
-Maryland,2020,December,2020-12-14,DRCF,Terry,Proctor,32,M,NA,Homicide,605,NA,NA,NA,NA,NA
-Maryland,2020,December,2020-12-15,WCI,James,Jackson,68,M,NA,Natural,627,NA,NA,NA,NA,NA
-Maryland,2020,December,2020-12-18,WCI,McArthur,Cole,39,M,NA,Other,627,NA,NA,NA,NA,NA
-Maryland,2020,December,2020-12-18,WCI,Timothy,Izzard,63,M,NA,Natural,627,NA,NA,NA,NA,NA
-Maryland,2020,December,2020-12-19,NBCI,James,Henson,58,M,NA,Natural,2182,NA,NA,NA,NA,NA
-Maryland,2020,December,2020-12-23,MCTC,Thomas,Barksdale,75,M,NA,Natural,615,NA,NA,NA,NA,NA
-Maryland,2020,December,2020-12-31,MCIH,Ednard,Johnson,35,M,NA,Suicide,614,NA,NA,NA,NA,NA
-Maryland,2021,January,2021-01-02,MCTC,James,Miller,74,M,White,"Natural 
-",615,NA,NA,NA,NA,NA
-Maryland,2021,January,2021-01-03,WCI,Cedric,Raysor,23,M,Black,Undetermined,627,NA,NA,NA,NA,NA
-Maryland,2021,January,2021-01-06,WCI,James,Harrison,71,M,Black,"Natural 
-",627,NA,NA,NA,NA,NA
-Maryland,2021,January,2021-01-06,WCI,Leo,Parker,78,M,White,"Natural 
-",627,NA,NA,NA,NA,NA
-Maryland,2021,January,2021-01-19,MCTC,Joseph,Owens,65,M,Black,"Natural 
-",615,NA,NA,NA,NA,NA
-Maryland,2021,January,2021-01-27,ECI,Matthew,Nielsen,38,M,White,Suicide,608,NA,NA,NA,NA,NA
-Maryland,2021,January,2021-01-29,ECI,James,Carter,77,M,Black,"Natural 
-",608,NA,NA,NA,NA,NA
-Maryland,2021,February,2021-02-02,MCIW,Barbara,Hampton,42,F,White,"Natural 
-",613,NA,NA,NA,NA,NA
-Maryland,2021,February,2021-02-05,JCI,Fortunato,Mendes,77,M,Black,"Natural 
-",611,NA,NA,NA,NA,NA
-Maryland,2021,February,2021-02-09,RCI,Arthur,Biddle,86,M,White,"Natural 
-",621,NA,NA,NA,NA,NA
-Maryland,2021,February,2021-02-10,MCIJ,Antonio,Bonaparte,21,M,Black,"Undetermined
-",2185,NA,NA,NA,NA,NA
-Maryland,2021,February,2021-02-11,RCI,Jerry,Petry,71,M,White,Natural,621,NA,NA,NA,NA,NA
-Maryland,2021,February,2021-02-12,WCI,Donald,Webb,84,M,White,"Natural
-",627,NA,NA,NA,NA,NA
-Maryland,2021,February,2021-02-17,RCI,Lawrence,Smart,68,M,Black,"Natural 
-",621,NA,NA,NA,NA,NA
-Maryland,2021,February,2021-02-20,MCIH,Jonathan,Pollard,65,M,Black,"Natural 
-",614,NA,NA,NA,NA,NA
-Maryland,2021,February,2021-02-24,MCTC,Douglas,Avery,70,M,Black,"Natural 
-",615,NA,NA,NA,NA,NA
-Maryland,2021,March,2021-03-01,MCIH,David,Walters,54,M,White,"Natural 
-",614,NA,NA,NA,NA,NA
-Maryland,2021,March,2021-03-04,RCI,Wayne,Tindale,68,M,White,"Natural 
-",621,NA,NA,NA,NA,NA
-Maryland,2021,March,2021-03-07,RCI,Reginald,Dorsey,50,M,Black,"Natural 
-",621,NA,NA,NA,NA,NA
-Maryland,2021,March,2021-03-08,WCI,Timothy,Virts,45,M,White,Accident,627,NA,NA,NA,NA,NA
-Maryland,2021,March,2021-03-14,JCI,Floyd,Bockman,79,M,Black,"Natural 
-",611,NA,NA,NA,NA,NA
-Maryland,2021,March,2021-03-22,MRDCC,Dalton,Roberts,28,M,White,Suicide,616,NA,NA,NA,NA,NA
-Maryland,2021,March,2021-03-29,ECI,Gary,Pinkett,64,M,Black,"Natural 
-",608,NA,NA,NA,NA,NA
-Maryland,2021,April,2021-04-06,CMCF,Lionel,McDaniel,36,M,Black,"Natural 
-",603,NA,NA,NA,NA,NA
-Maryland,2021,April,2021-04-15,JCI,Mateen,Abdullah,37,M,Black,Undetermined,611,NA,NA,NA,NA,NA
-Maryland,2021,April,2021-04-18,MCIJ,Jermaine,Hagen,28,M,Black,Undetermined,2185,NA,NA,NA,NA,NA
-Maryland,2021,April,2021-04-21,WCI,Mervil,Price,83,M,White,"Natural 
-",627,NA,NA,NA,NA,NA
-Maryland,2021,April,2021-04-29,NBCI,John,Davis,41,M,White,Accident,2182,NA,NA,NA,NA,NA
-Maryland,2021,May,2021-05-07,JCI,Victor,Kirkland,60,M,Black,"Homicide
-",611,NA,NA,NA,NA,NA
-Maryland,2021,May,2021-05-10,ECI,Roger,Beeman,71,M,White,"Natural 
-",608,NA,NA,NA,NA,NA
-Maryland,2021,May,2021-05-11,PATX,Santee,Taylor,47,M,Black,Suicide,620,NA,NA,NA,NA,NA
-Maryland,2021,May,2021-05-25,ECI-E,Derona,Rodgers,44,M,Black,"Natural 
-",608,NA,NA,NA,NA,NA
-Maryland,2021,June,2021-06-06,NBCI,Alphonso,Bennett,58,M,Black,Undetermined,2182,NA,NA,NA,NA,NA
-Maryland,2021,June,2021-06-09,NBCI,Mickeen,Holland,44,M,Black,"Undetermined
-",2182,NA,NA,NA,NA,NA
-Maryland,2021,June,2021-06-19,MCIH,Garrett,Moore,67,M,Black,"Natural 
-",614,NA,NA,NA,NA,NA
-Maryland,2021,June,2021-06-25,NBCI,Larry,Smoot,63,M,Black,Accident,2182,NA,NA,NA,NA,NA
-Maryland,2021,June,2021-06-27,ECI,Donald,Waddell,69,M,Black,"Natural 
-",608,NA,NA,NA,NA,NA
-Maryland,2021,June,2021-06-29,ECI-W,Saul,Vasquez,46,M,White,"Natural 
-",608,NA,NA,NA,NA,NA
-Maryland,2021,July,2021-07-09,ECI-E,Charles,Corbin,79,M,Black,"Natural 
-",608,NA,NA,NA,NA,NA
-Maryland,2021,July,2021-07-10,JCI,Ralph,Manna,83,M,White,"Natural 
-",611,NA,NA,NA,NA,NA
-Maryland,2021,July,2021-07-11,WCI,John,Booth,74,M,Black,"Natural 
-",627,NA,NA,NA,NA,NA
-Maryland,2021,July,2021-07-11,JCI,Jackie,Harris,61,M,Black,Undetermined,611,NA,NA,NA,NA,NA
-Maryland,2021,July,2021-07-21,ECI-A,Marvin,Briddell,59,M,Black,"Natural 
-",608,NA,NA,NA,NA,NA
-Maryland,2021,July,2021-07-30,JCI,Lawrence,Coverdale,50,M,Black,Undetermined,611,NA,NA,NA,NA,NA
-Maryland,2021,August,2021-08-06,PATX,Donnell,Cain,65,M,Black,"Natural 
-",620,NA,NA,NA,NA,NA
-Maryland,2021,August,2021-08-14,WCI,Calvin,Huss,73,M,White,"Natural 
-",627,NA,NA,NA,NA,NA
-Maryland,2021,August,2021-08-22,JCI,Abraham,Chard,25,M,White,Suicide,611,NA,NA,NA,NA,NA
-Maryland,2021,August,2021-08-27,ECI-A,Elroy,Schoolfield,60,M,Black,"Natural 
-",608,NA,NA,NA,NA,NA
-Maryland,2021,August,2021-08-27,MRDCC,Shane,Burton,33,M,Black,Homicide,616,NA,NA,NA,NA,NA
-Maryland,2021,August,2021-08-31,JCI,Jose,Gemeil,61,M,White,"Natural 
-",611,NA,NA,NA,NA,NA
-Maryland,2021,September,2021-09-05,WCI,James,Lewis,88,M,White,"Natural
-",627,NA,NA,NA,NA,NA
-Maryland,2021,September,2021-09-17,MCTC,Kevin,Powell,65,M,Black,"Natural 
-",615,NA,NA,NA,NA,NA
-Maryland,2021,September,2021-09-21,JCI,Michael,Clore,57,M,White,Undetermined,611,NA,NA,NA,NA,NA
-Maryland,2021,September,2021-09-28,NBCI,Daniel,Collins,54,M,Black,"Natural 
-",2182,NA,NA,NA,NA,NA
-Maryland,2021,September,2021-09-29,ECI-E,Timothy,Mckee,83,M,White,"Natural 
-",608,NA,NA,NA,NA,NA
-Maryland,2021,October,2021-10-10,MCTC,Willie,Villery,69,M,Black,"Natural 
-",615,NA,NA,NA,NA,NA
-Maryland,2021,October,2021-10-13,RCI,Robert,Contic,64,M,White,"Natural 
-",621,NA,NA,NA,NA,NA
-Maryland,2021,October,2021-10-20,JCI,Carl,Richardson,51,M,Black,"Natural 
-",611,NA,NA,NA,NA,NA
-Maryland,2021,October,2021-10-25,WCI,Samuel,Neal,90,M,Black,"Natural 
-",627,NA,NA,NA,NA,NA
-Maryland,2021,October,2021-10-29,WCI,Carlos,James,80,M,Black,"Natural 
-",627,NA,NA,NA,NA,NA
-Maryland,2021,November,2021-11-04,ECI-W,Michael,Weaver,53,M,White,Suicide,608,NA,NA,NA,NA,NA
-Maryland,2021,November,2021-11-20,WCI,Leon,Little,53,M,Black,"Natural 
-",627,NA,NA,NA,NA,NA
-Maryland,2021,December,2021-12-07,MCIH,Harvey,Pritchett,75,M,Black,Unknown,614,NA,NA,NA,NA,NA
-Maryland,2021,December,2021-12-10,MCIH,Gary,Latray,62,M,White,"Natural 
-",614,NA,NA,NA,NA,NA
-Maryland,2021,December,2021-12-11,WCI,Cleaven,Williams,46,M,Black,"Natural 
-",627,NA,NA,NA,NA,NA
-Maryland,2021,December,2021-12-13,MCIH,Tyrone,Holloway,36,M,Black,Suicide,614,NA,NA,NA,NA,NA
-Maryland,2021,December,2021-12-13,MCIH,James,Hanson,84,M,White,"Natural 
-",614,NA,NA,NA,NA,NA
-Maryland,2022,January,2022-01-06,JCI,John,Miller,56,Male,White,Natural,NA,443472,1966-01-20,1966,"Hypertensive Atherosclerotic Cardiovascular
-Disease",JCI
-Maryland,2022,January,2022-01-11,JCI,Gordon,Contee,64,Male,Black,Natural,NA,482174,1957-09-28,1957,Metastatic Nasopharyngeal Cancer,"Howard County 
-General Hospital"
-Maryland,2022,January,2022-01-15,JCI,Lawrence,Covington,47,Male,Black,Natural,NA,364601,1974-08-12,1974,Cardiac Arrest,"Baltimore Washington
-Medical Center"
-Maryland,2022,January,2022-01-22,NBCI,Gene,Huff,62,Male,White,Natural,NA,303026,1959-03-20,1959,"Sepsis, congestive heart failure",UPMC Hospital
-Maryland,2022,January,2022-01-25,JCI,Theodore,Silva,69,Male,Black,Accident,NA,182856,1952-02-17,1952,"Cardiac Arrest/ Acute Hypoxemic 
-Respiratory Failure","Baltimore Washington
-Medical Center"
-Maryland,2022,January,2022-01-27,MCIH,Bryant,Sherman,31,Male,Black,"Natural - 
+State,Facility,Year,Month,Death.Date,First.Name,Last.Name,Full.Name,ID.No,Death.Age,Sex,Race,Ethnicity,Circumstance.General,Circumstance.Specific,Circumstance.Other,source_year
+Maryland,JCI,2015,January,2015-01-16,Ellis,Douglas,,,71,M,,,Natural,,,
+Maryland,MDC,2015,January,2015-01-16,Anthony,Roberts,,,60,M,,,Natural,,,
+Maryland,MCTC,2015,January,2015-01-18,Cornell,Harris,,,48,M,,,Natural,,,
+Maryland,WCI,2015,January,2015-01-18,Douglas,Teegarden,,,57,M,,,Natural,,,
+Maryland,ECI,2015,January,2015-01-25,Daniel,Baynor,,,72,M,,,Natural,,,
+Maryland,ECI,2015,February,2015-02-06,George,Robinson,,,62,M,,,Natural,,,
+Maryland,MCTC,2015,February,2015-02-10,David,Synder,,,52,M,,,Natural,,,
+Maryland,MCIH,2015,February,2015-02-12,Richard,Burke,,,47,M,,,Natural,,,
+Maryland,JCI,2015,February,2015-02-14,Christopher,Williams,,,43,M,,,Natural,,,
+Maryland,MCIH,2015,February,2015-02-15,Paul,McNeil,,,57,M,,,Natural,,,
+Maryland,JCI,2015,February,2015-02-17,George,Slater,,,66,M,,,Natural,,,
+Maryland,JCI,2015,February,2015-02-20,Louis,Leysath,,,34,M,,,Accident,,,
+Maryland,ECI,2015,February,2015-02-25,Dan,Stallings,,,79,M,,,Natural,,,
+Maryland,ECI,2015,February,2015-02-26,Lloyd,Adkins,,,64,M,,,Natural,,,
+Maryland,NBCI,2015,March,2015-03-01,Martin,Bowling,,,67,M,,,Natural,,,
+Maryland,CMCF,2015,March,2015-03-08,Derrick,Saunders,,,43,M,,,Natural,,,
+Maryland,BCF,2015,March,2015-03-13,Dwain,Allbright,,,55,M,,,Natural,,,
+Maryland,RCI,2015,March,2015-03-26,Jerry,Cooper,,,75,M,,,Natural,,,
+Maryland,JCI,2015,March,2015-03-28,Rickey,Lewis,,,60,M,,,Natural,,,
+Maryland,CMCF,2015,April,2015-04-16,Kevin,Lee,,,47,M,,,Natural,,,
+Maryland,MCIH,2015,April,2015-04-21,Gregory,Stokes,,,39,M,,,Undetermined,,,
+Maryland,JCI,2015,May,2015-05-05,Frank,Hackett,,,60,M,,,Natural,,,
+Maryland,RCI,2015,May,2015-05-09,Christopher,Agunbiade,,,31,M,,,Natural,,,
+Maryland,MCIJ,2015,May,2015-05-15,DeNorris,Davis,,,37,M,,,Undetermined,,,
+Maryland,MCIW,2015,May,2015-05-28,Catherine,Hudson,,,75,F,,,Natural,,,
+Maryland,MCIH,2015,June,2015-06-19,Milford,Mason,,,67,M,,,Natural,,,
+Maryland,RCI,2015,July,2015-07-15,Terry,Thomas,,,59,M,,,Natural,,,
+Maryland,NBCI,2015,July,2015-07-16,Terrance,Cirata,,,59,M,,,Homicide,,,
+Maryland,WDC,2015,July,2015-07-25,George,Shelton,,,60,M,,,Natural,,,
+Maryland,JCI,2015,July,2015-07-27,Vernon,Griffin,,,54,M,,,Natural,,,
+Maryland,WCI,2015,July,2015-07-29,Darrell,Murray,,,30,M,,,Homicide,,,
+Maryland,MCIJ,2015,August,2015-08-11,Dan,Burley,,,54,M,,,Natural,,,
+Maryland,ECI,2015,August,2015-08-21,John,Rutherford,,,62,M,,,Natural,,,
+Maryland,WCI,2015,August,2015-08-31,Ronald,Raines,,,60,M,,,Natural,,,
+Maryland,ECI,2015,September,2015-09-05,James,Johnson,,,78,M,,,Natural,,,
+Maryland,MCIH,2015,September,2015-09-24,James,Elliott,,,66,M,,,Natural,,,
+Maryland,ECI,2015,September,2015-09-27,Terrell,Harrison,,,28,M,,,Natural,,,
+Maryland,MCTC,2015,October,2015-10-02,Parris,Mason,,,48,M,,,Natural,,,
+Maryland,DRCF,2015,October,2015-10-06,Aubrey,Wilder,,,32,M,,,Natural,,,
+Maryland,NBCI,2015,October,2015-10-14,Rodney,Clinton,,,59,M,,,Natural,,,
+Maryland,PATX,2015,October,2015-10-15,Darnell,Cunningham,,,31,M,,,Undetermined,,,
+Maryland,WCI,2015,October,2015-10-20,Edward,Hoffman,,,84,M,,,Natural,,,
+Maryland,MCIH,2015,October,2015-10-23,Ronald,Brown,,,60,M,,,Natural,,,
+Maryland,MCIJ,2015,October,2015-10-27,Ronald,Parham,,,52,M,,,Natural,,,
+Maryland,ECI,2015,November,2015-11-11,Tyree,Echols,,,39,M,,,Natural,,,
+Maryland,WCI,2015,November,2015-11-13,Earl,Lawton,,,72,M,,,Natural,,,
+Maryland,NBCI,2015,November,2015-11-15,Manuel,Higgins,,,26,M,,,Suicide,,,
+Maryland,MCIJ,2015,November,2015-11-22,Troy,Frazier,,,54,M,,,Natural,,,
+Maryland,JCI,2015,November,2015-11-26,John,Prince,,,58,M,,,Natural,,,
+Maryland,JCI,2015,November,2015-11-27,Douglas,Minchillo,,,56,M,,,Natural,,,
+Maryland,NBCI,2015,November,2015-11-29,Timothy,Howard,,,41,M,,,Undetermined,,,
+Maryland,MCIH,2015,November,2015-11-30,Ronald,Armstrong,,,60,M,,,Natural,,,
+Maryland,MCIJ,2015,December,2015-12-07,Timothy,Robinson,,,53,M,,,Natural,,,
+Maryland,JCI,2015,December,2015-12-09,Franklin,Rankin,,,66,M,,,Natural,,,
+Maryland,JCI,2015,December,2015-12-12,Daniel,Harney,,,56,M,,,Natural,,,
+Maryland,RCI,2015,December,2015-12-14,Norman,Carroll,,,82,M,,,Natural,,,
+Maryland,MCTC,2015,December,2015-12-21,Ray,Nelson,,,61,M,,,Natural,,,
+Maryland,JCI,2015,December,2015-12-23,Wayne,Young,,,70,M,,,Natural,,,
+Maryland,NBCI,2015,December,2015-12-27,Gilbert,Bacon,,,52,M,,,Natural,,,
+Maryland,BCCC,2015,December,2015-12-30,Aaron,Harris,,,54,M,,,Natural,,,
+Maryland,MCIH,2015,December,2015-12-30,Herbert,Weare,,,60,M,,,Natural,,,
+Maryland,JCI,2016,March,2016-03-27,Douglas,Arey,,,67,M,,,Natural,,,
+Maryland,JCI,2016,September,2016-09-17,Ronald,Bell,,,61,M,,,Undetermined,,,
+Maryland,WCI,2016,June,2016-06-22,Dwayne,Boyer,,,53,M,,,Natural,,,
+Maryland,WCI,2016,February,2016-02-10,Rodney,Brittingham,,,57,M,,,Natural,,,
+Maryland,JRI,2016,March,2016-03-09,Joseph,Brooks,,,61,M,,,Natural,,,
+Maryland,MRDCC,2016,November,2016-11-10,Bryant,Cain,,,29,M,,,Suicide,,,
+Maryland,MCTC,2016,August,2016-08-29,Aaron,Carey,,,66,M,,,Natural,,,
+Maryland,RCI,2016,June,2016-06-26,Joseph,Coleman,,,51,M,,,Natural,,,
+Maryland,MCTC,2016,December,2016-12-28,Christopher,Cook,,,41,M,,,Natural,,,
+Maryland,WCI,2016,November,2016-11-12,George,Dobson,,,52,M,,,Undetermined,,,
+Maryland,NBCI,2016,March,2016-03-10,Corey,Edmonds,,,37,M,,,Natural,,,
+Maryland,MCIH,2016,June,2016-06-13,Fernando,Felix-Garcia,,,58,M,,,Natural,,,
+Maryland,JCI,2016,May,2016-05-14,Derrick,Foskey,,,51,M,,,Undetermined,,,
+Maryland,JCI,2016,February,2016-02-15,Lee,Gerhold,,,92,M,,,Natural,,,
+Maryland,MCIJ,2016,June,2016-06-09,Kerry,Gilmer,,,58,M,,,Natural,,,
+Maryland,WCI,2016,May,2016-05-19,Davon,Golden,,,39,M,,,,,,
+Maryland,DRCF,2016,September,2016-09-27,Paul,Goodwin,,,52,M,,,Natural,,,
+Maryland,MCIH,2016,October,2016-10-11,Benjamin,Hall,,,26,M,,,Homicide,,,
+Maryland,BCCC,2016,May,2016-05-26,Barry,Harris,,,36,M,,,Natural,,,
+Maryland,MCTC,2016,July,2016-07-18,James,Hopkins,,,51,M,,,Natural,,,
+Maryland,ICC,2016,October,2016-10-10,Lanteon,Houston,,,0,M,,,N/A,,,
+Maryland,BCCC,2016,May,2016-05-05,Ralph,Johnson,,,58,M,,,Natural,,,
+Maryland,WDC,2016,April,2016-04-10,Toni,Lee,,,55,M,,,Natural,,,
+Maryland,MCIJ,2016,December,2016-12-07,Howard,Lieberman,,,56,M,,,Natural,,,
+Maryland,WCI,2016,May,2016-05-22,Marshall,Metz,,,71,M,,,Natural,,,
+Maryland,MCIH,2016,September,2016-09-16,George,Middleton,,,0,M,,,Natural,,,
+Maryland,JCI,2016,February,2016-02-09,Lee,Moore,,,77,M,,,Natural,,,
+Maryland,JI,2016,November,2016-11-26,Durant,Moore,,,52,M,,,Natural,,,
+Maryland,JCI,2016,August,2016-08-14,John,O'Sullivan,,,43,M,,,Homicide,,,
+Maryland,MCTC,2016,March,2016-03-03,William,Parker,,,65,M,,,Natural,,,
+Maryland,RCI,2016,November,2016-11-02,Spurgeon,Peltzer,,,73,M,,,Natural,,,
+Maryland,WCI,2016,May,2016-05-24,Lewis,Phares,,,62,M,,,Natural,,,
+Maryland,NBCI,2016,August,2016-08-19,Howard,Ray,,,54,M,,,Natural,,,
+Maryland,ECI,2016,March,2016-03-14,James,Robinson,,,33,M,,,Suicide,,,
+Maryland,JCI,2016,December,2016-12-17,Juan,Rodriguez,,,33,M,,,Suicide,,,
+Maryland,MRDCC,2016,December,2016-12-29,Blas,Rosales-Cardona-Rosales,,,17,M,,,Natural,,,
+Maryland,JCI,2016,February,2016-02-04,Bryant,Rose,,,58,M,,,Natural,,,
+Maryland,ECI,2016,January,2016-01-10,Dallas,Ruark,,,53,M,,,Natural,,,
+Maryland,NBCI,2016,September,2016-09-28,Shane,Simms,,,24,M,,,Homicide,,,
+Maryland,ECI,2016,October,2016-10-09,John,Simms,,,67,M,,,Natural,,,
+Maryland,MCIJ,2016,August,2016-08-14,William,Skillman,,,55,M,,,Natural,,,
+Maryland,JCI,2016,January,2016-01-21,Glen,Smith,,,58,M,,,Homicide,,,
+Maryland,JCI,2016,July,2016-07-24,George,Smith,,,59,M,,,Natural,,,
+Maryland,WCI,2016,November,2016-11-16,Alan,Sullivan,,,38,M,,,Natural,,,
+Maryland,PATX,2016,October,2016-10-13,David,Sweets,,,69,M,,,Natural,,,
+Maryland,ECI,2016,April,2016-04-12,Hampton,Taylor,,,66,M,,,Natural,,,
+Maryland,WCI,2016,September,2016-09-26,James,Tooles,,,48,M,,,Undetermined,,,
+Maryland,JCI,2016,March,2016-03-04,John,Upchurch,,,48,M,,,Natural,,,
+Maryland,JI,2016,August,2016-08-26,Cecil,Vincent,,,31,M,,,Undetermined,,,
+Maryland,BCF,2016,September,2016-09-08,James,Welsh,,,56,M,,,Accident,,,
+Maryland,MCTC,2016,October,2016-10-21,Marshall,Wilson,,,45,M,,,Natural,,,
+Maryland,MCIH,2016,December,2016-12-09,Monroe,Wright,,,67,M,,,Natural,,,
+Maryland,ECI,2016,December,2016-12-13,Michael,Young,,,39,M,,,Natural,,,
+Maryland,JCI,2017,January,2017-01-04,Robert,Jones,,,59,M,,,Natural,,,
+Maryland,ECI,2017,January,2017-01-13,Randolph,Mclean,,,46,M,,,Natural,,,
+Maryland,MCIH,2017,January,2017-01-14,Darryl,Graves,,,56,M,,,Natural,,,
+Maryland,MCIH,2017,January,2017-01-17,Michael,Grisson,,,59,M,,,Natural,,,
+Maryland,NBCI,2017,January,2017-01-18,Gregory,Tilghman,,,33,M,,,Natural,,,
+Maryland,MRDCC,2017,January,2017-01-19,Anton,Sellers,,,44,M,,,Natural,,,
+Maryland,JCI,2017,January,2017-01-24,Tuse,Liu,,,67,M,,,Natural,,,
+Maryland,WCI,2017,February,2017-02-02,Robert,Scheidt,,,75,M,,,Natural,,,
+Maryland,WCI,2017,February,2017-02-11,Roger,Largent,,,69,M,,,Homicide,,,
+Maryland,JCI,2017,February,2017-02-12,Lawrence,Horn,,,76,M,,,Natural,,,
+Maryland,MCTC,2017,February,2017-02-12,Donte,Pack,,,25,M,,,Natural,,,
+Maryland,WCI,2017,February,2017-02-17,John,Martin,,,83,M,,,Natural,,,
+Maryland,MCIW,2017,February,2017-02-22,Debra,Mariner,,,40,F,,,Unnatural,,,
+Maryland,NBCI,2017,March,2017-03-03,John,Dean,,,36,M,,,Natural,,,
+Maryland,ECI,2017,March,2017-03-07,Anthony,Brown,,,55,M,,,Natural,,,
+Maryland,WCI,2017,March,2017-03-10,Warner,Hill,,,72,M,,,Natural,,,
+Maryland,WCI,2017,March,2017-03-17,Darrell,Williams,,,61,M,,,Natural,,,
+Maryland,JCI,2017,March,2017-03-23,Floyd,Michaux,,,58,M,,,Natural,,,
+Maryland,ECI,2017,March,2017-03-25,Lawrence,Kerr,,,69,M,,,Natural,,,
+Maryland,DRCF,2017,April,2017-04-13,Ronald,Morris,,,52,M,,,Natural,,,
+Maryland,WCI,2017,April,2017-04-15,Michael,Hall,,,30,M,,,Homicide,,,
+Maryland,PATX,2017,April,2017-04-17,Charles,Strother,,,69,M,,,Natural,,,
+Maryland,MCIH,2017,April,2017-04-22,Alvin,Hill,,,50,M,,,Natural,,,
+Maryland,JCI,2017,May,2017-05-03,Robert,Schaedel,,,36,M,,,Natural,,,
+Maryland,JCI,2017,May,2017-05-25,Scott,Sowell,,,80,M,,,Natural,,,
+Maryland,WCI,2017,May,2017-05-25,Richard,Hurst,,,63,M,,,Natural,,,
+Maryland,PATX,2017,June,2017-06-03,James,Graham,,,59,M,,,Natural,,,
+Maryland,PATX,2017,June,2017-06-13,Jasper,Moore,,,76,M,,,Natural,,,
+Maryland,WCI,2017,June,2017-06-16,Thomas,Zindar,,,61,M,,,Natural,,,
+Maryland,WCI,2017,June,2017-06-25,Robert,Henry,,,70,M,,,Natural,,,
+Maryland,ECI,2017,July,2017-07-02,William,Young,,,70,M,,,Accident,,,
+Maryland,RCI,2017,July,2017-07-06,Malcolm,Turner,,,44,M,,,Natural,,,
+Maryland,JCI,2017,July,2017-07-19,Mark,Watkins,,,45,M,,,Natural,,,
+Maryland,MRDCC,2017,July,2017-07-26,Warren,Davidson,,,51,M,,,Other,,,
+Maryland,JCI,2017,July,2017-07-29,Jeffrey,Dolch,,,40,M,,,Suicide,,,
+Maryland,NBCI,2017,August,2017-08-05,Joseph,Metheny,,,61,M,,,Natural,,,
+Maryland,JCI,2017,August,2017-08-08,Charles,Doyle,,,70,M,,,Natural,,,
+Maryland,ECI,2017,August,2017-08-09,Chad,Bozman,,,30,M,,,Natural,,,
+Maryland,WCI,2017,August,2017-08-27,Charles,Boblit,,,84,M,,,Natural,,,
+Maryland,MCIH,2017,September,2017-09-22,Richard,Holmes,,,0,M,,,,,,
+Maryland,JCI,2017,September,2017-09-23,Rowland,Hudson,,,61,M,,,Natural,,,
+Maryland,ECI,2017,September,2017-09-27,Albert,Turner,,,75,M,,,Natural,,,
+Maryland,MCIH,2017,October,2017-10-03,James,Harris,,,63,M,,,Natural,,,
+Maryland,MCIH,2017,October,2017-10-03,Umar,Muhammad,,,,M,,,,,,
+Maryland,ECI,2017,October,2017-10-18,Robert,Adams,,,65,M,,,,,,
+Maryland,MCIH,2017,October,2017-10-18,Eugene,Saunders,,,75,M,,,Natural,,,
+Maryland,JCI,2017,November,2017-11-01,Tyrone,Graham,,,64,M,,,,,,
+Maryland,ECI,2017,November,2017-11-10,Thomas,Higgs,,,74,M,,,,,,
+Maryland,NBCI,2017,November,2017-11-10,Samuel,Cortijo,,,76,M,,,,,,
+Maryland,MCIW,2017,November,2017-11-12,Emily,Butler,,,28,F,,,,,,
+Maryland,MCTC,2017,November,2017-11-28,Jose,Rodriguez,,,30,M,,,,,,
+Maryland,JCI,2017,December,2017-12-15,George,Johnson,,,28,M,,,Suicide,,,
+Maryland,WCI,2017,December,2017-12-23,James,Lightbourne,,,69,M,,,,,,
+Maryland,WCI,2018,January,2018-01-21,John,Lutz,,,79,M,,,Natural,,,
+Maryland,MCIW,2018,January,2018-01-23,Mary,Utley,,,70,F,,,Natural,,,
+Maryland,JCI,2018,February,2018-02-01,Devin,Cooper,,,46,M,,,Undetermined,,,
+Maryland,MCTC,2018,February,2018-02-01,Craig,Ison,,,56,M,,,Natural,,,
+Maryland,ECI,2018,February,2018-02-16,Samuel,Glass,,,80,M,,,Natural,,,
+Maryland,JCI,2018,February,2018-02-19,Tyrone,Harrell,,,69,M,,,Undetermined,,,
+Maryland,JCI,2018,February,2018-02-24,Donald,Gross,,,57,M,,,Accident,,,
+Maryland,WCI,2018,February,2018-02-24,Micheal,Mays,,,35,M,,,Natural,,,
+Maryland,JCI,2018,March,2018-03-01,James,Malone,,,58,M,,,Undetermined,,,
+Maryland,JCI,2018,March,2018-03-03,Franklin,Yon,,,58,M,,,Natural,,,
+Maryland,JCI,2018,March,2018-03-08,Jeffrey,Allen,,,55,M,,,,,,
+Maryland,PATX,2018,March,2018-03-10,Brandon,Royster,,,31,M,,,Suicide,,,
+Maryland,WCI,2018,March,2018-03-10,Rudolph,Phelps,,,58,M,,,Natural,,,
+Maryland,JCI,2018,March,2018-03-14,Ronald,Sweeney,,,37,M,,,Suicide,,,
+Maryland,ECI,2018,March,2018-03-15,Robert,Enders,,,74,M,,,Natural,,,
+Maryland,RCI,2018,March,2018-03-20,Kirk,Jennings,,,71,M,,,Natural,,,
+Maryland,JCI,2018,March,2018-03-24,Guy,Shannon,,,49,M,,,Natural,,,
+Maryland,WCI,2018,April,2018-04-12,Fernando,Asturizaga,,,51,M,,,Suicide,,,
+Maryland,NBCI,2018,April,2018-04-20,Paul,Howard,,,54,M,,,Natural,,,
+Maryland,JCI,2018,April,2018-04-26,Curtis,Monroe,,,60,M,,,Natural,,,
+Maryland,MCIH,2018,April,2018-04-26,Curtis,Long,,,59,M,,,Natural,,,
+Maryland,WCI,2018,May,2018-05-09,Charles,Bell,,,83,M,,,Natural,,,
+Maryland,NBCI,2018,May,2018-05-30,Carlos,Holcomb,,,46,M,,,Natural,,,
+Maryland,ECI,2018,June,2018-06-04,Terry,Kinzer,,,60,M,,,Natural,,,
+Maryland,WCI,2018,June,2018-06-12,Ervin,Deans,,,36,M,,,Suicide,,,
+Maryland,JCI,2018,June,2018-06-16,Herman,Shorter,,,48,M,,,Natural,,,
+Maryland,JCI,2018,June,2018-06-23,Ronald,Wilson,,,61,M,,,Natural,,,
+Maryland,ECIW,2018,July,2018-07-09,Chey,Jordan,,,27,M,,,Suicide,,,
+Maryland,MCTC,2018,July,2018-07-09,Jeffrey,Holbrook,,,30,M,,,Natural,,,
+Maryland,RCI,2018,July,2018-07-16,Michael,Taylor,,,33,M,,,Natural,,,
+Maryland,ECI,2018,July,2018-07-18,William,Hamilton,,,71,M,,,Natural,,,
+Maryland,MCIJ,2018,July,2018-07-22,David,Houck,,,52,M,,,Natural,,,
+Maryland,MRDC,2018,July,2018-07-31,Melvin,McDougald,,,55,M,,,Natural,,,
+Maryland,WCI,2018,August,2018-08-04,Rodney,Solomon,,,52,M,,,Natural,,,
+Maryland,ECI,2018,August,2018-08-11,Keith,Lomax,,,46,M,,,Natural,,,
+Maryland,WCI,2018,September,2018-09-02,Teyquan,Wilson,,,23,M,,,Homicide,,,
+Maryland,JCI,2018,September,2018-09-05,William,Robinson,,,81,M,,,Natural,,,
+Maryland,NBCI,2018,September,2018-09-06,Antonio,Hutcherson,,,31,M,,,Suicide,,,
+Maryland,DRCF,2018,September,2018-09-09,Michael,Harris,,,33,M,,,Natural,,,
+Maryland,JCI,2018,September,2018-09-14,Roger,Blake,,,58,M,,,Natural,,,
+Maryland,WCI,2018,September,2018-09-17,Delonte,Taylor,,,59,M,,,Natural,,,
+Maryland,JCI,2018,September,2018-09-21,James,Grimm,,,70,M,,,Natural,,,
+Maryland,WCI,2018,September,2018-09-29,Stephen,Sellman,,,58,M,,,Undetermined,,,
+Maryland,RCI,2018,September,2018-09-30,William,Taylor,,,33,M,,,Natural,,,
+Maryland,WCI,2018,October,2018-10-03,Daniel,Rosales,,,67,M,,,Natural,,,
+Maryland,ECI,2018,October,2018-10-08,Miles,Lopez,,,42,M,,,Natural,,,
+Maryland,JCI,2018,October,2018-10-08,Dewalt,Stewart,,,50,M,,,Natural,,,
+Maryland,WCI,2018,October,2018-10-15,Donnie,Robertson,,,50,M,,,Natural,,,
+Maryland,RCI,2018,October,2018-10-19,Ernest,Murphy,,,46,M,,,Natural,,,
+Maryland,JCI,2018,October,2018-10-23,Jeffrey,Cole,,,53,M,,,Undetermined,,,
+Maryland,JCI,2018,November,2018-11-02,David,Stephenson,,,44,M,,,Homicide,,,
+Maryland,JCI,2018,November,2018-11-04,Robert,Butler,,,52,M,,,Natural,,,
+Maryland,ECI-W,2018,November,2018-11-14,Aaron,Million,,,27,M,,,Undetermined,,,
+Maryland,JCI,2018,November,2018-11-15,Edward,Brown,,,50,M,,,Natural,,,
+Maryland,MCTC,2018,November,2018-11-27,Milton,Pajak,,,34,M,,,Accident,,,
+Maryland,WCI,2018,November,2018-11-29,Michael,Powell,,,56,M,,,Undetermined,,,
+Maryland,MCIH,2018,December,2018-12-04,John,Brown,,,48,M,,,Natural,,,
+Maryland,WCI,2018,December,2018-12-14,Billy,Burch,,,50,M,,,Natural,,,
+Maryland,ECI,2018,December,2018-12-19,Tyrone,Williams,,,50,M,,,Undetermined,,,
+Maryland,JCI/JRI,2019,January,2019-01-04,Anthony,Ligone,,,53,M,,,Natural,,,
+Maryland,MCI-H,2019,January,2019-01-08,Fewell,Douglas,,,59,M,,,Natural,,,
+Maryland,WCI,2019,January,2019-01-10,Clyde,Chew,,,83,M,,,Natural,,,
+Maryland,JCI,2019,January,2019-01-13,Kenneth,Mackall,,,69,M,,,Natural,,,
+Maryland,MCTC,2019,January,2019-01-23,Charles,Novak,,,43,M,,,Natural,,,
+Maryland,JCI,2019,January,2019-01-25,Ronald,Lee,,,62,M,,,Natural,,,
+Maryland,MCTC-H,2019,February,2019-02-06,Kacy,Queen,,,45,M,,,Natural,,,
+Maryland,JCI/JRI,2019,February,2019-02-11,David,Goldstein,,,50,M,,,Natural,,,
+Maryland,MCTC,2019,February,2019-02-10,Dwan,Brooks,,,60,M,,,Natural,,,
+Maryland,NBCI,2019,February,2019-02-23,Dominic,Anderson,,,27,M,,,Homicide,,,
+Maryland,MCI-H,2019,February,2019-02-25,Robert,Blue,,,50,M,,,Natural,,,
+Maryland,JCI,2019,February,2019-02-26,,Redfern,,,71,M,,,Undetermined,,,
+Maryland,WCI,2019,February,2019-02-28,Bobby,Dupree,,,43,M,,,Natural,,,
+Maryland,BCF,2019,March,2019-03-03,Marcus,Jones,,,28,M,,,Natural,,,
+Maryland,PATX,2019,March,2019-03-04,Akeel,Rice,,,28,M,,,Undetermined,,,
+Maryland,WCI,2019,March,2019-03-24,Wilbur,Moyer,,,30,M,,,Homicide,,,
+Maryland,WCI,2019,April,2019-04-06,Gerard,Diggs,,,59,M,,,Natural,,,
+Maryland,JCI,2019,April,2019-04-14,Jerome,Miller-Bey,,,72,M,,,Natural,,,
+Maryland,PATX/JRI,2019,April,2019-04-24,William,Harris,,,71,M,,,Natural,,,
+Maryland,ECI,2019,April,2019-04-27,Chad,Miller,,,43,M,,,Could Not Be Determined,,,
+Maryland,ECI,2019,April,2019-04-28,James,Tayman,,,51,M,,,Natural,,,
+Maryland,RCI,2019,May,2019-05-10,Allen,Painter,,,54,M,,,Natural,,,
+Maryland,JCI,2019,May,2019-05-13,Dennis,Wallace,,,67,M,,,Natural,,,
+Maryland,ECI,2019,May,2019-05-16,Ricardo,Smith,,,40,M,,,Undetermined,,,
+Maryland,MCIH,2019,May,2019-05-17,Derek,Birkhead,,,63,M,,,Natural,,,
+Maryland,NBCI,2019,May,2019-05-29,Walter,Taylor,,,76,M,,,Natural,,,
+Maryland,MCTC,2019,May,2019-05-30,Ronnie,Harris,,,56,M,,,Homicide,,,
+Maryland,JCI,2019,May,2019-05-30,Luke,Osei-Kwame,,,68,M,,,Natural,,,
+Maryland,MCIJ,2019,May,2019-05-30,Daniel,Howard,,,32,M,,,Undetermined,,,
+Maryland,ECI,2019,June,2019-06-01,Adam,Melvin,,,45,M,,,Natural,,,
+Maryland,MCIH,2019,June,2019-06-02,Joseph,Meeks,,,48,M,,,Natural,,,
+Maryland,WCI,2019,June,2019-06-08,Herbert,Mayes,,,33,M,,,Homicide,,,
+Maryland,MRDCC,2019,June,2019-06-22,Anthony,Chavis,,,44,M,,,Unknown,,,
+Maryland,NBCI,2019,July,2019-07-01,Nathaniel,McKnight,,,37,M,,,Unknown,,,
+Maryland,WCI,2019,July,2019-07-06,Ricky,Hayden,,,59,M,,,Natural,,,
+Maryland,PATX,2019,July,2019-07-07,Mekhael,Tyson,,,30,M,,,Natural,,,
+Maryland,ECI,2019,July,2019-07-22,Troy,Miles,,,51,M,,,Undetermined,,,
+Maryland,ECI,2019,July,2019-07-22,Patrick,Cullen,,,43,M,,,Natural,,,
+Maryland,RCI,2019,July,2019-07-28,Michael,Nelson,,,57,M,,,Natural,,,
+Maryland,WCI,2019,August,2019-08-03,James,Tyre,,,81,M,,,Natural,,,
+Maryland,ECI-W,2019,August,2019-08-05,Dorian,Jones,,,49,M,,,Undetermined,,,
+Maryland,MCIH,2019,August,2019-08-15,James,Sweeney,,,62,M,,,Natural,,,
+Maryland,ECI,2019,August,2019-08-16,Edward,Shoemaker,,,72,M,,,Natural,,,
+Maryland,RCI,2019,August,2019-08-17,Rocky,Hines,,,60,M,,,Natural,,,
+Maryland,RCI,2019,August,2019-08-18,Sterling,Hollis,,,36,M,,,Could Not Be Determined,,,
+Maryland,ECI,2019,August,2019-08-30,Edward,Holmes,,,64,M,,,Natural,,,
+Maryland,WCI,2019,September,2019-09-01,Marvin,Vasquez-Juarez,,,22,M,,,Suicide,,,
+Maryland,ECI,2019,September,2019-09-13,Alexander,Christopher,,,32,M,,,Homicide,,,
+Maryland,JCI,2019,September,2019-09-26,Antonio,Medley,,,57,M,,,Natural,,,
+Maryland,ECI-E,2019,October,2019-10-11,Michael,Moore,,,63,M,,,Natural,,,
+Maryland,JCI,2019,October,2019-10-15,Samuel,Mason,,,36,M,,,Suicide,,,
+Maryland,MCIJ,2019,November,2019-11-19,Raymond,Vanfield,,,82,M,,,Natural,,,
+Maryland,WCI,2019,December,2019-12-02,Darrell,Hicks,,,61,M,,,Natural,,,
+Maryland,NBCI,2019,December,2019-12-02,Earl,McKnight,,,44,M,,,Natural,,,
+Maryland,MRDCC,2019,December,2019-12-10,Richard,Barrett,,,41,M,,,Could Not Be Determined,,,
+Maryland,ECI,2019,December,2019-12-12,John,Davenport,,,48,M,,,Natural,,,
+Maryland,WCI,2019,December,2019-12-26,Bernard,Winkleman,,,65,M,,,Natural,,,
+Maryland,WCI,2020,January,2020-01-05,Bradley,Rinehart,,,52,M,,,suspected Homicide,,,
+Maryland,WCI,2020,January,2020-01-08,Darryl,Green,,,52,M,,,Could Not Be Determined,,,
+Maryland,MCTC,2020,January,2020-01-10,Travis,Floyd,,,32,M,,,Natural,,,
+Maryland,JCI,2020,January,2020-01-11,Scott,Odham,,,55,M,,,Natural,,,
+Maryland,ECI,2020,January,2020-01-17,George,Stokes,,,61,M,,,Natural,,,
+Maryland,MCTC,2020,January,2020-01-23,Christopher,Dorsey,,,36,M,,,suspected Homicide,,,
+Maryland,JCI,2020,March,2020-03-09,Samson,Jones,,,61,M,,,Other,,,
+Maryland,NBCI,2020,March,2020-03-18,Adrian,Jones,,,60,M,,,Other,,,
+Maryland,MRDCC,2020,April,2020-04-08,Joseph,Colwill,,,45,M,,,Suicide,,,
+Maryland,ECI-A,2020,April,2020-04-08,Shawn,Taylor,,,49,M,,,Natural,,,
+Maryland,JCI,2020,April,2020-04-11,Charles,Wright,,,69,M,,,Natural,,,
+Maryland,JCI,2020,April,2020-04-15,Adrian,Neal,,,37,M,,,Suicide,,,
+Maryland,NBCI,2020,April,2020-04-21,Ahman,Driver,,,44,M,,,Other,,,
+Maryland,JCI,2020,April,2020-04-27,Andrew,Parker,,,61,M,,,Natural,,,
+Maryland,MCIH,2020,April,2020-04-28,Daniel,Chadderton,,,69,M,,,Natural,,,
+Maryland,RCI,2020,May,2020-05-06,Anthony,Blue,,,63,M,,,Natural,,,
+Maryland,DRCF,2020,May,2020-05-08,Michael,Davis,,,57,M,,,Natural,,,
+Maryland,PATX,2020,May,2020-05-12,Ted,Bryant,,,64,M,,,Natural,,,
+Maryland,MCTC,2020,May,2020-05-15,Frederick,Blue,,,56,M,,,Natural,,,
+Maryland,CMCF,2020,May,2020-05-18,Jason,McIntire,,,43,M,,,Natural,,,
+Maryland,CMCF,2020,May,2020-05-27,Walter,Moore,,,61,M,,,Natural,,,
+Maryland,MCTC,2020,June,2020-06-06,Earl,Gerald,,,44,M,,,Natural,,,
+Maryland,RCI,2020,June,2020-06-11,John,Leach,,,52,M,,,Other,,,
+Maryland,WCI,2020,June,2020-06-15,Robert,Eiseman,,,60,M,,,Natural,,,
+Maryland,WCI,2020,June,2020-06-27,Kenneth,Diggs,,,51,M,,,Natural,,,
+Maryland,WCI,2020,July,2020-07-16,William,Robinson,,,73,M,,,Natural,,,
+Maryland,WCI,2020,July,2020-07-26,Richard,Sutton,,,70,M,,,Natural,,,
+Maryland,WCI,2020,July,2020-07-28,James,Saylor,,,56,M,,,Other,,,
+Maryland,ECI,2020,July,2020-07-30,David,Montgomery,,,64,M,,,,,,
+Maryland,WCI,2020,August,2020-08-11,Vincent,Brown,,,57,M,,,Natural,,,
+Maryland,MCTC,2020,September,2020-09-04,David,Willis,,,58,M,,,Natural,,,
+Maryland,MCI-H,2020,September,2020-09-09,Gregory,Johnson,,,62,M,,,Natural,,,
+Maryland,MCTC,2020,September,2020-09-16,Jerry,White,,,54,M,,,Natural,,,
+Maryland,JCI,2020,September,2020-09-20,Stanley,Short,,,61,M,,,Natural,,,
+Maryland,MCIH,2020,September,2020-09-23,Romas,Ray,,,73,M,,,Natural,,,
+Maryland,MCIH,2020,September,2020-09-23,Henry,Wallace,,,66,M,,,Natural,,,
+Maryland,ECI-E,2020,September,2020-09-25,Victor,Morrison,,,42,M,,,Suicide,,,
+Maryland,WCI,2020,September,2020-09-29,Andrew,Sewell,,,59,M,,,Natural,,,
+Maryland,RCI,2020,October,2020-10-10,Jason,Lewis,,,36,M,,,Accident,,,
+Maryland,RCI,2020,October,2020-10-26,Daniel,Harris,,,62,M,,,Natural,,,
+Maryland,RCI,2020,October,2020-10-26,Wilbert,Jones,,,53,M,,,Natural,,,
+Maryland,MCIH,2020,October,2020-10-28,Alan,Hetrick,,,59,M,,,Natural,,,
+Maryland,ECI,2020,October,2020-10-29,George,Curry,,,61,M,,,Could Not Be Determined,,,
+Maryland,ECI,2020,November,2020-11-24,Hugh,McClaugherty,,,56,M,,,Natural,,,
+Maryland,NBCI,2020,November,2020-11-29,Richard,Nicolas,,,55,M,,,Natural,,,
+Maryland,WCI,2020,December,2020-12-03,John,Malko,,,76,M,,,Natural,,,
+Maryland,WCI,2020,December,2020-12-11,George,Green,,,64,M,,,Natural,,,
+Maryland,NBCI,2020,December,2020-12-12,Bernard,Smith,,,67,M,,,Natural,,,
+Maryland,DRCF,2020,December,2020-12-14,Terry,Proctor,,,32,M,,,Homicide,,,
+Maryland,WCI,2020,December,2020-12-15,James,Jackson,,,68,M,,,Natural,,,
+Maryland,WCI,2020,December,2020-12-18,McArthur,Cole,,,39,M,,,Other,,,
+Maryland,WCI,2020,December,2020-12-18,Timothy,Izzard,,,63,M,,,Natural,,,
+Maryland,NBCI,2020,December,2020-12-19,James,Henson,,,58,M,,,Natural,,,
+Maryland,MCTC,2020,December,2020-12-23,Thomas,Barksdale,,,75,M,,,Natural,,,
+Maryland,MCIH,2020,December,2020-12-31,Ednard,Johnson,,,35,M,,,Suicide,,,
+Maryland,MCTC,2021,January,2021-01-02,James,Miller,,,74,M,White,,"Natural 
+",,,
+Maryland,WCI,2021,January,2021-01-03,Cedric,Raysor,,,23,M,Black,,Undetermined,,,
+Maryland,WCI,2021,January,2021-01-06,James,Harrison,,,71,M,Black,,"Natural 
+",,,
+Maryland,WCI,2021,January,2021-01-06,Leo,Parker,,,78,M,White,,"Natural 
+",,,
+Maryland,MCTC,2021,January,2021-01-19,Joseph,Owens,,,65,M,Black,,"Natural 
+",,,
+Maryland,ECI,2021,January,2021-01-27,Matthew,Nielsen,,,38,M,White,,Suicide,,,
+Maryland,ECI,2021,January,2021-01-29,James,Carter,,,77,M,Black,,"Natural 
+",,,
+Maryland,MCIW,2021,February,2021-02-02,Barbara,Hampton,,,42,F,White,,"Natural 
+",,,
+Maryland,JCI,2021,February,2021-02-05,Fortunato,Mendes,,,77,M,Black,,"Natural 
+",,,
+Maryland,RCI,2021,February,2021-02-09,Arthur,Biddle,,,86,M,White,,"Natural 
+",,,
+Maryland,MCIJ,2021,February,2021-02-10,Antonio,Bonaparte,,,21,M,Black,,"Undetermined
+",,,
+Maryland,RCI,2021,February,2021-02-11,Jerry,Petry,,,71,M,White,,Natural,,,
+Maryland,WCI,2021,February,2021-02-12,Donald,Webb,,,84,M,White,,"Natural
+",,,
+Maryland,RCI,2021,February,2021-02-17,Lawrence,Smart,,,68,M,Black,,"Natural 
+",,,
+Maryland,MCIH,2021,February,2021-02-20,Jonathan,Pollard,,,65,M,Black,,"Natural 
+",,,
+Maryland,MCTC,2021,February,2021-02-24,Douglas,Avery,,,70,M,Black,,"Natural 
+",,,
+Maryland,MCIH,2021,March,2021-03-01,David,Walters,,,54,M,White,,"Natural 
+",,,
+Maryland,RCI,2021,March,2021-03-04,Wayne,Tindale,,,68,M,White,,"Natural 
+",,,
+Maryland,RCI,2021,March,2021-03-07,Reginald,Dorsey,,,50,M,Black,,"Natural 
+",,,
+Maryland,WCI,2021,March,2021-03-08,Timothy,Virts,,,45,M,White,,Accident,,,
+Maryland,JCI,2021,March,2021-03-14,Floyd,Bockman,,,79,M,Black,,"Natural 
+",,,
+Maryland,MRDCC,2021,March,2021-03-22,Dalton,Roberts,,,28,M,White,,Suicide,,,
+Maryland,ECI,2021,March,2021-03-29,Gary,Pinkett,,,64,M,Black,,"Natural 
+",,,
+Maryland,CMCF,2021,April,2021-04-06,Lionel,McDaniel,,,36,M,Black,,"Natural 
+",,,
+Maryland,JCI,2021,April,2021-04-15,Mateen,Abdullah,,,37,M,Black,,Undetermined,,,
+Maryland,MCIJ,2021,April,2021-04-18,Jermaine,Hagen,,,28,M,Black,,Undetermined,,,
+Maryland,WCI,2021,April,2021-04-21,Mervil,Price,,,83,M,White,,"Natural 
+",,,
+Maryland,NBCI,2021,April,2021-04-29,John,Davis,,,41,M,White,,Accident,,,
+Maryland,JCI,2021,May,2021-05-07,Victor,Kirkland,,,60,M,Black,,"Homicide
+",,,
+Maryland,ECI,2021,May,2021-05-10,Roger,Beeman,,,71,M,White,,"Natural 
+",,,
+Maryland,PATX,2021,May,2021-05-11,Santee,Taylor,,,47,M,Black,,Suicide,,,
+Maryland,ECI-E,2021,May,2021-05-25,Derona,Rodgers,,,44,M,Black,,"Natural 
+",,,
+Maryland,NBCI,2021,June,2021-06-06,Alphonso,Bennett,,,58,M,Black,,Undetermined,,,
+Maryland,NBCI,2021,June,2021-06-09,Mickeen,Holland,,,44,M,Black,,"Undetermined
+",,,
+Maryland,MCIH,2021,June,2021-06-19,Garrett,Moore,,,67,M,Black,,"Natural 
+",,,
+Maryland,NBCI,2021,June,2021-06-25,Larry,Smoot,,,63,M,Black,,Accident,,,
+Maryland,ECI,2021,June,2021-06-27,Donald,Waddell,,,69,M,Black,,"Natural 
+",,,
+Maryland,ECI-W,2021,June,2021-06-29,Saul,Vasquez,,,46,M,White,,"Natural 
+",,,
+Maryland,ECI-E,2021,July,2021-07-09,Charles,Corbin,,,79,M,Black,,"Natural 
+",,,
+Maryland,JCI,2021,July,2021-07-10,Ralph,Manna,,,83,M,White,,"Natural 
+",,,
+Maryland,WCI,2021,July,2021-07-11,John,Booth,,,74,M,Black,,"Natural 
+",,,
+Maryland,JCI,2021,July,2021-07-11,Jackie,Harris,,,61,M,Black,,Undetermined,,,
+Maryland,ECI-A,2021,July,2021-07-21,Marvin,Briddell,,,59,M,Black,,"Natural 
+",,,
+Maryland,JCI,2021,July,2021-07-30,Lawrence,Coverdale,,,50,M,Black,,Undetermined,,,
+Maryland,PATX,2021,August,2021-08-06,Donnell,Cain,,,65,M,Black,,"Natural 
+",,,
+Maryland,WCI,2021,August,2021-08-14,Calvin,Huss,,,73,M,White,,"Natural 
+",,,
+Maryland,JCI,2021,August,2021-08-22,Abraham,Chard,,,25,M,White,,Suicide,,,
+Maryland,ECI-A,2021,August,2021-08-27,Elroy,Schoolfield,,,60,M,Black,,"Natural 
+",,,
+Maryland,MRDCC,2021,August,2021-08-27,Shane,Burton,,,33,M,Black,,Homicide,,,
+Maryland,JCI,2021,August,2021-08-31,Jose,Gemeil,,,61,M,White,,"Natural 
+",,,
+Maryland,WCI,2021,September,2021-09-05,James,Lewis,,,88,M,White,,"Natural
+",,,
+Maryland,MCTC,2021,September,2021-09-17,Kevin,Powell,,,65,M,Black,,"Natural 
+",,,
+Maryland,JCI,2021,September,2021-09-21,Michael,Clore,,,57,M,White,,Undetermined,,,
+Maryland,NBCI,2021,September,2021-09-28,Daniel,Collins,,,54,M,Black,,"Natural 
+",,,
+Maryland,ECI-E,2021,September,2021-09-29,Timothy,Mckee,,,83,M,White,,"Natural 
+",,,
+Maryland,MCTC,2021,October,2021-10-10,Willie,Villery,,,69,M,Black,,"Natural 
+",,,
+Maryland,RCI,2021,October,2021-10-13,Robert,Contic,,,64,M,White,,"Natural 
+",,,
+Maryland,JCI,2021,October,2021-10-20,Carl,Richardson,,,51,M,Black,,"Natural 
+",,,
+Maryland,WCI,2021,October,2021-10-25,Samuel,Neal,,,90,M,Black,,"Natural 
+",,,
+Maryland,WCI,2021,October,2021-10-29,Carlos,James,,,80,M,Black,,"Natural 
+",,,
+Maryland,ECI-W,2021,November,2021-11-04,Michael,Weaver,,,53,M,White,,Suicide,,,
+Maryland,WCI,2021,November,2021-11-20,Leon,Little,,,53,M,Black,,"Natural 
+",,,
+Maryland,MCIH,2021,December,2021-12-07,Harvey,Pritchett,,,75,M,Black,,Unknown,,,
+Maryland,MCIH,2021,December,2021-12-10,Gary,Latray,,,62,M,White,,"Natural 
+",,,
+Maryland,WCI,2021,December,2021-12-11,Cleaven,Williams,,,46,M,Black,,"Natural 
+",,,
+Maryland,MCIH,2021,December,2021-12-13,Tyrone,Holloway,,,36,M,Black,,Suicide,,,
+Maryland,MCIH,2021,December,2021-12-13,James,Hanson,,,84,M,White,,"Natural 
+",,,
+Maryland,JCI,2022,1,2022-01-06,John,Miller,,,56,Male,White,,Natural,"Hypertensive Atherosclerotic Cardiovascular
+Disease",,2022
+Maryland,JCI,2022,1,2022-01-11,Gordon,Contee,,,64,Male,Black,,Natural,Metastatic Nasopharyngeal Cancer,,2022
+Maryland,JCI,2022,1,2022-01-15,Lawrence,Covington,,,47,Male,Black,,Natural,Cardiac Arrest,,2022
+Maryland,NBCI,2022,1,2022-01-22,Gene,Huff,,,62,Male,White,,Natural,"Sepsis, congestive heart failure",,2022
+Maryland,JCI,2022,1,2022-01-25,Theodore,Silva,,,69,Male,Black,,Accident,"Cardiac Arrest/ Acute Hypoxemic 
+Respiratory Failure",,2022
+Maryland,MCIH,2022,1,2022-01-27,Bryant,Sherman,,,31,Male,Black,,"Natural - 
 Septic Shock
-(bacterial Infection)",NA,205708,1945-02-20,1945,Bacterial Infection due to Covid 19,Meritus Medical Center
-Maryland,2022,January,2022-01-28,NBCI,Joseph,Miller,66,Male,White,Unknown,NA,197711,1955-05-27,1955,unknown,NBCI
-Maryland,2022,January,2022-01-29,NBCI,Tracy,Bailey,46,Male,Black,Suicide,NA,363829,1975-10-22,1975,Asphyxiation,NBCI
-Maryland,2022,January,2022-01-31,WCI,Joseph,Paschall,59,Male,White,Natural,NA,180567,1962-09-05,1962,"Acute Myocardial Infraction due to 
+(bacterial Infection)",Bacterial Infection due to Covid 19,,2022
+Maryland,NBCI,2022,1,2022-01-28,Joseph,Miller,,,66,Male,White,,Unknown,unknown,,2022
+Maryland,NBCI,2022,1,2022-01-29,Tracy,Bailey,,,46,Male,Black,,Suicide,Asphyxiation,,2022
+Maryland,WCI,2022,1,2022-01-31,Joseph,Paschall,,,59,Male,White,,Natural,"Acute Myocardial Infraction due to 
 Hypertensive Atherosclerotic Cardiovascular
-Disease",WCI
-Maryland,2022,February,2022-02-02,ECI-E,Richard,Kidwell,55,Male,White,Natural,NA,484864,1967-01-24,1967,Complications of Liver Disease,ECI Infirmary
-Maryland,2022,February,2022-02-06,JCI,Daniel,Turner,63,Male,Black,Natural,NA,216261,1958-06-02,1958,"Hypertensive Atherosclerotic Cardiovascular
-Disease",Facility
-Maryland,2022,February,2022-02-10,JCI,Anthony,Klanavitch,58,Male,White,Suicide,NA,342153,1963-10-15,1963,Asphyxiation,Facility
-Maryland,2022,February,2022-02-18,MCTC,Robert,Powell,56,Male,Black,Natural,NA,170305,1965-10-21,1965,Renal Failure,Meritus Medical Ctr. - ICU
-Maryland,2022,February,2022-02-23,WCI,Jawon,Ferguson,38,Male,Black,Suicide,NA,NA,1983-04-15,1983,Suicide by hanging,Facility
-Maryland,2022,March,2022-03-03,MCIH,Brian,Franklin,59,Male,Black,"Natural - 
-Respiratory failure",NA,310883,1962-06-06,1962,Unknown,Meritus Medical Ctr. - ICU
-Maryland,2022,March,2022-03-08,WCI,Garrett,Sutton,28,Male,White,Suicide,NA,482794,1993-12-09,1993,Suicide by hanging,Facility
-Maryland,2022,March,2022-03-21,RCI,Jason,Hitchner,39,Male,White,Natural,NA,413530,1982-11-10,1982,"Acute renal failure with hypertensive crisis
-and acute respiratory failure",Meritus Medical Ctr
-Maryland,2022,April,2022-04-02,ECI-E,Carter,Ruff,27,Male,White,Suicide,NA,457745,1994-10-12,1994,Suicide by hanging,ECI Infirmary
-Maryland,2022,April,2022-04-05,WCI,Dante,Miles,46,Male,Black,Natural,NA,316199,1975-12-20,1975,Metastatic Colon Cancer,Western MD UPMS
-Maryland,2022,April,2022-04-02,JCI,Jerry,Brown,32,Male,Black,Unknown,NA,473261,1989-08-09,1989,Unknown,JCI
-Maryland,2022,April,2022-04-20,JCI,Cordell,Jackson,64,Male,Black,Natural,NA,170092,1958-01-20,1958,Hypoxemic Pulse Electrical Activity Arrest,UMMC
-Maryland,2022,April,2022-04-22,WCI,Eugene,Colvin,77,Male,Black,Natural,NA,157345,1944-10-09,1944,"Postobstructive Pneumonia do to 
-Metastatic Non-small Cell Lung Cancer",UPMC
-Maryland,2022,April,2022-04-25,BCBIC,James,McCray,55,Male,Black,Natural,NA,486815,1967-01-07,1967,Peri-pancreatic Retroperitoneal Hemorrhage,BCBIC
-Maryland,2022,April,2022-04-27,JCI,Michael,Adams,58,Male,White,Natural,NA,355170,1963-08-29,1963,"? Multi-organ failure secondary to terminal
-metastatic melanoma",JCI
-Maryland,2022,May,2022-05-02,JCI,Andre,Holdclaw,53,Male,Black,Natural,NA,506451,1969-01-07,1969,"Diffuse Cerebran Edema, Right
-Frontal Lobe Brain Mass",JCI
-Maryland,2022,May,2022-05-26,ECI-W,Gregory,Hollomon,30,Male,Black,Natural,NA,432549,1992-05-09,1992,Non-Traumatic Seizure,Tidal Health Med. Ctr. ER
-Maryland,2022,May,2022-05-27,MCTC,Shamar,Anderson,44,Male,Black,Natural,NA,478969,1978-02-20,1978,"suspected cardiac arrest due to unknown 
-cause",Meritus Medical Center
-Maryland,2022,June,2022-06-12,MCTC,Michael,Bonner,44,Male,Black,Natural,NA,562517,1978-04-14,1978,"Acute Coronary Artery Thombosis, Hyperten-
-sive atherosclerotic Cardiovascular Disease",MCTC
-Maryland,2022,June,2022-06-21,NBCI,Moises,Gomez-Castillo,33,Male,White,Suicide,NA,439586,1988-08-13,1988,Asphyxia by hanging,NBCI
-Maryland,2022,June,2022-06-25,MCTC,Keith,Sellers,50,Male,White,Natural,NA,269538,1972-06-09,1972,"Hypotensive Shock, end stage renal Disease",Meritus Medical Center
-Maryland,2022,June,2022-06-28,MCTC,James,Benn,66,Male,Black,Unknown,NA,283621,1956-01-10,1956,Aspiration,Meritus Medical Center
-Maryland,2022,July,2022-07-10,WCI,Wilfredo,Nunez-Reyes,34,Male,Hispanic,Suicide,NA,464440,1987-10-19,1987,Asphyxia by hanging,WCI
-Maryland,2022,August,2022-08-07,RCI,Thomas,Baker,49,Male,White,Natural,NA,485913,1973-07-09,1973,Chronic Pancreatitis,MCIH Infirmary
-Maryland,2022,August,2022-08-12,MCTC,Frederick,Fisher,61,Male,White,Natural,NA,290984,1961-04-11,1961,Seizure Disorder,MCTC
-Maryland,2022,August,2022-08-13,JCI,Melvin,Smith,65,Male,White,Natural,NA,467833,1956-11-25,1956,"Candida Glabrata Fungemia Urinary Tract
+Disease",,2022
+Maryland,ECI-E,2022,2,2022-02-02,Richard,Kidwell,,,55,Male,White,,Natural,Complications of Liver Disease,,2022
+Maryland,JCI,2022,2,2022-02-06,Daniel,Turner,,,63,Male,Black,,Natural,"Hypertensive Atherosclerotic Cardiovascular
+Disease",,2022
+Maryland,JCI,2022,2,2022-02-10,Anthony,Klanavitch,,,58,Male,White,,Suicide,Asphyxiation,,2022
+Maryland,MCTC,2022,2,2022-02-18,Robert,Powell,,,56,Male,Black,,Natural,Renal Failure,,2022
+Maryland,WCI,2022,2,2022-02-23,Jawon,Ferguson,,,38,Male,Black,,Suicide,Suicide by hanging,,2022
+Maryland,MCIH,2022,3,2022-03-03,Brian,Franklin,,,59,Male,Black,,"Natural - 
+Respiratory failure",Unknown,,2022
+Maryland,WCI,2022,3,2022-03-08,Garrett,Sutton,,,28,Male,White,,Suicide,Suicide by hanging,,2022
+Maryland,RCI,2022,3,2022-03-21,Jason,Hitchner,,,39,Male,White,,Natural,"Acute renal failure with hypertensive crisis
+and acute respiratory failure",,2022
+Maryland,ECI-E,2022,4,2022-04-02,Carter,Ruff,,,27,Male,White,,Suicide,Suicide by hanging,,2022
+Maryland,WCI,2022,4,2022-04-05,Dante,Miles,,,46,Male,Black,,Natural,Metastatic Colon Cancer,,2022
+Maryland,JCI,2022,4,2022-04-17,Jerry,Brown,,,32,Male,Black,,Unknown,Unknown,,2022
+Maryland,JCI,2022,4,2022-04-20,Cordell,Jackson,,,64,Male,Black,,Natural,Hypoxemic Pulse Electrical Activity Arrest,,2022
+Maryland,WCI,2022,4,2022-04-22,Eugene,Colvin,,,77,Male,Black,,Natural,"Postobstructive Pneumonia do to 
+Metastatic Non-small Cell Lung Cancer",,2022
+Maryland,BCBIC,2022,4,2022-04-25,James,McCray,,,55,Male,Black,,Natural,Peri-pancreatic Retroperitoneal Hemorrhage,,2022
+Maryland,JCI,2022,4,2022-04-27,Michael,Adams,,,58,Male,White,,Natural,"? Multi-organ failure secondary to terminal
+metastatic melanoma",,2022
+Maryland,JCI,2022,5,2022-05-02,Andre,Holdclaw,,,53,Male,Black,,Natural,"Diffuse Cerebran Edema, Right
+Frontal Lobe Brain Mass",,2022
+Maryland,ECI-W,2022,5,2022-05-26,Gregory,Hollomon,,,30,Male,Black,,Natural,Non-Traumatic Seizure,,2022
+Maryland,MCTC,2022,5,2022-05-27,Shamar,Anderson,,,44,Male,Black,,Natural,"suspected cardiac arrest due to unknown 
+cause",,2022
+Maryland,MCTC,2022,6,2022-06-12,Michael,Bonner,,,44,Male,Black,,Natural,"Acute Coronary Artery Thombosis, Hyperten-
+sive atherosclerotic Cardiovascular Disease",,2022
+Maryland,NBCI,2022,6,2022-06-21,Moises,Gomez-Castillo,,,33,Male,White,,Suicide,Asphyxia by hanging,,2022
+Maryland,MCTC,2022,6,2022-06-25,Keith,Sellers,,,50,Male,White,,Natural,"Hypotensive Shock, end stage renal Disease",,2022
+Maryland,MCTC,2022,6,2022-06-28,James,Benn,,,66,Male,Black,,Unknown,Aspiration,,2022
+Maryland,WCI,2022,7,2022-07-10,Wilfredo,Nunez-Reyes,,,34,Male,Hispanic,,Suicide,Asphyxia by hanging,,2022
+Maryland,RCI,2022,8,2022-08-07,Thomas,Baker,,,49,Male,White,,Natural,Chronic Pancreatitis,,2022
+Maryland,MCTC,2022,8,2022-08-12,Frederick,Fisher,,,61,Male,White,,Natural,Seizure Disorder,,2022
+Maryland,JCI,2022,8,2022-08-13,Melvin,Smith,,,65,Male,White,,Natural,"Candida Glabrata Fungemia Urinary Tract
 Infection Aspiration Pneumonia Hepatic 
-Encephalopathy",Howard Co. General hospital
-Maryland,2022,August,2022-08-13,JCI,William,Lookingbill,65,Male,White,Natural,NA,415333,1956-08-28,1956,"Sepsis and Septic Shock, Pneumonia",BWMC
-Maryland,2022,August,2022-08-19,ECI-E,Michael,Chew,65,Male,Black,Natural,NA,180461,1956-12-15,1956,Metastatic Pancreatic Cancer,ECI Infirmary
-Maryland,2022,September,2022-09-06,ECI-E,Richard,Cooper,66,Male,white,Natural,NA,159787,1956-06-11,1956,Cardiac Arrest due to Asphyxia by hanging,Tidal Health Hospital ICU
-Maryland,2022,September,2022-09-09,WCI,Brandon,Lawver,26,Male,White,Natural,NA,471568,1995-10-08,1995,unknown,UPMC WM
-Maryland,2022,September,2022-09-18,NBCI,Kenneth,Alvira,29,Male,Black,Homicide,NA,358746,1992-10-15,1992,Assault; Homicide,NBCI
-Maryland,2022,September,2022-09-18,MCTC,Jesse,Wright,61,Male,White,Natural,NA,194469,1961-01-13,1961,"Global Anoxic Encephalopathy, Coma, Hyper-
-glycemia",MCI-H Infirmary
-Maryland,2022,September,2022-09-21,ECI-E,Michael,Reeder,77,Male,White,Natural,NA,181208,1945-01-24,1945,Cardiac Arrest,"Tidal Health Peninsular 
-Regional Hosp. ICU"
-Maryland,2022,October,2022-10-09,BCBIC,Javarick,Gantt,34,Male,Black,Homicide,NA,NA,1987-11-04,1987,Asphyxia Due to Strangulation,BCBIC
-Maryland,2022,October,2022-10-13,MTC,Peretz,Anderson,38,Male,Black,Natural,NA,447917,1984-07-26,1984,"Tachycardia, secondary to Pulmonary
-embolism",John Hopkins Hospital
-Maryland,2022,October,2022-10-18,JCI,Donta,Walker,39,Male,Black,Unknown,NA,309886,1983-03-11,1983,Unknown,JCI Medical Dept.
-Maryland,2022,October,2022-10-19,WCI,Earl,Jenkins,65,Male,White,Natural,NA,342490,1957-03-23,1957,Terminal Metastatic Neuro Endocrine Tumor,WCI Infirmary
-Maryland,2022,October,2022-10-26,WCI,William,Harris,72,Male,White,Natural,NA,163263,1950-06-08,1950,"Cardiac Arrest due to atherosclerotic cardio-
-vascular disease",WCI Infirmary
-Maryland,2022,October,2022-10-28,NBCI,James,Mauzone,60,Male,Black,Natural,NA,186957,1962-04-14,1962,Non-Traumatic Seizure,NBCI
-Maryland,2022,October,2022-10-30,MCIH,Corey,Hopkins,39,Male,Black,"Non-DPSCS
-Homicide",NA,485201,1983-08-15,1983,Complications of small bowel obstruction,MCIH Infirmary
-Maryland,2022,November,2022-11-03,WCI,Charles,Chapman,53,Male,Black,Accident,NA,303545,1969-03-05,1969,Unknown,WCI
-Maryland,2022,November,2022-11-07,BCBIC,Cortez,Johnson,21,Male,Black,Accident,NA,NA,2000-12-05,2000,Unknown,BCBIC
-Maryland,2022,November,2022-11-14,ECI-W,Lowell,Todd,54,Male,White,Natural,NA,486235,1968-10-27,1968,"Cardiac Arrest, Cerebral edema, Anoxia, 
-COPD, CHF",Tidal Health
-Maryland,2022,November,2022-11-21,WCI,John,Strange,61,Male,Black,Natural,NA,235987,1961-10-01,1961,Atherosclerotic Cardiovascular Disease,WCI
-Maryland,2022,December,2022-12-23,ECI-W,Donte,Camper,49,Male,Black,Natural,NA,241508,1973-10-15,1973,Bacteremia associated with Ischemic Bowel,ECI-W
-Maryland,2023,January,2023-01-02,WCI,George,Blake,77,Male,Black,Accident,NA,161487,1945-11-04,1945,"Accidental complication of fall; congestive 
-heart failure; metabolic Acidosis",WCI
-Maryland,2023,January,2023-01-02,JCI,Willie,Rious,62,Male,Black,Natural,NA,470767,1960-03-30,1960,"Dilated Cardromyopathy, Atrial Fibrillation,
-End Stage Renal Disease",JCI
-Maryland,2023,January,2023-01-04,MCTC,David,Waid,47,Male,White,Unknown,NA,464037,1975-10-11,1975,Unknown,2nd fl. Hospital
-Maryland,2023,January,2023-01-11,RCI,Christopher,Wong,44,Male,White,Unknown,NA,401405,1978-03-29,1978,Unknown,RCI
-Maryland,2023,January,2023-01-23,RCI,Joseph,Hall,63,Male,Black,Unknown,NA,362526,1959-04-19,1959,Unknown,Hagerstown
-Maryland,2023,January,2023-01-25,MRDCC,Deandre,Whitehead,38,Male,Black,Unknown,NA,NA,1984-07-23,1984,Unknown,Facility
-Maryland,2023,February,2023-02-07,WCI,John,Epps,44,Male,Black,Unknown,NA,298666,1978-09-05,1978,Unknown,WCI
-Maryland,2023,February,2023-02-10,JCI,Michael,Pensmith,56,Male,White,Natural,NA,487535,1966-11-02,1966,Cardiac Arrest,"University of Maryland 
-Medical Center (UMMC)"
-Maryland,2023,February,2023-02-28,ECI-E,Anthony,Mcsheffry,68,Male,White,Natural,NA,269860,1954-10-29,1954,"Dementia, Diabetes, Parkinson's disease",ECI
-Maryland,2023,March,2023-03-08,MCIH,Thomas,Hudson,58,Male,Black,Natural,NA,466580,1964-03-14,1964,"Hepatocellular Carcinoma Stage IV, 
-Acute Respiratory Failure",MCIH
-Maryland,2023,March,2023-03-11,BCBIC,Jeffrey,Chaney,67,Male,White,Natural,NA,328491,1955-08-06,1955,Hypoxemic Respiratory Failure,BCBIC
-Maryland,2023,March,2023-03-21,RCI,Jason,Hitchner,39,Male,White,Natural,NA,413530,1982-11-10,1982,"Acute renal failure with hypertensive crisis
-and acute respiratory failure",Meritus Medical Center
-Maryland,2023,March,2023-03-22,ECI-W,Rodney,Conyers,36,Male,Black,Suicide,NA,482956,1986-04-16,1986,Hanging,ECI
-Maryland,2023,March,2023-03-24,ECI-E,James,Sydnor,46,Male,Black,Natural,NA,261142,1977-01-29,1977,Intracranial Hemmorrage,ECI - Infirmary
-Maryland,2023,March,2023-03-29,JCI,James,Fletcher,58,Male,Black,Natural,NA,250425,1964-05-12,1964,"Septic shock, peritonitis, bowel perforation,
-samall bowel obstruction","University of MD Balto 
-Washington Medical Ctr"
-Maryland,2023,March,2023-03-30,JCI,Donald,Davis,64,Male,Black,Natural,NA,226663,1959-03-19,1959,"Hypertensive Atherosclerotic Cardiovascular 
-Disease","JCI Dispensary, Jessup"
-Maryland,2023,April,2023-04-07,RCI,Lester,Werkheiser,70,Male,White,Natural,NA,180811,1952-05-13,1952,was on life support/cardiac,Hospital
-Maryland,2023,April,2023-04-21,WCI,Christopher,Barrett,35,Male,White,Homicide,NA,362680,1987-12-02,1987,unknown,WCI
-Maryland,2023,April,2023-04-22,HDU,Shawn,Mullaney,57,Male,White,Unknown,NA,489485,1965-06-04,1965,Unknown,Home residence
-Maryland,2023,April,2023-04-22,JCI,Ted,Swauger,45,Male,White,Natural,NA,466049,1977-10-08,1977,Unknown,"JCI Dispensary, Jessup"
-Maryland,2023,April,2023-04-24,MCIH,Antonio,Muir,38,Male,White,Suicide,NA,446342,1984-05-25,1984,Hanging,MCIH / cell
-Maryland,2023,May,2023-05-02,BCBIC,Stanley,Scott,50,Male,Black,Accident,NA,492762,1973-03-02,1973,Pending Autopsy,BCBIC
-Maryland,2023,May,2023-05-05,JCI,John,Leonard,73,Male,Black,Natural,NA,250342,1949-06-09,1949,Adilt Failure to Thrive/severe vascular dementia,BWMC
-Maryland,2023,May,2023-05-07,WCI,William,Dowdy,82,Male,Black,Accident,NA,300685,1940-06-18,1940,"Anoxic Brain Injury, Aspiration, Advanced 
+Encephalopathy",,2022
+Maryland,JCI,2022,8,2022-08-13,William,Lookingbill,,,65,Male,White,,Natural,"Sepsis and Septic Shock, Pneumonia",,2022
+Maryland,ECI-E,2022,8,2022-08-19,Michael,Chew,,,65,Male,Black,,Natural,Metastatic Pancreatic Cancer,,2022
+Maryland,ECI-E,2022,9,2022-09-06,Richard,Cooper,,,66,Male,white,,Natural,Cardiac Arrest due to Asphyxia by hanging,,2022
+Maryland,WCI,2022,9,2022-09-09,Brandon,Lawver,,,26,Male,White,,Natural,unknown,,2022
+Maryland,NBCI,2022,9,2022-09-18,Kenneth,Alvira,,,29,Male,Black,,Homicide,Assault; Homicide,,2022
+Maryland,MCTC,2022,9,2022-09-18,Jesse,Wright,,,61,Male,White,,Natural,"Global Anoxic Encephalopathy, Coma, Hyper-
+glycemia",,2022
+Maryland,ECI-E,2022,9,2022-09-21,Michael,Reeder,,,77,Male,White,,Natural,Cardiac Arrest,,2022
+Maryland,BCBIC,2022,10,2022-10-09,Javarick,Gantt,,,34,Male,Black,,Homicide,Asphyxia Due to Strangulation,,2022
+Maryland,MTC,2022,10,2022-10-13,Peretz,Anderson,,,38,Male,Black,,Natural,"Tachycardia, secondary to Pulmonary
+embolism",,2022
+Maryland,JCI,2022,10,2022-10-18,Donta,Walker,,,39,Male,Black,,Unknown,Unknown,,2022
+Maryland,WCI,2022,10,2022-10-19,Earl,Jenkins,,,65,Male,White,,Natural,Terminal Metastatic Neuro Endocrine Tumor,,2022
+Maryland,WCI,2022,10,2022-10-26,William,Harris,,,72,Male,White,,Natural,"Cardiac Arrest due to atherosclerotic cardio-
+vascular disease",,2022
+Maryland,NBCI,2022,10,2022-10-28,James,Mauzone,,,60,Male,Black,,Natural,Non-Traumatic Seizure,,2022
+Maryland,MCIH,2022,10,2022-10-30,Corey,Hopkins,,,39,Male,Black,,"Non-DPSCS
+Homicide",Complications of small bowel obstruction,,2022
+Maryland,WCI,2022,11,2022-11-03,Charles,Chapman,,,53,Male,Black,,Accident,Unknown,,2022
+Maryland,BCBIC,2022,11,2022-11-07,Cortez,Johnson,,,21,Male,Black,,Accident,Unknown,,2022
+Maryland,ECI-W,2022,11,2022-11-14,Lowell,Todd,,,54,Male,White,,Natural,"Cardiac Arrest, Cerebral edema, Anoxia, 
+COPD, CHF",,2022
+Maryland,WCI,2022,11,2022-11-21,John,Strange,,,61,Male,Black,,Natural,Atherosclerotic Cardiovascular Disease,,2022
+Maryland,ECI-W,2022,12,2022-12-23,Donte,Camper,,,49,Male,Black,,Natural,Bacteremia associated with Ischemic Bowel,,2022
+Maryland,WCI,2023,1,2023-01-02,George,Blake,,,77,Male,Black,,Accident,"Accidental complication of fall; congestive 
+heart failure; metabolic Acidosis",,2023
+Maryland,JCI,2023,1,2023-01-02,Willie,Rious,,,62,Male,Black,,Natural,"Dilated Cardromyopathy, Atrial Fibrillation,
+End Stage Renal Disease",,2023
+Maryland,MCTC,2023,1,2023-01-04,David,Waid,,,47,Male,White,,Unknown,Unknown,,2023
+Maryland,RCI,2023,1,2023-01-11,Christopher,Wong,,,44,Male,White,,Unknown,Unknown,,2023
+Maryland,RCI,2023,1,2023-01-23,Joseph,Hall,,,63,Male,Black,,Unknown,Unknown,,2023
+Maryland,MRDCC,2023,1,2023-01-25,Deandre,Whitehead,,,38,Male,Black,,Unknown,Unknown,,2023
+Maryland,WCI,2023,2,2023-02-07,John,Epps,,,44,Male,Black,,Unknown,Unknown,,2023
+Maryland,JCI,2023,2,2023-02-10,Michael,Pensmith,,,56,Male,White,,Natural,Cardiac Arrest,,2023
+Maryland,ECI-E,2023,2,2023-02-28,Anthony,Mcsheffry,,,68,Male,White,,Natural,"Dementia, Diabetes, Parkinson's disease",,2023
+Maryland,MCIH,2023,3,2023-03-08,Thomas,Hudson,,,58,Male,Black,,Natural,"Hepatocellular Carcinoma Stage IV, 
+Acute Respiratory Failure",,2023
+Maryland,BCBIC,2023,3,2023-03-11,Jeffrey,Chaney,,,67,Male,White,,Natural,Hypoxemic Respiratory Failure,,2023
+Maryland,RCI,2023,3,2023-03-21,Jason,Hitchner,,,39,Male,White,,Natural,"Acute renal failure with hypertensive crisis
+and acute respiratory failure",,2023
+Maryland,ECI-W,2023,3,2023-03-22,Rodney,Conyers,,,36,Male,Black,,Suicide,Hanging,,2023
+Maryland,ECI-E,2023,3,2023-03-24,James,Sydnor,,,46,Male,Black,,Natural,Intracranial Hemmorrage,,2023
+Maryland,JCI,2023,3,2023-03-29,James,Fletcher,,,58,Male,Black,,Natural,"Septic shock, peritonitis, bowel perforation,
+samall bowel obstruction",,2023
+Maryland,JCI,2023,3,2023-03-30,Donald,Davis,,,64,Male,Black,,Natural,"Hypertensive Atherosclerotic Cardiovascular 
+Disease",,2023
+Maryland,RCI,2023,4,2023-04-07,Lester,Werkheiser,,,70,Male,White,,Natural,was on life support/cardiac,,2023
+Maryland,WCI,2023,4,2023-04-21,Christopher,Barrett,,,35,Male,White,,Homicide,unknown,,2023
+Maryland,HDU,2023,4,2023-04-22,Shawn,Mullaney,,,57,Male,White,,Unknown,Unknown,,2023
+Maryland,JCI,2023,4,2023-04-22,Ted,Swauger,,,45,Male,White,,Natural,Unknown,,2023
+Maryland,MCIH,2023,4,2023-04-24,Antonio,Muir,,,38,Male,White,,Suicide,Hanging,,2023
+Maryland,BCBIC,2023,5,2023-05-02,Stanley,Scott,,,50,Male,Black,,Accident,Pending Autopsy,,2023
+Maryland,JCI,2023,5,2023-05-05,John,Leonard,,,73,Male,Black,,Natural,Adilt Failure to Thrive/severe vascular dementia,,2023
+Maryland,WCI,2023,5,2023-05-07,William,Dowdy,,,82,Male,Black,,Accident,"Anoxic Brain Injury, Aspiration, Advanced 
 Demmentia.  
 
 (removed from ventilation device) Had 
-frontal parietal subdural hematoma","University of Pittsburgh
-Medical Center"
-Maryland,2023,May,2023-05-12,WCI,Ronald,Strouth,80,Male,White,Natural,NA,461006,1943-05-08,1943,"Acute Hypoxemic Respiratory Failure,
-Aspiration Pneumonia","University of Pittsburgh
-Medical Center"
-Maryland,2023,May,2023-05-12,ECI-E,John,Merzbacher,81,Male,White,Natural,NA,500984,1941-11-02,1941,Cardiac,ECI-E Infirmary
-Maryland,2023,May,2023-05-13,WCI,Keith,Mariani,64,Male,White,Natural,NA,477592,1958-06-06,1958,Multi-organ Failure,WCI Infirmary
-Maryland,2023,May,2023-05-25,JCI,Richard,Murray,68,Male,Black,Natural,NA,481914,1954-09-13,1954,"Cardiogenic shock/Acute ON Chronic
-Decompensated Heart Failure",Harbor Hospital
-Maryland,2023,May,2023-05-27,JCI,Nicholas,Delfosse,27,Male,White,Homicide,NA,438590,1995-06-18,1995,Unknown,JCI
-Maryland,2023,June,2023-06-01,JCI,James,Meagher,73,Male,White,Natural,NA,406619,1949-07-14,1949,"Acute Hypooxemic Respiratory Failure/stage
-III Lung cancer",JCI
-Maryland,2023,June,2023-06-13,ECI-E,Rex,Reece,51,Male,White,Natural,NA,480194,1971-12-16,1971,Esophagel Cancer/Metastatic Cancer to Liver,ECI-E
-Maryland,2023,June,2023-06-16,WCI,Mark,Eskridge,61,Male,White,Natural,NA,327033,1962-01-05,1962,"Cardio Pulmonary Arrest/Liver Cancer with
-Metastasas",WCI Infirmary
-Maryland,2023,June,2023-06-22,NBCI,Anthony,Kelley,59,Male,Black,Natural,NA,352736,1964-02-27,1964,unknown,"University of Pittsburgh
-Medical Center"
-Maryland,2023,June,2023-06-27,NBCI,Elias,McCrea,48,Male,Black,Natural,NA,418985,1975-04-14,1975,Aortic Dissection,"University of Pittsburgh
-Medical Center"
-Maryland,2023,June,2023-06-28,JCI,George,Jacobsen,73,Male,White,Suicide,NA,307026,1949-08-01,1949,Hanging,JCI
-Maryland,2023,June,2023-06-29,MCTC,Roude,Surpis,72,Male,Black,Unknown,NA,492333,1951-06-26,1951,unknown,MCTC
-Maryland,2023,July,2023-07-01,MCIH,Antoine,Young,46,Male,Black,Natural,NA,473010,1977-02-01,1977,"End stage ALS, Acute Hypoxic Respiratory Failure",MCIH-Infirmary
-Maryland,2023,July,2023-07-05,WCI,Lamont,Mealy,52,Male,Black,Accident,NA,493166,1971-02-23,1971,Dehydration,WCI
-Maryland,2023,July,2023-07-10,ECI-E,Edwin,Downs,63,Male,White,Natural,NA,215276,1959-12-21,1959,Cerebral Atrophy / Dementia,ECI-E Infirmary
-Maryland,2023,July,2023-07-11,ECI-E,Robert,Jones,76,Male,White,Natural,NA,330772,1946-12-14,1946,Multiple Cerebralvascular Disease / Cancer,ECI-E-Infirmary
-Maryland,2023,July,2023-07-21,ECI-E,Daniel,Mullen,60,Male,White,Natural,NA,490285,1963-03-29,1963,Esophagel Cancer,Tidal Health Hospital
-Maryland,2023,July,2023-07-25,JCI,Maurice,Britton,32,Male,Black,Natural,NA,486011,1990-10-10,1990,Complications of Sickle Cell Anemia,JCI
-Maryland,2023,July,2023-07-29,MCIH,Evin,Scribner,24,Male,Black,Suicide,NA,492696,1999-06-19,1999,Hanging,MCIH
-Maryland,2023,August,2023-08-05,ECI-E,Brandon,Hardy,27,Male,Black,Unknown,NA,488949,1996-07-13,1996,waiting for Autopsy Report,ECI-E
-Maryland,2023,August,2023-08-07,WCI,Moise,Lewis,34,Male,Black,Homicide,NA,402053,1989-04-30,1989,waiting for Autopsy Report,WCI
-Maryland,2023,August,2023-08-07,ECI-E,Louis,Stanovich,53,Male,White,Natural,NA,492848,NA,NA,Req. Death Certificate,Tidal Health
-Maryland,2023,August,2023-08-08,WCI,William,Carr,61,Male,Black,Natural,NA,404423,1962-01-28,1962,Gastric Adenocarcinoma,WCI
-Maryland,2023,August,2023-08-21,JCI,Kelly,Dorsey,74,Male,Black,Natural,NA,62678,1949-07-07,1949,Septic Shock/Pneumonia,BWMC
-Maryland,2023,August,2023-08-24,WCI,Edward,Masser,80,Male,White,Natural,NA,328315,1943-03-19,1943,Colon Cancer,WCI-Infirmary
-Maryland,2023,August,2023-08-27,WCI,Martin,Abell,40,Male,White,Natural,NA,311293,1952-11-01,1952,Heart Failure,WCI
-Maryland,2023,August,2023-08-30,MCIH,Erick,Granados-Zeledon,46,Male,White,Suicide,NA,461373,1977-07-02,1977,Hanging,MCIH
-Maryland,2023,September,2023-09-01,MCIH,Jimmy,Foye,64,Male,Black,Natural,NA,489301,1959-03-25,1959,Cancer,MCIH Infirmary
-Maryland,2023,September,2023-09-08,MCIH,Dirk,Lynch,28,Male,Black,Unknown,NA,440151,NA,NA,waiting for Autopsy Report,Meritus Medical Center
-Maryland,2023,September,2023-09-12,ECI-E,William,Wright,51,Male,Black,Unknown,NA,491780,1972-07-10,1972,suspected Intoxication/Cardiac (waiting for Autopsy),ECI-E
-Maryland,2023,September,2023-09-22,NBCI,Franklin,Medina,39,Male,White,Natural,NA,418101,1948-05-23,1948,"Hypertensive and Atherosclerotic Cardio-
-vascular Disease",NBCI
-Maryland,2023,September,2023-09-29,JCI,Gregory,Lawrence,67,Male,Black,Natural,NA,149210,1956-07-24,1956,Congestive Heart Failure,BWMC
-Maryland,2023,October,2023-10-04,JCI,Kory,Soots,32,Male,White,Suicide,NA,445927,1991-03-19,1991,Hanging,JCI
-Maryland,2023,October,2023-10-04,WCI,Roy,Donald,64,Male,White,Natural,NA,335614,1959-03-09,1959,Unknown,WCI - Infirmary
-Maryland,2023,October,2023-10-28,PATX,Lamar,Jones,28,Male,Black,Unknown,NA,485673,1995-05-25,1995,Unknown,PATX
-Maryland,2023,December,2023-12-03,RCI,Jeremy,Houck,29,Male,White,Natural,NA,420073,1994-04-21,1994,Colon Cancer,John Hopkins Hospital
-Maryland,2023,December,2023-12-23,JCI,Juan,Arroyo,83,Male,White,Natural,NA,188831,1940-10-16,1940,Unknown,JCI
+frontal parietal subdural hematoma",,2023
+Maryland,WCI,2023,5,2023-05-12,Ronald,Strouth,,,80,Male,White,,Natural,"Acute Hypoxemic Respiratory Failure,
+Aspiration Pneumonia",,2023
+Maryland,ECI-E,2023,5,2023-05-12,John,Merzbacher,,,81,Male,White,,Natural,Cardiac,,2023
+Maryland,WCI,2023,5,2023-05-13,Keith,Mariani,,,64,Male,White,,Natural,Multi-organ Failure,,2023
+Maryland,JCI,2023,5,2023-05-25,Richard,Murray,,,68,Male,Black,,Natural,"Cardiogenic shock/Acute ON Chronic
+Decompensated Heart Failure",,2023
+Maryland,JCI,2023,5,2023-05-27,Nicholas,Delfosse,,,27,Male,White,,Homicide,Unknown,,2023
+Maryland,JCI,2023,6,2023-06-01,James,Meagher,,,73,Male,White,,Natural,"Acute Hypooxemic Respiratory Failure/stage
+III Lung cancer",,2023
+Maryland,ECI-E,2023,6,2023-06-13,Rex,Reece,,,51,Male,White,,Natural,Esophagel Cancer/Metastatic Cancer to Liver,,2023
+Maryland,WCI,2023,6,2023-06-16,Mark,Eskridge,,,61,Male,White,,Natural,"Cardio Pulmonary Arrest/Liver Cancer with
+Metastasas",,2023
+Maryland,NBCI,2023,6,2023-06-22,Anthony,Kelley,,,59,Male,Black,,Natural,unknown,,2023
+Maryland,NBCI,2023,6,2023-06-27,Elias,McCrea,,,48,Male,Black,,Natural,Aortic Dissection,,2023
+Maryland,JCI,2023,6,2023-06-28,George,Jacobsen,,,73,Male,White,,Suicide,Hanging,,2023
+Maryland,MCTC,2023,6,2023-06-29,Roude,Surpis,,,72,Male,Black,,Unknown,unknown,,2023
+Maryland,MCIH,2023,7,2023-07-01,Antoine,Young,,,46,Male,Black,,Natural,"End stage ALS, Acute Hypoxic Respiratory Failure",,2023
+Maryland,WCI,2023,7,2023-07-05,Lamont,Mealy,,,52,Male,Black,,Accident,Dehydration,,2023
+Maryland,ECI-E,2023,7,2023-07-10,Edwin,Downs,,,63,Male,White,,Natural,Cerebral Atrophy / Dementia,,2023
+Maryland,ECI-E,2023,7,2023-07-11,Robert,Jones,,,76,Male,White,,Natural,Multiple Cerebralvascular Disease / Cancer,,2023
+Maryland,ECI-E,2023,7,2023-07-21,Daniel,Mullen,,,60,Male,White,,Natural,Esophagel Cancer,,2023
+Maryland,JCI,2023,7,2023-07-25,Maurice,Britton,,,32,Male,Black,,Natural,Complications of Sickle Cell Anemia,,2023
+Maryland,MCIH,2023,7,2023-07-29,Evin,Scribner,,,24,Male,Black,,Suicide,Hanging,,2023
+Maryland,ECI-E,2023,8,2023-08-05,Brandon,Hardy,,,27,Male,Black,,Unknown,waiting for Autopsy Report,,2023
+Maryland,WCI,2023,8,2023-08-07,Moise,Lewis,,,34,Male,Black,,Homicide,waiting for Autopsy Report,,2023
+Maryland,ECI-E,2023,8,2023-08-07,Louis,Stanovich,,,53,Male,White,,Natural,Req. Death Certificate,,2023
+Maryland,WCI,2023,8,2023-08-08,William,Carr,,,61,Male,Black,,Natural,Gastric Adenocarcinoma,,2023
+Maryland,JCI,2023,8,2023-08-21,Kelly,Dorsey,,,74,Male,Black,,Natural,Septic Shock/Pneumonia,,2023
+Maryland,WCI,2023,8,2023-08-24,Edward,Masser,,,80,Male,White,,Natural,Colon Cancer,,2023
+Maryland,WCI,2023,8,2023-08-27,Martin,Abell,,,40,Male,White,,Natural,Heart Failure,,2023
+Maryland,MCIH,2023,8,2023-08-30,Erick,Granados-Zeledon,,,46,Male,White,,Suicide,Hanging,,2023
+Maryland,MCIH,2023,9,2023-09-01,Jimmy,Foye,,,64,Male,Black,,Natural,Cancer,,2023
+Maryland,MCIH,2023,9,2023-09-08,Dirk,Lynch,,,28,Male,Black,,Unknown,waiting for Autopsy Report,,2023
+Maryland,ECI-E,2023,9,2023-09-12,William,Wright,,,51,Male,Black,,Unknown,suspected Intoxication/Cardiac (waiting for Autopsy),,2023
+Maryland,NBCI,2023,9,2023-09-22,Franklin,Medina,,,39,Male,White,,Natural,"Hypertensive and Atherosclerotic Cardio-
+vascular Disease",,2023
+Maryland,JCI,2023,9,2023-09-29,Gregory,Lawrence,,,67,Male,Black,,Natural,Congestive Heart Failure,,2023
+Maryland,JCI,2023,10,2023-10-04,Kory,Soots,,,32,Male,White,,Suicide,Hanging,,2023
+Maryland,WCI,2023,10,2023-10-04,Roy,Donald,,,64,Male,White,,Natural,Unknown,,2023
+Maryland,PATX,2023,10,2023-10-28,Lamar,Jones,,,28,Male,Black,,Unknown,Unknown,,2023
+Maryland,RCI,2023,12,2023-12-03,Jeremy,Houck,,,29,Male,White,,Natural,Colon Cancer,,2023
+Maryland,JCI,2023,12,2023-12-23,Juan,Arroyo,,,83,Male,White,,Natural,Unknown,,2023
+Maryland,WCI,2024,February,2024-02-22,,Maize,,,,,Black,,Natural,Pulmonary Embolism/Deep Venous Thrombosis,,2024
+Maryland,HDU,2024,March,2024-03-02,,Graham,,,,,Black,,Unknown,Autopsy Pending,,2024
+Maryland,JCI,2024,March,2024-03-04,,Maples,,,,,Black,,Natural,"HTN,Diabetes, Sepsis",,2024
+Maryland,NBCI,2024,March,2024-03-07,,Tomaszewski,,,,,White,,Suicide,Asphyxia,,2024
+Maryland,JCI,2024,March,2024-03-07,,Kleinsorge,,,,,White,,Natural,Coronary Artery Disease,,2024
+Maryland,BCBIC,2024,March,2024-03-08,,Mason,,,,,Black,,Natural,Septic Shock /Multifocal Pneumonia,,2024
+Maryland,WCI,2024,March,2024-03-12,,Borders,,,,,Black,,Natural,"HTN, Type II DM, Viral Hep C",,2024
+Maryland,JCI,2024,March,2024-03-14,,Carter,,,,,Black,,Natural,Liver Cancer,,2024
+Maryland,PATX,2024,March,2024-03-17,,Pearson,,,,,Black,,Could Not Be Determined,Cardiovascular Disease,,2024
+Maryland,ECI-E,2024,March,2024-03-18,,Brown,,,,,Black,,Natural,Liver Cancer,,2024
+Maryland,NBCI,2024,March,2024-03-22,,Conway,,,,,Black,,Accident,Synthetic Cannabinoid Intoxication,,2024
+Maryland,CDF,2024,March,2024-03-22,,Bentley,,,,,Black,,Natural,Cardiac Arrest,,2024
+Maryland,JCI,2024,March,2024-03-24,,Brochu,,,,,White,,Natural,Thyroid Cancer,,2024
+Maryland,ECI-E,2024,March,2024-03-26,,Suesbury,,,,,Black,,Natural,"Diabetes,Hypertension",,2024
+Maryland,BCBIC,2024,March,2024-03-28,,Martin,,,,,Black,,Natural,Hypertension Atherosclerotic Cardiovascular Disease,,2024
+Maryland,WCI,2024,March,2024-03-29,,Brees,,,,,White,,Natural,"Brain Herniation, Intracranial Hemorrhage,
+Warfarin Theraphy",,2024
+Maryland,RCI,2024,April,2024-04-07,,Brown,,,,,Black,,Natural,"Sepsis, multi-organ failure as a result of metastatic adenocarcinoma of colon",,2024
+Maryland,RCI,2024,April,2024-04-18,,Rouse,,,,,Black,,N atural,Liver Cancer,,2024
+Maryland,WCI,2024,April,2024-04-20,,Kowalski,,,,,White,,Natural,"Diabetes, Hypertension, BPH, Myocardial Infarction",,2024
+Maryland,MCTC,2024,April,2024-04-23,,Romero-Del Cid,,,,,white,,Suicide,Asphyxia,,2024
+Maryland,MCIH,2024,April,2024-04-24,,Twigg,,,,,white,,Natural,"Multi-organ Failure, hypernatremia, dementia",,2024
+Maryland,JCI,2024,April,2024-04-26,,Kehne,,,,,White,,Natural,"Congestive Heart Failure, Pneumonia",,2024
+Maryland,MCIH,2024,May,2024-05-05,,Williams,,,,,Black,,Natural,"Cardio-pulmonary arrest/CHF, COPD, Cardiac Arrhythmia",,2024
+Maryland,MCIH,2024,May,2024-05-07,,Coolahan,,,,,White,,Natural,"CHF, Cardiogenic shock, Septic Shock",,2024
+Maryland,WCI,2024,May,2024-05-18,,Green,,,,,Black,,Natural,Metastatic Colon Cancer,,2024
+Maryland,JCI,2024,May,2024-05-30,,Johnson,,,,,Black,,Natural,"Spontaneous Ventricular Fibrilation, Heart Failure, Ischemic Cardiomyopathy",,2024
+Maryland,ECI-W,2024,May,2024-05-31,,Stanford,,,,,Black,,Homicide,Multiple Injuries caused by assault,,2024
+Maryland,JCI,2024,June,2024-06-01,,Rodriguez,,,,,White,,Natural,"Jaundice, obstructive intrahepatic, liver mass, acute pancreatitis",,2024
+Maryland,WCI,2024,June,2024-06-07,,Warren,,,,,Black,,Natural,"Hypertensive atherosclerotic , other significant conditions, morbid obesity",,2024
+Maryland,WCI,2024,June,2024-06-12,,Irons,,,,,Black,,Homicide,Asphyxia,,2024
+Maryland,JCI,2024,June,2024-06-19,,Clarence,,,,,Black,,Natural,"Anoxic Brain Injury, Pulmonary embolism/ Cardiac Arrest",,2024
+Maryland,ECI,2024,June,2024-06-21,,Keith,,,,,Black,,Natural,Cerebral Artery Stroke,,2024
+Maryland,WCI,2024,June,2024-06-22,,Ruark,,,,,White,,Homicide,Multiple Injuries caused by assault,,2024
+Maryland,BCBIC,2024,June,2024-06-25,,Williams,,,,,Black,,Accident,"Fentanyl, Despropionyl Fentanyl,Para-Fluorofentanyl and Methadone Intoxication and Cocaine Use",,2024
+Maryland,ECI-E,2024,June,2024-06-28,,Snowden,,,,,Black,,Natural,Severe Septic Shock,,2024
+Maryland,HDU,2024,July,2024-07-10,,Whiting,,,,,Black,,Homicide,Pending Autopsy,,2024
+Maryland,MCIH,2024,July,2024-07-19,,Lavender,,,,,Black,,Suicide,Asphyxia,,2024
+Maryland,MCTC,2024,July,2024-07-21,,Long,,,,,Black,,Suicide,Asphyxia,,2024
+Maryland,MCTC,2024,July,2024-07-23,,Summers,,,,,White,,Natural,Hypertensive Cardiovascular Disease,,2024
+Maryland,JCI,2024,August,2024-08-07,,Burns,,,,,White,,Natural,Cardiac Arrest,,2024
+Maryland,WCI,2024,August,2024-08-09,,Brown,,,,,Black,,Murder,Pending Autopsy,,2024
+Maryland,ECI-E,2024,August,2024-08-16,,Keirsey,,,,,White,,Suicide,Asphyxia,,2024
+Maryland,MCIH,2024,August,2024-08-21,,Gray,,,,,Black,,Natural,"Non-Ketotic hyperglycemia induced seizure, obesity, renal disease cardiovascular disease, hypercholesterolemia",,2024
+Maryland,ECI-W,2024,August,2024-08-27,,Sanchez,,,,,Black,,Suicide,Asphyxia,,2024
+Maryland,MCTC,2024,September,2024-09-16,,Keyian,,,,,White,,Suicide,Asphyxia,,2024
+Maryland,ECI-W,2024,September,2024-09-20,,Robinson,,,,,Black,,Murder,Multiple Injuries caused by assault,,2024
+Maryland,JCI,2024,September,2024-09-23,,Oneil,,,,,White,,Natural,Metastatic malignant neuroendocrine tumor,,2024
+Maryland,MCTC,2024,September,2024-09-23,,Morrison,,,,,Black,,Could Not Be Determined,Acute Hypoxic-Ischemic Encephalopathy compiling Cardiovascular Disease associated with drug use,,2024
+Maryland,ECI,2024,October,2024-10-04,,Lee,,,,,Black,,Natural,"Stroke, chronic kidney disease, coronary artery disease",,2024
+Maryland,WCI,2024,October,2024-10-13,,McRoy,,,,,Black,,Natural,"Pneumonia, Cardiovascular accident, Atrial fibrilation, diabetes melitus, hypothyroidism, hypertension,hyperlipidemia, glaucoma, prostate cancer",,2024
+Maryland,JCI,2024,October,2024-10-20,,Brown,,,,,Black,,Could Not Be Determined,Pending Autopsy,,2024
+Maryland,ECI,2024,October,2024-10-29,,Arnett,,,,,Black,,Murder,Assault; Homicide,,2024
+Maryland,MCTC,2024,November,2024-11-09,,Sevilla-Mejia,,,,,White,,Alcohol/drug intoxication,No Autopsy Ordered,,2024
+Maryland,JCI,2024,November,2024-11-11,,Kennedy,,,,,White,,Suicide,Hanging,,2024
+Maryland,NBCI,2024,November,2024-11-14,,Sullivan,,,,,Black,,Unknown,Right hemispheric Stroke,,2024
+Maryland,WCI,2024,November,2024-11-16,,Smith,,,,,Black,,Natural,Coronary Artery Disease,,2024
+Maryland,MTC,2024,November,2024-11-19,,Williams,,,,,Black,,Natural,"Cardiac Arrhythmia, Myocardial Infarction, Pulmonary Embolism",,2024
+Maryland,MCIH,2024,November,2024-11-20,,Ryman,,,,,White,,Unknown,Renal Failure,,2024
+Maryland,WCI,2024,November,2024-11-22,,Young,,,,,Black,,Natural,No Autopsy Ordered,,2024
+Maryland,NBCI,2024,November,2024-11-25,,Warren,,,,,Black,,Murder,Pending Autopsy,,2024
+Maryland,MCIJ,2024,December,2024-12-02,,Harris,,,,,Black,,Anoxic brain injury secondary to cardiac arrest,Pending Autopsy,,2024
+Maryland,NBCI,2024,December,2024-12-07,,Wilson,,,,,Black,,Suicide,Hanging,,2024
+Maryland,NBCI,2024,December,2024-12-10,,Thomas,,,,,Black,,Natural,No Autopsy Ordered,,2024
+Maryland,NBCI,2024,December,2024-12-14,,Womick,,,,,White,,Suicide,Hanging,,2024
+Maryland,RCI,2024,December,2024-12-18,,Saxton,,,,,White,,Unknown,Pending Autopsy,,2024
+Maryland,JCI,2024,December,2024-12-19,,Bryant,,,,,Black,,Natural,Metastatic Melanoma,,2024
+Maryland,MCIJ,2024,December,2024-12-19,,Buzbee,,,,,White,,Unknown,Pending Autopsy,,2024
+Maryland,JCI,2024,December,2024-12-20,,Holder,,,,,Black,,Unknown,Pending Autopsy,,2024
+Maryland,MCIH,2024,December,2024-12-28,,Sheffield,,,,,Black,,Unknown,Pending Autopsy,,2024
+Maryland,HDU,2024,December,2024-12-30,,Foster,,,,,White,,Possible-OD,Pending Autopsy,,2024
