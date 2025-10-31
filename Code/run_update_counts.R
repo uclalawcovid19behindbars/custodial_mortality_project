@@ -228,31 +228,47 @@ new.joined.counts <- new.joined.counts %>%
 
 # ---- Final Cleanup: Replace NaN with NA across all columns --------------------
 new.joined.counts <- new.joined.counts %>%
-    mutate(across(everything(), ~ ifelse(is.nan(.x), NA, .x)))
+    mutate(across(everything(), ~ ifelse(is.nan(.x), NA, .x))) |> 
+    select(-c(Deaths.2025, Crude.Rate.2025, SMR.2025, Population.2025))
 
-# ---- Write Output (Version-Controlled) ----------------------------------------
+# Get data created in prep repo
+prison_agency_counts_2019_2024 <- read_csv("Data/Output/prison_agency_counts_2019-2024.csv")
 
-# Create timestamped version for reproducibility
-timestamp <- format(Sys.Date(), "%Y%m%d")
+# ---- Prepare ----
+# Rename the key columns for joining
+df1 <- new.joined.counts %>%
+    rename(State.Name = Agency)
 
-# Define both output paths
-versioned_out <- here("Data", "Output",
-                      glue("UCLA_BBDP_Updated_Output_Prison_Mortality_{timestamp}.csv"))
-latest_out <- CONFIG$out_file
+df2 <- prison_agency_counts_2019_2024
 
-# Write both versions
-write_csv(new.joined.counts, versioned_out)
-write_csv(new.joined.counts, latest_out)
+# ---- Identify shared columns to compare ----
+# Only keep columns that exist in both and are numeric
+shared_cols <- intersect(names(df1), names(df2))
+numeric_cols <- shared_cols[
+    map_lgl(shared_cols, ~ is.numeric(df1[[.x]]) && is.numeric(df2[[.x]]))
+]
 
-# Print confirmation messages
-message(glue("Latest output saved to: {latest_out}"))
-message(glue(" Versioned copy saved to: {versioned_out}"))
+# ---- Join ----
+compare_df <- df1 %>%
+    select(State.Name, all_of(numeric_cols)) %>%
+    full_join(df2 %>% select(State.Name, all_of(numeric_cols)),
+              by = "State.Name", suffix = c(".new", ".old"))
 
-# Optionally, return a small summary for logging
-summary_info <- tibble(
-    n_agencies = n_distinct(new.joined.counts$Agency),
-    n_years = length(unique(gsub(".*\\.(\\d{4})$", "\\1", names(new.joined.counts)))),
-    file_date = Sys.Date()
-)
-print(summary_info)
+# ---- Compute differences ----
+diff_df <- compare_df %>%
+    pivot_longer(
+        cols = -State.Name,
+        names_to = c("Variable", ".value"),
+        names_pattern = "(.*)\\.(new|old)"
+    ) %>%
+    mutate(Difference = new - old) %>%
+    filter(!is.na(Difference) & Difference != 0)
+
+# ---- Output mismatched rows ----
+if (nrow(diff_df) == 0) {
+    message("✅ All numeric values match between new.joined.counts and prison_agency_counts_2019_2024.")
+} else {
+    message("⚠ Differences found:")
+    print(diff_df)
+}
 
