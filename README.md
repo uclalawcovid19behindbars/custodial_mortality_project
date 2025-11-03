@@ -6,11 +6,11 @@ The [UCLA Law Behind Bars Data Project](https://uclacovidbehindbars.org/), launc
 
 To better monitor the public health conditions behind bars, the project began gathering data on all-cause deaths in U.S. prisons in June 2020. Because prison agencies report different records on deaths in custody, the project has attempted to standardize records into similar variables so the public can compare what information agencies make available and study the data they do release. The project intends this repository to function as a tool for the public and researchers to better understand the drivers of deaths in custody and assist policymakers in developing strategies to reduce their occurence. In particular, the project hopes this database helps support the full implementation of the Death in Custody Reporting Act [(link to bill)](https://www.congress.gov/bill/113th-congress/house-bill/1447/text) by supplementing 'Mortality in Correctional Institutions' reports, which were produced by the U.S. Department of Justice up until 2019, and assisting efforts to study (1) how this data may be used to reduce the number of deaths in custody, and (2) how carceral facility management practices may contribute to deaths in custody.
 
-### Accessing Current Data (2022–2024 Update)
+## Accessing Current Data (2022–2024 Update)
 
 As of November 3, 2025, this repository incorporates custodial mortality data through 2024.
 
-**National aggregate data by state (2019–2024):** [prison_agency_counts.csv](https://github.com/uclalawcovid19behindbars/custodial_mortality_project/blob/main/Data/Output/prison_agency_counts.csv)
+**National aggregate data by state (2019–2024):** [prison_agency_counts.csv](https://github.com/uclalawcovid19behindbars/custodial_mortality_project/blob/main/Data/Output/prison_agency_counts_2019-2024.csv)
 
 **Individual-level death records (when available):** [Raw Deaths folder](https://github.com/uclalawcovid19behindbars/custodial_mortality_project/tree/main/Data/Raw/Deaths)
 
