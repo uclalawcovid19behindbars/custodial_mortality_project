@@ -79,5 +79,3 @@ View(summary_all)
 # 
 # # Flatten list of all unique columns
 # unique_columns <- unique(column_inventory$Columns)
-
-
