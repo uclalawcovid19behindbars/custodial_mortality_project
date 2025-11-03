@@ -1,5 +1,19 @@
+# R project files
 .Rproj.user
 .Rhistory
 .RData
 .Ruserdata
+
+# macOS system file
 .DS_Store
+
+# Logs and temporary files
+logs/
+*.log
+
+# Specific file to ignore
+#compare_branches.R
+#run_update_counts.R
+
+# Optional: ignore RStudio project file if not needed
+*.Rproj

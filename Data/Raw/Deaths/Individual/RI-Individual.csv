@@ -1,36 +1,42 @@
-State,Year,Month,Death.Date,Circumstance.Specific,Circumstance.General,Location,Death.Age,Race,Sex
-Rhode Island,2015,March,2015-03-09,Cancer - Hepatitis C,NA,NA,NA,NA,NA
-Rhode Island,2015,April,2015-04-24,Expired at RIH - Cirhhosis and Hepatitis C,NA,NA,NA,NA,NA
-Rhode Island,2015,May,2015-05-17,Cardiovascular Disease,NA,NA,NA,NA,NA
-Rhode Island,2015,October,2015-10-24,Drugs - 'Ambiguous genitalia with endocrine abnormalities',NA,NA,NA,NA,NA
-Rhode Island,2015,November,2015-11-01,Respiratory Failiure,NA,NA,NA,NA,NA
-Rhode Island,2016,April,2016-04-02,Cardiovascular Disease - Substances,NA,NA,NA,NA,NA
-Rhode Island,2016,August,2016-08-05,Expired at Miriam - Cardiovascular Disease,NA,NA,NA,NA,NA
-Rhode Island,2017,January,2017-01-28,Cardiovascular Disease,NA,NA,NA,NA,NA
-Rhode Island,2017,March,2017-03-17,Suicide - Jump,NA,NA,NA,NA,NA
-Rhode Island,2017,June,2017-06-09,Lung Cancer,NA,NA,NA,NA,NA
-Rhode Island,2017,July,2017-07-11,Suicide - Hanging,NA,NA,NA,NA,NA
-Rhode Island,2017,September,2017-09-07,HCC,NA,NA,NA,NA,NA
-Rhode Island,2017,December,2017-12-06,Cirrhosis - Hep C,NA,NA,NA,NA,NA
-Rhode Island,2017,December,2017-12-10,Suicide - Hanging,NA,NA,NA,NA,NA
-Rhode Island,2017,December,2017-12-22,Cardiovascular Disease,NA,NA,NA,NA,NA
-Rhode Island,2018,April,2018-04-01,Respiratory Failiure,NA,NA,NA,NA,NA
-Rhode Island,2018,April,2018-04-22,Colon Cancer,NA,NA,NA,NA,NA
-Rhode Island,2018,June,2018-06-03,Hanging - Suicide,NA,NA,NA,NA,NA
-Rhode Island,2018,July,2018-07-09,Expired at Hospice,NA,NA,NA,NA,NA
-Rhode Island,2019,July,2019-07-30,Suicide,NA,NA,NA,NA,NA
-Rhode Island,2019,August,2019-08-07,CVA,NA,NA,NA,NA,NA
-Rhode Island,2019,November,2019-11-14,Encephalopathy,NA,NA,NA,NA,NA
-Rhode Island,2020,January,2020-01-11,Suicide - Hanging,NA,NA,NA,NA,NA
-Rhode Island,2020,June,2020-06-23,"Expired at RIH - Lung CA, CAD, Emphysema",NA,NA,NA,NA,NA
-Rhode Island,2020,July,2020-07-18,Expired at Kent Hospital - CA Lung with Mets to liver - no autopsy,NA,NA,NA,NA,NA
-Rhode Island,2020,September,2020-09-05,Suicide - Hanging,NA,NA,NA,NA,NA
-Rhode Island,2020,September,2020-09-23,Interstitial Lung Disease,NA,NA,NA,NA,NA
-Rhode Island,2020,December,2020-12-08,Expired at RIH - Cardiovascular Disease,NA,NA,NA,NA,NA
-Rhode Island,2020,December,2020-12-19,COVID-19,NA,NA,NA,NA,NA
-Rhode Island,2020,December,2020-12-25,COVID-19,NA,NA,NA,NA,NA
-Rhode Island,2021,January,2021-01-18,"Asphyxia, due to: choked on mask",Suicide,Rhode Island Hospital,49,White,Male
-Rhode Island,2021,February,2021-02-09,"Dilated Cardiomyopathy, Due to: Chronic Alcoholism",Natural/Other,NA,46,Hispanic,Male
-Rhode Island,2021,February,2021-02-25,Marked upper gastrointestinal hemorrhage,Natural,Rhode Island Hospital,51,White,Male
-Rhode Island,2021,April,2021-04-19,Hanging,Suicide,NA,62,White,Female
-Rhode Island,2021,May,2021-05-16,Metastatic cholangiocarcinoma,Natural/Illness,Hope Hospice,56,White,Male
+State,Facility,Year,Month,Death.Date,First.Name,Last.Name,Full.Name,ID.No,Death.Age,Sex,Race,Ethnicity,Circumstance.General,Circumstance.Specific,Circumstance.Other,source_year
+Rhode Island,,2015,March,2015-03-09,,,,,,,,,,Cancer - Hepatitis C,,
+Rhode Island,,2015,April,2015-04-24,,,,,,,,,,Expired at RIH - Cirhhosis and Hepatitis C,,
+Rhode Island,,2015,May,2015-05-17,,,,,,,,,,Cardiovascular Disease,,
+Rhode Island,,2015,October,2015-10-24,,,,,,,,,,Drugs - 'Ambiguous genitalia with endocrine abnormalities',,
+Rhode Island,,2015,November,2015-11-01,,,,,,,,,,Respiratory Failiure,,
+Rhode Island,,2016,April,2016-04-02,,,,,,,,,,Cardiovascular Disease - Substances,,
+Rhode Island,,2016,August,2016-08-05,,,,,,,,,,Expired at Miriam - Cardiovascular Disease,,
+Rhode Island,,2017,January,2017-01-28,,,,,,,,,,Cardiovascular Disease,,
+Rhode Island,,2017,March,2017-03-17,,,,,,,,,,Suicide - Jump,,
+Rhode Island,,2017,June,2017-06-09,,,,,,,,,,Lung Cancer,,
+Rhode Island,,2017,July,2017-07-11,,,,,,,,,,Suicide - Hanging,,
+Rhode Island,,2017,September,2017-09-07,,,,,,,,,,HCC,,
+Rhode Island,,2017,December,2017-12-06,,,,,,,,,,Cirrhosis - Hep C,,
+Rhode Island,,2017,December,2017-12-10,,,,,,,,,,Suicide - Hanging,,
+Rhode Island,,2017,December,2017-12-22,,,,,,,,,,Cardiovascular Disease,,
+Rhode Island,,2018,April,2018-04-01,,,,,,,,,,Respiratory Failiure,,
+Rhode Island,,2018,April,2018-04-22,,,,,,,,,,Colon Cancer,,
+Rhode Island,,2018,June,2018-06-03,,,,,,,,,,Hanging - Suicide,,
+Rhode Island,,2018,July,2018-07-09,,,,,,,,,,Expired at Hospice,,
+Rhode Island,,2019,July,2019-07-30,,,,,,,,,,Suicide,,
+Rhode Island,,2019,August,2019-08-07,,,,,,,,,,CVA,,
+Rhode Island,,2019,November,2019-11-14,,,,,,,,,,Encephalopathy,,
+Rhode Island,,2020,January,2020-01-11,,,,,,,,,,Suicide - Hanging,,
+Rhode Island,,2020,June,2020-06-23,,,,,,,,,,"Expired at RIH - Lung CA, CAD, Emphysema",,
+Rhode Island,,2020,July,2020-07-18,,,,,,,,,,Expired at Kent Hospital - CA Lung with Mets to liver - no autopsy,,
+Rhode Island,,2020,September,2020-09-05,,,,,,,,,,Suicide - Hanging,,
+Rhode Island,,2020,September,2020-09-23,,,,,,,,,,Interstitial Lung Disease,,
+Rhode Island,,2020,December,2020-12-08,,,,,,,,,,Expired at RIH - Cardiovascular Disease,,
+Rhode Island,,2020,December,2020-12-19,,,,,,,,,,COVID-19,,
+Rhode Island,,2020,December,2020-12-25,,,,,,,,,,COVID-19,,
+Rhode Island,,2021,January,2021-01-18,,,,,49,Male,White,,Suicide,"Asphyxia, due to: choked on mask",,
+Rhode Island,,2021,February,2021-02-09,,,,,46,Male,Hispanic,,Natural/Other,"Dilated Cardiomyopathy, Due to: Chronic Alcoholism",,
+Rhode Island,,2021,February,2021-02-25,,,,,51,Male,White,,Natural,Marked upper gastrointestinal hemorrhage,,
+Rhode Island,,2021,April,2021-04-19,,,,,62,Female,White,,Suicide,Hanging,,
+Rhode Island,,2021,May,2021-05-16,,,,,56,Male,White,,Natural/Illness,Metastatic cholangiocarcinoma,,
+Rhode Island,Asphyxia,2022,4,2022-04-30,,,,,76,Male,White,,Ashphyxia due to upper airway obstruction by food bolus,Elderly patient with chronic heart failure. Had DNR,,2022
+Rhode Island,Complications of,2022,6,2022-06-09,,,,,54,Male,Black,,Complications of COVID-19 pneumonia,,,2022
+Rhode Island,Kent,2022,9,2022-09-04,,,,,62,Male,White,,Natural- pulmonary,Complication of institial lung disease,,2022
+Rhode Island,Pronounced,2022,9,2022-09-27,,,,,64,Male,White,,Suicide,Hanging,,2022
+Rhode Island,Kent,2022,10,2022-10-25,,,,,86,Male,White,,Natural,"Not a Medical Examiner's case. Diagnosed with heart failure, pneumonia, cardiogenic shock, and acute metabolic encephalopathy",,2022
+Rhode Island,Rhode,2022,11,2022-11-21,,,,,53,Male,White,,Sepsis,,,2022

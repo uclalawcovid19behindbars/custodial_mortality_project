@@ -1,0 +1,313 @@
+State,Facility,Year,Month,Death.Date,First.Name,Last.Name,Full.Name,ID.No,Death.Age,Sex,Race,Ethnicity,Circumstance.General,Circumstance.Specific,Circumstance.Other,source_year
+NE,CCL,2000,,,,,,,,,,,,Natural,,
+NE,CCO,2000,,,,,,,,,,,,Natural,,
+NE,DEC,2000,,,,,,,,,,,,Natural,,
+NE,NSP,2000,,,,,,,,,,,,Natural,,
+NE,CCL,2001,,,,,,,,,,,,Natural,,
+NE,DEC,2001,,,,,,,,,,,,Natural,,
+NE,LCC,2001,,,,,,,,,,,,Natural,,
+NE,LCC,2001,,,,,,,,,,,,,,
+NE,NSP,2001,,,,,,,,,,,,Natural,,
+NE,NSP,2001,,,,,,,,,,,,Suicide,,
+NE,CCL,2002,,,,,,,,,,,,Natural,,
+NE,DEC,2002,,,,,,,,,,,,Natural,,
+NE,NSP,2002,,,,,,,,,,,,Natural,,
+NE,TSCI,2002,,,,,,,,,,,,Natural,,
+NE,,2002,,,,,,,,,,,,,,
+NE,LCC,2003,,,,,,,,,,,,Suicide,,
+NE,NSP,2003,,,,,,,,,,,,Natural,,
+NE,NSP,2003,,,,,,,,,,,,Suicide,,
+NE,DEC,2004,,,,,,,,,,,,Natural,,
+NE,LCC,2004,,,,,,,,,,,,Natural,,
+NE,NSP,2004,,,,,,,,,,,,Natural,,
+NE,TSCI,2004,,,,,,,,,,,,Natural,,
+NE,CCL,2005,,,,,,,,,,,,Natural,,
+NE,DEC,2005,,,,,,,,,,,,Natural,,
+NE,NCCW,2005,,,,,,,,,,,,Natural,,
+NE,NSP,2005,,,,,,,,,,,,Natural,,
+NE,TSCI,2005,,,,,,,,,,,,Natural,,
+NE,CCL,2006,,,,,,,,,,,,Natural,,
+NE,CCO,2006,,,,,,,,,,,,Natural,,
+NE,DEC,2006,,,,,,,,,,,,Natural,,
+NE,NSP,2006,,,,,,,,,,,,Natural,,
+NE,TSCI,2006,,,,,,,,,,,,Natural,,
+NE,CCO,2007,,,,,,,,,,,,,,
+NE,DEC,2007,,,,,,,,,,,,Natural,,
+NE,DEC,2007,,,,,,,,,,,,,,
+NE,NSP,2007,,,,,,,,,,,,Natural,,
+NE,NSP,2007,,,,,,,,,,,,,,
+NE,OCC,2007,,,,,,,,,,,,Natural,,
+NE,TSCI,2007,,,,,,,,,,,,Homicide,,
+NE,TSCI,2007,,,,,,,,,,,,Natural,,
+NE,CCL,2008,,,,,,,,,,,,,,
+NE,LCC,2008,,,,,,,,,,,,Natural,,
+NE,NSP,2008,,,,,,,,,,,,Amytrophic Lateral Sclerosis,,
+NE,NSP,2008,,,,,,,,,,,,non‐small cell lung carcinoma,,
+NE,OCC,2008,,,,,,,,,,,,atributed to drug toxicity,,
+NE,TSCI,2008,,,,,,,,,,,,Acquired Immune Deficiency Syndrome (AIDS),,
+NE,TSCI,2008,,,,,,,,,,,,Throat cancer/lung cancer,,
+NE,CCL,2009,,,,,,,,,,,,Drug Overdose (Accidental),,
+NE,CCO,2009,,,,,,,,,,,,On furlough,,
+NE,DEC,2009,,,,,,,,,,,,Hepatocellular Carcinoma (Hep C),,
+NE,LCC,2009,,,,,,,,,,,,Drug Overdose,,
+NE,NSP,2009,,,,,,,,,,,,Chronic Myeloid Leukemia,,
+NE,NSP,2009,,,,,,,,,,,,ESLD (Hep C),,
+NE,NSP,2009,,,,,,,,,,,,Liver Failure (Hep C),,
+NE,NSP,2009,,,,,,,,,,,,Liver Failure (Nodular Cirrhosis of the liver),,
+NE,NSP,2009,,,,,,,,,,,,Lung Carcinoma; Heart Failure,,
+NE,TSCI,2009,,,,,,,,,,,,Hanging,,
+NE,TSCI,2009,,,,,,,,,,,,Natural,,
+NE,TSCI,2009,,,,,,,,,,,,Pneumonia; Diabetes,,
+NE,CCL,2010,,,,,,,,,,,,Cardiomegaly w/ severe CAVD,,
+NE,DEC,2010,,,,,,,,,,,,Hypertensive heart disease & coronary atherosclerosis w/ antemortem pul embolism,,
+NE,LCC,2010,,,,,,,,,,,,Head Trauma due to fall down stairs (Accidental injury to  self),,
+NE,NCCW,2010,,,,,,,,,,,,Bilateral Bronchopneumonia,,
+NE,NSP,2010,,,,,,,,,,,,Cerebral & Subarachnoid Hemorrhage,,
+NE,NSP,2010,,,,,,,,,,,,Metastatic Lung Cancer,,
+NE,NSP,2010,,,,,,,,,,,,"Perforated Viscus/Appendix w/ CAD, dementia",,
+NE,NSP,2010,,,,,,,,,,,,"Pneumonia; End Stage Hep C, Liver Failure",,
+NE,NSP,2010,,,,,,,,,,,,Renal Failure/Pancreatic Cancer,,
+NE,OCC,2010,,,,,,,,,,,,CHF,,
+NE,OCC,2010,,,,,,,,,,,,Hypertensive CVD,,
+NE,OCC,2010,,,,,,,,,,,,Myocardial Hypertrophy,,
+NE,CCO,2011,,,,,,,,,,,,"Atherosclerotic Artery Disease, Myocardial Hypertrophy",,
+NE,DEC,2011,,,,,,,,,,,,Bilateral Ischemic Strokes,,
+NE,DEC,2011,,,,,,,,,,,,ESLD (Hep C); Cardiomyopathy,,
+NE,DEC,2011,,,,,,,,,,,,Esophageal Adenocarcinoma,,
+NE,DEC,2011,,,,,,,,,,,,Non‐small cell lung CA w/ mets,,
+NE,NSP,2011,,,,,,,,,,,,Brain Stem CVA,,
+NE,NSP,2011,,,,,,,,,,,,ESLD (Hep C); COPD,,
+NE,NSP,2011,,,,,,,,,,,,Hanging in Cell,,
+NE,NSP,2011,,,,,,,,,,,,"Multiple stab wounds to neck, chest, posterior, abd, buttocks",,
+NE,NSP,2011,,,,,,,,,,,,Non‐hodgkins lymphoma,,
+NE,NSP,2011,,,,,,,,,,,,Respiratory Failure; Pulmonary Edema; Thrombocytopenia,,
+NE,NSP,2011,,,,,,,,,,,,Small Lung Carcinoma w/ mets,,
+NE,OCC,2011,,,,,,,,,,,,Lethal ingestion of Fentanyl (Accidental),,
+NE,TSCI,2011,,,,,,,,,,,,Cardiomegaly due to CAVD,,
+NE,TSCI,2011,,,,,,,,,,,,ESLD (Hep C),,
+NE,TSCI,2011,,,,,,,,,,,,Malignant Brain Tumor,,
+NE,TSCI,2011,,,,,,,,,,,,Massive bilateral pulmonary thromboembolism,,
+NE,CCL,2012,,,,,,,,,,,,AIDS,,
+NE,CCL,2012,,,,,,,,,,,,On Furlough,,
+NE,CCO,2012,,,,,,,,,,,,Severe Hypertensive Cardiomyopathy,,
+NE,DEC,2012,,,,,,,,,,,,Hanging,,
+NE,NCCW,2012,,,,,,,,,,,,Failure to Thrive; Renal Failure; Hep C,,
+NE,NCCW,2012,,,,,,,,,,,,Sudden cardiac arrhythmia,,
+NE,NSP,2012,,,,,,,,,,,,Atherosclerotic CAD which led to acute myocardial infarction,,
+NE,NSP,2012,,,,,,,,,,,,"CAD, myocardial hypertrophy, Lung CA, Pneumonia & Pulmonary thromboembolism",,
+NE,NSP,2012,,,,,,,,,,,,Cardiopulmonary Arrest,,
+NE,NSP,2012,,,,,,,,,,,,Ischemic Heart Disease,,
+NE,TSCI,2012,,,,,,,,,,,,Hanging,,
+NE,DEC,2013,,,,,,,,,,,,Bilateral Pulmonary Thromboemboli,,
+NE,DEC,2013,,,,,,,,,,,,Glioblastoma multiforme brain metastatic grade 4,,
+NE,LCC,2013,,,,,,,,,,,,Complications of Cirrhosis due to Hep C,,
+NE,LCC,2013,,,,,,,,,,,,Ligature Hanging,,
+NE,NCCW,2013,,,,,,,,,,,,Venous thrombosis: blood clot in lung,,
+NE,NSP,2013,,,,,,,,,,,,Acute bronchopneumonia,,
+NE,NSP,2013,,,,,,,,,,,,Cardiopulmonary arrest due to ESLD and Hep C,,
+NE,NSP,2013,,,,,,,,,,,,"Cardiopulmonary arrest due to severe HF, severe pulmonary/portal HTN",,
+NE,NSP,2013,,,,,,,,,,,,Medical complications of ESRD due to HTN,,
+NE,NSP,2013,,,,,,,,,,,,Pancreatic CA w/ extensive mets to liver & lungs,,
+NE,OCC,2013,,,,,,,,,,,,Hanging,,
+NE,TSCI,2013,,,,,,,,,,,,Bilateral pulmonary thromboemboli,,
+NE,TSCI,2013,,,,,,,,,,,,Cardiomegaly w/ amyloidosis and severe CAVD,,
+NE,TSCI,2013,,,,,,,,,,,,Hanging,,
+NE,TSCI,2013,,,,,,,,,,,,Medical complications of left hip fracture,,
+NE,TSCI,2013,,,,,,,,,,,,Metastatic carcinoma,,
+NE,LCC,2014,,,,,,,,,,,,Hanging,,
+NE,LCC,2014,,,,,,,,,,,,Lung carcinoma w/ significant spread to liver,,
+NE,NSP,2014,,,,,,,,,,,,Asphyxia due to ligature hanging,,
+NE,NSP,2014,,,,,,,,,,,,"Blunt force injury, manner ""accident/undetermined""",,
+NE,NSP,2014,,,,,,,,,,,,"Cirrhosis, ESLD, Hep C",,
+NE,NSP,2014,,,,,,,,,,,,Metastatic lung CA,,
+NE,OCC,2014,,,,,,,,,,,,Hepatocellular carcinoma with metastasis,,
+NE,OCC,2014,,,,,,,,,,,,Liver and prostate cancer,,
+NE,TSCI,2014,,,,,,,,,,,,Acute bronchopneumonia,,
+NE,TSCI,2014,,,,,,,,,,,,Recurrent carcinoma of the head and neck,,
+NE,TSCI,2014,,,,,,,,,,,,Suicide by asphyxiation,,
+NE,DEC,2015,,,,,,,,,,,,End-stage liver disease/Cirrhosis,,
+NE,NSP,2015,,,,,,,,,,,,"CAD, myocardial hyperthropy, MI, polycystic kidney disease",,
+NE,NSP,2015,,,,,,,,,,,,"CHF, CVA, CAD",,
+NE,NSP,2015,,,,,,,,,,,,"CHF, Diabetes, COPD, ESLD",,
+NE,NSP,2015,,,,,,,,,,,,End stage hear disease,,
+NE,NSP,2015,,,,,,,,,,,,End stage liver disease,,
+NE,NSP,2015,,,,,,,,,,,,End-stage liver disease/Cirrhosis,,
+NE,NSP,2015,,,,,,,,,,,,Hanging,,
+NE,NSP,2015,,,,,,,,,,,,"Septic shock, urosepsis, pneumonia",,
+NE,OCC,2015,,,,,,,,,,,,Complications of cirrhosis due to Hep C,,
+NE,TSCI,2015,,,,,,,,,,,,Blunt-force head injuries,,
+NE,TSCI,2015,,,,,,,,,,,,End stage heart failiure,,
+NE,TSCI,2015,,,,,,,,,,,,Fatal acture epileptic seizure,,
+NE,TSCI,2015,,,,,,,,,,,,Metastatic colorectal squamous cell,,
+NE,TSCI,2015,,,,,,,,,,,,Metastatic parotid carcinoma,,
+NE,TSCI,2015,,,,,,,,,,,,Small cell undifferentiated lung carcinoma,,
+NE,CCL,2016,,,,,,,,,,,,Crushing injury (Accidental Injury by Other),,
+NE,LCC,2016,,,,,,,,,,,,Hanging,,
+NE,NSP,2016,,,,,,,,,,,,AIDS,,
+NE,NSP,2016,,,,,,,,,,,,Colorectal adeno CA w/ mets,,
+NE,NSP,2016,,,,,,,,,,,,End stage COPD; Emphysema,,
+NE,NSP,2016,,,,,,,,,,,,Late stage effects of CVA,,
+NE,NSP,2016,,,,,,,,,,,,Rectal carcinoma w/ liver mets,,
+NE,OCC,2016,,,,,,,,,,,,Bilateral pulmonary thromboemboli,,
+NE,TSCI,2016,,,,,,,,,,,,Hanging,,
+NE,LCC,2017,,,,,,,,,,,,Combined amphetamine & Ecstacy overdose (Accidental),,
+NE,NSP,2017,,,,,,,,,,,,CHF due to atherosclerosis,,
+NE,NSP,2017,,,,,,,,,,,,Cardiac dysrhythmia due to left ventricular dominant atrrhythmogenic cardiomyopathy,,
+NE,NSP,2017,,,,,,,,,,,,End-stage (Stage IV) poorly differentiated,,
+NE,NSP,2017,,,,,,,,,,,,End-stage poorly-differentiated hepatocellular,,
+NE,NSP,2017,,,,,,,,,,,,Liver failiure due to Hep C,,
+NE,NSP,2017,,,,,,,,,,,,Metastatic hepatocellular carcinoma,,
+NE,TSCI,2017,,,,,,,,,,,,Asphyxia due to compression of neck structures,,
+NE,TSCI,2017,,,,,,,,,,,,Dementia & End stage CAD,,
+NE,TSCI,2017,,,,,,,,,,,,End Stage Multiple Sclerosis,,
+NE,TSCI,2017,,,,,,,,,,,,Inhalation of combustion products,,
+NE,TSCI,2017,,,,,,,,,,,,Metastatic lung adenocarcinoma,,
+NE,TSCI,2017,,,,,,,,,,,,Multiple sharp and blunt force injuries,,
+NE,TSCI,2017,,,,,,,,,,,,Myocardial hypertrophy and associated atherosclerotic coronary disease,,
+NE,TSCI,2017,,,,,,,,,,,,Sepsis secondary to bacterial peritonitis,,
+NE,TSCI,2017,,,,,,,,,,,,"Subdural hematoma, CVA on anti-coagulants",,
+NE,NSP,2018,,,,,,,,,,,,Acute bronchopneumonia due to end-tage COPD,,
+NE,NSP,2018,,,,,,,,,,,,Cancer,,
+NE,NSP,2018,,,,,,,,,,,,Executed by lethal injection,,
+NE,NSP,2018,,,,,,,,,,,,Hypertensive cardiovascular disease (HCD),,
+NE,NSP,2018,,,,,,,,,,,,Multiple myeloma,,
+NE,NSP,2018,,,,,,,,,,,,Myocardial hypertrophy/HCD,,
+NE,NSP,2018,,,,,,,,,,,,Neuroendocrine tumor of the pancreas,,
+NE,NSP,2018,,,,,,,,,,,,Urothelial cancer,,
+NE,TSCI,2018,,,,,,,,,,,,CVA,,
+NE,TSCI,2018,,,,,,,,,,,,Hanging,,
+NE,CCL,2019,,,,,,,,,,,,Combined dentanyl and heroin toxicity,,
+NE,DEC,2019,,,,,,,,,,,,Hepatic Cellular Carcinoma,,
+NE,DEC,2019,,,,,,,,,,,,Pulmonary thromboemboli due to deep vein thrombosis,,
+NE,DEC,2019,,,,,,,,,,,,Squamous cell CA of anus with metasases,,
+NE,DEC,2019,,,,,,,,,,,,Upper GI bleed,,
+NE,LCC,2019,,,,,,,,,,,,Asphyxiation,,
+NE,LCC,2019,,,,,,,,,,,,Hanging,,
+NE,NSF,2019,,,,,,,,,,,,Hepatic Carcinoma,,
+NE,NSP,2019,,,,,,,,,,,,Liver cancer with metastasis to due adrenals,,
+NE,NSP,2019,,,,,,,,,,,,Metastatic Colon Cancer,,
+NE,NSP,2019,,,,,,,,,,,,influenza A and Streptococcal Pneumonia,,
+NE,TSCI,2019,,,,,,,,,,,,Apiration Pneumonia and change in MS of questionable etiology,,
+NE,TSCI,2019,,,,,,,,,,,,Blunt force (head) injuries and medical complications thereof,,
+NE,TSCI,2019,,,,,,,,,,,,"Esophageal cancer, late stage",,
+NE,TSCI,2019,,,,,,,,,,,,"Kidney failiure, CHF",,
+NE,TSCI,2019,,,,,,,,,,,,Pneumonia COPD CAD Anemia,,
+NE,CCL,2020,,,,,,,,,,,,Presumed drug disorder with cardiac arrest,,
+NE,CCO,2020,,,,,,,,,,,,Accidental Overdose,,
+NE,DEC,2020,,,,,,,,,,,,End stage metastatic cholangiocarcinoma,,
+NE,DEC,2020,,,,,,,,,,,,Medical complications of congenital bicuspid aortic valve,,
+NE,LCC,2020,,,,,,,,,,,,"COVID-19 pneumonia, sepsis, Type 2 DM",,
+NE,NSP,2020,,,,,,,,,,,,Acute respiratory distress syndrome secondary to COVID-19,,
+NE,NSP,2020,,,,,,,,,,,,"Acute respiratory distress syndrome secondary to COVID-19, bacteremia, pulmonary embolus, diabetes melitus, chronic obstructive pulmonary disease",,
+NE,NSP,2020,,,,,,,,,,,,"Acute respiratory distress syndrome secondary to COVID-19, chronic obstructive pulmonary disease, bacteremia",,
+NE,NSP,2020,,,,,,,,,,,,Asphyxiation,,
+NE,NSP,2020,,,,,,,,,,,,Complications of large T-cell lymphoma,,
+NE,NSP,2020,,,,,,,,,,,,"End stage liver disease, anemia",,
+NE,NSP,2020,,,,,,,,,,,,Hemorrhagic cerebrovascular accident,,
+NE,NSP,2020,,,,,,,,,,,,"Metastatic pancreatic cancer, bilateral pneumonia secondary to sepsis",,
+NE,NSP,2020,,,,,,,,,,,,Oropharyneal squamous cell carcinoma; anemia due to chronic disease,,
+NE,NSP,2020,,,,,,,,,,,,awaiting autopsy - assault,,
+NE,OCC,2020,,,,,,,,,,,,Coronary artery disease due to arrhythmias,,
+NE,OCC,2020,,,,,,,,,,,,"Medical complications of pancreatic cancer, Stage IV with history of rectal carcinoma",,
+NE,TSCI,2020,,,,,,,,,,,,Bilateral Pneumonia,,
+NE,TSCI,2020,,,,,,,,,,,,"CAD, complications from diabetes",,
+NE,TSCI,2020,,,,,,,,,,,,CAD;COPD,,
+NE,TSCI,2020,,,,,,,,,,,,"COVID-19 pneumonia, sepsis, Type 2 DM",,
+NE,TSCI,2020,,,,,,,,,,,,Cerebrovascular Accident post Aortic Valve Replacement,,
+NE,TSCI,2020,,,,,,,,,,,,"Coronary artery disease with CHF, DM",,
+NE,TSCI,2020,,,,,,,,,,,,"End stage COPD, CAD",,
+NE,TSCI,2020,,,,,,,,,,,,"Metabolic encephalopathy, acute renal failiure, cerebral anoxia, hypoxic respiratory failiure, pancreatitis, COVID positive in hospital",,
+NE,TSCI,2020,,,,,,,,,,,,Metastatic adenocarcinoma of the lungs,,
+NE,TSCI,2020,,,,,,,,,,,,"Pulmonary Embolism, Type 2 DM, Klinefelter Syndrome",,
+NE,TSCI,2020,,,,,,,,,,,,"Severe sepsis, right lower lobe pneumonia due to PE, abdominal pain",,
+NE,TSCI,2020,,,,,,,,,,,,Suicide by hanging,,
+NE,TSCI,2020,,,,,,,,,,,,squamous cell carcinoma of tonsils,,
+NE,DEC,2021,,,,,,,,,,,,Sepsis secondary to pneumonia,,
+NE,NSP,2021,,,,,,,,,,,,CAD secondary to complications of DM & CKD on dialysis,,
+NE,TSCI,2021,,,,,,,,,,,,Acute myocardial infarction,,
+NE,NCCW,2021,,,,,,,,,,,,"Metastatic squamous cell carcinoma, cervix primary",,
+NE,NSP,2021,,,,,,,,,,,,"CAD, upper GI bleed, hypernatremia, DM2",,
+NE,TSCI,2021,,,,,,,,,,,,Metastatic sarcoma cell carcinoma,,
+NE,LCC,2021,,,,,,,,,,,,Pneumonia; secondary to non‐small cell lung Carcinoma,,
+NE,NSP,2021,,,,,,,,,,,,Subarachnoid hemorrhage,,
+NE,TSCI,2021,,,,,,,,,,,,Atherosclerotic coronary artery disease,,
+NE,DEC,2021,,,,,,,,,,,,Acute respiratory failure with hypoxia secondary to COVID 19 pneumonia,,
+NE,DEC,2021,,,,,,,,,,,,Acute respiratory failure with hypoxia secondary to COVID 19 pneumonia,,
+NE,NSP,2021,,,,,,,,,,,,Complications of Brain Tumor,,
+NE,DEC,2021,,,,,,,,,,,,Acute respiratory failure with hypoxia secondary to COVID 19 pneumonia,,
+NE,DEC,2021,,,,,,,,,,,,Acute respiratory failure with hypoxia secondary to COVID 19 pneumonia,,
+NE,NSP,2021,,,,,,,,,,,,Natural Causes ‐ probable sepsis d/t PVD,,
+NE,CCO,2021,,,,,,,,,,,,Presumed COVID 19,,
+NE,NSP,2021,,,,,,,,,,,,Acute respiratory failure with hypoxia secondary to COVID 19 pneumonia,,
+NE,OCC,2021,,,,,,,,,,,,Acute respiratory failure with hypoxia secondary to COVID 19 pneumonia,,
+NE,OCC,2021,,,,,,,,,,,,Acute respiratory failure with hypoxia secondary to COVID 19 pneumonia,,
+NE,NSP,2021,,,,,,,,,,,,"CAD, DM, CHF, Renal Failure",,
+NE,OCC,2021,,,,,,,,,,,,Medical complications of acute methamphetamine toxicity,,
+NE,NSP,2021,,,,,,,,,,,,Metastatic bladder cancer,,
+NE,WEC,2021,,,,,,,,,,,,Sudden cardiac death,,
+NE,TSCI,2021,,,,,,,,,,,,Acute myeloma leukemia,,
+NE,TSCI,2021,,,,,,,,,,,,Suicide,,
+Nebraska,,2022,March,2022-03-14,,,GONDRINGER DANIEL G,41354,52,,WHITE,,,,,2022
+Nebraska,,2022,November,2022-11-27,,,CANBAZ NECDET,52671,70,,WHITE,,,,,2022
+Nebraska,,2022,May,2022-05-23,,,HARMS RUSSELL W,54348,65,,WHITE,,,,,2022
+Nebraska,,2022,March,2022-03-14,,,STAMPER MELVIN R,63119,53,,WHITE,,,,,2022
+Nebraska,,2022,August,2022-08-29,,,SCHROEDER PATRICK W,64624,45,,WHITE,,,,,2022
+Nebraska,,2022,November,2022-11-18,,,YOUNG ANTOINE D,69263,48,,BLACK,,,,,2022
+Nebraska,,2022,November,2022-11-08,,,INNESS TERRY,73246,75,,WHITE,,,,,2022
+Nebraska,,2022,August,2022-08-03,,,HOLLIDAY DANIEL A,73762,70,,WHITE,,,,,2022
+Nebraska,,2022,July,2022-07-05,,,KAYS CHARLES E,73780,81,,WHITE,,,,,2022
+Nebraska,,2022,July,2022-07-06,,,MAHLER ROBERT C,75044,66,,WHITE,,,,,2022
+Nebraska,,2022,August,2022-08-25,,,MILLER KEVIN M,82306,41,,WHITE,,,,,2022
+Nebraska,,2022,June,2022-06-25,,,HICKS CLYDE E,84549,92,,WHITE,,,,,2022
+Nebraska,,2022,October,2022-10-29,,,GARCIA PHILIP M,87223,26,,HISPANIC,,,,,2022
+Nebraska,,2022,January,2022-01-02,,,PRIGGE KRISTOPHER D,89347,36,,WHITE,,,,,2022
+Nebraska,,2022,July,2022-07-02,,,TREBILCOCK JAMES A,210697,73,,WHITE,,,,,2022
+Nebraska,,2022,December,2022-12-30,,,SMITH GEORGE,213368,69,,WHITE,,,,,2022
+Nebraska,,2022,December,2022-12-08,,,SERRANO-DOMINGUEZ ISAAC,213856,20,,HISPANIC,,,,,2022
+Nebraska,,2022,January,2022-01-16,,,BANEY RICHARD E,213892,71,,WHITE,,,,,2022
+Nebraska,,2022,December,2022-12-10,,,WEINDORFF ROBERT J,214465,47,,BLACK,,,,,2022
+Nebraska,,2022,August,2022-08-15,,,TALBITZER JACK J,214952,59,,WHITE,,,,,2022
+Nebraska,,2023,December,2023-12-08,,,POINDEXTER EDWARD,27767,79,,BLACK,,,,,2023
+Nebraska,,2023,December,2023-12-04,,,SVITAK LEONARD J,29449,85,,WHITE,,,,,2023
+Nebraska,,2023,December,2023-12-13,,,NESBITT THOMAS EDWARD,36998,77,,WHITE,,,,,2023
+Nebraska,,2023,October,2023-10-22,,,DAVLIN CLIFFORD JOHN,38572,70,,WHITE,,,,,2023
+Nebraska,,2023,August,2023-08-25,,,THULIN ALFRED R,45659,76,,WHITE,,,,,2023
+Nebraska,,2023,February,2023-02-17,,,HERNANDEZ JOHNNY M,52822,76,,HISPANIC,,,,,2023
+Nebraska,,2023,January,2023-01-23,,,NUZUM MARTY R,58300,62,,WHITE,,,,,2023
+Nebraska,,2023,August,2023-08-29,,,WILLIAMS DECABOOTER,60507,71,,BLACK,,,,,2023
+Nebraska,,2023,May,2023-05-18,,,GUNTHER MICHAEL J,61937,68,,WHITE,,,,,2023
+Nebraska,,2023,January,2023-01-14,,,LOUGHRY LARRY,63700,76,,WHITE,,,,,2023
+Nebraska,,2023,January,2023-01-24,,,EPTING JOHN C,65046,73,,BLACK,,,,,2023
+Nebraska,,2023,June,2023-06-23,,,MARTIN FLOYD E,68664,89,,WHITE,,,,,2023
+Nebraska,,2023,June,2023-06-30,,,DASHER RANDALL A,69583,57,,WHITE,,,,,2023
+Nebraska,,2023,March,2023-03-28,,,WINTERS BEAUFORD W,71175,37,,WHITE,,,,,2023
+Nebraska,,2023,May,2023-05-29,,,BEDEL MICHAEL L.,72242,72,,WHITE,,,,,2023
+Nebraska,,2023,June,2023-06-19,,,WALLACE BOBBY K,79746,46,,BLACK,,,,,2023
+Nebraska,,2023,December,2023-12-14,,,PENDELL MICHAEL L,80445,69,,WHITE,,,,,2023
+Nebraska,,2023,October,2023-10-05,,,SPENCER JESSE J,80917,27,,WHITE,,,,,2023
+Nebraska,,2023,April,2023-04-14,,,PRIVETT PHILLIP M,82268,75,,WHITE,,,,,2023
+Nebraska,,2023,June,2023-06-16,,,SAXTON DAVID E,82585,54,,WHITE,,,,,2023
+Nebraska,,2023,July,2023-07-11,,,THOAN KAK,84532,50,,BLACK,,,,,2023
+Nebraska,,2023,October,2023-10-09,,,OZUNA VICTOR,84626,53,,HISPANIC,,,,,2023
+Nebraska,,2023,April,2023-04-12,,,RYKS CHANCE C,84713,36,,WHITE,,,,,2023
+Nebraska,,2023,May,2023-05-20,,,LICHTENBERG DONALD T,213960,85,,WHITE,,,,,2023
+Nebraska,,2023,April,2023-04-07,,,LUNA FRANCISCO,214957,56,,HISPANIC,,,,,2023
+Nebraska,,2023,October,2023-10-23,,,CHRISTIAN CARL M,216644,51,,BLACK,,,,,2023
+Nebraska,,2023,June,2023-06-26,,,THOMAS MICHAEL R,216656,46,,NATIVE AMERICAN,,,,,2023
+Nebraska,,2024,April,2024-04-10,,,ADAMS BRIAN J,26103,,,WHITE,,,,,2024
+Nebraska,,2024,January,2024-01-15,,,HOLTAN RICHARD DEAN,30317,,,WHITE,,,,,2024
+Nebraska,,2024,June,2024-06-08,,,PRIM MICHAEL R,31305,,,BLACK,,,,,2024
+Nebraska,,2024,December,2024-12-14,,,LEE EDWARD E.,34830,,,WHITE,,,,,2024
+Nebraska,,2024,August,2024-08-14,,,SCHRINER DUANE,34953,,,WHITE,,,,,2024
+Nebraska,,2024,June,2024-06-20,,,TUCKER STEVEN L,55760,,,WHITE,,,,,2024
+Nebraska,,2024,June,2024-06-19,,,MCPHERSON ROGER,56402,,,WHITE,,,,,2024
+Nebraska,,2024,May,2024-05-26,,,DOWDING DOUGLAS L,59207,,,WHITE,,,,,2024
+Nebraska,,2024,January,2024-01-12,,,POE RYAN LEE,64494,,,BLACK,,,,,2024
+Nebraska,,2024,June,2024-06-21,,,GONZALEZ LUIS A,76716,,,HISPANIC,,,,,2024
+Nebraska,,2024,May,2024-05-11,,,JENNINGS ESTELL N,80794,,,WHITE,,,,,2024
+Nebraska,,2024,December,2024-12-02,,,CASTOR WILMA,94158,,,WHITE,,,,,2024
+Nebraska,,2024,November,2024-11-21,,,GREER KENNETH,211862,,,BLACK,,,,,2024
+Nebraska,,2024,October,2024-10-12,,,BOUAPHAKEO VIENG A,216882,,,ASIAN,,,,,2024
+Nebraska,,2024,February,2024-02-26,,,CABRERA-LOMELI JOSE M,217364,,,HISPANIC,,,,,2024
+Nebraska,,2024,October,2024-10-30,,,NAHKAHYEN-CLEARSAND SHAWNN E,217596,,,NATIVE AMERICAN,,,,,2024
+Nebraska,,2024,June,2024-06-25,,,ALCORTA MARTINIANO R,218098,,,HISPANIC,,,,,2024

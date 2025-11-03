@@ -1,339 +1,479 @@
-State,Year,Month,Death.Date,Facility,Circumstance.Specific,CMP.ID,DoB.Year,Race
-New Jersey,2015,January,2015-01-07,SWSP,Acute Miocardial Infarction (Cardiac Arrest),864,NA,NA
-New Jersey,2015,January,2015-01-10,SWSP,Bronchid Pneumonia,864,NA,NA
-New Jersey,2015,January,2015-01-16,SWSP,"Cardiovascular Disease, Diabetes Mellitus II, End Stage Renal Disease",864,NA,NA
-New Jersey,2015,January,2015-01-19,SWSP,Sudden Cardiac Arrest Associated With Mitral Valve Prolapse and Cardiomegaly,864,NA,NA
-New Jersey,2015,January,2015-01-27,SWSP,Renal Failiure,864,NA,NA
-New Jersey,2015,January,2015-01-28,SWSP,Cirrhosis of the Uver,864,NA,NA
-New Jersey,2015,January,2015-01-30,SWSP,Metastalic Head and Neck Carcinoma,864,NA,NA
-New Jersey,2015,February,2015-02-06,SWSP,Metastalic Head and Neck Carcinoma,864,NA,NA
-New Jersey,2015,February,2015-02-07,SWSP,Pneumonia and Cardiovascular Disease,864,NA,NA
-New Jersey,2015,February,2015-02-11,NJSP,Generalized Anasarca Due to Cirrhosis of the Liver/ With History of Hepatitis C,862,NA,NA
-New Jersey,2015,February,2015-02-18,SWSP,Pneumonia with Chronic Oastrointcstind Bleeding,864,NA,NA
-New Jersey,2015,February,2015-02-18,EJSP,Hypertensive Cardiovascular Disease and Diabetes,845,NA,NA
-New Jersey,2015,February,2015-02-21,SWSP,Athcrosclerotic Cardiovascular Disease,864,NA,NA
-New Jersey,2015,February,2015-02-24,NJSP,"Cause of Death was Cardiac Arrest. Dr. Raffatt, of the Mercer County Mcdic:d Examiner's Office, ""established the cause of death as natural causes due to multiple organ failiure.""",862,NA,NA
-New Jersey,2015,February,2015-02-24,SWSP,Lung Carcinoma,864,NA,NA
-New Jersey,2015,March,2015-03-03,BSP,Cardiac Arrythmia Caused by Myocardid Scarring,836,NA,NA
-New Jersey,2015,March,2015-03-22,NJSP,Lung Cancer,862,NA,NA
-New Jersey,2015,April,2015-04-04,SWSP,Complications of a Stroke,864,NA,NA
-New Jersey,2015,April,2015-04-13,SWSP,Acute Coronary Insufficiency,864,NA,NA
-New Jersey,2015,April,2015-04-19,SWSP,Eosinophilitic Coronary Atherosclerosis,864,NA,NA
-New Jersey,2015,April,2015-04-27,EJSP,Suicide by Hanging,845,NA,NA
-New Jersey,2015,May,2015-05-05,SWSP,Congestive Heart Failure (Renal Failure as other significant cause),864,NA,NA
-New Jersey,2015,May,2015-05-06,SWSP,"Massive Bilateral Pulmonary Emboli, Cardiomyopathy with Cardiac Arrhythmia",864,NA,NA
-New Jersey,2015,May,2015-05-15,SWSP,Artcirosclerotic Cardiovascular Disease,864,NA,NA
-New Jersey,2015,May,2015-05-20,SWSP,End Stage Liver Disease - Cirrhosis and Hepatoccllular Carcinoma End Stage Renal Disease,864,NA,NA
-New Jersey,2015,June,2015-06-02,EMCF,Cardio-Respiratory Arrest,846,NA,NA
-New Jersey,2015,June,2015-06-04,SWSP,Complications of Non-Hodgkin's Lymphoma,864,NA,NA
-New Jersey,2015,June,2015-06-08,USP,Chronic Obstructive Pulmonary Disease Due to Asthma,NA,NA,NA
-New Jersey,2015,July,2015-07-14,SWSP,"Hypertension Cardiovascular Disease, History of Colon Cancer, Liver Disease, and Hepatitis C",864,NA,NA
-New Jersey,2015,August,2015-08-03,SWSP,Rcspiratory Failure‚ Complete Atelectasis of the Left Lung and Aspiration Pneumonia. NOTE: This however was a preliminary cause Real Cause of Death is Homicide:  delayed complications of blunt force trauma. Two years prior to his death the inmate was assaulted by another inmmate and died due to those injuries.,864,NA,NA
-New Jersey,2015,August,2015-08-10,NSP,acute acetyl fentanyl toxicity,863,NA,NA
-New Jersey,2015,August,2015-08-10,SSCF,Cardiac Arrest,865,NA,NA
-New Jersey,2015,August,2015-08-15,SWSP,"Atherosclerotic and Hypertensive Cardiovascular Disease, Diabetes Mellitus, Hepatic Failure and End Stage Renal Disease",864,NA,NA
-New Jersey,2015,August,2015-08-26,SWSP,Cardiac Arrest,864,NA,NA
-New Jersey,2015,September,2015-09-01,NJSP,Cardiac Arrest - Had cancer too,862,NA,NA
-New Jersey,2015,September,2015-09-04,SWSP,Atherosclerotic Cardiovascular Disease / Contributory: Renal Failiure and Hepatitis C,864,NA,NA
-New Jersey,2015,September,2015-09-17,SWSP,"Sepsis Due to Necrotizing Fasciitis of Groin, Peripheral vascular Disease",864,NA,NA
-New Jersey,2015,September,2015-09-10,SWSP,Complications of Metatstatic Rhabdomyosarcoma (Bone Cancer),864,NA,NA
-New Jersey,2015,September,2015-09-09,KJNTOCK,"Medical Examiner Abraham Phillip advised that Inmate Fished had an enlarged heart, spleen, and liver, Cause of Death is Sudden Cardiac Arrhythmia due to Hypertensive Cardiac Arrest",NA,NA,NA
-New Jersey,2015,October,2015-10-06,SWSP,Cardiac Arrest,864,NA,NA
-New Jersey,2015,October,2015-10-08,NJSP,Hemorrhagic Shock,862,NA,NA
-New Jersey,2015,October,2015-10-19,SWSP,Suicide by Hanging,864,NA,NA
-New Jersey,2015,October,2015-10-24,NSP,Suicide by Hanging,863,NA,NA
-New Jersey,2015,November,2015-11-09,ADTC,Intracerebral Hemmorrhage due to Atherosclerotic Cardiovascular Disease,835,NA,NA
-New Jersey,2015,November,2015-11-21,SWSP,Cardiac Arrest,864,NA,NA
-New Jersey,2015,November,2015-11-28,NSP,Hypertensive Canliovascular Disease,863,NA,NA
-New Jersey,2015,December,2015-12-10,SWSP,Cardiac Arrest,864,NA,NA
-New Jersey,2015,December,2015-12-13,SWSP,Canliuc Arrhytmia and  Congestive Heart Failure,864,NA,NA
-New Jersey,2015,December,2015-12-19,SSCF,Natural - Iopathic Hypertophic Subaortic Stenosis,865,NA,NA
-New Jersey,2015,December,2015-12-23,NSP,Cause of Death: Acute Fentanyl Toxicity,863,NA,NA
-New Jersey,2015,December,2015-12-25,ADTC,Myocardial Infarction,835,NA,NA
-New Jersey,2015,December,2015-12-25,NSP,Accidental - Accute Acetyl Fentanyl Intoxication,863,NA,NA
-New Jersey,2016,January,2016-01-04,SWSP,"Complications of Obesity, Contributing Cause Diabetes",864,NA,NA
-New Jersey,2016,January,2016-01-21,BSP,Multiple Traumatic Injuries - Motor Vehicle Accident -,836,NA,NA
-New Jersey,2016,February,2016-02-03,NSP,Pulmonary Embolism due to Thrombosis of Deep Vein of the Lower Extremities,863,NA,NA
-New Jersey,2016,February,2016-02-03,KT-SWR,Acute Myocardial lnfarction,NA,NA,NA
-New Jersey,2016,February,2016-02-05,SWSP,Abdominal Cancer,864,NA,NA
-New Jersey,2016,February,2016-02-11,SWSP,Respiratory Failure,864,NA,NA
-New Jersey,2016,February,2016-02-12,NSP,Pulmonary Thromboembolism due to Deep Vein Thrombosis of Lower Extremity. Immobility Due to Broncopneumonia,863,NA,NA
-New Jersey,2016,February,2016-02-13,EMCF,Pancreatic Cancer,846,NA,NA
-New Jersey,2016,February,2016-02-23,NJSP,Respiratory Failure,862,NA,NA
-New Jersey,2016,February,2016-02-23,SWSP,Complications From Cancer,864,NA,NA
-New Jersey,2016,February,2016-02-26,NSP,Congestive Heart Failure due to Dialated Cardiomyopathy - Contributory Factors: Chronic Obstructive Pulmonary Disease; Ddiabetes Mellitus,863,NA,NA
-New Jersey,2016,February,2016-02-27,NJSP,Massive Bilateral Pulmonary Thromboembolism,862,NA,NA
-New Jersey,2016,February,2016-02-28,EJSP,Cardiac Arrest,845,NA,NA
-New Jersey,2016,February,2016-02-28,ADTC,"Atherosclerotic and Hypertensive Canliovascular Disease, Obesity",835,NA,NA
-New Jersey,2016,March,2016-03-02,NJSP,Heroine Overdose,862,NA,NA
-New Jersey,2016,March,2016-03-08,EJSP,"Hypoxic/lschemic Encephaloplllhy, Cardiac Arrest,",845,NA,NA
-New Jersey,2016,March,2016-03-11,NSP,Complications of Metastatic Prostatic Carcinoma,863,NA,NA
-New Jersey,2016,March,2016-03-30,SWSP,Atheriosclerotic Cardiovascular Disease,864,NA,NA
-New Jersey,2016,April,2016-04-06,SWSP,Cardiac Arrest,864,NA,NA
-New Jersey,2016,April,2016-04-14,SSCF,Hepatic Failure,865,NA,NA
-New Jersey,2016,May,2016-05-05,NSP,"Sepsis Due to Acute Prostatisis, Rectal Abscess",863,NA,NA
-New Jersey,2016,May,2016-05-13,NSP,Sepsis,863,NA,NA
-New Jersey,2016,May,2016-05-17,NSP,Cardiac Arrest,863,NA,NA
-New Jersey,2016,May,2016-05-20,SWSP,"Mn.ssive Head Trauma. Part D: CAD, CHF, Hypertension,",864,NA,NA
-New Jersey,2016,June,2016-06-07,SWSP,Autopsy determined that the cause of death was Cmdiac,864,NA,NA
-New Jersey,2016,June,2016-06-27,NSP,Accidental - Acute Acetyl Fcntalyl Intoxication.,863,NA,NA
-New Jersey,2016,July,2016-07-01,SWSP,Cancer of the Liver - Liver Failure,864,NA,NA
-New Jersey,2016,July,2016-07-10,NJSP,"Heroine Intoxication, Cmdiomyopathy, Hepatic-",862,NA,NA
-New Jersey,2016,July,2016-07-19,SWSP,Complications of Liver Failure Due to Infection With,864,NA,NA
-New Jersey,2016,July,2016-07-24,ADTC,Cmdiac Arrest,835,NA,NA
-New Jersey,2016,July,2016-07-30,SWSP,Arteriosclerotic Cmdiovasculnr Disease,864,NA,NA
-New Jersey,2016,August,2016-08-16,NSP,Suicide,863,NA,NA
-New Jersey,2016,August,2016-08-29,NJSP,Lung Cancer,862,NA,NA
-New Jersey,2016,September,2016-09-09,EJSP,lschemic Heart Disease,845,NA,NA
-New Jersey,2016,September,2016-09-15,SWSP,Cardiac Arrest,864,NA,NA
-New Jersey,2016,September,2016-09-24,SWSP,"Coronary Artery DiSCllSC, Uncontrolled Diabetes, and",864,NA,NA
-New Jersey,2016,September,2016-09-26,SWSP,Multinle Mycloma With Melasl11tic DISCIISC,864,NA,NA
-New Jersey,2016,October,2016-10-03,BSP,Sarcoidosis,836,NA,NA
-New Jersey,2016,October,2016-10-08,SWSP,Complications Related to his Infection with the Hepatitis C virus.,864,NA,NA
-New Jersey,2016,October,2016-10-09,SWSP,Atherosclerotic and Hypertensive Cardiovascular Disease,864,NA,NA
-New Jersey,2016,October,2016-10-17,SWSP,Cardiopulmonary Arrest,864,NA,NA
-New Jersey,2016,November,2016-11-05,EMCF,Stage IV non Small Cell Lung Carcinoma with,846,NA,NA
-New Jersey,2016,November,2016-11-06,NSP,Homicide-Multiple Injuries,863,NA,NA
-New Jersey,2016,November,2016-11-18,SWSP,Cardiac Arrest,864,NA,NA
-New Jersey,2016,November,2016-11-24,SWSP,Complications from a stroke,864,NA,NA
-New Jersey,2016,November,2016-11-26,SWSP,Respritory Failiure - Lung Cancer,864,NA,NA
-New Jersey,2016,November,2016-11-26,NSP,Liver Cancer,863,NA,NA
-New Jersey,2016,December,2016-12-04,SWSP,Respiratory Failiure Due to Complications of Concer,864,NA,NA
-New Jersey,2016,December,2016-12-19,SWSP,Lung Cancer - Respiratory Failiure,864,NA,NA
-New Jersey,2017,January,2017-01-01,EMCR,LungCo.nccr,846,NA,NA
-New Jersey,2017,January,2017-01-01,SWSP,Cardioc Arrest,864,NA,NA
-New Jersey,2017,January,2017-01-07,SWSP,Respiratory Failure,864,NA,NA
-New Jersey,2017,January,2017-01-16,SWSP,Scpsi!C,864,NA,NA
-New Jersey,2017,January,2017-01-19,NJSP,Cardiac Arrest,862,NA,NA
-New Jersey,2017,February,2017-02-01,SWSP,Respiratory Failure,864,NA,NA
-New Jersey,2017,February,2017-02-07,SWSP,Cerebra.I and  pulmon:try congcsaion and edema‚Ä¢ moderate,864,NA,NA
-New Jersey,2017,March,2017-03-05,SWSP,Chronic Ulncss/Rcspirutory Failure,864,NA,NA
-New Jersey,2017,March,2017-03-11,NJSP,"Arhythmia due lo corun:iry artery hypopla.,.ia and vi1ral valve nrolan!;C.",862,NA,NA
-New Jersey,2017,March,2017-03-21,SSCF,Upper GI bleeding with cirrhosis of the liverdue to,865,NA,NA
-New Jersey,2017,April,2017-04-01,SWSP,Respiratory Failure,864,NA,NA
-New Jersey,2017,April,2017-04-16,ADTC,Hcui1Surgery,835,NA,NA
-New Jersey,2017,April,2017-04-16,NSP,Severe Sc1>sis {blood infection) and Liver Cancer,863,NA,NA
-New Jersey,2017,June,2017-06-01,SWSP,Respiratory Failure - Due 10  Lcul.cmia,864,NA,NA
-New Jersey,2017,June,2017-06-12,SSCF,Sepeic Shock,865,NA,NA
-New Jersey,2017,July,2017-07-04,SWSP,Artcriosclcrotic Cardiovu.scular Disease,864,NA,NA
-New Jersey,2017,July,2017-07-19,NSP,Acute Myocardial hifruction Due to Coronary Sclerosis and S1cnosis Due 10 A1hcrosclcrotic Cardiovascular Disease,863,NA,NA
-New Jersey,2017,July,2017-07-25,SWSP,Colon Cancer Mc1as1atic With Athcrosclcrotic and,864,NA,NA
-New Jersey,2017,July,2017-07-31,NJSP,Cardiac Arrest,862,NA,NA
-New Jersey,2017,August,2017-08-20,SWSP,"Complica1ions ofhypcrtcnsi\'C and a1hcrosclcrotic can:Jiovasculardisease - contributing factors: diabetes mcllitui., end-stage renal ddisca.sc, hcpatilis C infection.",864,NA,NA
-New Jersey,2017,August,2017-08-28,EJSP,"Valvular cardiovascular disease status poserepair with liver disease, including no1ialcoholic steatohcp:ititis.",845,NA,NA
-New Jersey,2017,September,2017-09-01,NJSP,Hypertensive Athcro.scleroticcardiovascular disense,862,NA,NA
-New Jersey,2017,September,2017-09-17,NJSP,Accidental Opiate Overdose,862,NA,NA
-New Jersey,2017,September,2017-09-23,EJSP,Sepsis,845,NA,NA
-New Jersey,2017,September,2017-09-25,SWSP,Congestive hc:OJ1 failure due lo  hypertensive and,864,NA,NA
-New Jersey,2017,September,2017-09-30,SWSP,"Pos.,;ihlc Canlioc Arrest ‚Ä¢ Pcndm   f-urther Heart Examination",864,NA,NA
-New Jersey,2017,October,2017-10-02,SWSP,Acute MRSA pneumonia.,864,NA,NA
-New Jersey,2017,October,2017-10-12,NSP,Plasmac)1omo.,863,NA,NA
-New Jersey,2017,October,2017-10-22,SWSP,"Atherosclcroticcanliovoscular disease - contributing factors: end-stage renal disease, prostate adenocarcinoma.",864,NA,NA
-New Jersey,2017,November,2017-11-15,NSP,Pendit1R¬∑1¬∑0.xlt..'t1loA)' Report,863,NA,NA
-New Jersey,2017,November,2017-11-16,BROCH,Acute Combined  Drug Toxicity Due to Fentanyl and Acctyl,837,NA,NA
-New Jersey,2017,November,2017-11-30,EMCF,Acute Myocardial lnfarction,846,NA,NA
-New Jersey,2017,December,2017-12-03,NJSP,Hypertensive and  AtherusclerolicCardiovascular Disease,862,NA,NA
-New Jersey,2017,December,2017-12-06,NJSP,Athcrosclcmtic UU'diovascular Disease,862,NA,NA
-New Jersey,2017,December,2017-12-10,NJSP,Suicide by llnnging,862,NA,NA
-New Jersey,2017,December,2017-12-21,EMCF,Acute M)'OCardial Infarction,846,NA,NA
-New Jersey,2017,December,2017-12-22,SWSP,Suicide by Hanging,864,NA,NA
-New Jersey,2017,November,2017-11-17,SWSP,Squamous Cell Carcinoma of Head and Neck,864,NA,NA
-New Jersey,2018,January,2018-01-04,NJSP,Respiratory Failure,862,NA,NA
-New Jersey,2018,January,2018-01-07,CRAF,Cardiac Pulmonmy Arresl/Lung Cancer,839,NA,NA
-New Jersey,2018,January,2018-01-20,SWSP,Lung Cancer,864,NA,NA
-New Jersey,2018,January,2018-01-25,SSCF,Atherosclerotic Coronary Vascular Disease,865,NA,NA
-New Jersey,2018,February,2018-02-01,NSP,Accident ‚Ä¢ Acute fntoxication by Fcntalyl and Fluoxetine,863,NA,NA
-New Jersey,2018,February,2018-02-19,EJSP,"Accident: Overdose, Acute Fcntanyl Toxicity",845,NA,NA
-New Jersey,2018,February,2018-02-21,SWSP,Cancer,864,NA,NA
-New Jersey,2018,March,2018-03-15,NJSP,Stroke/Cardiac Arrest,862,NA,NA
-New Jersey,2018,March,2018-03-18,SWSP,Anemia/Hypcrlipidemia,864,NA,NA
-New Jersey,2018,March,2018-03-19,SWSP,"Accident ‚Ä¢ Combined Effects of Fcntanyl, Fluetine,",864,NA,NA
-New Jersey,2018,March,2018-03-23,NSP,Cancer,863,NA,NA
-New Jersey,2018,April,2018-04-16,EJSP,Cardiac Arrest,845,NA,NA
-New Jersey,2018,April,2018-04-23,SWSP,Lung Cancer,864,NA,NA
-New Jersey,2018,May,2018-05-29,NSP,l..ethnl Cardiac An)thmia due to  Atherosclerotic Coronary,863,NA,NA
-New Jersey,2018,June,2018-06-05,NJSP,Removed From Life Support ‚Ä¢ Respil'lllory Failure,862,NA,NA
-New Jersey,2018,June,2018-06-12,SWSP,Cardiac Arrest,864,NA,NA
-New Jersey,2018,June,2018-06-17,OSCF,Heart Failure,NA,NA,NA
-New Jersey,2018,June,2018-06-24,SWSP,Cardiac Arrest,864,NA,NA
-New Jersey,2018,July,2018-07-22,SWSP,"Cnn:inoma Wilh Me14stascs, Poorly Differentillled ‚Ä¢ Likely",864,NA,NA
-New Jersey,2018,July,2018-07-22,ADTC,Meta.utic EA Stage 4 Liver Cancer,835,NA,NA
-New Jersey,2018,July,2018-07-24,NSP,Ahteroscleroticand Hypc11ensive Cardiovmatlar Disease. Contributing Qmsc: Hype11Cnsion Cardiovascular Disease,863,NA,NA
-New Jersey,2018,July,2018-07-26,SWSP,Acute T-Lymphoblastlc Leukemia/Lymphoma/Pt 2.,864,NA,NA
-New Jersey,2018,August,2018-08-05,SWSP,Cardiac Arrest,864,NA,NA
-New Jersey,2018,August,2018-08-30,SWSP,Myocardial Infraction,864,NA,NA
-New Jersey,2018,September,2018-09-09,SWSP,Cancer ‚Ä¢ Heart Failure,864,NA,NA
-New Jersey,2018,September,2018-09-18,NJSP,Pulmonary Embolism ‚Ä¢ Accidental,862,NA,NA
-New Jersey,2018,September,2018-09-26,NSP,Acute Myocardial fnflll'Ction Due to Coronary Artery,863,NA,NA
-New Jersey,2018,September,2018-09-29,SWSP,Cancer,864,NA,NA
-New Jersey,2018,October,2018-10-02,SWSP,Severe Sepsis,864,NA,NA
-New Jersey,2018,October,2018-10-15,SWSP,Cmdit1e Arrest,864,NA,NA
-New Jersey,2018,October,2018-10-24,SWSP,Rcpil'lllory/Cardiac Complications,864,NA,NA
-New Jersey,2018,November,2018-11-01,NSP,Hemorrhage,863,NA,NA
-New Jersey,2018,December,2018-12-03,SWSP,Cardiomyopathy and Diabetes Mellitus,864,NA,NA
-New Jersey,2019,January,2019-01-12,NJSP,Acute Fentanyl Toxicity,862,NA,NA
-New Jersey,2019,January,2019-01-28,SWSP,Respiratory Distress,864,NA,NA
-New Jersey,2019,February,2019-02-08,NSP,Metastatic Carcinoma - Colon,863,NA,NA
-New Jersey,2019,February,2019-02-13,SWSP,Cardiac Arrest,864,NA,NA
-New Jersey,2019,February,2019-02-14,SWSP,Hypertensive and Atherosclerotic Cardiovascular Disease.,864,NA,NA
-New Jersey,2019,February,2019-02-15,NJSP,Cardiac Pulmonary Arrest,862,NA,NA
-New Jersey,2019,February,2019-02-03,SWSP,Cardio-Respiratory Failure,864,NA,NA
-New Jersey,2019,March,2019-03-09,SWSP,Cardiac Arrest,864,NA,NA
-New Jersey,2019,March,2019-03-10,SWSP,Renal Failure,864,NA,NA
-New Jersey,2019,March,2019-03-17,NSP,Cardiac Arrhythmia due to Miocardial Fibrosis,863,NA,NA
-New Jersey,2019,March,2019-03-28,SWSP,"Renal Failure, Cardiac Arrest/Brain Inactivity",864,NA,NA
-New Jersey,2019,March,2019-03-30,SWSP,Cardiac Arrest,864,NA,NA
-New Jersey,2019,April,2019-04-16,NSP,Respiratory Failure/ GI Bleed,863,NA,NA
-New Jersey,2019,April,2019-04-18,SWSP,Complications Due to Cancer,864,NA,NA
-New Jersey,2019,May,2019-05-17,SWSP,Colon Cancer/Carcinoma,864,NA,NA
-New Jersey,2019,May,2019-05-18,NSP,Suicide,863,NA,NA
-New Jersey,2019,May,2019-05-29,BSP,Stroke/Brain lntercerebral Hemorrhage,836,NA,NA
-New Jersey,2019,May,2019-05-31,NJSP,ARDS/Septic Shock,862,NA,NA
-New Jersey,2019,June,2019-06-03,NJSP,"Mixed Drug Toxicity Including Heroin, Fentanyl and",862,NA,NA
-New Jersey,2019,June,2019-06-18,SWSP,Cardiac Arrest,864,NA,NA
-New Jersey,2019,June,2019-06-28,SWSP,Complications Due to Cancer,864,NA,NA
-New Jersey,2019,July,2019-07-05,SWSP,Cardiac Arrest,864,NA,NA
-New Jersey,2019,July,2019-07-18,BSP,Acute Toxic Effects of Fentanyl and 5-Fluoro-MDMB- PICA (Overdose of Fentanyl Laced Heroin),836,NA,NA
-New Jersey,2019,July,2019-07-22,SWSP,Brain Hemorrhaging,864,NA,NA
-New Jersey,2019,February,2019-02-08,SWSP,Overdose/Urine Positive for Opiates,864,NA,NA
-New Jersey,2019,August,2019-08-12,CRAF,Cardiac Arrest,839,NA,NA
-New Jersey,2019,August,2019-08-17,NSP,Homicide,863,NA,NA
-New Jersey,2019,August,2019-08-27,SWSP,Tenninal Cancer,864,NA,NA
-New Jersey,2019,August,2019-08-28,SWSP,Respiratory Arrest,864,NA,NA
-New Jersey,2019,September,2019-09-16,NSP,Cardiac Respiratory Failure,863,NA,NA
-New Jersey,2019,September,2019-09-17,NJSP,Cardiac Respiratory Failure,862,NA,NA
-New Jersey,2019,September,2019-09-19,SWSP,Pulse Less Electrical Activity,864,NA,NA
-New Jersey,2019,February,2019-02-10,SWSP,Cardiac Arrest,864,NA,NA
-New Jersey,2019,October,2019-10-16,SWSP,Respiratory Failure - Pneumonia,864,NA,NA
-New Jersey,2019,October,2019-10-26,SWSP,Cardiac Arrest,864,NA,NA
-New Jersey,2019,November,2019-11-04,SWSP,Cancer,864,NA,NA
-New Jersey,2019,November,2019-11-01,SWSP,Terminal,864,NA,NA
-New Jersey,2019,November,2019-11-17,NJSP,Metastatic Adenocarcinoma - Lung,862,NA,NA
-New Jersey,2019,December,2019-12-01,NSP,Cardiac Arrest,863,NA,NA
-New Jersey,2019,December,2019-12-04,SWSP,Homicide,864,NA,NA
-New Jersey,2020,January,2020-01-01,PRISON OUT OF STATE,NA,NA,NA,NA
-New Jersey,2020,January,2020-01-02,NSP,Suicide,863,NA,NA
-New Jersey,2020,January,2020-01-06,EJSP-TULLY,Hypertensive cardiovascular disease,845,NA,NA
-New Jersey,2020,January,2020-01-30,SWSP,Hypertensive and atherosclerotic cardiovascular disease,864,NA,NA
-New Jersey,2020,February,2020-02-15,SWSP,Severe Pneumonia with sepsis syndrome,864,NA,NA
-New Jersey,2020,February,2020-02-16,SWSP,Pneumonia,864,NA,NA
-New Jersey,2020,February,2020-02-29,EJSP,NA,845,NA,NA
-New Jersey,2020,April,2020-04-03,MIDSTATE CORRECTIONAL FACILITY,Hypertropic cardiomyopathy,860,NA,NA
-New Jersey,2020,April,2020-04-07,NJSP,COVID-19,862,NA,NA
-New Jersey,2020,April,2020-04-08,ESSEX COUNTY JAIL,NA,NA,NA,NA
-New Jersey,2020,April,2020-04-12,NSP,COVID-19,863,NA,NA
-New Jersey,2020,April,2020-04-13,NJSP,COVID-19,862,NA,NA
-New Jersey,2020,April,2020-04-14,EJSP,COVID-19,845,NA,NA
-New Jersey,2020,April,2020-04-14,NSP,COVID-19,863,NA,NA
-New Jersey,2020,April,2020-04-16,ADTC,COVID-19,835,NA,NA
-New Jersey,2020,April,2020-04-16,EJSP,COVID-19,845,NA,NA
-New Jersey,2020,April,2020-04-17,NSP,Pneumonia,863,NA,NA
-New Jersey,2020,April,2020-04-17,EJSP,COVID-19,845,NA,NA
-New Jersey,2020,April,2020-04-17,EJSP,COVID-19,845,NA,NA
-New Jersey,2020,April,2020-04-17,NSP,COVID-19,863,NA,NA
-New Jersey,2020,April,2020-04-18,NSP,Cardiac Arrest,863,NA,NA
-New Jersey,2020,April,2020-04-19,MIDSTATE CORRECTIONAL FACILITY,COVID-19,860,NA,NA
-New Jersey,2020,April,2020-04-20,NSP,COVID-19,863,NA,NA
-New Jersey,2020,April,2020-04-20,NSP,COVID-19,863,NA,NA
-New Jersey,2020,April,2020-04-20,NSP,COVID-19,863,NA,NA
-New Jersey,2020,April,2020-04-22,NSP,COVID-19,863,NA,NA
-New Jersey,2020,April,2020-04-23,EJSP,COVID-19,845,NA,NA
-New Jersey,2020,April,2020-04-23,NJSP,COVID-19,862,NA,NA
-New Jersey,2020,April,2020-04-23,NJSP,COVID-19,862,NA,NA
-New Jersey,2020,April,2020-04-24,EJSP,COVID-19,845,NA,NA
-New Jersey,2020,April,2020-04-24,ADTC,COVID-19,835,NA,NA
-New Jersey,2020,April,2020-04-25,SWSP,COVID-19,864,NA,NA
-New Jersey,2020,April,2020-04-26,NSP,COVID-19,863,NA,NA
-New Jersey,2020,April,2020-04-28,ESSEX COUNTY JAIL,NA,NA,NA,NA
-New Jersey,2020,April,2020-04-29,EJSP,COVID-19,845,NA,NA
-New Jersey,2020,April,2020-04-29,NJSP,Cardiovascular Disease,862,NA,NA
-New Jersey,2020,April,2020-04-29,EMCF,COVID-19,846,NA,NA
-New Jersey,2020,April,2020-04-30,EMCF,Pneumonia,846,NA,NA
-New Jersey,2020,May,2020-05-01,SWSP,COVID-19,864,NA,NA
-New Jersey,2020,May,2020-05-02,GSCF,COVID-19,852,NA,NA
-New Jersey,2020,May,2020-05-03,SWSP,COVID-19,864,NA,NA
-New Jersey,2020,May,2020-05-03,SWSP,COVID-19,864,NA,NA
-New Jersey,2020,May,2020-05-05,NSP,NA,863,NA,NA
-New Jersey,2020,May,2020-05-08,ADTC,COVID-19,835,NA,NA
-New Jersey,2020,May,2020-05-10,ADTC,COVID-19,835,NA,NA
-New Jersey,2020,May,2020-05-10,CRAF,COVID-19,839,NA,NA
-New Jersey,2020,May,2020-05-12,NSP,Cardiovascular Disease,863,NA,NA
-New Jersey,2020,May,2020-05-13,ADTC,COVID-19,835,NA,NA
-New Jersey,2020,May,2020-05-15,SWSP,Cardiovascular Disease,864,NA,NA
-New Jersey,2020,May,2020-05-21,NJSP,COVID-19,862,NA,NA
-New Jersey,2020,May,2020-05-27,NSP,COVID-19,863,NA,NA
-New Jersey,2020,May,2020-05-28,SWSP,COVID-19,864,NA,NA
-New Jersey,2020,May,2020-05-29,SWSP,COVID-19,864,NA,NA
-New Jersey,2020,June,2020-06-09,NSP,COVID-19,863,NA,NA
-New Jersey,2020,June,2020-06-11,SWSP,COVID-19,864,NA,NA
-New Jersey,2020,June,2020-06-13,NSP,Cancer,863,NA,NA
-New Jersey,2020,June,2020-06-18,SWSP,COVID-19,864,NA,NA
-New Jersey,2020,June,2020-06-22,SWSP,Stroke,864,NA,NA
-New Jersey,2020,June,2020-06-29,CRAF,COVID-19,839,NA,NA
-New Jersey,2020,July,2020-07-16,SWSP,Pneumonia,864,NA,NA
-New Jersey,2020,July,2020-07-21,NSP,Brain Damage,863,NA,NA
-New Jersey,2020,July,2020-07-22,SWSP,Cardiac Arrest,864,NA,NA
-New Jersey,2020,August,2020-08-07,SWSP,Respiratory Failiure/Kidney Disease,864,NA,NA
-New Jersey,2020,August,2020-08-22,SSCF,Respiratory Failure,865,NA,NA
-New Jersey,2020,August,2020-08-29,SWSP,Multiple Mydema,864,NA,NA
-New Jersey,2020,August,2020-08-29,SWSP,Anoxic Encephalopathy,864,NA,NA
-New Jersey,2020,September,2020-09-03,SWSP,Liver Cancer,864,NA,NA
-New Jersey,2020,September,2020-09-13,EJSP,NA,845,NA,NA
-New Jersey,2020,September,2020-09-19,SWSP,Respiratory Failure,864,NA,NA
-New Jersey,2020,September,2020-09-22,NJSP,NA,862,NA,NA
-New Jersey,2020,September,2020-09-26,EJSP,COVID-19,845,NA,NA
-New Jersey,2020,October,2020-10-09,NJSP,Cardiac Arrest,862,NA,NA
-New Jersey,2020,October,2020-10-09,EJSP,Cardiac Arrest,845,NA,NA
-New Jersey,2020,October,2020-10-17,CRAF,Cardiac Arrest,839,NA,NA
-New Jersey,2020,October,2020-10-19,SWSP,Cardiac Arrest,864,NA,NA
-New Jersey,2020,October,2020-10-20,NSP,Suicide,863,NA,NA
-New Jersey,2020,October,2020-10-31,SWSP,Septic Shock,864,NA,NA
-New Jersey,2020,November,2020-11-06,NJSP,NA,862,NA,NA
-New Jersey,2020,November,2020-11-10,EJSP,Pulmonary Blood Clot,845,NA,NA
-New Jersey,2020,November,2020-11-17,NJSP,Organ Failiure,862,NA,NA
-New Jersey,2020,November,2020-11-25,NJSP,CVA,862,NA,NA
-New Jersey,2020,November,2020-11-30,SWSP,Kidney Failiure,864,NA,NA
-New Jersey,2020,December,2020-12-01,SWSP,Cardiac Arrest,864,NA,NA
-New Jersey,2020,December,2020-12-02,SWSP,Cardiac Arrest,864,NA,NA
-New Jersey,2020,December,2020-12-10,SWSP,Respiratory Failure,864,NA,NA
-New Jersey,2020,October,2020-10-13,SWSP,Liver Cancer,864,NA,NA
-New Jersey,2020,December,2020-12-19,ADTC,Respiratory Failure,835,NA,NA
-New Jersey,2021,January,2021-01-20,EJSP,Septic shock due to Megacolon,NA,1960,Hispanic
-New Jersey,2021,January,2021-01-01,ADTC,Civil Commitment,NA,NA,NA
-New Jersey,2021,February,2021-02-02,SWSP,Respiratory Failure,NA,1943,Hispanic
-New Jersey,2021,February,2021-02-03,NSP,NA,NA,1968,Black
-New Jersey,2021,February,2021-02-04,NJSP,COVID - Pneumonia,NA,1958,Black
-New Jersey,2021,February,2021-02-08,STU,Cardiac Arrest - Civil Commitment,NA,NA,NA
-New Jersey,2021,February,2021-02-25,NSP,Cardiac Arrest - death seconday to trauma s/p falling,NA,1983,Hispanic
-New Jersey,2021,March,2021-03-02,NSP,Hypoxic Respiratory Failure/Legionella Pneumonia,NA,1962,White
-New Jersey,2021,March,2021-03-17,NJSP,Cardiac Arrest,NA,1976,White
-New Jersey,2021,March,2021-03-30,NJSP,Advanced Colon Cancer Metastate to Brain and Lungs/ multiple organ failure,NA,1973,Black
-New Jersey,2021,April,2021-04-04,NJSP,NA,NA,1968,Black
-New Jersey,2021,April,2021-04-17,ADTC,Aspuration Pneumonia Sepsis,NA,1960,Hispanic
-New Jersey,2021,April,2021-04-24,SWSP,Related to Hereditary Familial Amyloidosis and CAD/Cardiomyopathy,NA,1962,White
-New Jersey,2021,May,2021-05-17,SWSP,Chronic COPD,NA,1975,White
-New Jersey,2021,May,2021-05-19,NJSP,Complications from Terminal Stomach Cancer,NA,1967,White
-New Jersey,2021,June,2021-06-05,SWSP,Stroke,NA,1946,White
-New Jersey,2021,June,2021-06-18,SWSP,Complications of Caner (Malignant Lymphoma),NA,1965,Hispanic
-New Jersey,2021,June,2021-06-28,SWSP,Esophageal Cancer With Metastasis,NA,1952,Black
-New Jersey,2021,July,2021-07-22,EJSP,Terminal Cancer,NA,1971,Black
-New Jersey,2021,September,2021-09-08,EJSP,Cancer (POSSIBLE CAUSE OF DEATH),NA,1990,Black
-New Jersey,2021,August,2021-08-17,SWSP,Multi-System Organ Failure due to Cancer,NA,1968,Black
-New Jersey,2021,August,2021-08-30,SWSP,Cardiac Arrest (possible cause of death),NA,1945,White
-New Jersey,2021,September,2021-09-14,SWSP,Metastatic Stage 4 Adenocarcinoma of Pancreaticobilary Origin,NA,1941,Hispanic
-New Jersey,2021,October,2021-10-05,EJSP,Cardiac Arrest,NA,1956,White
-New Jersey,2021,October,2021-10-15,NJSP,Cardiac Arrest - Secondary to Covid 19,NA,1967,Black
-New Jersey,2021,October,2021-10-17,NJSP,Metastatic Cancer (?),NA,1956,Black
-New Jersey,2021,October,2021-10-15,NJSP,Sepsis,NA,1965,Hispanic
-New Jersey,2021,October,2021-10-27,SWSP,Cancer (possible cause of death),NA,1969,Hispanic
-New Jersey,2021,March,2021-03-11,SWSP,Cardiac Arrest Resulting From Cancer,NA,1950,White
-New Jersey,2021,March,2021-03-11,SWSP,"Acute Kidney Failure, Sepsis/Pneumonia and Lactic Acidosis",NA,1944,Hispanic
-New Jersey,2021,November,2021-11-16,SWSP,Cardiac Arrset,NA,1972,Black
-New Jersey,2021,January,2021-01-23,NA,DIED AT COUNTY JAIL,NA,1996,Hispanic
-New Jersey,2021,January,2021-01-25,NA,DIED AT COUNTY JAIL CARDIAC ARREST,NA,NA,Black
-New Jersey,2021,February,2021-02-08,NA,DIED OUT OF STATE - TERMINAL CANCER,NA,1955,NA
-New Jersey,2021,December,2021-12-06,BSP,Unknown at this time - Possibly Cardiac Arrest,NA,1976,Black
-New Jersey,2021,December,2021-12-07,EJSP,"Unknown at this time, inmate was treated for Terminal Cancer",NA,1965,Black
-New Jersey,2021,December,2021-12-12,SWSP,Cardiac Arrest,NA,1961,Black
-New Jersey,2021,December,2021-12-19,NSP,NA,NA,1978,Black
-New Jersey,2021,December,2021-12-27,SWSP,Cardiac Arrest,NA,1947,White
+State,Facility,Year,Month,Death.Date,First.Name,Last.Name,Full.Name,ID.No,Death.Age,Sex,Race,Ethnicity,Circumstance.General,Circumstance.Specific,Circumstance.Other,source_year
+New Jersey,SWSP,2015,January,2015-01-07,,,,,,,,,,Acute Miocardial Infarction (Cardiac Arrest),,
+New Jersey,SWSP,2015,January,2015-01-10,,,,,,,,,,Bronchid Pneumonia,,
+New Jersey,SWSP,2015,January,2015-01-16,,,,,,,,,,"Cardiovascular Disease, Diabetes Mellitus II, End Stage Renal Disease",,
+New Jersey,SWSP,2015,January,2015-01-19,,,,,,,,,,Sudden Cardiac Arrest Associated With Mitral Valve Prolapse and Cardiomegaly,,
+New Jersey,SWSP,2015,January,2015-01-27,,,,,,,,,,Renal Failiure,,
+New Jersey,SWSP,2015,January,2015-01-28,,,,,,,,,,Cirrhosis of the Uver,,
+New Jersey,SWSP,2015,January,2015-01-30,,,,,,,,,,Metastalic Head and Neck Carcinoma,,
+New Jersey,SWSP,2015,February,2015-02-06,,,,,,,,,,Metastalic Head and Neck Carcinoma,,
+New Jersey,SWSP,2015,February,2015-02-07,,,,,,,,,,Pneumonia and Cardiovascular Disease,,
+New Jersey,NJSP,2015,February,2015-02-11,,,,,,,,,,Generalized Anasarca Due to Cirrhosis of the Liver/ With History of Hepatitis C,,
+New Jersey,SWSP,2015,February,2015-02-18,,,,,,,,,,Pneumonia with Chronic Oastrointcstind Bleeding,,
+New Jersey,EJSP,2015,February,2015-02-18,,,,,,,,,,Hypertensive Cardiovascular Disease and Diabetes,,
+New Jersey,SWSP,2015,February,2015-02-21,,,,,,,,,,Athcrosclerotic Cardiovascular Disease,,
+New Jersey,NJSP,2015,February,2015-02-24,,,,,,,,,,"Cause of Death was Cardiac Arrest. Dr. Raffatt, of the Mercer County Mcdic:d Examiner's Office, ""established the cause of death as natural causes due to multiple organ failiure.""",,
+New Jersey,SWSP,2015,February,2015-02-24,,,,,,,,,,Lung Carcinoma,,
+New Jersey,BSP,2015,March,2015-03-03,,,,,,,,,,Cardiac Arrythmia Caused by Myocardid Scarring,,
+New Jersey,NJSP,2015,March,2015-03-22,,,,,,,,,,Lung Cancer,,
+New Jersey,SWSP,2015,April,2015-04-04,,,,,,,,,,Complications of a Stroke,,
+New Jersey,SWSP,2015,April,2015-04-13,,,,,,,,,,Acute Coronary Insufficiency,,
+New Jersey,SWSP,2015,April,2015-04-19,,,,,,,,,,Eosinophilitic Coronary Atherosclerosis,,
+New Jersey,EJSP,2015,April,2015-04-27,,,,,,,,,,Suicide by Hanging,,
+New Jersey,SWSP,2015,May,2015-05-05,,,,,,,,,,Congestive Heart Failure (Renal Failure as other significant cause),,
+New Jersey,SWSP,2015,May,2015-05-06,,,,,,,,,,"Massive Bilateral Pulmonary Emboli, Cardiomyopathy with Cardiac Arrhythmia",,
+New Jersey,SWSP,2015,May,2015-05-15,,,,,,,,,,Artcirosclerotic Cardiovascular Disease,,
+New Jersey,SWSP,2015,May,2015-05-20,,,,,,,,,,End Stage Liver Disease - Cirrhosis and Hepatoccllular Carcinoma End Stage Renal Disease,,
+New Jersey,EMCF,2015,June,2015-06-02,,,,,,,,,,Cardio-Respiratory Arrest,,
+New Jersey,SWSP,2015,June,2015-06-04,,,,,,,,,,Complications of Non-Hodgkin's Lymphoma,,
+New Jersey,USP,2015,June,2015-06-08,,,,,,,,,,Chronic Obstructive Pulmonary Disease Due to Asthma,,
+New Jersey,SWSP,2015,July,2015-07-14,,,,,,,,,,"Hypertension Cardiovascular Disease, History of Colon Cancer, Liver Disease, and Hepatitis C",,
+New Jersey,SWSP,2015,August,2015-08-03,,,,,,,,,,Rcspiratory Failure‚ Complete Atelectasis of the Left Lung and Aspiration Pneumonia. NOTE: This however was a preliminary cause Real Cause of Death is Homicide:  delayed complications of blunt force trauma. Two years prior to his death the inmate was assaulted by another inmmate and died due to those injuries.,,
+New Jersey,NSP,2015,August,2015-08-10,,,,,,,,,,acute acetyl fentanyl toxicity,,
+New Jersey,SSCF,2015,August,2015-08-10,,,,,,,,,,Cardiac Arrest,,
+New Jersey,SWSP,2015,August,2015-08-15,,,,,,,,,,"Atherosclerotic and Hypertensive Cardiovascular Disease, Diabetes Mellitus, Hepatic Failure and End Stage Renal Disease",,
+New Jersey,SWSP,2015,August,2015-08-26,,,,,,,,,,Cardiac Arrest,,
+New Jersey,NJSP,2015,September,2015-09-01,,,,,,,,,,Cardiac Arrest - Had cancer too,,
+New Jersey,SWSP,2015,September,2015-09-04,,,,,,,,,,Atherosclerotic Cardiovascular Disease / Contributory: Renal Failiure and Hepatitis C,,
+New Jersey,SWSP,2015,September,2015-09-17,,,,,,,,,,"Sepsis Due to Necrotizing Fasciitis of Groin, Peripheral vascular Disease",,
+New Jersey,SWSP,2015,September,2015-09-10,,,,,,,,,,Complications of Metatstatic Rhabdomyosarcoma (Bone Cancer),,
+New Jersey,KJNTOCK,2015,September,2015-09-09,,,,,,,,,,"Medical Examiner Abraham Phillip advised that Inmate Fished had an enlarged heart, spleen, and liver, Cause of Death is Sudden Cardiac Arrhythmia due to Hypertensive Cardiac Arrest",,
+New Jersey,SWSP,2015,October,2015-10-06,,,,,,,,,,Cardiac Arrest,,
+New Jersey,NJSP,2015,October,2015-10-08,,,,,,,,,,Hemorrhagic Shock,,
+New Jersey,SWSP,2015,October,2015-10-19,,,,,,,,,,Suicide by Hanging,,
+New Jersey,NSP,2015,October,2015-10-24,,,,,,,,,,Suicide by Hanging,,
+New Jersey,ADTC,2015,November,2015-11-09,,,,,,,,,,Intracerebral Hemmorrhage due to Atherosclerotic Cardiovascular Disease,,
+New Jersey,SWSP,2015,November,2015-11-21,,,,,,,,,,Cardiac Arrest,,
+New Jersey,NSP,2015,November,2015-11-28,,,,,,,,,,Hypertensive Canliovascular Disease,,
+New Jersey,SWSP,2015,December,2015-12-10,,,,,,,,,,Cardiac Arrest,,
+New Jersey,SWSP,2015,December,2015-12-13,,,,,,,,,,Canliuc Arrhytmia and  Congestive Heart Failure,,
+New Jersey,SSCF,2015,December,2015-12-19,,,,,,,,,,Natural - Iopathic Hypertophic Subaortic Stenosis,,
+New Jersey,NSP,2015,December,2015-12-23,,,,,,,,,,Cause of Death: Acute Fentanyl Toxicity,,
+New Jersey,ADTC,2015,December,2015-12-25,,,,,,,,,,Myocardial Infarction,,
+New Jersey,NSP,2015,December,2015-12-25,,,,,,,,,,Accidental - Accute Acetyl Fentanyl Intoxication,,
+New Jersey,SWSP,2016,January,2016-01-04,,,,,,,,,,"Complications of Obesity, Contributing Cause Diabetes",,
+New Jersey,BSP,2016,January,2016-01-21,,,,,,,,,,Multiple Traumatic Injuries - Motor Vehicle Accident -,,
+New Jersey,NSP,2016,February,2016-02-03,,,,,,,,,,Pulmonary Embolism due to Thrombosis of Deep Vein of the Lower Extremities,,
+New Jersey,KT-SWR,2016,February,2016-02-03,,,,,,,,,,Acute Myocardial lnfarction,,
+New Jersey,SWSP,2016,February,2016-02-05,,,,,,,,,,Abdominal Cancer,,
+New Jersey,SWSP,2016,February,2016-02-11,,,,,,,,,,Respiratory Failure,,
+New Jersey,NSP,2016,February,2016-02-12,,,,,,,,,,Pulmonary Thromboembolism due to Deep Vein Thrombosis of Lower Extremity. Immobility Due to Broncopneumonia,,
+New Jersey,EMCF,2016,February,2016-02-13,,,,,,,,,,Pancreatic Cancer,,
+New Jersey,NJSP,2016,February,2016-02-23,,,,,,,,,,Respiratory Failure,,
+New Jersey,SWSP,2016,February,2016-02-23,,,,,,,,,,Complications From Cancer,,
+New Jersey,NSP,2016,February,2016-02-26,,,,,,,,,,Congestive Heart Failure due to Dialated Cardiomyopathy - Contributory Factors: Chronic Obstructive Pulmonary Disease; Ddiabetes Mellitus,,
+New Jersey,NJSP,2016,February,2016-02-27,,,,,,,,,,Massive Bilateral Pulmonary Thromboembolism,,
+New Jersey,EJSP,2016,February,2016-02-28,,,,,,,,,,Cardiac Arrest,,
+New Jersey,ADTC,2016,February,2016-02-28,,,,,,,,,,"Atherosclerotic and Hypertensive Canliovascular Disease, Obesity",,
+New Jersey,NJSP,2016,March,2016-03-02,,,,,,,,,,Heroine Overdose,,
+New Jersey,EJSP,2016,March,2016-03-08,,,,,,,,,,"Hypoxic/lschemic Encephaloplllhy, Cardiac Arrest,",,
+New Jersey,NSP,2016,March,2016-03-11,,,,,,,,,,Complications of Metastatic Prostatic Carcinoma,,
+New Jersey,SWSP,2016,March,2016-03-30,,,,,,,,,,Atheriosclerotic Cardiovascular Disease,,
+New Jersey,SWSP,2016,April,2016-04-06,,,,,,,,,,Cardiac Arrest,,
+New Jersey,SSCF,2016,April,2016-04-14,,,,,,,,,,Hepatic Failure,,
+New Jersey,NSP,2016,May,2016-05-05,,,,,,,,,,"Sepsis Due to Acute Prostatisis, Rectal Abscess",,
+New Jersey,NSP,2016,May,2016-05-13,,,,,,,,,,Sepsis,,
+New Jersey,NSP,2016,May,2016-05-17,,,,,,,,,,Cardiac Arrest,,
+New Jersey,SWSP,2016,May,2016-05-20,,,,,,,,,,"Mn.ssive Head Trauma. Part D: CAD, CHF, Hypertension,",,
+New Jersey,SWSP,2016,June,2016-06-07,,,,,,,,,,Autopsy determined that the cause of death was Cmdiac,,
+New Jersey,NSP,2016,June,2016-06-27,,,,,,,,,,Accidental - Acute Acetyl Fcntalyl Intoxication.,,
+New Jersey,SWSP,2016,July,2016-07-01,,,,,,,,,,Cancer of the Liver - Liver Failure,,
+New Jersey,NJSP,2016,July,2016-07-10,,,,,,,,,,"Heroine Intoxication, Cmdiomyopathy, Hepatic-",,
+New Jersey,SWSP,2016,July,2016-07-19,,,,,,,,,,Complications of Liver Failure Due to Infection With,,
+New Jersey,ADTC,2016,July,2016-07-24,,,,,,,,,,Cmdiac Arrest,,
+New Jersey,SWSP,2016,July,2016-07-30,,,,,,,,,,Arteriosclerotic Cmdiovasculnr Disease,,
+New Jersey,NSP,2016,August,2016-08-16,,,,,,,,,,Suicide,,
+New Jersey,NJSP,2016,August,2016-08-29,,,,,,,,,,Lung Cancer,,
+New Jersey,EJSP,2016,September,2016-09-09,,,,,,,,,,lschemic Heart Disease,,
+New Jersey,SWSP,2016,September,2016-09-15,,,,,,,,,,Cardiac Arrest,,
+New Jersey,SWSP,2016,September,2016-09-24,,,,,,,,,,"Coronary Artery DiSCllSC, Uncontrolled Diabetes, and",,
+New Jersey,SWSP,2016,September,2016-09-26,,,,,,,,,,Multinle Mycloma With Melasl11tic DISCIISC,,
+New Jersey,BSP,2016,October,2016-10-03,,,,,,,,,,Sarcoidosis,,
+New Jersey,SWSP,2016,October,2016-10-08,,,,,,,,,,Complications Related to his Infection with the Hepatitis C virus.,,
+New Jersey,SWSP,2016,October,2016-10-09,,,,,,,,,,Atherosclerotic and Hypertensive Cardiovascular Disease,,
+New Jersey,SWSP,2016,October,2016-10-17,,,,,,,,,,Cardiopulmonary Arrest,,
+New Jersey,EMCF,2016,November,2016-11-05,,,,,,,,,,Stage IV non Small Cell Lung Carcinoma with,,
+New Jersey,NSP,2016,November,2016-11-06,,,,,,,,,,Homicide-Multiple Injuries,,
+New Jersey,SWSP,2016,November,2016-11-18,,,,,,,,,,Cardiac Arrest,,
+New Jersey,SWSP,2016,November,2016-11-24,,,,,,,,,,Complications from a stroke,,
+New Jersey,SWSP,2016,November,2016-11-26,,,,,,,,,,Respritory Failiure - Lung Cancer,,
+New Jersey,NSP,2016,November,2016-11-26,,,,,,,,,,Liver Cancer,,
+New Jersey,SWSP,2016,December,2016-12-04,,,,,,,,,,Respiratory Failiure Due to Complications of Concer,,
+New Jersey,SWSP,2016,December,2016-12-19,,,,,,,,,,Lung Cancer - Respiratory Failiure,,
+New Jersey,EMCR,2017,January,2017-01-01,,,,,,,,,,LungCo.nccr,,
+New Jersey,SWSP,2017,January,2017-01-01,,,,,,,,,,Cardioc Arrest,,
+New Jersey,SWSP,2017,January,2017-01-07,,,,,,,,,,Respiratory Failure,,
+New Jersey,SWSP,2017,January,2017-01-16,,,,,,,,,,Scpsi!C,,
+New Jersey,NJSP,2017,January,2017-01-19,,,,,,,,,,Cardiac Arrest,,
+New Jersey,SWSP,2017,February,2017-02-01,,,,,,,,,,Respiratory Failure,,
+New Jersey,SWSP,2017,February,2017-02-07,,,,,,,,,,Cerebra.I and  pulmon:try congcsaion and edema‚Ä¢ moderate,,
+New Jersey,SWSP,2017,March,2017-03-05,,,,,,,,,,Chronic Ulncss/Rcspirutory Failure,,
+New Jersey,NJSP,2017,March,2017-03-11,,,,,,,,,,"Arhythmia due lo corun:iry artery hypopla.,.ia and vi1ral valve nrolan!;C.",,
+New Jersey,SSCF,2017,March,2017-03-21,,,,,,,,,,Upper GI bleeding with cirrhosis of the liverdue to,,
+New Jersey,SWSP,2017,April,2017-04-01,,,,,,,,,,Respiratory Failure,,
+New Jersey,ADTC,2017,April,2017-04-16,,,,,,,,,,Hcui1Surgery,,
+New Jersey,NSP,2017,April,2017-04-16,,,,,,,,,,Severe Sc1>sis {blood infection) and Liver Cancer,,
+New Jersey,SWSP,2017,June,2017-06-01,,,,,,,,,,Respiratory Failure - Due 10  Lcul.cmia,,
+New Jersey,SSCF,2017,June,2017-06-12,,,,,,,,,,Sepeic Shock,,
+New Jersey,SWSP,2017,July,2017-07-04,,,,,,,,,,Artcriosclcrotic Cardiovu.scular Disease,,
+New Jersey,NSP,2017,July,2017-07-19,,,,,,,,,,Acute Myocardial hifruction Due to Coronary Sclerosis and S1cnosis Due 10 A1hcrosclcrotic Cardiovascular Disease,,
+New Jersey,SWSP,2017,July,2017-07-25,,,,,,,,,,Colon Cancer Mc1as1atic With Athcrosclcrotic and,,
+New Jersey,NJSP,2017,July,2017-07-31,,,,,,,,,,Cardiac Arrest,,
+New Jersey,SWSP,2017,August,2017-08-20,,,,,,,,,,"Complica1ions ofhypcrtcnsi\'C and a1hcrosclcrotic can:Jiovasculardisease - contributing factors: diabetes mcllitui., end-stage renal ddisca.sc, hcpatilis C infection.",,
+New Jersey,EJSP,2017,August,2017-08-28,,,,,,,,,,"Valvular cardiovascular disease status poserepair with liver disease, including no1ialcoholic steatohcp:ititis.",,
+New Jersey,NJSP,2017,September,2017-09-01,,,,,,,,,,Hypertensive Athcro.scleroticcardiovascular disense,,
+New Jersey,NJSP,2017,September,2017-09-17,,,,,,,,,,Accidental Opiate Overdose,,
+New Jersey,EJSP,2017,September,2017-09-23,,,,,,,,,,Sepsis,,
+New Jersey,SWSP,2017,September,2017-09-25,,,,,,,,,,Congestive hc:OJ1 failure due lo  hypertensive and,,
+New Jersey,SWSP,2017,September,2017-09-30,,,,,,,,,,"Pos.,;ihlc Canlioc Arrest ‚Ä¢ Pcndm   f-urther Heart Examination",,
+New Jersey,SWSP,2017,October,2017-10-02,,,,,,,,,,Acute MRSA pneumonia.,,
+New Jersey,NSP,2017,October,2017-10-12,,,,,,,,,,Plasmac)1omo.,,
+New Jersey,SWSP,2017,October,2017-10-22,,,,,,,,,,"Atherosclcroticcanliovoscular disease - contributing factors: end-stage renal disease, prostate adenocarcinoma.",,
+New Jersey,NSP,2017,November,2017-11-15,,,,,,,,,,Pendit1R¬∑1¬∑0.xlt..'t1loA)' Report,,
+New Jersey,BROCH,2017,November,2017-11-16,,,,,,,,,,Acute Combined  Drug Toxicity Due to Fentanyl and Acctyl,,
+New Jersey,EMCF,2017,November,2017-11-30,,,,,,,,,,Acute Myocardial lnfarction,,
+New Jersey,NJSP,2017,December,2017-12-03,,,,,,,,,,Hypertensive and  AtherusclerolicCardiovascular Disease,,
+New Jersey,NJSP,2017,December,2017-12-06,,,,,,,,,,Athcrosclcmtic UU'diovascular Disease,,
+New Jersey,NJSP,2017,December,2017-12-10,,,,,,,,,,Suicide by llnnging,,
+New Jersey,EMCF,2017,December,2017-12-21,,,,,,,,,,Acute M)'OCardial Infarction,,
+New Jersey,SWSP,2017,December,2017-12-22,,,,,,,,,,Suicide by Hanging,,
+New Jersey,SWSP,2017,November,2017-11-17,,,,,,,,,,Squamous Cell Carcinoma of Head and Neck,,
+New Jersey,NJSP,2018,January,2018-01-04,,,,,,,,,,Respiratory Failure,,
+New Jersey,CRAF,2018,January,2018-01-07,,,,,,,,,,Cardiac Pulmonmy Arresl/Lung Cancer,,
+New Jersey,SWSP,2018,January,2018-01-20,,,,,,,,,,Lung Cancer,,
+New Jersey,SSCF,2018,January,2018-01-25,,,,,,,,,,Atherosclerotic Coronary Vascular Disease,,
+New Jersey,NSP,2018,February,2018-02-01,,,,,,,,,,Accident ‚Ä¢ Acute fntoxication by Fcntalyl and Fluoxetine,,
+New Jersey,EJSP,2018,February,2018-02-19,,,,,,,,,,"Accident: Overdose, Acute Fcntanyl Toxicity",,
+New Jersey,SWSP,2018,February,2018-02-21,,,,,,,,,,Cancer,,
+New Jersey,NJSP,2018,March,2018-03-15,,,,,,,,,,Stroke/Cardiac Arrest,,
+New Jersey,SWSP,2018,March,2018-03-18,,,,,,,,,,Anemia/Hypcrlipidemia,,
+New Jersey,SWSP,2018,March,2018-03-19,,,,,,,,,,"Accident ‚Ä¢ Combined Effects of Fcntanyl, Fluetine,",,
+New Jersey,NSP,2018,March,2018-03-23,,,,,,,,,,Cancer,,
+New Jersey,EJSP,2018,April,2018-04-16,,,,,,,,,,Cardiac Arrest,,
+New Jersey,SWSP,2018,April,2018-04-23,,,,,,,,,,Lung Cancer,,
+New Jersey,NSP,2018,May,2018-05-29,,,,,,,,,,l..ethnl Cardiac An)thmia due to  Atherosclerotic Coronary,,
+New Jersey,NJSP,2018,June,2018-06-05,,,,,,,,,,Removed From Life Support ‚Ä¢ Respil'lllory Failure,,
+New Jersey,SWSP,2018,June,2018-06-12,,,,,,,,,,Cardiac Arrest,,
+New Jersey,OSCF,2018,June,2018-06-17,,,,,,,,,,Heart Failure,,
+New Jersey,SWSP,2018,June,2018-06-24,,,,,,,,,,Cardiac Arrest,,
+New Jersey,SWSP,2018,July,2018-07-22,,,,,,,,,,"Cnn:inoma Wilh Me14stascs, Poorly Differentillled ‚Ä¢ Likely",,
+New Jersey,ADTC,2018,July,2018-07-22,,,,,,,,,,Meta.utic EA Stage 4 Liver Cancer,,
+New Jersey,NSP,2018,July,2018-07-24,,,,,,,,,,Ahteroscleroticand Hypc11ensive Cardiovmatlar Disease. Contributing Qmsc: Hype11Cnsion Cardiovascular Disease,,
+New Jersey,SWSP,2018,July,2018-07-26,,,,,,,,,,Acute T-Lymphoblastlc Leukemia/Lymphoma/Pt 2.,,
+New Jersey,SWSP,2018,August,2018-08-05,,,,,,,,,,Cardiac Arrest,,
+New Jersey,SWSP,2018,August,2018-08-30,,,,,,,,,,Myocardial Infraction,,
+New Jersey,SWSP,2018,September,2018-09-09,,,,,,,,,,Cancer ‚Ä¢ Heart Failure,,
+New Jersey,NJSP,2018,September,2018-09-18,,,,,,,,,,Pulmonary Embolism ‚Ä¢ Accidental,,
+New Jersey,NSP,2018,September,2018-09-26,,,,,,,,,,Acute Myocardial fnflll'Ction Due to Coronary Artery,,
+New Jersey,SWSP,2018,September,2018-09-29,,,,,,,,,,Cancer,,
+New Jersey,SWSP,2018,October,2018-10-02,,,,,,,,,,Severe Sepsis,,
+New Jersey,SWSP,2018,October,2018-10-15,,,,,,,,,,Cmdit1e Arrest,,
+New Jersey,SWSP,2018,October,2018-10-24,,,,,,,,,,Rcpil'lllory/Cardiac Complications,,
+New Jersey,NSP,2018,November,2018-11-01,,,,,,,,,,Hemorrhage,,
+New Jersey,SWSP,2018,December,2018-12-03,,,,,,,,,,Cardiomyopathy and Diabetes Mellitus,,
+New Jersey,NJSP,2019,January,2019-01-12,,,,,,,,,,Acute Fentanyl Toxicity,,
+New Jersey,SWSP,2019,January,2019-01-28,,,,,,,,,,Respiratory Distress,,
+New Jersey,NSP,2019,February,2019-02-08,,,,,,,,,,Metastatic Carcinoma - Colon,,
+New Jersey,SWSP,2019,February,2019-02-13,,,,,,,,,,Cardiac Arrest,,
+New Jersey,SWSP,2019,February,2019-02-14,,,,,,,,,,Hypertensive and Atherosclerotic Cardiovascular Disease.,,
+New Jersey,NJSP,2019,February,2019-02-15,,,,,,,,,,Cardiac Pulmonary Arrest,,
+New Jersey,SWSP,2019,February,2019-02-03,,,,,,,,,,Cardio-Respiratory Failure,,
+New Jersey,SWSP,2019,March,2019-03-09,,,,,,,,,,Cardiac Arrest,,
+New Jersey,SWSP,2019,March,2019-03-10,,,,,,,,,,Renal Failure,,
+New Jersey,NSP,2019,March,2019-03-17,,,,,,,,,,Cardiac Arrhythmia due to Miocardial Fibrosis,,
+New Jersey,SWSP,2019,March,2019-03-28,,,,,,,,,,"Renal Failure, Cardiac Arrest/Brain Inactivity",,
+New Jersey,SWSP,2019,March,2019-03-30,,,,,,,,,,Cardiac Arrest,,
+New Jersey,NSP,2019,April,2019-04-16,,,,,,,,,,Respiratory Failure/ GI Bleed,,
+New Jersey,SWSP,2019,April,2019-04-18,,,,,,,,,,Complications Due to Cancer,,
+New Jersey,SWSP,2019,May,2019-05-17,,,,,,,,,,Colon Cancer/Carcinoma,,
+New Jersey,NSP,2019,May,2019-05-18,,,,,,,,,,Suicide,,
+New Jersey,BSP,2019,May,2019-05-29,,,,,,,,,,Stroke/Brain lntercerebral Hemorrhage,,
+New Jersey,NJSP,2019,May,2019-05-31,,,,,,,,,,ARDS/Septic Shock,,
+New Jersey,NJSP,2019,June,2019-06-03,,,,,,,,,,"Mixed Drug Toxicity Including Heroin, Fentanyl and",,
+New Jersey,SWSP,2019,June,2019-06-18,,,,,,,,,,Cardiac Arrest,,
+New Jersey,SWSP,2019,June,2019-06-28,,,,,,,,,,Complications Due to Cancer,,
+New Jersey,SWSP,2019,July,2019-07-05,,,,,,,,,,Cardiac Arrest,,
+New Jersey,BSP,2019,July,2019-07-18,,,,,,,,,,Acute Toxic Effects of Fentanyl and 5-Fluoro-MDMB- PICA (Overdose of Fentanyl Laced Heroin),,
+New Jersey,SWSP,2019,July,2019-07-22,,,,,,,,,,Brain Hemorrhaging,,
+New Jersey,SWSP,2019,February,2019-02-08,,,,,,,,,,Overdose/Urine Positive for Opiates,,
+New Jersey,CRAF,2019,August,2019-08-12,,,,,,,,,,Cardiac Arrest,,
+New Jersey,NSP,2019,August,2019-08-17,,,,,,,,,,Homicide,,
+New Jersey,SWSP,2019,August,2019-08-27,,,,,,,,,,Tenninal Cancer,,
+New Jersey,SWSP,2019,August,2019-08-28,,,,,,,,,,Respiratory Arrest,,
+New Jersey,NSP,2019,September,2019-09-16,,,,,,,,,,Cardiac Respiratory Failure,,
+New Jersey,NJSP,2019,September,2019-09-17,,,,,,,,,,Cardiac Respiratory Failure,,
+New Jersey,SWSP,2019,September,2019-09-19,,,,,,,,,,Pulse Less Electrical Activity,,
+New Jersey,SWSP,2019,February,2019-02-10,,,,,,,,,,Cardiac Arrest,,
+New Jersey,SWSP,2019,October,2019-10-16,,,,,,,,,,Respiratory Failure - Pneumonia,,
+New Jersey,SWSP,2019,October,2019-10-26,,,,,,,,,,Cardiac Arrest,,
+New Jersey,SWSP,2019,November,2019-11-04,,,,,,,,,,Cancer,,
+New Jersey,SWSP,2019,November,2019-11-01,,,,,,,,,,Terminal,,
+New Jersey,NJSP,2019,November,2019-11-17,,,,,,,,,,Metastatic Adenocarcinoma - Lung,,
+New Jersey,NSP,2019,December,2019-12-01,,,,,,,,,,Cardiac Arrest,,
+New Jersey,SWSP,2019,December,2019-12-04,,,,,,,,,,Homicide,,
+New Jersey,PRISON OUT OF STATE,2020,January,2020-01-01,,,,,,,,,,,,
+New Jersey,NSP,2020,January,2020-01-02,,,,,,,,,,Suicide,,
+New Jersey,EJSP-TULLY,2020,January,2020-01-06,,,,,,,,,,Hypertensive cardiovascular disease,,
+New Jersey,SWSP,2020,January,2020-01-30,,,,,,,,,,Hypertensive and atherosclerotic cardiovascular disease,,
+New Jersey,SWSP,2020,February,2020-02-15,,,,,,,,,,Severe Pneumonia with sepsis syndrome,,
+New Jersey,SWSP,2020,February,2020-02-16,,,,,,,,,,Pneumonia,,
+New Jersey,EJSP,2020,February,2020-02-29,,,,,,,,,,,,
+New Jersey,MIDSTATE CORRECTIONAL FACILITY,2020,April,2020-04-03,,,,,,,,,,Hypertropic cardiomyopathy,,
+New Jersey,NJSP,2020,April,2020-04-07,,,,,,,,,,COVID-19,,
+New Jersey,ESSEX COUNTY JAIL,2020,April,2020-04-08,,,,,,,,,,,,
+New Jersey,NSP,2020,April,2020-04-12,,,,,,,,,,COVID-19,,
+New Jersey,NJSP,2020,April,2020-04-13,,,,,,,,,,COVID-19,,
+New Jersey,EJSP,2020,April,2020-04-14,,,,,,,,,,COVID-19,,
+New Jersey,NSP,2020,April,2020-04-14,,,,,,,,,,COVID-19,,
+New Jersey,ADTC,2020,April,2020-04-16,,,,,,,,,,COVID-19,,
+New Jersey,EJSP,2020,April,2020-04-16,,,,,,,,,,COVID-19,,
+New Jersey,NSP,2020,April,2020-04-17,,,,,,,,,,Pneumonia,,
+New Jersey,EJSP,2020,April,2020-04-17,,,,,,,,,,COVID-19,,
+New Jersey,EJSP,2020,April,2020-04-17,,,,,,,,,,COVID-19,,
+New Jersey,NSP,2020,April,2020-04-17,,,,,,,,,,COVID-19,,
+New Jersey,NSP,2020,April,2020-04-18,,,,,,,,,,Cardiac Arrest,,
+New Jersey,MIDSTATE CORRECTIONAL FACILITY,2020,April,2020-04-19,,,,,,,,,,COVID-19,,
+New Jersey,NSP,2020,April,2020-04-20,,,,,,,,,,COVID-19,,
+New Jersey,NSP,2020,April,2020-04-20,,,,,,,,,,COVID-19,,
+New Jersey,NSP,2020,April,2020-04-20,,,,,,,,,,COVID-19,,
+New Jersey,NSP,2020,April,2020-04-22,,,,,,,,,,COVID-19,,
+New Jersey,EJSP,2020,April,2020-04-23,,,,,,,,,,COVID-19,,
+New Jersey,NJSP,2020,April,2020-04-23,,,,,,,,,,COVID-19,,
+New Jersey,NJSP,2020,April,2020-04-23,,,,,,,,,,COVID-19,,
+New Jersey,EJSP,2020,April,2020-04-24,,,,,,,,,,COVID-19,,
+New Jersey,ADTC,2020,April,2020-04-24,,,,,,,,,,COVID-19,,
+New Jersey,SWSP,2020,April,2020-04-25,,,,,,,,,,COVID-19,,
+New Jersey,NSP,2020,April,2020-04-26,,,,,,,,,,COVID-19,,
+New Jersey,ESSEX COUNTY JAIL,2020,April,2020-04-28,,,,,,,,,,,,
+New Jersey,EJSP,2020,April,2020-04-29,,,,,,,,,,COVID-19,,
+New Jersey,NJSP,2020,April,2020-04-29,,,,,,,,,,Cardiovascular Disease,,
+New Jersey,EMCF,2020,April,2020-04-29,,,,,,,,,,COVID-19,,
+New Jersey,EMCF,2020,April,2020-04-30,,,,,,,,,,Pneumonia,,
+New Jersey,SWSP,2020,May,2020-05-01,,,,,,,,,,COVID-19,,
+New Jersey,GSCF,2020,May,2020-05-02,,,,,,,,,,COVID-19,,
+New Jersey,SWSP,2020,May,2020-05-03,,,,,,,,,,COVID-19,,
+New Jersey,SWSP,2020,May,2020-05-03,,,,,,,,,,COVID-19,,
+New Jersey,NSP,2020,May,2020-05-05,,,,,,,,,,,,
+New Jersey,ADTC,2020,May,2020-05-08,,,,,,,,,,COVID-19,,
+New Jersey,ADTC,2020,May,2020-05-10,,,,,,,,,,COVID-19,,
+New Jersey,CRAF,2020,May,2020-05-10,,,,,,,,,,COVID-19,,
+New Jersey,NSP,2020,May,2020-05-12,,,,,,,,,,Cardiovascular Disease,,
+New Jersey,ADTC,2020,May,2020-05-13,,,,,,,,,,COVID-19,,
+New Jersey,SWSP,2020,May,2020-05-15,,,,,,,,,,Cardiovascular Disease,,
+New Jersey,NJSP,2020,May,2020-05-21,,,,,,,,,,COVID-19,,
+New Jersey,NSP,2020,May,2020-05-27,,,,,,,,,,COVID-19,,
+New Jersey,SWSP,2020,May,2020-05-28,,,,,,,,,,COVID-19,,
+New Jersey,SWSP,2020,May,2020-05-29,,,,,,,,,,COVID-19,,
+New Jersey,NSP,2020,June,2020-06-09,,,,,,,,,,COVID-19,,
+New Jersey,SWSP,2020,June,2020-06-11,,,,,,,,,,COVID-19,,
+New Jersey,NSP,2020,June,2020-06-13,,,,,,,,,,Cancer,,
+New Jersey,SWSP,2020,June,2020-06-18,,,,,,,,,,COVID-19,,
+New Jersey,SWSP,2020,June,2020-06-22,,,,,,,,,,Stroke,,
+New Jersey,CRAF,2020,June,2020-06-29,,,,,,,,,,COVID-19,,
+New Jersey,SWSP,2020,July,2020-07-16,,,,,,,,,,Pneumonia,,
+New Jersey,NSP,2020,July,2020-07-21,,,,,,,,,,Brain Damage,,
+New Jersey,SWSP,2020,July,2020-07-22,,,,,,,,,,Cardiac Arrest,,
+New Jersey,SWSP,2020,August,2020-08-07,,,,,,,,,,Respiratory Failiure/Kidney Disease,,
+New Jersey,SSCF,2020,August,2020-08-22,,,,,,,,,,Respiratory Failure,,
+New Jersey,SWSP,2020,August,2020-08-29,,,,,,,,,,Multiple Mydema,,
+New Jersey,SWSP,2020,August,2020-08-29,,,,,,,,,,Anoxic Encephalopathy,,
+New Jersey,SWSP,2020,September,2020-09-03,,,,,,,,,,Liver Cancer,,
+New Jersey,EJSP,2020,September,2020-09-13,,,,,,,,,,,,
+New Jersey,SWSP,2020,September,2020-09-19,,,,,,,,,,Respiratory Failure,,
+New Jersey,NJSP,2020,September,2020-09-22,,,,,,,,,,,,
+New Jersey,EJSP,2020,September,2020-09-26,,,,,,,,,,COVID-19,,
+New Jersey,NJSP,2020,October,2020-10-09,,,,,,,,,,Cardiac Arrest,,
+New Jersey,EJSP,2020,October,2020-10-09,,,,,,,,,,Cardiac Arrest,,
+New Jersey,CRAF,2020,October,2020-10-17,,,,,,,,,,Cardiac Arrest,,
+New Jersey,SWSP,2020,October,2020-10-19,,,,,,,,,,Cardiac Arrest,,
+New Jersey,NSP,2020,October,2020-10-20,,,,,,,,,,Suicide,,
+New Jersey,SWSP,2020,October,2020-10-31,,,,,,,,,,Septic Shock,,
+New Jersey,NJSP,2020,November,2020-11-06,,,,,,,,,,,,
+New Jersey,EJSP,2020,November,2020-11-10,,,,,,,,,,Pulmonary Blood Clot,,
+New Jersey,NJSP,2020,November,2020-11-17,,,,,,,,,,Organ Failiure,,
+New Jersey,NJSP,2020,November,2020-11-25,,,,,,,,,,CVA,,
+New Jersey,SWSP,2020,November,2020-11-30,,,,,,,,,,Kidney Failiure,,
+New Jersey,SWSP,2020,December,2020-12-01,,,,,,,,,,Cardiac Arrest,,
+New Jersey,SWSP,2020,December,2020-12-02,,,,,,,,,,Cardiac Arrest,,
+New Jersey,SWSP,2020,December,2020-12-10,,,,,,,,,,Respiratory Failure,,
+New Jersey,SWSP,2020,October,2020-10-13,,,,,,,,,,Liver Cancer,,
+New Jersey,ADTC,2020,December,2020-12-19,,,,,,,,,,Respiratory Failure,,
+New Jersey,EJSP,2021,January,2021-01-20,,,,,,,Hispanic,,,Septic shock due to Megacolon,,
+New Jersey,ADTC,2021,January,2021-01-01,,,,,,,,,,Civil Commitment,,
+New Jersey,SWSP,2021,February,2021-02-02,,,,,,,Hispanic,,,Respiratory Failure,,
+New Jersey,NSP,2021,February,2021-02-03,,,,,,,Black,,,,,
+New Jersey,NJSP,2021,February,2021-02-04,,,,,,,Black,,,COVID - Pneumonia,,
+New Jersey,STU,2021,February,2021-02-08,,,,,,,,,,Cardiac Arrest - Civil Commitment,,
+New Jersey,NSP,2021,February,2021-02-25,,,,,,,Hispanic,,,Cardiac Arrest - death seconday to trauma s/p falling,,
+New Jersey,NSP,2021,March,2021-03-02,,,,,,,White,,,Hypoxic Respiratory Failure/Legionella Pneumonia,,
+New Jersey,NJSP,2021,March,2021-03-17,,,,,,,White,,,Cardiac Arrest,,
+New Jersey,NJSP,2021,March,2021-03-30,,,,,,,Black,,,Advanced Colon Cancer Metastate to Brain and Lungs/ multiple organ failure,,
+New Jersey,NJSP,2021,April,2021-04-04,,,,,,,Black,,,,,
+New Jersey,ADTC,2021,April,2021-04-17,,,,,,,Hispanic,,,Aspuration Pneumonia Sepsis,,
+New Jersey,SWSP,2021,April,2021-04-24,,,,,,,White,,,Related to Hereditary Familial Amyloidosis and CAD/Cardiomyopathy,,
+New Jersey,SWSP,2021,May,2021-05-17,,,,,,,White,,,Chronic COPD,,
+New Jersey,NJSP,2021,May,2021-05-19,,,,,,,White,,,Complications from Terminal Stomach Cancer,,
+New Jersey,SWSP,2021,June,2021-06-05,,,,,,,White,,,Stroke,,
+New Jersey,SWSP,2021,June,2021-06-18,,,,,,,Hispanic,,,Complications of Caner (Malignant Lymphoma),,
+New Jersey,SWSP,2021,June,2021-06-28,,,,,,,Black,,,Esophageal Cancer With Metastasis,,
+New Jersey,EJSP,2021,July,2021-07-22,,,,,,,Black,,,Terminal Cancer,,
+New Jersey,EJSP,2021,September,2021-09-08,,,,,,,Black,,,Cancer (POSSIBLE CAUSE OF DEATH),,
+New Jersey,SWSP,2021,August,2021-08-17,,,,,,,Black,,,Multi-System Organ Failure due to Cancer,,
+New Jersey,SWSP,2021,August,2021-08-30,,,,,,,White,,,Cardiac Arrest (possible cause of death),,
+New Jersey,SWSP,2021,September,2021-09-14,,,,,,,Hispanic,,,Metastatic Stage 4 Adenocarcinoma of Pancreaticobilary Origin,,
+New Jersey,EJSP,2021,October,2021-10-05,,,,,,,White,,,Cardiac Arrest,,
+New Jersey,NJSP,2021,October,2021-10-15,,,,,,,Black,,,Cardiac Arrest - Secondary to Covid 19,,
+New Jersey,NJSP,2021,October,2021-10-17,,,,,,,Black,,,Metastatic Cancer (?),,
+New Jersey,NJSP,2021,October,2021-10-15,,,,,,,Hispanic,,,Sepsis,,
+New Jersey,SWSP,2021,October,2021-10-27,,,,,,,Hispanic,,,Cancer (possible cause of death),,
+New Jersey,SWSP,2021,March,2021-03-11,,,,,,,White,,,Cardiac Arrest Resulting From Cancer,,
+New Jersey,SWSP,2021,March,2021-03-11,,,,,,,Hispanic,,,"Acute Kidney Failure, Sepsis/Pneumonia and Lactic Acidosis",,
+New Jersey,SWSP,2021,November,2021-11-16,,,,,,,Black,,,Cardiac Arrset,,
+New Jersey,,2021,January,2021-01-23,,,,,,,Hispanic,,,DIED AT COUNTY JAIL,,
+New Jersey,,2021,January,2021-01-25,,,,,,,Black,,,DIED AT COUNTY JAIL CARDIAC ARREST,,
+New Jersey,,2021,February,2021-02-08,,,,,,,,,,DIED OUT OF STATE - TERMINAL CANCER,,
+New Jersey,BSP,2021,December,2021-12-06,,,,,,,Black,,,Unknown at this time - Possibly Cardiac Arrest,,
+New Jersey,EJSP,2021,December,2021-12-07,,,,,,,Black,,,"Unknown at this time, inmate was treated for Terminal Cancer",,
+New Jersey,SWSP,2021,December,2021-12-12,,,,,,,Black,,,Cardiac Arrest,,
+New Jersey,NSP,2021,December,2021-12-19,,,,,,,Black,,,,,
+New Jersey,SWSP,2021,December,2021-12-27,,,,,,,White,,,Cardiac Arrest,,
+New Jersey,RJW Rahway,2022,January,2022-01-02,,,,,,M,BLACK/AFRICAN AMERICAN,NON-HISPANIC/LATINO,,MULTI-ORGAN FAILURE DUE TO COVID-19 IN A BACKGROUND OF DIABETIC KETOACIDOSIS,"HYPERTENSIVE CARDIOVASCULAR DISEASE, HYPERLIPIDEMIA, HEPATITIS C",2022
+New Jersey,RJW Rahway,2022,January,2022-01-06,,,,,,M,BLACK/AFRICAN AMERICAN,NON-HISPANIC/LATINO,,MULTI-ORGAN FAILURE DUE TO COVID-19,"DIABETES MELLITUS, HYPERTENSIVE CARDIOVASCULAR DISEASE, ATHEROSCLEROTIC CARDIOVASCULAR DISEASE, UCLERATIVE COLITIS, OBESITY",2022
+New Jersey,GYCF,2022,January,2022-01-16,,,,,,M,BLACK/AFRICAN AMERICAN,NON-HISPANIC/LATINO,,COMPLICATIONS OF PANHYPOPITUITARISM DUE TO CRANIOPHARYNGIOMA,COVID-19 VIRAL INFECTION,2022
+New Jersey,IMC Vineland,2022,January,2022-01-18,,,,,,M,WHITE,NON-HISPANIC/LATINO,,PNUEMONIA,"COVID 10, ATHEROSCLEROTIC CARDIOVASCULAR DISEASE, CHRONIC OBSTRUCTIVE PULMONARY DISEASE, CHRONIC KIDNEY DISEASE",2022
+New Jersey,SWSP,2022,January,2022-01-21,,,,,,M,WHITE,NON-HISPANIC/LATINO,,"CORONOARY ARTERY ATHEROSCLEROSIS, HYPERTENSIVE HEART DISEASE AND BILATERAL ACUTE PULMONARY THROMBOEMBOLI DUE TO DEEP VEIN THROMBOSIS",COVID-19 VIRAL INFECTION,2022
+New Jersey,SWSP,2022,January,2022-01-26,,,,,,M,WHITE,NON-HISPANIC/LATINO,,PANCREATIC CANCER WITH METASTASES,COVID-19,2022
+New Jersey,St. Francis,2022,January,2022-01-26,,,,,,M,BLACK/AFRICAN AMERICAN,NON-HISPANIC/LATINO,,RESPIRATORY FAILURE DUE TO COVID-19,"HYPERTENSIVE CARDIOVASCULAR DISEASE, DIABETES MELLITUS, CHRONIC OBSTRUCTIVE PULMONARY DISEASE",2022
+New Jersey,St. Francis,2022,January,2022-01-29,,,,,,M,OTHER,UNDETERMINED,,"HYPERTENSIVE CARDIOVASCULAR DISEASE, ATHEROSCLEROTIC CARDIOVASCULAR DISEASE","DIABETES MELLITUS, OBESITY",2022
+New Jersey,IMC Vineland,2022,January,2022-01-31,,,,,,M,BLACK/AFRICAN AMERICAN,NON-HISPANIC/LATINO,,RESPIRATORY FAILURE DUE TO DESQUMATIVE INTERSTITIAL PNEUMONITIS,"COVID-19, END STAGE RENAL DISEASE DUE TO ADULT POLYCYSTIC KIDNEY DISEASE AND DIABETES MELLITUS",2022
+New Jersey,NJSP,2022,February,2022-02-08,,,,,,M,BLACK/AFRICAN AMERICAN,NON-HISPANIC/LATINO,,COMPLICATIONS OF HYPERTENSIVE CARDIOVASCULAR DISEASE AND CHRONIC OBSTRUCTIVE PULMONARY DISEASE,HEPATITIS C,2022
+New Jersey,Cooper,2022,February,2022-02-15,,,,,,M,BLACK/AFRICAN AMERICAN,NON-HISPANIC/LATINO,,COMPLICATIONS OF PULMONARY SARCOIDOSIS,"HUMAN IMMUNODEFICIENCY VIRUS, CHRONIC OBSTRUCTIVE PULMONARY DISEASE",2022
+New Jersey,SWSP,2022,February,2022-02-26,,,,,,M,BLACK/AFRICAN AMERICAN,NON-HISPANIC/LATINO,,HYPERTENSIVE CARDIOVASCULAR DISEASE,CHRONIC KIDNEY DISEASE DUE TO ADULT POLYCYSTIC KIDNEY DISEASE AND DIABETES MELLITUS,2022
+New Jersey,St. Francis,2022,March,2022-03-06,,,,,,M,WHITE,NON-HISPANIC/LATINO,,SEPSIS IN THE SETTING OF ADENOCARCINOMA OF THE LUNG,"HYPERTENSIVE AND ATHEROSCLEROTIC CARDIOVASCULAR DISEASE, HEPATITIS C",2022
+New Jersey,St. Francis,2022,March,2022-03-28,,,,,,M,BLACK/AFRICAN AMERICAN,NON-HISPANIC/LATINO,,SQUAMOUS CELL CARCINOMA OF THE LUNGS AND ADENOCARCINOMA OF THE COLON,"ATHEROSCLEROTIC CARDIOVASCULAR DISEASE, CHRONIC ALCOHOL ABUSE",2022
+New Jersey,SWSP,2022,April,2022-04-02,,,,,,M,BLACK/AFRICAN AMERICAN,NON-HISPANIC/LATINO,,"PNEUMONIA, ATHEROSCLEROTIC CARDIOVASCULAR DISEASE, AND CHRONIC OBSTRUCTIVE PULMONARY DISEASE",CHRONIC RENAL DISEASE,2022
+New Jersey,St. Francis,2022,April,2022-04-10,,,,,,M,BLACK/AFRICAN AMERICAN,NON-HISPANIC/LATINO,,COMPLICATIONS OF BACTERIAL PNEUMONIA,"HYPERTENSIVE CARDIOVASCULAR DISEASE, DIABETES MELLITUS, END STAGE RENAL DISEASE, OBESITY",2022
+New Jersey,SWSP,2022,April,2022-04-11,,,,,,M,BLACK/AFRICAN AMERICAN,NON-HISPANIC/LATINO,,COMPLICATION OF GASTRIC CARCINOMA,,2022
+New Jersey,RWJ Rahway,2022,April,2022-04-14,,,,,,M,WHITE,NON-HISPANIC/LATINO,,HYPERTENSIVE INTRACEREBRALHEMMORRHAGE,,2022
+New Jersey,ADTC,2022,April,2022-04-25,,,,,,M,WHITE,NON-HISPANIC/LATINO,,"HYPERTENSIVE CARDIOVASCULAR DISEASE, ATHEROSCLEROTIC CARDIOVASCULAR DISEASE",,2022
+New Jersey,NJSP,2022,May,2022-05-15,,,,,,M,WHITE,NON-HISPANIC/LATINO,,METASTATIC SMALL CELL LUNG CARCINOMA,,2022
+New Jersey,Cooper,2022,May,2022-05-19,,,,,,M,WHITE,HISPANIC/LATINO,,ISCHEMIC STROKE DUE TO HYPERTENSIVE CARDIOVASCULAR DISEASE,DIABETES MELLITUS,2022
+New Jersey,Capital Health RMC,2022,May,2022-05-24,,,,,,M,BLACK/AFRICAN AMERICAN,NON-HISPANIC/LATINO,,COMPLICATIONS OF SEPTIC EMBOLI TO BRAIN,DIABETES MELLITUS,2022
+New Jersey,IMC Vineland,2022,May,2022-05-31,,,,,,M,BLACK/AFRICAN AMERICAN,NON-HISPANIC/LATINO,,SEPSIS DUE TO ENTEROCOCCUS BACTEREMIA DUE TO LIKELY CENTRAL LINE ASSOCIATED BLOODSTREAM INFECTION,"END STAGE RENAL DISEASE, NON-ISCHEMIC DILATED CARDIOMYOPATHY, HYPERTENSIVE CARDIOVASCULAR DISEASE, ATHEROSCLEROTIC CARDIOVASCULAR DISEASE, DIABETES MELLITUS",2022
+New Jersey,SWSP,2022,June,2022-06-10,,,,,,M,WHITE,NON-HISPANIC/LATINO,,ATHEROSCLEROTIC CARDIOVASCULAR DISEASE,,2022
+New Jersey,IMC Vineland,2022,June,2022-06-28,,,,,,M,BLACK/AFRICAN AMERICAN,NON-HISPANIC/LATINO,,COMPLICATIONS OF MULTIPLE SCLEROSIS,,2022
+New Jersey,IMC Vineland,2022,June,2022-06-20,,,,,,M,WHITE,NON-HISPANIC/LATINO,,PULMONARY THROMBOEMBOLI DUE TO DEEP VEIN THROMBOSES OF UNKNOWN ETIOLOGY,,2022
+New Jersey,St. Francis,2022,June,2022-06-30,,,,,,F,BLACK/AFRICAN AMERICAN,NON-HISPANIC/LATINO,,PULMONARY FIBROSIS,,2022
+New Jersey,University Hopsital,2022,July,2022-07-08,,,,,,M,BLACK/AFRICAN AMERICAN,NON-HISPANIC/LATINO,,"HYPERTENSIVE CARDIOVASCULAR DISEASE, ATHEROSCLEROTIC CARDIOVASCULAR DISEASE",,2022
+New Jersey,NJSP,2022,July,2022-07-12,,,,,,M,BLACK/AFRICAN AMERICAN,NON-HISPANIC/LATINO,,ACUTE FENTANYL AND DIPHENHYDRAMINE INTOXICATION,,2022
+New Jersey,NSP,2022,July,2022-07-26,,,,,,M,WHITE,HISPANIC/LATINO,,PULMONARY THROMBOEMBOLISM DUE TO DEEP VEIN THROMBOSES OF RIGHT LEG,"ATHEROSCLEROTIC CARDIOVASCULAR DISEASE, HYPERTENSIVE CARDIOVASCULAR DISEASE",2022
+New Jersey,SWSP,2022,August,2022-08-06,,,,,,M,WHITE,NON-HISPANIC/LATINO,,ATHEROSCLEROTIC CARDIOVASCULAR DISEASE,"CHRONIC KIDNEY DISEASE, DIABETER MELLITUS",2022
+New Jersey,SWSP,2022,August,2022-08-13,,,,,,M,WHITE,UNDETERMINED,,ATHEROSCLEROTIC CARDIOVASCULAR DISEASE AND CHRONIC KIDNEY DISEASE,METASTATIC UROTHELIAL CARCINOMA,2022
+New Jersey,EJSP,2022,August,2022-08-18,,,,,,M,WHITE,NON-HISPANIC/LATINO,,ACUTE FENTANYL TOXICITY,,2022
+New Jersey,University Hospital,2022,August,2022-08-19,,,,,,M,OTHER,NON-HISPANIC/LATINO,,METASTATIC MODERATELY DIFFERENTIATED SQUAMOUS CELL CARCINOMA OR LEFT POSTERIOR MANDIBLE,,2022
+New Jersey,NSP,2022,August,2022-08-21,,,,,,M,WHITE,NON-HISPANIC/LATINO,,"ACUTE MYOCARDIAL INFARCTION, ATHEROSCLEROTIC CARDIOVASCULAR DISEASE OF CORONARY ARTERY",,2022
+New Jersey,IMC Vineland,2022,August,2022-08-23,,,,,,M,BLACK/AFRICAN-AMERICAN,NON-HISPANIC/LATINO,,HYPERTENSIVE CARDIOVASCULAR DISEASE AND ATHEROSCLEROTIC CARDIOVASCULAR DISEASE,DIABETES MELLITUS,2022
+New Jersey,NJSP,2022,September,2022-09-08,,,,,,M,OTHER,HISPANIC/LATINO,,ACUTE FENTANYL TOXICITY,,2022
+New Jersey,SWSP,2022,September,2022-09-18,,,,,,M,WHITE,NON-HISPANIC/LATINO,,CIRRHOSIS,,2022
+New Jersey,NJSP,2022,September,2022-09-20,,,,,,M,OTHER,HISPANIC/LATINO,,"ACUTE FENTANYL, XYLAZINE, AND BROMAZOLAM TOXICITY",,2022
+New Jersey,NSP,2022,September,2022-09-28,,,,,,M,WHITE,NON-HISPANIC/LATINO,,MIXED DRUG (FENTANYL AND PARA-FLUOROFENTANYL) AND ALCOHOL INTOXICATION,,2022
+New Jersey,Capital Health RMC,2022,October,2022-10-08,,,,,,M,BLACK/AFRICAN-AMERICAN,NON-HISPANIC/LATINO,,"COMPLICATIONS OF METASTATIC, POORLY DIFFERENTIATED SQUAMOUS CELL CARCINOMA OF THE LUNG","HYPERTENSIVE CARDIOVASCULAR DISEASE, DIABETES MELLITUS, HYPERLIPIDEMIA",2022
+New Jersey,SWSP,2022,October,2022-10-10,,,,,,M,WHITE,NON-HISPANIC/LATINO,,UNDETERMINED,,2022
+New Jersey,SWSP,2022,October,2022-10-14,,,,,,M,WHITE,NON-HISPANIC/LATINO,,FENTANYL AND ACETYL FENTANYL INTOXICATION,,2022
+New Jersey,IMC Vineland,2022,October,2022-10-14,,,,,,M,WHITE,NON-HISPANIC/LATINO,,"CHOLECYSTITIS, CIRRHOSIS OF THE LIVER, AND ATHEROSCLEROTIC CARDIOVASCULAR DISEASE","CHOLELITHIASIS, CHRONIC ALCOHOL ABUSE AND CHRONIC RENAL FAILURE",2022
+New Jersey,Cooper,2022,October,2022-10-19,,,,,,M,BLACK/AFRICAN-AMERICAN,NON-HISPANIC/LATINO,,"ATHEROSCLEROTIC CARDIOVASCULAR DISEASE WITH MULTIPLE CEREBROVASCULAR ACCIDENTS, ACUTE AND CHRONIC RENAL FAILURE, PNEUMONIA",DIABETES MELLITUS,2022
+New Jersey,SWSP,2022,November,2022-11-05,,,,,,M,WHITE,NON-HISPANIC/LATINO,,HYPERTENSIVE CARDIOVASCULAR DISEASE AND ACUTE AND CHRONIC RENAL FAILURE,FIBROSIS OF LIVER,2022
+New Jersey,Deborah,2022,November,2022-11-07,,,,,,M,WHITE,NON-HISPANIC/LATINO,,CARDIOVASCULAR DISEASE,,2022
+New Jersey,St. Francis,2022,November,2022-11-09,,,,,,M,BLACK/AFRICAN AMERICAN,NON-HISPANIC/LATINO,,METASTATIC PANCREATIC CARCINOMA,,2022
+New Jersey,BSP,2022,November,2022-11-21,,,,,,M,OTHER,HISPANIC/LATINO,,BLUNT FORCE INJURIES TO HEAD AND NECK COMPRESSION,,2022
+New Jersey,St. Francis,2022,November,2022-11-21,,,,,,M,WHITE,NON-HISPANIC/LATINO,,METASTATIC POORLY-DIFFERENTIATED ADENOCARCINOMA OF LUNG,,2022
+New Jersey,St. Francis,2022,December,2022-12-11,,,,,,M,BLACK/AFRICAN AMERICAN,NON-HISPANIC/LATINO,,PURULENT MENINGITIS,,2022
+New Jersey,NJSP,2022,December,2022-12-16,,,,,,M,BLACK/AFRICAN AMERICAN,NON-HISPANIC/LATINO,,"CORONARY ARTERY THROMBUS COMPLICATING ATHEROSCLEROTIC CARDIOVASCULAR DISEASE, HYPERTENSUVE CARDIOVASCULAR DISEASE","DIABETES MELLITUS, OBESITY",2022
+New Jersey,SWSP,2022,December,2022-12-17,,,,,,M,BLACK/AFRICAN AMERICAN,NON-HISPANIC/LATINO,,ATHEROSCLEROTIC CARDIOVASCULAR DISEASE AND CIRRHOSIS OF THE LIVER,"ACUTE AND CHRONIC RENAL FAILURE, DIABETES MELLITUS, HEPATITIS C INFECTION",2022
+New Jersey,University Hospital,2022,December,2022-12-24,,,,,,M,BLACK/AFRICAN AMERICAN,NON-HISPANIC/LATINO,,COMPLICATIONS OF CHRONIC ALCOHOLISM,,2022
+New Jersey,Kindred Rahway,2022,December,2022-12-27,,,,,,M,WHITE,UNDETERMINED,,COMPLICATIONS OF MITRAL VALVE ENDOCARDITIS,"ATHEROSCLEROTIC CARDIOVASCULAR DISEASE, HYPERTENSIVE CARDIOVASCULAR DISEASE",2022
+New Jersey,Captial Health RMC,2023,January,2023-01-08,,,,,,M,OTHER,HISPANIC/LATINO,,ASPHYXIA DUE TO HANGING,,2023
+New Jersey,Captial Health RMC,2023,January,2023-01-12,,,,,,M,WHITE,NON-HISPANIC/LATINO,,COMPLICATIONS OF METASTATIC CARCINOMA OF UNKNOWN PRIMARY,,2023
+New Jersey,SWSP,2023,January,2023-01-26,,,,,,M,BLACK/AFRICAN AMERICAN,NON-HISPANIC/LATINO,,ATHEROSCLEROTIC CARDIOVASCULAR DISEASE AND CIRRHOSIS OF THE LIVER,SEIZURES/SEIZURE DISORDER,2023
+New Jersey,NJSP,2023,February,2023-02-02,,,,,,M,BLACK/AFRICAN AMERICAN,,,ASPHYXIA DUE TO CHOKING ON MATTRESS MATERIAL,,2023
+New Jersey,NJSP,2023,February,2023-02-08,,,,,,M,BLACK/AFRICAN AMERICAN,NON-HISPANIC/LATINO,,HYPERTENSIVE ATHEROSCLEROTIC CARDIOVASCULAR DISEASE COMPLICATED BY PROBABLE RESPIRATORY FAILURE DUE TO COVID-19 VIRAL INFECTION,"REMOTE MYOCARDIAL INFARCTION, CHRONIC OBSTRUCTIVE PULMONARY DISEASE, PROSTATIC ADENOCARCINOMA AND PULMONARY SQUAMOUS CELL CARCINOMA",2023
+New Jersey,IMC Vineland,2023,February,2023-02-18,,,,,,M,BLACK/AFRICAN AMERICAN,NON-HISPANIC/LATINO,,ATHEROSCLEROTIC CARDIOVASCULAR DISEASE AND HYPERTENSIVE CARDIOVASCULAR DISEASE IN THE SETTING OF SUSPECTED SEPSIS,,2023
+New Jersey,Cooper,2023,February,2023-02-23,,,,,,M,BLACK/AFRICAN AMERICAN,,,COMPLICATIONS OF ATHEROSCLEROTIC CARDIOVASCULAR DISEASE IN THE SETTING OF SUSPECTED SEPSIS,"DIABETES MELLITUS, END STAGE RENAL DISEASE, AORTIC DISSECTION",2023
+New Jersey,Cooper,2023,March,2023-03-04,,,,,,M,OTHER,HISPANIC/LATINO,,CHRONIC MYELOID LEUKEMIA,"ACUTE RENAL FAILURE AND CHRONIC KIDNEY DISEASE, RENAL MASS, DEMENTIA",2023
+New Jersey,NSP,2023,March,2023-03-07,,,,,,M,BLACK/AFRICAN AMERICAN,NON-HISPANIC/LATINO,,MIXED DRUG INTOXICATION (FENTANYL AND PFLUOROFENTANYL,,2023
+New Jersey,NSP,2023,March,2023-03-10,,,,,,M,BLACK/AFRICAN AMERICAN,,,ASPHYXIA DUE TO HANGING,,2023
+New Jersey,SWSP,2023,April,2023-04-01,,,,,,M,WHITE,NON-HISPANIC/LATINO,,ATHEROSCLEROTIC CARDIOVASCULAR DISEASE,DIABETES MELLITUS,2023
+New Jersey,RWJ Hamilton,2023,April,2023-04-07,,,,,,M,BLACK/AFRICAN AMERICAN,,,FENTANYL TOXICITY,,2023
+New Jersey,RWJ Rahway,2023,April,2023-04-12,,,,,,M,BLACK/AFRICAN AMERICAN,NON-HISPANIC/LATINO,,BILATERAL PULMONARY THROMBOEMBOLI DUE TO LEFT LEG DEEP VEIN THROMBOSIS,,2023
+New Jersey,Kindred Rahway,2023,April,2023-04-20,,,,,,M,OTHER,HISPANIC/LATINO,,SEPSIS DUE TO PNEUMONIA DUE TO KLEBSIELLA,,2023
+New Jersey,University Hospital,2023,May,2023-05-13,,,,,,M,OTHER,HISPANIC/LATINO,,"COMPLICATIONS FOLLOWING A RECENT ESOPHAGOGASTRODUODENOSCOPY TO EVALUATE A GASTRIC MASS AND OF CONGESTIVE HEART FAILURE ASSOCIATED WITH ATHEROSCLEROTIC AND HYPERTENSIVE CARDIOVASCULAR DISEASE, DIABETES MELLITUS, AND ASTHMA",,2023
+New Jersey,University Hospital,2023,May,2023-05-25,,,,,,M,WHITE,HISPANIC/LATINO,,COMPLICATIONS OF PERFORATED DUODENAL ULCER,"ATHEROSCLEROTIC CARDIOVASCULAR DISEASE, HYPERTENSIVE CARDIOVASCULAR DISEASE, DIABETES MELLITUS, HEPATITIS C",2023
+New Jersey,SWSP,2023,May,2023-05-30,,,,,,M,BLACK/AFRICAN AMERICAN,NON-HISPANIC/LATINO,,METASTATIC PROSTATE CANCER,"DIABETES MELLITUS, HYPERTENSIVE CARDIOVASCULAR DISEASE",2023
+New Jersey,Cooper,2023,June,2023-06-02,,,,,,M,WHITE,NON-HISPANIC/LATINO,,SEPSIS DUE TO SACRAL DECUBITUS ULCER,"ATHEROSCLEROTIC CARDIOVASCULAR DISEASE, HYPERTENSIVE CARDIOVASCULAR DISEASE, SEIZURES/SEIZURE DISORDER",2023
+New Jersey,University Hospital,2023,June,2023-06-07,,,,,,M,ASIAN,NON-HISPANIC/LATINO,,ASPHYXIA DUE TO HANGING,,2023
+New Jersey,SWSP,2023,June,2023-06-17,,,,,,M,WHITE,NON-HISPANIC/LATINO,,ATHEROSCLEROTIC CARDIOVASCULAR DISEASE,"CHRONIC OBSTRUCTIVE PULMONARY DISEASE, DIABETES MELLITUS, LUNG CANCER",2023
+New Jersey,SWSP,2023,June,2023-06-30,,,,,,M,WHITE,NON-HISPANIC/LATINO,,METASTATIC BRONCHOGENIC LUNG CARCINOMA AND ATHEROSCLEROTIC CARDIOVASCULAR DISEASE,"CHRONIC OBSTRUCTIVE PULMONARY DISEASE, HEPATITIS C INFECTION",2023
+New Jersey,Kindred Rahway,2023,July,2023-07-03,,,,,,M,BLACK/AFRICAN AMERICAN,NON-HISPANIC/LATINO,,COMPLICATIONS OF MULTIPLE SCLEROSIS INCLUDING SEPSIS AND ORGANIZEING BRONCHO-PNEUMONIA,HYPERTENSIVE CARDIOVASCULAR DISEASE,2023
+New Jersey,SWSP,2023,July,2023-07-16,,,,,,M,BLACK/AFRICAN AMERICAN,NON-HISPANIC/LATINO,,CHRONIC OBSTRUCTIVE PULMONARY DISEASE,HYPERTENSIVE AND ATHEROSCLEROTIC CARDIOVASCULAR DISEASE,2023
+New Jersey,Capital Health RMC,2023,July,2023-07-20,,,,,,M,BLACK/AFRICAN AMERICAN,NON-HISPANIC/LATINO,,MULTIPLE MYELOMA,END STATE RENAL DISEASE,2023
+New Jersey,Cooper,2023,July,2023-07-22,,,,,,M,BLACK/AFRICAN AMERICAN,NON-HISPANIC/LATINO,,ANGIOSARCOMA WITH PERICARDIAL EFFUSION,ATHEROSCLEROTIC CARDIOVASCULAR DISEASE,2023
+New Jersey,GYCF,2023,July,2023-07-25,,,,,,M,BLACK/AFRICAN AMERICAN,NON-HISPANIC/LATINO,,SUDDEN CARDIAC DEATH,,2023
+New Jersey,BSP,2023,August,2023-08-08,,,,,,M,BLACK/AFRICAN AMERICAN,NON-HISPANIC/LATINO,,FENTANYL INTOXICATION,,2023
+New Jersey,Deborah,2023,August,2023-08-10,,,,,,M,BLACK/AFRICAN AMERICAN,,,CARDIOMYOPATHY,CHRONIC KIDNEY DISEASE,2023
+New Jersey,SWSP,2023,September,2023-09-28,,,,,,M,WHITE,UNDETERMINED,,ATHEROSCLEROTIC CARDIOVASCULAR DISEASE,"DIABETES MELLITUS, CHRONIC OBSTRUCTIVE PULMONARY DISEASE",2023
+New Jersey,NSP,2023,October,2023-10-04,,,,,,M,BLACK/AFRICAN AMERICAN,NON-HISPANIC/LATINO,,"ACUTE INTOXICATION DUE TO THE COMBINED EFFECTS OF FENTANYL, ACETYL FENTANYL, AND P-FLUOROFENTANYL",,2023
+New Jersey,IMC Vineland,2023,October,2023-10-13,,,,,,M,WHITE,NON-HISPANIC/LATINO,,UPPER GASTROINTESTINAL HEMORRHAGE,"CIRRHOSIS, HYPERTENSIVE ATHERSCLEROTIC CARDIOVASCULAR DISEASE, CHRONIC OBSTRUCTIVE PULMONARY DISEASE, DIABETES MELLITUS",2023
+New Jersey,Kindred Rahway,2023,October,2023-10-25,,,,,,M,OTHER,HISPANIC/LATINO,,RESPIRATORY FAILURE COMPLICATING CHRONIC OBSTRUCTIVE PULMONARY DISEASE,"ATHEROSCLEROTIC AND HYPERTENSIVE CARDIOVASCULAR DISEASE, DIABETES MELLITUS, OBESITY",2023
+New Jersey,SWSP,2023,October,2023-10-27,,,,,,M,WHITE,NON-HISPANIC/LATINO,,HYPERTENSIVE CARDIOVASCULAR DISEASE,OBESITY,2023
+New Jersey,IMC Vineland,2023,November,2023-11-09,,,,,,M,BLACK/AFRICAN AMERICAN,NON-HISPANIC/LATINO,,ACUTE GASTROINTESTINAL HEMORRHAGE,"HEPATIC STEATOSIS, ATHEROSCLEROTIC AND HYPERTENSIVE CARDIOVASCULAR DISEASE",2023
+New Jersey,SWSP,2023,November,2023-11-09,,,,,,M,BLACK/AFRICAN AMERICAN,NON-HISPANIC/LATINO,,METASTATIC SMALL CELL CARCINOMA,"SQUAMOUS CELL CARCINOMA OF THE LUNG, HYPERTENSTIVE CARDIOVASCULAR DIEASES, DIABETES",2023
+New Jersey,RWJ New Brunswick,2023,November,2023-11-14,,,,,,M,WHITE,,,COMPLICATIONS OF CHRONIC MYELOID LEUKEMIA WITH BLAST CRISIS,,2023
+New Jersey,Capital Health RMC,2023,December,2023-12-03,,,,,,M,BLACK/AFRICAN AMERICAN,NON-HISPANIC/LATINO,,COMPLICATIONS OF METASTATIC MULTIPLE MYELOMA,,2023
+New Jersey,Capital Health RMC,2023,December,2023-12-04,,,,,,M,WHITE,HISPANIC/LATINO,,ANOXIC BRAIN INJURY COMPLICATING HANGING,,2023
+New Jersey,SWSP,2023,December,2023-12-05,,,,,,M,WHITE,NON-HISPANIC/LATINO,,PULMONARY EMBOLISM IN THE SETTING OF ESTROGEN HORMONE THERAPY,,2023
+New Jersey,IMC Vineland,2023,December,2023-12-13,,,,,,M,BLACK/AFRICAN AMERICAN,,,ATHEROSCLEROTIC CARDIOVASCULAR DISEASE,SARS-COV-19 INFECTION AND DIABETES MELLITUS,2023
+New Jersey,IMC Vineland,2023,December,2023-12-14,,,,,,M,WHITE,NON-HISPANIC/LATINO,,ACUTE AND REMOTE MYOCARDIAL INFARCTION DUE TO ATHEROSCLEROTIC CARDIOVASCULAR DISEASE,DIABETES MELLITUS,2023
+New Jersey,SWSP,2023,December,2023-12-27,,,,,,M,BLACK/AFRICAN AMERICAN,NON-HISPANIC/LATINO,,ATHEROSCLEROTIC CARDIOVASCULAR DISEASE,"DIABETES MELLITUS , CHRONIC RENAL FAILURE",2023
+New Jersey,Capital Health RMC,2023,December,2023-12-28,,,,,,M,WHITE,NON-HISPANIC/LATINO,,UNDETERMINED,,2023
+New Jersey,NJSP,2024,January,2024-01-05,,,,,37,Male,White,,,Hanging,,2024
+New Jersey,NSP,2024,January,2024-01-20,,,,,35,Male,White,,,"Acute intoxication due to the combined effects of fentanyl, P-fluorofentanyl, and ethanol",Arteriosclerotic cardiovascular disease,2024
+New Jersey,EJSP,2024,January,2024-01-25,,,,,70,Male,White,,,Atherosclerotic and hypertensive cardiovascular disease,Obsesity,2024
+New Jersey,EMCF,2024,January,2024-01-26,,,,,66,Female,White,,,Chronic obstructive pulmonary disease,,2024
+New Jersey,NJSP,2024,January,2024-01-30,,,,,61,Male,Black/African American,,,Complications of intrabdominal undifferentiated maligant neoplasm,"Hypertension, diabetes, colon carcinoma",2024
+New Jersey,EJSP,2024,February,2024-02-01,,,,,71,Male,White,,,Complications of esophageal adenocarcinoma,"Hypertensive cardiovascular disease, chronic obstructive pulmonary disease, diabetes mellitus",2024
+New Jersey,parole,2024,February,2024-02-15,,,,,63,Male,White,,,Metastatic colorectal cancer,,2024
+New Jersey,SWSP,2024,February,2024-02-16,,,,,71,Male,White,,,"Hypertensive, valcular, and arteriosclerotic cardiovascualr disease",Cirrhosis,2024
+New Jersey,SWSP,2024,February,2024-02-16,,,,,81,Male,White,,,"Hypertensive, atherosclerotic, and valvular cardiovascular disease",Diabetes mellitus,2024
+New Jersey,BSP,2024,March,2024-03-07,,,,,53,Male,White,,,Complications of acute pancreatitis,"Hypertensive cardiovascular disease, diabetes mellitus",2024
+New Jersey,NSP,2024,March,2024-03-13,,,,,24,Male,Other,,,Hanging,,2024
+New Jersey,NSP,2024,March,2024-03-22,,,,,48,Male,Other,,,Hanging,,2024
+New Jersey,NJSP,2024,April,2024-04-06,,,,,25,Male,Black/African American,,,Acute asthma exacerbation,,2024
+New Jersey,NJSP,2024,April,2024-04-11,,,,,75,Male,White,,,Complications of poorly differentiated supraglottic laryngeal carcinoma with metastatic spread,,2024
+New Jersey,NJSP,2024,April,2024-04-17,,,,,82,Male,White,,,Hypertensive and atherosclerotic cardiovascular disease,,2024
+New Jersey,NSP,2024,April,2024-04-28,,,,,51,Male,White,,,Complications of metastatic gastric adenocarcinoma,,2024
+New Jersey,NSP,2024,May,2024-05-01,,,,,71,Male,White,,,Medical examiner report pending,,2024
+New Jersey,SWSP,2024,May,2024-05-06,,,,,64,Male,White,,,Pulmonary malignancy,,2024
+New Jersey,SWSP,2024,May,2024-05-19,,,,,68,Male,Black/African American,,,Atherosclerotic and hypertensive cardiovascular disease,"Diabetes mellitus, hepatitis C, chronic kidney disease, and pulmonary hypertension",2024
+New Jersey,SWSP,2024,May,2024-05-26,,,,,73,Male,White,,,Sepsis with multiorgan failure,"Chronic renal failure, diabetes mellitus, atherosclerotic cardiovascular disease",2024
+New Jersey,SWSP,2024,June,2024-06-10,,,,,53,Male,Black/African American,,,Medical examiner report pending,,2024
+New Jersey,NJSP,2024,June,2024-06-16,,,,,54,Male,White,,,Sepsis due to staphylococcus aureus and serratia marcescens bacteremia,Colonic adenocarcinoma,2024
+New Jersey,NSP,2024,June,2024-06-17,,,,,40,Male,Other,,,"Acute hypoxic respiratory failure, brain cancer",,2024
+New Jersey,BSP,2024,July,2024-07-01,,,,,59,Male,Other,,,Atherosclerotic cardiovascular disease,,2024
+New Jersey,SWSP,2024,July,2024-07-14,,,,,64,Male,White,,,Abdominal wall hematoma complicating percutaneous gastrostomy tube placement,"Hypertensive and atherosclerotic cardiovascular disease, atrial fibrillation on anti-coagulant therapy",2024
+New Jersey,EJSP,2024,July,2024-07-18,,,,,35,Male,Black/African American,,,"Combined toxic effects of fentanyl, risperidone, and trazodone",,2024
+New Jersey,SWSP,2024,August,2024-08-08,,,,,49,Male,Other,,,Metastatic colon cancer,,2024
+New Jersey,NJSP,2024,August,2024-08-08,,,,,76,Male,Black/African American,,,Complications of hypertensive atherosclerotic cardiovascular disease and diabetes mellitus,,2024
+New Jersey,NSP,2024,August,2024-08-18,,,,,78,Male,White,,,Metastatic hepatocellular carcinoma with ascites,"Atherosclerotic cardiovascular disease, chronic renal disease",2024
+New Jersey,SWSP,2024,August,2024-08-21,,,,,22,Male,White,,,"Complications of blunt force injuries of right leg with rhabdomyolysis, acute mrsa septic arthritis, bacterial pneumonia, and septic shock",Atherosclerotic cardiovascular disease,2024
+New Jersey,NSP,2024,August,2024-08-26,,,,,48,Male,White,,,Hanging,,2024
+New Jersey,NJSP,2024,September,2024-09-08,,,,,61,Male,White,,,Congestive heart failure due to hypertensive cardiovascular disease,Class II obesity,2024
+New Jersey,NSP,2024,September,2024-09-27,,,,,26,Male,Black/African American,,,Medical examiner report pending,,2024
+New Jersey,BSP,2024,October,2024-10-12,,,,,41,Male,Black/African American,,,Medical examiner report pending,,2024
+New Jersey,NJSP,2024,October,2024-10-13,,,,,66,Male,Black/African American,,,Congestive heart failure due to hypertensive and atherosclerotic cardiovascular disease,"Atrial fibrillation, hepatitis C, and diabetes mellitus",2024
+New Jersey,NSP,2024,November,2024-11-02,,,,,71,Male,Black/African American,,,Medical examiner report pending,,2024
+New Jersey,NJSP,2024,November,2024-11-28,,,,,59,Male,Other,,,Hanging,,2024
+New Jersey,NSP,2024,December,2024-12-08,,,,,25,Male,Other,,,Medical examiner report pending,,2024
+New Jersey,SWSP,2024,December,2024-12-11,,,,,59,Male,Black/African American,,,Medical examiner report pending,,2024
+New Jersey,NSP,2024,December,2024-12-12,,,,,46,Male,White,,,Medical examiner report pending,,2024
+New Jersey,NSP,2024,December,2024-12-27,,,,,79,Male,Black/African American,,,Medical examiner report pending,,2024
+New Jersey,EJSP,2024,December,2024-12-30,,,,,72,Male,White,,,Complications of hypertensive and atherosclerotic cardiovascular disease and diabetes mellitus,Covid 19 infection,2024

@@ -1,385 +1,385 @@
-State,Year,Month,Death.Date,Facility,ID.No,Sex,Circumstance.General,Location,CMP.ID
-Mississippi,2015,January,2015-01-05,MSP,133795,M,Suicide,MSP,731
-Mississippi,2015,January,2015-01-24,MSP,94206,M,Natural,Greenwood LeFlore,731
-Mississippi,2015,February,2015-02-04,MSP,49110,M,Natural,Greenwood LeFlore,731
-Mississippi,2015,February,2015-02-12,CMCF,75261,M,Natural,River Oaks Hospital,718
-Mississippi,2015,February,2015-02-17,MSP,124990,M,Homicide,MSP,731
-Mississippi,2015,February,2015-02-19,CMCF,128221,M,Natural,CMCF,718
-Mississippi,2015,February,2015-02-24,SMCI,75361,M,Natural,SMCI,734
-Mississippi,2015,February,2015-02-24,CMCF,145060,M,Natural,UMMC,718
-Mississippi,2015,May,2015-05-05,MSP,42735,M,Natural,Greenwood LeFlore,731
-Mississippi,2015,March,2015-03-07,MSP,41138,M,Natural,MSP,731
-Mississippi,2015,March,2015-03-09,CMCF,31700,M,Natural,CMCF,718
-Mississippi,2015,March,2015-03-15,CMCF,77110,M,Natural,CMMC,718
-Mississippi,2015,April,2015-04-02,MCCF,31952,M,Natural,MCCF,730
-Mississippi,2015,April,2015-04-11,MSP,K5468,M,Natural,MSP,731
-Mississippi,2015,April,2015-04-17,MSP,60113,M,Natural,MSP,731
-Mississippi,2015,April,2015-04-18,MSP,124569,M,Natural,MSp,731
-Mississippi,2015,April,2015-04-19,CMCF,189762,M,Natural,CMCF,718
-Mississippi,2015,April,2015-04-29,EMCF,K9001,M,Natural,EMCF,722
-Mississippi,2015,April,2015-04-30,CMCF,33241,M,Natural,CMCF,718
-Mississippi,2015,May,2015-05-04,CMCF,132903,M,Natural,CMCF,718
-Mississippi,2015,May,2015-05-04,CMCF,37145,M,Natural,CMMC,718
-Mississippi,2015,May,2015-05-07,WGCF,74513,M,Natural,WGCF,NA
-Mississippi,2015,May,2015-05-20,WCCF,K2484,M,Natural,Delta Reg. MC,740
-Mississippi,2015,May,2015-05-24,MSP,K1351,M,Natural,MSP,731
-Mississippi,2015,June,2015-06-04,EMCF,46225,M,Natural,Rush ER,722
-Mississippi,2015,June,2015-06-17,MCCF,141086,M,Suicide,MCCF,730
-Mississippi,2015,June,2015-06-26,MSP,194314,M,Suicide,MSP,731
-Mississippi,2015,June,2015-06-27,SMCI,187430,M,Natural,Forrest Gen. Hosp.,734
-Mississippi,2015,July,2015-07-05,MSP,18328,M,Natural,MSP,731
-Mississippi,2015,July,2015-07-07,SMCI,177382,M,Natural,Wesley Med. Center,734
-Mississippi,2015,July,2015-07-09,MSP,39062,M,Natural,UMMC,731
-Mississippi,2015,July,2015-07-16,MSP,L7371,M,Natural,Greenwood LeFlore,731
-Mississippi,2015,July,2015-07-26,MSP,177807,M,Natural,Bolivar Medical Center,731
-Mississippi,2015,August,2015-08-01,EMCF,186216,M,Natural,Jeff Anderson Hospital,722
-Mississippi,2015,August,2015-08-03,MSP,175263,M,Natural,MSP,731
-Mississippi,2015,August,2015-08-21,MSP,78822,M,Natural,Greenwood LeFlore,731
-Mississippi,2015,September,2015-09-21,CMCF,32156,M,Natural,CMMC,718
-Mississippi,2015,October,2015-10-12,MSP,33186,M,Natural,MSP,731
-Mississippi,2015,October,2015-10-19,KEMPER CCF,154452,M,Natural,John Stennis Mem.,727
-Mississippi,2015,November,2015-11-10,MSP,83070,M,Natural,MSP,731
-Mississippi,2015,November,2015-11-11,MSP,103000,M,Natural,MSP,731
-Mississippi,2015,November,2015-11-17,MSP,L7449,M,Natural,UMMC,731
-Mississippi,2015,November,2015-11-21,MSP,44367,M,Natural,MSP,731
-Mississippi,2015,November,2015-11-27,SMCI,K5891,M,Natural,Green County Hospital,734
-Mississippi,2015,December,2015-12-03,MSP,179221,M,Natural,MSP,731
-Mississippi,2015,December,2015-12-16,MSP,154516,M,Natural,AMG Greenwood,731
-Mississippi,2015,December,2015-12-18,MSP,T3995,M,Homicide,MSP,731
-Mississippi,2017,January,2017-01-01,MCCF,125020,M,Natural,MCCF,730
-Mississippi,2017,January,2017-01-03,CMCF,84136,M,Natural,CMCF,718
-Mississippi,2017,January,2017-01-04,SCOTT CSWP,O9950,M,Other,UMMC,NA
-Mississippi,2017,January,2017-01-11,MSP,157330,M,Natural,MSP,731
-Mississippi,2017,January,2017-01-25,MSP,108215,M,Natural,MSP,731
-Mississippi,2017,February,2017-02-02,MSP,R0862,M,Natural,MSP,731
-Mississippi,2017,February,2017-02-03,CMCF,47529,M,Natural,CMCF,718
-Mississippi,2017,February,2017-02-06,MSP,57533,M,Natural,MSP,731
-Mississippi,2017,February,2017-02-12,MSP,41292,M,Natural,MSP,731
-Mississippi,2017,February,2017-02-15,MSP,198089,M,Natural,MSP,731
-Mississippi,2017,February,2017-02-16,YAZOO CCF,184556,M,Natural,Yazoo CCF,1747
-Mississippi,2017,February,2017-02-17,MSP,41003,M,Natural,MSP,731
-Mississippi,2017,February,2017-02-16,SMCI,160855,M,Natural,SMCI,734
-Mississippi,2017,February,2017-02-18,WCCF,L1305,M,Homicide,WCCF,740
-Mississippi,2017,February,2017-02-28,MSP,T0058,M,Natural,MSP,731
-Mississippi,2017,March,2017-03-01,MSP,R3393,M,Suicide,MSP,731
-Mississippi,2017,March,2017-03-06,SMCI,195566,M,Other,Greene Cty Hospital,734
-Mississippi,2017,March,2017-03-16,EMCF,168082,M,Natural,EMCF,722
-Mississippi,2017,March,2017-03-20,MSP,42458,M,Natural,UMMC,731
-Mississippi,2017,April,2017-04-02,MSP,72720,M,Natural,MSP,731
-Mississippi,2017,April,2017-04-04,CMCF,K1935,M,Natural,St. Dominic Hospital,718
-Mississippi,2017,April,2017-04-05,SMCI,14038,M,Natural,George Cty. Hospital,734
-Mississippi,2017,April,2017-04-10,MSP,80424,M,Natural,MSP,731
-Mississippi,2017,April,2017-04-12,MSP,185964,M,Suicide,MSP,731
-Mississippi,2017,April,2017-04-14,MSP,182296,M,Natural,MSP,731
-Mississippi,2017,April,2017-04-13,MSP,25816,M,Natural,Bolivar Med. Ctr.,731
-Mississippi,2017,April,2017-04-21,MSP,185543,M,Natural,Greenwood LeFlore,731
-Mississippi,2017,April,2017-04-26,MSP,33452,M,Natural,MSP,731
-Mississippi,2017,April,2017-04-30,MSP,47706,M,Natural,MSP,731
-Mississippi,2017,May,2017-05-08,WCCF,175050,M,Natural,St. Dominic Hospital,740
-Mississippi,2017,May,2017-05-19,MSP,39581,M,Natural,MSP,731
-Mississippi,2017,June,2017-06-22,MSP,48107,M,Natural,MSP,731
-Mississippi,2017,July,2017-07-01,MSP,K8866,M,Natural,Merit Health NW Reg. MC,731
-Mississippi,2017,July,2017-07-04,MSP,L6115,M,Suicide,MSP,731
-Mississippi,2017,July,2017-07-06,SMCI,129370,M,Other,FGH,734
-Mississippi,2017,July,2017-07-11,CMCF,17465,F,Natural,CMMC,718
-Mississippi,2017,July,2017-07-10,SMCI,163075,M,Natural,FGH,734
-Mississippi,2017,July,2017-07-11,CMCF,141559,F,Suicide,CMCF,718
-Mississippi,2017,July,2017-07-15,CMCF,R6367,M,Natural,CMCF,718
-Mississippi,2017,July,2017-07-21,MSP,72891,M,Natural,CMMC,731
-Mississippi,2017,July,2017-07-30,MSP,30502,M,Natural,MSP,731
-Mississippi,2017,August,2017-08-08,EMCF,108163,M,Natural,Rush Hospital,722
-Mississippi,2017,August,2017-08-18,MSP,106063,M,Natural,MSP,731
-Mississippi,2017,August,2017-08-21,WCCF,M2028,M,Natural,WCCF,740
-Mississippi,2017,August,2017-08-21,CMCF,R9550,F,Natural,CMCF,718
-Mississippi,2017,August,2017-08-22,BCRCF,108144,M,Natural,BCRCF,716
-Mississippi,2017,August,2017-08-25,SMCI,39137,M,Homicide,SMCI,734
-Mississippi,2017,August,2017-08-27,MSP,66477,M,Natural,MSP,731
-Mississippi,2017,August,2017-08-28,SMCI,181877,M,Natural,Promise Hospital,734
-Mississippi,2017,August,2017-08-30,WCCF,L5309,M,Homicide,WCCF,740
-Mississippi,2017,August,2017-08-31,MSP,80657,M,Natural,MSP,731
-Mississippi,2017,September,2017-09-03,MSP,40327,M,Natural,MSP,731
-Mississippi,2017,September,2017-09-13,MSP,62403,M,Natural,MSP,731
-Mississippi,2017,September,2017-09-14,MSP,O2766,M,Natural,MSP,731
-Mississippi,2017,September,2017-09-16,MSP,31246,M,Natural,MSP,731
-Mississippi,2017,September,2017-09-22,MSP,K7869,M,Natural,MSP,731
-Mississippi,2017,September,2017-09-26,MSP,111328,M,Natural,MSP,731
-Mississippi,2017,September,2017-09-28,MSP,76995,M,Natural,MSP,731
-Mississippi,2017,October,2017-10-05,SMCI,T0251,M,Natural,Greene Cty Hospital,734
-Mississippi,2017,October,2017-10-09,MSP,R9109,M,Natural,MSP,731
-Mississippi,2017,October,2017-10-10,MSP,61589,M,Natural,MSP,731
-Mississippi,2017,October,2017-10-12,MSP,138392,M,Suicide,MSP,731
-Mississippi,2017,October,2017-10-20,CMCF,74625,M,Natural,CMMC,718
-Mississippi,2017,November,2017-11-10,CMCF,175539,M,Natural,CMCF,718
-Mississippi,2017,November,2017-11-12,MSP,198466,M,Natural,MSP,731
-Mississippi,2017,November,2017-11-21,MSP,195779,M,Homicide,MSP,731
-Mississippi,2017,November,2017-11-24,SMCI,194503,M,Natural,SMCI,734
-Mississippi,2017,November,2017-11-25,MSP,32731,M,Natural,MSP,731
-Mississippi,2017,November,2017-11-25,CMCF,175539,M,Natural,CMCF,718
-Mississippi,2017,November,2017-11-29,MSP,R8257,M,Natural,MSP,731
-Mississippi,2017,December,2017-12-03,MSP,65416,M,Natural,MSP,731
-Mississippi,2017,December,2017-12-08,MSP,113043,M,Natural,MSP,731
-Mississippi,2017,December,2017-12-08,SMCI,182928,M,Natural,SMCI,734
-Mississippi,2017,December,2017-12-10,MSP,M6055,M,Natural,MSP,731
-Mississippi,2017,December,2017-12-15,SMCI,R8736,M,Natural,FGH,734
-Mississippi,2017,December,2017-12-23,MSP,186503,M,Natural,Greenwood LeFlore,731
-Mississippi,2017,December,2017-12-30,MSP,79861,M,Natural,MSP,731
-Mississippi,2018,January,2018-01-03,MSP,28675,M,Natural,EMCF,731
-Mississippi,2018,January,2018-01-05,MSP,77809,M,Natural,MSP,731
-Mississippi,2018,January,2018-01-06,EMCF,81072,M,Natural,Anderson Med.,722
-Mississippi,2018,January,2018-01-11,MSP,112906,M,Natural,MSP,731
-Mississippi,2018,January,2018-01-14,CMCF,193174,F,Natural,CMMC,718
-Mississippi,2018,January,2018-01-18,EMCF,46730,M,Natural,EMCF,722
-Mississippi,2018,January,2018-01-31,WCCF,44189,M,Suicide,WCCF,740
-Mississippi,2018,February,2018-02-02,CMCF,75985,M,Natural,UMMC,718
-Mississippi,2018,February,2018-02-04,WCCF,131762,M,Homicide,UMMC,740
-Mississippi,2018,February,2018-02-05,MSP,182830,M,Natural,MSP,731
-Mississippi,2018,February,2018-02-14,EMCF,K4193,M,Natural,EMCF,722
-Mississippi,2018,February,2018-02-18,CMCF,201817,M,Natural,CMMC,718
-Mississippi,2018,February,2018-02-28,CMCF,62364,M,Natural,CMMC,718
-Mississippi,2018,March,2018-03-02,MSP,42535,M,Natural,Baptist Hospital,731
-Mississippi,2018,March,2018-03-04,MSP,30500,M,Natural,MSP,731
-Mississippi,2018,March,2018-03-05,MSP,30045,M,Natural,DRMC,731
-Mississippi,2018,March,2018-03-06,EMCF,32260,M,Natural,Rush Hospital,722
-Mississippi,2018,March,2018-03-14,SMCI,R2153,M,Natural,Greene Cty. Hosp.,734
-Mississippi,2018,March,2018-03-15,SMCI,T3732,M,Natural,Greene Cty. Hosp.,734
-Mississippi,2018,March,2018-03-15,MSP,167782,M,Natural,CMMC,731
-Mississippi,2018,March,2018-03-18,MSP,17229,M,Natural,MSP,731
-Mississippi,2018,March,2018-03-20,CMCF,200389,M,Natural,CMMC,718
-Mississippi,2018,March,2018-03-23,MSP,18071,M,Natural,Baptist Mem.,731
-Mississippi,2018,March,2018-03-27,CMCF,199777,F,Natural,Hospice Ministries,718
-Mississippi,2018,March,2018-03-28,GCCF,171035,M,Natural,Providence,723
-Mississippi,2018,April,2018-04-02,MSP,190338,M,Suicide,MSP,731
-Mississippi,2018,April,2018-04-02,MSP,181275,M,Suicide,MSP,731
-Mississippi,2018,April,2018-04-04,MSP,78808,M,Natural,MSP,731
-Mississippi,2018,April,2018-04-09,EMCF,79543,M,Natural,Rush Hospital,722
-Mississippi,2018,April,2018-04-12,CMCF,27038,M,Natural,CMCF,718
-Mississippi,2018,April,2018-04-17,SMCI,171326,M,Natural,Allegiance,734
-Mississippi,2018,April,2018-04-24,SMCI,79480,M,Natural,SMCI,734
-Mississippi,2018,May,2018-05-02,CMCF,31836,M,Natural,Merit Health River,718
-Mississippi,2018,May,2018-05-11,MSP,41417,M,Natural,MSP,731
-Mississippi,2018,May,2018-05-23,CMCF,R5030,F,Natural,Promise,718
-Mississippi,2018,May,2018-05-24,MSP,111354,M,Natural,Baptist Mem.,731
-Mississippi,2018,May,2018-05-28,MSP,90795,M,Natural,MSP,731
-Mississippi,2018,May,2018-05-30,SMCI,26507,M,Homicide,SMCI,734
-Mississippi,2018,June,2018-06-16,SMCI,189106,M,Natural,SMCI,734
-Mississippi,2018,July,2018-07-07,CMCF,142061,M,Natural,CMMC,718
-Mississippi,2018,July,2018-07-23,SMCI,35448,M,Natural,Promise Hospital,734
-Mississippi,2018,July,2018-07-30,CMCF,137678,M,Natural,CMCF,718
-Mississippi,2018,August,2018-08-02,SMCI,10330,M,Natural,Forrest General,734
-Mississippi,2018,August,2018-08-04,SMCI,168834,M,Homicide,SMCI,734
-Mississippi,2018,August,2018-08-04,MSP,87788,M,Natural,MSU Unit 42,731
-Mississippi,2018,August,2018-08-05,CMCF,216431,M,Natural,Merit Health River,718
-Mississippi,2018,August,2018-08-05,SMCI,30678,M,Natural,SMCI,734
-Mississippi,2018,August,2018-08-11,CMCF,37121,M,Natural,Rankin Medical Center,718
-Mississippi,2018,August,2018-08-15,MSP,123900,M,Natural,Alliance Specialty,731
-Mississippi,2018,August,2018-08-18,MSP,O9583,M,Natural,MSU Unit 42,731
-Mississippi,2018,August,2018-08-20,CMCF,F32678,M,Natural,Rankin Medical,718
-Mississippi,2018,August,2018-08-20,WCCF,206000,M,Homicide,WCCF,740
-Mississippi,2018,August,2018-08-24,CMCF,118039,F,Natural,Merit  Health,718
-Mississippi,2018,August,2018-08-27,CMCF,K2230,M,Natural,Merit health River,718
-Mississippi,2018,August,2018-08-28,SMCI,213763,M,Natural,Singing River,734
-Mississippi,2018,August,2018-08-28,MSP,136425,M,Natural,MSU Unit 42,731
-Mississippi,2018,August,2018-08-30,SMCI,42069,M,Natural,Promise Hospital,734
-Mississippi,2018,August,2018-08-31,MSP,79532,M,Natural,Alliance Specialty,731
-Mississippi,2018,September,2018-09-04,CMCF,O6559,M,Natural,CMCF,718
-Mississippi,2018,September,2018-09-10,MSP,41110,M,Natural,Alliance Specialty,731
-Mississippi,2018,September,2018-09-15,MSP,30292,M,Natural,MSU Unit 42,731
-Mississippi,2018,September,2018-09-17,MSP,90569,M,Natural,NA,731
-Mississippi,2018,September,2018-09-18,MCCF,97239,M,Natural,MCCF,730
-Mississippi,2018,October,2018-10-16,MSP,197589,M,Natural,Merit NW,731
-Mississippi,2018,October,2018-10-19,MSP,74146,M,Natural,MSP Unit 42,731
-Mississippi,2018,November,2018-11-06,CMCF,45682,F,Natural,CMCF 720 Clinic,718
-Mississippi,2018,November,2018-11-11,CMCF,60535,M,Natural,Merit Health,718
-Mississippi,2018,November,2018-11-15,CMCF,44770,M,Natural,Merit Health,718
-Mississippi,2018,November,2018-11-16,CMCF,L3993,M,Natural,Merit Health,718
-Mississippi,2018,November,2018-11-23,CMCF,47756,M,Natural,Merit Health,718
-Mississippi,2018,November,2018-11-23,MSP,48928,M,Natural,MSP Unit 42,731
-Mississippi,2018,November,2018-11-29,MSP,K7577,M,Natural,Allegiance,731
-Mississippi,2018,December,2018-12-04,CMCF,26675,M,Natural,CMCF 720 Clinic,718
-Mississippi,2018,December,2018-12-04,CMCF,211577,M,Suicide,CMCF 720 Clinic,718
-Mississippi,2018,December,2018-12-11,CMCF,K4041,F,Natural,River Region,718
-Mississippi,2018,December,2018-12-21,MSP,133009,M,Natural,Greenwood,731
-Mississippi,2018,December,2018-12-28,MSP,205771,M,Suicide,MSP Unit 29K,731
-Mississippi,2019,January,2019-01-15,CMCF,63139,M,Natural,CMCF,718
-Mississippi,2019,January,2019-01-19,EMCF,K8192,M,Suicide,Anderson RMC,722
-Mississippi,2019,January,2019-01-31,MCCF,44506,M,Natural,MCCF,730
-Mississippi,2019,February,2019-02-09,CMCF,30461,M,Natural,Merit Health River,718
-Mississippi,2019,February,2019-02-24,CMCF,L2818,M,Natural,CMMC,718
-Mississippi,2019,March,2019-03-02,MADISON CWC,R6865,M,Natural,NA,NA
-Mississippi,2019,March,2019-03-11,MSP,90108,M,Natural,MSP,731
-Mississippi,2019,March,2019-03-12,MSP,O4569,M,Natural,MSP,731
-Mississippi,2019,March,2019-03-22,SMCI,39565,M,Natural,SMCI,734
-Mississippi,2019,March,2019-03-25,MSP,79276,M,Natural,MSP,731
-Mississippi,2019,March,2019-03-28,MSP,215838,M,Natural,MSP,731
-Mississippi,2019,March,2019-03-31,MSP,44187,M,Natural,MSP,731
-Mississippi,2019,April,2019-04-01,MSP,55684,M,Natural,MSP,731
-Mississippi,2019,April,2019-04-02,MSP,42239,M,Natural,MSP,731
-Mississippi,2019,April,2019-04-04,MSP,8108,M,Suicide,MSP,731
-Mississippi,2019,April,2019-04-10,SMCI,207735,M,Natural,FGH,734
-Mississippi,2019,April,2019-04-13,MSP,190693,M,Natural,MSP,731
-Mississippi,2019,April,2019-04-21,MSP,25582,M,Natural,MSP,731
-Mississippi,2019,April,2019-04-26,SMCI,119017,M,Natural,SMCI,734
-Mississippi,2019,May,2019-05-02,CMCF,19792,M,Natural,CMCF,718
-Mississippi,2019,May,2019-05-02,CMCF,164371,M,Natural,UMMC,718
-Mississippi,2019,May,2019-05-05,MSP,39729,M,Suicide,MSP,731
-Mississippi,2019,May,2019-05-06,CMCF,K0691,M,Natural,CMCF,718
-Mississippi,2019,May,2019-05-16,MSP,26259,M,Natural,MSP,731
-Mississippi,2019,May,2019-05-24,SMCI,20219,M,Natural,SMCI,734
-Mississippi,2019,June,2019-06-01,CMCF,33526,M,Natural,Merit Health,718
-Mississippi,2019,June,2019-06-04,CMCF,L1674,M,Natural,Merit Health,718
-Mississippi,2019,June,2019-06-04,MSP,73078,M,Natural,MSP,731
-Mississippi,2019,June,2019-06-06,WCCF,46293,M,Suicide,WCCF,740
-Mississippi,2019,June,2019-06-06,CMCF,176337,M,Natural,CMCF,718
-Mississippi,2019,June,2019-06-07,CMCF,19078,M,Natural,CMCF,718
-Mississippi,2019,June,2019-06-10,CMCF,11457,M,Natural,CMCF,718
-Mississippi,2019,June,2019-06-20,EMCF,209917,M,Natural,Rush Hospital,722
-Mississippi,2019,June,2019-06-20,GCCF,94141,M,Natural,George CCF,723
-Mississippi,2019,July,2019-07-06,MSP,114697,M,Suicide,MSP,731
-Mississippi,2019,July,2019-07-07,CMCF,186291,F,Natural,CMCF,718
-Mississippi,2019,July,2019-07-09,MSP,K1536,M,Natural,MSP,731
-Mississippi,2019,July,2019-07-10,MSP,76560,M,Natural,MSP,731
-Mississippi,2019,July,2019-07-10,MSP,119644,M,Homicide,MSP,731
-Mississippi,2019,July,2019-07-13,MSP,111487,M,Natural,MSP,731
-Mississippi,2019,July,2019-07-16,MSP,41165,M,Natural,MSP,731
-Mississippi,2019,July,2019-07-18,MSP,174262,M,Natural,MSP,731
-Mississippi,2019,July,2019-07-31,CMCF,38918,M,Natural,CMCF,718
-Mississippi,2019,July,2019-07-31,CMCF,196328,M,Natural,CMCF,718
-Mississippi,2019,August,2019-08-05,MSP,167937,M,Suicide,MSP,731
-Mississippi,2019,August,2019-08-06,CMCF,100821,F,Natural,CMMC,718
-Mississippi,2019,August,2019-08-13,CMCF,29064,F,Natural,UMMC,718
-Mississippi,2019,August,2019-08-25,MCCF,179864,M,Suicide,MCCF,730
-Mississippi,2019,September,2019-09-03,MSP,K3789,M,Natural,MSP,731
-Mississippi,2019,September,2019-09-07,MSP,49530,M,Natural,MSP,731
-Mississippi,2019,September,2019-09-10,WCCF,K3142,M,Natural,WCCF,740
-Mississippi,2019,September,2019-09-10,CMCF,45540,M,Natural,Merit Health Rankin,718
-Mississippi,2019,September,2019-09-22,MSP,102210,M,Natural,MSP,731
-Mississippi,2019,September,2019-09-25,MSP,34858,M,Natural,MSP,731
-Mississippi,2019,October,2019-10-07,MSP,R3852,M,Natural,UMMC,731
-Mississippi,2019,October,2019-10-15,MSP,132165,M,Natural,MSP,731
-Mississippi,2019,October,2019-10-28,ISSA,K3386,M,Natural,Sharkey-Issaquena Hospital,725
-Mississippi,2019,October,2019-10-29,CMCF,134245,M,Suicide,CMCF,718
-Mississippi,2019,November,2019-11-06,CMCF,35426,M,Natural,CMCF,718
-Mississippi,2019,November,2019-11-12,MSP,152814,M,Homicide,MSP,731
-Mississippi,2019,November,2019-11-14,MSP,57484,M,Natural,MSP,731
-Mississippi,2019,November,2019-11-19,MSP,191071,M,Homicide,MSP,731
-Mississippi,2019,November,2019-11-19,MSP,140989,M,Suicide,MSP,731
-Mississippi,2019,November,2019-11-20,EMCF,M1936,M,Suicide,EMCF,722
-Mississippi,2019,November,2019-11-21,CMCF,R5135,M,Natural,CMMC,718
-Mississippi,2019,December,2019-12-04,DELTA TVC,K5339,M,Suicide,Delta TVC,720
-Mississippi,2019,December,2019-12-08,MSP,44774,M,Natural,MSP,731
-Mississippi,2019,December,2019-12-08,MSP,103453,M,Suicide,MSP,731
-Mississippi,2019,December,2019-12-08,CMCF,53566,M,Natural,CMCF,718
-Mississippi,2019,December,2019-12-09,CMCF,116093,M,Natural,CMCF,718
-Mississippi,2019,December,2019-12-12,CMCF,214106,F,Natural,Merit Health,718
-Mississippi,2019,February,2020-02-20,MSP,193750,M,Natural,Allegiance,731
-Mississippi,2019,December,2019-12-27,CMCF,186582,M,Natural,Baptist Hospital,718
-Mississippi,2019,December,2019-12-29,SMCI,R5089,M,Homicide,SMCI,734
-Mississippi,2020,January,2020-01-01,MSP,167898,M,Homicide,MSP,731
-Mississippi,2020,January,2020-01-02,CCRCF,206298,M,Homicide,CCRCF,719
-Mississippi,2020,January,2020-01-02,MSP,156185,M,Homicide,MSP,731
-Mississippi,2020,January,2020-01-03,MSP,179470,M,Homicide,MSP,731
-Mississippi,2020,January,2020-01-08,MSP,K4561,M,Natural,MH Clarksdale,731
-Mississippi,2020,January,2020-01-18,MSP,175104,M,Suicide,MSP,731
-Mississippi,2020,January,2020-01-21,MSP,103739,M,Homicide,MSP,731
-Mississippi,2020,January,2020-01-21,MSP,111173,M,Homicide,MSP,731
-Mississippi,2020,January,2020-01-22,MSP,193704,M,Suicide,MSP,731
-Mississippi,2020,January,2020-01-25,MCCF,163151,M,Natural,MCCF,730
-Mississippi,2020,January,2020-01-26,MSP,171262,M,Suicide,MSP,731
-Mississippi,2020,January,2020-01-28,KCCF,223305,M,Natural,John C. Stennis ER,727
-Mississippi,2020,January,2020-01-30,MCCF,46190,M,Natural,MCCF,730
-Mississippi,2020,February,2020-02-01,WCCF,118130,M,Accident,WCCF,740
-Mississippi,2020,February,2020-02-10,MSP,56962,M,Natural,MSP,731
-Mississippi,2020,February,2020-02-11,WALTHALL CJ,56519,M,Natural,Walthall County Gen.,NA
-Mississippi,2020,February,2020-02-15,CMCF,21391,M,Natural,CMMC,718
-Mississippi,2020,February,2020-02-16,CMCF,55271,M,Natural,CMCF,718
-Mississippi,2020,February,2020-02-26,CMCM,221215,M,Natural,Merit Health Rankin,718
-Mississippi,2020,February,2020-02-27,MSP,139210,M,Natural,MSP #42,731
-Mississippi,2020,February,2020-02-28,MSP,K5328,M,Natural,MSP#42,731
-Mississippi,2020,March,2020-03-02,CMCF,r4475,F,Natural,Baptist Medical Center,718
-Mississippi,2020,March,2020-03-04,CMCF,75296,M,Natural,CMMC,718
-Mississippi,2020,March,2020-03-04,MSP,R1031,M,Natural,MSP,731
-Mississippi,2020,March,2020-03-07,MSP,94193,M,Natural,Baptist MC Oxford,731
-Mississippi,2020,March,2020-03-09,CMCF,168115,M,Natural,CMCF,718
-Mississippi,2020,March,2020-03-12,MSP,120320,M,Natural,MSP,731
-Mississippi,2020,March,2020-03-19,MSP,145403,M,Natural,MSP,731
-Mississippi,2020,March,2020-03-21,SMCI,97029,M,Suicide,SMCI,734
-Mississippi,2020,March,2020-03-31,SMCI,62197,M,Natural,SMCI,734
-Mississippi,2020,April,2020-04-01,WCCF,85274,M,Homicide,UMMC,740
-Mississippi,2020,April,2020-04-06,CMCF,159107,F,Natural,CMMC,718
-Mississippi,2020,April,2020-04-11,MSP,30516,M,Natural,Delta Regional MC,731
-Mississippi,2020,April,2020-04-18,MSP,N1980,M,Natural,MSP#42,731
-Mississippi,2020,April,2020-04-23,MSP,34228,M,Natural,MSP#42,731
-Mississippi,2020,April,2020-04-30,CMCF,130249,M,Natural,CMMC,718
-Mississippi,2020,May,2020-05-02,SMCI,137960,M,Natural,Green Cty. Hospital,734
-Mississippi,2020,May,2020-05-04,MSP,42047,M,Natural,Delta Regional MC,731
-Mississippi,2020,May,2020-05-11,MSP,179526,M,Natural,MSP,731
-Mississippi,2020,May,2020-05-12,MSP,145597,M,Natural,MSP,731
-Mississippi,2020,May,2020-05-16,CMCF,50131,M,Natural,CMMC,718
-Mississippi,2020,May,2020-05-18,CMCF,117043,M,Natural,River Region MC,718
-Mississippi,2020,May,2020-05-30,SMCI,O4466,M,Natural,SMCI,734
-Mississippi,2020,June,2020-06-01,MSP,61845,M,Natural,Delta Regional MC,731
-Mississippi,2020,June,2020-06-06,MCMCF,33279,M,Natural,Merit Health Central,718
-Mississippi,2020,June,2020-06-07,CMCF,190938,F,Natural,CMMC,718
-Mississippi,2020,June,2020-06-15,WCCF,147949,M,Natural,WCCF,740
-Mississippi,2020,June,2020-06-19,CMRCF,210636,M,Suicide,CMRCF,717
-Mississippi,2020,June,2020-06-27,CMCF,R8965,M,Natural,CMMC,718
-Mississippi,2020,July,2020-07-01,CMCF,R0283,M,Natural,CMCF,718
-Mississippi,2020,July,2020-07-08,MSP,31948,M,Natural,MSP,731
-Mississippi,2020,July,2020-07-12,MSP,44870,M,Natural,Allegiance Specialty,731
-Mississippi,2020,July,2020-07-14,TCCF,177524,M,Suicide,TCCF,738
-Mississippi,2020,July,2020-07-22,SMCI,142112,M,Natural,Greene County Hospital,734
-Mississippi,2020,August,2020-08-02,SMCI,T2244,M,Natural,Allegiance Specialty,734
-Mississippi,2020,August,2020-08-07,CMCF,31892,M,Natural,Merit Health Rankin,718
-Mississippi,2020,August,2020-08-07,MSP,45748,M,Natural,MSP,731
-Mississippi,2020,August,2020-08-08,MSP,56747,M,Natural,MSP #42,731
-Mississippi,2020,August,2020-08-08,GEORGE CCF,217254,M,Natural,George County ER,723
-Mississippi,2020,August,2020-08-14,MSP,136799,M,Natural,MSP #42,731
-Mississippi,2020,August,2020-08-14,TCCT,168408,M,Homicide,TCCF,738
-Mississippi,2020,August,2020-08-15,MSP,T0274,M,Natural,Merit Health Central,731
-Mississippi,2020,August,2020-08-16,MSP,193526,M,Natural,NW MS Regional MC,731
-Mississippi,2020,August,2020-08-19,CMCF,156315,M,Natural,Merit Health Central,718
-Mississippi,2020,August,2020-08-19,MSP,148476,M,Natural,MSP#42,731
-Mississippi,2020,August,2020-08-19,MSP,45026,M,Natural,MSP#42,731
-Mississippi,2020,August,2020-08-19,SMCI,K9289,M,Natural,Greene County Hospital,734
-Mississippi,2020,August,2020-08-24,CMCF,172033,M,Natural,CMMC,718
-Mississippi,2020,August,2020-08-24,CMCF,158386,M,Natural,CMMC,718
-Mississippi,2020,August,2020-08-24,CMCF,N4635,M,Natural,CMMC,718
-Mississippi,2020,August,2020-08-25,CMCF,56705,M,Natural,CMMC,718
-Mississippi,2020,August,2020-08-30,MSP,K3887,M,Natural,MSP#42,731
-Mississippi,2020,September,2020-09-02,CMCF,178641,M,Natural,Merit Health Rankin,718
-Mississippi,2020,September,2020-09-06,CMCF,44482,M,Natural,CMMC,718
-Mississippi,2020,September,2020-09-08,CMCF,L4500,M,Natural,CMMC,718
-Mississippi,2020,September,2020-09-14,CMCF,L4658,M,Natural,CMMC,718
-Mississippi,2020,September,2020-09-19,FED. CUST.,K3739,M,Natural,MSP,NA
-Mississippi,2020,September,2020-09-20,MSP,32015,M,Natural,MSP #42,731
-Mississippi,2020,September,2020-09-22,MSP,101223,M,Natural,NW MS Reg. Med.Ctr.,731
-Mississippi,2020,September,2020-09-25,MSP,145446,M,Natural,MSP #42,731
-Mississippi,2020,September,2020-09-25,EMCF,78680,M,Natural,St. Dominic Hospital,722
-Mississippi,2020,October,2020-10-04,MSP,141851,M,Homicide,MSP,731
-Mississippi,2020,October,2020-10-06,CMCF,221264,M,Natural,CMMC,718
-Mississippi,2020,October,2020-10-12,CMCF,K6264,F,Natural,CMMC,718
-Mississippi,2020,October,2020-10-16,SMCI,147194,M,Natural,Greene County Hospital,734
-Mississippi,2020,October,2020-10-16,CMCF,112301,M,Natural,UMMC,718
-Mississippi,2020,October,2020-10-20,CMCF,31191,M,Natural,CMMC,718
-Mississippi,2020,October,2020-10-20,CMCF,K2363,M,Natural,CMMC,718
-Mississippi,2020,October,2020-10-22,MSP,179145,M,Natural,MSP,731
-Mississippi,2020,October,2020-10-23,CMCF,81826,M,Natural,Allegiance Specialty,718
-Mississippi,2020,October,2020-10-25,MSP,187462,M,Suicide,MSP,731
-Mississippi,2020,October,2020-10-27,CMCF,179878,M,Natural,CMMC,718
-Mississippi,2020,November,2020-11-05,CMCF,K6712,M,Natural,CMMC,718
-Mississippi,2020,November,2020-11-05,GCCF,213859,M,Natural,GCCF,723
-Mississippi,2020,November,2020-11-14,MSP,202117,M,Natural,Forrest General Hospital,731
-Mississippi,2020,November,2020-11-25,MSP,159169,M,Undetermined,MSP #42,731
-Mississippi,2020,December,2020-12-01,SMCI,N5750,M,Undetermined,Wesley Medical Center,734
-Mississippi,2020,December,2020-12-09,MSP,52009,M,Undetermined,MSP #42,731
-Mississippi,2020,December,2020-12-10,ALCORN CJ,204637,M,Undetermined,Alcorn CJ,715
-Mississippi,2020,December,2020-12-16,SMCI,74666,M,Undetermined,SMCI,734
-Mississippi,2020,December,2020-12-18,MSP,R1489,M,Undetermined,MSP,731
-Mississippi,2020,December,2020-12-19,MSP,44851,M,Undetermined,Delta Regional MC,731
-Mississippi,2020,December,2020-12-21,EMCF,49601,M,Undetermined,EMCF,722
-Mississippi,2020,December,2020-12-20,EMCF,80271,M,Undetermined,EMCF,722
-Mississippi,2020,December,2020-12-21,EMCF,49601,M,Undetermined,EMCF,722
-Mississippi,2020,December,2020-12-22,CMCF,123334,M,Undetermined,CMCF,718
-Mississippi,2020,December,2020-12-25,SMCI,R2428,M,Undetermined,SMCi,734
-Mississippi,2020,December,2020-12-26,MSP,153558,M,Undetermined,MSP#42,731
-Mississippi,2020,December,2020-12-28,EMCF,103828,M,Undetermined,EMCF,722
+State,Facility,Year,Month,Death.Date,First.Name,Last.Name,Full.Name,ID.No,Death.Age,Sex,Race,Ethnicity,Circumstance.General,Circumstance.Specific,Circumstance.Other
+Mississippi,MSP,2015,January,2015-01-05,,,,133795,,M,,,Suicide,,
+Mississippi,MSP,2015,January,2015-01-24,,,,94206,,M,,,Natural,,
+Mississippi,MSP,2015,February,2015-02-04,,,,49110,,M,,,Natural,,
+Mississippi,CMCF,2015,February,2015-02-12,,,,75261,,M,,,Natural,,
+Mississippi,MSP,2015,February,2015-02-17,,,,124990,,M,,,Homicide,,
+Mississippi,CMCF,2015,February,2015-02-19,,,,128221,,M,,,Natural,,
+Mississippi,SMCI,2015,February,2015-02-24,,,,75361,,M,,,Natural,,
+Mississippi,CMCF,2015,February,2015-02-24,,,,145060,,M,,,Natural,,
+Mississippi,MSP,2015,May,2015-05-05,,,,42735,,M,,,Natural,,
+Mississippi,MSP,2015,March,2015-03-07,,,,41138,,M,,,Natural,,
+Mississippi,CMCF,2015,March,2015-03-09,,,,31700,,M,,,Natural,,
+Mississippi,CMCF,2015,March,2015-03-15,,,,77110,,M,,,Natural,,
+Mississippi,MCCF,2015,April,2015-04-02,,,,31952,,M,,,Natural,,
+Mississippi,MSP,2015,April,2015-04-11,,,,K5468,,M,,,Natural,,
+Mississippi,MSP,2015,April,2015-04-17,,,,60113,,M,,,Natural,,
+Mississippi,MSP,2015,April,2015-04-18,,,,124569,,M,,,Natural,,
+Mississippi,CMCF,2015,April,2015-04-19,,,,189762,,M,,,Natural,,
+Mississippi,EMCF,2015,April,2015-04-29,,,,K9001,,M,,,Natural,,
+Mississippi,CMCF,2015,April,2015-04-30,,,,33241,,M,,,Natural,,
+Mississippi,CMCF,2015,May,2015-05-04,,,,132903,,M,,,Natural,,
+Mississippi,CMCF,2015,May,2015-05-04,,,,37145,,M,,,Natural,,
+Mississippi,WGCF,2015,May,2015-05-07,,,,74513,,M,,,Natural,,
+Mississippi,WCCF,2015,May,2015-05-20,,,,K2484,,M,,,Natural,,
+Mississippi,MSP,2015,May,2015-05-24,,,,K1351,,M,,,Natural,,
+Mississippi,EMCF,2015,June,2015-06-04,,,,46225,,M,,,Natural,,
+Mississippi,MCCF,2015,June,2015-06-17,,,,141086,,M,,,Suicide,,
+Mississippi,MSP,2015,June,2015-06-26,,,,194314,,M,,,Suicide,,
+Mississippi,SMCI,2015,June,2015-06-27,,,,187430,,M,,,Natural,,
+Mississippi,MSP,2015,July,2015-07-05,,,,18328,,M,,,Natural,,
+Mississippi,SMCI,2015,July,2015-07-07,,,,177382,,M,,,Natural,,
+Mississippi,MSP,2015,July,2015-07-09,,,,39062,,M,,,Natural,,
+Mississippi,MSP,2015,July,2015-07-16,,,,L7371,,M,,,Natural,,
+Mississippi,MSP,2015,July,2015-07-26,,,,177807,,M,,,Natural,,
+Mississippi,EMCF,2015,August,2015-08-01,,,,186216,,M,,,Natural,,
+Mississippi,MSP,2015,August,2015-08-03,,,,175263,,M,,,Natural,,
+Mississippi,MSP,2015,August,2015-08-21,,,,78822,,M,,,Natural,,
+Mississippi,CMCF,2015,September,2015-09-21,,,,32156,,M,,,Natural,,
+Mississippi,MSP,2015,October,2015-10-12,,,,33186,,M,,,Natural,,
+Mississippi,KEMPER CCF,2015,October,2015-10-19,,,,154452,,M,,,Natural,,
+Mississippi,MSP,2015,November,2015-11-10,,,,83070,,M,,,Natural,,
+Mississippi,MSP,2015,November,2015-11-11,,,,103000,,M,,,Natural,,
+Mississippi,MSP,2015,November,2015-11-17,,,,L7449,,M,,,Natural,,
+Mississippi,MSP,2015,November,2015-11-21,,,,44367,,M,,,Natural,,
+Mississippi,SMCI,2015,November,2015-11-27,,,,K5891,,M,,,Natural,,
+Mississippi,MSP,2015,December,2015-12-03,,,,179221,,M,,,Natural,,
+Mississippi,MSP,2015,December,2015-12-16,,,,154516,,M,,,Natural,,
+Mississippi,MSP,2015,December,2015-12-18,,,,T3995,,M,,,Homicide,,
+Mississippi,MCCF,2017,January,2017-01-01,,,,125020,,M,,,Natural,,
+Mississippi,CMCF,2017,January,2017-01-03,,,,84136,,M,,,Natural,,
+Mississippi,SCOTT CSWP,2017,January,2017-01-04,,,,O9950,,M,,,Other,,
+Mississippi,MSP,2017,January,2017-01-11,,,,157330,,M,,,Natural,,
+Mississippi,MSP,2017,January,2017-01-25,,,,108215,,M,,,Natural,,
+Mississippi,MSP,2017,February,2017-02-02,,,,R0862,,M,,,Natural,,
+Mississippi,CMCF,2017,February,2017-02-03,,,,47529,,M,,,Natural,,
+Mississippi,MSP,2017,February,2017-02-06,,,,57533,,M,,,Natural,,
+Mississippi,MSP,2017,February,2017-02-12,,,,41292,,M,,,Natural,,
+Mississippi,MSP,2017,February,2017-02-15,,,,198089,,M,,,Natural,,
+Mississippi,YAZOO CCF,2017,February,2017-02-16,,,,184556,,M,,,Natural,,
+Mississippi,MSP,2017,February,2017-02-17,,,,41003,,M,,,Natural,,
+Mississippi,SMCI,2017,February,2017-02-16,,,,160855,,M,,,Natural,,
+Mississippi,WCCF,2017,February,2017-02-18,,,,L1305,,M,,,Homicide,,
+Mississippi,MSP,2017,February,2017-02-28,,,,T0058,,M,,,Natural,,
+Mississippi,MSP,2017,March,2017-03-01,,,,R3393,,M,,,Suicide,,
+Mississippi,SMCI,2017,March,2017-03-06,,,,195566,,M,,,Other,,
+Mississippi,EMCF,2017,March,2017-03-16,,,,168082,,M,,,Natural,,
+Mississippi,MSP,2017,March,2017-03-20,,,,42458,,M,,,Natural,,
+Mississippi,MSP,2017,April,2017-04-02,,,,72720,,M,,,Natural,,
+Mississippi,CMCF,2017,April,2017-04-04,,,,K1935,,M,,,Natural,,
+Mississippi,SMCI,2017,April,2017-04-05,,,,14038,,M,,,Natural,,
+Mississippi,MSP,2017,April,2017-04-10,,,,80424,,M,,,Natural,,
+Mississippi,MSP,2017,April,2017-04-12,,,,185964,,M,,,Suicide,,
+Mississippi,MSP,2017,April,2017-04-14,,,,182296,,M,,,Natural,,
+Mississippi,MSP,2017,April,2017-04-13,,,,25816,,M,,,Natural,,
+Mississippi,MSP,2017,April,2017-04-21,,,,185543,,M,,,Natural,,
+Mississippi,MSP,2017,April,2017-04-26,,,,33452,,M,,,Natural,,
+Mississippi,MSP,2017,April,2017-04-30,,,,47706,,M,,,Natural,,
+Mississippi,WCCF,2017,May,2017-05-08,,,,175050,,M,,,Natural,,
+Mississippi,MSP,2017,May,2017-05-19,,,,39581,,M,,,Natural,,
+Mississippi,MSP,2017,June,2017-06-22,,,,48107,,M,,,Natural,,
+Mississippi,MSP,2017,July,2017-07-01,,,,K8866,,M,,,Natural,,
+Mississippi,MSP,2017,July,2017-07-04,,,,L6115,,M,,,Suicide,,
+Mississippi,SMCI,2017,July,2017-07-06,,,,129370,,M,,,Other,,
+Mississippi,CMCF,2017,July,2017-07-11,,,,17465,,F,,,Natural,,
+Mississippi,SMCI,2017,July,2017-07-10,,,,163075,,M,,,Natural,,
+Mississippi,CMCF,2017,July,2017-07-11,,,,141559,,F,,,Suicide,,
+Mississippi,CMCF,2017,July,2017-07-15,,,,R6367,,M,,,Natural,,
+Mississippi,MSP,2017,July,2017-07-21,,,,72891,,M,,,Natural,,
+Mississippi,MSP,2017,July,2017-07-30,,,,30502,,M,,,Natural,,
+Mississippi,EMCF,2017,August,2017-08-08,,,,108163,,M,,,Natural,,
+Mississippi,MSP,2017,August,2017-08-18,,,,106063,,M,,,Natural,,
+Mississippi,WCCF,2017,August,2017-08-21,,,,M2028,,M,,,Natural,,
+Mississippi,CMCF,2017,August,2017-08-21,,,,R9550,,F,,,Natural,,
+Mississippi,BCRCF,2017,August,2017-08-22,,,,108144,,M,,,Natural,,
+Mississippi,SMCI,2017,August,2017-08-25,,,,39137,,M,,,Homicide,,
+Mississippi,MSP,2017,August,2017-08-27,,,,66477,,M,,,Natural,,
+Mississippi,SMCI,2017,August,2017-08-28,,,,181877,,M,,,Natural,,
+Mississippi,WCCF,2017,August,2017-08-30,,,,L5309,,M,,,Homicide,,
+Mississippi,MSP,2017,August,2017-08-31,,,,80657,,M,,,Natural,,
+Mississippi,MSP,2017,September,2017-09-03,,,,40327,,M,,,Natural,,
+Mississippi,MSP,2017,September,2017-09-13,,,,62403,,M,,,Natural,,
+Mississippi,MSP,2017,September,2017-09-14,,,,O2766,,M,,,Natural,,
+Mississippi,MSP,2017,September,2017-09-16,,,,31246,,M,,,Natural,,
+Mississippi,MSP,2017,September,2017-09-22,,,,K7869,,M,,,Natural,,
+Mississippi,MSP,2017,September,2017-09-26,,,,111328,,M,,,Natural,,
+Mississippi,MSP,2017,September,2017-09-28,,,,76995,,M,,,Natural,,
+Mississippi,SMCI,2017,October,2017-10-05,,,,T0251,,M,,,Natural,,
+Mississippi,MSP,2017,October,2017-10-09,,,,R9109,,M,,,Natural,,
+Mississippi,MSP,2017,October,2017-10-10,,,,61589,,M,,,Natural,,
+Mississippi,MSP,2017,October,2017-10-12,,,,138392,,M,,,Suicide,,
+Mississippi,CMCF,2017,October,2017-10-20,,,,74625,,M,,,Natural,,
+Mississippi,CMCF,2017,November,2017-11-10,,,,175539,,M,,,Natural,,
+Mississippi,MSP,2017,November,2017-11-12,,,,198466,,M,,,Natural,,
+Mississippi,MSP,2017,November,2017-11-21,,,,195779,,M,,,Homicide,,
+Mississippi,SMCI,2017,November,2017-11-24,,,,194503,,M,,,Natural,,
+Mississippi,MSP,2017,November,2017-11-25,,,,32731,,M,,,Natural,,
+Mississippi,CMCF,2017,November,2017-11-25,,,,175539,,M,,,Natural,,
+Mississippi,MSP,2017,November,2017-11-29,,,,R8257,,M,,,Natural,,
+Mississippi,MSP,2017,December,2017-12-03,,,,65416,,M,,,Natural,,
+Mississippi,MSP,2017,December,2017-12-08,,,,113043,,M,,,Natural,,
+Mississippi,SMCI,2017,December,2017-12-08,,,,182928,,M,,,Natural,,
+Mississippi,MSP,2017,December,2017-12-10,,,,M6055,,M,,,Natural,,
+Mississippi,SMCI,2017,December,2017-12-15,,,,R8736,,M,,,Natural,,
+Mississippi,MSP,2017,December,2017-12-23,,,,186503,,M,,,Natural,,
+Mississippi,MSP,2017,December,2017-12-30,,,,79861,,M,,,Natural,,
+Mississippi,MSP,2018,January,2018-01-03,,,,28675,,M,,,Natural,,
+Mississippi,MSP,2018,January,2018-01-05,,,,77809,,M,,,Natural,,
+Mississippi,EMCF,2018,January,2018-01-06,,,,81072,,M,,,Natural,,
+Mississippi,MSP,2018,January,2018-01-11,,,,112906,,M,,,Natural,,
+Mississippi,CMCF,2018,January,2018-01-14,,,,193174,,F,,,Natural,,
+Mississippi,EMCF,2018,January,2018-01-18,,,,46730,,M,,,Natural,,
+Mississippi,WCCF,2018,January,2018-01-31,,,,44189,,M,,,Suicide,,
+Mississippi,CMCF,2018,February,2018-02-02,,,,75985,,M,,,Natural,,
+Mississippi,WCCF,2018,February,2018-02-04,,,,131762,,M,,,Homicide,,
+Mississippi,MSP,2018,February,2018-02-05,,,,182830,,M,,,Natural,,
+Mississippi,EMCF,2018,February,2018-02-14,,,,K4193,,M,,,Natural,,
+Mississippi,CMCF,2018,February,2018-02-18,,,,201817,,M,,,Natural,,
+Mississippi,CMCF,2018,February,2018-02-28,,,,62364,,M,,,Natural,,
+Mississippi,MSP,2018,March,2018-03-02,,,,42535,,M,,,Natural,,
+Mississippi,MSP,2018,March,2018-03-04,,,,30500,,M,,,Natural,,
+Mississippi,MSP,2018,March,2018-03-05,,,,30045,,M,,,Natural,,
+Mississippi,EMCF,2018,March,2018-03-06,,,,32260,,M,,,Natural,,
+Mississippi,SMCI,2018,March,2018-03-14,,,,R2153,,M,,,Natural,,
+Mississippi,SMCI,2018,March,2018-03-15,,,,T3732,,M,,,Natural,,
+Mississippi,MSP,2018,March,2018-03-15,,,,167782,,M,,,Natural,,
+Mississippi,MSP,2018,March,2018-03-18,,,,17229,,M,,,Natural,,
+Mississippi,CMCF,2018,March,2018-03-20,,,,200389,,M,,,Natural,,
+Mississippi,MSP,2018,March,2018-03-23,,,,18071,,M,,,Natural,,
+Mississippi,CMCF,2018,March,2018-03-27,,,,199777,,F,,,Natural,,
+Mississippi,GCCF,2018,March,2018-03-28,,,,171035,,M,,,Natural,,
+Mississippi,MSP,2018,April,2018-04-02,,,,190338,,M,,,Suicide,,
+Mississippi,MSP,2018,April,2018-04-02,,,,181275,,M,,,Suicide,,
+Mississippi,MSP,2018,April,2018-04-04,,,,78808,,M,,,Natural,,
+Mississippi,EMCF,2018,April,2018-04-09,,,,79543,,M,,,Natural,,
+Mississippi,CMCF,2018,April,2018-04-12,,,,27038,,M,,,Natural,,
+Mississippi,SMCI,2018,April,2018-04-17,,,,171326,,M,,,Natural,,
+Mississippi,SMCI,2018,April,2018-04-24,,,,79480,,M,,,Natural,,
+Mississippi,CMCF,2018,May,2018-05-02,,,,31836,,M,,,Natural,,
+Mississippi,MSP,2018,May,2018-05-11,,,,41417,,M,,,Natural,,
+Mississippi,CMCF,2018,May,2018-05-23,,,,R5030,,F,,,Natural,,
+Mississippi,MSP,2018,May,2018-05-24,,,,111354,,M,,,Natural,,
+Mississippi,MSP,2018,May,2018-05-28,,,,90795,,M,,,Natural,,
+Mississippi,SMCI,2018,May,2018-05-30,,,,26507,,M,,,Homicide,,
+Mississippi,SMCI,2018,June,2018-06-16,,,,189106,,M,,,Natural,,
+Mississippi,CMCF,2018,July,2018-07-07,,,,142061,,M,,,Natural,,
+Mississippi,SMCI,2018,July,2018-07-23,,,,35448,,M,,,Natural,,
+Mississippi,CMCF,2018,July,2018-07-30,,,,137678,,M,,,Natural,,
+Mississippi,SMCI,2018,August,2018-08-02,,,,10330,,M,,,Natural,,
+Mississippi,SMCI,2018,August,2018-08-04,,,,168834,,M,,,Homicide,,
+Mississippi,MSP,2018,August,2018-08-04,,,,87788,,M,,,Natural,,
+Mississippi,CMCF,2018,August,2018-08-05,,,,216431,,M,,,Natural,,
+Mississippi,SMCI,2018,August,2018-08-05,,,,30678,,M,,,Natural,,
+Mississippi,CMCF,2018,August,2018-08-11,,,,37121,,M,,,Natural,,
+Mississippi,MSP,2018,August,2018-08-15,,,,123900,,M,,,Natural,,
+Mississippi,MSP,2018,August,2018-08-18,,,,O9583,,M,,,Natural,,
+Mississippi,CMCF,2018,August,2018-08-20,,,,F32678,,M,,,Natural,,
+Mississippi,WCCF,2018,August,2018-08-20,,,,206000,,M,,,Homicide,,
+Mississippi,CMCF,2018,August,2018-08-24,,,,118039,,F,,,Natural,,
+Mississippi,CMCF,2018,August,2018-08-27,,,,K2230,,M,,,Natural,,
+Mississippi,SMCI,2018,August,2018-08-28,,,,213763,,M,,,Natural,,
+Mississippi,MSP,2018,August,2018-08-28,,,,136425,,M,,,Natural,,
+Mississippi,SMCI,2018,August,2018-08-30,,,,42069,,M,,,Natural,,
+Mississippi,MSP,2018,August,2018-08-31,,,,79532,,M,,,Natural,,
+Mississippi,CMCF,2018,September,2018-09-04,,,,O6559,,M,,,Natural,,
+Mississippi,MSP,2018,September,2018-09-10,,,,41110,,M,,,Natural,,
+Mississippi,MSP,2018,September,2018-09-15,,,,30292,,M,,,Natural,,
+Mississippi,MSP,2018,September,2018-09-17,,,,90569,,M,,,Natural,,
+Mississippi,MCCF,2018,September,2018-09-18,,,,97239,,M,,,Natural,,
+Mississippi,MSP,2018,October,2018-10-16,,,,197589,,M,,,Natural,,
+Mississippi,MSP,2018,October,2018-10-19,,,,74146,,M,,,Natural,,
+Mississippi,CMCF,2018,November,2018-11-06,,,,45682,,F,,,Natural,,
+Mississippi,CMCF,2018,November,2018-11-11,,,,60535,,M,,,Natural,,
+Mississippi,CMCF,2018,November,2018-11-15,,,,44770,,M,,,Natural,,
+Mississippi,CMCF,2018,November,2018-11-16,,,,L3993,,M,,,Natural,,
+Mississippi,CMCF,2018,November,2018-11-23,,,,47756,,M,,,Natural,,
+Mississippi,MSP,2018,November,2018-11-23,,,,48928,,M,,,Natural,,
+Mississippi,MSP,2018,November,2018-11-29,,,,K7577,,M,,,Natural,,
+Mississippi,CMCF,2018,December,2018-12-04,,,,26675,,M,,,Natural,,
+Mississippi,CMCF,2018,December,2018-12-04,,,,211577,,M,,,Suicide,,
+Mississippi,CMCF,2018,December,2018-12-11,,,,K4041,,F,,,Natural,,
+Mississippi,MSP,2018,December,2018-12-21,,,,133009,,M,,,Natural,,
+Mississippi,MSP,2018,December,2018-12-28,,,,205771,,M,,,Suicide,,
+Mississippi,CMCF,2019,January,2019-01-15,,,,63139,,M,,,Natural,,
+Mississippi,EMCF,2019,January,2019-01-19,,,,K8192,,M,,,Suicide,,
+Mississippi,MCCF,2019,January,2019-01-31,,,,44506,,M,,,Natural,,
+Mississippi,CMCF,2019,February,2019-02-09,,,,30461,,M,,,Natural,,
+Mississippi,CMCF,2019,February,2019-02-24,,,,L2818,,M,,,Natural,,
+Mississippi,MADISON CWC,2019,March,2019-03-02,,,,R6865,,M,,,Natural,,
+Mississippi,MSP,2019,March,2019-03-11,,,,90108,,M,,,Natural,,
+Mississippi,MSP,2019,March,2019-03-12,,,,O4569,,M,,,Natural,,
+Mississippi,SMCI,2019,March,2019-03-22,,,,39565,,M,,,Natural,,
+Mississippi,MSP,2019,March,2019-03-25,,,,79276,,M,,,Natural,,
+Mississippi,MSP,2019,March,2019-03-28,,,,215838,,M,,,Natural,,
+Mississippi,MSP,2019,March,2019-03-31,,,,44187,,M,,,Natural,,
+Mississippi,MSP,2019,April,2019-04-01,,,,55684,,M,,,Natural,,
+Mississippi,MSP,2019,April,2019-04-02,,,,42239,,M,,,Natural,,
+Mississippi,MSP,2019,April,2019-04-04,,,,8108,,M,,,Suicide,,
+Mississippi,SMCI,2019,April,2019-04-10,,,,207735,,M,,,Natural,,
+Mississippi,MSP,2019,April,2019-04-13,,,,190693,,M,,,Natural,,
+Mississippi,MSP,2019,April,2019-04-21,,,,25582,,M,,,Natural,,
+Mississippi,SMCI,2019,April,2019-04-26,,,,119017,,M,,,Natural,,
+Mississippi,CMCF,2019,May,2019-05-02,,,,19792,,M,,,Natural,,
+Mississippi,CMCF,2019,May,2019-05-02,,,,164371,,M,,,Natural,,
+Mississippi,MSP,2019,May,2019-05-05,,,,39729,,M,,,Suicide,,
+Mississippi,CMCF,2019,May,2019-05-06,,,,K0691,,M,,,Natural,,
+Mississippi,MSP,2019,May,2019-05-16,,,,26259,,M,,,Natural,,
+Mississippi,SMCI,2019,May,2019-05-24,,,,20219,,M,,,Natural,,
+Mississippi,CMCF,2019,June,2019-06-01,,,,33526,,M,,,Natural,,
+Mississippi,CMCF,2019,June,2019-06-04,,,,L1674,,M,,,Natural,,
+Mississippi,MSP,2019,June,2019-06-04,,,,73078,,M,,,Natural,,
+Mississippi,WCCF,2019,June,2019-06-06,,,,46293,,M,,,Suicide,,
+Mississippi,CMCF,2019,June,2019-06-06,,,,176337,,M,,,Natural,,
+Mississippi,CMCF,2019,June,2019-06-07,,,,19078,,M,,,Natural,,
+Mississippi,CMCF,2019,June,2019-06-10,,,,11457,,M,,,Natural,,
+Mississippi,EMCF,2019,June,2019-06-20,,,,209917,,M,,,Natural,,
+Mississippi,GCCF,2019,June,2019-06-20,,,,94141,,M,,,Natural,,
+Mississippi,MSP,2019,July,2019-07-06,,,,114697,,M,,,Suicide,,
+Mississippi,CMCF,2019,July,2019-07-07,,,,186291,,F,,,Natural,,
+Mississippi,MSP,2019,July,2019-07-09,,,,K1536,,M,,,Natural,,
+Mississippi,MSP,2019,July,2019-07-10,,,,76560,,M,,,Natural,,
+Mississippi,MSP,2019,July,2019-07-10,,,,119644,,M,,,Homicide,,
+Mississippi,MSP,2019,July,2019-07-13,,,,111487,,M,,,Natural,,
+Mississippi,MSP,2019,July,2019-07-16,,,,41165,,M,,,Natural,,
+Mississippi,MSP,2019,July,2019-07-18,,,,174262,,M,,,Natural,,
+Mississippi,CMCF,2019,July,2019-07-31,,,,38918,,M,,,Natural,,
+Mississippi,CMCF,2019,July,2019-07-31,,,,196328,,M,,,Natural,,
+Mississippi,MSP,2019,August,2019-08-05,,,,167937,,M,,,Suicide,,
+Mississippi,CMCF,2019,August,2019-08-06,,,,100821,,F,,,Natural,,
+Mississippi,CMCF,2019,August,2019-08-13,,,,29064,,F,,,Natural,,
+Mississippi,MCCF,2019,August,2019-08-25,,,,179864,,M,,,Suicide,,
+Mississippi,MSP,2019,September,2019-09-03,,,,K3789,,M,,,Natural,,
+Mississippi,MSP,2019,September,2019-09-07,,,,49530,,M,,,Natural,,
+Mississippi,WCCF,2019,September,2019-09-10,,,,K3142,,M,,,Natural,,
+Mississippi,CMCF,2019,September,2019-09-10,,,,45540,,M,,,Natural,,
+Mississippi,MSP,2019,September,2019-09-22,,,,102210,,M,,,Natural,,
+Mississippi,MSP,2019,September,2019-09-25,,,,34858,,M,,,Natural,,
+Mississippi,MSP,2019,October,2019-10-07,,,,R3852,,M,,,Natural,,
+Mississippi,MSP,2019,October,2019-10-15,,,,132165,,M,,,Natural,,
+Mississippi,ISSA,2019,October,2019-10-28,,,,K3386,,M,,,Natural,,
+Mississippi,CMCF,2019,October,2019-10-29,,,,134245,,M,,,Suicide,,
+Mississippi,CMCF,2019,November,2019-11-06,,,,35426,,M,,,Natural,,
+Mississippi,MSP,2019,November,2019-11-12,,,,152814,,M,,,Homicide,,
+Mississippi,MSP,2019,November,2019-11-14,,,,57484,,M,,,Natural,,
+Mississippi,MSP,2019,November,2019-11-19,,,,191071,,M,,,Homicide,,
+Mississippi,MSP,2019,November,2019-11-19,,,,140989,,M,,,Suicide,,
+Mississippi,EMCF,2019,November,2019-11-20,,,,M1936,,M,,,Suicide,,
+Mississippi,CMCF,2019,November,2019-11-21,,,,R5135,,M,,,Natural,,
+Mississippi,DELTA TVC,2019,December,2019-12-04,,,,K5339,,M,,,Suicide,,
+Mississippi,MSP,2019,December,2019-12-08,,,,44774,,M,,,Natural,,
+Mississippi,MSP,2019,December,2019-12-08,,,,103453,,M,,,Suicide,,
+Mississippi,CMCF,2019,December,2019-12-08,,,,53566,,M,,,Natural,,
+Mississippi,CMCF,2019,December,2019-12-09,,,,116093,,M,,,Natural,,
+Mississippi,CMCF,2019,December,2019-12-12,,,,214106,,F,,,Natural,,
+Mississippi,MSP,2019,February,2020-02-20,,,,193750,,M,,,Natural,,
+Mississippi,CMCF,2019,December,2019-12-27,,,,186582,,M,,,Natural,,
+Mississippi,SMCI,2019,December,2019-12-29,,,,R5089,,M,,,Homicide,,
+Mississippi,MSP,2020,January,2020-01-01,,,,167898,,M,,,Homicide,,
+Mississippi,CCRCF,2020,January,2020-01-02,,,,206298,,M,,,Homicide,,
+Mississippi,MSP,2020,January,2020-01-02,,,,156185,,M,,,Homicide,,
+Mississippi,MSP,2020,January,2020-01-03,,,,179470,,M,,,Homicide,,
+Mississippi,MSP,2020,January,2020-01-08,,,,K4561,,M,,,Natural,,
+Mississippi,MSP,2020,January,2020-01-18,,,,175104,,M,,,Suicide,,
+Mississippi,MSP,2020,January,2020-01-21,,,,103739,,M,,,Homicide,,
+Mississippi,MSP,2020,January,2020-01-21,,,,111173,,M,,,Homicide,,
+Mississippi,MSP,2020,January,2020-01-22,,,,193704,,M,,,Suicide,,
+Mississippi,MCCF,2020,January,2020-01-25,,,,163151,,M,,,Natural,,
+Mississippi,MSP,2020,January,2020-01-26,,,,171262,,M,,,Suicide,,
+Mississippi,KCCF,2020,January,2020-01-28,,,,223305,,M,,,Natural,,
+Mississippi,MCCF,2020,January,2020-01-30,,,,46190,,M,,,Natural,,
+Mississippi,WCCF,2020,February,2020-02-01,,,,118130,,M,,,Accident,,
+Mississippi,MSP,2020,February,2020-02-10,,,,56962,,M,,,Natural,,
+Mississippi,WALTHALL CJ,2020,February,2020-02-11,,,,56519,,M,,,Natural,,
+Mississippi,CMCF,2020,February,2020-02-15,,,,21391,,M,,,Natural,,
+Mississippi,CMCF,2020,February,2020-02-16,,,,55271,,M,,,Natural,,
+Mississippi,CMCM,2020,February,2020-02-26,,,,221215,,M,,,Natural,,
+Mississippi,MSP,2020,February,2020-02-27,,,,139210,,M,,,Natural,,
+Mississippi,MSP,2020,February,2020-02-28,,,,K5328,,M,,,Natural,,
+Mississippi,CMCF,2020,March,2020-03-02,,,,r4475,,F,,,Natural,,
+Mississippi,CMCF,2020,March,2020-03-04,,,,75296,,M,,,Natural,,
+Mississippi,MSP,2020,March,2020-03-04,,,,R1031,,M,,,Natural,,
+Mississippi,MSP,2020,March,2020-03-07,,,,94193,,M,,,Natural,,
+Mississippi,CMCF,2020,March,2020-03-09,,,,168115,,M,,,Natural,,
+Mississippi,MSP,2020,March,2020-03-12,,,,120320,,M,,,Natural,,
+Mississippi,MSP,2020,March,2020-03-19,,,,145403,,M,,,Natural,,
+Mississippi,SMCI,2020,March,2020-03-21,,,,97029,,M,,,Suicide,,
+Mississippi,SMCI,2020,March,2020-03-31,,,,62197,,M,,,Natural,,
+Mississippi,WCCF,2020,April,2020-04-01,,,,85274,,M,,,Homicide,,
+Mississippi,CMCF,2020,April,2020-04-06,,,,159107,,F,,,Natural,,
+Mississippi,MSP,2020,April,2020-04-11,,,,30516,,M,,,Natural,,
+Mississippi,MSP,2020,April,2020-04-18,,,,N1980,,M,,,Natural,,
+Mississippi,MSP,2020,April,2020-04-23,,,,34228,,M,,,Natural,,
+Mississippi,CMCF,2020,April,2020-04-30,,,,130249,,M,,,Natural,,
+Mississippi,SMCI,2020,May,2020-05-02,,,,137960,,M,,,Natural,,
+Mississippi,MSP,2020,May,2020-05-04,,,,42047,,M,,,Natural,,
+Mississippi,MSP,2020,May,2020-05-11,,,,179526,,M,,,Natural,,
+Mississippi,MSP,2020,May,2020-05-12,,,,145597,,M,,,Natural,,
+Mississippi,CMCF,2020,May,2020-05-16,,,,50131,,M,,,Natural,,
+Mississippi,CMCF,2020,May,2020-05-18,,,,117043,,M,,,Natural,,
+Mississippi,SMCI,2020,May,2020-05-30,,,,O4466,,M,,,Natural,,
+Mississippi,MSP,2020,June,2020-06-01,,,,61845,,M,,,Natural,,
+Mississippi,MCMCF,2020,June,2020-06-06,,,,33279,,M,,,Natural,,
+Mississippi,CMCF,2020,June,2020-06-07,,,,190938,,F,,,Natural,,
+Mississippi,WCCF,2020,June,2020-06-15,,,,147949,,M,,,Natural,,
+Mississippi,CMRCF,2020,June,2020-06-19,,,,210636,,M,,,Suicide,,
+Mississippi,CMCF,2020,June,2020-06-27,,,,R8965,,M,,,Natural,,
+Mississippi,CMCF,2020,July,2020-07-01,,,,R0283,,M,,,Natural,,
+Mississippi,MSP,2020,July,2020-07-08,,,,31948,,M,,,Natural,,
+Mississippi,MSP,2020,July,2020-07-12,,,,44870,,M,,,Natural,,
+Mississippi,TCCF,2020,July,2020-07-14,,,,177524,,M,,,Suicide,,
+Mississippi,SMCI,2020,July,2020-07-22,,,,142112,,M,,,Natural,,
+Mississippi,SMCI,2020,August,2020-08-02,,,,T2244,,M,,,Natural,,
+Mississippi,CMCF,2020,August,2020-08-07,,,,31892,,M,,,Natural,,
+Mississippi,MSP,2020,August,2020-08-07,,,,45748,,M,,,Natural,,
+Mississippi,MSP,2020,August,2020-08-08,,,,56747,,M,,,Natural,,
+Mississippi,GEORGE CCF,2020,August,2020-08-08,,,,217254,,M,,,Natural,,
+Mississippi,MSP,2020,August,2020-08-14,,,,136799,,M,,,Natural,,
+Mississippi,TCCT,2020,August,2020-08-14,,,,168408,,M,,,Homicide,,
+Mississippi,MSP,2020,August,2020-08-15,,,,T0274,,M,,,Natural,,
+Mississippi,MSP,2020,August,2020-08-16,,,,193526,,M,,,Natural,,
+Mississippi,CMCF,2020,August,2020-08-19,,,,156315,,M,,,Natural,,
+Mississippi,MSP,2020,August,2020-08-19,,,,148476,,M,,,Natural,,
+Mississippi,MSP,2020,August,2020-08-19,,,,45026,,M,,,Natural,,
+Mississippi,SMCI,2020,August,2020-08-19,,,,K9289,,M,,,Natural,,
+Mississippi,CMCF,2020,August,2020-08-24,,,,172033,,M,,,Natural,,
+Mississippi,CMCF,2020,August,2020-08-24,,,,158386,,M,,,Natural,,
+Mississippi,CMCF,2020,August,2020-08-24,,,,N4635,,M,,,Natural,,
+Mississippi,CMCF,2020,August,2020-08-25,,,,56705,,M,,,Natural,,
+Mississippi,MSP,2020,August,2020-08-30,,,,K3887,,M,,,Natural,,
+Mississippi,CMCF,2020,September,2020-09-02,,,,178641,,M,,,Natural,,
+Mississippi,CMCF,2020,September,2020-09-06,,,,44482,,M,,,Natural,,
+Mississippi,CMCF,2020,September,2020-09-08,,,,L4500,,M,,,Natural,,
+Mississippi,CMCF,2020,September,2020-09-14,,,,L4658,,M,,,Natural,,
+Mississippi,FED. CUST.,2020,September,2020-09-19,,,,K3739,,M,,,Natural,,
+Mississippi,MSP,2020,September,2020-09-20,,,,32015,,M,,,Natural,,
+Mississippi,MSP,2020,September,2020-09-22,,,,101223,,M,,,Natural,,
+Mississippi,MSP,2020,September,2020-09-25,,,,145446,,M,,,Natural,,
+Mississippi,EMCF,2020,September,2020-09-25,,,,78680,,M,,,Natural,,
+Mississippi,MSP,2020,October,2020-10-04,,,,141851,,M,,,Homicide,,
+Mississippi,CMCF,2020,October,2020-10-06,,,,221264,,M,,,Natural,,
+Mississippi,CMCF,2020,October,2020-10-12,,,,K6264,,F,,,Natural,,
+Mississippi,SMCI,2020,October,2020-10-16,,,,147194,,M,,,Natural,,
+Mississippi,CMCF,2020,October,2020-10-16,,,,112301,,M,,,Natural,,
+Mississippi,CMCF,2020,October,2020-10-20,,,,31191,,M,,,Natural,,
+Mississippi,CMCF,2020,October,2020-10-20,,,,K2363,,M,,,Natural,,
+Mississippi,MSP,2020,October,2020-10-22,,,,179145,,M,,,Natural,,
+Mississippi,CMCF,2020,October,2020-10-23,,,,81826,,M,,,Natural,,
+Mississippi,MSP,2020,October,2020-10-25,,,,187462,,M,,,Suicide,,
+Mississippi,CMCF,2020,October,2020-10-27,,,,179878,,M,,,Natural,,
+Mississippi,CMCF,2020,November,2020-11-05,,,,K6712,,M,,,Natural,,
+Mississippi,GCCF,2020,November,2020-11-05,,,,213859,,M,,,Natural,,
+Mississippi,MSP,2020,November,2020-11-14,,,,202117,,M,,,Natural,,
+Mississippi,MSP,2020,November,2020-11-25,,,,159169,,M,,,Undetermined,,
+Mississippi,SMCI,2020,December,2020-12-01,,,,N5750,,M,,,Undetermined,,
+Mississippi,MSP,2020,December,2020-12-09,,,,52009,,M,,,Undetermined,,
+Mississippi,ALCORN CJ,2020,December,2020-12-10,,,,204637,,M,,,Undetermined,,
+Mississippi,SMCI,2020,December,2020-12-16,,,,74666,,M,,,Undetermined,,
+Mississippi,MSP,2020,December,2020-12-18,,,,R1489,,M,,,Undetermined,,
+Mississippi,MSP,2020,December,2020-12-19,,,,44851,,M,,,Undetermined,,
+Mississippi,EMCF,2020,December,2020-12-21,,,,49601,,M,,,Undetermined,,
+Mississippi,EMCF,2020,December,2020-12-20,,,,80271,,M,,,Undetermined,,
+Mississippi,EMCF,2020,December,2020-12-21,,,,49601,,M,,,Undetermined,,
+Mississippi,CMCF,2020,December,2020-12-22,,,,123334,,M,,,Undetermined,,
+Mississippi,SMCI,2020,December,2020-12-25,,,,R2428,,M,,,Undetermined,,
+Mississippi,MSP,2020,December,2020-12-26,,,,153558,,M,,,Undetermined,,
+Mississippi,EMCF,2020,December,2020-12-28,,,,103828,,M,,,Undetermined,,
