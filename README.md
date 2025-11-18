@@ -73,7 +73,7 @@ As the project conducted data validation efforts it made decisions as to how to 
 
 Reasons for differences and manipulation steps:
 
-| Prison Agency | Reasons for Differences | Mainuplation Made |
+| Prison Agency | Reasons for Differences | Manipulation Made |
 |---------------|------------------------------------------|---------------|
 | California | Undetermined | None |
 | Colorado | CDOC reported more types of deaths to BJS than deaths in CO prisons (i.e. fugitives, supervision programs) | None |
